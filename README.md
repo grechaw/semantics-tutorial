@@ -19,7 +19,7 @@ make deploy
 
 After this, you can look at the application at
 
-http://localhost:8000/v1/resources/html?index.html
+http://localhost:8000/v1/resources/html?rs:uri=index.html
 
 The architecture of this app consists of N combinations of pages and extensions, with an index.html to tie them together.
 
