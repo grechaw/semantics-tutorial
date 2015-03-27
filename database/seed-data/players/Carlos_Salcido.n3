@@ -1,0 +1,356 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Carlos_Salcido	owl:sameAs	dbpedia:Carlos_Salcido .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Carlos_Salcido	owl:sameAs	dbpedia:Carlos_Salcido .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q208689	owl:sameAs	dbpedia:Carlos_Salcido .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Carlos_Salcido	owl:sameAs	dbpedia:Carlos_Salcido .
+@prefix ns6:	<http://id.dbpedia.org/resource/> .
+ns6:Carlos_Salcido	owl:sameAs	dbpedia:Carlos_Salcido .
+@prefix ns7:	<http://it.dbpedia.org/resource/> .
+ns7:Carlos_Salcido	owl:sameAs	dbpedia:Carlos_Salcido .
+@prefix ns8:	<http://ja.dbpedia.org/resource/> .
+ns8:カルロス・サルシド	owl:sameAs	dbpedia:Carlos_Salcido .
+@prefix ns9:	<http://ko.dbpedia.org/resource/> .
+ns9:카를로스_살시도	owl:sameAs	dbpedia:Carlos_Salcido .
+@prefix ns10:	<http://nl.dbpedia.org/resource/> .
+ns10:Carlos_Salcido	owl:sameAs	dbpedia:Carlos_Salcido .
+@prefix ns11:	<http://pl.dbpedia.org/resource/> .
+ns11:Carlos_Salcido	owl:sameAs	dbpedia:Carlos_Salcido .
+@prefix ns12:	<http://pt.dbpedia.org/resource/> .
+ns12:Carlos_Salcido	owl:sameAs	dbpedia:Carlos_Salcido .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2011_Primera_Divisi%C3%B3n_de_M%C3%A9xico_Apertura_Liguilla_Final>	dbpprop:away7player	dbpedia:Carlos_Salcido ;
+	dbpprop:home7player	dbpedia:Carlos_Salcido .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Tigres_UANL__Carlos_Salcido__1	dbpedia-owl:currentMember	dbpedia:Carlos_Salcido .
+dbpedia:Tigres_UANL	dbpprop:name	dbpedia:Carlos_Salcido ;
+	dbpprop:lcm	dbpedia:Carlos_Salcido .
+dbpedia:Mexico_national_football_team	dbpprop:name	dbpedia:Carlos_Salcido .
+dbpedia:List_of_Mexican_football_transfers_summer_2011	dbpprop:name	dbpedia:Carlos_Salcido ;
+	dbpedia-owl:currentMember	dbpedia:Carlos_Salcido .
+dbpedia:Mexico_at_the_2012_Summer_Olympics	dbpprop:r3c	dbpedia:Carlos_Salcido .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns16:	<http://en.wikipedia.org/wiki/> .
+ns16:Carlos_Salcido	foaf:primaryTopic	dbpedia:Carlos_Salcido .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Carlos_Salcido	rdf:type	yago:ExpatriateFootballersInTheNetherlands ,
+		yago:EredivisiePlayers ,
+		yago:ChivasDeGuadalajaraFootballers ,
+		<http://dbpedia.org/class/yago/2011CONCACAFGoldCupPlayers> ,
+		yago:ExpatriateFootballersInEngland ,
+		owl:Thing ,
+		yago:Exile110071332 ,
+		ns4:Q215627 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		<http://dbpedia.org/class/yago/FulhamF.C.Players> .
+@prefix ns19:	<http://schema.org/> .
+dbpedia:Carlos_Salcido	rdf:type	ns19:Person .
+@prefix ns20:	<http://umbel.org/umbel/rc/> .
+dbpedia:Carlos_Salcido	rdf:type	ns20:SoccerPlayer ,
+		yago:PhysicalEntity100001930 ,
+		yago:FootballPlayer110101634 ,
+		yago:PeopleFromJalisco ,
+		<http://dbpedia.org/class/yago/2006FIFAWorldCupPlayers> ,
+		dbpedia-owl:Athlete ,
+		yago:Athlete109820263 ,
+		yago:Player110439851 ,
+		yago:MexicanExpatriates ,
+		yago:MexicanExpatriatesInTheNetherlands ,
+		yago:PremierLeaguePlayers ,
+		yago:Object100002684 ,
+		yago:Whole100003553 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Carlos_Salcido	rdf:type	dul:NaturalPerson ,
+		dul:Agent ,
+		yago:PSVEindhovenPlayers ,
+		ns4:Q5 ,
+		foaf:Person ,
+		dbpedia-owl:Person ,
+		dbpedia-owl:Agent ,
+		yago:Contestant109613191 ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:Preserver110466918 ,
+		yago:MexicanExpatriatesInTheUnitedKingdom ,
+		yago:MexicanFootballers ,
+		yago:Defender109614684 ,
+		yago:MexicoInternationalFootballers ,
+		yago:AssociationFootballDefenders ,
+		yago:YagoLegalActor ,
+		<http://dbpedia.org/class/yago/PrimeraDivisi%C3%B3nDeM%C3%A9xicoPlayers> ,
+		yago:LivingPeople ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:MexicanExpatriateFootballers ,
+		yago:TigresDeLaUANLFootballers ,
+		<http://dbpedia.org/class/yago/2005CONCACAFGoldCupPlayers> ,
+		<http://dbpedia.org/class/yago/2007CONCACAFGoldCupPlayers> ,
+		<http://dbpedia.org/class/yago/2005FIFAConfederationsCupPlayers> ;
+	owl:sameAs	ns11:Carlos_Salcido ,
+		ns6:Carlos_Salcido ,
+		dbpedia:Carlos_Salcido .
+@prefix ns22:	<http://nn.dbpedia.org/resource/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns22:Carlos_Salcido .
+@prefix ns23:	<http://he.dbpedia.org/resource/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns23:קרלוס_סלסידו .
+@prefix ns24:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns24:كارلوس_سالسيدو .
+@prefix ns25:	<http://la.dbpedia.org/resource/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns25:Carolus_Salcido ,
+		ns5:Carlos_Salcido ,
+		<http://rdf.freebase.com/ns/m.06rjxg> .
+@prefix ns26:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns26:Карлос_Сальсідо ,
+		ns8:カルロス・サルシド .
+@prefix ns27:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns27:Carlos_Salcido .
+@prefix ns28:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns28:Carlos_Salcido .
+@prefix ns29:	<http://be_x_old.dbpedia.org/resource/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns29:Карляс_Сальсыда .
+@prefix ns30:	<http://bg.dbpedia.org/resource/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns30:Карлос_Салсидо .
+@prefix ns31:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns31:Carlos_Salcido ,
+		ns9:카를로스_살시도 ,
+		ns12:Carlos_Salcido .
+@prefix ns32:	<http://mn.dbpedia.org/resource/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns32:Карлос_Сальсидо .
+@prefix ns33:	<http://yago-knowledge.org/resource/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns33:Carlos_Salcido .
+@prefix ns34:	<http://am.dbpedia.org/resource/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns34:ካርሎስ_ሳልሲዶ ,
+		ns10:Carlos_Salcido .
+@prefix ns35:	<http://no.dbpedia.org/resource/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns35:Carlos_Salcido .
+@prefix ns36:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns36:Carlos_Salcido ,
+		<http://ru.dbpedia.org/resource/\u0421\u0430\u043B\u044C\u0441\u0438\u0434\u043E,_\u041A\u0430\u0440\u043B\u043E\u0441> ,
+		ns4:Q208689 .
+@prefix ns37:	<http://wikidata.org/entity/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns37:Q208689 .
+@prefix ns38:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns38:Carlos_Salcido .
+@prefix ns39:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns39:卡路士·沙斯度 .
+@prefix ns40:	<http://ca.dbpedia.org/resource/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns40:Carlos_Arnoldo_Salcido_Flores ,
+		ns1:Carlos_Salcido ,
+		ns7:Carlos_Salcido ,
+		ns3:Carlos_Salcido .
+@prefix ns41:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns41:कार्लोस_साल्सिदो .
+@prefix ns42:	<http://da.dbpedia.org/resource/> .
+dbpedia:Carlos_Salcido	owl:sameAs	ns42:Carlos_Salcido .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Carlos_Salcido	rdfs:label	"Carlos Salcido"@es ,
+		"\u30AB\u30EB\u30ED\u30B9\u30FB\u30B5\u30EB\u30B7\u30C9"@ja ,
+		"\u5361\u8DEF\u58EB\u00B7\u6C99\u65AF\u5EA6"@zh ,
+		"Carlos Salcido"@nl ,
+		"Carlos Salcido"@de ,
+		"Carlos Salcido"@pl ,
+		"Carlos Salcido"@fr ,
+		"\u0643\u0627\u0631\u0644\u0648\u0633 \u0633\u0627\u0644\u0633\u064A\u062F\u0648"@ar ,
+		"\u0421\u0430\u043B\u044C\u0441\u0438\u0434\u043E, \u041A\u0430\u0440\u043B\u043E\u0441"@ru ,
+		"Carlos Salcido" ,
+		"Carlos Salcido"@it ,
+		"Carlos Salcido"@pt .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+dbpedia:Carlos_Salcido	dcterms:subject	<http://dbpedia.org/resource/Category:2007_CONCACAF_Gold_Cup_players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Carlos_Salcido	dcterms:subject	category:Premier_League_players ,
+		<http://dbpedia.org/resource/Category:2005_CONCACAF_Gold_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2005_FIFA_Confederations_Cup_players> ,
+		category:People_from_Jalisco ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2006_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2011_CONCACAF_Gold_Cup_players> ,
+		category:Eredivisie_players ,
+		category:Expatriate_footballers_in_the_Netherlands ,
+		category:Mexico_international_footballers ,
+		category:Mexican_expatriate_footballers ,
+		category:Olympic_footballers_of_Mexico ,
+		<http://dbpedia.org/resource/Category:C.D._Guadalajara_footballers> ,
+		category:Tigres_UANL_footballers ,
+		category:PSV_Eindhoven_players ,
+		category:Mexican_footballers ,
+		category:Footballers_at_the_2012_Summer_Olympics ,
+		category:Medalists_at_the_2012_Summer_Olympics ,
+		category:FIFA_Century_Club ,
+		category:Olympic_medalists_in_football ,
+		category:Association_football_defenders ,
+		category:Expatriate_footballers_in_England ,
+		<http://dbpedia.org/resource/Category:2013_FIFA_Confederations_Cup_players> ,
+		<http://dbpedia.org/resource/Category:1980_births> ,
+		category:Mexican_expatriates_in_the_United_Kingdom ,
+		<http://dbpedia.org/resource/Category:Fulham_F.C._players> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Liga_MX_footballers ,
+		category:Indigenous_Mexicans ,
+		category:Olympic_gold_medalists_for_Mexico ,
+		category:CONCACAF_Gold_Cup-winning_players ,
+		category:Mexican_expatriates_in_the_Netherlands ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Carlos-salcido.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Carlos_Salcido	dc:description	"Footballer" ,
+		"Footballer" ;
+	foaf:givenName	"Carlos" ;
+	foaf:name	"Salcido, Carlos" ,
+		"Carlos Arnoldo Salcido Flores" ,
+		"Carlos Salcido" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Carlos_Salcido	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Carlos_Salcido?oldid=603552719> ;
+	rdfs:comment	"Carlos Arnoldo Salcido Flores, plus connu sous le nom de Carlos Salcido, n\u00E9 le 2 avril 1980 \u00E0 Ocotl\u00E1n (Drapeau du Mexique Mexique), est un footballeur mexicain. Il \u00E9volue au poste de d\u00E9fenseur."@fr ,
+		"Carlos Arnoldo Salcido Flores (Ocotl\u00E1n, 2 de Abril de 1980), tamb\u00E9m conhecido por \"Salsita\", \u00E9 um futebolista mexicano que atualmente joga no Tigres como defesa-central.Iniciou sua carreira no Chivas Guadalajara e fez a sua estr\u00E9ia na Campeonato Mexicano de Futebol em 22 de Julho de 2001 num jogo contra o La Piedad que terminou num empate em 1-1."@pt ,
+		"\u5361\u8DEF\u58EB\u00B7\u827E\u6717\u5EA6\u00B7\u6C99\u65AF\u5EA6\u00B7\u79D1\u91CC\u65AF\uFF08\u897F\u73ED\u7259\u8BED\uFF1ACarlos Arnoldo Salcido Flores\uFF0C1980\u5E744\u67082\u65E5\uFF0D\uFF09\uFF0C\u58A8\u897F\u54E5\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u53F8\u8077\u5DE6\u9598\uFF0C\u73FE\u6642\u6548\u529B\u58A8\u897F\u54E5\u8DB3\u7403\u7532\u7EA7\u8054\u8D5B\u7403\u6703\u8001\u864E\u968A\u3002"@zh ,
+		"Carlos Arnoldo Salcido Flores (Ocotl\u00E1n, 2 aprile 1980) \u00E8 un calciatore messicano, difensore sinistro del Tigres, in prestito dal Fulham, e della Nazionale messicana."@it ,
+		"\u0643\u0627\u0631\u0644\u0648\u0633 \u0623\u0631\u0646\u0648\u0644\u062F\u0648 \u0633\u0627\u0644\u0633\u064A\u062F\u0648 \u0641\u0644\u0648\u0631\u064A\u0633 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: Carlos Arnoldo Salcido Flores) (\u0645\u0648\u0627\u0644\u064A\u062F 2 \u0623\u0628\u0631\u064A\u0644 1980 \u0641\u064A \u0623\u0648\u0643\u0648\u062A\u0644\u0627\u0646) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0645\u0643\u0633\u064A\u0643\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0641\u064A \u0646\u0627\u062F\u064A \u0622\u064A\u0646\u062F\u0647\u0648\u0641\u0646 \u0627\u0644\u0647\u0648\u0644\u0646\u062F\u064A ."@ar ,
+		"Carlos Arnoldo Salcido Flores (* 2. April 1980 in Ocotl\u00E1n, Jalisco) ist ein mexikanischer Fu\u00DFballspieler, der seit 2010 beim englischen Premier League Klub FC Fulham unter Vertrag steht. Momentan spielt er auf Leihbasis bei UANL Tigres. Der 177 cm gro\u00DFe Abwehrspieler ist auch langj\u00E4hriger Nationalspieler Mexikos. In seinem Heimatland Mexiko ist Salcido vor allem durch seine aggressive, jedoch stets faire Spielweise bekannt geworden."@de ,
+		"Carlos Arnoldo Salcido Flores (Ocotl\u00E1n, Jalisco, M\u00E9xico, 2 de abril de 1980) es un futbolista mexicano. Juega de mediocampista de contenci\u00F3n y su actual equipo es el Tigres UANL. Tambi\u00E9n es un miembro regular de la Selecci\u00F3n de f\u00FAtbol de M\u00E9xico"@es ,
+		"\u041A\u0430\u0301\u0440\u043B\u043E\u0441 \u0410\u0440\u043D\u043E\u0301\u043B\u044C\u0434\u043E \u0421\u0430\u043B\u044C\u0441\u0438\u0301\u0434\u043E \u0424\u043B\u043E\u0301\u0440\u0435\u0441 (\u0438\u0441\u043F. Carlos Arnoldo Salcido Flores; 2 \u0430\u043F\u0440\u0435\u043B\u044F 1980, \u041E\u043A\u043E\u0442\u043B\u0430\u043D, \u0425\u0430\u043B\u0438\u0441\u043A\u043E) \u2014 \u043C\u0435\u043A\u0441\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0423\u0410\u041D\u041B \u0422\u0438\u0433\u0440\u0435\u0441\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041C\u0435\u043A\u0441\u0438\u043A\u0438."@ru ,
+		"Carlos Arnoldo Salcido Flores (Ocotl\u00E1n, 2 april 1980) is een Mexicaans profvoetballer die meestal speelt als centrale verdediger of linksback. Sinds augustus 2011 speelt Salcido voor het Mexicaanse Tigres de la UANL. In 2004 debuteerde hij in het Mexicaans voetbalelftal, waarvoor hij inmiddels al meer dan 100 interlands speelde."@nl ,
+		"Carlos Arnoldo Salcido Flores (ur. 2 kwietnia 1980 w Ocotl\u00E1n) \u2013 meksyka\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji lewego obro\u0144cy lub defensywnego pomocnika, obecnie zawodnik Tigres UANL.Jest wychowankiem Chivas de Guadalajara, dla kt\u00F3rego przez pi\u0119\u0107 lat rozegra\u0142 105 ligowych pojedynk\u00F3w. Latem 2006 zosta\u0142 pi\u0142karzem holenderskiego PSV Eindhoven. Jego zatrudnieniem interesowa\u0142 si\u0119 tak\u017Ce angielski Arsenal. Razem z PSV Salcido w sezonach 2006/2007 i 2007/2008 zdoby\u0142 mistrzostwo Holandii."@pl ,
+		"Carlos Arnoldo Salcido Flores (born 2 April 1980 in Ocotl\u00E1n, Jalisco) is a Mexican international football defender who currently plays for Liga MX club Tigres UANL and the Mexican National Team, mainly as a center midfielder.Salcido has previously played with Guadalajara, Fulham and PSV Eindhoven, where he was the first Mexican player to be champion in the Eredivise.Salcido debuted with the Mexico national team in 2004, and has appeared at the 2006 and the 2010 FIFA World Cups, where he played in all of Mexico's matches. " ,
+		"\u30AB\u30EB\u30ED\u30B9\u30FB\u30B5\u30EB\u30B7\u30FC\u30C9\uFF08Carlos Salcido, 1980\u5E744\u67082\u65E5 - \uFF09\u306F\u3001\u30E1\u30AD\u30B7\u30B3\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30E1\u30AD\u30B7\u30B3\u30FB\u30D7\u30EA\u30E1\u30FC\u30E9\u30FB\u30C7\u30A3\u30D3\u30B7\u30AA\u30F3\u30FBUANL\u30C6\u30A3\u30B0\u30EC\u30B9\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002"@ja ;
+	foaf:surname	"Salcido" ;
+	foaf:isPrimaryTopicOf	ns16:Carlos_Salcido .
+@prefix ns48:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Carlos_Salcido	dbpprop:hasPhotoCollection	ns48:Carlos_Salcido ;
+	dbpprop:name	"Carlos Salcido" ,
+		"Salcido, Carlos" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Carlos-salcido.jpg?width=300> ;
+	dbpedia-owl:abstract	"Carlos Arnoldo Salcido Flores, plus connu sous le nom de Carlos Salcido, n\u00E9 le 2 avril 1980 \u00E0 Ocotl\u00E1n (Drapeau du Mexique Mexique), est un footballeur mexicain. Il \u00E9volue au poste de d\u00E9fenseur."@fr ,
+		"Carlos Arnoldo Salcido Flores (Ocotl\u00E1n, 2 april 1980) is een Mexicaans profvoetballer die meestal speelt als centrale verdediger of linksback. Sinds augustus 2011 speelt Salcido voor het Mexicaanse Tigres de la UANL. In 2004 debuteerde hij in het Mexicaans voetbalelftal, waarvoor hij inmiddels al meer dan 100 interlands speelde."@nl ,
+		"Carlos Arnoldo Salcido Flores (* 2. April 1980 in Ocotl\u00E1n, Jalisco) ist ein mexikanischer Fu\u00DFballspieler, der seit 2010 beim englischen Premier League Klub FC Fulham unter Vertrag steht. Momentan spielt er auf Leihbasis bei UANL Tigres. Der 177 cm gro\u00DFe Abwehrspieler ist auch langj\u00E4hriger Nationalspieler Mexikos. In seinem Heimatland Mexiko ist Salcido vor allem durch seine aggressive, jedoch stets faire Spielweise bekannt geworden."@de ,
+		"\u041A\u0430\u0301\u0440\u043B\u043E\u0441 \u0410\u0440\u043D\u043E\u0301\u043B\u044C\u0434\u043E \u0421\u0430\u043B\u044C\u0441\u0438\u0301\u0434\u043E \u0424\u043B\u043E\u0301\u0440\u0435\u0441 (\u0438\u0441\u043F. Carlos Arnoldo Salcido Flores; 2 \u0430\u043F\u0440\u0435\u043B\u044F 1980, \u041E\u043A\u043E\u0442\u043B\u0430\u043D, \u0425\u0430\u043B\u0438\u0441\u043A\u043E) \u2014 \u043C\u0435\u043A\u0441\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0423\u0410\u041D\u041B \u0422\u0438\u0433\u0440\u0435\u0441\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041C\u0435\u043A\u0441\u0438\u043A\u0438."@ru ,
+		"\u30AB\u30EB\u30ED\u30B9\u30FB\u30B5\u30EB\u30B7\u30FC\u30C9\uFF08Carlos Salcido, 1980\u5E744\u67082\u65E5 - \uFF09\u306F\u3001\u30E1\u30AD\u30B7\u30B3\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30E1\u30AD\u30B7\u30B3\u30FB\u30D7\u30EA\u30E1\u30FC\u30E9\u30FB\u30C7\u30A3\u30D3\u30B7\u30AA\u30F3\u30FBUANL\u30C6\u30A3\u30B0\u30EC\u30B9\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002"@ja ,
+		"Carlos Arnoldo Salcido Flores (Ocotl\u00E1n, 2 aprile 1980) \u00E8 un calciatore messicano, difensore sinistro del Tigres, in prestito dal Fulham, e della Nazionale messicana."@it ,
+		"Carlos Arnoldo Salcido Flores (Ocotl\u00E1n, Jalisco, M\u00E9xico, 2 de abril de 1980) es un futbolista mexicano. Juega de mediocampista de contenci\u00F3n y su actual equipo es el Tigres UANL. Tambi\u00E9n es un miembro regular de la Selecci\u00F3n de f\u00FAtbol de M\u00E9xico"@es ,
+		"Carlos Arnoldo Salcido Flores (born 2 April 1980 in Ocotl\u00E1n, Jalisco) is a Mexican international football defender who currently plays for Liga MX club Tigres UANL and the Mexican National Team, mainly as a center midfielder.Salcido has previously played with Guadalajara, Fulham and PSV Eindhoven, where he was the first Mexican player to be champion in the Eredivise.Salcido debuted with the Mexico national team in 2004, and has appeared at the 2006 and the 2010 FIFA World Cups, where he played in all of Mexico's matches. He was part of the Mexican team that won the gold medal at the 2012 Summer Olympics.Salcido plays as a left-back for Tigres and the Mexican national team, and occasionally as a midfielder." ,
+		"\u0643\u0627\u0631\u0644\u0648\u0633 \u0623\u0631\u0646\u0648\u0644\u062F\u0648 \u0633\u0627\u0644\u0633\u064A\u062F\u0648 \u0641\u0644\u0648\u0631\u064A\u0633 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: Carlos Arnoldo Salcido Flores) (\u0645\u0648\u0627\u0644\u064A\u062F 2 \u0623\u0628\u0631\u064A\u0644 1980 \u0641\u064A \u0623\u0648\u0643\u0648\u062A\u0644\u0627\u0646) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0645\u0643\u0633\u064A\u0643\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0641\u064A \u0646\u0627\u062F\u064A \u0622\u064A\u0646\u062F\u0647\u0648\u0641\u0646 \u0627\u0644\u0647\u0648\u0644\u0646\u062F\u064A ."@ar ,
+		"\u5361\u8DEF\u58EB\u00B7\u827E\u6717\u5EA6\u00B7\u6C99\u65AF\u5EA6\u00B7\u79D1\u91CC\u65AF\uFF08\u897F\u73ED\u7259\u8BED\uFF1ACarlos Arnoldo Salcido Flores\uFF0C1980\u5E744\u67082\u65E5\uFF0D\uFF09\uFF0C\u58A8\u897F\u54E5\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u53F8\u8077\u5DE6\u9598\uFF0C\u73FE\u6642\u6548\u529B\u58A8\u897F\u54E5\u8DB3\u7403\u7532\u7EA7\u8054\u8D5B\u7403\u6703\u8001\u864E\u968A\u3002"@zh ,
+		"Carlos Arnoldo Salcido Flores (Ocotl\u00E1n, 2 de Abril de 1980), tamb\u00E9m conhecido por \"Salsita\", \u00E9 um futebolista mexicano que atualmente joga no Tigres como defesa-central.Iniciou sua carreira no Chivas Guadalajara e fez a sua estr\u00E9ia na Campeonato Mexicano de Futebol em 22 de Julho de 2001 num jogo contra o La Piedad que terminou num empate em 1-1. Ele jogou cinco meias-\u00E9pocas no Chivas Guadalajara e marcou dois golos em 105 jogos.Uma figura popular no desporto no M\u00E9xico, Salcido \u00E9 uma atleta naturalmente dotado que consegue jogar a bola com ambos os p\u00E9s. Apesar de ter iniciado a sua carreira como avan\u00E7ado, \u00E9 como defesa central esquerdo que consegue actuar no seu melhor.Jogou as Copa das Confedera\u00E7\u00F5es de 2005 na Alemanha, ajudando a Selec\u00E7\u00E3o Mexicana a chegar ao quarto lugar na final, onde fez parte do onze inicial das cinco partidas. Durante o encontro da semifinal contra a Argentina, Salcido marcou um gol fabuloso no tempo extra, ap\u00F3s ter recuperado a bola na \u00E1rea mexicana, correu com a bola todo o campo, dribelando tr\u00EAs defesas e sofrendo falta de Fabricio Coloccini e marca, enganando o guarda-redes (goleiro) Germ\u00E1n Lux.No Clausura 2006 Salcido iniciou 13 jogos e completou 12. Ele foi um dos seis jogadores do clube de Chivas Guadalajara chamados em 2 de Abril de 2006 pelo selecionador Ricardo Lavolpe, para jogar na Sele\u00E7\u00E3o Mexicana na Copa do Mundo FIFA de 2006. Salcido jogou todas as 4 partidas disputadas durante o torneio.Entre junho e julho de 2006 a m\u00EDdia especulou a sua transfer\u00EAncia para variados clubes internacionais na Europa, no qual ele iria assinar a um clube pertencente a primeira liga inglesa, mais exactamente ao Arsenal F.C.[1] Contudo, estas especula\u00E7\u00F5es ca\u00EDram por terra quando ele assinou por 4 anos com o PSV Eindhoven no dia 10 de Julho de 2006.Em 2010 assinou contrato com o Fulham da Inglaterra por 3 temporadas, mas n\u00E3o conseguiu se adaptar ao futebol ingl\u00EAs. L\u00E1, o zagueiro nunca se firmou na equipe, al\u00E9m de ter passado por alguns problemas, como um assalto a sua casa , al\u00E9m de sua fam\u00EDlia ter pedido seu retorno ao M\u00E9xico.Em 2011 retornou ao futebol mexicano para defender a equipe do Tigres"@pt ,
+		"Carlos Arnoldo Salcido Flores (ur. 2 kwietnia 1980 w Ocotl\u00E1n) \u2013 meksyka\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji lewego obro\u0144cy lub defensywnego pomocnika, obecnie zawodnik Tigres UANL.Jest wychowankiem Chivas de Guadalajara, dla kt\u00F3rego przez pi\u0119\u0107 lat rozegra\u0142 105 ligowych pojedynk\u00F3w. Latem 2006 zosta\u0142 pi\u0142karzem holenderskiego PSV Eindhoven. Jego zatrudnieniem interesowa\u0142 si\u0119 tak\u017Ce angielski Arsenal. Razem z PSV Salcido w sezonach 2006/2007 i 2007/2008 zdoby\u0142 mistrzostwo Holandii. 27 sierpnia 2010 za nieujawnion\u0105 sum\u0119 przeszed\u0142 do zespo\u0142u ligi angielskiej, Fulham. Podpisa\u0142 kontrakt opiewaj\u0105cy na trzy lata. W sto\u0142ecznym klubie zast\u0105pi\u0142 Paula Konchesky'ego, kt\u00F3ry zosta\u0142 sprzedany do Liverpoolu. W prowadzonej przez Marka Hughesa dru\u017Cynie zadebiutowa\u0142 18 wrze\u015Bnia 2010 w ligowym spotkaniu z Blackburn i od razu wywalczy\u0142 sobie miejsce w wyj\u015Bciowej jedenastce. W po\u0142owie sierpnia 2011 zosta\u0142 wypo\u017Cyczony na rok z opcj\u0105 kupna do meksyka\u0144skiego zespo\u0142u Tigres UANL. W grudniu tego samego roku wywalczy\u0142 z Tigres tytu\u0142 mistrza Meksyku. W marcu 2012 podpisa\u0142 permanentn\u0105 umow\u0119 z Tigres, a suma tranferu definitywnego wynios\u0142a p\u00F3\u0142 miliona euro.W reprezentacji Meksyku zadebiutowa\u0142 za kadencji selekcjonera Ricardo Lavolpe, 8 wrze\u015Bnia 2004 roku w wygranym 3:1 spotkaniu z Trynidadem i Tobago, wchodz\u0105cym w sk\u0142ad eliminacji do M\u015A 2006. Pierwsz\u0105 bramk\u0119 w kadrze narodowej zdoby\u0142 26 czerwca 2005 w zremisowanej 1:1 konfrontacji z Argentyn\u0105 w p\u00F3\u0142finale Pucharu Konfederacji. Dotar\u0142 do 1/8 fina\u0142u Mistrzostw \u015Awiata 2006 i Mistrzostw \u015Awiata 2010. W 2012 zdoby\u0142 z\u0142oty medal na Igrzyskach Olimpijskich w Londynie.== Przypisy =="@pl ;
+	dbpedia-owl:wikiPageID	2163368 ;
+	dbpedia-owl:wikiPageRevisionID	603552719 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Carlos_Salcido	dbpprop:birthDate	"1980-04-02+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Ocotl\u00E1n, Mexico" ;
+	dbpprop:dateOfBirth	"1980-04-02+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Ocotl\u00E1n, Mexico" ;
+	dbpprop:shortDescription	"Footballer" ;
+	dbpedia-owl:birthDate	"1980-04-02+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Mexico_national_football_team ,
+		<http://dbpedia.org/resource/Ocotl%C3%A1n,_Jalisco> ;
+	dbpedia-owl:birthYear	"1980+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	220 ;
+	dbpprop:goals	2 ,
+		3 ,
+		0 ,
+		1 ;
+	dbpprop:bg	"#016549" ;
+	dbpprop:id	41338 ;
+	dbpprop:caps	23 ,
+		58 ,
+		37 ,
+		121 ,
+		105 ;
+	dbpprop:years	2006 ,
+		2001 ,
+		2012 ,
+		2010 ,
+		2011 ;
+	dbpedia-owl:careerStation	dbpedia:Carlos_Salcido__3 ,
+		dbpedia:Carlos_Salcido__6 ,
+		dbpedia:Carlos_Salcido__7 ,
+		dbpedia:Carlos_Salcido__2 ,
+		dbpedia:Carlos_Salcido__1 ,
+		dbpedia:Carlos_Salcido__4 ,
+		dbpedia:Carlos_Salcido__5 ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.7600000000000000089 .
+@prefix ns50:	<http://dbpedia.org/datatype/> .
+@prefix ns51:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Carlos_Salcido	ns51:height	"176.0"^^ns50:centimetre ;
+	dbpprop:currentclub	dbpedia:Tigres_UANL ;
+	dbpprop:clubnumber	30 ;
+	dbpprop:fullname	"Carlos Arnoldo Salcido Flores" ;
+	dbpprop:clubs	dbpedia:PSV_Eindhoven ,
+		dbpedia:Tigres_UANL ,
+		"\u2192 UANL" ,
+		<http://dbpedia.org/resource/Fulham_F.C.> ,
+		<http://dbpedia.org/resource/C.D._Guadalajara> ;
+	dbpedia-owl:team	dbpedia:PSV_Eindhoven ,
+		dbpedia:Tigres_UANL ,
+		dbpedia:Mexico_national_football_team ,
+		dbpedia:Mexico_national_under-23_football_team ,
+		<http://dbpedia.org/resource/Fulham_F.C.> ,
+		<http://dbpedia.org/resource/C.D._Guadalajara> .
+@prefix ns52:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Carlos_Salcido	dbpprop:wordnet_type	ns52:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Mexico squads" ;
+	dbpprop:pcupdate	"2014-04-08+02:00"^^xsd:date ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.transfermarkt.co.uk/en/carlos-salcido/profil/spieler_31434.html> ,
+		<http://www.footballdatabase.com/index.php?page=player&Id=6475&b=true&pn=Carlos_Arnoldo_Salcido_Flores> ;
+	dbpprop:bordercolor	"#CE1126" ;
+	dbpprop:fg	"White" ;
+	dbpprop:nationalcaps	10 ,
+		119 ;
+	dbpprop:nationalgoals	10 ,
+		0 ;
+	dbpprop:nationalteam	dbpedia:Mexico_national_football_team ,
+		dbpedia:Mexico_national_under-23_football_team ;
+	dbpprop:nationalyears	2012 ,
+		2004 ;
+	dbpedia-owl:number	30 ;
+	dbpprop:ntupdate	"2014-04-09+02:00"^^xsd:date .
+dbpedia:Salcido	dbpedia-owl:wikiPageDisambiguates	dbpedia:Carlos_Salcido .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Carlos_Salcido .
+<http://dbpedia.org/resource/2006%E2%80%9307_PSV_Eindhoven_season>	dbpprop:name	dbpedia:Carlos_Salcido ;
+	dbpprop:p	dbpedia:Carlos_Salcido .
+<http://dbpedia.org/resource/2011_CONCACAF_Gold_Cup_squads>	dbpprop:name	dbpedia:Carlos_Salcido .
+<http://dbpedia.org/resource/2007_CONCACAF_Gold_Cup_squads>	dbpprop:name	dbpedia:Carlos_Salcido .
+ns34:ካርሎስ_ሳልሲዶ	owl:sameAs	dbpedia:Carlos_Salcido .
+ns24:كارلوس_سالسيدو	owl:sameAs	dbpedia:Carlos_Salcido .
+ns29:Карляс_Сальсыда	owl:sameAs	dbpedia:Carlos_Salcido .
+ns30:Карлос_Салсидо	owl:sameAs	dbpedia:Carlos_Salcido .
+ns40:Carlos_Arnoldo_Salcido_Flores	owl:sameAs	dbpedia:Carlos_Salcido .
+ns42:Carlos_Salcido	owl:sameAs	dbpedia:Carlos_Salcido .
+ns38:Carlos_Salcido	owl:sameAs	dbpedia:Carlos_Salcido .
+ns23:קרלוס_סלסידו	owl:sameAs	dbpedia:Carlos_Salcido .
+ns31:Carlos_Salcido	owl:sameAs	dbpedia:Carlos_Salcido .
+ns25:Carolus_Salcido	owl:sameAs	dbpedia:Carlos_Salcido .
+ns28:Carlos_Salcido	owl:sameAs	dbpedia:Carlos_Salcido .
+ns32:Карлос_Сальсидо	owl:sameAs	dbpedia:Carlos_Salcido .
+ns41:कार्लोस_साल्सिदो	owl:sameAs	dbpedia:Carlos_Salcido .
+ns22:Carlos_Salcido	owl:sameAs	dbpedia:Carlos_Salcido .
+ns35:Carlos_Salcido	owl:sameAs	dbpedia:Carlos_Salcido .
+<http://ru.dbpedia.org/resource/\u0421\u0430\u043B\u044C\u0441\u0438\u0434\u043E,_\u041A\u0430\u0440\u043B\u043E\u0441>	owl:sameAs	dbpedia:Carlos_Salcido .
+ns36:Carlos_Salcido	owl:sameAs	dbpedia:Carlos_Salcido .
+ns27:Carlos_Salcido	owl:sameAs	dbpedia:Carlos_Salcido .
+ns26:Карлос_Сальсідо	owl:sameAs	dbpedia:Carlos_Salcido .
+ns39:卡路士·沙斯度	owl:sameAs	dbpedia:Carlos_Salcido .
+<http://dbpedia.org/resource/2013_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Carlos_Salcido .
+<http://dbpedia.org/resource/2005_CONCACAF_Gold_Cup_squads>	dbpprop:name	dbpedia:Carlos_Salcido .
+<http://dbpedia.org/resource/List_of_Dutch_football_transfers_summer_2010%E2%80%9311>	dbpprop:name	dbpedia:Carlos_Salcido ;
+	dbpedia-owl:currentMember	dbpedia:Carlos_Salcido .
+<http://dbpedia.org/resource/2005_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Carlos_Salcido .
+<http://dbpedia.org/resource/2006_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Carlos_Salcido .
+<http://dbpedia.org/resource/2012%E2%80%9313_Tigres_UANL_season__Carlos_Salcido__1>	dbpedia-owl:currentMember	dbpedia:Carlos_Salcido .
+<http://dbpedia.org/resource/2012%E2%80%9313_Tigres_UANL_season__Carlos_Salcido__2>	dbpedia-owl:currentMember	dbpedia:Carlos_Salcido .
+<http://dbpedia.org/resource/2011%E2%80%9312_Tigres_UANL_season__Carlos_Salcido__1>	dbpedia-owl:currentMember	dbpedia:Carlos_Salcido .
+<http://dbpedia.org/resource/2011%E2%80%9312_Tigres_UANL_season__Carlos_Salcido__2>	dbpedia-owl:currentMember	dbpedia:Carlos_Salcido .
+<http://dbpedia.org/resource/2006%E2%80%9307_PSV_Eindhoven_season__Carlos_Salcido__1>	dbpedia-owl:currentMember	dbpedia:Carlos_Salcido .
+dbpedia:Carlos_Arnoldo_Salcido_Flores	dbpedia-owl:wikiPageRedirects	dbpedia:Carlos_Salcido .
+<http://dbpedia.org/resource/2012%E2%80%9313_Tigres_UANL_season>	dbpprop:name	dbpedia:Carlos_Salcido .
+<http://dbpedia.org/resource/2011%E2%80%9312_Tigres_UANL_season>	dbpprop:name	dbpedia:Carlos_Salcido .

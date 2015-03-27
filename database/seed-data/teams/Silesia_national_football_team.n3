@@ -1,0 +1,109 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_de_Silésie_de_football	owl:sameAs	dbpedia:Silesia_national_football_team .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Schlesische_Fußballauswahl	owl:sameAs	dbpedia:Silesia_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q241664	owl:sameAs	dbpedia:Silesia_national_football_team .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Selección_de_fútbol_de_Silesia	owl:sameAs	dbpedia:Silesia_national_football_team .
+@prefix ns6:	<http://it.dbpedia.org/resource/> .
+ns6:Selezione_di_calcio_della_Slesia	owl:sameAs	dbpedia:Silesia_national_football_team .
+@prefix ns7:	<http://pl.dbpedia.org/resource/> .
+ns7:Reprezentacja_Śląska_w_piłce_nożnej	owl:sameAs	dbpedia:Silesia_national_football_team .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Tomasz_Moskal	dbpedia-owl:team	dbpedia:Silesia_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns10:	<http://en.wikipedia.org/wiki/> .
+ns10:Silesia_national_football_team	foaf:primaryTopic	dbpedia:Silesia_national_football_team .
+@prefix ns11:	<http://ro.dbpedia.org/resource/> .
+ns11:Echipa_națională_de_fotbal_a_Sileziei	owl:sameAs	dbpedia:Silesia_national_football_team .
+@prefix ns12:	<http://szl.dbpedia.org/resource/> .
+ns12:Reprezentacyjo_ślůnsko_we_fusbalu	owl:sameAs	dbpedia:Silesia_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns14:	<http://schema.org/> .
+dbpedia:Silesia_national_football_team	rdf:type	ns14:SportsTeam .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Silesia_national_football_team	rdf:type	dul:Agent ,
+		dbpedia-owl:Organisation ,
+		dul:SocialPerson ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		ns14:Organization ,
+		owl:Thing ,
+		dbpedia-owl:Agent .
+@prefix ns16:	<http://ja.dbpedia.org/resource/> .
+dbpedia:Silesia_national_football_team	owl:sameAs	ns16:サッカーシレジア代表 ,
+		ns11:Echipa_națională_de_fotbal_a_Sileziei ,
+		ns1:Équipe_de_Silésie_de_football ,
+		dbpedia:Silesia_national_football_team ,
+		ns5:Selección_de_fútbol_de_Silesia ,
+		ns12:Reprezentacyjo_ślůnsko_we_fusbalu ,
+		ns4:Q241664 ,
+		ns7:Reprezentacja_Śląska_w_piłce_nożnej ,
+		<http://rdf.freebase.com/ns/m.0283cxj> ,
+		ns3:Schlesische_Fußballauswahl ,
+		ns6:Selezione_di_calcio_della_Slesia .
+@prefix ns17:	<http://wikidata.org/entity/> .
+dbpedia:Silesia_national_football_team	owl:sameAs	ns17:Q241664 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Silesia_national_football_team	rdfs:label	"Selecci\u00F3n de f\u00FAtbol de Silesia"@es ,
+		"\u30B5\u30C3\u30AB\u30FC\u30B7\u30EC\u30B8\u30A2\u4EE3\u8868"@ja ,
+		"Selezione di calcio della Slesia"@it ,
+		"Schlesische Fu\u00DFballauswahl"@de ,
+		"Reprezentacja \u015Al\u0105ska w pi\u0142ce no\u017Cnej"@pl ,
+		"Silesia national football team" ,
+		"\u00C9quipe de Sil\u00E9sie de football"@fr .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Silesia_national_football_team	dcterms:subject	category:Silesia ,
+		category:Sport_in_Silesian_Voivodeship ,
+		category:European_national_and_official_selection-teams_not_affiliated_to_FIFA ;
+	foaf:name	"Silesia" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Silesia_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Silesia_national_football_team?oldid=540763072> ;
+	rdfs:comment	"La Selecci\u00F3n de f\u00FAtbol de Silesia (Idioma polaco: Reprezentacja \u015Al\u0105ska) es el equipo representativo de la Silesia, que acoge a jugadores silesianos y actualmente no puede participar en las competiciones oficiales internacionales por no estar reconocida por la FIFA. Su organizaci\u00F3n est\u00E1 a cargo de la Federaci\u00F3n de Silesia (Idioma polaco: \u015Al\u0105ski Zwi\u0105zek Pi\u0142ki No\u017Cnej)."@es ,
+		"\u30B5\u30C3\u30AB\u30FC\u30B7\u30EC\u30B8\u30A2\u4EE3\u8868(\u82F1\u8A9E: Silesia football team,\u30DD\u30FC\u30E9\u30F3\u30C9\u8A9E: Reprezentacja \u015Al\u0105ska)\u306F\u3001\u73FE\u5728\u306E\u30DD\u30FC\u30E9\u30F3\u30C9\u5357\u897F\u90E8\u304B\u3089\u30C1\u30A7\u30B3\u5317\u6771\u90E8(\u30D7\u30ED\u30A4\u30BB\u30F3\u738B\u56FD\u6642\u4EE3\u306E\u884C\u653F\u533A\u753B\u3082\u542B\u3081\u308C\u3070\u30C9\u30A4\u30C4\u6771\u90E8\u306E\u3054\u304F\u4E00\u90E8\u3082)\u306B\u5C5E\u3059\u308B\u5730\u57DF\u306E\u6B74\u53F2\u7684\u540D\u79F0\u30FB\u30B7\u30EC\u30B8\u30A2\u306B\u3042\u308B\u30B5\u30C3\u30AB\u30FC\u30AF\u30E9\u30D6\u304B\u3089\u7D50\u6210\u3055\u308C\u308B\u5730\u57DF\u4EE3\u8868\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30B7\u30EC\u30B8\u30A2\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A(\u82F1\u8A9E: Silesian Football Association,\u30DD\u30FC\u30E9\u30F3\u30C9\u8A9E: \u015Al\u0105ski Zwi\u0105zek Pi\u0142ki No\u017Cnej)\u306E\u5098\u4E0B\u306B\u3042\u308A\u3001\u56FD\u969B\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08FIFA\uFF09\u53CA\u3073\u6B27\u5DDE\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08UEFA\uFF09\u306B\u52A0\u76DF\u3057\u3066\u3044\u306A\u3044\u305F\u3081\u3001\u30B7\u30EC\u30B8\u30A2\u4EE3\u8868\u304C\u884C\u3063\u305F\u8A66\u5408\u306F\u56FD\u969BA\u30DE\u30C3\u30C1\u3068\u3057\u3066\u30AB\u30A6\u30F3\u30C8\u3055\u308C\u306A\u3044\u3002"@ja ,
+		"Silesia football team (Polish: Reprezentacja \u015Al\u0105ska) is an informal regional football team made up of players from football clubs located in Silesia, under the auspices of the Silesian Football Association (Polish: \u015Al\u0105ski Zwi\u0105zek Pi\u0142ki No\u017Cnej). It is not affiliated to FIFA, and does not play in official international matches." ,
+		"Die Schlesische Fu\u00DFballauswahl (polnisch Reprezentacja \u015Al\u0105ska) ist eine aus Spielern aus Oberschlesien bestehende Fu\u00DFballauswahl des Schlesischen Fu\u00DFballverbandes (polnisch: \u015Al\u0105ski Zwi\u0105zek Pi\u0142ki No\u017Cnej). Sie ist nicht Mitglied der Fu\u00DFballverb\u00E4nde UEFA und FIFA."@de ,
+		"L'\u00C9quipe de Sil\u00E9sie de football (en polonais : Reprezentacja \u015Al\u0105ska) est l'\u00E9quipe non reconnue internationalement de la Sil\u00E9sie. Elle n'est pas membre de la FIFA, ni de l'UEFA et ne participe donc pas aux tournois internationaux."@fr ,
+		"Reprezentacja \u015Al\u0105ska w pi\u0142ce no\u017Cnej \u2013 nieformalna dru\u017Cyna pi\u0142karska, w kt\u00F3rej sk\u0142ad wchodz\u0105 wy\u0142\u0105cznie zawodnicy graj\u0105cy na co dzie\u0144 w g\u00F3rno\u015Bl\u0105skich klubach pi\u0142karskich. Nigdy nie by\u0142a zrzeszona w FIFA oraz UEFA, nie posiada wi\u0119c prawa do uczestniczenia w oficjalnych pi\u0142karskich imprezach mi\u0119dzynarodowych (fina\u0142ach Mistrzostw \u015Awiata, b\u0105d\u017A Mistrzostwach Europy oraz eliminacjach do tych turniej\u00F3w) i nie rozgrywa oficjalnych spotka\u0144 mi\u0119dzypa\u0144stwowych. Jej barwy to kolory \u017C\u00F3\u0142ty i niebieski."@pl ,
+		"La Selezione di calcio della Slesia (Reprezentacja \u015Al\u0105ska in Polacco) non \u00E8 riconosciuta n\u00E9 dalla FIFA n\u00E9 dalla UEFA.Venne fondata nel 1920 e rappresenta la Slesia, regione non indipendente divisa tra Polonia e Repubblica Ceca."@it ;
+	foaf:isPrimaryTopicOf	ns10:Silesia_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Silesia_national_football_team	dbpprop:captain	dbpedia:Krzysztof_Warzycha .
+@prefix ns23:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Silesia_national_football_team	dbpprop:hasPhotoCollection	ns23:Silesia_national_football_team ;
+	dbpprop:name	"Silesia" ;
+	dbpedia-owl:abstract	"L'\u00C9quipe de Sil\u00E9sie de football (en polonais : Reprezentacja \u015Al\u0105ska) est l'\u00E9quipe non reconnue internationalement de la Sil\u00E9sie. Elle n'est pas membre de la FIFA, ni de l'UEFA et ne participe donc pas aux tournois internationaux."@fr ,
+		"\u30B5\u30C3\u30AB\u30FC\u30B7\u30EC\u30B8\u30A2\u4EE3\u8868(\u82F1\u8A9E: Silesia football team,\u30DD\u30FC\u30E9\u30F3\u30C9\u8A9E: Reprezentacja \u015Al\u0105ska)\u306F\u3001\u73FE\u5728\u306E\u30DD\u30FC\u30E9\u30F3\u30C9\u5357\u897F\u90E8\u304B\u3089\u30C1\u30A7\u30B3\u5317\u6771\u90E8(\u30D7\u30ED\u30A4\u30BB\u30F3\u738B\u56FD\u6642\u4EE3\u306E\u884C\u653F\u533A\u753B\u3082\u542B\u3081\u308C\u3070\u30C9\u30A4\u30C4\u6771\u90E8\u306E\u3054\u304F\u4E00\u90E8\u3082)\u306B\u5C5E\u3059\u308B\u5730\u57DF\u306E\u6B74\u53F2\u7684\u540D\u79F0\u30FB\u30B7\u30EC\u30B8\u30A2\u306B\u3042\u308B\u30B5\u30C3\u30AB\u30FC\u30AF\u30E9\u30D6\u304B\u3089\u7D50\u6210\u3055\u308C\u308B\u5730\u57DF\u4EE3\u8868\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30B7\u30EC\u30B8\u30A2\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A(\u82F1\u8A9E: Silesian Football Association,\u30DD\u30FC\u30E9\u30F3\u30C9\u8A9E: \u015Al\u0105ski Zwi\u0105zek Pi\u0142ki No\u017Cnej)\u306E\u5098\u4E0B\u306B\u3042\u308A\u3001\u56FD\u969B\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08FIFA\uFF09\u53CA\u3073\u6B27\u5DDE\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08UEFA\uFF09\u306B\u52A0\u76DF\u3057\u3066\u3044\u306A\u3044\u305F\u3081\u3001\u30B7\u30EC\u30B8\u30A2\u4EE3\u8868\u304C\u884C\u3063\u305F\u8A66\u5408\u306F\u56FD\u969BA\u30DE\u30C3\u30C1\u3068\u3057\u3066\u30AB\u30A6\u30F3\u30C8\u3055\u308C\u306A\u3044\u3002"@ja ,
+		"La Selezione di calcio della Slesia (Reprezentacja \u015Al\u0105ska in Polacco) non \u00E8 riconosciuta n\u00E9 dalla FIFA n\u00E9 dalla UEFA.Venne fondata nel 1920 e rappresenta la Slesia, regione non indipendente divisa tra Polonia e Repubblica Ceca."@it ,
+		"Die Schlesische Fu\u00DFballauswahl (polnisch Reprezentacja \u015Al\u0105ska) ist eine aus Spielern aus Oberschlesien bestehende Fu\u00DFballauswahl des Schlesischen Fu\u00DFballverbandes (polnisch: \u015Al\u0105ski Zwi\u0105zek Pi\u0142ki No\u017Cnej). Sie ist nicht Mitglied der Fu\u00DFballverb\u00E4nde UEFA und FIFA."@de ,
+		"Silesia football team (Polish: Reprezentacja \u015Al\u0105ska) is an informal regional football team made up of players from football clubs located in Silesia, under the auspices of the Silesian Football Association (Polish: \u015Al\u0105ski Zwi\u0105zek Pi\u0142ki No\u017Cnej). It is not affiliated to FIFA, and does not play in official international matches." ,
+		"Reprezentacja \u015Al\u0105ska w pi\u0142ce no\u017Cnej \u2013 nieformalna dru\u017Cyna pi\u0142karska, w kt\u00F3rej sk\u0142ad wchodz\u0105 wy\u0142\u0105cznie zawodnicy graj\u0105cy na co dzie\u0144 w g\u00F3rno\u015Bl\u0105skich klubach pi\u0142karskich. Nigdy nie by\u0142a zrzeszona w FIFA oraz UEFA, nie posiada wi\u0119c prawa do uczestniczenia w oficjalnych pi\u0142karskich imprezach mi\u0119dzynarodowych (fina\u0142ach Mistrzostw \u015Awiata, b\u0105d\u017A Mistrzostwach Europy oraz eliminacjach do tych turniej\u00F3w) i nie rozgrywa oficjalnych spotka\u0144 mi\u0119dzypa\u0144stwowych. Jej barwy to kolory \u017C\u00F3\u0142ty i niebieski."@pl ,
+		"La Selecci\u00F3n de f\u00FAtbol de Silesia (Idioma polaco: Reprezentacja \u015Al\u0105ska) es el equipo representativo de la Silesia, que acoge a jugadores silesianos y actualmente no puede participar en las competiciones oficiales internacionales por no estar reconocida por la FIFA. Su organizaci\u00F3n est\u00E1 a cargo de la Federaci\u00F3n de Silesia (Idioma polaco: \u015Al\u0105ski Zwi\u0105zek Pi\u0142ki No\u017Cnej)."@es ;
+	dbpedia-owl:wikiPageID	9293083 ;
+	dbpedia-owl:wikiPageRevisionID	540763072 ;
+	dbpprop:coach	dbpedia:Antoni_Piechniczek ;
+	dbpedia-owl:coach	dbpedia:Antoni_Piechniczek ;
+	dbpprop:association	dbpedia:Silesian_Football_Association ;
+	dbpprop:body	"FFFF00" ;
+	dbpprop:fifaTrigramme	"none" ;
+	dbpprop:leftarm	"FFFF00" ;
+	dbpprop:rightarm	"FFFF00" ;
+	dbpprop:shorts	"FFFF00" ,
+		3333 ;
+	dbpprop:socks	"FFFF00" ,
+		3333 ;
+	dbpprop:badge	"Silesia fa.png" ;
+	dbpprop:firstGame	1 ;
+	dbpprop:largestLoss	3 ;
+	dbpprop:largestWin	7 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.slzpn.katowice.pl> ,
+		<http://roonba.50webs.com/silesia.htm> .
+dbpedia:Silesian_Stadium	dbpprop:tenants	dbpedia:Silesia_national_football_team ;
+	dbpedia-owl:tenant	dbpedia:Silesia_national_football_team .
+dbpedia:Tomasz_Moskal__15	dbpedia-owl:team	dbpedia:Silesia_national_football_team .
+dbpedia:Silesia_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Silesia_national_football_team .
+dbpedia:Silesian_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Silesia_national_football_team .

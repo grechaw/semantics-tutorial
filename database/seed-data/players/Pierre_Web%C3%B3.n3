@@ -1,0 +1,239 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Pierre_Webó	foaf:primaryTopic	<http://dbpedia.org/resource/Pierre_Web%C3%B3> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_Africa_Cup_of_Nations_squads>	dbpprop:name	<http://dbpedia.org/resource/Pierre_Web%C3%B3> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Pierre_Web%C3%B3>	rdf:type	dul:Agent .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Pierre_Web%C3%B3>	rdf:type	dbpedia-owl:Athlete .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Pierre_Web%C3%B3>	rdf:type	yago:CameroonInternationalFootballers ,
+		yago:CameroonianExpatriateFootballers ,
+		yago:Athlete109820263 ,
+		yago:FootballPlayer110101634 ,
+		yago:ClubNacionalDeFootballPlayers ,
+		<http://dbpedia.org/class/yago/IstanbulB.B.Footballers> ,
+		yago:Player110439851 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		foaf:Person ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:ExpatriateFootballersInUruguay ,
+		yago:Contestant109613191 ,
+		yago:ExpatriateFootballersInTurkey ,
+		yago:AssociationFootballForwards ,
+		yago:BasketballPlayer109842047 ,
+		<http://dbpedia.org/class/yago/CDLegan%C3%A9sFootballers> ,
+		yago:ExpatriateFootballersInTheGambia ,
+		yago:CameroonianExpatriatesInUruguay ,
+		<http://dbpedia.org/class/yago/S%C3%BCperLigPlayers> ,
+		yago:LaLigaFootballers ,
+		yago:Forward110105733 .
+@prefix ns7:	<http://schema.org/> .
+<http://dbpedia.org/resource/Pierre_Web%C3%B3>	rdf:type	ns7:Person ,
+		yago:ExpatriateFootballersInSpain ,
+		yago:PhysicalEntity100001930 ,
+		yago:CameroonianFootballers .
+@prefix ns8:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Pierre_Web%C3%B3>	rdf:type	ns8:SoccerPlayer .
+@prefix ns9:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Pierre_Web%C3%B3>	rdf:type	ns9:Q215627 ,
+		yago:CAOsasunaFootballers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Pierre_Web%C3%B3>	rdf:type	owl:Thing ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:RCDMallorcaFootballers ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		yago:Whole100003553 ,
+		yago:Object100002684 ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Person ,
+		dul:NaturalPerson ,
+		yago:CameroonianExpatriatesInSpain ,
+		ns9:Q5 ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.08mfyy> ,
+		<http://dbpedia.org/resource/Pierre_Web%C3%B3> .
+@prefix ns11:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Pierre_Web%C3%B3>	owl:sameAs	ns11:Pierre_Webó .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Pierre_Web%C3%B3>	rdfs:label	"\u0412\u0435\u0431\u043E, \u041F\u044C\u0435\u0440"@ru ,
+		"Pierre Web\u00F3"@pt ,
+		"Pierre Web\u00F3"@nl ,
+		"Pierre Web\u00F3"@fr ,
+		"Pierre Web\u00F3" ,
+		"Pierre Web\u00F3"@es ,
+		"Pierre Web\u00F3"@pl ,
+		"\u0628\u064A\u064A\u0631 \u0648\u064A\u0628\u0648"@ar ,
+		"\u30D4\u30A8\u30FC\u30EB\u30FB\u30A6\u30A7\u30DC"@ja ,
+		"Pierre Web\u00F3"@de ,
+		"Pierre Web\u00F3"@it .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Pierre_Web%C3%B3>	dcterms:subject	category:RCD_Mallorca_footballers ,
+		<http://dbpedia.org/resource/Category:1982_births> ,
+		<http://dbpedia.org/resource/Category:Fenerbah%C3%A7e_footballers> ,
+		category:Cameroonian_footballers ,
+		category:Cameroonian_expatriates_in_the_Gambia ,
+		category:Expatriate_footballers_in_Turkey ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Cameroonian_expatriates_in_Spain ,
+		<http://dbpedia.org/resource/Category:Segunda_Divisi%C3%B3n_footballers> ,
+		<http://dbpedia.org/resource/Category:CD_Legan%C3%A9s_footballers> ,
+		category:Cameroonian_expatriates_in_Turkey ,
+		<http://dbpedia.org/resource/Category:2010_Africa_Cup_of_Nations_players> ,
+		category:Cameroonian_expatriates_in_Uruguay ,
+		category:Cameroon_international_footballers ,
+		category:Cameroonian_expatriate_footballers ,
+		category:CA_Osasuna_footballers ,
+		category:Expatriate_footballers_in_the_Gambia ,
+		<http://dbpedia.org/resource/Category:Istanbul_B.B._footballers> ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2006_Africa_Cup_of_Nations_players> ,
+		category:Expatriate_footballers_in_Spain ,
+		category:La_Liga_footballers ,
+		category:Association_football_forwards ,
+		category:Expatriate_footballers_in_Uruguay ,
+		<http://dbpedia.org/resource/Category:S%C3%BCper_Lig_players> ,
+		category:Club_Nacional_de_Football_players ,
+		<http://dbpedia.org/resource/Category:Uruguayan_Primera_Divisi%C3%B3n_footballers> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Pierre_Web\u00F3\u002713.JPG> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Pierre_Web%C3%B3>	dc:description	"Cameroonian footballer" ,
+		"Cameroonian footballer" ;
+	foaf:givenName	"Pierre" ;
+	foaf:name	"Pierre Achille Web\u00F3 Kouamo" ,
+		"Pierre Web\u00F3" ,
+		"Web\u00F3, Pierre" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Pierre_Web%C3%B3>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Pierre_Web\u00F3?oldid=606086157> ;
+	rdfs:comment	"Pierre Achille Web\u00F3 Koauamo (Bafoussam, 20 januari 1982) is een Kameroens betaald voetballer die bij voorkeur in de aanval speelt. Hij verruilde in januari 2013 Istanbul BB voor Fenerbah\u00E7e, dat 3 miljoen euro op tafel legde voor de Kameroense aanvaller."@nl ,
+		"Pierre Achille Web\u00F3 Kouamo, kurz Pierre Web\u00F3 (* 20. Januar 1982 in Bafoussam, Kamerun) ist ein kamerunischer Fu\u00DFballspieler, der auch die spanische Staatsangeh\u00F6rigkeit besitzt. Er steht seit Februar 2013 bei Fenerbah\u00E7e Istanbul unter Vertrag. Sein Cousin hei\u00DFt Geremi und ist ebenfalls Profifu\u00DFballer."@de ,
+		"\u0628\u064A\u064A\u0631 \u0648\u064A\u0628\u0648 (\u0645\u0648\u0627\u0644\u064A\u062F 20 \u064A\u0646\u0627\u064A\u0631 1982 \u0641\u064A \u0628\u0627\u0641\u0648\u0633\u0627\u0645 - \u0627\u0644\u0643\u0627\u0645\u064A\u0631\u0648\u0646) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0627\u0645\u064A\u0631\u0648\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0631\u064A\u0627\u0644 \u0645\u0627\u064A\u0648\u0631\u0643\u0627 \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A \u0645\u0646\u0630 2007 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0645\u0647\u0627\u062C\u0645 ."@ar ,
+		"Pierre Achille Web\u00F3 Kouamo (Bafoussam, Camer\u00FAn, 20 de enero de 1982), mejor conocido como Pierre Web\u00F3, es un futbolista camerun\u00E9s. Juega de delantero y su actual equipo es el Fenerbah\u00E7e Spor Kul\u00FCb\u00FC de la Superliga de Turqu\u00EDa."@es ,
+		"\u30D4\u30A8\u30FC\u30EB\u30FB\u30A2\u30C1\u30FC\u30EB\u30FB\u30A6\u30A7\u30DC\u30FB\u30AF\u30A2\u30E2\uFF08Pierre Achille Web\u00F3 Kouamo, 1982\u5E741\u670820\u65E5\uFF09\u306F\u3001\u30AB\u30E1\u30EB\u30FC\u30F3\u30FB\u30D0\u30D5\u30FC\u30B5\u30E0\u51FA\u8EAB\u306E\u540C\u56FD\u4EE3\u8868\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30C8\u30EB\u30B3\u30FB\u30B7\u30E5\u30DA\u30EB\u30EA\u30AC\u30FB\u30D5\u30A7\u30CD\u30EB\u30D0\u30D5\u30C1\u30A7SK\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FFW\u3002CA\u30AA\u30B5\u30B9\u30CA\u3068RCD\u30A8\u30B9\u30D1\u30CB\u30E7\u30FC\u30EB\u306B\u6240\u5C5E\u3057\u305F\u30A6\u30A7\u30DC\u306F\u3001\u30B9\u30DA\u30A4\u30F31\u90E8\u306E\u821E\u53F0\u30678\u30B7\u30FC\u30BA\u30F3\u306B\u6E21\u308A\u30D7\u30EC\u30FC\u3057\u3001227\u8A66\u540848\u5F97\u70B9\u3092\u8A18\u9332\u3057\u305F\u3002\uFF08\u30B9\u30DA\u30A4\u30F3\u3067\u306F\u3001\u4ED6\u306B\u4E0B\u90E8\u306ECD\u30EC\u30AC\u30CD\u30B9\u3067\u30D7\u30EC\u30FC\u3057\u3066\u3044\u305F\u3002\uFF09\u30AB\u30E1\u30EB\u30FC\u30F3\u4EE3\u8868\u3068\u3057\u3066\u306F2000\u5E74\u4EE3\u304B\u3089\u767B\u5834\u3057\u3001\u30A2\u30D5\u30EA\u30AB\u30CD\u30A4\u30B7\u30E7\u30F3\u30BA\u30AB\u30C3\u30D72\u56DE\u30682010 FIFA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u3067\u30D7\u30EC\u30FC\u3057\u305F\u3002"@ja ,
+		"Pierre Achille Web\u00F3 Kouamo (born 20 January 1982), known as Web\u00F3, is a Cameroonian professional footballer who plays for Fenerbah\u00E7e SK in the Turkish S\u00FCper Lig, as a striker.He spent eight years of his career in La Liga, appearing in 227 games for Osasuna and Mallorca combined and scoring 47 goals (in Spain he also represented Legan\u00E9s).A Cameroon international in the 2000s, Web\u00F3 appeared with the country at the 2010 World Cup and two Africa Cup of Nations." ,
+		"Pierre Achille Webo Kouamo (ur. 20 stycznia 1982 w Bafoussam), wzrost: 180 cm, waga: 78 kg, kameru\u0144ski pi\u0142karz, wyst\u0119puje na pozycji napastnika."@pl ,
+		"Pierre Web\u00F3 est un joueur de football camerounais n\u00E9 le 20 janvier 1982 \u00E0 Bafoussam, dans l'Ouest du Cameroun. Il joue actuellement au poste d'attaquant dans le club de Fenerbah\u00E7e SK, dans la S\u00FCper Lig.Ses atouts principaux sont son jeu de t\u00EAte, son pied droit ainsi que son physique qui lui valent d'\u00EAtre positionn\u00E9 en attaque au sein des lions indomptables en compagnie de Samuel Eto'o. Il mesure 1,80 m pour 79 kg."@fr ,
+		"\u041F\u044C\u0435\u0440 \u0412\u0435\u0431\u043E\u0301 (\u0444\u0440. Pierre Web\u00F3; 20 \u044F\u043D\u0432\u0430\u0440\u044F 1982, \u0411\u0430\u0444\u0443\u0441\u0430\u043C, \u041A\u0430\u043C\u0435\u0440\u0443\u043D) \u2014 \u043A\u0430\u043C\u0435\u0440\u0443\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439 \u043A\u043B\u0443\u0431\u0430 \u00AB\u0424\u0435\u043D\u0435\u0440\u0431\u0430\u0445\u0447\u0435\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u0430\u043C\u0435\u0440\u0443\u043D\u0430."@ru ,
+		"Pierre Achille Web\u00F3 Kouamo (Bafoussam, 20 gennaio 1982) \u00E8 un calciatore camerunese, attaccante del Fenerbah\u00E7e e della Nazionale camerunense."@it ,
+		"Pierre Achille Web\u00F3 Kouamo (Bafoussam, 20 de janeiro de 1982) \u00E9 um futebolista camaron\u00EAs que atua como atacante. Atualmente, joga pelo Fenerbah\u00E7e.== Refer\u00EAncias =="@pt ;
+	foaf:surname	"Web\u00F3" ;
+	foaf:isPrimaryTopicOf	ns1:Pierre_Webó .
+@prefix ns17:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Pierre_Web%C3%B3>	dbpprop:hasPhotoCollection	ns17:Pierre_Webó ;
+	dbpprop:caption	"Web\u00F3 playing for Fenerbah\u00E7e" ;
+	dbpprop:name	"Web\u00F3, Pierre" ,
+		"Pierre Web\u00F3" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Pierre_Web\u00F3\u002713.JPG?width=300> ;
+	dbpedia-owl:abstract	"Pierre Achille Web\u00F3 Kouamo (Bafoussam, 20 gennaio 1982) \u00E8 un calciatore camerunese, attaccante del Fenerbah\u00E7e e della Nazionale camerunense."@it ,
+		"Pierre Achille Web\u00F3 Kouamo (Bafoussam, Camer\u00FAn, 20 de enero de 1982), mejor conocido como Pierre Web\u00F3, es un futbolista camerun\u00E9s. Juega de delantero y su actual equipo es el Fenerbah\u00E7e Spor Kul\u00FCb\u00FC de la Superliga de Turqu\u00EDa."@es ,
+		"\u041F\u044C\u0435\u0440 \u0412\u0435\u0431\u043E\u0301 (\u0444\u0440. Pierre Web\u00F3; 20 \u044F\u043D\u0432\u0430\u0440\u044F 1982, \u0411\u0430\u0444\u0443\u0441\u0430\u043C, \u041A\u0430\u043C\u0435\u0440\u0443\u043D) \u2014 \u043A\u0430\u043C\u0435\u0440\u0443\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439 \u043A\u043B\u0443\u0431\u0430 \u00AB\u0424\u0435\u043D\u0435\u0440\u0431\u0430\u0445\u0447\u0435\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u0430\u043C\u0435\u0440\u0443\u043D\u0430."@ru ,
+		"Pierre Achille Web\u00F3 Kouamo, kurz Pierre Web\u00F3 (* 20. Januar 1982 in Bafoussam, Kamerun) ist ein kamerunischer Fu\u00DFballspieler, der auch die spanische Staatsangeh\u00F6rigkeit besitzt. Er steht seit Februar 2013 bei Fenerbah\u00E7e Istanbul unter Vertrag. Sein Cousin hei\u00DFt Geremi und ist ebenfalls Profifu\u00DFballer."@de ,
+		"Pierre Achille Web\u00F3 Kouamo (born 20 January 1982), known as Web\u00F3, is a Cameroonian professional footballer who plays for Fenerbah\u00E7e SK in the Turkish S\u00FCper Lig, as a striker.He spent eight years of his career in La Liga, appearing in 227 games for Osasuna and Mallorca combined and scoring 47 goals (in Spain he also represented Legan\u00E9s).A Cameroon international in the 2000s, Web\u00F3 appeared with the country at the 2010 World Cup and two Africa Cup of Nations." ,
+		"Pierre Web\u00F3 est un joueur de football camerounais n\u00E9 le 20 janvier 1982 \u00E0 Bafoussam, dans l'Ouest du Cameroun. Il joue actuellement au poste d'attaquant dans le club de Fenerbah\u00E7e SK, dans la S\u00FCper Lig.Ses atouts principaux sont son jeu de t\u00EAte, son pied droit ainsi que son physique qui lui valent d'\u00EAtre positionn\u00E9 en attaque au sein des lions indomptables en compagnie de Samuel Eto'o. Il mesure 1,80 m pour 79 kg."@fr ,
+		"Pierre Achille Webo Kouamo (ur. 20 stycznia 1982 w Bafoussam), wzrost: 180 cm, waga: 78 kg, kameru\u0144ski pi\u0142karz, wyst\u0119puje na pozycji napastnika."@pl ,
+		"Pierre Achille Web\u00F3 Kouamo (Bafoussam, 20 de janeiro de 1982) \u00E9 um futebolista camaron\u00EAs que atua como atacante. Atualmente, joga pelo Fenerbah\u00E7e.== Refer\u00EAncias =="@pt ,
+		"Pierre Achille Web\u00F3 Koauamo (Bafoussam, 20 januari 1982) is een Kameroens betaald voetballer die bij voorkeur in de aanval speelt. Hij verruilde in januari 2013 Istanbul BB voor Fenerbah\u00E7e, dat 3 miljoen euro op tafel legde voor de Kameroense aanvaller. In november 2003 debuteerde hij in het Kameroens voetbalelftal, waarvoor hij meer dan veertig interlands speelde.Web\u00F3 speelde voor zijn komst naar Fenerbah\u00E7e SK voor Kouogat (1997-1998), Stade de Banjoul (1998-1999), Nacional de Montevideo (2000-2002), CD Legan\u00E9s (2002-2003), CA Osasuna (2005-2007), RCD Mallorca (2007-2011) en Istanbul BB (2011-2013). Met CA Osasuna was de aanvaller in 2005 verliezend finalist in de Copa del Rey."@nl ,
+		"\u30D4\u30A8\u30FC\u30EB\u30FB\u30A2\u30C1\u30FC\u30EB\u30FB\u30A6\u30A7\u30DC\u30FB\u30AF\u30A2\u30E2\uFF08Pierre Achille Web\u00F3 Kouamo, 1982\u5E741\u670820\u65E5\uFF09\u306F\u3001\u30AB\u30E1\u30EB\u30FC\u30F3\u30FB\u30D0\u30D5\u30FC\u30B5\u30E0\u51FA\u8EAB\u306E\u540C\u56FD\u4EE3\u8868\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30C8\u30EB\u30B3\u30FB\u30B7\u30E5\u30DA\u30EB\u30EA\u30AC\u30FB\u30D5\u30A7\u30CD\u30EB\u30D0\u30D5\u30C1\u30A7SK\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FFW\u3002CA\u30AA\u30B5\u30B9\u30CA\u3068RCD\u30A8\u30B9\u30D1\u30CB\u30E7\u30FC\u30EB\u306B\u6240\u5C5E\u3057\u305F\u30A6\u30A7\u30DC\u306F\u3001\u30B9\u30DA\u30A4\u30F31\u90E8\u306E\u821E\u53F0\u30678\u30B7\u30FC\u30BA\u30F3\u306B\u6E21\u308A\u30D7\u30EC\u30FC\u3057\u3001227\u8A66\u540848\u5F97\u70B9\u3092\u8A18\u9332\u3057\u305F\u3002\uFF08\u30B9\u30DA\u30A4\u30F3\u3067\u306F\u3001\u4ED6\u306B\u4E0B\u90E8\u306ECD\u30EC\u30AC\u30CD\u30B9\u3067\u30D7\u30EC\u30FC\u3057\u3066\u3044\u305F\u3002\uFF09\u30AB\u30E1\u30EB\u30FC\u30F3\u4EE3\u8868\u3068\u3057\u3066\u306F2000\u5E74\u4EE3\u304B\u3089\u767B\u5834\u3057\u3001\u30A2\u30D5\u30EA\u30AB\u30CD\u30A4\u30B7\u30E7\u30F3\u30BA\u30AB\u30C3\u30D72\u56DE\u30682010 FIFA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u3067\u30D7\u30EC\u30FC\u3057\u305F\u3002"@ja ,
+		"\u0628\u064A\u064A\u0631 \u0648\u064A\u0628\u0648 (\u0645\u0648\u0627\u0644\u064A\u062F 20 \u064A\u0646\u0627\u064A\u0631 1982 \u0641\u064A \u0628\u0627\u0641\u0648\u0633\u0627\u0645 - \u0627\u0644\u0643\u0627\u0645\u064A\u0631\u0648\u0646) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0627\u0645\u064A\u0631\u0648\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0631\u064A\u0627\u0644 \u0645\u0627\u064A\u0648\u0631\u0643\u0627 \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A \u0645\u0646\u0630 2007 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0645\u0647\u0627\u062C\u0645 ."@ar ;
+	dbpedia-owl:wikiPageID	3039016 ;
+	dbpedia-owl:wikiPageRevisionID	606086157 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Pierre_Web%C3%B3>	dbpprop:birthDate	"1982-01-20+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Bafoussam, Cameroon" ;
+	dbpprop:dateOfBirth	"1982-01-20+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Bafoussam, Cameroon" ;
+	dbpprop:shortDescription	"Cameroonian footballer" ;
+	dbpedia-owl:birthDate	"1982-01-20+02:00"^^xsd:date .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Pierre_Web%C3%B3>	dbpedia-owl:birthPlace	dbpedia:Bafoussam ,
+		dbpedia:Cameroon_national_football_team ;
+	dbpedia-owl:birthYear	"1982+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	240 ;
+	dbpprop:goals	27 ,
+		24 ,
+		20 ,
+		15 ,
+		0 ;
+	dbpprop:bg	"Green" ;
+	dbpprop:caps	113 ,
+		114 ,
+		21 ,
+		7 ,
+		54 ,
+		35 ;
+	dbpprop:years	1999 ,
+		2011 ,
+		2013 ,
+		2003 ,
+		2000 ,
+		2007 ;
+	dbpprop:youthclubs	"Kouogat" ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Pierre_Web%C3%B3__3> ,
+		<http://dbpedia.org/resource/Pierre_Web%C3%B3__4> ,
+		<http://dbpedia.org/resource/Pierre_Web%C3%B3__1> ,
+		<http://dbpedia.org/resource/Pierre_Web%C3%B3__2> ,
+		<http://dbpedia.org/resource/Pierre_Web%C3%B3__5> ,
+		<http://dbpedia.org/resource/Pierre_Web%C3%B3__7> ,
+		<http://dbpedia.org/resource/Pierre_Web%C3%B3__6> ;
+	dbpprop:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:height	1.8100000000000000533 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Pierre_Web%C3%B3>	ns21:height	"181.0"^^ns20:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/Fenerbah%C3%A7e_S.K._(football)> ;
+	dbpprop:clubnumber	9 ;
+	dbpprop:fullname	"Pierre Achille Web\u00F3 Kouamo" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/Fenerbah%C3%A7e_S.K._(football)> ,
+		dbpedia:RCD_Mallorca ,
+		<http://dbpedia.org/resource/Real_de_Banjul_F.C.> ,
+		dbpedia:CA_Osasuna ,
+		<http://dbpedia.org/resource/CD_Legan%C3%A9s> ,
+		<http://dbpedia.org/resource/%C4%B0stanbul_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyespor_(football)> ,
+		dbpedia:Club_Nacional_de_Football ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/Fenerbah%C3%A7e_S.K._(football)> ,
+		dbpedia:RCD_Mallorca ,
+		<http://dbpedia.org/resource/Real_de_Banjul_F.C.> ,
+		dbpedia:Cameroon_national_football_team ,
+		dbpedia:CA_Osasuna ,
+		<http://dbpedia.org/resource/CD_Legan%C3%A9s> ,
+		<http://dbpedia.org/resource/%C4%B0stanbul_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyespor_(football)> ,
+		dbpedia:Club_Nacional_de_Football .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Pierre_Web%C3%B3>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Cameroon squads" ;
+	dbpprop:pcupdate	"--04-14+02:00"^^xsd:gMonthDay ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.bdfutbol.com/en/j/j2251.html> ,
+		<http://www.transfermarkt.co.uk/en/pierre-webo/profil/spieler_16589.html> ,
+		<http://www.lfp.es/historico/primera/plantillas/historial.asp?jug=7298> ;
+	dbpprop:fg	"Yellow" ;
+	dbpprop:nationalcaps	53 ;
+	dbpprop:nationalgoals	17 ;
+	dbpprop:nationalteam	dbpedia:Cameroon_national_football_team ;
+	dbpprop:nationalyears	2003 ;
+	dbpedia-owl:number	9 ;
+	dbpprop:ntupdate	"2013-11-17+02:00"^^xsd:date .
+<http://dbpedia.org/resource/2005%E2%80%9306_CA_Osasuna_season>	dbpprop:name	<http://dbpedia.org/resource/Pierre_Web%C3%B3> .
+<http://dbpedia.org/resource/Fenerbah%C3%A7e_S.K._(football)>	dbpprop:name	<http://dbpedia.org/resource/Pierre_Web%C3%B3> .
+<http://dbpedia.org/resource/2012%E2%80%9313_Fenerbah%C3%A7e_S.K._season>	dbpprop:p	<http://dbpedia.org/resource/Pierre_Web%C3%B3> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Pierre_Web%C3%B3> .
+dbpedia:Cameroon_national_football_team	dbpprop:name	<http://dbpedia.org/resource/Pierre_Web%C3%B3> .
+dbpedia:Pierre_Webó	owl:sameAs	<http://dbpedia.org/resource/Pierre_Web%C3%B3> .
+<http://dbpedia.org/resource/2005%E2%80%9306_CA_Osasuna_season__Pierre_Web%C3%B3__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Pierre_Web%C3%B3> .
+<http://dbpedia.org/resource/Fenerbah%C3%A7e_S.K._(football)__Pierre_Web%C3%B3__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Pierre_Web%C3%B3> .
+dbpedia:Achille_Webo	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Pierre_Web%C3%B3> .
+dbpedia:Pierre_Achille_Webo	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Pierre_Web%C3%B3> .
+<http://dbpedia.org/resource/Pierre_W%C3%A9bo>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Pierre_Web%C3%B3> .
+dbpedia:Pierre_Webo	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Pierre_Web%C3%B3> .
+dbpedia:Cameroon_at_the_FIFA_World_Cup	dbpprop:name	<http://dbpedia.org/resource/Pierre_Web%C3%B3> .
+<http://dbpedia.org/resource/2006_Africa_Cup_of_Nations_squads>	dbpprop:name	<http://dbpedia.org/resource/Pierre_Web%C3%B3> .

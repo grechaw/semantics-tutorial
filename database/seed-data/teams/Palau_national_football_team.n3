@@ -1,0 +1,188 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_des_Palaos_de_football	owl:sameAs	dbpedia:Palau_national_football_team .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Palauische_Fußballauswahl	owl:sameAs	dbpedia:Palau_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q863561	owl:sameAs	dbpedia:Palau_national_football_team .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Selección_de_fútbol_de_Palaos	owl:sameAs	dbpedia:Palau_national_football_team .
+@prefix ns6:	<http://id.dbpedia.org/resource/> .
+ns6:Tim_nasional_sepak_bola_Palau	owl:sameAs	dbpedia:Palau_national_football_team .
+@prefix ns7:	<http://it.dbpedia.org/resource/> .
+ns7:Nazionale_di_calcio_delle_Palau	owl:sameAs	dbpedia:Palau_national_football_team .
+@prefix ns8:	<http://ja.dbpedia.org/resource/> .
+ns8:サッカーパラオ代表	owl:sameAs	dbpedia:Palau_national_football_team .
+@prefix ns9:	<http://ko.dbpedia.org/resource/> .
+ns9:팔라우_축구_국가대표팀	owl:sameAs	dbpedia:Palau_national_football_team .
+@prefix ns10:	<http://nl.dbpedia.org/resource/> .
+ns10:Palaus_voetbalelftal	owl:sameAs	dbpedia:Palau_national_football_team .
+@prefix ns11:	<http://pl.dbpedia.org/resource/> .
+ns11:Reprezentacja_Palau_w_piłce_nożnej	owl:sameAs	dbpedia:Palau_national_football_team .
+@prefix ns12:	<http://pt.dbpedia.org/resource/> .
+ns12:Seleção_Palauana_de_Futebol	owl:sameAs	dbpedia:Palau_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns14:	<http://en.wikipedia.org/wiki/> .
+ns14:Palau_national_football_team	foaf:primaryTopic	dbpedia:Palau_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns16:	<http://schema.org/> .
+dbpedia:Palau_national_football_team	rdf:type	ns16:Organization .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Palau_national_football_team	rdf:type	yago:NationalSportsTeamsOfPalau ,
+		yago:YagoPermanentlyLocatedEntity ,
+		owl:Thing ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Palau_national_football_team	rdf:type	dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		yago:Team108208560 ,
+		yago:FootballTeam108080025 ,
+		yago:Unit108189659 ,
+		dbpedia-owl:Agent ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ,
+		dbpedia-owl:Organisation ,
+		yago:OceanianNationalAssociationFootballTeams .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Palau_national_football_team	rdf:type	dul:Agent ,
+		ns16:SportsTeam ,
+		dul:SocialPerson .
+@prefix ns20:	<http://he.dbpedia.org/resource/> .
+dbpedia:Palau_national_football_team	owl:sameAs	ns20:נבחרת_פלאו_בכדורגל ,
+		ns8:サッカーパラオ代表 .
+@prefix ns21:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Palau_national_football_team	owl:sameAs	ns21:Palau_vyrų_futbolo_rinktinė .
+@prefix ns22:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Palau_national_football_team	owl:sameAs	ns22:Сборная_Палау_по_футболу .
+@prefix ns23:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Palau_national_football_team	owl:sameAs	ns23:Echipa_națională_de_fotbal_a_Republicii_Palau .
+@prefix ns24:	<http://no.dbpedia.org/resource/> .
+dbpedia:Palau_national_football_team	owl:sameAs	ns24:Palaus_herrelandslag_i_fotball ,
+		ns12:Seleção_Palauana_de_Futebol .
+@prefix ns25:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Palau_national_football_team	owl:sameAs	ns25:Palau_national_football_team ,
+		ns9:팔라우_축구_국가대표팀 .
+@prefix ns26:	<http://yago-knowledge.org/resource/> .
+dbpedia:Palau_national_football_team	owl:sameAs	ns26:Palau_national_football_team ,
+		<http://rdf.freebase.com/ns/m.0fsp55> ,
+		ns1:Équipe_des_Palaos_de_football .
+@prefix ns27:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Palau_national_football_team	owl:sameAs	ns27:Đội_tuyển_bóng_đá_quốc_gia_Palau ,
+		ns5:Selección_de_fútbol_de_Palaos ,
+		ns7:Nazionale_di_calcio_delle_Palau ,
+		ns3:Palauische_Fußballauswahl .
+@prefix ns28:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Palau_national_football_team	owl:sameAs	ns28:Palau_Millî_Futbol_Takımı ,
+		ns4:Q863561 ,
+		dbpedia:Palau_national_football_team .
+@prefix ns29:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Palau_national_football_team	owl:sameAs	ns29:منتخب_بالاو_لكرة_القدم .
+@prefix ns30:	<http://wikidata.org/entity/> .
+dbpedia:Palau_national_football_team	owl:sameAs	ns30:Q863561 ,
+		ns10:Palaus_voetbalelftal ,
+		ns6:Tim_nasional_sepak_bola_Palau .
+@prefix ns31:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Palau_national_football_team	owl:sameAs	ns31:帕劳国家足球队 ,
+		ns11:Reprezentacja_Palau_w_piłce_nożnej .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Palau_national_football_team	rdfs:label	"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u041F\u0430\u043B\u0430\u0443 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"\u5E15\u52B3\u56FD\u5BB6\u8DB3\u7403\u961F"@zh ,
+		"Nazionale di calcio delle Palau"@it ,
+		"Palaus voetbalelftal"@nl ,
+		"Palauische Fu\u00DFballauswahl"@de ,
+		"Reprezentacja Palau w pi\u0142ce no\u017Cnej"@pl ,
+		"\u30B5\u30C3\u30AB\u30FC\u30D1\u30E9\u30AA\u4EE3\u8868"@ja ,
+		"Selecci\u00F3n de f\u00FAtbol de Palaos"@es ,
+		"Sele\u00E7\u00E3o Palauana de Futebol"@pt ,
+		"\u00C9quipe des Palaos de football"@fr ,
+		"Palau national football team" ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0628\u0627\u0644\u0627\u0648 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Palau_national_football_team	dcterms:subject	category:National_sports_teams_of_Palau ,
+		category:Oceanian_national_association_football_teams ,
+		category:Palau_national_football_team ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Palau_Soccer_Association_logo.jpg> ;
+	foaf:name	"Palau" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Palau_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Palau_national_football_team?oldid=605091313> ;
+	rdfs:comment	"The Palau national football team is the national football team of Palau. The team is not affiliated to FIFA or a local confederation. They joined the OFC in 2002, however their membership has since expired. The team play their home games at the Palau National Stadium in the town of Koror.Palau hosted and competed in the Micronesian Games in 1998. After winning 2 matches and losing the other 2, they finished in third place." ,
+		"\u5E15\u52B3\u56FD\u5BB6\u8DB3\u7403\u961F\u662F\u4EE3\u8868\u5E15\u52B3\u7684\u4E00\u652F\u8DB3\u7403\u961F\u3002\u5B83\u4E0D\u662F\u56FD\u9645\u8DB3\u8054\u7684\u6210\u5458\uFF0C\u4F46\u662F\u5927\u6D0B\u6D32\u8DB3\u534F\u7684\u51C6\u6210\u5458\u3002"@zh ,
+		"A Sele\u00E7\u00E3o Palauana de Futebol representa Palau nas competi\u00E7\u00F5es de futebol. Esse time n\u00E3o \u00E9 afiliado a FIFA, mas \u00E9 associado a Confedera\u00E7\u00E3o de Futebol da Oceania.O time de Palau competiu nos Jogos da Micron\u00E9sia em 1998, disputados na ilha, ganhando 2 jogos e perdendo outros dois.== Refer\u00EAncias =="@pt ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u041F\u0430\u043B\u0430\u0443 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u041F\u0430\u043B\u0430\u0443 \u0432 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0445 \u0438 \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u043C\u0430\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0435\u0439 \u041F\u0430\u043B\u0430\u0443. \u041F\u0430\u043B\u0430\u0443 \u043D\u0435 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0447\u043B\u0435\u043D\u043E\u043C \u0424\u0418\u0424\u0410, \u043D\u043E \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0430\u0441\u0441\u043E\u0446\u0438\u0440\u043E\u0432\u0430\u043D\u044B\u043C \u0447\u043B\u0435\u043D\u043E\u043C \u041A\u043E\u043D\u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u0444\u0443\u0442\u0431\u043E\u043B\u0430 \u041E\u043A\u0435\u0430\u043D\u0438\u0438 \u0441 2006 \u0433\u043E\u0434\u0430. \u0412 \u043E\u0442\u0431\u043E\u0440\u043E\u0447\u043D\u044B\u0445 \u0438\u0433\u0440\u0430\u0445 \u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0443 \u043C\u0438\u0440\u0430 \u0438 \u0432 \u041A\u0443\u0431\u043A\u0435 \u043D\u0430\u0446\u0438\u0439 \u041E\u0424\u041A \u0443\u0447\u0430\u0441\u0442\u0438\u044F \u043D\u0435 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u0435\u0442. \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0441\u043E\u0431\u0438\u0440\u0430\u043B\u0430\u0441\u044C \u043B\u0438\u0448\u044C 2 \u0440\u0430\u0437\u0430 \u2014 \u0432 1987 \u0438 1998 \u0433\u043E\u0434\u0430\u0445."@ru ,
+		"Reprezentacja Palau w pi\u0142ce no\u017Cnej nie jest cz\u0142onkiem FIFA, ale jest stowarzyszonym cz\u0142onkiem z OFC, mimo tego nie mo\u017Ce startowa\u0107 w Pucharze Narod\u00F3w Oceanii. Stadion reprezentacji nazywa si\u0119 \"National Stadium\"Do tej pory reprezentacja Palau rozegra\u0142a pi\u0119\u0107 spotka\u0144 rangi mi\u0119dzynarodowej (towarzyski mecz w 1987 roku oraz cztery spotkania w czasie turnieju Micronesian Cup w 1998 roku)."@pl ,
+		"Die Palauische Fu\u00DFballnationalmannschaft ist das Auswahlteam des pazifischen Inselstaates Palau.Palau ist weder Mitglied des Weltfu\u00DFballverbandes FIFA noch des Regionalverbandes OFC. Daher kann die Nationalmannschaft sich auch nicht f\u00FCr Fu\u00DFball-Weltmeisterschaften oder den OFC Nations Cup qualifizieren. Die Mannschaft ist Letzter der World Elo Rangliste."@de ,
+		"L'\u00E9quipe des Palaos de football est l'\u00E9quipe non reconnue internationalement de la r\u00E9publique des Palaos, qui est contr\u00F4l\u00E9e par la F\u00E9d\u00E9ration des Palaos de football.Elle n'est pas membre de la FIFA, ni de l'OFC et ne participe donc pas aux tournois internationaux.Portail du football Portail du football Portail des Palaos Portail des Palaos"@fr ,
+		"La Selecci\u00F3n nacional de f\u00FAtbol de Palaos es el equipo representativo de dicho pa\u00EDs en las competiciones oficiales, su organizaci\u00F3n est\u00E1 a cargo de la Asociaci\u00F3n de F\u00FAtbol de Palaos, que no es miembro de la FIFA, pero est\u00E1 en proceso de ingreso a la AFC.La selecci\u00F3n solo jug\u00F3 los seis partidos de los Juegos de la Micronesia 1998."@es ,
+		"\u30B5\u30C3\u30AB\u30FC\u30D1\u30E9\u30AA\u4EE3\u8868\u306F\u3001\u30D1\u30E9\u30AA\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30D1\u30E9\u30AA\u306E\u30B5\u30C3\u30AB\u30FC\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30D1\u30E9\u30AA\u306FFIFA\u3001OFC\u306B\u52A0\u76DF\u3057\u3066\u3044\u306A\u3044\u305F\u3081\u3001FIFA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u3084OFC\u30CD\u30A4\u30B7\u30E7\u30F3\u30BA\u30AB\u30C3\u30D7\u306B\u53C2\u52A0\u3059\u308B\u3053\u3068\u306F\u3067\u304D\u306A\u3044\u3002"@ja ,
+		"Het Palaus voetbalelftal is een team van voetballers dat Palau vertegenwoordigt bij internationale wedstrijden. Palau is \u00E9\u00E9n van de acht internationaal volledig erkende staten zonder een voetbalbond die lid is van de FIFA. De andere zijn Monaco, Kiribati, Micronesia, Tuvalu, Nauru, de Marshalleilanden en Vaticaanstad.Palau heeft in zijn bestaan tot en met 2010 slechts vijf internationale wedstrijden gespeeld. De eerste in 1987 en de overige vier in 1998."@nl ,
+		"La nazionale di calcio delle Palau \u00E8 la rappresentativa calcistica delle isole Palau, poste in Oceania, nell'Oceano Pacifico. La squadra non \u00E8 affiliata alla FIFA, ma \u00E8 un membro associato dell'OFC. Gioca le partite in casa nello Stadio Nazionale di Palau di Koror (4.000 posti).Il suo debutto internazionale risale al 1987. Nel 1998 ha partecipato ai Micronesia Games, ospitati dalla stessa Palau, vincendo due gare e perdendone altrettante."@it ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0628\u0627\u0644\u0627\u0648 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0648\u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0641\u064A \u0628\u0627\u0644\u0627\u0648 \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0628\u0627\u0644\u0627\u0648 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645. \u0648\u0647\u0648 \u0644\u0627 \u064A\u0645\u0643\u0646\u0647 \u0627\u0646 \u064A\u0634\u0627\u0631\u0643 \u0641\u064A \u0628\u0637\u0648\u0644\u0627\u062A \u0627\u0644\u0641\u064A\u0641\u0627 \u0644\u0627\u0646 \u0627\u062A\u062D\u0627\u062F \u0628\u0627\u0644\u0627\u0648 \u0644\u064A\u0633 \u0645\u0646\u0636\u0645 \u0644\u0647\u0627. \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0647 \u0627\u0646 \u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0643\u0623\u0633 \u0623\u0648\u0642\u064A\u0627\u0646\u0648\u0633\u064A\u0627 \u0644\u0644\u0623\u0645\u0645."@ar .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Palau_national_football_team	dbpprop:mostCaps	"Unknown" ;
+	foaf:isPrimaryTopicOf	ns14:Palau_national_football_team .
+@prefix ns37:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Palau_national_football_team	dbpprop:hasPhotoCollection	ns37:Palau_national_football_team ;
+	dbpprop:name	"Palau" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Palau_Soccer_Association_logo.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u5E15\u52B3\u56FD\u5BB6\u8DB3\u7403\u961F\u662F\u4EE3\u8868\u5E15\u52B3\u7684\u4E00\u652F\u8DB3\u7403\u961F\u3002\u5B83\u4E0D\u662F\u56FD\u9645\u8DB3\u8054\u7684\u6210\u5458\uFF0C\u4F46\u662F\u5927\u6D0B\u6D32\u8DB3\u534F\u7684\u51C6\u6210\u5458\u3002"@zh ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u041F\u0430\u043B\u0430\u0443 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u041F\u0430\u043B\u0430\u0443 \u0432 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u0432\u0441\u0442\u0440\u0435\u0447\u0430\u0445 \u0438 \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u043C\u0430\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0435\u0439 \u041F\u0430\u043B\u0430\u0443. \u041F\u0430\u043B\u0430\u0443 \u043D\u0435 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0447\u043B\u0435\u043D\u043E\u043C \u0424\u0418\u0424\u0410, \u043D\u043E \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0430\u0441\u0441\u043E\u0446\u0438\u0440\u043E\u0432\u0430\u043D\u044B\u043C \u0447\u043B\u0435\u043D\u043E\u043C \u041A\u043E\u043D\u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u0444\u0443\u0442\u0431\u043E\u043B\u0430 \u041E\u043A\u0435\u0430\u043D\u0438\u0438 \u0441 2006 \u0433\u043E\u0434\u0430. \u0412 \u043E\u0442\u0431\u043E\u0440\u043E\u0447\u043D\u044B\u0445 \u0438\u0433\u0440\u0430\u0445 \u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0443 \u043C\u0438\u0440\u0430 \u0438 \u0432 \u041A\u0443\u0431\u043A\u0435 \u043D\u0430\u0446\u0438\u0439 \u041E\u0424\u041A \u0443\u0447\u0430\u0441\u0442\u0438\u044F \u043D\u0435 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u0435\u0442. \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0441\u043E\u0431\u0438\u0440\u0430\u043B\u0430\u0441\u044C \u043B\u0438\u0448\u044C 2 \u0440\u0430\u0437\u0430 \u2014 \u0432 1987 \u0438 1998 \u0433\u043E\u0434\u0430\u0445."@ru ,
+		"The Palau national football team is the national football team of Palau. The team is not affiliated to FIFA or a local confederation. They joined the OFC in 2002, however their membership has since expired. The team play their home games at the Palau National Stadium in the town of Koror.Palau hosted and competed in the Micronesian Games in 1998. After winning 2 matches and losing the other 2, they finished in third place." ,
+		"Die Palauische Fu\u00DFballnationalmannschaft ist das Auswahlteam des pazifischen Inselstaates Palau.Palau ist weder Mitglied des Weltfu\u00DFballverbandes FIFA noch des Regionalverbandes OFC. Daher kann die Nationalmannschaft sich auch nicht f\u00FCr Fu\u00DFball-Weltmeisterschaften oder den OFC Nations Cup qualifizieren. Die Mannschaft ist Letzter der World Elo Rangliste."@de ,
+		"Reprezentacja Palau w pi\u0142ce no\u017Cnej nie jest cz\u0142onkiem FIFA, ale jest stowarzyszonym cz\u0142onkiem z OFC, mimo tego nie mo\u017Ce startowa\u0107 w Pucharze Narod\u00F3w Oceanii. Stadion reprezentacji nazywa si\u0119 \"National Stadium\"Do tej pory reprezentacja Palau rozegra\u0142a pi\u0119\u0107 spotka\u0144 rangi mi\u0119dzynarodowej (towarzyski mecz w 1987 roku oraz cztery spotkania w czasie turnieju Micronesian Cup w 1998 roku)."@pl ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0628\u0627\u0644\u0627\u0648 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0648\u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0641\u064A \u0628\u0627\u0644\u0627\u0648 \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0628\u0627\u0644\u0627\u0648 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645. \u0648\u0647\u0648 \u0644\u0627 \u064A\u0645\u0643\u0646\u0647 \u0627\u0646 \u064A\u0634\u0627\u0631\u0643 \u0641\u064A \u0628\u0637\u0648\u0644\u0627\u062A \u0627\u0644\u0641\u064A\u0641\u0627 \u0644\u0627\u0646 \u0627\u062A\u062D\u0627\u062F \u0628\u0627\u0644\u0627\u0648 \u0644\u064A\u0633 \u0645\u0646\u0636\u0645 \u0644\u0647\u0627. \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0647 \u0627\u0646 \u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0643\u0623\u0633 \u0623\u0648\u0642\u064A\u0627\u0646\u0648\u0633\u064A\u0627 \u0644\u0644\u0623\u0645\u0645."@ar ,
+		"L'\u00E9quipe des Palaos de football est l'\u00E9quipe non reconnue internationalement de la r\u00E9publique des Palaos, qui est contr\u00F4l\u00E9e par la F\u00E9d\u00E9ration des Palaos de football.Elle n'est pas membre de la FIFA, ni de l'OFC et ne participe donc pas aux tournois internationaux.Portail du football Portail du football Portail des Palaos Portail des Palaos"@fr ,
+		"Het Palaus voetbalelftal is een team van voetballers dat Palau vertegenwoordigt bij internationale wedstrijden. Palau is \u00E9\u00E9n van de acht internationaal volledig erkende staten zonder een voetbalbond die lid is van de FIFA. De andere zijn Monaco, Kiribati, Micronesia, Tuvalu, Nauru, de Marshalleilanden en Vaticaanstad.Palau heeft in zijn bestaan tot en met 2010 slechts vijf internationale wedstrijden gespeeld. De eerste in 1987 en de overige vier in 1998."@nl ,
+		"\u30B5\u30C3\u30AB\u30FC\u30D1\u30E9\u30AA\u4EE3\u8868\u306F\u3001\u30D1\u30E9\u30AA\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30D1\u30E9\u30AA\u306E\u30B5\u30C3\u30AB\u30FC\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30D1\u30E9\u30AA\u306FFIFA\u3001OFC\u306B\u52A0\u76DF\u3057\u3066\u3044\u306A\u3044\u305F\u3081\u3001FIFA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u3084OFC\u30CD\u30A4\u30B7\u30E7\u30F3\u30BA\u30AB\u30C3\u30D7\u306B\u53C2\u52A0\u3059\u308B\u3053\u3068\u306F\u3067\u304D\u306A\u3044\u3002"@ja ,
+		"La Selecci\u00F3n nacional de f\u00FAtbol de Palaos es el equipo representativo de dicho pa\u00EDs en las competiciones oficiales, su organizaci\u00F3n est\u00E1 a cargo de la Asociaci\u00F3n de F\u00FAtbol de Palaos, que no es miembro de la FIFA, pero est\u00E1 en proceso de ingreso a la AFC.La selecci\u00F3n solo jug\u00F3 los seis partidos de los Juegos de la Micronesia 1998."@es ,
+		"A Sele\u00E7\u00E3o Palauana de Futebol representa Palau nas competi\u00E7\u00F5es de futebol. Esse time n\u00E3o \u00E9 afiliado a FIFA, mas \u00E9 associado a Confedera\u00E7\u00E3o de Futebol da Oceania.O time de Palau competiu nos Jogos da Micron\u00E9sia em 1998, disputados na ilha, ganhando 2 jogos e perdendo outros dois.== Refer\u00EAncias =="@pt ,
+		"La nazionale di calcio delle Palau \u00E8 la rappresentativa calcistica delle isole Palau, poste in Oceania, nell'Oceano Pacifico. La squadra non \u00E8 affiliata alla FIFA, ma \u00E8 un membro associato dell'OFC. Gioca le partite in casa nello Stadio Nazionale di Palau di Koror (4.000 posti).Il suo debutto internazionale risale al 1987. Nel 1998 ha partecipato ai Micronesia Games, ospitati dalla stessa Palau, vincendo due gare e perdendone altrettante."@it ;
+	dbpedia-owl:wikiPageID	6148048 ;
+	dbpedia-owl:wikiPageRevisionID	605091313 ;
+	dbpprop:topScorer	"Shaun Walker" ;
+	dbpprop:coach	"Emmanuel Okoduwa" ;
+	dbpprop:association	dbpedia:Palau_Football_Association ;
+	dbpprop:body	"FFFF00" ,
+		0 ;
+	dbpprop:fifaTrigramme	"PLW" ;
+	dbpprop:leftarm	0 ,
+		"FFFF00" .
+@prefix ns38:	<http://dbpedia.org/datatype/> .
+dbpedia:Palau_national_football_team	dbpprop:patternB	"36000.0"^^ns38:second ,
+		"_palau10a" ;
+	dbpprop:patternLa	"_yellowborder" ,
+		"_blueborder2" ;
+	dbpprop:patternRa	"_yellowborder" ,
+		"_blueborder2" ;
+	dbpprop:rightarm	0 ,
+		"FFFF00" ;
+	dbpprop:shorts	0 ,
+		"FFFF00" ;
+	dbpprop:socks	0 ,
+		"FFFF00" ;
+	dbpprop:badge	"Palau Soccer Association logo.jpg" ;
+	dbpprop:firstGame	"Palau 2 \u2013 6" ;
+	dbpprop:largestLoss	"Palau 2 \u2013 15" ;
+	dbpprop:largestWin	"Palau 7 \u2013 1" ;
+	dbpprop:eloMax	222 ;
+	dbpprop:eloMaxDate	"August 1998" ;
+	dbpprop:eloMin	232 ;
+	dbpprop:eloMinDate	"since 2007" ;
+	dbpprop:eloRank	232 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.fedefutbol.net/fedenf.aspx?id=PLW> ;
+	dbpprop:homeStadium	<http://dbpedia.org/resource/National_Stadium_(Palau)> ;
+	dbpedia-owl:stadium	<http://dbpedia.org/resource/National_Stadium_(Palau)> .
+ns29:منتخب_بالاو_لكرة_القدم	owl:sameAs	dbpedia:Palau_national_football_team .
+ns20:נבחרת_פלאו_בכדורגל	owl:sameAs	dbpedia:Palau_national_football_team .
+ns21:Palau_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Palau_national_football_team .
+ns24:Palaus_herrelandslag_i_fotball	owl:sameAs	dbpedia:Palau_national_football_team .
+ns23:Echipa_națională_de_fotbal_a_Republicii_Palau	owl:sameAs	dbpedia:Palau_national_football_team .
+ns22:Сборная_Палау_по_футболу	owl:sameAs	dbpedia:Palau_national_football_team .
+ns25:Palau_national_football_team	owl:sameAs	dbpedia:Palau_national_football_team .
+ns28:Palau_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Palau_national_football_team .
+ns27:Đội_tuyển_bóng_đá_quốc_gia_Palau	owl:sameAs	dbpedia:Palau_national_football_team .
+ns31:帕劳国家足球队	owl:sameAs	dbpedia:Palau_national_football_team .

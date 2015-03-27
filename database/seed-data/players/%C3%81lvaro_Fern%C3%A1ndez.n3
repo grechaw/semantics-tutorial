@@ -1,0 +1,268 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez>	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez>	rdf:type	yago:Exile110071332 ,
+		yago:Traveler109629752 .
+@prefix ns3:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez>	rdf:type	ns3:Q215627 ,
+		yago:Absentee109757653 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> .
+@prefix ns4:	<http://schema.org/> .
+<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez>	rdf:type	ns4:Person ,
+		yago:PhysicalEntity100001930 ,
+		yago:FootballPlayer110101634 .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez>	rdf:type	dbpedia-owl:Athlete ,
+		yago:Athlete109820263 ,
+		yago:Player110439851 ,
+		yago:UniversidadDeChilePlayers ,
+		yago:Object100002684 ,
+		yago:Whole100003553 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez>	rdf:type	dul:NaturalPerson ,
+		yago:UruguayInternationalFootballers ,
+		dul:Agent ,
+		ns3:Q5 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez>	rdf:type	foaf:Person ,
+		dbpedia-owl:Person ,
+		yago:SoccerPlayer110618342 ,
+		dbpedia-owl:Agent ,
+		yago:Contestant109613191 ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:ExpatriateSoccerPlayersInTheUnitedStates ,
+		<http://dbpedia.org/class/yago/PueblaF.C.Players> ,
+		yago:ExpatriateFootballersInMexico ,
+		yago:ExpatriateFootballersInChile ,
+		yago:PeopleFromSorianoDepartment ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:UruguayanExpatriatesInPortugal ,
+		yago:SeattleSoundersFCPlayers ,
+		<http://dbpedia.org/class/yago/MontevideoWanderersF.C.Players> ,
+		yago:ExpatriateFootballersInPortugal ,
+		yago:PrimeiraLigaPlayers ,
+		yago:UruguayanExpatriateFootballers ,
+		yago:UruguayanFootballers ,
+		yago:ClubNacionalDeFootballPlayers ,
+		yago:AtenasDeSanCarlosPlayers ,
+		<http://dbpedia.org/class/yago/Vit%C3%B3riaF.C.Players> .
+@prefix ns8:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez>	owl:sameAs	ns8:Álvaro_Fernández ,
+		<http://rdf.freebase.com/ns/m.07k4dgf> ,
+		<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez>	rdfs:label	"\u00C1lvaro Fern\u00E1ndez (futbolista)"@es ,
+		"\u00C1lvaro Fern\u00E1ndez"@pl ,
+		"\u00C1lvaro Fern\u00E1ndez (football)"@fr ,
+		"\u00C1lvaro Fern\u00E1ndez" ,
+		"\u00C1lvaro Fern\u00E1ndez"@de ,
+		"\u00C1lvaro Fern\u00E1ndez"@it ,
+		"\u00C1lvaro Fern\u00E1ndez"@pt ,
+		"\u00C1lvaro Fern\u00E1ndez"@nl ,
+		"\u30A2\u30EB\u30D0\u30ED\u30FB\u30D5\u30A7\u30EB\u30CA\u30F3\u30C7\u30B9"@ja ,
+		"\u0424\u0435\u0440\u043D\u0430\u043D\u0434\u0435\u0441, \u0410\u043B\u044C\u0432\u0430\u0440\u043E"@ru ,
+		"\u0623\u0644\u0641\u0627\u0631\u0648 \u0641\u064A\u0631\u0646\u0627\u0646\u062F\u064A\u0632"@ar .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez>	dcterms:subject	category:Expatriate_footballers_in_Mexico ,
+		category:Expatriate_soccer_players_in_the_United_States ,
+		category:Liga_MX_footballers ,
+		category:Major_League_Soccer_players ,
+		<http://dbpedia.org/resource/Category:1985_births> ,
+		category:Uruguay_international_footballers ,
+		category:Uruguayan_expatriates_in_Argentina ,
+		<http://dbpedia.org/resource/Category:Chilean_Primera_Divisi%C3%B3n_players> ,
+		category:Uruguayan_expatriate_footballers ,
+		category:Uruguayan_footballers ,
+		<http://dbpedia.org/resource/Category:Montevideo_Wanderers_F.C._players> ,
+		category:Expatriate_footballers_in_Portugal ,
+		category:Universidad_de_Chile_players ,
+		<http://dbpedia.org/resource/Category:Puebla_F.C._footballers> ,
+		category:Living_people ,
+		category:Uruguayan_expatriates_in_Mexico ,
+		category:Gimnasia_y_Esgrima_de_La_Plata_footballers ,
+		category:Atenas_de_San_Carlos_players ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Uruguayan_expatriates_in_Qatar ,
+		<http://dbpedia.org/resource/Category:Vit%C3%B3ria_F.C._players> ,
+		category:Uruguayan_expatriates_in_Chile ,
+		category:Seattle_Sounders_FC_players ,
+		category:Expatriate_footballers_in_Chile ,
+		category:Club_Nacional_de_Football_players ,
+		category:Qatar_Stars_League_players ,
+		category:Al_Rayyan_SC_players ,
+		<http://dbpedia.org/resource/Category:Primera_Divisi%C3%B3n_Argentina_players> ,
+		category:Expatriate_footballers_in_Qatar ,
+		category:Expatriate_footballers_in_Argentina ,
+		<http://dbpedia.org/resource/Category:Designated_Players_(MLS)> ,
+		category:Chicago_Fire_Soccer_Club_players ,
+		category:People_from_Soriano_Department ,
+		category:Uruguayan_expatriates_in_Portugal ,
+		category:Primeira_Liga_players ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Alvaro_Fernandez_Sounders-1.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez>	dc:description	"Uruguayan footballer" ,
+		"Uruguayan footballer" ;
+	foaf:givenName	"Alvaro" ;
+	foaf:name	"Alvaro Fernandez" ,
+		"\u00C1lvaro Gay Fern\u00E1ndez" ,
+		"\u00C1lvaro Fern\u00E1ndez" ,
+		"Fernandez, Alvaro" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/\u00C1lvaro_Fern\u00E1ndez?oldid=606513290> ;
+	rdfs:comment	"\u00C1lvaro Fern\u00E1ndez Gay (Villa Soriano, 11 oktober 1985) is een Uruguayaans professioneel voetballer die momenteel als middenvelder actief is voor Gimnasia y Esgrima, dat hem huurt van Chicago Fire."@nl ,
+		"\u00C1lvaro Fern\u00E1ndez, n\u00E9 le 11 octobre 1985 \u00E0 Colonia del Sacramento, est un footballeur international uruguayen \u00E9voluant au poste de milieu de terrain."@fr ,
+		"\u00C1lvaro Fern\u00E1ndez (Spanish pronunciation: [\u02C8al\u03B2a\u027Eo fer\u02C8nandes]; born 11 October 1985 in Villa Soriano) is a Uruguayan footballer. He currently plays as a midfielder for argentine club Gimnasia y Esgrima La Plata on loan from the Chicago Fire." ,
+		"\u00C1lvaro Fern\u00E1ndez (Montevideo, 11 ottobre 1985) \u00E8 un calciatore uruguaiano, centrocampista del Gimnasia La Plata in pretito dai Chicago Fire e della Nazionale uruguaiana."@it ,
+		"\u00C1lvaro Fern\u00E1ndez (Montevid\u00E9u, 11 de outubro de 1985) \u00E9 um futebolista uruguaio que exerce a fun\u00E7\u00E3o de meio-campista. Atualmente defende o Al-Rayyan.Integrou o grupo da Sele\u00E7\u00E3o Uruguaia de Futebol que fez uma \u00F3tima campanha na Copa do Mundo FIFA de 2010."@pt ,
+		"\u00C1lvaro Fern\u00E1ndez Gay (* 11. Oktober 1985 in Colonia del Sacramento) ist ein uruguayischer Fu\u00DFballspieler."@de ,
+		"\u30A2\u30EB\u30D0\u30ED\u30FB\u30D5\u30A7\u30EB\u30CA\u30F3\u30C7\u30B9\uFF08\u00C1lvaro Fern\u00E1ndez, 1985\u5E7410\u670811\u65E5 - \uFF09\u306F\u3001\u30A6\u30EB\u30B0\u30A2\u30A4\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30CA\u30B7\u30AA\u30CA\u30EB\u30FB\u30E2\u30F3\u30C6\u30D3\u30C7\u30AA\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\u3002"@ja ,
+		"\u0623\u0644\u0641\u0627\u0631\u0648 \u0641\u064A\u0631\u0646\u0627\u0646\u062F\u064A\u0632 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: \u00C1lvaro Fern\u00E1ndez) (\u0645\u0648\u0627\u0644\u064A\u062F 11 \u0623\u0643\u062A\u0648\u0628\u0631 1985 \u0641\u064A \u0645\u0648\u0646\u062A\u064A\u0641\u064A\u062F\u064A\u0648) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0623\u0648\u0631\u0648\u063A\u0648\u0627\u064A\u0627\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0641\u064A \u0646\u0627\u062F\u064A \u0627\u0644\u0631\u064A\u0627\u0646 \u0627\u0644\u0642\u0637\u0631\u064A ."@ar ,
+		"\u0410\u0301\u043B\u044C\u0432\u0430\u0440\u043E \u0424\u0435\u0440\u043D\u0430\u0301\u043D\u0434\u0435\u0441 (\u0438\u0441\u043F. \u00C1lvaro Fern\u00E1ndez; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 11 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1985 \u0433\u043E\u0434\u0430, \u0421\u043E\u0440\u044C\u044F\u043D\u043E) \u2014 \u0443\u0440\u0443\u0433\u0432\u0430\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0438\u0439 \u0437\u0430 \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u0423\u0440\u0443\u0433\u0432\u0430\u044F \u0438 \u0443\u0440\u0443\u0433\u0432\u0430\u0439\u0441\u043A\u0438\u0439 \u043A\u043B\u0443\u0431 \u00AB\u041D\u0430\u0441\u044C\u043E\u043D\u0430\u043B\u044C\u00BB \u0432 \u0430\u0440\u0435\u043D\u0434\u0435 \u0438\u0437 \u00AB\u0427\u0438\u043A\u0430\u0433\u043E \u0424\u0430\u0439\u0440\u00BB."@ru ,
+		"\u00C1lvaro Fern\u00E1ndez (Agraciada, 11 de octubre de 1985) es un futbolista uruguayo. Su posici\u00F3n es mediocampista y actualmente juega en el Club de Gimnasia y Esgrima La Plata, de la primera divisi\u00F3n del f\u00FAtbol argentino."@es ,
+		"\u00C1lvaro Fern\u00E1ndez Gay (ur. 11 pa\u017Adziernika 1985 w Montevideo) - urugwajski pi\u0142karz wyst\u0119puj\u0105cy najcz\u0119\u015Bciej na pozycji defensywnego pomocnika. Obecnie gra w Seattle Sounders."@pl ;
+	foaf:surname	"Fernandez" .
+@prefix ns14:	<http://en.wikipedia.org/wiki/> .
+<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez>	foaf:isPrimaryTopicOf	ns14:Álvaro_Fernández .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez>	dbpprop:image	"Kevin-Prince Boateng and \u00C1lvaro Fern\u00E1ndez \u2013 Ghana vs. Uruguay 2010 FIFA World Cup.jpg" .
+@prefix ns16:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez>	dbpprop:hasPhotoCollection	ns16:Álvaro_Fernández ;
+	dbpprop:caption	"Fernandez and Kevin-Prince Boateng \u2013 Uruguay-Ghana, 2010 World Cup." ;
+	dbpprop:name	"\u00C1lvaro Fern\u00E1ndez" ,
+		"Fernandez, Alvaro" ;
+	dbpprop:width	"(120 * 750 / 536) round 0" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Alvaro_Fernandez_Sounders-1.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u00C1lvaro Fern\u00E1ndez, n\u00E9 le 11 octobre 1985 \u00E0 Colonia del Sacramento, est un footballeur international uruguayen \u00E9voluant au poste de milieu de terrain."@fr ,
+		"\u0623\u0644\u0641\u0627\u0631\u0648 \u0641\u064A\u0631\u0646\u0627\u0646\u062F\u064A\u0632 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: \u00C1lvaro Fern\u00E1ndez) (\u0645\u0648\u0627\u0644\u064A\u062F 11 \u0623\u0643\u062A\u0648\u0628\u0631 1985 \u0641\u064A \u0645\u0648\u0646\u062A\u064A\u0641\u064A\u062F\u064A\u0648) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0623\u0648\u0631\u0648\u063A\u0648\u0627\u064A\u0627\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0641\u064A \u0646\u0627\u062F\u064A \u0627\u0644\u0631\u064A\u0627\u0646 \u0627\u0644\u0642\u0637\u0631\u064A ."@ar ,
+		"\u00C1lvaro Fern\u00E1ndez Gay (* 11. Oktober 1985 in Colonia del Sacramento) ist ein uruguayischer Fu\u00DFballspieler."@de ,
+		"\u00C1lvaro Fern\u00E1ndez (Spanish pronunciation: [\u02C8al\u03B2a\u027Eo fer\u02C8nandes]; born 11 October 1985 in Villa Soriano) is a Uruguayan footballer. He currently plays as a midfielder for argentine club Gimnasia y Esgrima La Plata on loan from the Chicago Fire." ,
+		"\u00C1lvaro Fern\u00E1ndez (Montevideo, 11 ottobre 1985) \u00E8 un calciatore uruguaiano, centrocampista del Gimnasia La Plata in pretito dai Chicago Fire e della Nazionale uruguaiana."@it ,
+		"\u0410\u0301\u043B\u044C\u0432\u0430\u0440\u043E \u0424\u0435\u0440\u043D\u0430\u0301\u043D\u0434\u0435\u0441 (\u0438\u0441\u043F. \u00C1lvaro Fern\u00E1ndez; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 11 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1985 \u0433\u043E\u0434\u0430, \u0421\u043E\u0440\u044C\u044F\u043D\u043E) \u2014 \u0443\u0440\u0443\u0433\u0432\u0430\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0438\u0439 \u0437\u0430 \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u0423\u0440\u0443\u0433\u0432\u0430\u044F \u0438 \u0443\u0440\u0443\u0433\u0432\u0430\u0439\u0441\u043A\u0438\u0439 \u043A\u043B\u0443\u0431 \u00AB\u041D\u0430\u0441\u044C\u043E\u043D\u0430\u043B\u044C\u00BB \u0432 \u0430\u0440\u0435\u043D\u0434\u0435 \u0438\u0437 \u00AB\u0427\u0438\u043A\u0430\u0433\u043E \u0424\u0430\u0439\u0440\u00BB."@ru ,
+		"\u00C1lvaro Fern\u00E1ndez (Agraciada, 11 de octubre de 1985) es un futbolista uruguayo. Su posici\u00F3n es mediocampista y actualmente juega en el Club de Gimnasia y Esgrima La Plata, de la primera divisi\u00F3n del f\u00FAtbol argentino."@es ,
+		"\u00C1lvaro Fern\u00E1ndez Gay (ur. 11 pa\u017Adziernika 1985 w Montevideo) - urugwajski pi\u0142karz wyst\u0119puj\u0105cy najcz\u0119\u015Bciej na pozycji defensywnego pomocnika. Obecnie gra w Seattle Sounders."@pl ,
+		"\u30A2\u30EB\u30D0\u30ED\u30FB\u30D5\u30A7\u30EB\u30CA\u30F3\u30C7\u30B9\uFF08\u00C1lvaro Fern\u00E1ndez, 1985\u5E7410\u670811\u65E5 - \uFF09\u306F\u3001\u30A6\u30EB\u30B0\u30A2\u30A4\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30CA\u30B7\u30AA\u30CA\u30EB\u30FB\u30E2\u30F3\u30C6\u30D3\u30C7\u30AA\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\u3002"@ja ,
+		"\u00C1lvaro Fern\u00E1ndez (Montevid\u00E9u, 11 de outubro de 1985) \u00E9 um futebolista uruguaio que exerce a fun\u00E7\u00E3o de meio-campista. Atualmente defende o Al-Rayyan.Integrou o grupo da Sele\u00E7\u00E3o Uruguaia de Futebol que fez uma \u00F3tima campanha na Copa do Mundo FIFA de 2010."@pt ,
+		"\u00C1lvaro Fern\u00E1ndez Gay (Villa Soriano, 11 oktober 1985) is een Uruguayaans professioneel voetballer die momenteel als middenvelder actief is voor Gimnasia y Esgrima, dat hem huurt van Chicago Fire."@nl ;
+	dbpedia-owl:wikiPageID	24036123 ;
+	dbpedia-owl:wikiPageRevisionID	606513290 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez>	dbpprop:birthDate	"1985-10-11+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Villa Soriano, Uruguay" ;
+	dbpprop:dateOfBirth	"1985-10-11+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Villa Soriano, Uruguay" ;
+	dbpprop:shortDescription	"Uruguayan footballer" ;
+	dbpedia-owl:birthDate	"1985-10-11+02:00"^^xsd:date .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez>	dbpedia-owl:birthPlace	dbpedia:Villa_Soriano ,
+		dbpedia:Uruguay_national_football_team ;
+	dbpedia-owl:birthYear	"1985+02:00"^^xsd:gYear ;
+	dbpprop:direction	"vertical" ;
+	dbpprop:goals	2 ,
+		3 ,
+		0 ,
+		1 ,
+		4 ,
+		13 ;
+	dbpprop:caps	5 ,
+		9 ,
+		10 ,
+		11 ,
+		12 ,
+		13 ,
+		14 ,
+		15 ,
+		55 ,
+		43 ;
+	dbpprop:years	2006 ,
+		2007 ,
+		2005 ,
+		2014 ,
+		2012 ,
+		2013 ,
+		2010 ,
+		2008 ,
+		2009 ;
+	dbpprop:youthclubs	dbpedia:Uruguay_Montevideo ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez__8> ,
+		<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez__14> ,
+		<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez__13> ,
+		<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez__9> ,
+		<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez__6> ,
+		<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez__11> ,
+		<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez__2> ,
+		<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez__4> ,
+		<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez__3> ,
+		<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez__1> ,
+		<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez__5> ,
+		<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez__10> ,
+		<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez__12> ,
+		<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez__7> ;
+	dbpprop:position	dbpedia:Midfielder ;
+	dbpedia-owl:position	dbpedia:Midfielder ;
+	dbpedia-owl:height	1.8500000000000000888 .
+@prefix ns19:	<http://dbpedia.org/datatype/> .
+@prefix ns20:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez>	ns20:height	"185.0"^^ns19:centimetre ;
+	dbpprop:currentclub	dbpedia:Club_de_Gimnasia_y_Esgrima_La_Plata ;
+	dbpprop:clubnumber	14 ;
+	dbpprop:fullname	"\u00C1lvaro Gay Fern\u00E1ndez" ;
+	dbpprop:clubs	"\u2192 Universidad de Chile" ,
+		<http://dbpedia.org/resource/Puebla_F.C.> ,
+		"\u2192 Vit\u00F3ria" ,
+		<http://dbpedia.org/resource/Montevideo_Wanderers_F.C.> ,
+		dbpedia:Club_Nacional_de_Football ,
+		dbpedia:Atenas_de_San_Carlos ,
+		"\u2192 Al Rayyan" ,
+		dbpedia:Seattle_Sounders_FC ,
+		"\u2192 Gimnasia y Esgrima La Plata" ,
+		dbpedia:Uruguay_Montevideo ,
+		dbpedia:Chicago_Fire_Soccer_Club ,
+		"\u2192 Nacional" ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/Puebla_F.C.> ,
+		<http://dbpedia.org/resource/Montevideo_Wanderers_F.C.> ,
+		dbpedia:Club_Nacional_de_Football ,
+		dbpedia:Club_Universidad_de_Chile ,
+		dbpedia:Atenas_de_San_Carlos ,
+		dbpedia:Club_de_Gimnasia_y_Esgrima_La_Plata ,
+		dbpedia:Uruguay_national_football_team ,
+		dbpedia:Seattle_Sounders_FC ,
+		dbpedia:Uruguay_Montevideo ,
+		dbpedia:Chicago_Fire_Soccer_Club ,
+		dbpedia:Al_Rayyan_SC ,
+		<http://dbpedia.org/resource/Vit%C3%B3ria_F.C.> ;
+	dbpprop:pcupdate	"2014-04-29+02:00"^^xsd:date ;
+	dbpprop:youthyears	2001 .
+@prefix ns21:	<http://www.mlssoccer.com/players/> .
+<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez>	dbpedia-owl:wikiPageExternalLink	ns21:alvaro-fernandez ,
+		<http://soccernet-assets.espn.go.com/players/stats?id=96060&cc=5739> ;
+	dbpprop:nationalcaps	12 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:Uruguay_national_football_team ;
+	dbpprop:nationalyears	2009 ;
+	dbpedia-owl:number	14 ;
+	dbpprop:ntupdate	"2012-10-25+02:00"^^xsd:date ;
+	dbpprop:align	"right" .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez> .
+<http://dbpedia.org/resource/2010_Seattle_Sounders_FC_season>	dbpprop:name	<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez> .
+ns14:Álvaro_Fernández	foaf:primaryTopic	<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez> .
+<http://dbpedia.org/resource/2009%E2%80%9310_Club_Nacional_de_Football_season>	dbpprop:name	<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez> .
+dbpedia:Uruguay_national_football_team	dbpprop:name	<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez> .
+<http://dbpedia.org/resource/2008%E2%80%9309_Club_Nacional_de_Football_season>	dbpprop:name	<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez> ;
+	dbpprop:p	<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez> .
+<http://dbpedia.org/resource/2011_Seattle_Sounders_FC_season>	dbpprop:name	<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez> .
+dbpedia:Álvaro_Fernández	owl:sameAs	<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez> .
+<http://dbpedia.org/resource/2010_Seattle_Sounders_FC_season__%C3%81lvaro_Fern%C3%A1ndez__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez> .
+<http://dbpedia.org/resource/2010_Seattle_Sounders_FC_season__%C3%81lvaro_Fern%C3%A1ndez__2>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez> .
+<http://dbpedia.org/resource/2011_Seattle_Sounders_FC_season__%C3%81lvaro_Fern%C3%A1ndez__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez> .
+dbpedia:Alvaro_Fernandez	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez> .
+<http://dbpedia.org/resource/2009%E2%80%9310_Club_Nacional_de_Football_season__%C3%81lvaro_Fern%C3%A1ndez__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez> .
+<http://dbpedia.org/resource/2008%E2%80%9309_Club_Nacional_de_Football_season__%C3%81lvaro_Fern%C3%A1ndez__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez> .
+<http://dbpedia.org/resource/2008%E2%80%9309_Club_Nacional_de_Football_season__%C3%81lvaro_Fern%C3%A1ndez__2>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/%C3%81lvaro_Fern%C3%A1ndez> .

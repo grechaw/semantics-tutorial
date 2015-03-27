@@ -1,0 +1,226 @@
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Argentina_national_football_team	dbpprop:name	<http://dbpedia.org/resource/Mariano_And%C3%BAjar> .
+<http://dbpedia.org/resource/2011_Copa_Am%C3%A9rica_squads>	dbpprop:name	<http://dbpedia.org/resource/Mariano_And%C3%BAjar> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns3:	<http://en.wikipedia.org/wiki/> .
+ns3:Mariano_Andújar	foaf:primaryTopic	<http://dbpedia.org/resource/Mariano_And%C3%BAjar> .
+<http://dbpedia.org/resource/List_of_Argentine_Primera_Divisi%C3%B3n_transfers_(2009%E2%80%9310_season)>	dbpprop:name	<http://dbpedia.org/resource/Mariano_And%C3%BAjar> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/List_of_Argentine_Primera_Divisi%C3%B3n_transfers_(2009%E2%80%9310_season)>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Mariano_And%C3%BAjar> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Mariano_And%C3%BAjar>	rdf:type	yago:Whole100003553 ,
+		<http://dbpedia.org/class/yago/2011CopaAm%C3%A9ricaPlayers> ,
+		yago:Object100002684 .
+@prefix ns7:	<http://schema.org/> .
+<http://dbpedia.org/resource/Mariano_And%C3%BAjar>	rdf:type	ns7:Person ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Person .
+@prefix ns8:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Mariano_And%C3%BAjar>	rdf:type	ns8:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Mariano_And%C3%BAjar>	rdf:type	owl:Thing ,
+		yago:CalcioCataniaPlayers .
+@prefix ns10:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Mariano_And%C3%BAjar>	rdf:type	ns10:Athlete ,
+		yago:SerieAFootballers ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		dbpedia-owl:Athlete ,
+		yago:ArgentineExpatriateFootballers ,
+		yago:ExpatriateFootballersInItaly ,
+		yago:ArgentineExpatriatesInItaly ,
+		ns10:SoccerPlayer .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Mariano_And%C3%BAjar>	rdf:type	dul:NaturalPerson ,
+		yago:AssociationFootballGoalkeepers ,
+		yago:HockeyPlayer110179291 ,
+		yago:Goalkeeper110134001 ,
+		yago:ArgentineFootballers ,
+		yago:ArgentinaInternationalFootballers ,
+		<http://dbpedia.org/class/yago/PrimeraDivisi%C3%B3nArgentinaPlayers> ,
+		ns8:Q5 ,
+		yago:EstudiantesDeLaPlataFootballers ,
+		<http://dbpedia.org/class/yago/Hurac%C3%A1nFootballers> ,
+		dul:Agent ,
+		<http://dbpedia.org/class/yago/U.S.Citt%C3%A0DiPalermoPlayers> ,
+		yago:Athlete109820263 ,
+		yago:FootballPlayer110101634 ,
+		yago:Player110439851 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		foaf:Person ,
+		yago:LivingPeople ,
+		yago:Contestant109613191 ,
+		yago:PhysicalEntity100001930 ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:SoccerPlayer110618342 ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.027479p> .
+@prefix ns12:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Mariano_And%C3%BAjar>	owl:sameAs	ns12:Mariano_Andújar ,
+		<http://dbpedia.org/resource/Mariano_And%C3%BAjar> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Mariano_And%C3%BAjar>	rdfs:label	"Mariano And\u00FAjar"@pl ,
+		"Mariano And\u00FAjar"@it ,
+		"Mariano And\u00FAjar"@es ,
+		"Mariano And\u00FAjar"@pt ,
+		"\u30DE\u30EA\u30A2\u30FC\u30CE\u30FB\u30A2\u30F3\u30C9\u30A5\u30CF\u30EB"@ja ,
+		"Mariano And\u00FAjar" ,
+		"Mariano And\u00FAjar"@fr ,
+		"\u0410\u043D\u0434\u0443\u0445\u0430\u0440, \u041C\u0430\u0440\u0438\u0430\u043D\u043E"@ru ,
+		"Mariano And\u00FAjar"@de ,
+		"Mariano And\u00FAjar"@nl ,
+		"\u0645\u0627\u0631\u064A\u0627\u0646\u0648 \u0623\u0646\u062F\u0648\u062E\u0627\u0631"@ar .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Mariano_And%C3%BAjar>	dcterms:subject	category:Serie_A_footballers ,
+		category:Argentine_expatriate_sportspeople_in_Italy ,
+		category:Expatriate_footballers_in_Italy ,
+		<http://dbpedia.org/resource/Category:U.S._Citt%C3%A0_di_Palermo_players> ,
+		category:Calcio_Catania_players ,
+		category:Estudiantes_de_La_Plata_footballers ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2011_Copa_Am%C3%A9rica_players> ,
+		category:Argentine_expatriate_footballers ,
+		<http://dbpedia.org/resource/Category:1983_births> ,
+		category:Living_people ,
+		category:Argentine_expatriates_in_Italy ,
+		<http://dbpedia.org/resource/Category:Hurac%C3%A1n_footballers> ,
+		category:Argentina_international_footballers ,
+		category:Argentine_footballers ,
+		<http://dbpedia.org/resource/Category:Primera_Divisi%C3%B3n_Argentina_players> ,
+		category:Sportspeople_from_Buenos_Aires ,
+		category:Association_football_goalkeepers ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Mariano_And\u00FAjar.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Mariano_And%C3%BAjar>	dc:description	"Argentine footballer" ,
+		"Argentine footballer" ;
+	foaf:givenName	"Mariano Gonzalo" ;
+	foaf:name	"Andujar, Mariano Gonzalo" ,
+		"Mariano Gonzalo Andujar" ,
+		"Mariano Gonzalo And\u00FAjar" ,
+		"Mariano And\u00FAjar" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Mariano_And%C3%BAjar>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Mariano_And\u00FAjar?oldid=593383635> ;
+	rdfs:comment	"\u30DE\u30EA\u30A2\u30FC\u30CE\u30FB\u30A2\u30F3\u30C9\u30A5\u30CF\u30EB\uFF08Mariano Gonzalo And\u00FAjar\u30011983\u5E747\u670830\u65E5 - \uFF09\u306F\u3001\u30A2\u30EB\u30BC\u30F3\u30C1\u30F3\u30FB\u30D6\u30A8\u30CE\u30B9\u30A2\u30A4\u30EC\u30B9\u51FA\u8EAB\u3001\u540C\u56FD\u4EE3\u8868\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30BB\u30EA\u30A8A\u30FB\u30AB\u30EB\u30C1\u30E7\u30FB\u30AB\u30BF\u30FC\u30CB\u30A2\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30B4\u30FC\u30EB\u30AD\u30FC\u30D1\u30FC\u3002"@ja ,
+		"\u0645\u0627\u0631\u064A\u0627\u0646\u0648 \u063A\u0648\u0646\u0632\u0627\u0644\u0648 \u0623\u0646\u062F\u0648\u062E\u0627\u0631 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: Mariano Gonzalo And\u00FAjar) \u0627\u0644\u0634\u0647\u064A\u0631 \u0628\u0627\u0633\u0645 \u0645\u0627\u0631\u064A\u0627\u0646\u0648 \u0623\u0646\u062F\u0648\u062E\u0627\u0631 (\u0645\u0648\u0627\u0644\u064A\u062F 30 \u064A\u0648\u0644\u064A\u0648 1983 \u0641\u064A \u0628\u0648\u064A\u0646\u0633 \u0622\u064A\u0631\u0633 - \u0627\u0644\u0623\u0631\u062C\u0646\u062A\u064A\u0646) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0623\u0631\u062C\u0646\u062A\u064A\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0643\u0627\u062A\u0627\u0646\u064A\u0627 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A \u0645\u0646\u0630 2009 \u0641\u064A \u0645\u0631\u0643\u0632 \u062D\u0627\u0631\u0633 \u0645\u0631\u0645\u0649 ."@ar ,
+		"Mariano Gonzalo And\u00FAjar (Buenos Aires, 30 de julho de 1983) \u00E9 um futebolista argentino que atua como goleiro. Atualmente, joga pelo Catania."@pt ,
+		"Mariano Gonzalo And\u00FAjar (Buenos Aires, 30 juli 1983) is een Argentijns doelman in het betaald voetbal. Hij tekende in juni 2009 een vierjarig contract bij Calcio Catania om daar als eerste keeper te gaan fungeren. In juni 2009 verdedigde hij voor het eerst het doel van het Argentijns voetbalelftal.De 1.94 meter lange And\u00FAjar begon in 2001 als keeper van het jeugdteam van Club Atl\u00E9tico Hurac\u00E1n. Hij debuteerde daar een jaar later in de hoofdmacht."@nl ,
+		"Mariano And\u00FAjar (ur. 30 lipca 1983 w Buenos Aires) \u2013 argenty\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji bramkarza. Obecnie gra w Catanii."@pl ,
+		"Mariano Gonzalo And\u00FAjar, n\u00E9 le 30 juillet 1983 \u00E0 Buenos Aires, est un footballeur argentin \u00E9voluant au poste de gardien."@fr ,
+		"Mariano Gonzalo And\u00FAjar (* 30. Juli 1983 in Buenos Aires) ist ein argentinischer Fu\u00DFball-Torwart."@de ,
+		"Mariano Gonzalo And\u00FAjar (Buenos Aires, 30 luglio 1983) \u00E8 un calciatore argentino, portiere del Catania, in prestito dal Napoli, e della Nazionale argentina."@it ,
+		"Mariano Gonzalo And\u00FAjar (born 30 July 1983) is an Argentine professional association footballer who plays in Serie A for Catania on loan from Napoli, as a goalkeeper." ,
+		"\u041C\u0430\u0440\u0438\u0430\u0301\u043D\u043E \u0413\u043E\u043D\u0441\u0430\u0301\u043B\u043E \u0410\u043D\u0434\u0443\u0301\u0445\u0430\u0440 (\u0438\u0441\u043F. Mariano Gonzalo And\u00FAjar; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 30 \u0438\u044E\u043B\u044F 1983 \u0432 \u0411\u0443\u044D\u043D\u043E\u0441-\u0410\u0439\u0440\u0435\u0441\u0435) \u2014 \u0430\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432\u0440\u0430\u0442\u0430\u0440\u044C \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u041A\u0430\u0442\u0430\u043D\u0438\u044F\u00BB (\u0441 \u043B\u0435\u0442\u0430 2009) \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0410\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u044B. \u041F\u043E\u043B\u0443\u0447\u0438\u043B \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u043E\u0441\u0442\u044C \u043F\u043E \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u044F\u043C \u0437\u0430 \u00AB\u042D\u0441\u0442\u0443\u0434\u0438\u0430\u043D\u0442\u0435\u0441\u00BB, \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u043A\u043E\u0442\u043E\u0440\u043E\u0433\u043E \u0432 2009 \u0433\u043E\u0434\u0443 \u0432\u044B\u0438\u0433\u0440\u0430\u043B \u041A\u0443\u0431\u043E\u043A \u041B\u0438\u0431\u0435\u0440\u0442\u0430\u0434\u043E\u0440\u0435\u0441 \u0438 \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u043F\u0440\u0438\u0433\u043B\u0430\u0448\u0435\u043D\u0438\u0435 \u0432 \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u0410\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u044B."@ru ,
+		"Mariano Gonzalo And\u00FAjar (Buenos Aires, 30 de julio de 1983) es un futbolista argentino. Se desempe\u00F1a como arquero y su equipo actual es el Catania de la Serie A de Italia."@es ;
+	foaf:surname	"Andujar" ;
+	foaf:isPrimaryTopicOf	ns3:Mariano_Andújar .
+@prefix ns18:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Mariano_And%C3%BAjar>	dbpprop:hasPhotoCollection	ns18:Mariano_Andújar ;
+	dbpprop:caption	"And\u00FAjar with Argentina in 2009" ;
+	dbpprop:name	"Mariano And\u00FAjar" ,
+		"Andujar, Mariano Gonzalo" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Mariano_And\u00FAjar.jpg?width=300> ;
+	dbpedia-owl:abstract	"Mariano Gonzalo And\u00FAjar (Buenos Aires, 30 de julho de 1983) \u00E9 um futebolista argentino que atua como goleiro. Atualmente, joga pelo Catania."@pt ,
+		"\u30DE\u30EA\u30A2\u30FC\u30CE\u30FB\u30A2\u30F3\u30C9\u30A5\u30CF\u30EB\uFF08Mariano Gonzalo And\u00FAjar\u30011983\u5E747\u670830\u65E5 - \uFF09\u306F\u3001\u30A2\u30EB\u30BC\u30F3\u30C1\u30F3\u30FB\u30D6\u30A8\u30CE\u30B9\u30A2\u30A4\u30EC\u30B9\u51FA\u8EAB\u3001\u540C\u56FD\u4EE3\u8868\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30BB\u30EA\u30A8A\u30FB\u30AB\u30EB\u30C1\u30E7\u30FB\u30AB\u30BF\u30FC\u30CB\u30A2\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30B4\u30FC\u30EB\u30AD\u30FC\u30D1\u30FC\u3002"@ja ,
+		"Mariano Gonzalo And\u00FAjar (Buenos Aires, 30 de julio de 1983) es un futbolista argentino. Se desempe\u00F1a como arquero y su equipo actual es el Catania de la Serie A de Italia."@es ,
+		"Mariano Gonzalo And\u00FAjar (born 30 July 1983) is an Argentine professional association footballer who plays in Serie A for Catania on loan from Napoli, as a goalkeeper." ,
+		"Mariano Gonzalo And\u00FAjar (Buenos Aires, 30 juli 1983) is een Argentijns doelman in het betaald voetbal. Hij tekende in juni 2009 een vierjarig contract bij Calcio Catania om daar als eerste keeper te gaan fungeren. In juni 2009 verdedigde hij voor het eerst het doel van het Argentijns voetbalelftal.De 1.94 meter lange And\u00FAjar begon in 2001 als keeper van het jeugdteam van Club Atl\u00E9tico Hurac\u00E1n. Hij debuteerde daar een jaar later in de hoofdmacht. De club degradeerde in 2003 uit de Primera Divisi\u00F3n. Hij bleef en werd in het seizoen 2004/05 eerste keeper. In de daaropvolgende zomer klopte US Palermo aan om And\u00FAjar een jaar te huren. Na dat jaar stuurden de Italianen hem terug naar Hurac\u00E1n, maar bij terugkeer in zijn thuisland werd hij direct gekocht door Estudiantes de La Plata. Daarmee werd hij in het seizoen 2006/07 landskampioen en won hij een paar jaar later de Copa Libertadores 2009. Calcio Catania haalde And\u00FAjar daarop in juni 2009 opnieuw naar Itali\u00EB en kwam een vierjarig contract met hem overeen.Bondscoach Diego Maradona liet And\u00FAjar in juni 2009 debuteren in het Argentijnse nationale team. Een jaar later nam hij hem mee naar het WK 2010 als reservekeeper achter Sergio Romero."@nl ,
+		"\u0645\u0627\u0631\u064A\u0627\u0646\u0648 \u063A\u0648\u0646\u0632\u0627\u0644\u0648 \u0623\u0646\u062F\u0648\u062E\u0627\u0631 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: Mariano Gonzalo And\u00FAjar) \u0627\u0644\u0634\u0647\u064A\u0631 \u0628\u0627\u0633\u0645 \u0645\u0627\u0631\u064A\u0627\u0646\u0648 \u0623\u0646\u062F\u0648\u062E\u0627\u0631 (\u0645\u0648\u0627\u0644\u064A\u062F 30 \u064A\u0648\u0644\u064A\u0648 1983 \u0641\u064A \u0628\u0648\u064A\u0646\u0633 \u0622\u064A\u0631\u0633 - \u0627\u0644\u0623\u0631\u062C\u0646\u062A\u064A\u0646) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0623\u0631\u062C\u0646\u062A\u064A\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0643\u0627\u062A\u0627\u0646\u064A\u0627 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A \u0645\u0646\u0630 2009 \u0641\u064A \u0645\u0631\u0643\u0632 \u062D\u0627\u0631\u0633 \u0645\u0631\u0645\u0649 ."@ar ,
+		"Mariano Gonzalo And\u00FAjar, n\u00E9 le 30 juillet 1983 \u00E0 Buenos Aires, est un footballeur argentin \u00E9voluant au poste de gardien. Form\u00E9 \u00E0 CA Hurac\u00E1n avec lequel il fait ses d\u00E9buts professionnels en 2001, il tente une premi\u00E8re exp\u00E9rience en Europe \u00E0 l'US Palerme avec un pr\u00EAt d'une ann\u00E9e lors de la saison 2005-06, cependant il retourne la saison suivante en Argentine \u00E0 l'Estudiantes o\u00F9 l'entra\u00EEneur Diego Simeone en fait un titulaire, avec ce dernier club il remporte en 2006 le tournoi d'ouverture du Championnat d'Argentine puis en 2009 la Copa Libertadores. Ce passage \u00E0 l'Estudiantes est une r\u00E9ussite puisqu'il d\u00E9cide de retenter sa chance en Italie au Calcio Catane en 2009 et a connu deux s\u00E9lections en \u00E9quipe d'Argentine la m\u00EAme ann\u00E9e sous les ordres de Diego Maradona."@fr ,
+		"Mariano And\u00FAjar (ur. 30 lipca 1983 w Buenos Aires) \u2013 argenty\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji bramkarza. Obecnie gra w Catanii."@pl ,
+		"\u041C\u0430\u0440\u0438\u0430\u0301\u043D\u043E \u0413\u043E\u043D\u0441\u0430\u0301\u043B\u043E \u0410\u043D\u0434\u0443\u0301\u0445\u0430\u0440 (\u0438\u0441\u043F. Mariano Gonzalo And\u00FAjar; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 30 \u0438\u044E\u043B\u044F 1983 \u0432 \u0411\u0443\u044D\u043D\u043E\u0441-\u0410\u0439\u0440\u0435\u0441\u0435) \u2014 \u0430\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432\u0440\u0430\u0442\u0430\u0440\u044C \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u041A\u0430\u0442\u0430\u043D\u0438\u044F\u00BB (\u0441 \u043B\u0435\u0442\u0430 2009) \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0410\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u044B. \u041F\u043E\u043B\u0443\u0447\u0438\u043B \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u043E\u0441\u0442\u044C \u043F\u043E \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u044F\u043C \u0437\u0430 \u00AB\u042D\u0441\u0442\u0443\u0434\u0438\u0430\u043D\u0442\u0435\u0441\u00BB, \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u043A\u043E\u0442\u043E\u0440\u043E\u0433\u043E \u0432 2009 \u0433\u043E\u0434\u0443 \u0432\u044B\u0438\u0433\u0440\u0430\u043B \u041A\u0443\u0431\u043E\u043A \u041B\u0438\u0431\u0435\u0440\u0442\u0430\u0434\u043E\u0440\u0435\u0441 \u0438 \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u043F\u0440\u0438\u0433\u043B\u0430\u0448\u0435\u043D\u0438\u0435 \u0432 \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u0410\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u044B."@ru ,
+		"Mariano Gonzalo And\u00FAjar (Buenos Aires, 30 luglio 1983) \u00E8 un calciatore argentino, portiere del Catania, in prestito dal Napoli, e della Nazionale argentina."@it ,
+		"Mariano Gonzalo And\u00FAjar (* 30. Juli 1983 in Buenos Aires) ist ein argentinischer Fu\u00DFball-Torwart."@de ;
+	dbpedia-owl:wikiPageID	8459888 ;
+	dbpedia-owl:wikiPageRevisionID	593383635 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Mariano_And%C3%BAjar>	dbpprop:birthDate	"1983-07-30+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Buenos Aires, Argentina" ;
+	dbpprop:dateOfBirth	"1983-07-30+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Buenos Aires, Argentina" ;
+	dbpprop:shortDescription	"Argentine footballer" ;
+	dbpedia-owl:birthDate	"1983-07-30+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Buenos_Aires ,
+		dbpedia:Argentina_national_football_team ;
+	dbpedia-owl:birthYear	"1983+02:00"^^xsd:gYear ;
+	dbpprop:goals	0 ;
+	dbpprop:bg	"#75aadb" ;
+	dbpprop:caps	135 ,
+		105 ,
+		18 ,
+		11 ,
+		0 ,
+		60 ;
+	dbpprop:years	2009 ,
+		2014 ,
+		2012 ,
+		2001 ,
+		2006 ,
+		2005 ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Mariano_And%C3%BAjar__4> ,
+		<http://dbpedia.org/resource/Mariano_And%C3%BAjar__2> ,
+		<http://dbpedia.org/resource/Mariano_And%C3%BAjar__6> ,
+		<http://dbpedia.org/resource/Mariano_And%C3%BAjar__1> ,
+		<http://dbpedia.org/resource/Mariano_And%C3%BAjar__8> ,
+		<http://dbpedia.org/resource/Mariano_And%C3%BAjar__7> ,
+		<http://dbpedia.org/resource/Mariano_And%C3%BAjar__3> ,
+		<http://dbpedia.org/resource/Mariano_And%C3%BAjar__5> ;
+	dbpprop:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbpedia-owl:height	1.9399999999999999467 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Mariano_And%C3%BAjar>	ns21:height	"194.0"^^ns20:centimetre ;
+	dbpprop:currentclub	dbpedia:Calcio_Catania ;
+	dbpprop:clubnumber	21 ;
+	dbpprop:fullname	"Mariano Gonzalo And\u00FAjar" ;
+	dbpprop:clubs	dbpedia:Estudiantes_de_La_Plata ,
+		dbpedia:Calcio_Catania ,
+		"\u2192 Catania" ,
+		"\u2192 Estudiantes" ,
+		<http://dbpedia.org/resource/Club_Atl%C3%A9tico_Hurac%C3%A1n> ,
+		"\u2192 Palermo" ,
+		<http://dbpedia.org/resource/S.S.C._Napoli> ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/U.S._Citt%C3%A0_di_Palermo> ,
+		dbpedia:Estudiantes_de_La_Plata ,
+		dbpedia:Calcio_Catania ,
+		<http://dbpedia.org/resource/Club_Atl%C3%A9tico_Hurac%C3%A1n> ,
+		<http://dbpedia.org/resource/S.S.C._Napoli> ,
+		dbpedia:Argentina_national_football_team .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Mariano_And%C3%BAjar>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Argentina squads" ;
+	dbpprop:pcupdate	"2014-01-31+02:00"^^xsd:date ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.futbolxxi.com/Futbolista.aspx?ID=12812&SEOFutbolista=Andujar+Mariano+Gonzalo> ,
+		<http://soccernet.espn.go.com/players/stats?id=84293&cc=5739> ,
+		<http://www.football-lineups.com/footballer/4863/> ;
+	dbpprop:bordercolor	"silver" ;
+	dbpprop:fg	"white" ;
+	dbpprop:nationalcaps	10 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:Argentina_national_football_team ;
+	dbpprop:nationalyears	2009 ;
+	dbpedia-owl:number	21 ;
+	dbpprop:ntupdate	"2013-06-22+02:00"^^xsd:date .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Mariano_And%C3%BAjar> .
+<http://dbpedia.org/resource/2012%E2%80%9313_Calcio_Catania_season>	dbpprop:name	<http://dbpedia.org/resource/Mariano_And%C3%BAjar> ;
+	dbpprop:p	<http://dbpedia.org/resource/Mariano_And%C3%BAjar> .
+<http://dbpedia.org/resource/2013%E2%80%9314_S.S.C._Napoli_season>	dbpprop:p	<http://dbpedia.org/resource/Mariano_And%C3%BAjar> .
+<http://dbpedia.org/resource/S.S.C._Napoli>	dbpprop:name	<http://dbpedia.org/resource/Mariano_And%C3%BAjar> .
+<http://dbpedia.org/resource/S.S.C._Napoli__Mariano_And%C3%BAjar__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Mariano_And%C3%BAjar> .
+dbpedia:Calcio_Catania	dbpprop:name	<http://dbpedia.org/resource/Mariano_And%C3%BAjar> .
+<http://dbpedia.org/resource/Calcio_Catania__Mariano_And%C3%BAjar__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Mariano_And%C3%BAjar> .
+dbpedia:Mariano_Andújar	owl:sameAs	<http://dbpedia.org/resource/Mariano_And%C3%BAjar> .
+<http://dbpedia.org/resource/And%C3%BAjar_(disambiguation)>	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Mariano_And%C3%BAjar> .
+<http://dbpedia.org/resource/2012%E2%80%9313_Calcio_Catania_season__Mariano_And%C3%BAjar__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Mariano_And%C3%BAjar> .
+dbpedia:Mariano_Andujar	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Mariano_And%C3%BAjar> .
+<http://dbpedia.org/resource/Mariano_Gonzalo_And%C3%BAjar>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Mariano_And%C3%BAjar> .
+dbpedia:Mariano_Gonzalo_Andujar	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Mariano_And%C3%BAjar> .

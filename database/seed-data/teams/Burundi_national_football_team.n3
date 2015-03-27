@@ -1,0 +1,344 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_du_Burundi_de_football	owl:sameAs	dbpedia:Burundi_national_football_team .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Burundische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Burundi_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q459110	owl:sameAs	dbpedia:Burundi_national_football_team .
+@prefix ns5:	<http://cs.dbpedia.org/resource/> .
+ns5:Burundská_fotbalová_reprezentace	owl:sameAs	dbpedia:Burundi_national_football_team .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Selección_de_fútbol_de_Burundi	owl:sameAs	dbpedia:Burundi_national_football_team .
+@prefix ns7:	<http://id.dbpedia.org/resource/> .
+ns7:Tim_nasional_sepak_bola_Burundi	owl:sameAs	dbpedia:Burundi_national_football_team .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Nazionale_di_calcio_del_Burundi	owl:sameAs	dbpedia:Burundi_national_football_team .
+@prefix ns9:	<http://ja.dbpedia.org/resource/> .
+ns9:サッカーブルンジ代表	owl:sameAs	dbpedia:Burundi_national_football_team .
+@prefix ns10:	<http://ko.dbpedia.org/resource/> .
+ns10:부룬디_축구_국가대표팀	owl:sameAs	dbpedia:Burundi_national_football_team .
+@prefix ns11:	<http://nl.dbpedia.org/resource/> .
+ns11:Burundees_voetbalelftal	owl:sameAs	dbpedia:Burundi_national_football_team .
+@prefix ns12:	<http://pl.dbpedia.org/resource/> .
+ns12:Reprezentacja_Burundi_w_piłce_nożnej	owl:sameAs	dbpedia:Burundi_national_football_team .
+@prefix ns13:	<http://pt.dbpedia.org/resource/> .
+ns13:Seleção_Burundinesa_de_Futebol	owl:sameAs	dbpedia:Burundi_national_football_team .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Waso_Ramadhani	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Waso_Ramadhani	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+<http://dbpedia.org/resource/Mohammed_Tchit%C3%A9>	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns17:	<http://en.wikipedia.org/wiki/> .
+ns17:Burundi_national_football_team	foaf:primaryTopic	dbpedia:Burundi_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Burundi_national_football_team	rdf:type	yago:NationalSportsTeamsOfBurundi ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Organisation .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Burundi_national_football_team	rdf:type	dul:Agent .
+@prefix ns21:	<http://schema.org/> .
+dbpedia:Burundi_national_football_team	rdf:type	ns21:SportsTeam ,
+		dul:SocialPerson ,
+		yago:YagoLegalActor ,
+		ns21:Organization ,
+		yago:YagoLegalActorGeo ,
+		yago:FootballTeam108080025 ,
+		owl:Thing ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:AfricanNationalAssociationFootballTeams .
+@prefix ns22:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Burundi_national_football_team	owl:sameAs	ns22:Burundin_jalkapallomaajoukkue ,
+		ns4:Q459110 .
+@prefix ns23:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Burundi_national_football_team	owl:sameAs	ns23:منتخب_بوروندي_لكرة_القدم .
+@prefix ns24:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Burundi_national_football_team	owl:sameAs	ns24:Echipa_națională_de_fotbal_a_Burundiului ,
+		ns6:Selección_de_fútbol_de_Burundi .
+@prefix ns25:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Burundi_national_football_team	owl:sameAs	ns25:تیم_ملی_فوتبال_بوروندی ,
+		ns7:Tim_nasional_sepak_bola_Burundi ,
+		ns5:Burundská_fotbalová_reprezentace .
+@prefix ns26:	<http://lv.dbpedia.org/resource/> .
+dbpedia:Burundi_national_football_team	owl:sameAs	ns26:Burundi_futbola_izlase .
+@prefix ns27:	<http://he.dbpedia.org/resource/> .
+dbpedia:Burundi_national_football_team	owl:sameAs	ns27:נבחרת_בורונדי_בכדורגל .
+@prefix ns28:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Burundi_national_football_team	owl:sameAs	ns28:Burundi_national_football_team .
+@prefix ns29:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Burundi_national_football_team	owl:sameAs	ns29:Сборная_Бурунди_по_футболу ,
+		ns11:Burundees_voetbalelftal .
+@prefix ns30:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Burundi_national_football_team	owl:sameAs	ns30:Burundi_labdarúgó-válogatott .
+@prefix ns31:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Burundi_national_football_team	owl:sameAs	ns31:Burundžio_vyrų_futbolo_rinktinė .
+@prefix ns32:	<http://no.dbpedia.org/resource/> .
+dbpedia:Burundi_national_football_team	owl:sameAs	ns32:Burundis_herrelandslag_i_fotball ,
+		ns1:Équipe_du_Burundi_de_football .
+@prefix ns33:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Burundi_national_football_team	owl:sameAs	ns33:Burundi_national_football_team .
+@prefix ns34:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Burundi_national_football_team	owl:sameAs	ns34:Burundis_herrlandslag_i_fotboll ,
+		dbpedia:Burundi_national_football_team .
+@prefix ns35:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Burundi_national_football_team	owl:sameAs	ns35:बुरुंडी_फुटबॉल_संघ .
+@prefix ns36:	<http://yago-knowledge.org/resource/> .
+dbpedia:Burundi_national_football_team	owl:sameAs	ns36:Burundi_national_football_team ,
+		ns13:Seleção_Burundinesa_de_Futebol .
+@prefix ns37:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Burundi_national_football_team	owl:sameAs	ns37:Збірна_Бурунді_з_футболу ,
+		ns9:サッカーブルンジ代表 ,
+		<http://rdf.freebase.com/ns/m.04hscp> ,
+		ns12:Reprezentacja_Burundi_w_piłce_nożnej ,
+		ns10:부룬디_축구_국가대표팀 ,
+		ns3:Burundische_Fußballnationalmannschaft .
+@prefix ns38:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Burundi_national_football_team	owl:sameAs	ns38:Burundi_Millî_Futbol_Takımı .
+@prefix ns39:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Burundi_national_football_team	owl:sameAs	ns39:布隆迪國家足球隊 .
+@prefix ns40:	<http://wikidata.org/entity/> .
+dbpedia:Burundi_national_football_team	owl:sameAs	ns40:Q459110 ,
+		ns8:Nazionale_di_calcio_del_Burundi .
+@prefix ns41:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Burundi_national_football_team	owl:sameAs	ns41:Đội_tuyển_bóng_đá_quốc_gia_Burundi .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Burundi_national_football_team	rdfs:label	"Burundische Fu\u00DFballnationalmannschaft"@de ,
+		"\u5E03\u9686\u8FEA\u570B\u5BB6\u8DB3\u7403\u968A"@zh ,
+		"Burundi national football team" ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0443\u0440\u0443\u043D\u0434\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"Sele\u00E7\u00E3o Burundinesa de Futebol"@pt ,
+		"\u30B5\u30C3\u30AB\u30FC\u30D6\u30EB\u30F3\u30B8\u4EE3\u8868"@ja ,
+		"Reprezentacja Burundi w pi\u0142ce no\u017Cnej"@pl ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0628\u0648\u0631\u0648\u0646\u062F\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"Nazionale di calcio del Burundi"@it ,
+		"\u00C9quipe du Burundi de football"@fr ,
+		"Burundees voetbalelftal"@nl ,
+		"Selecci\u00F3n de f\u00FAtbol de Burundi"@es .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Burundi_national_football_team	dcterms:subject	category:Burundi_national_football_team ,
+		category:National_sports_teams_of_Burundi ,
+		category:African_national_association_football_teams ;
+	foaf:name	"Burundi" ;
+	foaf:nick	"Intamba" ,
+		"Les Hirondelles" ,
+		"(The Swallows)" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Burundi_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Burundi_national_football_team?oldid=604145743> ;
+	rdfs:comment	"Het Burundees voetbalelftal is een team van voetballers dat Burundi vertegenwoordigt bij internationale wedstrijden zoals CECAFA Cup en de kwalificatiewedstrijden voor het WK en de Afrika Cup.De F\u00E9d\u00E9ration de Football du Burundi werd in 1948 opgericht en is aangesloten bij de CECAFA, de CAF en de FIFA (sinds 1972). Het Burundees voetbalelftal behaalde in augustus 1993 met de 96e plaats de hoogste positie op de FIFA-wereldranglijst, in juli 1998 werd met de 160e plaats de laagste positie bereikt."@nl ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0628\u0648\u0631\u0648\u0646\u062F\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0644\u0642\u0628 \u0628\u0627\u0644\u0633\u0646\u0648\u0646\u0648 \u0648\u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0641\u064A \u0628\u0648\u0631\u0648\u0646\u062F\u064A \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0628\u0648\u0631\u0648\u0646\u062F\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0647 \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0646\u0647\u0627\u0626\u064A\u0627\u062A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0623\u0648 \u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0641\u0631\u064A\u0642\u064A\u0629 . \u0648\u0641\u064A \u0647\u0630\u0647 \u0627\u0644\u0633\u0646\u0629 \u0633\u0648\u0641 \u064A\u0634\u0627\u0631\u0643 \u0645\u0646\u062A\u062E\u0628 \u0628\u0648\u0631\u0648\u0646\u062F\u064A \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0627\u0641\u0631\u064A\u0642\u064A\u0627 \u0644\u0644\u0627\u0639\u0628\u064A\u0646 \u0627\u0644\u0645\u062D\u0644\u064A\u064A\u0646 \u0643\u0623\u0648\u0644 \u0645\u0634\u0627\u0631\u0643\u0629 \u0644\u0644\u0645\u0646\u062A\u062E\u0628 \u0641\u064A \u0628\u0637\u0648\u0644\u0629\u0628\u0627\u0644\u062D\u062C\u0645 \u0627\u0644\u0643\u0628\u064A\u0631"@ar ,
+		"L'\u00E9quipe du Burundi de football est constitu\u00E9e par une s\u00E9lection des meilleurs joueurs burundais sous l'\u00E9gide de la F\u00E9d\u00E9ration du Burundi de football."@fr ,
+		"A Sele\u00E7\u00E3o Burundinesa de Futebol representa o Burundi nas competi\u00E7\u00F5es de futebol da FIFA. Nunca se classificou para uma Copa do Mundo nem obteve vaga para a Copa Africana de Na\u00E7\u00F5es, tendo chegado perto da classifica\u00E7\u00E3o para a edi\u00E7\u00E3o de 1994, quando perdeu a vaga para a Guin\u00E9 nos p\u00EAnaltis."@pt ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0443\u0440\u0443\u043D\u0434\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0443\u0440\u0443\u043D\u0434\u0438, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u0441\u0442\u0440\u0430\u043D\u0443 \u043D\u0430 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0430\u0445 \u0438 \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u043C\u0430\u044F \u041D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0435\u0439 \u0411\u0443\u0440\u0443\u043D\u0434\u0438."@ru ,
+		"La nazionale di calcio del Burundi \u00E8 la rappresentativa nazionale dell'omonima nazione africana ed \u00E8 posta sotto l'egida della F\u00E9d\u00E9ration de Football du Burundi. I suoi giocatori sono soprannominati les hirondelles (i passeri). La selezione non ha mai preso parte n\u00E9 alla fase finale della Coppa d'Africa n\u00E9 tantomeno alla Coppa del Mondo."@it ,
+		"Reprezentacja Burundi w pi\u0142ce no\u017Cnej \u2013 kadra Burundi w pi\u0142ce no\u017Cnej m\u0119\u017Cczyzn. Dotychczas ani razu nie zdo\u0142a\u0142a zakwalifikowa\u0107 si\u0119 do Mistrzostw \u015Awiata ani Pucharu Narod\u00F3w Afryki. Zwi\u0105zek pi\u0142karski w Burundi powsta\u0142 w 1948, a od 1972 roku nale\u017Cy do FIFA i CAF. Najwi\u0119kszym jak dotychczas sukcesem tej reprezentacji jest zaj\u0119cie 2 miejsca w Pucharze CECAFA w 2004 roku, gdzie w finale reprezentacja ta uleg\u0142a gospodarzom Etiopii 0:3.Aktualnie (18. maja 2011) reprezentacja Burundi zajmuje 42."@pl ,
+		"La Selecci\u00F3n de f\u00FAtbol de Burundi es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Federaci\u00F3n de F\u00FAtbol de Burundi, perteneciente a la CAF. Su jugador estrella y m\u00E1s conocido es Fay\u00E7al Blanco."@es ,
+		"Die Burundische Fu\u00DFballnationalmannschaft untersteht dem nationalen Fu\u00DFballverband F\u00E9d\u00E9ration de Football du Burundi. Sie konnte sich noch nie f\u00FCr eine Weltmeisterschafts-Endrunde qualifizieren, nahm allerdings auch erst zweimal an der Qualifikation teil."@de ,
+		"\u5E03\u9686\u8FEA\u8DB3\u7403\u4EE3\u8868\u968A\u662F\u5E03\u9686\u8FEA\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u5E03\u9686\u8FEA\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u975E\u6D32\u8DB3\u5354\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u5E03\u9686\u8FEA\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4EFB\u4F55\u570B\u969B\u5927\u8CFD\u7684\u6C7A\u8CFD\u9031\uFF0C\u7121\u8AD6\u5728\u4E16\u754C\u76C3\u53CA\u975E\u6D32\u570B\u5BB6\u76C3\u5916\u570D\u8CFD\u968E\u6BB5\u5F9E\u672A\u53D6\u5F97\u904E\u51FA\u7DDA\u8CC7\u683C\u3002"@zh ,
+		"\u30B5\u30C3\u30AB\u30FC\u30D6\u30EB\u30F3\u30B8\u4EE3\u8868\u306F\u30D6\u30EB\u30F3\u30B8\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u306B\u3088\u308A\u7DE8\u6210\u3055\u308C\u308B\u30D6\u30EB\u30F3\u30B8\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"The Burundi national football team (Intamba m'Urugamba), nicknamed Les Hirondelles dans la guerre, (The Swallows) in the war, is the national team of Burundi and is controlled by the Football Federation of Burundi (FFB). The team has never qualified for the World Cup or the Africa Cup of Nations finals. However, Burundi did come very close to qualifying for the 1994 Africa Cup of Nations, losing only on penalties to Guinea in a playoff." ;
+	foaf:isPrimaryTopicOf	ns17:Burundi_national_football_team ;
+	dbpprop:captain	dbpedia:Selemani_Ndikumana .
+@prefix ns46:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Burundi_national_football_team	dbpprop:hasPhotoCollection	ns46:Burundi_national_football_team ;
+	dbpprop:name	"Burundi" ;
+	dbpedia-owl:abstract	"La Selecci\u00F3n de f\u00FAtbol de Burundi es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Federaci\u00F3n de F\u00FAtbol de Burundi, perteneciente a la CAF. Su jugador estrella y m\u00E1s conocido es Fay\u00E7al Blanco."@es ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0628\u0648\u0631\u0648\u0646\u062F\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0644\u0642\u0628 \u0628\u0627\u0644\u0633\u0646\u0648\u0646\u0648 \u0648\u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0641\u064A \u0628\u0648\u0631\u0648\u0646\u062F\u064A \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0628\u0648\u0631\u0648\u0646\u062F\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0647 \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0646\u0647\u0627\u0626\u064A\u0627\u062A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0623\u0648 \u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0641\u0631\u064A\u0642\u064A\u0629 . \u0648\u0641\u064A \u0647\u0630\u0647 \u0627\u0644\u0633\u0646\u0629 \u0633\u0648\u0641 \u064A\u0634\u0627\u0631\u0643 \u0645\u0646\u062A\u062E\u0628 \u0628\u0648\u0631\u0648\u0646\u062F\u064A \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0627\u0641\u0631\u064A\u0642\u064A\u0627 \u0644\u0644\u0627\u0639\u0628\u064A\u0646 \u0627\u0644\u0645\u062D\u0644\u064A\u064A\u0646 \u0643\u0623\u0648\u0644 \u0645\u0634\u0627\u0631\u0643\u0629 \u0644\u0644\u0645\u0646\u062A\u062E\u0628 \u0641\u064A \u0628\u0637\u0648\u0644\u0629\u0628\u0627\u0644\u062D\u062C\u0645 \u0627\u0644\u0643\u0628\u064A\u0631"@ar ,
+		"Reprezentacja Burundi w pi\u0142ce no\u017Cnej \u2013 kadra Burundi w pi\u0142ce no\u017Cnej m\u0119\u017Cczyzn. Dotychczas ani razu nie zdo\u0142a\u0142a zakwalifikowa\u0107 si\u0119 do Mistrzostw \u015Awiata ani Pucharu Narod\u00F3w Afryki. Zwi\u0105zek pi\u0142karski w Burundi powsta\u0142 w 1948, a od 1972 roku nale\u017Cy do FIFA i CAF. Najwi\u0119kszym jak dotychczas sukcesem tej reprezentacji jest zaj\u0119cie 2 miejsca w Pucharze CECAFA w 2004 roku, gdzie w finale reprezentacja ta uleg\u0142a gospodarzom Etiopii 0:3.Aktualnie (18. maja 2011) reprezentacja Burundi zajmuje 42. miejsce w Afryce."@pl ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0443\u0440\u0443\u043D\u0434\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0443\u0440\u0443\u043D\u0434\u0438, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u0441\u0442\u0440\u0430\u043D\u0443 \u043D\u0430 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0430\u0445 \u0438 \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u043C\u0430\u044F \u041D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0435\u0439 \u0411\u0443\u0440\u0443\u043D\u0434\u0438."@ru ,
+		"L'\u00E9quipe du Burundi de football est constitu\u00E9e par une s\u00E9lection des meilleurs joueurs burundais sous l'\u00E9gide de la F\u00E9d\u00E9ration du Burundi de football."@fr ,
+		"Het Burundees voetbalelftal is een team van voetballers dat Burundi vertegenwoordigt bij internationale wedstrijden zoals CECAFA Cup en de kwalificatiewedstrijden voor het WK en de Afrika Cup.De F\u00E9d\u00E9ration de Football du Burundi werd in 1948 opgericht en is aangesloten bij de CECAFA, de CAF en de FIFA (sinds 1972). Het Burundees voetbalelftal behaalde in augustus 1993 met de 96e plaats de hoogste positie op de FIFA-wereldranglijst, in juli 1998 werd met de 160e plaats de laagste positie bereikt."@nl ,
+		"\u30B5\u30C3\u30AB\u30FC\u30D6\u30EB\u30F3\u30B8\u4EE3\u8868\u306F\u30D6\u30EB\u30F3\u30B8\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u306B\u3088\u308A\u7DE8\u6210\u3055\u308C\u308B\u30D6\u30EB\u30F3\u30B8\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"A Sele\u00E7\u00E3o Burundinesa de Futebol representa o Burundi nas competi\u00E7\u00F5es de futebol da FIFA. Nunca se classificou para uma Copa do Mundo nem obteve vaga para a Copa Africana de Na\u00E7\u00F5es, tendo chegado perto da classifica\u00E7\u00E3o para a edi\u00E7\u00E3o de 1994, quando perdeu a vaga para a Guin\u00E9 nos p\u00EAnaltis."@pt ,
+		"The Burundi national football team (Intamba m'Urugamba), nicknamed Les Hirondelles dans la guerre, (The Swallows) in the war, is the national team of Burundi and is controlled by the Football Federation of Burundi (FFB). The team has never qualified for the World Cup or the Africa Cup of Nations finals. However, Burundi did come very close to qualifying for the 1994 Africa Cup of Nations, losing only on penalties to Guinea in a playoff." ,
+		"\u5E03\u9686\u8FEA\u8DB3\u7403\u4EE3\u8868\u968A\u662F\u5E03\u9686\u8FEA\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u5E03\u9686\u8FEA\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u975E\u6D32\u8DB3\u5354\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u5E03\u9686\u8FEA\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4EFB\u4F55\u570B\u969B\u5927\u8CFD\u7684\u6C7A\u8CFD\u9031\uFF0C\u7121\u8AD6\u5728\u4E16\u754C\u76C3\u53CA\u975E\u6D32\u570B\u5BB6\u76C3\u5916\u570D\u8CFD\u968E\u6BB5\u5F9E\u672A\u53D6\u5F97\u904E\u51FA\u7DDA\u8CC7\u683C\u3002"@zh ,
+		"La nazionale di calcio del Burundi \u00E8 la rappresentativa nazionale dell'omonima nazione africana ed \u00E8 posta sotto l'egida della F\u00E9d\u00E9ration de Football du Burundi. I suoi giocatori sono soprannominati les hirondelles (i passeri). La selezione non ha mai preso parte n\u00E9 alla fase finale della Coppa d'Africa n\u00E9 tantomeno alla Coppa del Mondo. Il pi\u00F9 rilevante risultato in campo continentale \u00E8 stato raggiunto nel 2004, quando la selezione ha raggiunto la finale, persa per 3-0 contro l'Etiopia, nella CECAFA cup, competizione annuale tra nazionali del centro e dell'est dell'Africa.Attualmente occupa la 149\u00AA posizione nel Ranking mondiale FIFA a pari merito col Ciad."@it ,
+		"Die Burundische Fu\u00DFballnationalmannschaft untersteht dem nationalen Fu\u00DFballverband F\u00E9d\u00E9ration de Football du Burundi. Sie konnte sich noch nie f\u00FCr eine Weltmeisterschafts-Endrunde qualifizieren, nahm allerdings auch erst zweimal an der Qualifikation teil."@de ;
+	dbpedia-owl:wikiPageID	1212797 ;
+	dbpedia-owl:wikiPageRevisionID	604145743 ;
+	dbpprop:coach	dbpedia:Wilfried_Rainer ;
+	dbpprop:patternSh	"_loko1011a" .
+@prefix ns47:	<http://dbpedia.org/datatype/> .
+dbpedia:Burundi_national_football_team	dbpprop:patternSh	"3639600.0"^^ns47:second ;
+	dbpedia-owl:coach	dbpedia:Wilfried_Rainer ;
+	dbpprop:patternSo	"_3_stripes_white" ,
+		"_3_stripes_red" ;
+	dbpprop:association	<http://dbpedia.org/resource/F%C3%A9d%C3%A9ration_de_Football_du_Burundi> ;
+	dbpprop:badgeSize	200 ;
+	dbpprop:body	"FF0000" ,
+		"FFFFFF" ;
+	dbpprop:confederation	dbpedia:Confederation_of_African_Football ;
+	dbpprop:fifaRank	1242 ;
+	dbpprop:fifaTrigramme	"BDI" ;
+	dbpprop:leftarm	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:patternB	"_loko1011A" ,
+		"_loko1011H" ;
+	dbpprop:patternLa	"3639600.0"^^ns47:second ,
+		"_loko1011a" ;
+	dbpprop:patternRa	"3639600.0"^^ns47:second ,
+		"_loko1011a" ;
+	dbpprop:rightarm	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:shorts	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:socks	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:badge	"Burundi FA.png" ;
+	dbpprop:firstGame	7 ;
+	dbpprop:largestLoss	8 ;
+	dbpprop:largestWin	"Burundi 6\u20132" ,
+		"Burundi 5\u20131" ;
+	dbpprop:eloMax	79 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Burundi_national_football_team	dbpprop:eloMaxDate	"1998-12-13+02:00"^^xsd:date ;
+	dbpprop:eloMin	159 ;
+	dbpprop:eloMinDate	"2009-12-04+02:00"^^xsd:date ;
+	dbpprop:eloRank	132 ;
+	dbpprop:fifaMax	96 ;
+	dbpprop:fifaMaxDate	"August 1993" ;
+	dbpprop:fifaMin	160 ;
+	dbpprop:fifaMinDate	"July 1998" ;
+	dbpprop:subConfederation	dbpedia:CECAFA ;
+	dbpprop:homeStadium	dbpedia:Prince_Louis_Rwagasore_Stadium ;
+	dbpedia-owl:stadium	dbpedia:Prince_Louis_Rwagasore_Stadium ;
+	dbpprop:nickname	"Intamba" ,
+		"Les Hirondelles" .
+<http://dbpedia.org/resource/2013_CECAFA_Cup_statistics>	dbpprop:mostCleanSheetsOpponentTeam	dbpedia:Burundi_national_football_team ;
+	dbpprop:mostConsecutiveCleanSheetsOpponentTeam	dbpedia:Burundi_national_football_team ;
+	dbpprop:leastYellowsTeamTeam	dbpedia:Burundi_national_football_team .
+dbpedia:Christian_Nduwimana	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Musaba_Selemani	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Kassim_Bizimana	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Karim_Niizigiyimana	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Alain_Ndizeye	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Faty_Papy	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Dugary_Ndabashinze	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Juma_Mossi	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Juma_Masudi	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Vladimir_Niyonkuru	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Fuadi_Ndayisenga	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Henri_Mbazumutima	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:David_Habarugira	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Olivier_Bahati	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Didier_Bizimana	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Rajab_Mwinyi	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Saidi_Ntibazonkiza	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Aime_Kitenge	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Adel_Amrouche	dbpedia-owl:managerClub	dbpedia:Burundi_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Burundi_national_football_team .
+dbpedia:Emmanuel_Ngama	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Madjidi_Ndikumana	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Jean_Hakizimana	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+ns23:منتخب_بوروندي_لكرة_القدم	owl:sameAs	dbpedia:Burundi_national_football_team .
+ns25:تیم_ملی_فوتبال_بوروندی	owl:sameAs	dbpedia:Burundi_national_football_team .
+ns22:Burundin_jalkapallomaajoukkue	owl:sameAs	dbpedia:Burundi_national_football_team .
+ns27:נבחרת_בורונדי_בכדורגל	owl:sameAs	dbpedia:Burundi_national_football_team .
+ns28:Burundi_national_football_team	owl:sameAs	dbpedia:Burundi_national_football_team .
+ns30:Burundi_labdarúgó-válogatott	owl:sameAs	dbpedia:Burundi_national_football_team .
+ns31:Burundžio_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Burundi_national_football_team .
+ns26:Burundi_futbola_izlase	owl:sameAs	dbpedia:Burundi_national_football_team .
+ns35:बुरुंडी_फुटबॉल_संघ	owl:sameAs	dbpedia:Burundi_national_football_team .
+ns32:Burundis_herrelandslag_i_fotball	owl:sameAs	dbpedia:Burundi_national_football_team .
+ns24:Echipa_națională_de_fotbal_a_Burundiului	owl:sameAs	dbpedia:Burundi_national_football_team .
+ns29:Сборная_Бурунди_по_футболу	owl:sameAs	dbpedia:Burundi_national_football_team .
+ns33:Burundi_national_football_team	owl:sameAs	dbpedia:Burundi_national_football_team .
+ns34:Burundis_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Burundi_national_football_team .
+ns38:Burundi_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Burundi_national_football_team .
+ns37:Збірна_Бурунді_з_футболу	owl:sameAs	dbpedia:Burundi_national_football_team .
+ns41:Đội_tuyển_bóng_đá_quốc_gia_Burundi	owl:sameAs	dbpedia:Burundi_national_football_team .
+ns39:布隆迪國家足球隊	owl:sameAs	dbpedia:Burundi_national_football_team .
+<http://dbpedia.org/resource/F%C3%A9licien_Mbanza>	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Fiston_Abdul_Razak	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Didier_Kayumbagu	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Alain_Ndizeye__7	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Floribert_Ndayisaba__5	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Gilbert_Kaze__6	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Saidi_Ntibazonkiza__3	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Olivier_Bahati__2	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Christian_Nduwimana__4	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Musaba_Selemani__7	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Didier_Bizimana__2	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+<http://dbpedia.org/resource/F%C3%A9licien_Mbanza__8>	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Faty_Papy__7	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Selemani_Ndikumana__11	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Didier_Kayumbagu__2	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Vladimir_Niyonkuru__5	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Waso_Ramadhani__2	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Juma_Mossi__12	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:David_Habarugira__6	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Janvier_Ndikumana__6	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Valery_Nahayo__6	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Adel_Amrouche__17	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Fuadi_Ndayisenga__5	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Henri_Mbazumutima__3	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Laudy_Mavugo__1	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Fiston_Abdul_Razak__2	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Juma_Masudi__3	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Karim_Niizigiyimana__6	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Jean_Hakizimana__5	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Kassim_Bizimana__6	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Rajab_Mwinyi__2	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Aime_Kitenge__13	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Saidi_Ndikumana__1	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Emmanuel_Ngama__4	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Madjidi_Ndikumana__3	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+dbpedia:Intamba	dbpedia-owl:wikiPageRedirects	dbpedia:Burundi_national_football_team .
+dbpedia:Omar_Mussa	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Floribert_Ndayisaba	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Valery_Nahayo	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Janvier_Ndikumana	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Saidi_Ndikumana	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Selemani_Ndikumana	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Gilbert_Kaze	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Laudy_Mavugo	dbpedia-owl:team	dbpedia:Burundi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Burundi_national_football_team .
+dbpedia:Dugary_Ndabashinze__6	dbpedia-owl:team	dbpedia:Burundi_national_football_team .
+<http://dbpedia.org/resource/2012_CECAFA_Cup_statistics>	dbpprop:leastCleanSheetsOpponentTeam	dbpedia:Burundi_national_football_team ;
+	dbpprop:leastDrawsTeam	dbpedia:Burundi_national_football_team ;
+	dbpprop:leastGoalsConcededTeam	dbpedia:Burundi_national_football_team ;
+	dbpprop:mostGroupPointsTeam	dbpedia:Burundi_national_football_team .
+<http://dbpedia.org/resource/2012_CECAFA_Cup_scorers>	dbpprop:leastCleanSheetsOpponentTeam	dbpedia:Burundi_national_football_team ;
+	dbpprop:leastGoalsConcededTeam	dbpedia:Burundi_national_football_team .

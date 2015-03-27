@@ -1,0 +1,108 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Tamil_Eelam_Football_Association	owl:sameAs	dbpedia:Tamil_Eelam_national_football_team .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Tamileelam_Football_Association	owl:sameAs	dbpedia:Tamil_Eelam_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q973044	owl:sameAs	dbpedia:Tamil_Eelam_national_football_team .
+@prefix ns5:	<http://it.dbpedia.org/resource/> .
+ns5:Selezione_di_calcio_del_Tamil_Eelam	owl:sameAs	dbpedia:Tamil_Eelam_national_football_team .
+@prefix ns6:	<http://ta.dbpedia.org/resource/> .
+ns6:தமிழீழக்_கால்பந்தாட்ட_அணி	owl:sameAs	dbpedia:Tamil_Eelam_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns8:	<http://en.wikipedia.org/wiki/> .
+ns8:Tamil_Eelam_national_football_team	foaf:primaryTopic	dbpedia:Tamil_Eelam_national_football_team .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Panushanth_Kulenthiran	dbpedia-owl:team	dbpedia:Tamil_Eelam_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Panushanth_Kulenthiran	dbpprop:nationalteam	dbpedia:Tamil_Eelam_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbpedia:Tamil_Eelam_national_football_team	rdf:type	dbpedia-owl:Agent ,
+		dbpedia-owl:Organisation ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam .
+@prefix ns12:	<http://schema.org/> .
+dbpedia:Tamil_Eelam_national_football_team	rdf:type	ns12:Organization .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Tamil_Eelam_national_football_team	rdf:type	dul:SocialPerson ,
+		ns12:SportsTeam ,
+		dul:Agent ,
+		owl:Thing ;
+	owl:sameAs	ns1:Tamil_Eelam_Football_Association ,
+		ns3:Tamileelam_Football_Association .
+@prefix ns14:	<http://wikidata.org/entity/> .
+dbpedia:Tamil_Eelam_national_football_team	owl:sameAs	ns14:Q973044 ,
+		ns6:தமிழீழக்_கால்பந்தாட்ட_அணி .
+@prefix ns15:	<http://ja.dbpedia.org/resource/> .
+dbpedia:Tamil_Eelam_national_football_team	owl:sameAs	ns15:サッカータミル・イーラム代表 ,
+		dbpedia:Tamil_Eelam_national_football_team ,
+		ns5:Selezione_di_calcio_del_Tamil_Eelam .
+@prefix ns16:	<http://es.dbpedia.org/resource/> .
+dbpedia:Tamil_Eelam_national_football_team	owl:sameAs	ns16:Selección_de_fútbol_de_Tamil_Eelam ,
+		ns4:Q973044 ,
+		<http://rdf.freebase.com/ns/m.0k0dy1v> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Tamil_Eelam_national_football_team	rdfs:label	"\u30B5\u30C3\u30AB\u30FC\u30BF\u30DF\u30EB\u30FB\u30A4\u30FC\u30E9\u30E0\u4EE3\u8868"@ja ,
+		"Selecci\u00F3n de f\u00FAtbol de Tamil Eelam"@es ,
+		"Tamil Eelam national football team" ,
+		"Selezione di calcio del Tamil Eelam"@it ,
+		"Tamileelam Football Association"@de ,
+		"Tamil Eelam Football Association"@fr .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Tamil_Eelam_national_football_team	dcterms:subject	category:Asian_national_and_official_selection-teams_not_affiliated_to_FIFA ,
+		category:Tamil_Eelam ;
+	foaf:name	"Tamil Eelam" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Tamil_Eelam_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Tamil_Eelam_national_football_team?oldid=605592990> ;
+	rdfs:comment	"La Selecci\u00F3n de F\u00FAtbol de Tamil Eelam es el equipo representativo de Tamil Eelam, el cual consiste de jugadores amateurs y semiprofesionales de la tribu Tamil de Sri Lanka radicados en Canad\u00E1, Reino Unido y Suiza."@es ,
+		"The Tamil Eelam national football team is the national team of Tamil Eelam. The team, which consists of semi-professional and amateur players drawn from the Sri Lankan Tamil diaspora community in Canada, United Kingdom and Switzerland, was established in 2012 by the Tamileelam Football Association (TEFA). Tamileelam Football Association was itself established by the Global Tamil Youth League on 8 April 2012." ,
+		"La Tamil Eelam Football Association (TEFA) est l'organe qui s'occupe de l'\u00E9quipe nationale tamoule de football. Elle s'occupe de tous les d\u00E9tails extra-sportifs de l'\u00E9quipe nationale. Elle g\u00E8re \u00E9galement la communication de son \u00E9quipe via les r\u00E9seaux sociaux et son site officiel ouvert en juin 2013. La TEFA fait partie de la NF-Board."@fr ,
+		"Der Tamilische Fu\u00DFballverband TEFA wurde am 8. April 2012 von der Global Tamil Youth League (T-League) gegr\u00FCndet, wozu auch der Jugendverein TYO angeh\u00F6rt. TEFA nahm 2012 zum ersten Mal in der Geschichte mit ihrer Nationalmannschaft an dem VIVA World Cup in Kurdistan teil und konnte sich den siebten Platz sichern. Die Mannschaft besteht aus Spielern der tamilischen Diaspora, welche fast eine Million z\u00E4hlt. F\u00FCr den Viva World Cup wurden Spieler aus Kanada, England und der Schweiz ausgew\u00E4hlt."@de ,
+		"\u30B5\u30C3\u30AB\u30FC\u30BF\u30DF\u30EB\u30FB\u30A4\u30FC\u30E9\u30E0\u4EE3\u8868\u306F\u3001\u30BF\u30DF\u30EB\u30FB\u30A4\u30FC\u30E9\u30E0\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u306B\u3088\u308A\u7DE8\u6210\u3055\u308C\u308B\u30BF\u30DF\u30EB\u30FB\u30A4\u30FC\u30E9\u30E0\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30BF\u30DF\u30EB\u30FB\u30A4\u30FC\u30E9\u30E0\u4EE3\u8868\u306F\u3001FIFA\u53CA\u3073\u3001AFC\u306B\u52A0\u76DF\u3057\u3066\u3044\u306A\u3044\u3002\u904E\u6FC0\u6D3E\u7D44\u7E54\u306E\u4E00\u3064\u30BF\u30DF\u30EB\u30FB\u30A4\u30FC\u30E9\u30E0\u89E3\u653E\u306E\u30C8\u30E9 (LTTE)\u304C2009\u5E74\u306B\u58CA\u6EC5\u3057\u305F\u5F8C\u30012012\u5E744\u67088\u65E5\u306B\u30B0\u30ED\u30FC\u30D0\u30EB\u30FB\u30BF\u30DF\u30EB\u30FB\u30E6\u30FC\u30B9\u30EA\u30FC\u30B0\u306B\u3088\u308A\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u304C\u8A2D\u7ACB\u3055\u308C\u3001\u540C\u6642\u306BNF-Board\u306B\u6B63\u4F1A\u54E1\u3068\u3057\u3066\u52A0\u76DF\u3057\u305F\u3002\u9078\u624B\u306F\u3001\u30AB\u30CA\u30C0\u3084\u30B9\u30A4\u30B9\u3084\u30A4\u30AE\u30EA\u30B9\u306E\u30B5\u30C3\u30AB\u30FC\u30AF\u30E9\u30D6\u306B\u6240\u5C5E\u3059\u308B\u30BF\u30DF\u30EB\u65CF\u306E\u4EBA\u3005\u306B\u3088\u3063\u3066\u69CB\u6210\u3055\u308C\u3066\u3044\u308B\u30022012\u5E746\u6708\u306B\u30A4\u30E9\u30AF\u30FB\u30AF\u30EB\u30C7\u30A3\u30B9\u30BF\u30F3\u3067\u958B\u50AC\u3055\u308C\u305FVIVA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u306B\u53C2\u6226\u3057\u305F\u3002\u4EE3\u8868\u3092\u7D50\u6210\u3057\u3066\u9593\u3082\u306A\u304B\u3063\u305F\u3082\u306E\u306E\u3001\u30E9\u30A8\u30C6\u30A3\u30A2\u306B0-1\u3001CECAFA\u30AB\u30C3\u30D7\u30671995\u5E74\u306B\u512A\u52DD\u7D4C\u9A13\u306E\u3042\u308B\u5F37\u8C6A\u30FB\u30B6\u30F3\u30B8\u30D0\u30EB\u306B0-3\u3068\u5065\u95D8\u3057\u305F\u3002\u30B0\u30EB\u30FC\u30D7\u30EA\u30FC\u30B0\u6557\u9000\u5F8C\u306B\u884C\u308F\u308C\u305F5\uFF5E8\u4F4D\u6C7A\u5B9A\u6226\u306E\u521D\u6226\u3067\u30AA\u30AF\u30B7\u30BF\u30CB\u30A2\u306B0-7\u3068\u5927\u6557\u3057\u305F\u304C\u3001\u30E9\u30A8\u30C6\u30A3\u30A2\u306B4-0\u3068\u96EA\u8FB1\u3057\u3066\u56FD\u969B\u5927\u4F1A\u521D\u52DD\u5229\u3092\u6319\u3052\u30017\u4F4D\u3067\u5927\u4F1A\u3092\u7D42\u3048\u305F\u3002\u5C1A\u30E9\u30A8\u30C6\u30A3\u30A2\u6226\u3067\u306F\u3001\u30E1\u30CA\u30F3\u30FB\u30CA\u30B0\u30EC\u30F3\u30C0\u30F3\uFF08Menan Nagulendran\uFF09\u304C\u30C1\u30FC\u30E0\u521D\u30B4\u30FC\u30EB\u53CA\u3073\u30CF\u30C3\u30C8\u30C8\u30EA\u30C3\u30AF\u3092\u9054\u6210\u3057\u305F\u3002"@ja ,
+		"La Selezione di Calcio del Tamil Eelam non \u00E8 riconosciuta dalla FIFA.Venne fondata nel 2012 e rappresenta il Tamil Eelam, regione non indipendente dello Sri Lanka. Tutti i giocatori della selezione vivono in Canada, Regno Unito o Svizzera."@it ;
+	foaf:isPrimaryTopicOf	ns8:Tamil_Eelam_national_football_team ;
+	dbpprop:captain	"Janarthan Sadacharalingam" .
+@prefix ns21:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Tamil_Eelam_national_football_team	dbpprop:hasPhotoCollection	ns21:Tamil_Eelam_national_football_team ;
+	dbpprop:name	"Tamil Eelam" ;
+	dbpedia-owl:abstract	"La Selecci\u00F3n de F\u00FAtbol de Tamil Eelam es el equipo representativo de Tamil Eelam, el cual consiste de jugadores amateurs y semiprofesionales de la tribu Tamil de Sri Lanka radicados en Canad\u00E1, Reino Unido y Suiza. Fue establecido en el a\u00F1o 2012 por la Asociaci\u00F3n de F\u00FAtbol de Tamil Eelam, la cual fue as\u00ED mismo establecida por la Global Tamil Youth League el 8 de abril del 2012.La Asociaci\u00F3n de F\u00FAtbol de Tamil Eelam est\u00E1 afiliada a la NF-Board, una asociaci\u00F3n compuesta por asociaciones que no pertenecen a la FIFA, por lo que no pueden jugar en la Copa Mundial de la FIFA ni en la Copa AFC, as\u00ED como no est\u00E1 afiliado a la AFC.El equipo hizo su debut internacional en la Copa Mundial VIVA 2012 en Kurdist\u00E1n y en julio del 2012 aparec\u00EDa en el puesto 53 en el r\u00E1nquin de la NF-Board."@es ,
+		"The Tamil Eelam national football team is the national team of Tamil Eelam. The team, which consists of semi-professional and amateur players drawn from the Sri Lankan Tamil diaspora community in Canada, United Kingdom and Switzerland, was established in 2012 by the Tamileelam Football Association (TEFA). Tamileelam Football Association was itself established by the Global Tamil Youth League on 8 April 2012. TEFA is affiliated to the N.F.-Board, an umbrella association for entities unaffiliated with FIFA therefore cannot compete for the FIFA World Cup and the AFC Asian Cup since they are not affiliated with the Asian Football Confederation (AFC). The team made its international debut at the 2012 VIVA World Cup held in Iraqi Kurdistan. As at 12 June 2012 the team was ranked 53rd in the non-FIFA ranking." ,
+		"\u30B5\u30C3\u30AB\u30FC\u30BF\u30DF\u30EB\u30FB\u30A4\u30FC\u30E9\u30E0\u4EE3\u8868\u306F\u3001\u30BF\u30DF\u30EB\u30FB\u30A4\u30FC\u30E9\u30E0\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u306B\u3088\u308A\u7DE8\u6210\u3055\u308C\u308B\u30BF\u30DF\u30EB\u30FB\u30A4\u30FC\u30E9\u30E0\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30BF\u30DF\u30EB\u30FB\u30A4\u30FC\u30E9\u30E0\u4EE3\u8868\u306F\u3001FIFA\u53CA\u3073\u3001AFC\u306B\u52A0\u76DF\u3057\u3066\u3044\u306A\u3044\u3002\u904E\u6FC0\u6D3E\u7D44\u7E54\u306E\u4E00\u3064\u30BF\u30DF\u30EB\u30FB\u30A4\u30FC\u30E9\u30E0\u89E3\u653E\u306E\u30C8\u30E9 (LTTE)\u304C2009\u5E74\u306B\u58CA\u6EC5\u3057\u305F\u5F8C\u30012012\u5E744\u67088\u65E5\u306B\u30B0\u30ED\u30FC\u30D0\u30EB\u30FB\u30BF\u30DF\u30EB\u30FB\u30E6\u30FC\u30B9\u30EA\u30FC\u30B0\u306B\u3088\u308A\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u304C\u8A2D\u7ACB\u3055\u308C\u3001\u540C\u6642\u306BNF-Board\u306B\u6B63\u4F1A\u54E1\u3068\u3057\u3066\u52A0\u76DF\u3057\u305F\u3002\u9078\u624B\u306F\u3001\u30AB\u30CA\u30C0\u3084\u30B9\u30A4\u30B9\u3084\u30A4\u30AE\u30EA\u30B9\u306E\u30B5\u30C3\u30AB\u30FC\u30AF\u30E9\u30D6\u306B\u6240\u5C5E\u3059\u308B\u30BF\u30DF\u30EB\u65CF\u306E\u4EBA\u3005\u306B\u3088\u3063\u3066\u69CB\u6210\u3055\u308C\u3066\u3044\u308B\u30022012\u5E746\u6708\u306B\u30A4\u30E9\u30AF\u30FB\u30AF\u30EB\u30C7\u30A3\u30B9\u30BF\u30F3\u3067\u958B\u50AC\u3055\u308C\u305FVIVA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u306B\u53C2\u6226\u3057\u305F\u3002\u4EE3\u8868\u3092\u7D50\u6210\u3057\u3066\u9593\u3082\u306A\u304B\u3063\u305F\u3082\u306E\u306E\u3001\u30E9\u30A8\u30C6\u30A3\u30A2\u306B0-1\u3001CECAFA\u30AB\u30C3\u30D7\u30671995\u5E74\u306B\u512A\u52DD\u7D4C\u9A13\u306E\u3042\u308B\u5F37\u8C6A\u30FB\u30B6\u30F3\u30B8\u30D0\u30EB\u306B0-3\u3068\u5065\u95D8\u3057\u305F\u3002\u30B0\u30EB\u30FC\u30D7\u30EA\u30FC\u30B0\u6557\u9000\u5F8C\u306B\u884C\u308F\u308C\u305F5\uFF5E8\u4F4D\u6C7A\u5B9A\u6226\u306E\u521D\u6226\u3067\u30AA\u30AF\u30B7\u30BF\u30CB\u30A2\u306B0-7\u3068\u5927\u6557\u3057\u305F\u304C\u3001\u30E9\u30A8\u30C6\u30A3\u30A2\u306B4-0\u3068\u96EA\u8FB1\u3057\u3066\u56FD\u969B\u5927\u4F1A\u521D\u52DD\u5229\u3092\u6319\u3052\u30017\u4F4D\u3067\u5927\u4F1A\u3092\u7D42\u3048\u305F\u3002\u5C1A\u30E9\u30A8\u30C6\u30A3\u30A2\u6226\u3067\u306F\u3001\u30E1\u30CA\u30F3\u30FB\u30CA\u30B0\u30EC\u30F3\u30C0\u30F3\uFF08Menan Nagulendran\uFF09\u304C\u30C1\u30FC\u30E0\u521D\u30B4\u30FC\u30EB\u53CA\u3073\u30CF\u30C3\u30C8\u30C8\u30EA\u30C3\u30AF\u3092\u9054\u6210\u3057\u305F\u3002"@ja ,
+		"Der Tamilische Fu\u00DFballverband TEFA wurde am 8. April 2012 von der Global Tamil Youth League (T-League) gegr\u00FCndet, wozu auch der Jugendverein TYO angeh\u00F6rt. TEFA nahm 2012 zum ersten Mal in der Geschichte mit ihrer Nationalmannschaft an dem VIVA World Cup in Kurdistan teil und konnte sich den siebten Platz sichern. Die Mannschaft besteht aus Spielern der tamilischen Diaspora, welche fast eine Million z\u00E4hlt. F\u00FCr den Viva World Cup wurden Spieler aus Kanada, England und der Schweiz ausgew\u00E4hlt. Gem\u00E4\u00DF dem Roon Ba Ranking befindet sich Tamil Eelam momentan bei den Nicht-FIFA Fussballnationen auf Platz 53."@de ,
+		"La Tamil Eelam Football Association (TEFA) est l'organe qui s'occupe de l'\u00E9quipe nationale tamoule de football. Elle s'occupe de tous les d\u00E9tails extra-sportifs de l'\u00E9quipe nationale. Elle g\u00E8re \u00E9galement la communication de son \u00E9quipe via les r\u00E9seaux sociaux et son site officiel ouvert en juin 2013. La TEFA fait partie de la NF-Board."@fr ,
+		"La Selezione di Calcio del Tamil Eelam non \u00E8 riconosciuta dalla FIFA.Venne fondata nel 2012 e rappresenta il Tamil Eelam, regione non indipendente dello Sri Lanka. Tutti i giocatori della selezione vivono in Canada, Regno Unito o Svizzera."@it ;
+	dbpedia-owl:wikiPageID	36159316 ;
+	dbpedia-owl:wikiPageRevisionID	605592990 ;
+	dbpprop:topScorer	"Menan Nagulendran" ;
+	dbpprop:coach	"Ragesh Nambiar" ;
+	dbpprop:association	"Tamileelam Football Association" ;
+	dbpprop:body	"FFFF00" ;
+	dbpprop:confederation	dbpedia:Confederation_of_Independent_Football_Associations ;
+	dbpprop:leftarm	"FFFF00" ;
+	dbpprop:patternB	"_red_stripes" ,
+		"_blackstripes" ;
+	dbpprop:patternLa	"_red_stripes" ,
+		"_black_stripes" ;
+	dbpprop:patternRa	"_red_stripes" ,
+		"_black_stripes" ;
+	dbpprop:rightarm	"FFFF00" ;
+	dbpprop:shorts	"FF0000" ,
+		0 ;
+	dbpprop:socks	"FF0000" ,
+		0 ;
+	dbpprop:badge	"Tamileelam Football Association Logo.png" ;
+	dbpprop:firstGame	1 ;
+	dbpprop:largestLoss	7 ;
+	dbpprop:largestWin	"Tamil Eelam 4 \u2013 0 ;" ;
+	dbpprop:regionalCupApps	1 ;
+	dbpprop:regionalCupBest	7 ;
+	dbpprop:regionalCupFirst	2012 ;
+	dbpprop:regionalName	dbpedia:Viva_World_Cup ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.gtyl.org/> .
+@prefix ns22:	<http://www.facebook.com/> .
+dbpedia:Tamil_Eelam_national_football_team	dbpedia-owl:wikiPageExternalLink	ns22:TamileelamFA .
+dbpedia:Panushanth_Kulenthiran__8	dbpedia-owl:team	dbpedia:Tamil_Eelam_national_football_team .
+dbpedia:Tamil_Eelam_Football_Association	dbpedia-owl:wikiPageRedirects	dbpedia:Tamil_Eelam_national_football_team .
+dbpedia:Tamileelam_Football_Association	dbpedia-owl:wikiPageRedirects	dbpedia:Tamil_Eelam_national_football_team .

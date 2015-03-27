@@ -1,0 +1,273 @@
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2004%E2%80%9305_S.L._Benfica_season>	dbpprop:leagueTopscorer	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> ;
+	dbpprop:seasonTopscorer	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:RCD_Espanyol	dbpprop:name	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns3:	<http://en.wikipedia.org/wiki/> .
+ns3:Simão_Sabrosa	foaf:primaryTopic	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+dbpedia:Nuno_Gomes	dbpprop:before	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+<http://dbpedia.org/resource/2012%E2%80%9313_Be%C5%9Fikta%C5%9F_J.K._season>	dbpprop:p	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa>	rdf:type	<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> .
+@prefix ns5:	<http://schema.org/> .
+<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa>	rdf:type	ns5:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa>	rdf:type	yago:Athlete109820263 ,
+		yago:FootballPlayer110101634 ,
+		yago:PortugueseFootballers ,
+		yago:Player110439851 ,
+		yago:SportingClubeDePortugalFootballers ,
+		yago:AssociationFootballForwards ,
+		yago:BasketballPlayer109842047 ,
+		<http://dbpedia.org/class/yago/Be%C5%9Fikta%C5%9FJ.K.Footballers> ,
+		foaf:Person ,
+		yago:FCBarcelonaFootballers ,
+		yago:LaLigaFootballers ,
+		yago:PhysicalEntity100001930 ,
+		yago:PortugalUnder-21InternationalFootballers ,
+		yago:Forward110105733 ,
+		<http://dbpedia.org/class/yago/Atl%C3%A9ticoMadridFootballers> ,
+		yago:ExpatriateFootballersInSpain ,
+		<http://dbpedia.org/class/yago/S%C3%BCperLigPlayers> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa>	rdf:type	dbpedia-owl:Agent ,
+		dbpedia-owl:SoccerPlayer .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa>	rdf:type	dul:NaturalPerson ,
+		yago:Winger110782471 ,
+		yago:AssociationFootballWingers .
+@prefix ns9:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa>	rdf:type	ns9:SoccerPlayer ,
+		yago:PrimeiraLigaPlayers ,
+		dbpedia-owl:Person .
+@prefix ns10:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa>	rdf:type	ns10:Q5 ,
+		yago:Object100002684 ,
+		yago:Whole100003553 ,
+		yago:UEFAEuro2004Players ,
+		dul:Agent ,
+		yago:PortugalInternationalFootballers ,
+		yago:PortugueseExpatriateFootballers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa>	rdf:type	owl:Thing ,
+		ns10:Q215627 ,
+		dbpedia-owl:Athlete ,
+		yago:Contestant109613191 ,
+		<http://dbpedia.org/class/yago/S.L.BenficaFootballers> ,
+		yago:UEFAEuro2008Players ,
+		yago:PeopleFromVilaRealMunicipality ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		ns9:Athlete ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:ExpatriateFootballersInTurkey ,
+		<http://dbpedia.org/class/yago/2006FIFAWorldCupPlayers> ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.0387xr> ,
+		<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+@prefix ns12:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa>	owl:sameAs	ns12:Simão_Sabrosa .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa>	rdfs:label	"Sim\u00E3o Sabrosa" ,
+		"Sim\u00E3o Sabrosa"@it ,
+		"Sim\u00E3o Sabrosa"@pt ,
+		"Sim\u00E3o"@nl ,
+		"Sim\u00E3o Sabrosa"@de ,
+		"\u30B7\u30E2\u30F3\u30FB\u30B5\u30D6\u30ED\u30FC\u30B6"@ja ,
+		"Sim\u00E3o Sabrosa"@es ,
+		"\u0633\u064A\u0645\u0627\u0648 \u0633\u0627\u0628\u0631\u0648\u0633\u0627"@ar ,
+		"Sim\u00E3o Sabrosa"@fr ,
+		"\u0421\u0430\u0431\u0440\u043E\u0437\u0430, \u0421\u0438\u043C\u0430\u0443"@ru ,
+		"Sim\u00E3o Sabrosa"@pl ,
+		"\u897F\u8292\u00B7\u8428\u5E03\u7F57\u8428"@zh .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa>	dcterms:subject	category:People_from_Vila_Real_Municipality ,
+		<http://dbpedia.org/resource/Category:S.L._Benfica_footballers> ,
+		<http://dbpedia.org/resource/Category:Atl%C3%A9tico_Madrid_footballers> ,
+		<http://dbpedia.org/resource/Category:2006_FIFA_World_Cup_players> ,
+		category:Primeira_Liga_players ,
+		category:Portugal_international_footballers ,
+		category:Portugal_under-21_international_footballers ,
+		category:UEFA_Euro_2004_players ,
+		category:Portuguese_expatriates_in_Turkey ,
+		category:Portuguese_expatriate_footballers ,
+		<http://dbpedia.org/resource/Category:Be%C5%9Fikta%C5%9F_J.K._footballers> ,
+		<http://dbpedia.org/resource/Category:1979_births> ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:S%C3%BCper_Lig_players> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Expatriate_footballers_in_Turkey ,
+		category:La_Liga_footballers ,
+		category:Expatriate_footballers_in_Spain ,
+		category:FC_Barcelona_footballers ,
+		category:Association_football_wingers ,
+		category:RCD_Espanyol_footballers ,
+		category:Sporting_Clube_de_Portugal_footballers ,
+		category:Portuguese_footballers ,
+		category:UEFA_Euro_2008_players ;
+	foaf:homepage	<http://simaosabrosa.sapo.pt/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Portugal_2-3_Denmark,_Sim\u00E3o2.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa>	dc:description	"Portuguese footballer" ,
+		"Portuguese footballer" ;
+	foaf:givenName	"Sim\u00E3o" ;
+	foaf:name	"Sim\u00E3o Pedro Fonseca Sabrosa" ,
+		"Sabrosa, Sim\u00E3o" ,
+		"Sim\u00E3o" ,
+		"Sim\u00E3o Sabrosa" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Sim\u00E3o_Sabrosa?oldid=606434627> ;
+	rdfs:comment	"Sim\u00E3o Pedro Fonseca Sabrosa (Constantim, 30 oktober 1979), kortweg Sim\u00E3o, is een Portugese voetballer. De vleugelaanvaller speelde voor Sporting Lissabon, FC Barcelona, SL Benfica en Atl\u00E9tico Madrid Be\u015Fikta\u015F. In 2012 keerde Sim\u00E3o terug in Spanje om te gaan voetballen voor Espanyol"@nl ,
+		"Sim\u00E3o Pedro Fonseca Sabrosa (wym. [si\u02C8m\u0250\u0303u sa\u02C8\u03B2\u027Eoz\u0250], uproszczona polska /sima\u0142u sabroza/; ur. 31 pa\u017Adziernika 1979 w miejscowo\u015Bci Constantim) \u2013 portugalski pi\u0142karz wyst\u0119puj\u0105cy na pozycji skrzyd\u0142owego lub napastnika, reprezentant Portugalii, od 2012 zawodnik RCD Espanyol."@pl ,
+		"Sim\u00E3o Pedro Fonseca Sabrosa, mejor conocido como Sim\u00E3o Sabrosa (Vila Real, Portugal, 31 de octubre de 1979) es un futbolista portugu\u00E9s. Juega de centrocampista y su equipo actual es el RCD Espa\u00F1ol de la Liga BBVA."@es ,
+		"Sim\u00E3o Pedro Fonseca Sabrosa, meglio conosciuto come Sim\u00E3o OIH (Constantim, 31 ottobre 1979), \u00E8 un calciatore portoghese, centrocampista o attaccante dell'Espanyol."@it ,
+		"\u897F\u8292\u00B7\u4F69\u5FB7\u7F57\u00B7\u4E30\u585E\u5361\u00B7\u8428\u5E03\u7F57\u8428\uFF08Sim\u00E3o Pedro Fonseca Sabrosa\uFF0C\u4E00\u822C\u7E2E\u5BEB\u70BA\u897F\u8292\u00B7\u8428\u5E03\u7F57\u8428\uFF08Sim\u00E3o Sabrosa\uFF09\uFF0C1979\u5E7410\u670831\u65E5\uFF0D\uFF09\uFF0C\u4E43\u4E00\u540D\u8461\u8404\u7259\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u66FE\u6548\u529B\u8461\u8404\u7259\u7403\u6703\u672C\u83F2\u5361\uFF0C\u73FE\u6642\u6548\u529B\u897F\u73ED\u7259\u7403\u6703\u611B\u65AF\u8CD3\u5974\uFF0C\u5834\u4E0A\u4F4D\u7F6E\u662F\u7FFC\u92D2\u3002"@zh ,
+		"\u0633\u064A\u0645\u0627\u0648 \u0628\u064A\u062F\u0631\u0648 \u0641\u0648\u0646\u0633\u064A\u0643\u0627 \u0633\u0627\u0628\u0631\u0648\u0633\u0627\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 31 \u0623\u0643\u062A\u0648\u0628\u0631 1979 \u0641\u064A \u0643\u0648\u0646\u0633\u062A\u0627\u0646\u062A\u064A\u0645 \u0641\u064A \u0641\u064A\u0644\u0627 \u0631\u064A\u0644 \u0641\u064A \u0627\u0644\u0628\u0631\u062A\u063A\u0627\u0644\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0628\u0631\u062A\u063A\u0627\u0644\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0633\u0628\u0648\u0631\u062A\u0646\u063A \u0644\u0634\u0628\u0648\u0646\u0629 \u0641\u064A \u0639\u0627\u0645 1997\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 1999\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 53 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 12 \u0647\u062F\u0641\u060C \u0648\u0641\u064A \u0639\u0627\u0645 1999 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0628\u0631\u0634\u0644\u0648\u0646\u0629 \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2001\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 46 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 3 \u0623\u0647\u062F\u0627\u0641\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2001\u0627\u0646\u062A\u0642\u0644 \u0644\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0628\u0646\u0641\u064A\u0643\u0627."@ar ,
+		"Sim\u00E3o Pedro Fonseca Sabrosa [si\u02C8m\u0250\u0303u] (* 31. Oktober 1979 in Constantim) ist ein portugiesischer Fu\u00DFballspieler. Seit 2012 steht er bei Espanyol Barcelona unter Vertrag."@de ,
+		"Sim\u00E3o Pedro Fonseca Sabrosa est un footballeur portugais n\u00E9 le 31 octobre 1979 \u00E0 Constantim (pt). Il mesure 1,70 m pour 64 kilos."@fr ,
+		"Sim\u00E3o Pedro Fonseca Sabrosa O IH (Constantim, Vila Real, 31 de Outubro de 1979) \u00E9 um futebolista portugu\u00EAs. Atualmente joga no Espanyol de Barcelona, Espanha, ap\u00F3s transfer\u00EAncia do Besiktas, da Turquia.Sim\u00E3o Sabrosa \u00E9 um extremo veloz, dotado de uma excelente t\u00E9cnica e de um remate colocado, pode jogar em qualquer dos flancos e \u00E9 um \u00F3timo marcador de livres, tendo sido decisivo em diversas situa\u00E7\u00F5es."@pt ,
+		"\u0421\u0438\u043C\u0430\u0301\u0443 \u041F\u0435\u0301\u0434\u0440\u0443 \u0424\u043E\u043D\u0441\u0435\u0301\u043A\u0430 \u0421\u0430\u0431\u0440\u043E\u0301\u0437\u0430 (\u043F\u043E\u0440\u0442. Sim\u00E3o Pedro Fonseca Sabrosa; \u0440\u043E\u0434. 31 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1979, \u0412\u0438\u043B\u0430-\u0420\u0435\u0430\u043B) \u2014 \u043F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u044C\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A. \u0418\u0433\u0440\u043E\u043A \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u042D\u0441\u043F\u0430\u043D\u044C\u043E\u043B\u00BB. \u0412\u0445\u043E\u0434\u0438\u0442 \u0432 \u043F\u044F\u0442\u0451\u0440\u043A\u0443 \u043B\u0438\u0434\u0435\u0440\u043E\u0432 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u0438\u0438 \u043F\u043E \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u0443 \u0441\u044B\u0433\u0440\u0430\u043D\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0435\u0439 \u0437\u0430 \u0432\u0441\u044E \u0438\u0441\u0442\u043E\u0440\u0438\u044E."@ru ,
+		"Sim\u00E3o Pedro Fonseca Sabrosa, OIH (born 31 October 1979), known mononymously as Sim\u00E3o (Portuguese pronunciation: [si\u02C8m\u0250\u0303w\u0303]), is a Portuguese professional footballer who plays for RCD Espanyol in La Liga mainly as a left winger, with dribbling and set piece skills as primary attributes.Having played in his country for two of the three biggest teams in the nation, Benfica and Sporting, he also spent several years of his career in Spain, notably with Atl\u00E9tico Madrid.Internationally, Sabrosa represented Portugal in two World Cups and as many European Championships, appearing in almost 90 matches for the senior side and helping it finish second at Euro 2004." ,
+		"\u30B7\u30E2\u30F3\u30FB\u30DA\u30C9\u30ED\u30FB\u30D5\u30A9\u30F3\u30BB\u30AB\u30FB\u30B5\u30D6\u30ED\u30FC\u30B6\uFF08Sim\u00E3o Pedro Fonseca Sabrosa, 1979\u5E7410\u670831\u65E5 - \uFF09\u306F\u3001\u30DD\u30EB\u30C8\u30AC\u30EB\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30EA\u30FC\u30AC\u30FB\u30A8\u30B9\u30D1\u30CB\u30E7\u30FC\u30E9\u30FB\u30D7\u30EA\u30E1\u30FC\u30E9\u30FB\u30C7\u30A3\u30D3\u30B7\u30AA\u30F3\u30FBRCD\u30A8\u30B9\u30D1\u30CB\u30E7\u30FC\u30EB\u6240\u5C5E\u3002\u30DD\u30EB\u30C8\u30AC\u30EB\u4EE3\u8868\u3067\u3042\u3063\u305F\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\u3001\u30D5\u30A9\u30EF\u30FC\u30C9\u3002\u65E5\u672C\u3067\u306F\u30B7\u30DE\u30A5\u30F3\u3084\u30B7\u30DE\u30AA\u3001\u30B7\u30DE\u30F3\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002\u30EA\u30B9\u30DC\u30F3\u306E2\u5927\u30AF\u30E9\u30D6\u3067\u3042\u308BSL\u30D9\u30F3\u30D5\u30A3\u30AB\u3068\u30B9\u30DD\u30EB\u30C6\u30A3\u30F3\u30B0\u30FB\u30EA\u30B9\u30DC\u30F3\u3067\u30D7\u30EC\u30FC\u3057\u305F\u7D4C\u9A13\u304C\u3042\u308A\u3001\u30B9\u30DA\u30A4\u30F3\u306EFC\u30D0\u30EB\u30BB\u30ED\u30CA\u3068\u30A2\u30C8\u30EC\u30C6\u30A3\u30B3\u30FB\u30DE\u30C9\u30EA\u30FC\u30C9\u3001RCD\u30A8\u30B9\u30D1\u30CB\u30E7\u30FC\u30EB\u306B\u3082\u5728\u7C4D\u3002\u30DD\u30EB\u30C8\u30AC\u30EB\u4EE3\u8868\u3068\u3057\u3066\u306FFIFA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u3068UEFA\u6B27\u5DDE\u9078\u624B\u6A29\u306B2\u5EA6\u305A\u3064\u51FA\u5834\u3057\u3001\u901A\u7B9785\u8A66\u5408\u306B\u51FA\u5834\u3057\u306622\u5F97\u70B9\u3092\u6319\u3052\u305F\u3002"@ja ;
+	foaf:surname	"Sabrosa" ;
+	foaf:isPrimaryTopicOf	ns3:Simão_Sabrosa .
+@prefix ns18:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa>	dbpprop:hasPhotoCollection	ns18:Simão_Sabrosa ;
+	dbpprop:caption	"Sim\u00E3o playing for Portugal" ;
+	dbpprop:name	"Sim\u00E3o" ,
+		"Sabrosa, Sim\u00E3o" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Portugal_2-3_Denmark,_Sim\u00E3o2.jpg?width=300> ;
+	dbpedia-owl:abstract	"Sim\u00E3o Pedro Fonseca Sabrosa, OIH (born 31 October 1979), known mononymously as Sim\u00E3o (Portuguese pronunciation: [si\u02C8m\u0250\u0303w\u0303]), is a Portuguese professional footballer who plays for RCD Espanyol in La Liga mainly as a left winger, with dribbling and set piece skills as primary attributes.Having played in his country for two of the three biggest teams in the nation, Benfica and Sporting, he also spent several years of his career in Spain, notably with Atl\u00E9tico Madrid.Internationally, Sabrosa represented Portugal in two World Cups and as many European Championships, appearing in almost 90 matches for the senior side and helping it finish second at Euro 2004." ,
+		"Sim\u00E3o Pedro Fonseca Sabrosa O IH (Constantim, Vila Real, 31 de Outubro de 1979) \u00E9 um futebolista portugu\u00EAs. Atualmente joga no Espanyol de Barcelona, Espanha, ap\u00F3s transfer\u00EAncia do Besiktas, da Turquia.Sim\u00E3o Sabrosa \u00E9 um extremo veloz, dotado de uma excelente t\u00E9cnica e de um remate colocado, pode jogar em qualquer dos flancos e \u00E9 um \u00F3timo marcador de livres, tendo sido decisivo em diversas situa\u00E7\u00F5es. Antes da sua transfer\u00EAncia para Espanha, falou-se com alguma insist\u00EAncia em poss\u00EDveis negocia\u00E7\u00F5es do jogador com clubes ingleses (Liverpool FC, Chelsea).\u00C9 divorciado de Filipa Sabrosa, com quem tem dois filhos, Martim e Mariana."@pt ,
+		"\u897F\u8292\u00B7\u4F69\u5FB7\u7F57\u00B7\u4E30\u585E\u5361\u00B7\u8428\u5E03\u7F57\u8428\uFF08Sim\u00E3o Pedro Fonseca Sabrosa\uFF0C\u4E00\u822C\u7E2E\u5BEB\u70BA\u897F\u8292\u00B7\u8428\u5E03\u7F57\u8428\uFF08Sim\u00E3o Sabrosa\uFF09\uFF0C1979\u5E7410\u670831\u65E5\uFF0D\uFF09\uFF0C\u4E43\u4E00\u540D\u8461\u8404\u7259\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u66FE\u6548\u529B\u8461\u8404\u7259\u7403\u6703\u672C\u83F2\u5361\uFF0C\u73FE\u6642\u6548\u529B\u897F\u73ED\u7259\u7403\u6703\u611B\u65AF\u8CD3\u5974\uFF0C\u5834\u4E0A\u4F4D\u7F6E\u662F\u7FFC\u92D2\u3002"@zh ,
+		"\u0633\u064A\u0645\u0627\u0648 \u0628\u064A\u062F\u0631\u0648 \u0641\u0648\u0646\u0633\u064A\u0643\u0627 \u0633\u0627\u0628\u0631\u0648\u0633\u0627\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 31 \u0623\u0643\u062A\u0648\u0628\u0631 1979 \u0641\u064A \u0643\u0648\u0646\u0633\u062A\u0627\u0646\u062A\u064A\u0645 \u0641\u064A \u0641\u064A\u0644\u0627 \u0631\u064A\u0644 \u0641\u064A \u0627\u0644\u0628\u0631\u062A\u063A\u0627\u0644\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0628\u0631\u062A\u063A\u0627\u0644\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0633\u0628\u0648\u0631\u062A\u0646\u063A \u0644\u0634\u0628\u0648\u0646\u0629 \u0641\u064A \u0639\u0627\u0645 1997\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 1999\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 53 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 12 \u0647\u062F\u0641\u060C \u0648\u0641\u064A \u0639\u0627\u0645 1999 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0628\u0631\u0634\u0644\u0648\u0646\u0629 \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2001\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 46 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 3 \u0623\u0647\u062F\u0627\u0641\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2001\u0627\u0646\u062A\u0642\u0644 \u0644\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0628\u0646\u0641\u064A\u0643\u0627. \u0641\u064A \u0645\u0648\u0633\u0645 2007/08 \u0627\u0646\u062A\u0642\u0644 \u0633\u064A\u0645\u0627\u0648 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0623\u062A\u0644\u062A\u064A\u0643\u0648 \u0645\u062F\u0631\u064A\u062F \u0641\u064A \u0635\u0641\u0642\u0629 \u0642\u064A\u0627\u0633\u064A\u0629 \u062A\u062C\u0627\u0648\u0632\u062A 20 \u0645\u0644\u064A\u0648\u0646 \u064A\u0648\u0631\u0648.\u0645\u0633\u064A\u0631\u062A\u0647 \u0645\u0639 \u0627\u0644\u0646\u0627\u062F\u064A :\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0623\u062D\u062A\u0631\u0627\u0641\u064A\u0647 \u0641\u064A \u0646\u0627\u062F\u064A \u0633\u0628\u0648\u0631\u062A\u0646\u063A \u0644\u0634\u0628\u0648\u0646\u0629 \u0648\u0630\u0644\u0643 \u0641\u064A \u0639\u0627\u0645 1997-1999 \u0648\u0644\u0639\u0628 53 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 12 \u0647\u062F\u0641. \u062B\u0645 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0627\u0644\u0644\u064A\u062C\u0627 \u0627\u0644\u0623\u0633\u0628\u0627\u0646\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0628\u0631\u0634\u0644\u0648\u0646\u0629 \u0628\u0645\u0628\u0644\u063A 15 \u0645\u0644\u064A\u0648\u0646 \u064A\u0648\u0631\u0648 \u0648\u0643\u0627\u0646 \u0645\u0633\u062A\u0648\u0649 \u0633\u064A\u0645\u0627\u0648 \u0645\u0639 \u0627\u0644\u0646\u0627\u062F\u064A \u0627\u0644\u0643\u0627\u062A\u0644\u0648\u0646\u064A \u0645\u0646\u062E\u0641\u0636 \u0648\u0634\u0627\u0631\u0643 \u0641\u064A 46 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 3 \u0623\u0647\u062F\u0627\u0641 \u0641\u0642\u0637.\u062B\u0645 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0628\u0646\u0641\u064A\u0643\u0627 \u0628\u0645\u0628\u0644\u063A 12 \u0645\u0644\u064A\u0648\u0646 \u20AC \u0648\u0630\u0644\u0643 \u0641\u064A \u0639\u0627\u0645 2001\u0648\u0644\u0639\u0628 \u0641\u064A 127 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 76 \u0647\u062F\u0641.\u0641\u064A \u0635\u064A\u0641 2007-08 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0623\u062A\u0644\u062A\u064A\u0643\u0648 \u0645\u062F\u0631\u064A\u062F \u0628\u0635\u0641\u0642\u0647 \u0648\u0635\u0644\u062A \u0642\u064A\u0645\u062A\u0647\u0627 \u0625\u0644\u0649 20 \u0645\u0644\u064A\u0648\u0646\u20AC \u0648\u0634\u0627\u0631\u0643 \u0641\u064A 30 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 7 \u0623\u0647\u062F\u0627\u0641 \u0641\u064A \u0627\u0644\u062F\u0648\u0631\u064A\u060C \u0648\u0641\u064A \u0643\u0623\u0633 \u0627\u0644\u0625\u062A\u062D\u0627\u062F\u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A \u0648\u0633\u062C\u0644 3 \u0623\u0647\u062F\u0627\u0641 \u0645\u0646 \u0633\u062A\u0629 \u0645\u0628\u0627\u0631\u064A\u0627\u062A\u060C \u0648\u0644\u0645 \u064A\u0633\u062C\u0644 \u0641\u064A \u0643\u0623\u0633 \u0645\u0644\u0643 \u0625\u0633\u0628\u0627\u0646\u064A\u0627.\u0641\u064A \u062B\u0627\u0646\u064A \u0645\u0648\u0633\u0645 \u0644\u0639\u0628 33 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 7 \u0623\u0647\u062F\u0627\u0641 \u0641\u064A \u0627\u0644\u062F\u0648\u0631\u064A\u060C \u0648\u0642\u062F\u0645 \u0623\u062F\u0627\u0621 \u062C\u064A\u062F \u062C\u062F\u0627 \u0648\u0623\u0633\u0637\u0648\u0631\u064A \u0623\u0645\u0627\u0645 \u0641\u064A\u0627\u0631\u064A\u0627\u0644 \u0641\u064A \u0627\u0644\u0630\u0647\u0627\u0628 \u0648\u062C\u064A\u062F \u062C\u062F\u0627 \u0623\u0645\u0627\u0645 \u0641\u064A\u0627\u0631\u064A\u0627\u0644 \u0641\u064A \u0627\u0644\u0625\u064A\u0627\u0628\u060C \u0648\u064A\u0630\u0643\u0631 \u0627\u0646\u0647 \u0633\u062C\u0644 \u0627\u0644\u0647\u062F\u0641 \u0627\u0644\u0640 4000 \u0644\u0640 \u0627\u0644\u0623\u062A\u0644\u062A\u064A\u0643\u0648 \u0641\u064A \u0627\u0644\u062F\u0648\u0631\u064A \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A \u0623\u0645\u0627\u0645 \u062F\u064A\u0628\u0648\u0631\u062A\u064A\u0641\u0648 \u0644\u0627\u0643\u0631\u0648\u0646\u064A\u0627 \u0641\u064A \u0627\u0644\u0625\u064A\u0627\u0628 2-1\u060C \u0648\u0641\u064A \u062F\u0648\u0631\u064A \u0627\u0644\u0623\u0628\u0637\u0627\u0644 \u0633\u062C\u0644 \u0647\u062F\u0641\u064A\u0646 \u0645\u0646 8 \u0645\u0628\u0627\u0631\u064A\u0627\u062A \u0648 \u0642\u062F \u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0628\u0631\u062A\u063A\u0627\u0644 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0646\u0630 \u0639\u0627\u0645 1998.\u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"Sim\u00E3o Pedro Fonseca Sabrosa (Constantim, 30 oktober 1979), kortweg Sim\u00E3o, is een Portugese voetballer. De vleugelaanvaller speelde voor Sporting Lissabon, FC Barcelona, SL Benfica en Atl\u00E9tico Madrid Be\u015Fikta\u015F. In 2012 keerde Sim\u00E3o terug in Spanje om te gaan voetballen voor Espanyol"@nl ,
+		"\u30B7\u30E2\u30F3\u30FB\u30DA\u30C9\u30ED\u30FB\u30D5\u30A9\u30F3\u30BB\u30AB\u30FB\u30B5\u30D6\u30ED\u30FC\u30B6\uFF08Sim\u00E3o Pedro Fonseca Sabrosa, 1979\u5E7410\u670831\u65E5 - \uFF09\u306F\u3001\u30DD\u30EB\u30C8\u30AC\u30EB\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30EA\u30FC\u30AC\u30FB\u30A8\u30B9\u30D1\u30CB\u30E7\u30FC\u30E9\u30FB\u30D7\u30EA\u30E1\u30FC\u30E9\u30FB\u30C7\u30A3\u30D3\u30B7\u30AA\u30F3\u30FBRCD\u30A8\u30B9\u30D1\u30CB\u30E7\u30FC\u30EB\u6240\u5C5E\u3002\u30DD\u30EB\u30C8\u30AC\u30EB\u4EE3\u8868\u3067\u3042\u3063\u305F\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\u3001\u30D5\u30A9\u30EF\u30FC\u30C9\u3002\u65E5\u672C\u3067\u306F\u30B7\u30DE\u30A5\u30F3\u3084\u30B7\u30DE\u30AA\u3001\u30B7\u30DE\u30F3\u3068\u8868\u8A18\u3055\u308C\u308B\u3053\u3068\u3082\u3042\u308B\u3002\u30EA\u30B9\u30DC\u30F3\u306E2\u5927\u30AF\u30E9\u30D6\u3067\u3042\u308BSL\u30D9\u30F3\u30D5\u30A3\u30AB\u3068\u30B9\u30DD\u30EB\u30C6\u30A3\u30F3\u30B0\u30FB\u30EA\u30B9\u30DC\u30F3\u3067\u30D7\u30EC\u30FC\u3057\u305F\u7D4C\u9A13\u304C\u3042\u308A\u3001\u30B9\u30DA\u30A4\u30F3\u306EFC\u30D0\u30EB\u30BB\u30ED\u30CA\u3068\u30A2\u30C8\u30EC\u30C6\u30A3\u30B3\u30FB\u30DE\u30C9\u30EA\u30FC\u30C9\u3001RCD\u30A8\u30B9\u30D1\u30CB\u30E7\u30FC\u30EB\u306B\u3082\u5728\u7C4D\u3002\u30DD\u30EB\u30C8\u30AC\u30EB\u4EE3\u8868\u3068\u3057\u3066\u306FFIFA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u3068UEFA\u6B27\u5DDE\u9078\u624B\u6A29\u306B2\u5EA6\u305A\u3064\u51FA\u5834\u3057\u3001\u901A\u7B9785\u8A66\u5408\u306B\u51FA\u5834\u3057\u306622\u5F97\u70B9\u3092\u6319\u3052\u305F\u3002"@ja ,
+		"Sim\u00E3o Pedro Fonseca Sabrosa [si\u02C8m\u0250\u0303u] (* 31. Oktober 1979 in Constantim) ist ein portugiesischer Fu\u00DFballspieler. Seit 2012 steht er bei Espanyol Barcelona unter Vertrag."@de ,
+		"Sim\u00E3o Pedro Fonseca Sabrosa, meglio conosciuto come Sim\u00E3o OIH (Constantim, 31 ottobre 1979), \u00E8 un calciatore portoghese, centrocampista o attaccante dell'Espanyol."@it ,
+		"Sim\u00E3o Pedro Fonseca Sabrosa, mejor conocido como Sim\u00E3o Sabrosa (Vila Real, Portugal, 31 de octubre de 1979) es un futbolista portugu\u00E9s. Juega de centrocampista y su equipo actual es el RCD Espa\u00F1ol de la Liga BBVA."@es ,
+		"\u0421\u0438\u043C\u0430\u0301\u0443 \u041F\u0435\u0301\u0434\u0440\u0443 \u0424\u043E\u043D\u0441\u0435\u0301\u043A\u0430 \u0421\u0430\u0431\u0440\u043E\u0301\u0437\u0430 (\u043F\u043E\u0440\u0442. Sim\u00E3o Pedro Fonseca Sabrosa; \u0440\u043E\u0434. 31 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1979, \u0412\u0438\u043B\u0430-\u0420\u0435\u0430\u043B) \u2014 \u043F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u044C\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A. \u0418\u0433\u0440\u043E\u043A \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u042D\u0441\u043F\u0430\u043D\u044C\u043E\u043B\u00BB. \u0412\u0445\u043E\u0434\u0438\u0442 \u0432 \u043F\u044F\u0442\u0451\u0440\u043A\u0443 \u043B\u0438\u0434\u0435\u0440\u043E\u0432 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u0438\u0438 \u043F\u043E \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u0443 \u0441\u044B\u0433\u0440\u0430\u043D\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0435\u0439 \u0437\u0430 \u0432\u0441\u044E \u0438\u0441\u0442\u043E\u0440\u0438\u044E."@ru ,
+		"Sim\u00E3o Pedro Fonseca Sabrosa est un footballeur portugais n\u00E9 le 31 octobre 1979 \u00E0 Constantim (pt). Il mesure 1,70 m pour 64 kilos."@fr ,
+		"Sim\u00E3o Pedro Fonseca Sabrosa (wym. [si\u02C8m\u0250\u0303u sa\u02C8\u03B2\u027Eoz\u0250], uproszczona polska /sima\u0142u sabroza/; ur. 31 pa\u017Adziernika 1979 w miejscowo\u015Bci Constantim) \u2013 portugalski pi\u0142karz wyst\u0119puj\u0105cy na pozycji skrzyd\u0142owego lub napastnika, reprezentant Portugalii, od 2012 zawodnik RCD Espanyol."@pl ;
+	dbpedia-owl:wikiPageID	751279 ;
+	dbpedia-owl:wikiPageRevisionID	606434627 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa>	dbpprop:birthDate	"1979-10-31+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Constantim, Portugal" ;
+	dbpprop:dateOfBirth	"1979-10-31+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Constantim, Portugal" ;
+	dbpprop:shortDescription	"Portuguese footballer" ;
+	dbpedia-owl:birthDate	"1979-10-31+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Portugal_national_football_team ,
+		<http://dbpedia.org/resource/Vila_Real,_Portugal> ;
+	dbpedia-owl:birthYear	"1979+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	300 ;
+	dbpprop:goals	20 ,
+		8 ,
+		12 ,
+		3 ,
+		76 ;
+	dbpprop:bg	"#900020" ,
+		"gold" ;
+	dbpprop:caps	56 ,
+		53 ,
+		46 ,
+		113 ,
+		172 ;
+	dbpprop:years	1999 ,
+		1997 ,
+		2012 ,
+		2011 ,
+		2007 ,
+		2001 ;
+	dbpprop:youthclubs	"Diogo C\u00E3o" ,
+		dbpedia:Sporting_Clube_de_Portugal ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa__7> ,
+		<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa__8> ,
+		<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa__9> ,
+		<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa__3> ,
+		<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa__4> ,
+		<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa__5> ,
+		<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa__6> ,
+		<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa__1> ,
+		<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa__10> ,
+		<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa__2> ;
+	dbpprop:position	dbpedia:Midfielder ;
+	dbpedia-owl:position	dbpedia:Midfielder ;
+	dbpedia-owl:height	1.6999999999999999556 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa>	ns21:height	"170.0"^^ns20:centimetre ;
+	dbpprop:currentclub	dbpedia:RCD_Espanyol ;
+	dbpprop:clubnumber	20 ;
+	dbpprop:fullname	"Sim\u00E3o Pedro Fonseca Sabrosa" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/S.L._Benfica> ,
+		dbpedia:Sporting_Clube_de_Portugal ,
+		dbpedia:FC_Barcelona ,
+		<http://dbpedia.org/resource/Atl%C3%A9tico_Madrid> ,
+		<http://dbpedia.org/resource/Be%C5%9Fikta%C5%9F_J.K.> ,
+		dbpedia:RCD_Espanyol ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/S.L._Benfica> ,
+		dbpedia:Sporting_Clube_de_Portugal ,
+		dbpedia:Portugal_national_under-21_football_team ,
+		dbpedia:FC_Barcelona ,
+		<http://dbpedia.org/resource/Atl%C3%A9tico_Madrid> ,
+		<http://dbpedia.org/resource/Be%C5%9Fikta%C5%9F_J.K.> ,
+		dbpedia:RCD_Espanyol ,
+		dbpedia:Portugal_national_football_team .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Awards" ,
+		"Portugal squads" ;
+	dbpprop:youthyears	1992 ,
+		1991 ;
+	dbpedia-owl:wikiPageExternalLink	<http://wwwr2.goal.com/en/Articolo.aspx?ContenutoId=367232> ,
+		<http://www.footballdatabase.com/site/players/index.php?dumpPlayer=707> ,
+		<http://www.footballzz.co.uk/player/simao_sabrosa/2009_2010/profile/139/default/65> ,
+		<http://www.portugoal.net/index.php/player-profiles/125-players-s-u/154-player-profile-simao-sabrosa> ,
+		<http://simaosabrosa.sapo.pt/> ,
+		<http://www.bdfutbol.com/en/j/j2515.html> ,
+		<http://www.foradejogo.net/player.php?player=197910310001&language=2> ;
+	dbpprop:clubUpdate	"2014-04-19+02:00"^^xsd:date ;
+	dbpprop:fg	"navy" ,
+		"gold" ;
+	dbpprop:nationalcaps	85 ,
+		15 ;
+	dbpprop:nationalgoals	22 ,
+		8 ;
+	dbpprop:nationalteam	dbpedia:Portugal_national_under-21_football_team ,
+		dbpedia:Portugal_national_football_team ;
+	dbpprop:nationalyears	1998 ;
+	dbpedia-owl:number	20 ;
+	dbpedia-owl:alias	"Sim\u00E3o" ;
+	dbpprop:alternativeNames	"Sim\u00E3o" .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+dbpedia:UEFA_Euro_2004_squads	dbpprop:name	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+dbpedia:Simão_Sabrosa	owl:sameAs	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+<http://dbpedia.org/resource/2000%E2%80%9301_FC_Barcelona_season__Sim%C3%A3o__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Be%C5%9Fikta%C5%9F_J.K._season__Sim%C3%A3o__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+<http://dbpedia.org/resource/1999%E2%80%932000_FC_Barcelona_season__Sim%C3%A3o__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+<http://dbpedia.org/resource/RCD_Espanyol__Sim%C3%A3o_Sabrosa__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+<http://dbpedia.org/resource/Sim%C3%A3o_Pedro_Fonseca_Sabrosa>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+dbpedia:Simao_Sabrosa	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+dbpedia:UEFA_Euro_2008_squads	dbpprop:name	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Be%C5%9Fikta%C5%9F_J.K._season>	dbpprop:name	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+<http://dbpedia.org/resource/2006%E2%80%9307_S.L._Benfica_season>	dbpprop:leagueTopscorer	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> ;
+	dbpprop:seasonTopscorer	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+dbpedia:Sabrosa	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+dbpedia:List_of_Turkish_football_transfers_summer_2010	dbpprop:name	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+<http://dbpedia.org/resource/1999_FIFA_World_Youth_Championship_squads>	dbpprop:name	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+<http://dbpedia.org/resource/2006_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+<http://dbpedia.org/resource/2000%E2%80%9301_FC_Barcelona_season>	dbpprop:name	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+<http://dbpedia.org/resource/1999%E2%80%932000_FC_Barcelona_season>	dbpprop:name	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+<http://dbpedia.org/resource/2001%E2%80%9302_FC_Barcelona_season>	dbpprop:p	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+<http://dbpedia.org/resource/2003%E2%80%9304_S.L._Benfica_season>	dbpprop:leagueTopscorer	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> ;
+	dbpprop:seasonTopscorer	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .
+<http://dbpedia.org/resource/2002%E2%80%9303_S.L._Benfica_season>	dbpprop:leagueTopscorer	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> ;
+	dbpprop:seasonTopscorer	<http://dbpedia.org/resource/Sim%C3%A3o_Sabrosa> .

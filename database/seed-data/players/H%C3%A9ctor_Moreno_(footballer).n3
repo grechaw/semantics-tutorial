@@ -1,0 +1,217 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/H\u00E9ctor_Moreno_(footballer)>	foaf:primaryTopic	<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:RCD_Espanyol	dbpprop:name	<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)> .
+dbpedia:Mexico_national_football_team	dbpprop:name	<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)> .
+<http://dbpedia.org/resource/2007_U-20_World_Cup_CONCACAF_qualifying_tournament_squads>	dbpprop:name	<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)> .
+<http://dbpedia.org/resource/2007_FIFA_U-20_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)> .
+<http://dbpedia.org/resource/2005_FIFA_U-17_World_Championship_squads>	dbpprop:name	<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)> .
+<http://dbpedia.org/resource/2011_CONCACAF_Gold_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)>	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:Preserver110466918 ,
+		foaf:Person ,
+		yago:Defender109614684 ,
+		yago:Athlete109820263 ,
+		yago:FootballPlayer110101634 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)>	rdf:type	dul:NaturalPerson ,
+		yago:Player110439851 .
+@prefix ns6:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)>	rdf:type	ns6:Q5 ,
+		yago:AZAlkmaarPlayers ,
+		dul:Agent ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 .
+@prefix ns7:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)>	rdf:type	ns7:Athlete ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		<http://dbpedia.org/class/yago/PrimeraDivisi%C3%B3nDeM%C3%A9xicoPlayers> ,
+		yago:EredivisiePlayers ,
+		yago:MexicoInternationalFootballers ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:ExpatriateFootballersInTheNetherlands ,
+		yago:LaLigaFootballers ,
+		yago:MexicanExpatriateFootballers ,
+		yago:Contestant109613191 ,
+		yago:ExpatriateFootballersInSpain ,
+		yago:AssociationFootballDefenders ,
+		yago:MexicanFootballers ,
+		<http://dbpedia.org/class/yago/2011CONCACAFGoldCupPlayers> .
+@prefix ns8:	<http://schema.org/> .
+<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)>	rdf:type	ns8:Person ,
+		yago:UNAMPumasFootballers ,
+		yago:RCDEspanyolFootballers ,
+		<http://dbpedia.org/class/yago/PeopleFromCuliac%C3%A1n> ,
+		ns7:SoccerPlayer .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)>	rdf:type	dbpedia-owl:Agent ,
+		dbpedia-owl:Person ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		dbpedia-owl:Athlete ,
+		ns6:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)>	rdf:type	owl:Thing ,
+		yago:Whole100003553 ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:Object100002684 ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.0fl3k7> ,
+		<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)> ,
+		<http://yago-knowledge.org/resource/H\u00E9ctor_Moreno_(footballer)> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)>	rdfs:label	"H\u00E9ctor Moreno (footballer)" ,
+		"\u30A8\u30AF\u30C8\u30EB\u30FB\u30E2\u30EC\u30CE"@ja ,
+		"H\u00E9ctor Moreno"@pl ,
+		"H\u00E9ctor Moreno"@pt ,
+		"H\u00E9ctor Moreno"@de ,
+		"\u0647\u064A\u0643\u062A\u0648\u0631 \u0645\u0648\u0631\u064A\u0646\u0648"@ar ,
+		"\u041C\u043E\u0440\u0435\u043D\u043E, \u042D\u043A\u0442\u043E\u0440"@ru ,
+		"H\u00E9ctor Moreno"@fr ,
+		"H\u00E9ctor Moreno"@it ,
+		"H\u00E9ctor Moreno"@nl ,
+		"H\u00E9ctor Moreno"@es .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)>	dcterms:subject	<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)>	dcterms:subject	category:Living_people ,
+		<http://dbpedia.org/resource/Category:People_from_Culiac%C3%A1n> ,
+		<http://dbpedia.org/resource/Category:2011_CONCACAF_Gold_Cup_players> ,
+		category:Mexican_expatriate_footballers ,
+		category:Association_football_defenders ,
+		category:RCD_Espanyol_footballers ,
+		category:AZ_Alkmaar_players ,
+		category:Expatriate_footballers_in_the_Netherlands ,
+		category:CONCACAF_Gold_Cup-winning_players ,
+		category:Eredivisie_players ,
+		category:Mexican_expatriates_in_the_Netherlands ,
+		category:Mexico_international_footballers ,
+		category:Mexican_expatriates_in_Spain ,
+		<http://dbpedia.org/resource/Category:1988_births> ,
+		category:Mexican_footballers ,
+		category:Liga_MX_footballers ,
+		category:Club_Universidad_Nacional_footballers ,
+		category:Mexico_youth_international_footballers ,
+		category:Expatriate_footballers_in_Spain ,
+		category:La_Liga_footballers ,
+		<http://dbpedia.org/resource/Category:2013_FIFA_Confederations_Cup_players> ;
+	foaf:homepage	<http://www.rcdespanyol.com/ingles/index.php?modulo=jugador&jugador=5140&Amenu=jugador> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)>	dc:description	"Footballer" ,
+		"Footballer" ;
+	foaf:givenName	"H\u00E9ctor Alfredo" ;
+	foaf:name	"H\u00E9ctor Moreno" ,
+		"H\u00E9ctor Alfredo Moreno Herrera" ,
+		"Moreno Herrera, H\u00E9ctor Alfredo" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/H\u00E9ctor_Moreno_(footballer)?oldid=603282231> ;
+	rdfs:comment	"H\u00E9ctor Alfredo Moreno Herrera est un footballeur international mexicain, n\u00E9 le 17 janvier 1988."@fr ,
+		"H\u00E9ctor Alfredo Moreno Herrera (Culiac\u00E1n, Sinaloa, M\u00E9xico, 17 de enero de 1988) es un futbolista mexicano. Juega de defensa o medio de contenci\u00F3n y su actual equipo es el RCD Espanyol de la Liga BBVA de Espa\u00F1a."@es ,
+		"H\u00E9ctor Alfredo Moreno Herrera (ur. 17 stycznia 1988 w Culiac\u00E1nie) \u2013 meksyka\u0144ski pi\u0142karz wyst\u0119puj\u0105cy najcz\u0119\u015Bciej na pozycji \u015Brodkowego lub lewego obro\u0144cy, obecnie zawodnik RCD Espanyol."@pl ,
+		"H\u00E9ctor Alfredo Moreno Herrera (born 17 January 1988) is a Mexican footballer who currently plays as a central defender for La Liga club Espanyol.Moreno was a member of the Mexico under-17 national team that won the 2005 World Championship held in Peru. He has also represented his country at the 2010 World Cup and the 2011 CONCACAF Gold Cup." ,
+		"\u0647\u064A\u0643\u062A\u0648\u0631 \u0623\u0644\u0641\u0631\u064A\u062F\u0648 \u0645\u0648\u0631\u064A\u0646\u0648 \u0647\u064A\u0631\u064A\u0631\u0627 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: H\u00E9ctor Alfredo Moreno Herrera) (\u0645\u0648\u0627\u0644\u064A\u062F 17 \u064A\u0646\u0627\u064A\u0631 1988 \u0641\u064A \u0643\u0648\u0644\u064A\u0627\u0643\u0627\u0646) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0645\u0643\u0633\u064A\u0643\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0641\u064A \u0646\u0627\u062F\u064A \u0623\u0633\u0628\u0627\u0646\u064A\u0648\u0644 \u0623\u0644\u0627\u0633\u0628\u0627\u0646\u064A."@ar ,
+		"H\u00E9ctor Alfredo Moreno Herrera (Culiac\u00E1n, 17 de janeiro de 1988) \u00E9 um futebolista mexicano que atua como zagueiro. Atualmente, joga pelo Espanyol.Pela Sele\u00E7\u00E3o Mexicana, o atleta participou da Copa do Mundo 2010, chegando at\u00E9 as oitavas de final da competi\u00E7\u00E3o."@pt ,
+		"\u042D\u0301\u043A\u0442\u043E\u0440 \u0410\u043B\u044C\u0444\u0440\u0435\u0301\u0434\u043E \u041C\u043E\u0440\u0435\u0301\u043D\u043E \u042D\u0440\u0440\u0435\u0301\u0440\u0430 (\u0438\u0441\u043F. H\u00E9ctor Alfredo Moreno Herrera; 17 \u044F\u043D\u0432\u0430\u0440\u044F 1988, \u041A\u0443\u043B\u044C\u044F\u043A\u0430\u043D, \u0421\u0438\u043D\u0430\u043B\u043E\u0430, \u041C\u0435\u0445\u0438\u043A\u043E) \u2014 \u043C\u0435\u043A\u0441\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u042D\u0441\u043F\u0430\u043D\u044C\u043E\u043B\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041C\u0435\u043A\u0441\u0438\u043A\u0438. \u041C\u043E\u0440\u0435\u043D\u043E \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041C\u0435\u043A\u0441\u0438\u043A\u0438 \u0432\u044B\u0438\u0433\u0440\u0430\u043B \u044E\u043D\u043E\u0448\u0435\u0441\u043A\u0438\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043C\u0438\u0440\u0430 \u0434\u043E 17 \u043B\u0435\u0442 \u0432 2005 \u0433\u043E\u0434\u0443 \u0432 \u041F\u0435\u0440\u0443."@ru ,
+		"H\u00E9ctor Alfredo Moreno Herrera (Culiac\u00E1n, 17 gennaio 1988) \u00E8 un calciatore messicano, difensore dell'Espanyol e della nazionale messicana."@it ,
+		"\u30A8\u30AF\u30C8\u30EB\u30FB\u30A2\u30EB\u30D5\u30EC\u30FC\u30C9\u30FB\u30E2\u30EC\u30CE\u30FB\u30A8\u30EC\u30FC\u30E9\uFF08H\u00E9ctor Alfredo Moreno Herrera, 1988\u5E741\u670817\u65E5 - \uFF09\u306F\u3001\u30E1\u30AD\u30B7\u30B3\u30FB\u30AF\u30EA\u30A2\u30AB\u30F3\u51FA\u8EAB\u306E\u30E1\u30AD\u30B7\u30B3\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002RCD\u30A8\u30B9\u30D1\u30CB\u30E7\u30FC\u30EB\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002"@ja ,
+		"H\u00E9ctor Alfredo Moreno Herrera (* 17. Januar 1988 in Culiac\u00E1n) ist ein mexikanischer Fu\u00DFballspieler. Seit 2011 steht der Verteidiger beim spanischen Erstligisten Espanyol Barcelona unter Vertrag."@de ,
+		"H\u00E9ctor Alfredo Moreno Herrera (Culiac\u00E1n, 17 januari 1988) is een Mexicaans voetballer die onder contract staat bij Espanyol. Eerder speelde hij voor Pumas UNAM en AZ. El Tractor, zoals hij liefkozend genoemd wordt, is ook actief als Mexicaans international."@nl ;
+	foaf:surname	"Moreno Herrera" ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/H\u00E9ctor_Moreno_(footballer)> ;
+	dbpprop:hasPhotoCollection	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/H\u00E9ctor_Moreno_(footballer)> ;
+	dbpprop:name	"Moreno Herrera, H\u00E9ctor Alfredo" ,
+		"H\u00E9ctor Moreno" ;
+	dbpedia-owl:abstract	"H\u00E9ctor Alfredo Moreno Herrera (born 17 January 1988) is a Mexican footballer who currently plays as a central defender for La Liga club Espanyol.Moreno was a member of the Mexico under-17 national team that won the 2005 World Championship held in Peru. He has also represented his country at the 2010 World Cup and the 2011 CONCACAF Gold Cup." ,
+		"H\u00E9ctor Alfredo Moreno Herrera (ur. 17 stycznia 1988 w Culiac\u00E1nie) \u2013 meksyka\u0144ski pi\u0142karz wyst\u0119puj\u0105cy najcz\u0119\u015Bciej na pozycji \u015Brodkowego lub lewego obro\u0144cy, obecnie zawodnik RCD Espanyol."@pl ,
+		"H\u00E9ctor Alfredo Moreno Herrera est un footballeur international mexicain, n\u00E9 le 17 janvier 1988."@fr ,
+		"\u30A8\u30AF\u30C8\u30EB\u30FB\u30A2\u30EB\u30D5\u30EC\u30FC\u30C9\u30FB\u30E2\u30EC\u30CE\u30FB\u30A8\u30EC\u30FC\u30E9\uFF08H\u00E9ctor Alfredo Moreno Herrera, 1988\u5E741\u670817\u65E5 - \uFF09\u306F\u3001\u30E1\u30AD\u30B7\u30B3\u30FB\u30AF\u30EA\u30A2\u30AB\u30F3\u51FA\u8EAB\u306E\u30E1\u30AD\u30B7\u30B3\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002RCD\u30A8\u30B9\u30D1\u30CB\u30E7\u30FC\u30EB\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002"@ja ,
+		"H\u00E9ctor Alfredo Moreno Herrera (Culiac\u00E1n, Sinaloa, M\u00E9xico, 17 de enero de 1988) es un futbolista mexicano. Juega de defensa o medio de contenci\u00F3n y su actual equipo es el RCD Espanyol de la Liga BBVA de Espa\u00F1a."@es ,
+		"\u042D\u0301\u043A\u0442\u043E\u0440 \u0410\u043B\u044C\u0444\u0440\u0435\u0301\u0434\u043E \u041C\u043E\u0440\u0435\u0301\u043D\u043E \u042D\u0440\u0440\u0435\u0301\u0440\u0430 (\u0438\u0441\u043F. H\u00E9ctor Alfredo Moreno Herrera; 17 \u044F\u043D\u0432\u0430\u0440\u044F 1988, \u041A\u0443\u043B\u044C\u044F\u043A\u0430\u043D, \u0421\u0438\u043D\u0430\u043B\u043E\u0430, \u041C\u0435\u0445\u0438\u043A\u043E) \u2014 \u043C\u0435\u043A\u0441\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u042D\u0441\u043F\u0430\u043D\u044C\u043E\u043B\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041C\u0435\u043A\u0441\u0438\u043A\u0438. \u041C\u043E\u0440\u0435\u043D\u043E \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041C\u0435\u043A\u0441\u0438\u043A\u0438 \u0432\u044B\u0438\u0433\u0440\u0430\u043B \u044E\u043D\u043E\u0448\u0435\u0441\u043A\u0438\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043C\u0438\u0440\u0430 \u0434\u043E 17 \u043B\u0435\u0442 \u0432 2005 \u0433\u043E\u0434\u0443 \u0432 \u041F\u0435\u0440\u0443."@ru ,
+		"H\u00E9ctor Alfredo Moreno Herrera (Culiac\u00E1n, 17 gennaio 1988) \u00E8 un calciatore messicano, difensore dell'Espanyol e della nazionale messicana."@it ,
+		"\u0647\u064A\u0643\u062A\u0648\u0631 \u0623\u0644\u0641\u0631\u064A\u062F\u0648 \u0645\u0648\u0631\u064A\u0646\u0648 \u0647\u064A\u0631\u064A\u0631\u0627 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: H\u00E9ctor Alfredo Moreno Herrera) (\u0645\u0648\u0627\u0644\u064A\u062F 17 \u064A\u0646\u0627\u064A\u0631 1988 \u0641\u064A \u0643\u0648\u0644\u064A\u0627\u0643\u0627\u0646) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0645\u0643\u0633\u064A\u0643\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0641\u064A \u0646\u0627\u062F\u064A \u0623\u0633\u0628\u0627\u0646\u064A\u0648\u0644 \u0623\u0644\u0627\u0633\u0628\u0627\u0646\u064A."@ar ,
+		"H\u00E9ctor Alfredo Moreno Herrera (* 17. Januar 1988 in Culiac\u00E1n) ist ein mexikanischer Fu\u00DFballspieler. Seit 2011 steht der Verteidiger beim spanischen Erstligisten Espanyol Barcelona unter Vertrag."@de ,
+		"H\u00E9ctor Alfredo Moreno Herrera (Culiac\u00E1n, 17 de janeiro de 1988) \u00E9 um futebolista mexicano que atua como zagueiro. Atualmente, joga pelo Espanyol.Pela Sele\u00E7\u00E3o Mexicana, o atleta participou da Copa do Mundo 2010, chegando at\u00E9 as oitavas de final da competi\u00E7\u00E3o."@pt ,
+		"H\u00E9ctor Alfredo Moreno Herrera (Culiac\u00E1n, 17 januari 1988) is een Mexicaans voetballer die onder contract staat bij Espanyol. Eerder speelde hij voor Pumas UNAM en AZ. El Tractor, zoals hij liefkozend genoemd wordt, is ook actief als Mexicaans international."@nl ;
+	dbpedia-owl:wikiPageID	6024651 ;
+	dbpedia-owl:wikiPageRevisionID	603282231 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)>	dbpprop:birthDate	"1988-01-17+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Culiac\u00E1n, Mexico" ;
+	dbpprop:dateOfBirth	"1988-01-17+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Culiac\u00E1n, Sinaloa, Mexico" ;
+	dbpprop:shortDescription	"Footballer" ;
+	dbpedia-owl:birthDate	"1988-01-17+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Mexico_national_football_team ,
+		<http://dbpedia.org/resource/Culiac%C3%A1n> ;
+	dbpedia-owl:birthYear	"1988+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	200 ;
+	dbpprop:goals	6 ,
+		2 ;
+	dbpprop:bg	"#016549" ;
+	dbpprop:caps	90 ,
+		80 ,
+		44 ;
+	dbpprop:years	2011 ,
+		2008 ,
+		2006 ;
+	dbpprop:youthclubs	dbpedia:Club_Universidad_Nacional ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)__4> ,
+		<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)__2> ,
+		<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)__3> ,
+		<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)__1> ,
+		<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)__7> ,
+		<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)__6> ,
+		<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)__5> ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.8500000000000000888 .
+@prefix ns17:	<http://dbpedia.org/datatype/> .
+@prefix ns18:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)>	ns18:height	"185.0"^^ns17:centimetre ;
+	dbpprop:currentclub	dbpedia:RCD_Espanyol ;
+	dbpprop:clubnumber	15 ;
+	dbpprop:fullname	"H\u00E9ctor Alfredo Moreno Herrera" ;
+	dbpprop:clubs	dbpedia:AZ_Alkmaar ,
+		dbpedia:Club_Universidad_Nacional ,
+		dbpedia:RCD_Espanyol ;
+	dbpedia-owl:team	dbpedia:AZ_Alkmaar ,
+		dbpedia:Club_Universidad_Nacional ,
+		dbpedia:Mexico_national_under-20_football_team ,
+		dbpedia:Mexico_national_football_team ,
+		dbpedia:Mexico_national_under-17_football_team ,
+		dbpedia:RCD_Espanyol ;
+	dbpprop:title	"Mexico squads" ;
+	dbpprop:youthyears	2003 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.rcdespanyol.com/ingles/index.php?modulo=jugador&jugador=5140&Amenu=jugador> ,
+		<http://www.transfermarkt.co.uk/en/hector-moreno/leistungsdaten/spieler_51046.html> ;
+	dbpprop:clubUpdate	"2014-02-24+02:00"^^xsd:date ;
+	dbpprop:nationalteamUpdate	"2014-04-08+02:00"^^xsd:date ;
+	dbpprop:bordercolor	"#CE1126" ;
+	dbpprop:fg	"White" ;
+	dbpprop:nationalcaps	6 ,
+		4 ,
+		50 ;
+	dbpprop:nationalgoals	1 ,
+		2 ;
+	dbpprop:nationalteam	dbpedia:Mexico_national_under-20_football_team ,
+		dbpedia:Mexico_national_football_team ,
+		dbpedia:Mexico_national_under-17_football_team ;
+	dbpprop:nationalyears	2005 ,
+		2007 ;
+	dbpedia-owl:number	15 ;
+	dbpedia-owl:alias	"Moreno, H\u00E9ctor" ;
+	dbpprop:alternativeNames	"Moreno, H\u00E9ctor" .
+<http://dbpedia.org/resource/2013_FIFA_Confederations_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)> .
+<http://dbpedia.org/resource/H%C3%A9ctor_Moreno>	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)> .
+<http://dbpedia.org/resource/H\u00E9ctor_Moreno_(footballer)>	owl:sameAs	<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)> .
+<http://dbpedia.org/resource/H%C3%A9ctor_Alfredo_Moreno>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)> .
+<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_Herrera>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)> .
+<http://dbpedia.org/resource/Hector_Moreno(soccer)>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)> .
+<http://dbpedia.org/resource/Hector_Moreno_(footballer)>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)> .
+<http://dbpedia.org/resource/Hector_Moreno_(soccer)>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)> .
+<http://dbpedia.org/resource/RCD_Espanyol__H%C3%A9ctor_Moreno__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/H%C3%A9ctor_Moreno_(footballer)> .

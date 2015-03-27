@@ -1,0 +1,203 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Ariel_Garcé	foaf:primaryTopic	<http://dbpedia.org/resource/Ariel_Garc%C3%A9> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Ariel_Garc%C3%A9> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Ariel_Garc%C3%A9>	rdf:type	yago:Contestant109613191 .
+@prefix ns5:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Ariel_Garc%C3%A9>	rdf:type	ns5:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Ariel_Garc%C3%A9>	rdf:type	owl:Thing .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Ariel_Garc%C3%A9>	rdf:type	dul:Agent .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Ariel_Garc%C3%A9>	rdf:type	dbpedia-owl:Person ,
+		ns5:Q5 ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Athlete ,
+		dul:NaturalPerson .
+@prefix ns9:	<http://schema.org/> .
+<http://dbpedia.org/resource/Ariel_Garc%C3%A9>	rdf:type	ns9:Person ,
+		yago:Defender109614684 ,
+		yago:Whole100003553 ,
+		yago:PeopleFromBuenosAiresProvince ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:Preserver110466918 .
+@prefix ns10:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Ariel_Garc%C3%A9>	rdf:type	ns10:SoccerPlayer ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:RosarioCentralFootballers ,
+		yago:PhysicalEntity100001930 ,
+		yago:ExpatriateFootballersInMexico ,
+		yago:MonarcasMoreliaFootballers ,
+		yago:Player110439851 ,
+		foaf:Person ,
+		yago:FootballPlayer110101634 ,
+		yago:Athlete109820263 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:ArgentineExpatriateFootballers ,
+		<http://dbpedia.org/class/yago/PrimeraDivisi%C3%B3nArgentinaPlayers> ,
+		yago:RiverPlateFootballers ,
+		<http://dbpedia.org/class/yago/Col%C3%B3nDeSantaFeFootballers> ,
+		yago:ArgentineFootballers ,
+		yago:AssociationFootballDefenders ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:ArgentinaInternationalFootballers ,
+		yago:OlimpoFootballers ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.02x0m1w> ,
+		<http://dbpedia.org/resource/Ariel_Garc%C3%A9> .
+@prefix ns11:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Ariel_Garc%C3%A9>	owl:sameAs	ns11:Ariel_Garcé .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Ariel_Garc%C3%A9>	rdfs:label	"Ariel Garc\u00E9"@es ,
+		"Ariel Garc\u00E9"@it ,
+		"Ariel Garc\u00E9"@pt ,
+		"Ariel Garc\u00E9"@de ,
+		"Ariel Garc\u00E9"@fr ,
+		"\u0413\u0430\u0440\u0441\u0435, \u0410\u0440\u0438\u044D\u043B\u044C"@ru ,
+		"\u0622\u0631\u064A\u064A\u0644 \u063A\u0627\u0631\u0633\u064A"@ar ,
+		"Ariel Garc\u00E9" ,
+		"Ariel Garc\u00E9"@pl ,
+		"\u30A2\u30EA\u30A8\u30EB\u30FB\u30AC\u30EB\u30BB"@ja .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+<http://dbpedia.org/resource/Ariel_Garc%C3%A9>	dcterms:subject	<http://dbpedia.org/resource/Category:1979_births> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Ariel_Garc%C3%A9>	dcterms:subject	category:People_from_Buenos_Aires_Province ,
+		category:Argentine_expatriate_sportspeople_in_Mexico ,
+		<http://dbpedia.org/resource/Category:Col%C3%B3n_de_Santa_Fe_footballers> ,
+		category:Argentina_international_footballers ,
+		category:Argentine_footballers ,
+		<http://dbpedia.org/resource/Category:Primera_Divisi%C3%B3n_Argentina_players> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Association_football_defenders ,
+		category:Rosario_Central_footballers ,
+		category:Expatriate_footballers_in_Mexico ,
+		category:Argentinos_Juniors_footballers ,
+		category:Monarcas_Morelia_footballers ,
+		category:River_Plate_footballers ,
+		category:Argentine_expatriate_footballers ,
+		category:Living_people ,
+		category:Olimpo_footballers .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Ariel_Garc%C3%A9>	dc:description	"Argentine footballer" ,
+		"Argentine footballer" ;
+	foaf:givenName	"Ariel" ;
+	foaf:name	"Ariel Garce" ,
+		"Ariel Hern\u00E1n Garc\u00E9" ,
+		"Garce, Ariel" ,
+		"Ariel Garc\u00E9" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Ariel_Garc%C3%A9>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Ariel_Garc\u00E9?oldid=598875388> ;
+	rdfs:comment	"Ariel Hern\u00E1n Garc\u00E9 (Tandil, 14 de julho de 1979) \u00E9 um futebolista argentino. Atualmente joga pelo Atl\u00E9tico de Rafaela e pela sele\u00E7\u00E3o argentina, na posi\u00E7\u00E3o de zagueiro. Foi convocado pelo t\u00E9cnico Diego Maradona para representar a Argentina na Copa do Mundo 2010.Em 2006 cumpriu 6 meses de suspens\u00E3o, impostos pela Federa\u00E7\u00E3o Argentina, pelo uso de coca\u00EDna."@pt ,
+		"\u0410\u0440\u0438\u044D\u043B\u044C \u042D\u0440\u043D\u0430\u043D \u0413\u0430\u0440\u0441\u0435 (\u0438\u0441\u043F. Ariel Hern\u00E1n Garc\u00E9; 14 \u0438\u044E\u043B\u044F 1979, \u0422\u0430\u043D\u0434\u0438\u043B\u044C, \u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044F \u0411\u0443\u044D\u043D\u043E\u0441-\u0410\u0439\u0440\u0435\u0441, \u0410\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0430) \u2014 \u0430\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A. \u0418\u0433\u0440\u043E\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0410\u0440\u0445\u0435\u043D\u0442\u0438\u043D\u043E\u0441 \u0425\u0443\u043D\u0438\u043E\u0440\u0441\u00BB."@ru ,
+		"Ariel Hern\u00E1n Garc\u00E9 (* 14. Juli 1979 in Tandil), Spitzname El Chino (der Chinese), ist ein argentinischer Fu\u00DFballspieler."@de ,
+		"\u30A2\u30EA\u30A8\u30EB\u30FB\u30A8\u30EB\u30CA\u30F3\u30FB\u30AC\u30EB\u30BB\uFF08Ariel Hern\u00E1n Garc\u00E9, 1979\u5E747\u670814\u65E5 - \uFF09\u306F\u3001\u30A2\u30EB\u30BC\u30F3\u30C1\u30F3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30A2\u30EB\u30BC\u30F3\u30C1\u30F3\u4EE3\u8868\u3067\u3042\u308B\u3002\u30A2\u30EB\u30BC\u30F3\u30C1\u30F3\u30FB\u30D7\u30EA\u30E1\u30FC\u30E9\u30FB\u30C7\u30A3\u30D3\u30B7\u30AA\u30F3\u306E\u30A2\u30C8\u30EC\u30C6\u30A3\u30B3\u30FB\u30C7\u30FB\u30E9\u30D5\u30A1\u30A8\u30E9\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FDF\uFF08\u30BB\u30F3\u30BF\u30FC\u30D0\u30C3\u30AF\u3001\u53F3\u30B5\u30A4\u30C9\u30D0\u30C3\u30AF\uFF09\u3002"@ja ,
+		"Ariel Hern\u00E1n Garc\u00E9 dit Chico (n\u00E9 le 14 juillet 1979 \u00E0 Tandil en Argentine) est un joueur de football argentin."@fr ,
+		"Ariel Hern\u00E1n Garc\u00E9 (ur. 14 lipca 1979 w Tandil) - argenty\u0144ski pi\u0142karz wyst\u0119puj\u0105cy najcz\u0119\u015Bciej na pozycji \u015Brodkowego obro\u0144cy. Od 2007 roku zawodnik Col\u00F3nu, graj\u0105cego w Primera Divisi\u00F3n de Argentina."@pl ,
+		"\u0622\u0631\u064A\u064A\u0644 \u0647\u064A\u0631\u0646\u0627\u0646 \u063A\u0627\u0631\u0633\u064A (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: Ariel Hern\u00E1n Garc\u00E9) \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F (14 \u064A\u0648\u0644\u064A\u0648 1979 \u0641\u064A \u062A\u0627\u0646\u062F\u064A\u0644) \u0647\u0648 \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0623\u0631\u062C\u0646\u062A\u064A\u0646\u064A \u064A\u0644\u0639\u0628 \u0628\u0645\u0631\u0643\u0632 \u0645\u062F\u0627\u0641\u0639 \u0641\u064A \u0646\u0627\u062F\u064A \u0643\u0648\u0644\u0648\u0646 \u062F\u064A \u0633\u0627\u0646\u062A\u0627 \u0641\u064A."@ar ,
+		"Ariel Hern\u00E1n Garc\u00E9 (Tandil, Argentina, 14 de julio de 1979) es un futbolista argentino que juega como defensor. Actualmente milita en Atl\u00E9tico Rafaela de la Primera Divisi\u00F3n de Argentina."@es ,
+		"Ariel Hern\u00E1n \"Chino\" Garc\u00E9 (born 14 July 1979), is an Argentine football defender who currently plays for Atl\u00E9tico de Rafaela. He usually plays as a central defender or right back." ,
+		"Ariel Hern\u00E1n Garc\u00E9 (Tandil, 14 luglio 1979) \u00E8 un calciatore argentino, difensore dell'Argentinos Juniors e della Nazionale argentina."@it ;
+	foaf:surname	"Garce" ;
+	foaf:isPrimaryTopicOf	ns1:Ariel_Garcé .
+@prefix ns17:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Ariel_Garc%C3%A9>	dbpprop:hasPhotoCollection	ns17:Ariel_Garcé ;
+	dbpprop:name	"Garce, Ariel" ,
+		"Ariel Garc\u00E9" ;
+	dbpedia-owl:abstract	"Ariel Hern\u00E1n Garc\u00E9 (ur. 14 lipca 1979 w Tandil) - argenty\u0144ski pi\u0142karz wyst\u0119puj\u0105cy najcz\u0119\u015Bciej na pozycji \u015Brodkowego obro\u0144cy. Od 2007 roku zawodnik Col\u00F3nu, graj\u0105cego w Primera Divisi\u00F3n de Argentina."@pl ,
+		"\u0622\u0631\u064A\u064A\u0644 \u0647\u064A\u0631\u0646\u0627\u0646 \u063A\u0627\u0631\u0633\u064A (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: Ariel Hern\u00E1n Garc\u00E9) \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F (14 \u064A\u0648\u0644\u064A\u0648 1979 \u0641\u064A \u062A\u0627\u0646\u062F\u064A\u0644) \u0647\u0648 \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0623\u0631\u062C\u0646\u062A\u064A\u0646\u064A \u064A\u0644\u0639\u0628 \u0628\u0645\u0631\u0643\u0632 \u0645\u062F\u0627\u0641\u0639 \u0641\u064A \u0646\u0627\u062F\u064A \u0643\u0648\u0644\u0648\u0646 \u062F\u064A \u0633\u0627\u0646\u062A\u0627 \u0641\u064A."@ar ,
+		"Ariel Hern\u00E1n Garc\u00E9 (Tandil, Argentina, 14 de julio de 1979) es un futbolista argentino que juega como defensor. Actualmente milita en Atl\u00E9tico Rafaela de la Primera Divisi\u00F3n de Argentina."@es ,
+		"Ariel Hern\u00E1n Garc\u00E9 (Tandil, 14 de julho de 1979) \u00E9 um futebolista argentino. Atualmente joga pelo Atl\u00E9tico de Rafaela e pela sele\u00E7\u00E3o argentina, na posi\u00E7\u00E3o de zagueiro. Foi convocado pelo t\u00E9cnico Diego Maradona para representar a Argentina na Copa do Mundo 2010.Em 2006 cumpriu 6 meses de suspens\u00E3o, impostos pela Federa\u00E7\u00E3o Argentina, pelo uso de coca\u00EDna."@pt ,
+		"Ariel Hern\u00E1n Garc\u00E9 (* 14. Juli 1979 in Tandil), Spitzname El Chino (der Chinese), ist ein argentinischer Fu\u00DFballspieler."@de ,
+		"\u30A2\u30EA\u30A8\u30EB\u30FB\u30A8\u30EB\u30CA\u30F3\u30FB\u30AC\u30EB\u30BB\uFF08Ariel Hern\u00E1n Garc\u00E9, 1979\u5E747\u670814\u65E5 - \uFF09\u306F\u3001\u30A2\u30EB\u30BC\u30F3\u30C1\u30F3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30A2\u30EB\u30BC\u30F3\u30C1\u30F3\u4EE3\u8868\u3067\u3042\u308B\u3002\u30A2\u30EB\u30BC\u30F3\u30C1\u30F3\u30FB\u30D7\u30EA\u30E1\u30FC\u30E9\u30FB\u30C7\u30A3\u30D3\u30B7\u30AA\u30F3\u306E\u30A2\u30C8\u30EC\u30C6\u30A3\u30B3\u30FB\u30C7\u30FB\u30E9\u30D5\u30A1\u30A8\u30E9\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FDF\uFF08\u30BB\u30F3\u30BF\u30FC\u30D0\u30C3\u30AF\u3001\u53F3\u30B5\u30A4\u30C9\u30D0\u30C3\u30AF\uFF09\u3002"@ja ,
+		"Ariel Hern\u00E1n Garc\u00E9 dit Chico (n\u00E9 le 14 juillet 1979 \u00E0 Tandil en Argentine) est un joueur de football argentin."@fr ,
+		"Ariel Hern\u00E1n \"Chino\" Garc\u00E9 (born 14 July 1979), is an Argentine football defender who currently plays for Atl\u00E9tico de Rafaela. He usually plays as a central defender or right back." ,
+		"\u0410\u0440\u0438\u044D\u043B\u044C \u042D\u0440\u043D\u0430\u043D \u0413\u0430\u0440\u0441\u0435 (\u0438\u0441\u043F. Ariel Hern\u00E1n Garc\u00E9; 14 \u0438\u044E\u043B\u044F 1979, \u0422\u0430\u043D\u0434\u0438\u043B\u044C, \u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u044F \u0411\u0443\u044D\u043D\u043E\u0441-\u0410\u0439\u0440\u0435\u0441, \u0410\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0430) \u2014 \u0430\u0440\u0433\u0435\u043D\u0442\u0438\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A. \u0418\u0433\u0440\u043E\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0410\u0440\u0445\u0435\u043D\u0442\u0438\u043D\u043E\u0441 \u0425\u0443\u043D\u0438\u043E\u0440\u0441\u00BB."@ru ,
+		"Ariel Hern\u00E1n Garc\u00E9 (Tandil, 14 luglio 1979) \u00E8 un calciatore argentino, difensore dell'Argentinos Juniors e della Nazionale argentina."@it ;
+	dbpedia-owl:wikiPageID	12690446 ;
+	dbpedia-owl:wikiPageRevisionID	598875388 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Ariel_Garc%C3%A9>	dbpprop:birthDate	"1979-07-14+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Tandil, Argentina" ;
+	dbpprop:dateOfBirth	"1979-07-14+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Tandil, Argentina" ;
+	dbpprop:shortDescription	"Argentine footballer" ;
+	dbpedia-owl:birthDate	"1979-07-14+02:00"^^xsd:date .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Ariel_Garc%C3%A9>	dbpedia-owl:birthPlace	dbpedia:Tandil ,
+		dbpedia:Argentina_national_football_team ;
+	dbpedia-owl:birthYear	"1979+02:00"^^xsd:gYear ;
+	dbpprop:goals	4 ,
+		0 ,
+		1 ;
+	dbpprop:caps	129 ,
+		98 ,
+		32 ,
+		0 ,
+		15 ,
+		11 ,
+		23 ,
+		19 ;
+	dbpprop:years	1999 ,
+		2003 ,
+		2006 ,
+		2007 ,
+		2004 ,
+		2005 ,
+		2012 ,
+		2013 ;
+	dbpprop:youthclubs	<http://dbpedia.org/resource/Club_Atl%C3%A9tico_River_Plate> ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Ariel_Garc%C3%A9__5> ,
+		<http://dbpedia.org/resource/Ariel_Garc%C3%A9__3> ,
+		<http://dbpedia.org/resource/Ariel_Garc%C3%A9__6> ,
+		<http://dbpedia.org/resource/Ariel_Garc%C3%A9__7> ,
+		<http://dbpedia.org/resource/Ariel_Garc%C3%A9__2> ,
+		<http://dbpedia.org/resource/Ariel_Garc%C3%A9__9> ,
+		<http://dbpedia.org/resource/Ariel_Garc%C3%A9__8> ,
+		<http://dbpedia.org/resource/Ariel_Garc%C3%A9__1> ,
+		<http://dbpedia.org/resource/Ariel_Garc%C3%A9__4> ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.7700000000000000178 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Ariel_Garc%C3%A9>	ns21:height	"177.0"^^ns20:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/Atl%C3%A9tico_de_Rafaela> ;
+	dbpprop:clubnumber	29 ;
+	dbpprop:fullname	"Ariel Hern\u00E1n Garc\u00E9" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/Club_Atl%C3%A9tico_Col%C3%B3n> ,
+		"\u2192 Morelia" ,
+		dbpedia:Argentinos_Juniors ,
+		dbpedia:Rosario_Central ,
+		<http://dbpedia.org/resource/Atl%C3%A9tico_de_Rafaela> ,
+		<http://dbpedia.org/resource/Club_Atl%C3%A9tico_River_Plate> ,
+		dbpedia:Club_Olimpo ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/Club_Atl%C3%A9tico_Col%C3%B3n> ,
+		dbpedia:Argentinos_Juniors ,
+		dbpedia:Rosario_Central ,
+		<http://dbpedia.org/resource/Atl%C3%A9tico_de_Rafaela> ,
+		dbpedia:Argentina_national_football_team ,
+		<http://dbpedia.org/resource/Club_Atl%C3%A9tico_River_Plate> ,
+		dbpedia:Club_Olimpo ,
+		dbpedia:Monarcas_Morelia .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Ariel_Garc%C3%A9>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.futbolxxi.com/Futbolista.aspx?ID=4608&SEOFutbolista=Garce+Ariel+Hernan> ,
+		<http://soccer-stats.irishtimes.com/?Lang=0&CTID=60&CPID=172&pStr=Player&PLID=55120&TEID=3366> ;
+	dbpprop:clubUpdate	"--08-06+02:00"^^xsd:gMonthDay ;
+	dbpprop:nationalteamUpdate	"--12-17+02:00"^^xsd:gMonthDay ;
+	dbpprop:nationalcaps	4 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:Argentina_national_football_team ;
+	dbpprop:nationalyears	2003 ;
+	dbpedia-owl:number	29 .
+dbpedia:Ariel_Garcé	owl:sameAs	<http://dbpedia.org/resource/Ariel_Garc%C3%A9> .
+dbpedia:Ariel_Garce	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Ariel_Garc%C3%A9> .

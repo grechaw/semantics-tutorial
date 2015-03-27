@@ -1,0 +1,211 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Cédric_Carrasso	foaf:primaryTopic	<http://dbpedia.org/resource/C%C3%A9dric_Carrasso> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/FC_Girondins_de_Bordeaux__C%C3%A9dric_Carrasso__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/C%C3%A9dric_Carrasso> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Cédric_Carrasso	owl:sameAs	<http://dbpedia.org/resource/C%C3%A9dric_Carrasso> .
+dbpedia:Cedric_Carrasso	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/C%C3%A9dric_Carrasso> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/C%C3%A9dric_Carrasso>	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:Whole100003553 ,
+		yago:FCGirondinsDeBordeauxPlayers ,
+		yago:Object100002684 ,
+		yago:OlympiqueDeMarseillePlayers ,
+		yago:PeopleFromAvignon ,
+		<http://dbpedia.org/class/yago/CrystalPalaceF.C.Players> ,
+		yago:Ligue1Players ,
+		foaf:Person ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Person ,
+		yago:Player110439851 ,
+		yago:Athlete109820263 ,
+		yago:EAGuingampPlayers ,
+		yago:FootballPlayer110101634 .
+@prefix ns7:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/C%C3%A9dric_Carrasso>	rdf:type	ns7:SoccerPlayer ,
+		ns7:Athlete ,
+		yago:Contestant109613191 ,
+		dbpedia-owl:Athlete ,
+		yago:FranceInternationalFootballers ,
+		yago:ToulouseFCPlayers ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		dbpedia-owl:SoccerPlayer .
+@prefix ns8:	<http://schema.org/> .
+<http://dbpedia.org/resource/C%C3%A9dric_Carrasso>	rdf:type	ns8:Person ,
+		yago:TheFootballLeaguePlayers ,
+		yago:SoccerPlayer110618342 .
+@prefix ns9:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/C%C3%A9dric_Carrasso>	rdf:type	ns9:Q215627 ,
+		yago:AssociationFootballGoalkeepers ,
+		owl:Thing ,
+		yago:HockeyPlayer110179291 ,
+		yago:Goalkeeper110134001 ,
+		yago:Ligue2Players ,
+		ns9:Q5 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/C%C3%A9dric_Carrasso>	rdf:type	dul:Agent ,
+		dul:NaturalPerson ,
+		yago:FrenchFootballers .
+@prefix ns11:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/C%C3%A9dric_Carrasso>	owl:sameAs	ns11:Cédric_Carrasso ,
+		<http://dbpedia.org/resource/C%C3%A9dric_Carrasso> ,
+		<http://rdf.freebase.com/ns/m.0dy349> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/C%C3%A9dric_Carrasso>	rdfs:label	"\u0633\u064A\u062F\u0631\u064A\u0643 \u0643\u0627\u0631\u0627\u0633\u0648"@ar ,
+		"\u30BB\u30C9\u30EA\u30C3\u30AF\u30FB\u30AB\u30E9\u30C3\u30BD"@ja ,
+		"C\u00E9dric Carrasso"@pl ,
+		"C\u00E9dric Carrasso" ,
+		"\u585E\u5FB7\u91CC\u514B\u00B7\u5361\u62C9\u7D22"@zh ,
+		"\u041A\u0430\u0440\u0440\u0430\u0441\u0441\u043E, \u0421\u0435\u0434\u0440\u0438\u043A"@ru ,
+		"C\u00E9dric Carrasso"@it ,
+		"C\u00E9dric Carrasso"@es ,
+		"C\u00E9dric Carrasso"@pt ,
+		"C\u00E9dric Carrasso"@de ,
+		"C\u00E9dric Carrasso"@nl ,
+		"C\u00E9dric Carrasso"@fr .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/C%C3%A9dric_Carrasso>	dcterms:subject	category:France_international_footballers ,
+		category:Ligue_1_players ,
+		category:EA_Guingamp_players ,
+		<http://dbpedia.org/resource/Category:Crystal_Palace_F.C._players> ,
+		category:People_from_Avignon ,
+		category:French_footballers ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Olympique_de_Marseille_players ,
+		category:The_Football_League_players ,
+		category:Living_people ,
+		category:Ligue_2_players ,
+		<http://dbpedia.org/resource/Category:1981_births> ,
+		category:Association_football_goalkeepers ,
+		category:UEFA_Euro_2012_players ,
+		category:Toulouse_FC_players ,
+		category:FC_Girondins_de_Bordeaux_players ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Carrasso.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/C%C3%A9dric_Carrasso>	dc:description	"Footballer" ,
+		"Footballer" ;
+	foaf:givenName	"C\u00E9dric" ;
+	foaf:name	"Carrasso, C\u00E9dric" ,
+		"C\u00E9dric Carrasso" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/C%C3%A9dric_Carrasso>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/C\u00E9dric_Carrasso?oldid=589377106> ;
+	rdfs:comment	"C\u00E9dric Carrasso (Avignone, 30 dicembre 1981) \u00E8 un calciatore francese, portiere del Bordeaux."@it ,
+		"C\u00E9dric Carrasso, n\u00E9 le 30 d\u00E9cembre 1981 \u00E0 Avignon (Vaucluse, France), est un footballeur international fran\u00E7ais qui \u00E9volue au poste de gardien de but aux Girondins de Bordeaux. Son fr\u00E8re Johann Carrasso, de six ans et demi son cadet, est \u00E9galement gardien de but et \u00E9volue au FC Metz."@fr ,
+		"\u8CFD\u5FB7\u91CC\u514B\u00B7\u5361\u62C9\u7D22\uFF08C\u00E9dric Carrasso\uFF0C1981\u5E7412\u670830\u65E5-\uFF09\uFF0C\u6CD5\u570B\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u53F8\u8077\u9580\u5C07\uFF0C\u6548\u529B\u65BC\u6CD5\u7532\u6CE2\u723E\u591A\u968A\u3002"@zh ,
+		"\u0633\u064A\u062F\u0631\u064A\u0643 \u0643\u0627\u0631\u0627\u0633\u0648 (\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629: C\u00E9dric Carrasso) \u0648\u0644\u062F \u0641\u064A (30 \u062F\u064A\u0633\u0645\u0628\u0631 1981 \u0641\u064A \u0623\u0641\u064A\u0646\u064A\u0648\u0646) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0641\u0631\u0646\u0633\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0628\u0648\u0631\u062F\u0648 \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0641\u064A \u0645\u0631\u0643\u0632 \u062D\u0627\u0631\u0633 \u0645\u0631\u0645\u0649 ."@ar ,
+		"C\u00E9dric Carrasso (Avi\u00F1\u00F3n, Francia, 30 de diciembre de 1981), futbolista franc\u00E9s. Juega de portero y su actual equipo es el Girondins de Burdeos de la Ligue 1 de Francia, hermano del futbolista Johann Carrasso, que juega como guardameta actualmente en el FC Metz de la Championnat National."@es ,
+		"C\u00E9dric Carrasso (* 30. Dezember 1981 in Avignon) ist ein franz\u00F6sischer Fu\u00DFballtorwart, der seit 2009 beim franz\u00F6sischen Erstligisten Girondins Bordeaux unter Vertrag steht. Sein j\u00FCngerer Bruder Johann Carrasso ist ebenfalls als Profitorh\u00FCter in Frankreich aktiv.Im Alter von 13 Jahren wurde er in die Jugendakademie von Olympique Marseille aufgenommen. Nach f\u00FCnf Jahren Ausbildung unterschrieb er dort seinen ersten Profivertrag."@de ,
+		"C\u00E9dric Carrasso (French pronunciation: \u200B[sed\u0281ik ka\u0281aso]; born 30 December 1981) is a French footballer, who currently plays as a goalkeeper for Bordeaux. He has also played for the French national team." ,
+		"C\u00E9dric Carrasso (Avinh\u00E3o, 30 de dezembro de 1981) \u00E9 um futebolista da Fran\u00E7a que joga na posi\u00E7\u00E3o de goleiro. Atualmente defende o Bordeaux.Integrou o elenco da Sele\u00E7\u00E3o Francesa de Futebol que disputou a Copa do Mundo FIFA de 2010."@pt ,
+		"\u30BB\u30C9\u30EA\u30C3\u30AF\u30FB\u30AB\u30E9\u30BD\uFF08C\u00E9dric Carrasso, 1981\u5E7412\u670830\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u30FB\u30F4\u30A9\u30AF\u30EA\u30E5\u30FC\u30BA\u770C\u30A2\u30F4\u30A3\u30CB\u30E7\u30F3\u51FA\u8EAB\u3001\u540C\u56FD\u4EE3\u8868\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002FC\u30B8\u30ED\u30F3\u30C0\u30F3\u30FB\u30DC\u30EB\u30C9\u30FC\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30B4\u30FC\u30EB\u30AD\u30FC\u30D1\u30FC\u3002\u5F1F\u3067AS\u30E2\u30CA\u30B3\u306B\u6240\u5C5E\u3057\u3066\u3044\u308B\u30B8\u30E7\u30A2\u30F3\u30FB\u30AB\u30E9\u30C3\u30BD\u3082\u30D7\u30ED\u306EGK\u3002"@ja ,
+		"\u0421\u0435\u0434\u0440\u0438\u0301\u043A \u041A\u0430\u0440\u0440\u0430\u0441\u0441\u043E\u0301 (\u0444\u0440. C\u00E9dric Carrasso; 30 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1981, \u0410\u0432\u0438\u043D\u044C\u043E\u043D) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432\u0440\u0430\u0442\u0430\u0440\u044C \u043A\u043B\u0443\u0431\u0430 \u00AB\u0411\u043E\u0440\u0434\u043E\u00BB."@ru ,
+		"C\u00E9dric Carrasso (Avignon, 30 december 1981) is een Frans voetballer die momenteel als doelman uitkomt voor Girondins Bordeaux en het nationale team."@nl ,
+		"C\u00E9dric Carrasso (ur. 30 grudnia 1981 w Awinionie) \u2013 francuski pi\u0142karz wyst\u0119puj\u0105cy na pozycji bramkarza. Obecnie gra w klubie Girondins Bordeaux."@pl ;
+	foaf:surname	"Carrasso" ;
+	foaf:isPrimaryTopicOf	ns1:Cédric_Carrasso .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix ns18:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/C%C3%A9dric_Carrasso>	dbpprop:hasPhotoCollection	ns18:Cédric_Carrasso ;
+	dbpprop:caption	"Carrasso with training with Bordeaux in 2009." ;
+	dbpprop:name	"Carrasso, C\u00E9dric" ,
+		"C\u00E9dric Carrasso" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Carrasso.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u0633\u064A\u062F\u0631\u064A\u0643 \u0643\u0627\u0631\u0627\u0633\u0648 (\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629: C\u00E9dric Carrasso) \u0648\u0644\u062F \u0641\u064A (30 \u062F\u064A\u0633\u0645\u0628\u0631 1981 \u0641\u064A \u0623\u0641\u064A\u0646\u064A\u0648\u0646) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0641\u0631\u0646\u0633\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0628\u0648\u0631\u062F\u0648 \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0641\u064A \u0645\u0631\u0643\u0632 \u062D\u0627\u0631\u0633 \u0645\u0631\u0645\u0649 ."@ar ,
+		"C\u00E9dric Carrasso (ur. 30 grudnia 1981 w Awinionie) \u2013 francuski pi\u0142karz wyst\u0119puj\u0105cy na pozycji bramkarza. Obecnie gra w klubie Girondins Bordeaux."@pl ,
+		"C\u00E9dric Carrasso (French pronunciation: \u200B[sed\u0281ik ka\u0281aso]; born 30 December 1981) is a French footballer, who currently plays as a goalkeeper for Bordeaux. He has also played for the French national team." ,
+		"\u30BB\u30C9\u30EA\u30C3\u30AF\u30FB\u30AB\u30E9\u30BD\uFF08C\u00E9dric Carrasso, 1981\u5E7412\u670830\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u30FB\u30F4\u30A9\u30AF\u30EA\u30E5\u30FC\u30BA\u770C\u30A2\u30F4\u30A3\u30CB\u30E7\u30F3\u51FA\u8EAB\u3001\u540C\u56FD\u4EE3\u8868\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002FC\u30B8\u30ED\u30F3\u30C0\u30F3\u30FB\u30DC\u30EB\u30C9\u30FC\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30B4\u30FC\u30EB\u30AD\u30FC\u30D1\u30FC\u3002\u5F1F\u3067AS\u30E2\u30CA\u30B3\u306B\u6240\u5C5E\u3057\u3066\u3044\u308B\u30B8\u30E7\u30A2\u30F3\u30FB\u30AB\u30E9\u30C3\u30BD\u3082\u30D7\u30ED\u306EGK\u3002"@ja ,
+		"C\u00E9dric Carrasso (Avignone, 30 dicembre 1981) \u00E8 un calciatore francese, portiere del Bordeaux."@it ,
+		"\u8CFD\u5FB7\u91CC\u514B\u00B7\u5361\u62C9\u7D22\uFF08C\u00E9dric Carrasso\uFF0C1981\u5E7412\u670830\u65E5-\uFF09\uFF0C\u6CD5\u570B\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u53F8\u8077\u9580\u5C07\uFF0C\u6548\u529B\u65BC\u6CD5\u7532\u6CE2\u723E\u591A\u968A\u3002"@zh ,
+		"C\u00E9dric Carrasso (Avi\u00F1\u00F3n, Francia, 30 de diciembre de 1981), futbolista franc\u00E9s. Juega de portero y su actual equipo es el Girondins de Burdeos de la Ligue 1 de Francia, hermano del futbolista Johann Carrasso, que juega como guardameta actualmente en el FC Metz de la Championnat National."@es ,
+		"\u0421\u0435\u0434\u0440\u0438\u0301\u043A \u041A\u0430\u0440\u0440\u0430\u0441\u0441\u043E\u0301 (\u0444\u0440. C\u00E9dric Carrasso; 30 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1981, \u0410\u0432\u0438\u043D\u044C\u043E\u043D) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432\u0440\u0430\u0442\u0430\u0440\u044C \u043A\u043B\u0443\u0431\u0430 \u00AB\u0411\u043E\u0440\u0434\u043E\u00BB."@ru ,
+		"C\u00E9dric Carrasso (Avinh\u00E3o, 30 de dezembro de 1981) \u00E9 um futebolista da Fran\u00E7a que joga na posi\u00E7\u00E3o de goleiro. Atualmente defende o Bordeaux.Integrou o elenco da Sele\u00E7\u00E3o Francesa de Futebol que disputou a Copa do Mundo FIFA de 2010."@pt ,
+		"C\u00E9dric Carrasso (Avignon, 30 december 1981) is een Frans voetballer die momenteel als doelman uitkomt voor Girondins Bordeaux en het nationale team."@nl ,
+		"C\u00E9dric Carrasso, n\u00E9 le 30 d\u00E9cembre 1981 \u00E0 Avignon (Vaucluse, France), est un footballeur international fran\u00E7ais qui \u00E9volue au poste de gardien de but aux Girondins de Bordeaux. Son fr\u00E8re Johann Carrasso, de six ans et demi son cadet, est \u00E9galement gardien de but et \u00E9volue au FC Metz."@fr ,
+		"C\u00E9dric Carrasso (* 30. Dezember 1981 in Avignon) ist ein franz\u00F6sischer Fu\u00DFballtorwart, der seit 2009 beim franz\u00F6sischen Erstligisten Girondins Bordeaux unter Vertrag steht. Sein j\u00FCngerer Bruder Johann Carrasso ist ebenfalls als Profitorh\u00FCter in Frankreich aktiv.Im Alter von 13 Jahren wurde er in die Jugendakademie von Olympique Marseille aufgenommen. Nach f\u00FCnf Jahren Ausbildung unterschrieb er dort seinen ersten Profivertrag. Wie zu erwarten war, machte er kein einziges Spiel und wurde eineinhalb Jahre sp\u00E4ter an den englischen Zweitligisten Crystal Palace ausgeliehen, wo er aber auch nur ein Spiel machte. In der darauffolgenden Saison kehrte er als Nummer 2 hinter dem damaligen Stammtorh\u00FCter Vedran Runje zu Olympique Marseille zur\u00FCck. Im Jahr 2003 verletzte er sich schwer am Knie und fiel f\u00FCr mehrere Monate aus. Vor der Saison 2004/05 wurde er zum franz\u00F6sischen Zweitligisten En Avant de Guingamp ausgeliehen. Dort wurde Carrasso von Beginn an die Nummer 1 im Tor und avancierte mehr und mehr zum Leistungstr\u00E4ger. Als er ein Jahr sp\u00E4ter wieder zu seinem Klub Olympique Marseille zur\u00FCckkehrte, h\u00FCtete er das Tor f\u00FCr den langzeitgesperrten Fabien Barthez. Er \u00FCberzeugte auf der ganzen Linie und wurde somit nach dem Vertragsende von Fabien Barthez nach der WM in Deutschland zum Stammtorh\u00FCter der S\u00FCdfranzosen.Auch seine Leistungen zu Beginn der Saison 2007/08 waren vielversprechend, was Olympique Marseille dazu veranlasste, seinen Vertrag bis 2011 zu verl\u00E4ngern. Doch nach nur vier Spielen verletzte sich Carrasso am 22. August 2007 im Training. Ein Achillessehnenriss setzte ihn beinahe f\u00FCnf Monate au\u00DFer Gefecht. Seit Mitte Januar 2008 fand sich der Mann aus Avignon wieder im Kader, aber noch nicht auf dem Platz wieder. Sein Vertreter Steve Mandanda leistete ausgezeichnete Arbeit und h\u00FCtete somit weiter das Tor der S\u00FCdfranzosen. Auch in die franz\u00F6sische Nationalmannschaft wurde Mandanda und nicht, wie einst erwartet, Carrasso berufen. Im Sommer 2008 entschloss er sich folglich zu einem Wechsel nach Toulouse, wo er wieder Stammspieler wurde. Am Ende seiner ersten Saison beim TFC wurde er als saisonbester Torh\u00FCter der Liga mit dem \u00C9toile d\u2019Or ausgezeichnet und erhielt Anfang 2009 auch eine erste Berufung in den erweiterten A-Kader der \u00C9quipe tricolore.Zum 1. Juli 2009 wechselte Carrasso zum Meister und Champions League-Teilnehmer Girondins Bordeaux. Bei der WM 2010 in S\u00FCdafrika geh\u00F6rte er dem franz\u00F6sischen Kader an, kam aber als dritter Torwart zu keinem Einsatz. Auch danach geh\u00F6rte er regelm\u00E4\u00DFig zum Aufgebot der Bleus; es dauerte aber bis zum Juni 2011, eher er bei einem Freundschaftsspiel in Polen sein Deb\u00FCt \u2013 dann sogar in der Anfangsformation \u2013 geben durfte."@de ;
+	dbpedia-owl:wikiPageID	5647535 ;
+	dbpedia-owl:wikiPageRevisionID	589377106 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/C%C3%A9dric_Carrasso>	dbpprop:birthDate	"1981-12-30+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Avignon, France" ;
+	dbpprop:dateOfBirth	"1981-12-30+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Avignon, France" ;
+	dbpprop:shortDescription	"Footballer" ;
+	dbpedia-owl:birthDate	"1981-12-30+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Avignon ,
+		dbpedia:France_national_football_team ;
+	dbpedia-owl:birthYear	"1981+02:00"^^xsd:gYear ;
+	dbpprop:last	"Carrasso" ;
+	dbpprop:goals	0 ;
+	dbpprop:bg	"#0055A4" ;
+	dbpprop:caps	26 ,
+		37 ,
+		59 ,
+		139 ,
+		1 ;
+	dbpprop:years	2008 ,
+		2009 ,
+		2001 ,
+		2004 ;
+	dbpprop:youthclubs	dbpedia:Avenir_Club_Avignonnais ,
+		dbpedia:Olympique_de_Marseille ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/C%C3%A9dric_Carrasso__1> ,
+		<http://dbpedia.org/resource/C%C3%A9dric_Carrasso__4> ,
+		<http://dbpedia.org/resource/C%C3%A9dric_Carrasso__6> ,
+		<http://dbpedia.org/resource/C%C3%A9dric_Carrasso__3> ,
+		<http://dbpedia.org/resource/C%C3%A9dric_Carrasso__7> ,
+		<http://dbpedia.org/resource/C%C3%A9dric_Carrasso__8> ,
+		<http://dbpedia.org/resource/C%C3%A9dric_Carrasso__5> ,
+		<http://dbpedia.org/resource/C%C3%A9dric_Carrasso__2> ;
+	dbpprop:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbpedia-owl:height	1.8700000000000001066 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/C%C3%A9dric_Carrasso>	ns21:height	"187.0"^^ns20:centimetre ;
+	dbpprop:currentclub	dbpedia:FC_Girondins_de_Bordeaux ;
+	dbpprop:clubnumber	16 ;
+	dbpprop:fullname	"C\u00E9dric Carrasso" ;
+	dbpprop:clubs	dbpedia:FC_Girondins_de_Bordeaux ,
+		dbpedia:Olympique_de_Marseille ,
+		dbpedia:Toulouse_FC ,
+		"\u2192 Guingamp" ,
+		"\u2192 Crystal Palace" ;
+	dbpedia-owl:team	dbpedia:Avenir_Club_Avignonnais ,
+		dbpedia:FC_Girondins_de_Bordeaux ,
+		dbpedia:Olympique_de_Marseille ,
+		dbpedia:Toulouse_FC ,
+		dbpedia:France_national_football_team ,
+		dbpedia:En_Avant_de_Guingamp ,
+		<http://dbpedia.org/resource/Crystal_Palace_F.C.> .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/C%C3%A9dric_Carrasso>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"France squads" ;
+	dbpprop:pcupdate	"--06-05+02:00"^^xsd:gMonthDay ;
+	dbpprop:youthyears	1998 ,
+		1999 ;
+	dbpprop:bordercolor	"#EF4135" ;
+	dbpprop:fg	"#FFFFFF" ;
+	dbpprop:nationalcaps	1 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:France_national_football_team ;
+	dbpprop:nationalyears	2011 ;
+	dbpedia-owl:number	16 ;
+	dbpprop:ntupdate	"--06-05+02:00"^^xsd:gMonthDay ;
+	dbpprop:first	"C\u00E9dric" .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/C%C3%A9dric_Carrasso> .
+dbpedia:UEFA_Euro_2012_squads	dbpprop:name	<http://dbpedia.org/resource/C%C3%A9dric_Carrasso> .
+dbpedia:List_of_French_football_transfers_2008	dbpprop:name	<http://dbpedia.org/resource/C%C3%A9dric_Carrasso> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/C%C3%A9dric_Carrasso> .
+dbpedia:FC_Girondins_de_Bordeaux	dbpprop:name	<http://dbpedia.org/resource/C%C3%A9dric_Carrasso> .
+dbpedia:Carrasso	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/C%C3%A9dric_Carrasso> .

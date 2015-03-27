@@ -1,0 +1,142 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://wikidata.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Q12409740	owl:sameAs	dbpedia:Mandatory_Palestine_national_football_team .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Egon_Pollak	dbpedia-owl:managerClub	dbpedia:Mandatory_Palestine_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Egon_Pollak	dbpprop:managerclubs	dbpedia:Mandatory_Palestine_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns6:	<http://en.wikipedia.org/wiki/> .
+ns6:Mandatory_Palestine_national_football_team	foaf:primaryTopic	dbpedia:Mandatory_Palestine_national_football_team .
+@prefix ns7:	<http://he.dbpedia.org/resource/> .
+ns7:נבחרת_ארץ_ישראל_בכדורגל	owl:sameAs	dbpedia:Mandatory_Palestine_national_football_team .
+dbpedia:Egon_Pollak__4	dbpedia-owl:team	dbpedia:Mandatory_Palestine_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbpedia:Mandatory_Palestine_national_football_team	rdf:type	dbpedia-owl:Agent ,
+		owl:Thing .
+@prefix ns9:	<http://schema.org/> .
+dbpedia:Mandatory_Palestine_national_football_team	rdf:type	ns9:SportsTeam ,
+		dbpedia-owl:Organisation .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Mandatory_Palestine_national_football_team	rdf:type	dul:Agent ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		dul:SocialPerson ,
+		ns9:Organization ;
+	owl:sameAs	dbpedia:Mandatory_Palestine_national_football_team .
+@prefix ns11:	<http://wikidata.org/entity/> .
+dbpedia:Mandatory_Palestine_national_football_team	owl:sameAs	ns11:Q12409740 ,
+		ns1:Q12409740 ,
+		ns7:נבחרת_ארץ_ישראל_בכדורגל ,
+		<http://rdf.freebase.com/ns/m.0wbm89b> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Mandatory_Palestine_national_football_team	rdfs:label	"Mandatory Palestine national football team" .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Mandatory_Palestine_national_football_team	dcterms:subject	category:Israel_national_football_team ,
+		category:Former_national_association_football_teams_in_Asia ,
+		category:Palestine_national_football_team ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Lebanese_French_flag.svg> ;
+	foaf:name	"Mandatory Palestine" ;
+	foaf:nick	"Eretz Israel" ,
+		"(Land of Israel)" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Mandatory_Palestine_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Mandatory_Palestine_national_football_team?oldid=605969881> ;
+	rdfs:comment	"The Mandatory Palestine national football team (Arabic: \u0645\u0646\u062A\u062E\u0628 \u0641\u0644\u0633\u0637\u064A\u0646 \u0627\u0644\u0627\u0646\u062A\u062F\u0627\u0628\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645, Hebrew: \u05D4\u05EA\u05D0\u05D7\u05D3\u05D5\u05EA \u05D0\u05E8\u05E5 \u05D9\u05E9\u05E8\u05D0\u05DC\u05D9\u05EA \u05DC\u05DE\u05E9\u05D7\u05E7 \u05DB\u05D3\u05D5\u05E8-\u05E8\u05D2\u05DC, Hitachduth Eretz Yisraelit Lekhadur Regel \u2013 lit. \"The Land of Israel Association of Football\") represented the British Mandate of Palestine in international football competitions and was managed by the Palestine Football Association." ;
+	dbpprop:mostCaps	dbpedia:Gdalyahu_Fuchs ;
+	foaf:isPrimaryTopicOf	ns6:Mandatory_Palestine_national_football_team ;
+	dbpprop:name	"Mandatory Palestine" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Lebanese_French_flag.svg?width=300> ;
+	dbpedia-owl:abstract	"The Mandatory Palestine national football team (Arabic: \u0645\u0646\u062A\u062E\u0628 \u0641\u0644\u0633\u0637\u064A\u0646 \u0627\u0644\u0627\u0646\u062A\u062F\u0627\u0628\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645, Hebrew: \u05D4\u05EA\u05D0\u05D7\u05D3\u05D5\u05EA \u05D0\u05E8\u05E5 \u05D9\u05E9\u05E8\u05D0\u05DC\u05D9\u05EA \u05DC\u05DE\u05E9\u05D7\u05E7 \u05DB\u05D3\u05D5\u05E8-\u05E8\u05D2\u05DC, Hitachduth Eretz Yisraelit Lekhadur Regel \u2013 lit. \"The Land of Israel Association of Football\") represented the British Mandate of Palestine in international football competitions and was managed by the Palestine Football Association." ;
+	dbpedia-owl:wikiPageID	40005546 ;
+	dbpedia-owl:wikiPageRevisionID	605969881 ;
+	dbpprop:location	dbpedia:Cairo ,
+		dbpedia:Mandatory_Palestine ,
+		dbpedia:Egypt ,
+		dbpedia:Athens ,
+		dbpedia:Tel_Aviv ,
+		dbpedia:Greece ;
+	dbpprop:topScorer	dbpedia:Werner_Kaspi ;
+	dbpprop:round	"International Friendly" ,
+		1938 ,
+		1934 ;
+	dbpprop:goals	"Meitner" ,
+		"Machlis" ,
+		"Latif" ,
+		"Migiakis" ,
+		"Fawzi" ,
+		"Kamil" ,
+		"Mokhtar" ,
+		"Taha" ,
+		"Sukenik" ,
+		"Schneiderovitz" ,
+		"Kaspi" ,
+		"Neufeld" ,
+		"Vikelidis" ,
+		"Nudelmann" ;
+	dbpprop:attendance	8000 ,
+		12000 ,
+		9000 ,
+		13000 ;
+	dbpprop:referee	"Frederick John Goodsby" ,
+		"Mika Popovic" ,
+		"Mohammed Youssef" ,
+		"Stanley Wells" ,
+		"Blackwell" ;
+	dbpprop:stadium	dbpedia:British_Army_Ground ,
+		dbpedia:Hapoel_Ground ,
+		dbpedia:Apostolos_Nikolaidis_Stadium ,
+		dbpedia:Maccabiah_Stadium ;
+	dbpprop:report	<http://www.rsssf.com/tablesi/isra-intres30.html#1934_03_16> ,
+		<http://www.rsssf.com/tablesi/isra-intres30.html#1934_04_06> ,
+		<http://www.rsssf.com/tablesi/isra-intres30.html#1938_01_22> ,
+		<http://www.rsssf.com/tablesi/isra-intres30.html#1938_02_22> ,
+		<http://www.rsssf.com/tablesi/isra-intres30.html#1940_04_27> ;
+	dbpprop:score	7 ,
+		5 ,
+		1 ;
+	dbpprop:coach	dbpedia:Egon_Pollak ,
+		dbpedia:Arthur_Baar ,
+		dbpedia:Shimon_Ratner ;
+	dbpedia-owl:coach	dbpedia:Arthur_Baar ,
+		dbpedia:Egon_Pollak ,
+		dbpedia:Shimon_Ratner ;
+	dbpprop:stack	"n" .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Mandatory_Palestine_national_football_team	dbpprop:date	"1938-01-22+02:00"^^xsd:date ,
+		"1934-03-16+02:00"^^xsd:date ,
+		"1938-02-20+02:00"^^xsd:date ,
+		"1940-04-27+02:00"^^xsd:date ,
+		"1934-04-06+02:00"^^xsd:date ;
+	dbpprop:association	"Palestine Football Association" ;
+	dbpprop:badgeSize	130 ;
+	dbpprop:team	22 ,
+		"Palestine, British Mandate" ,
+		"Egypt" ;
+	dbpprop:result	"W" ,
+		"L" ;
+	dbpprop:firstGame	7 ;
+	dbpprop:largestLoss	7 ;
+	dbpprop:largestWin	"Mandatory Palestine 5\u20131 Greater Lebanon 22px" ;
+	dbpprop:eloMax	60 ;
+	dbpprop:eloMaxDate	"March 1934" ;
+	dbpprop:eloMin	71 ;
+	dbpprop:eloMinDate	"April 1940" ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.rsssf.com/tablesi/isra-intres30.html#1938_01_22> ,
+		<http://www.rsssf.com/tablesi/isra-intres30.html#1938_02_22> ,
+		<http://www.rsssf.com/tablesi/isra-intres30.html#1934_04_06> ,
+		<http://www.rsssf.com/tablesi/isra-intres30.html#1934_03_16> ,
+		<http://www.rsssf.com/tablesi/isra-intres30.html#1940_04_27> ;
+	dbpprop:homeStadium	dbpedia:Hapoel_Ground ,
+		dbpedia:Jaffa ,
+		dbpedia:Maccabiah_Stadium ,
+		dbpedia:Tel_Aviv ;
+	dbpedia-owl:stadium	dbpedia:Hapoel_Ground ,
+		dbpedia:Jaffa ,
+		dbpedia:Maccabiah_Stadium ,
+		dbpedia:Tel_Aviv ;
+	dbpprop:nickname	"Eretz Israel" .
+dbpedia:Jerry_Beit_haLevi	dbpedia-owl:team	dbpedia:Mandatory_Palestine_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mandatory_Palestine_national_football_team .
+dbpedia:Jerry_Beit_haLevi__1	dbpedia-owl:team	dbpedia:Mandatory_Palestine_national_football_team .

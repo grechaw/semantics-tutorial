@@ -1,0 +1,179 @@
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_Africa_Cup_of_Nations_squads>	dbpprop:name	<http://dbpedia.org/resource/Jo%C3%ABl_Matip> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Jo%C3%ABl_Matip> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Cameroon_national_football_team	dbpprop:name	<http://dbpedia.org/resource/Jo%C3%ABl_Matip> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns3:	<http://en.wikipedia.org/wiki/> .
+ns3:Joël_Matip	foaf:primaryTopic	<http://dbpedia.org/resource/Jo%C3%ABl_Matip> .
+dbpedia:FC_Schalke_04	dbpprop:name	<http://dbpedia.org/resource/Jo%C3%ABl_Matip> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns5:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Jo%C3%ABl_Matip>	rdf:type	ns5:Q215627 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Jo%C3%ABl_Matip>	rdf:type	yago:FCSchalke04IIPlayers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Jo%C3%ABl_Matip>	rdf:type	owl:Thing ,
+		yago:PhysicalEntity100001930 ,
+		yago:PeopleFromBochum .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Jo%C3%ABl_Matip>	rdf:type	dbpedia-owl:SoccerPlayer ,
+		yago:Player110439851 ,
+		yago:Whole100003553 ,
+		yago:Athlete109820263 ,
+		yago:Object100002684 ,
+		yago:FootballPlayer110101634 ,
+		ns5:Q5 ,
+		foaf:Person ,
+		yago:Contestant109613191 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Jo%C3%ABl_Matip>	rdf:type	dul:Agent ,
+		dul:NaturalPerson ,
+		yago:AssociationFootballDefenders ,
+		<http://dbpedia.org/class/yago/Fu%C3%9Fball-BundesligaPlayers> ,
+		yago:GermanFootballers ,
+		yago:GermanPeopleOfCameroonianDescent ,
+		dbpedia-owl:Athlete ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:CameroonianFootballers .
+@prefix ns10:	<http://schema.org/> .
+<http://dbpedia.org/resource/Jo%C3%ABl_Matip>	rdf:type	ns10:Person ,
+		yago:Defender109614684 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:FCSchalke04Players ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Person ,
+		yago:Preserver110466918 .
+@prefix ns11:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Jo%C3%ABl_Matip>	owl:sameAs	ns11:Joël_Matip ,
+		<http://dbpedia.org/resource/Jo%C3%ABl_Matip> ,
+		<http://rdf.freebase.com/ns/m.09g8q9c> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Jo%C3%ABl_Matip>	rdfs:label	"Jo\u00EBl Matip"@pt ,
+		"\u062C\u0648\u064A\u0644 \u0645\u0627\u062A\u064A\u0628"@ar ,
+		"Jo\u00EBl Matip"@it ,
+		"Joel Matip"@es ,
+		"Jo\u00EBl Matip"@nl ,
+		"Jo\u00EBl Matip"@pl ,
+		"Jo\u00EBl Matip" ,
+		"Jo\u00EBl Matip"@fr ,
+		"Joel Matip"@de ,
+		"\u041C\u0430\u0442\u0438\u043F, \u0416\u043E\u044D\u043B\u044C"@ru ,
+		"\u30B8\u30E7\u30A8\u30EB\u30FB\u30DE\u30C6\u30A3\u30D7"@ja .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Jo%C3%ABl_Matip>	dcterms:subject	category:Bundesliga_players ,
+		category:German_footballers ,
+		category:German_people_of_Cameroonian_descent ,
+		<http://dbpedia.org/resource/Category:1991_births> ,
+		category:Cameroonian_footballers ,
+		category:Sportspeople_from_Bochum ,
+		category:Association_football_defenders ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:FC_Schalke_04_players ,
+		category:FC_Schalke_04_II_players ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Joel_Matip_2011-08-03-2.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Jo%C3%ABl_Matip>	dc:description	"German footballer" ,
+		"German footballer" ;
+	foaf:givenName	"Jo\u00EBl" ;
+	foaf:name	"Matip, Jo\u00EBl" ,
+		"Jo\u00EBl Job Matip" ,
+		"Jo\u00EBl Matip" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Jo%C3%ABl_Matip>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jo\u00EBl_Matip?oldid=604567258> ;
+	rdfs:comment	"\u30B8\u30E7\u30A8\u30EB\u30FB\u30B8\u30E7\u30D6\u30FB\u30DE\u30C6\u30A3\u30D7\uFF08Jo\u00EBl Job Matip\u30011991\u5E748\u67088\u65E5 - \uFF09\u306F\u3001\u30C9\u30A4\u30C4\u304A\u3088\u3073\u30AB\u30E1\u30EB\u30FC\u30F3\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30B7\u30E3\u30EB\u30B104\u6240\u5C5E\u3002"@ja ,
+		"\u0416\u043E\u044D\u0301\u043B\u044C \u0416\u043E\u0431 \u041C\u0430\u0442\u0438\u0301\u043F (\u0444\u0440. \u0438 \u043D\u0435\u043C. Jo\u00EBl Job Matip; 8 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1991, \u0411\u043E\u0445\u0443\u043C, \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F) \u2014 \u043A\u0430\u043C\u0435\u0440\u0443\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0440\u043E\u0434\u0438\u043B\u0441\u044F \u0438 \u0436\u0438\u0432\u0435\u0442 \u0432 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438. \u041F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0438 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0428\u0430\u043B\u044C\u043A\u0435 04\u00BB."@ru ,
+		"J\u00F6el Andr\u00E9 Matip Job (Bochum, 8 augustus 1991) is een Duits-Kameroens voetballer die speelt als centrale verdediger voor Schalke 04 en het Kameroens nationaal elftal."@nl ,
+		"Jo\u00EBl Job Matip (ur. 8 sierpnia 1991 w Bochum) \u2013 kameru\u0144ski pi\u0142karz graj\u0105cy na pozycji pomocnika w klubie Schalke 04 Gelsenkirchen. Uczestnik Mistrzostw \u015Awiata 2010."@pl ,
+		"\u062C\u0648\u064A\u0644 \u0645\u0627\u062A\u064A\u0628 (\u0645\u0648\u0627\u0644\u064A\u062F 8 \u0623\u063A\u0633\u0637\u0633 1991 \u0641\u064A \u0628\u0648\u062E\u0648\u0645 - \u0623\u0644\u0645\u0627\u0646\u064A\u0627) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0627\u0645\u064A\u0631\u0648\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0634\u0627\u0644\u0643\u0647 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0645\u0646\u0630 2000 \u0641\u064A \u0645\u0631\u0643\u0632 \u0642\u0644\u0628 \u0627\u0644\u062F\u0641\u0627\u0639 \u0643\u0645\u0627 \u064A\u062C\u064A\u062F \u0627\u0644\u0644\u0639\u0628 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0648\u0633\u0637 \u0627\u0644\u0645\u062F\u0627\u0641\u0639 . \u064A\u0644\u0639\u0628 \u0628\u0634\u0643\u0644 \u063A\u064A\u0631 \u0642\u0627\u0646\u0648\u0646\u064A \u0644\u0644\u0643\u0627\u0645\u064A\u0631\u0648\u0646 \u0633\u0627\u0647\u0645 \u0641\u064A \u062A\u0631\u0634\u062D \u062A\u0648\u0646\u0633 \u0639\u0644\u0649 \u0627\u0644\u0643\u0627\u0645\u0631\u0648\u0646 \u0628\u0639\u062F \u0645\u0634\u0627\u0631\u0643\u062A\u0647 \u0627\u0644\u063A\u064A\u0631 \u0642\u0627\u0646\u0648\u0646\u064A\u0629 \u0641\u064A \u0645\u0628\u0627\u0631\u0627\u0629 \u064A\u0627\u0648\u0646\u062F\u064A \u064A\u0648\u0645 17 \u0646\u0648\u0641\u0645\u0628\u0631 2013"@ar ,
+		"Jo\u00EBl Matip est un footballeur germano-camerounais, n\u00E9 le 8 ao\u00FBt 1991 \u00E0 Bochum."@fr ,
+		"Jo\u00EBl Job Matip (Bochum, 8 de agosto de 1991) \u00E9 um futebolista teuto-camaron\u00EAs que atua como zagueiro. Atualmente, joga pelo Schalke 04."@pt ,
+		"Joel Matip (Bochum, Alemania, 8 de agosto de 1991), es un futbolista camerun\u00E9s de origen alem\u00E1n. Se desempe\u00F1a como centrocampista defensivo o defensa central y actualmente milita en el Schalke 04 de la 1. Bundesliga de Alemania."@es ,
+		"Jo\u00EBl Job Matip (Bochum, 8 agosto 1991) \u00E8 un calciatore tedesco naturalizzato camerunese, difensore dello Schalke 04 e, dal 2010, della Nazionale camerunense."@it ,
+		"Jo\u00EBl Job Matip (born 8 August 1991) is a Cameroonian footballer who plays as a centre back for Schalke 04 in the Bundesliga." ,
+		"Joel Andr\u00E9 Matip Job (* 8. August 1991 in Bochum, franz\u00F6sische Schreibweise auch Jo\u00EBl Matip) ist ein deutsch-kamerunischer Fu\u00DFballspieler. Seine bevorzugte Position ist die Innenverteidigung, er wird aber auch h\u00E4ufig im defensiven Mittelfeld eingesetzt."@de ;
+	foaf:surname	"Matip" ;
+	foaf:isPrimaryTopicOf	ns3:Joël_Matip .
+@prefix ns17:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Jo%C3%ABl_Matip>	dbpprop:hasPhotoCollection	ns17:Joël_Matip ;
+	dbpprop:caption	"Matip at practice with Schalke in 2011." ;
+	dbpprop:name	"Jo\u00EBl Matip" ,
+		"Matip, Jo\u00EBl" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Joel_Matip_2011-08-03-2.jpg?width=300> ;
+	dbpedia-owl:abstract	"Joel Andr\u00E9 Matip Job (* 8. August 1991 in Bochum, franz\u00F6sische Schreibweise auch Jo\u00EBl Matip) ist ein deutsch-kamerunischer Fu\u00DFballspieler. Seine bevorzugte Position ist die Innenverteidigung, er wird aber auch h\u00E4ufig im defensiven Mittelfeld eingesetzt."@de ,
+		"J\u00F6el Andr\u00E9 Matip Job (Bochum, 8 augustus 1991) is een Duits-Kameroens voetballer die speelt als centrale verdediger voor Schalke 04 en het Kameroens nationaal elftal."@nl ,
+		"\u30B8\u30E7\u30A8\u30EB\u30FB\u30B8\u30E7\u30D6\u30FB\u30DE\u30C6\u30A3\u30D7\uFF08Jo\u00EBl Job Matip\u30011991\u5E748\u67088\u65E5 - \uFF09\u306F\u3001\u30C9\u30A4\u30C4\u304A\u3088\u3073\u30AB\u30E1\u30EB\u30FC\u30F3\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30B7\u30E3\u30EB\u30B104\u6240\u5C5E\u3002"@ja ,
+		"Jo\u00EBl Job Matip (born 8 August 1991) is a Cameroonian footballer who plays as a centre back for Schalke 04 in the Bundesliga." ,
+		"Jo\u00EBl Matip est un footballeur germano-camerounais, n\u00E9 le 8 ao\u00FBt 1991 \u00E0 Bochum."@fr ,
+		"\u062C\u0648\u064A\u0644 \u0645\u0627\u062A\u064A\u0628 (\u0645\u0648\u0627\u0644\u064A\u062F 8 \u0623\u063A\u0633\u0637\u0633 1991 \u0641\u064A \u0628\u0648\u062E\u0648\u0645 - \u0623\u0644\u0645\u0627\u0646\u064A\u0627) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0627\u0645\u064A\u0631\u0648\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0634\u0627\u0644\u0643\u0647 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0645\u0646\u0630 2000 \u0641\u064A \u0645\u0631\u0643\u0632 \u0642\u0644\u0628 \u0627\u0644\u062F\u0641\u0627\u0639 \u0643\u0645\u0627 \u064A\u062C\u064A\u062F \u0627\u0644\u0644\u0639\u0628 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0648\u0633\u0637 \u0627\u0644\u0645\u062F\u0627\u0641\u0639 . \u064A\u0644\u0639\u0628 \u0628\u0634\u0643\u0644 \u063A\u064A\u0631 \u0642\u0627\u0646\u0648\u0646\u064A \u0644\u0644\u0643\u0627\u0645\u064A\u0631\u0648\u0646 \u0633\u0627\u0647\u0645 \u0641\u064A \u062A\u0631\u0634\u062D \u062A\u0648\u0646\u0633 \u0639\u0644\u0649 \u0627\u0644\u0643\u0627\u0645\u0631\u0648\u0646 \u0628\u0639\u062F \u0645\u0634\u0627\u0631\u0643\u062A\u0647 \u0627\u0644\u063A\u064A\u0631 \u0642\u0627\u0646\u0648\u0646\u064A\u0629 \u0641\u064A \u0645\u0628\u0627\u0631\u0627\u0629 \u064A\u0627\u0648\u0646\u062F\u064A \u064A\u0648\u0645 17 \u0646\u0648\u0641\u0645\u0628\u0631 2013"@ar ,
+		"Jo\u00EBl Job Matip (Bochum, 8 agosto 1991) \u00E8 un calciatore tedesco naturalizzato camerunese, difensore dello Schalke 04 e, dal 2010, della Nazionale camerunense."@it ,
+		"\u0416\u043E\u044D\u0301\u043B\u044C \u0416\u043E\u0431 \u041C\u0430\u0442\u0438\u0301\u043F (\u0444\u0440. \u0438 \u043D\u0435\u043C. Jo\u00EBl Job Matip; 8 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1991, \u0411\u043E\u0445\u0443\u043C, \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u044F) \u2014 \u043A\u0430\u043C\u0435\u0440\u0443\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0440\u043E\u0434\u0438\u043B\u0441\u044F \u0438 \u0436\u0438\u0432\u0435\u0442 \u0432 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438. \u041F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0438 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0428\u0430\u043B\u044C\u043A\u0435 04\u00BB."@ru ,
+		"Jo\u00EBl Job Matip (Bochum, 8 de agosto de 1991) \u00E9 um futebolista teuto-camaron\u00EAs que atua como zagueiro. Atualmente, joga pelo Schalke 04."@pt ,
+		"Joel Matip (Bochum, Alemania, 8 de agosto de 1991), es un futbolista camerun\u00E9s de origen alem\u00E1n. Se desempe\u00F1a como centrocampista defensivo o defensa central y actualmente milita en el Schalke 04 de la 1. Bundesliga de Alemania."@es ,
+		"Jo\u00EBl Job Matip (ur. 8 sierpnia 1991 w Bochum) \u2013 kameru\u0144ski pi\u0142karz graj\u0105cy na pozycji pomocnika w klubie Schalke 04 Gelsenkirchen. Uczestnik Mistrzostw \u015Awiata 2010."@pl ;
+	dbpedia-owl:wikiPageID	24998899 ;
+	dbpedia-owl:wikiPageRevisionID	604567258 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Jo%C3%ABl_Matip>	dbpprop:birthDate	"1991-08-08+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Bochum, Germany" ;
+	dbpprop:dateOfBirth	"1991-08-08+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Bochum, Germany" ;
+	dbpprop:shortDescription	"German footballer" ;
+	dbpedia-owl:birthDate	"1991-08-08+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Bochum ;
+	dbpedia-owl:birthYear	"1991+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	200 ;
+	dbpprop:goals	11 ,
+		1 ;
+	dbpprop:caps	4 ,
+		135 ;
+	dbpprop:years	2009 ;
+	dbpprop:youthclubs	dbpedia:VfL_Bochum ,
+		dbpedia:FC_Schalke_04 ,
+		"SC Weitmar 45" ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Jo%C3%ABl_Matip__5> ,
+		<http://dbpedia.org/resource/Jo%C3%ABl_Matip__1> ,
+		<http://dbpedia.org/resource/Jo%C3%ABl_Matip__2> ,
+		<http://dbpedia.org/resource/Jo%C3%ABl_Matip__3> ,
+		<http://dbpedia.org/resource/Jo%C3%ABl_Matip__4> ,
+		<http://dbpedia.org/resource/Jo%C3%ABl_Matip__6> ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.9299999999999999378 .
+@prefix ns19:	<http://dbpedia.org/datatype/> .
+@prefix ns20:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Jo%C3%ABl_Matip>	ns20:height	"193.0"^^ns19:centimetre ;
+	dbpprop:currentclub	dbpedia:FC_Schalke_04 ;
+	dbpprop:clubnumber	32 ;
+	dbpprop:fullname	"Jo\u00EBl Job Matip" ;
+	dbpprop:clubs	dbpedia:FC_Schalke_04 ;
+	dbpedia-owl:team	dbpedia:VfL_Bochum ,
+		dbpedia:Cameroon_national_football_team ,
+		dbpedia:FC_Schalke_04 ;
+	dbpprop:pcupdate	"2014-04-14+02:00"^^xsd:date ;
+	dbpprop:youthyears	2000 ,
+		1994 ,
+		1997 ;
+	dbpprop:nationalcaps	16 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:Cameroon_national_football_team ;
+	dbpprop:nationalyears	2010 ;
+	dbpedia-owl:number	32 ;
+	dbpprop:ntupdate	"2013-06-17+02:00"^^xsd:date .
+<http://dbpedia.org/resource/2009%E2%80%9310_FC_Schalke_04_season>	dbpprop:name	<http://dbpedia.org/resource/Jo%C3%ABl_Matip> .
+dbpedia:Cameroon_at_the_FIFA_World_Cup	dbpprop:name	<http://dbpedia.org/resource/Jo%C3%ABl_Matip> .
+<http://dbpedia.org/resource/FC_Schalke_04__Jo%C3%ABl_Matip__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Jo%C3%ABl_Matip> .
+dbpedia:List_of_German_football_transfers_summer_2009	dbpprop:name	<http://dbpedia.org/resource/Jo%C3%ABl_Matip> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Jo%C3%ABl_Matip> .
+dbpedia:Joël_Matip	owl:sameAs	<http://dbpedia.org/resource/Jo%C3%ABl_Matip> .
+<http://dbpedia.org/resource/2009%E2%80%9310_FC_Schalke_04_season__Joel_Matip__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Jo%C3%ABl_Matip> .
+dbpedia:Joel_Matip	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Jo%C3%ABl_Matip> .
+dbpedia:Joel_matip	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Jo%C3%ABl_Matip> .

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xml:base="http://www.daml.org/2001/12/factbook/oo">
+  <rdf:Description rdf:about='#A80618'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Palmer</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A80614'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>McMurdo</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A80622'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>and offshore anchorages in Antarctica</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A80578'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>-65.0</NS0:latitude>
+    <NS0:longitude>0.0</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A80589'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>sea level</NS0:name>
+    <NS0:elevation>0</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#OO'>
+    <NS0:background>A decision by the International Hydrographic Organization in the spring of 2000 delimited a fifth world ocean - the Southern Ocean - from the southern portions of the Atlantic Ocean, Indian Ocean, and Pacific Ocean. The Southern Ocean extends from the coast of Antarctica north to 60 degrees south latitude which coincides with the Antarctic Treaty Limit. The Southern Ocean is now the fourth largest of the world&apos;s five oceans (after the Pacific Ocean, Atlantic Ocean, and Indian Ocean, but larger than the Arctic Ocean).</NS0:background>
+    <NS0:location>body of water between 60 degrees south latitude and Antarctica</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A80578'/>
+    <NS0:mapReferences>Antarctic Region</NS0:mapReferences>
+    <NS0:totalArea>20327000</NS0:totalArea>
+    <NS0:comparativeArea>slightly more than twice the size of the US</NS0:comparativeArea>
+    <NS0:coastline>17968</NS0:coastline>
+    <NS0:climate>sea temperatures vary from about 10 degrees Celsius to -2 degrees Celsius; cyclonic storms travel eastward around the continent and frequently are intense because of the temperature contrast between ice and open ocean; the ocean area from about latitude 40 south to the Antarctic Circle has the strongest average winds found anywhere on Earth; in winter the ocean freezes outward to 65 degrees south latitude in the Pacific sector and 55 degrees south latitude in the Atlantic sector, lowering surface temperatures well below 0 degrees Celsius; at some coastal points intense persistent drainage winds from the interior keep the shoreline ice-free throughout the winter</NS0:climate>
+    <NS0:terrain>the Southern Ocean is deep, 4,000 to 5,000 meters over most of its extent with only limited areas of shallow water; the Antarctic continental shelf is generally narrow and unusually deep - its edge lying at depths of 400 to 800 meters (the global mean is 133 meters); the Antarctic icepack grows from an average minimum of 2.6 million square kilometers in March to about 18.8 million square kilometers in September, better than a sixfold increase in area; the Antarctic Circumpolar Current (21,000 km in length) moves perpetually eastward; it is the world&apos;s largest ocean current, transporting 130 million cubic meters of water per second - 100 times the flow of all the world&apos;s rivers</NS0:terrain>
+    <NS0:highestPoint rdf:resource='#A80589'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#probable_large_and_possible_giant_oil_and_gas_fields_on_the_continental_margin'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#manganese_nodules'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#possible_placer_deposits'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#sand_and_gravel'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#fresh_water_as_icebergs'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#squid'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#whales'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#and_seals_-_none_exploited;_krill'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#fishes'/>
+    <NS0:naturalHazard>huge icebergs with drafts up to several hundred meters</NS0:naturalHazard>
+    <NS0:naturalHazard>smaller bergs and iceberg fragments</NS0:naturalHazard>
+    <NS0:naturalHazard>sea ice with sometimes dynamic short-term variations and with large annual and interannual variations</NS0:naturalHazard>
+    <NS0:naturalHazard>deep continental shelf floored by glacial deposits varying widely over short distances</NS0:naturalHazard>
+    <NS0:naturalHazard>high winds and large waves much of the year</NS0:naturalHazard>
+    <NS0:naturalHazard>ship icing, especially May-October</NS0:naturalHazard>
+    <NS0:naturalHazard>most of region is remote from sources of search and rescue</NS0:naturalHazard>
+    <NS0:environmentalIssue>increased solar ultraviolet radiation resulting from the Antarctic ozone hole in recent years, reducing marine primary productivity by as much as 15% and damaging the DNA of some fish</NS0:environmentalIssue>
+    <NS0:environmentalIssue>illegal, unreported, and unregulated fishing in recent years, especially the landing of an estimated five to six times more Patagonian toothfish than the regulated fishery, which is likely to affect the sustainability of the stock</NS0:environmentalIssue>
+    <NS0:environmentalIssue>large amount of incidental mortality of seabirds resulting from long-line fishing for toothfish</NS0:environmentalIssue>
+    <NS0:economyOverview>Fisheries in 1998-99 (1 July to 30 June) landed 119,898 metric tons, of which 85% was krill and 14% Patagonian toothfish. International agreements were adopted in late 1999 to reduce illegal, unreported, and unregulated fishing, which in the 1998-99 season landed five to six times more Patagonian toothfish than the regulated fishery. In the 1999-2000 antarctic summer 13,193 tourists, most of them seaborne, visited the Southern Ocean and Antarctica, compared to 10,013 the previous year. Nearly 16,000 tourists are expected during the 2000-01 season.</NS0:economyOverview>
+    <NS0:port rdf:resource='#A80614'/>
+    <NS0:port rdf:resource='#A80618'/>
+    <NS0:port rdf:resource='#A80622'/>
+    <NS0:internationalDispute>Antarctic Treaty defers claims</NS0:internationalDispute>
+    <NS0:internationalDispute>sections claimed by Argentina, Australia, Chile, France, New Zealand, Norway, and UK</NS0:internationalDispute>
+    <NS0:internationalDispute>the US and most other nations do not recognize the maritime claims of other nations and have made no claims themselves</NS0:internationalDispute>
+    <NS0:internationalDispute>no formal claims have been made in the sector between 90 degrees west and 150 degrees west</NS0:internationalDispute>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/oo-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/oo-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/oo-map.jpg</NS0:map>
+  </rdf:Description>
+</rdf:RDF>

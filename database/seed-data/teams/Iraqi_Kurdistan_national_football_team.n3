@@ -1,0 +1,147 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://ja.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:サッカークルディスタン代表	owl:sameAs	dbpedia:Iraqi_Kurdistan_national_football_team .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Kurdische_Fußballauswahl	owl:sameAs	dbpedia:Iraqi_Kurdistan_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q1141406	owl:sameAs	dbpedia:Iraqi_Kurdistan_national_football_team .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Selección_de_fútbol_de_Kurdistán	owl:sameAs	dbpedia:Iraqi_Kurdistan_national_football_team .
+@prefix ns6:	<http://it.dbpedia.org/resource/> .
+ns6:Selezione_di_calcio_del_Kurdistan	owl:sameAs	dbpedia:Iraqi_Kurdistan_national_football_team .
+@prefix ns7:	<http://ko.dbpedia.org/resource/> .
+ns7:쿠르드_자치구_축구_국가대표팀	owl:sameAs	dbpedia:Iraqi_Kurdistan_national_football_team .
+@prefix ns8:	<http://nl.dbpedia.org/resource/> .
+ns8:Koerdisch_voetbalelftal	owl:sameAs	dbpedia:Iraqi_Kurdistan_national_football_team .
+@prefix ns9:	<http://pl.dbpedia.org/resource/> .
+ns9:Reprezentacja_Irackiego_Kurdystanu_w_piłce_nożnej	owl:sameAs	dbpedia:Iraqi_Kurdistan_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns11:	<http://en.wikipedia.org/wiki/> .
+ns11:Iraqi_Kurdistan_national_football_team	foaf:primaryTopic	dbpedia:Iraqi_Kurdistan_national_football_team .
+@prefix ns12:	<http://ar.dbpedia.org/resource/> .
+ns12:منتخب_كردستان_العراق_لكرة_القدم	owl:sameAs	dbpedia:Iraqi_Kurdistan_national_football_team .
+@prefix ns13:	<http://ckb.dbpedia.org/resource/> .
+ns13:هەڵبژاردەی_تۆپی_پێی_کوردستانی_باشوور	owl:sameAs	dbpedia:Iraqi_Kurdistan_national_football_team .
+@prefix ns14:	<http://fa.dbpedia.org/resource/> .
+ns14:تیم_فوتبال_کردستان_عراق	owl:sameAs	dbpedia:Iraqi_Kurdistan_national_football_team .
+@prefix ns15:	<http://ro.dbpedia.org/resource/> .
+ns15:Selecționata_de_fotbal_a_Kurdistanului_Irakian	owl:sameAs	dbpedia:Iraqi_Kurdistan_national_football_team .
+@prefix ns16:	<http://ru.dbpedia.org/resource/> .
+ns16:Сборная_Иракского_Курдистана_по_футболу	owl:sameAs	dbpedia:Iraqi_Kurdistan_national_football_team .
+@prefix ns17:	<http://sv.dbpedia.org/resource/> .
+ns17:Irakiska_Kurdistans_herrlag_i_fotboll	owl:sameAs	dbpedia:Iraqi_Kurdistan_national_football_team .
+@prefix ns18:	<http://tr.dbpedia.org/resource/> .
+ns18:Kürdistan_Bölgesel_Yönetimi_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Iraqi_Kurdistan_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns20:	<http://schema.org/> .
+dbpedia:Iraqi_Kurdistan_national_football_team	rdf:type	ns20:Organization .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Iraqi_Kurdistan_national_football_team	rdf:type	dul:SocialPerson ,
+		ns20:SportsTeam ,
+		dul:Agent .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Iraqi_Kurdistan_national_football_team	rdf:type	dbpedia-owl:Organisation ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		dbpedia-owl:Agent ,
+		owl:Thing ;
+	owl:sameAs	ns18:Kürdistan_Bölgesel_Yönetimi_Millî_Futbol_Takımı ,
+		ns9:Reprezentacja_Irackiego_Kurdystanu_w_piłce_nożnej ,
+		ns15:Selecționata_de_fotbal_a_Kurdistanului_Irakian ,
+		<http://rdf.freebase.com/ns/m.0gk5nn> .
+@prefix ns23:	<http://wikidata.org/entity/> .
+dbpedia:Iraqi_Kurdistan_national_football_team	owl:sameAs	ns23:Q1141406 ,
+		ns1:サッカークルディスタン代表 ,
+		dbpedia:Iraqi_Kurdistan_national_football_team ,
+		ns12:منتخب_كردستان_العراق_لكرة_القدم ,
+		ns5:Selección_de_fútbol_de_Kurdistán ,
+		ns8:Koerdisch_voetbalelftal ,
+		ns7:쿠르드_자치구_축구_국가대표팀 ,
+		ns17:Irakiska_Kurdistans_herrlag_i_fotboll ,
+		ns3:Kurdische_Fußballauswahl ,
+		ns14:تیم_فوتبال_کردستان_عراق ,
+		ns16:Сборная_Иракского_Курдистана_по_футболу ,
+		ns6:Selezione_di_calcio_del_Kurdistan ,
+		ns13:هەڵبژاردەی_تۆپی_پێی_کوردستانی_باشوور ,
+		ns4:Q1141406 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Iraqi_Kurdistan_national_football_team	rdfs:label	"\u0645\u0646\u062A\u062E\u0628 \u0643\u0631\u062F\u0633\u062A\u0627\u0646 \u0627\u0644\u0639\u0631\u0627\u0642 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"\u30B5\u30C3\u30AB\u30FC\u30AF\u30EB\u30C7\u30A3\u30B9\u30BF\u30F3\u4EE3\u8868"@ja ,
+		"Selecci\u00F3n de f\u00FAtbol de Kurdist\u00E1n"@es ,
+		"Koerdisch voetbalelftal"@nl ,
+		"Iraqi Kurdistan national football team" ,
+		"Selezione di calcio del Kurdistan"@it ,
+		"Kurdische Fu\u00DFballauswahl"@de ,
+		"Reprezentacja Irackiego Kurdystanu w pi\u0142ce no\u017Cnej"@pl ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0418\u0440\u0430\u043A\u0441\u043A\u043E\u0433\u043E \u041A\u0443\u0440\u0434\u0438\u0441\u0442\u0430\u043D\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Iraqi_Kurdistan_national_football_team	dcterms:subject	category:Iraqi_Kurdistan ,
+		category:Asian_national_and_official_selection-teams_not_affiliated_to_FIFA ;
+	foaf:depiction	<http://en.wikipedia.org/wiki/Special:FilePath/KURDISTAN_FOOTBALL_ASSOCIATION_LOGO.jpg> ;
+	foaf:name	"Iraqi Kurdistan" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Iraqi_Kurdistan_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Iraqi_Kurdistan_national_football_team?oldid=595334548> ;
+	rdfs:comment	"Reprezentacja Irackiego Kurdystanu w pi\u0142ce no\u017Cnej \u2013 dru\u017Cyna pi\u0142karska reprezentuj\u0105ca Iracki Kurdystan. Zesp\u00F3\u0142 nie jest cz\u0142onkiem FIFA ani AFC, ale jest cz\u0142onkiem organu NF-Board.Zesp\u00F3\u0142 uczestniczy\u0142 w fina\u0142ach VIVA World Cup 2008 i ostatecznie zaj\u0105\u0142 4. miejsce. W roku 2011 r. Iracki Kurdystan b\u0119dzie gospodarzem VIVA World Cup."@pl ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0643\u0631\u062F\u0633\u062A\u0627\u0646 \u0627\u0644\u0639\u0631\u0627\u0642 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 (\u0628\u0627\u0644\u0643\u0631\u062F\u064A\u0629: \u06CC\u06D5\u06A9\u06CE\u062A\u06CC \u0646\u0627\u0648\u06D5\u0646\u062F\u06CC \u062A\u06C6\u067E\u06CC \u067E\u06CE\u06CC \u06A9\u0648\u0631\u062F\u0633\u062A\u0627\u0646) \u0647\u0648 \u0627\u0644\u0645\u0645\u062B\u0644 \u0644\u0625\u0642\u0644\u064A\u0645 \u0643\u0631\u062F\u0633\u062A\u0627\u0646 \u0627\u0644\u0639\u0631\u0627\u0642 \u0627\u0644\u0631\u0633\u0645\u064A \u0641\u064A \u0631\u064A\u0627\u0636\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645. \u0627\u0644\u0641\u0631\u064A\u0642 \u0644\u0627 \u064A\u0646\u062A\u0645\u064A \u0644\u0623\u064A \u0627\u062A\u062D\u0627\u062F \u0633\u0648\u0627\u0621 \u0627\u0644\u0641\u064A\u0641\u0627 \u0623\u0648 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0622\u0633\u064A\u0648\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0627 \u064A\u0639\u0646\u064A \u0639\u062F\u0645 \u0642\u062F\u062A\u0631\u0647 \u0639\u0644\u0649 \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629 \u0641\u064A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0623\u0648 \u0643\u0623\u0633 \u0622\u0633\u064A\u0627. \u064A\u0634\u0631\u0641 \u0639\u0644\u0649 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u062A\u062D\u0627\u062F \u0643\u0631\u062F\u0633\u062A\u0627\u0646 \u0627\u0644\u0639\u0631\u0627\u0642 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645. \u0623\u0648\u0644 \u0645\u0628\u0627\u0631\u0627\u0629 \u062E\u0627\u0636\u0647\u0627 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0643\u0627\u0646\u062A \u0623\u0645\u0627\u0645 \u0645\u0646\u062A\u062E\u0628 \u0633\u0627\u0628\u0645\u064A \u0648\u0623\u0646\u062A\u0647\u062A \u0628\u0627\u0644\u062A\u0639\u0627\u062F\u0644 \u0627\u0644\u0627\u064A\u062C\u0627\u0628\u064A \u0628\u0647\u062F\u0641\u064A\u0646."@ar ,
+		"Het Koerdisch voetbalelftal is een team van voetballers dat Koerdistan vertegenwoordigt bij internationale wedstrijden. Omdat de Koerden niet officieus over een eigen staat beschikken, is Koerdistan lid van de NF-Board, een voetbalfederatie die bestemd is voor de landen die geen lid zijn van de FIFA en de AFC. Onder auspici\u00EBn van deze voetbalbond werd Koerdistan in 2012 eenmaal wereldkampioen voetbal en bereikte het tweemaal de WK-finale."@nl ,
+		"La selecci\u00F3n de f\u00FAtbol de Kurdist\u00E1n es el equipo que representa a nivel internacional a la zona de Kurdist\u00E1n en Asia occidental.No pertenecen ni a la FIFA ni a la AFC, por lo que no pueden participar en los torneos que estos organizan. El equipo se ha asociado a la NF-Board en busca de reconocimiento internacional.El equipo jug\u00F3 por primera vez en la Copa Mundial VIVA 2008, terminando en el 4 \u00BA lugar despu\u00E9s de una derrota por 3-1 ante Laponia."@es ,
+		"La Selezione di calcio del Kurdistan \u00E8 una selezione calcistica, che rappresenta il popolo curdo.La federazione ha sede a Erbil.Non \u00E8 affiliata alla FIFA n\u00E9 all'AFC, mentre lo \u00E8 alla NF-Board e partecipa alle competizioni da questi ultimi organizzate, come la Coppa del mondo VIVA.Ha partecipato a due edizioni della suddetta Coppa del Mondo; i migliori risultati sono stati il secondo posto conseguito in Padania nel 2009 e il primo nella nel 2012 giocato in casa."@it ,
+		"\u30B5\u30C3\u30AB\u30FC\u30AF\u30EB\u30C7\u30A3\u30B9\u30BF\u30F3\u4EE3\u8868\u306F\u3001\u30AF\u30EB\u30C7\u30A3\u30B9\u30BF\u30F3\u5730\u57DF\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30AF\u30EB\u30C7\u30A3\u30B9\u30BF\u30F3\u4EE3\u8868\u306F\u3001FIFA\u53CA\u3073\u3001AFC\u306B\u52A0\u76DF\u3057\u3066\u3044\u306A\u3044\u305F\u3081\u3001\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u3001AFC\u30A2\u30B8\u30A2\u30AB\u30C3\u30D7\u306B\u53C2\u52A0\u3067\u304D\u306A\u3044\u3002\u30AF\u30EB\u30C7\u30A3\u30B9\u30BF\u30F3\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u306F\u30012006\u5E746\u6708\u306BNF-Board\u306E\u4F1A\u8B70\u306B\u5BA2\u54E1\u53C2\u52A0\u3057\u3001NF-Board\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u306A\u3063\u3066\u3044\u308B\u3002\u30AF\u30EB\u30C7\u30A3\u30B9\u30BF\u30F3\u4EE3\u8868\u306F\u3001\u30A4\u30E9\u30AF\u306EU-23\u4EE3\u8868\u3068\u89AA\u5584\u8A66\u5408\u3092\u884C\u3063\u305F\u304C\u30010-3\u3067\u6557\u308C\u305F\u30022012\u5E74\u306E\u30D1\u30EC\u30B9\u30C1\u30CA\u30A4\u30F3\u30BF\u30FC\u30CA\u30B7\u30E7\u30CA\u30EB\u30AB\u30C3\u30D7\uFF082012 Nakba Cup\uFF09\u3067A\u4EE3\u8868\u3068\u521D\u3081\u3066\u8A66\u5408\u3092\u884C\u3044\u3001\u30E2\u30FC\u30EA\u30BF\u30CB\u30A2\u306B3-1\u3067\u521D\u52DD\u5229\u3092\u6319\u3052\u3001\u5171\u306BW\u676F\u51FA\u5834\u7D4C\u9A13\u306E\u3042\u308B\u30A4\u30F3\u30C9\u30CD\u30B7\u30A2\u306B1-1\u3001\u30C1\u30E5\u30CB\u30B8\u30A2\u306B1-2\u3068\u5927\u5065\u95D8\u3057\u305F\u3002"@ja ,
+		"\u041F\u0435\u0440\u0432\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u041A\u0443\u0440\u0434\u0438\u0441\u0442\u0430\u043D\u0430 \u0431\u044B\u043B\u0430 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 1960 \u0433\u043E\u0434\u0443, \u043E\u0434\u043D\u0430\u043A\u043E \u0438\u0437-\u0437\u0430 \u043F\u043E\u043B\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438 \u0438 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u0438, \u0435\u0451 \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F\u0445 \u0431\u044B\u043B\u043E \u043E\u0433\u0440\u0430\u043D\u0438\u0447\u0435\u043D\u043E. \u0414\u0430\u0436\u0435 \u0441 \u0432\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u0435\u043C \u0432 NF-Board \u0443 \u043D\u0435\u0451 \u0432\u043E\u0437\u043D\u0438\u043A\u043B\u0438 \u043D\u0435\u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043F\u0440\u043E\u0431\u043B\u0435\u043C\u044B, \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u0431\u044B\u043B\u0438 \u0432 \u0438\u0442\u043E\u0433\u0435 \u0443\u0441\u043F\u0435\u0448\u043D\u043E \u0440\u0435\u0448\u0435\u043D\u044B. \u0418 \u0432 \u0438\u0442\u043E\u0433\u0435 \u0418\u0440\u0430\u043A\u0441\u043A\u0438\u0439 \u041A\u0443\u0440\u0434\u0438\u0441\u0442\u0430\u043D \u0441\u043E\u0441\u0442\u043E\u0438\u0442 \u0432 \u044D\u0442\u043E\u0439 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u0438 \u0441 2008 \u0433\u043E\u0434\u0430. \u041F\u0435\u0440\u0432\u044B\u0439 \u043C\u0430\u0442\u0447 \u043A\u0443\u0440\u0434\u044B \u043F\u0440\u043E\u0432\u0435\u043B\u0438 7 \u0438\u044E\u043B\u044F 2008 \u0433\u043E\u0434\u0430 \u043F\u0440\u043E\u0442\u0438\u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u041B\u0430\u043F\u043B\u0430\u043D\u0434\u0438\u0438 \u0432 \u0440\u0430\u043C\u043A\u0430\u0445 \u0432\u0442\u043E\u0440\u043E\u0433\u043E \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u041C\u0438\u0440\u0430 \u043F\u043E\u0434 \u044D\u0433\u0438\u0434\u043E\u0439 NF-Board (Viva World Cup)."@ru ,
+		"Die Kurdische Fu\u00DFballauswahl ist eine von den internationalen Fu\u00DFballverb\u00E4nden AFC und FIFA nicht anerkannte Fu\u00DFballauswahl. Die kurdische Fu\u00DFballauswahl ist die offizielle Fu\u00DFballnationalmannschaft der Autonomen Region Kurdistan. Da Kurdistan kein AFC- und FIFA-Mitglied ist, kann sie nicht an den Asienmeisterschaften und Weltmeisterschaften teilnehmen."@de ,
+		"The Iraqi Kurdistan National Football Team (Kurdish: Helbijardey Top\u00EE p\u00EAy Kurdistan ; \u06BE\u06D5\u06B5\u0628\u0698\u0627\u0631\u062F\u06D5\u06CC \u062A\u06C6\u067E\u06CC \u067E\u06CE\u06CC \u0643\u0648\u0631\u062F\u0633\u062A\u0627\u0646 \u200E\u200E), is the national team of Iraqi Kurdistan. They are not affiliated with FIFA or Asian Football Confederation (AFC), and therefore cannot compete for the FIFA World Cup or the AFC Asian Cup. The Iraqi FA attended a meeting held by the NF-Board in June 2006.The team played in the 2008 VIVA World Cup for the first time, finishing in the 4th place after a 3\u20131 loss to S\u00E1pmi." ;
+	foaf:isPrimaryTopicOf	ns11:Iraqi_Kurdistan_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix ns29:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Iraqi_Kurdistan_national_football_team	dbpprop:hasPhotoCollection	ns29:Iraqi_Kurdistan_national_football_team ;
+	dbpprop:name	"Iraqi Kurdistan" ;
+	dbpedia-owl:thumbnail	<http://en.wikipedia.org/wiki/Special:FilePath/KURDISTAN_FOOTBALL_ASSOCIATION_LOGO.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u30B5\u30C3\u30AB\u30FC\u30AF\u30EB\u30C7\u30A3\u30B9\u30BF\u30F3\u4EE3\u8868\u306F\u3001\u30AF\u30EB\u30C7\u30A3\u30B9\u30BF\u30F3\u5730\u57DF\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30AF\u30EB\u30C7\u30A3\u30B9\u30BF\u30F3\u4EE3\u8868\u306F\u3001FIFA\u53CA\u3073\u3001AFC\u306B\u52A0\u76DF\u3057\u3066\u3044\u306A\u3044\u305F\u3081\u3001\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u3001AFC\u30A2\u30B8\u30A2\u30AB\u30C3\u30D7\u306B\u53C2\u52A0\u3067\u304D\u306A\u3044\u3002\u30AF\u30EB\u30C7\u30A3\u30B9\u30BF\u30F3\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u306F\u30012006\u5E746\u6708\u306BNF-Board\u306E\u4F1A\u8B70\u306B\u5BA2\u54E1\u53C2\u52A0\u3057\u3001NF-Board\u306E\u30E1\u30F3\u30D0\u30FC\u306B\u306A\u3063\u3066\u3044\u308B\u3002\u30AF\u30EB\u30C7\u30A3\u30B9\u30BF\u30F3\u4EE3\u8868\u306F\u3001\u30A4\u30E9\u30AF\u306EU-23\u4EE3\u8868\u3068\u89AA\u5584\u8A66\u5408\u3092\u884C\u3063\u305F\u304C\u30010-3\u3067\u6557\u308C\u305F\u30022012\u5E74\u306E\u30D1\u30EC\u30B9\u30C1\u30CA\u30A4\u30F3\u30BF\u30FC\u30CA\u30B7\u30E7\u30CA\u30EB\u30AB\u30C3\u30D7\uFF082012 Nakba Cup\uFF09\u3067A\u4EE3\u8868\u3068\u521D\u3081\u3066\u8A66\u5408\u3092\u884C\u3044\u3001\u30E2\u30FC\u30EA\u30BF\u30CB\u30A2\u306B3-1\u3067\u521D\u52DD\u5229\u3092\u6319\u3052\u3001\u5171\u306BW\u676F\u51FA\u5834\u7D4C\u9A13\u306E\u3042\u308B\u30A4\u30F3\u30C9\u30CD\u30B7\u30A2\u306B1-1\u3001\u30C1\u30E5\u30CB\u30B8\u30A2\u306B1-2\u3068\u5927\u5065\u95D8\u3057\u305F\u3002"@ja ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0643\u0631\u062F\u0633\u062A\u0627\u0646 \u0627\u0644\u0639\u0631\u0627\u0642 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 (\u0628\u0627\u0644\u0643\u0631\u062F\u064A\u0629: \u06CC\u06D5\u06A9\u06CE\u062A\u06CC \u0646\u0627\u0648\u06D5\u0646\u062F\u06CC \u062A\u06C6\u067E\u06CC \u067E\u06CE\u06CC \u06A9\u0648\u0631\u062F\u0633\u062A\u0627\u0646) \u0647\u0648 \u0627\u0644\u0645\u0645\u062B\u0644 \u0644\u0625\u0642\u0644\u064A\u0645 \u0643\u0631\u062F\u0633\u062A\u0627\u0646 \u0627\u0644\u0639\u0631\u0627\u0642 \u0627\u0644\u0631\u0633\u0645\u064A \u0641\u064A \u0631\u064A\u0627\u0636\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645. \u0627\u0644\u0641\u0631\u064A\u0642 \u0644\u0627 \u064A\u0646\u062A\u0645\u064A \u0644\u0623\u064A \u0627\u062A\u062D\u0627\u062F \u0633\u0648\u0627\u0621 \u0627\u0644\u0641\u064A\u0641\u0627 \u0623\u0648 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0622\u0633\u064A\u0648\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0627 \u064A\u0639\u0646\u064A \u0639\u062F\u0645 \u0642\u062F\u062A\u0631\u0647 \u0639\u0644\u0649 \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629 \u0641\u064A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0623\u0648 \u0643\u0623\u0633 \u0622\u0633\u064A\u0627. \u064A\u0634\u0631\u0641 \u0639\u0644\u0649 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u062A\u062D\u0627\u062F \u0643\u0631\u062F\u0633\u062A\u0627\u0646 \u0627\u0644\u0639\u0631\u0627\u0642 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645. \u0623\u0648\u0644 \u0645\u0628\u0627\u0631\u0627\u0629 \u062E\u0627\u0636\u0647\u0627 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0643\u0627\u0646\u062A \u0623\u0645\u0627\u0645 \u0645\u0646\u062A\u062E\u0628 \u0633\u0627\u0628\u0645\u064A \u0648\u0623\u0646\u062A\u0647\u062A \u0628\u0627\u0644\u062A\u0639\u0627\u062F\u0644 \u0627\u0644\u0627\u064A\u062C\u0627\u0628\u064A \u0628\u0647\u062F\u0641\u064A\u0646."@ar ,
+		"The Iraqi Kurdistan National Football Team (Kurdish: Helbijardey Top\u00EE p\u00EAy Kurdistan ; \u06BE\u06D5\u06B5\u0628\u0698\u0627\u0631\u062F\u06D5\u06CC \u062A\u06C6\u067E\u06CC \u067E\u06CE\u06CC \u0643\u0648\u0631\u062F\u0633\u062A\u0627\u0646 \u200E\u200E), is the national team of Iraqi Kurdistan. They are not affiliated with FIFA or Asian Football Confederation (AFC), and therefore cannot compete for the FIFA World Cup or the AFC Asian Cup. The Iraqi FA attended a meeting held by the NF-Board in June 2006.The team played in the 2008 VIVA World Cup for the first time, finishing in the 4th place after a 3\u20131 loss to S\u00E1pmi. Their first and only win in the 2008 tournament came against Provence.In December 2008, during the 5th General Meeting, Iraqi Kurdistan was granted full membership to the NF Board and was a failed candidate to host the 2010 VIVA World Cup. After losing in the final in both the 2009 and 2010 tournaments Kurdistan eventually became champions on home turf in 2012, defeating Northern Cyprus 2-1 in front of 22,000 fans." ,
+		"La selecci\u00F3n de f\u00FAtbol de Kurdist\u00E1n es el equipo que representa a nivel internacional a la zona de Kurdist\u00E1n en Asia occidental.No pertenecen ni a la FIFA ni a la AFC, por lo que no pueden participar en los torneos que estos organizan. El equipo se ha asociado a la NF-Board en busca de reconocimiento internacional.El equipo jug\u00F3 por primera vez en la Copa Mundial VIVA 2008, terminando en el 4 \u00BA lugar despu\u00E9s de una derrota por 3-1 ante Laponia. Su primera victoria fue en el torneo en un partido contra Provenza."@es ,
+		"Reprezentacja Irackiego Kurdystanu w pi\u0142ce no\u017Cnej \u2013 dru\u017Cyna pi\u0142karska reprezentuj\u0105ca Iracki Kurdystan. Zesp\u00F3\u0142 nie jest cz\u0142onkiem FIFA ani AFC, ale jest cz\u0142onkiem organu NF-Board.Zesp\u00F3\u0142 uczestniczy\u0142 w fina\u0142ach VIVA World Cup 2008 i ostatecznie zaj\u0105\u0142 4. miejsce. W roku 2011 r. Iracki Kurdystan b\u0119dzie gospodarzem VIVA World Cup."@pl ,
+		"Die Kurdische Fu\u00DFballauswahl ist eine von den internationalen Fu\u00DFballverb\u00E4nden AFC und FIFA nicht anerkannte Fu\u00DFballauswahl. Die kurdische Fu\u00DFballauswahl ist die offizielle Fu\u00DFballnationalmannschaft der Autonomen Region Kurdistan. Da Kurdistan kein AFC- und FIFA-Mitglied ist, kann sie nicht an den Asienmeisterschaften und Weltmeisterschaften teilnehmen."@de ,
+		"\u041F\u0435\u0440\u0432\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u041A\u0443\u0440\u0434\u0438\u0441\u0442\u0430\u043D\u0430 \u0431\u044B\u043B\u0430 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 1960 \u0433\u043E\u0434\u0443, \u043E\u0434\u043D\u0430\u043A\u043E \u0438\u0437-\u0437\u0430 \u043F\u043E\u043B\u0438\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0438 \u0438 \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u0438, \u0435\u0451 \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F\u0445 \u0431\u044B\u043B\u043E \u043E\u0433\u0440\u0430\u043D\u0438\u0447\u0435\u043D\u043E. \u0414\u0430\u0436\u0435 \u0441 \u0432\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u0435\u043C \u0432 NF-Board \u0443 \u043D\u0435\u0451 \u0432\u043E\u0437\u043D\u0438\u043A\u043B\u0438 \u043D\u0435\u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043F\u0440\u043E\u0431\u043B\u0435\u043C\u044B, \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u0431\u044B\u043B\u0438 \u0432 \u0438\u0442\u043E\u0433\u0435 \u0443\u0441\u043F\u0435\u0448\u043D\u043E \u0440\u0435\u0448\u0435\u043D\u044B. \u0418 \u0432 \u0438\u0442\u043E\u0433\u0435 \u0418\u0440\u0430\u043A\u0441\u043A\u0438\u0439 \u041A\u0443\u0440\u0434\u0438\u0441\u0442\u0430\u043D \u0441\u043E\u0441\u0442\u043E\u0438\u0442 \u0432 \u044D\u0442\u043E\u0439 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u0438 \u0441 2008 \u0433\u043E\u0434\u0430. \u041F\u0435\u0440\u0432\u044B\u0439 \u043C\u0430\u0442\u0447 \u043A\u0443\u0440\u0434\u044B \u043F\u0440\u043E\u0432\u0435\u043B\u0438 7 \u0438\u044E\u043B\u044F 2008 \u0433\u043E\u0434\u0430 \u043F\u0440\u043E\u0442\u0438\u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u041B\u0430\u043F\u043B\u0430\u043D\u0434\u0438\u0438 \u0432 \u0440\u0430\u043C\u043A\u0430\u0445 \u0432\u0442\u043E\u0440\u043E\u0433\u043E \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u041C\u0438\u0440\u0430 \u043F\u043E\u0434 \u044D\u0433\u0438\u0434\u043E\u0439 NF-Board (Viva World Cup). \u042D\u0442\u043E\u0442 \u043C\u0430\u0442\u0447 \u0437\u0430\u043A\u043E\u043D\u0447\u0438\u043B\u0441\u044F \u0432\u043D\u0438\u0447\u044C\u044E 2-2. \u0418\u043C\u0435\u043D\u043D\u043E \u041B\u0430\u043F\u043B\u0430\u043D\u0434\u0438\u044F \u043D\u0430\u043D\u0435\u0441\u043B\u0430 \u043A\u0443\u0440\u0434\u0430\u043C \u0438\u0445 \u043A\u0440\u0443\u043F\u043D\u0435\u0439\u0448\u0435\u0435 \u043F\u043E\u0440\u0430\u0436\u0435\u043D\u0438\u0435, \u0432\u044B\u0438\u0433\u0440\u0430\u0432 15 \u0438\u044E\u043B\u044F \u0442\u043E\u0433\u043E \u0436\u0435 \u0433\u043E\u0434\u0430 \u0441\u043E \u0441\u0447\u0435\u0442\u043E\u043C 1-3. \u0410 \u043A\u0440\u0443\u043F\u043D\u0435\u0439\u0448\u0430\u044F \u043F\u043E\u0431\u0435\u0434\u0430 \u043F\u0440\u0438\u0448\u043B\u0430 \u043A \u043A\u0443\u0440\u0434\u0430\u043C 25 \u0438\u044E\u043D\u044F 2009 \u0433\u043E\u0434\u0430. \u0412 \u044D\u0442\u043E\u0442 \u0434\u0435\u043D\u044C \u0441\u043E \u0441\u0447\u0435\u0442\u043E\u043C 6-0 \u0431\u044B\u043B\u0430 \u0440\u0430\u0437\u0433\u0440\u043E\u043C\u043B\u0435\u043D\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u041F\u0440\u043E\u0432\u0430\u043D\u0441\u0430. \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0418\u0440\u0430\u043A\u0441\u043A\u043E\u0433\u043E \u041A\u0443\u0440\u0434\u0438\u0441\u0442\u0430\u043D\u0430 \u0442\u0440\u0438\u0436\u0434\u044B \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u0430 \u0432 \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u041C\u0438\u0440\u0430 NF-Board. \u0412 2008 \u0433\u043E\u0434\u0443 \u043A\u0443\u0440\u0434\u044B \u043E\u0441\u0442\u0430\u043B\u0438\u0441\u044C \u043D\u0430 4 \u043C\u0435\u0441\u0442\u0435, \u0430 \u0432 2009 \u0433\u043E\u0434\u0443 \u0432 \u0448\u0430\u0433\u0435 \u043E\u0442 \u043F\u043E\u0431\u0435\u0434\u044B \u0438\u0445 \u043E\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u043B\u0430 \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u041F\u0430\u0434\u0430\u043D\u0438\u0438. \u0412 2010 \u0438\u0441\u0442\u043E\u0440\u0438\u044F \u043F\u043E\u0432\u0442\u043E\u0440\u0438\u043B\u0430\u0441\u044C. \u041A\u0443\u0440\u0434\u0438\u0441\u0442\u0430\u043D \u043F\u043E\u0434\u0430\u043B \u0437\u0430\u044F\u0432\u043A\u0443 \u043D\u0430 \u043F\u0440\u043E\u0432\u0435\u0434\u0435\u043D\u0438\u0435 VIVA World Cup 2012, \u0438 \u043F\u043E\u0431\u0435\u0434\u0438\u043B. \u041D\u0435\u0441\u043C\u043E\u0442\u0440\u044F \u043D\u0430 \u0432\u0441\u0435 \u043F\u0440\u043E\u0431\u043B\u0435\u043C\u044B \u0438 \u0442\u0440\u0443\u0434\u043D\u043E\u0441\u0442\u0438 \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u043E\u0439 \u0438\u0437 \u043B\u0443\u0447\u0448\u0438\u0445 \u043D\u0430 \u0441\u0432\u043E\u0435\u043C \u0443\u0440\u043E\u0432\u043D\u0435. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0432\u0437\u044F\u043B\u0430 \u0431\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0435 \u043C\u0435\u0434\u0430\u043B\u0438 \u043D\u0430 \u043F\u0440\u043E\u0432\u043E\u0434\u0438\u0432\u0448\u0435\u043C\u0441\u044F \u0432 \u041F\u0430\u043B\u0435\u0441\u0442\u0438\u043D\u0435 \u043A\u0443\u0431\u043A\u0435 Al Nakba Cup 2012. Roonba Non Fifa World Ranking : \u2116 4"@ru ,
+		"Het Koerdisch voetbalelftal is een team van voetballers dat Koerdistan vertegenwoordigt bij internationale wedstrijden. Omdat de Koerden niet officieus over een eigen staat beschikken, is Koerdistan lid van de NF-Board, een voetbalfederatie die bestemd is voor de landen die geen lid zijn van de FIFA en de AFC. Onder auspici\u00EBn van deze voetbalbond werd Koerdistan in 2012 eenmaal wereldkampioen voetbal en bereikte het tweemaal de WK-finale. Het hoofdkwartier van de Koerdische voetbalbond staat in Iraaks Koerdistan."@nl ,
+		"La Selezione di calcio del Kurdistan \u00E8 una selezione calcistica, che rappresenta il popolo curdo.La federazione ha sede a Erbil.Non \u00E8 affiliata alla FIFA n\u00E9 all'AFC, mentre lo \u00E8 alla NF-Board e partecipa alle competizioni da questi ultimi organizzate, come la Coppa del mondo VIVA.Ha partecipato a due edizioni della suddetta Coppa del Mondo; i migliori risultati sono stati il secondo posto conseguito in Padania nel 2009 e il primo nella nel 2012 giocato in casa. Vanta un quarto posto nell'edizione 2008. Nel 2014 parteciper\u00E0 alla Coppa del mondo VIVA 2014 in Lapponia."@it ;
+	dbpedia-owl:wikiPageID	6717506 ;
+	dbpedia-owl:wikiPageRevisionID	595334548 ;
+	dbpprop:topScorer	"Haidar Qaraman" ;
+	dbpprop:coach	"Abdullah Mahmud" ;
+	dbpprop:association	dbpedia:Iraqi_Kurdistan_Football_Association ;
+	dbpprop:body	"FFFFFF" ,
+		40 ;
+	dbpprop:confederation	dbpedia:Confederation_of_Independent_Football_Associations ;
+	dbpprop:leftarm	40 ,
+		"FFFFFF" ;
+	dbpprop:patternB	"_thinredsides" ,
+		"_am1112a" ;
+	dbpprop:rightarm	40 ,
+		"FFFFFF" ;
+	dbpprop:shorts	40 ,
+		"FFFFFF" ;
+	dbpprop:socks	40 ,
+		208040 ;
+	dbpprop:badge	"KURDISTAN_FOOTBALL_ASSOCIATION_LOGO.jpg" ;
+	dbpprop:firstGame	"Iraqi Kurdistan 2 \u2013 2" ;
+	dbpprop:largestLoss	3 ;
+	dbpprop:largestWin	0 ;
+	dbpprop:regionalCupApps	3 ;
+	dbpprop:regionalCupBest	"champions, 2012\n\npattern_la1=" ;
+	dbpprop:regionalCupFirst	2008 ;
+	dbpprop:regionalName	dbpedia:Viva_World_Cup ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.kurdistan-fa.com> ;
+	dbpprop:homeStadium	dbpedia:Iraq ,
+		dbpedia:Erbil ,
+		dbpedia:Franso_Hariri_Stadium ;
+	dbpedia-owl:stadium	dbpedia:Iraq ,
+		dbpedia:Erbil ,
+		dbpedia:Franso_Hariri_Stadium .
+dbpedia:Iraqi_Kurdistan_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Iraqi_Kurdistan_national_football_team .
+dbpedia:Kurdistan_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Iraqi_Kurdistan_national_football_team .
+dbpedia:Kurdistan_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Iraqi_Kurdistan_national_football_team .
+dbpedia:Kurdistan_national_soccer_team	dbpedia-owl:wikiPageRedirects	dbpedia:Iraqi_Kurdistan_national_football_team .
+dbpedia:Kurdistani_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Iraqi_Kurdistan_national_football_team .

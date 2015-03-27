@@ -1,0 +1,635 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Edwin_Disang	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Edwin_Disang	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Louis_Setshwane__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns4:	<http://fr.dbpedia.org/resource/> .
+ns4:Équipe_du_Botswana_de_football	owl:sameAs	dbpedia:Botswana_national_football_team .
+@prefix ns5:	<http://de.dbpedia.org/resource/> .
+ns5:Botswanische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Botswana_national_football_team .
+@prefix ns6:	<http://wikidata.dbpedia.org/resource/> .
+ns6:Q119322	owl:sameAs	dbpedia:Botswana_national_football_team .
+@prefix ns7:	<http://cs.dbpedia.org/resource/> .
+ns7:Botswanská_fotbalová_reprezentace	owl:sameAs	dbpedia:Botswana_national_football_team .
+@prefix ns8:	<http://es.dbpedia.org/resource/> .
+ns8:Selección_de_fútbol_de_Botsuana	owl:sameAs	dbpedia:Botswana_national_football_team .
+@prefix ns9:	<http://id.dbpedia.org/resource/> .
+ns9:Tim_nasional_sepak_bola_Botswana	owl:sameAs	dbpedia:Botswana_national_football_team .
+@prefix ns10:	<http://it.dbpedia.org/resource/> .
+ns10:Nazionale_di_calcio_del_Botswana	owl:sameAs	dbpedia:Botswana_national_football_team .
+@prefix ns11:	<http://ja.dbpedia.org/resource/> .
+ns11:サッカーボツワナ代表	owl:sameAs	dbpedia:Botswana_national_football_team .
+@prefix ns12:	<http://ko.dbpedia.org/resource/> .
+ns12:보츠와나_축구_국가대표팀	owl:sameAs	dbpedia:Botswana_national_football_team .
+@prefix ns13:	<http://nl.dbpedia.org/resource/> .
+ns13:Botswaans_voetbalelftal	owl:sameAs	dbpedia:Botswana_national_football_team .
+@prefix ns14:	<http://pl.dbpedia.org/resource/> .
+ns14:Reprezentacja_Botswany_w_piłce_nożnej	owl:sameAs	dbpedia:Botswana_national_football_team .
+@prefix ns15:	<http://pt.dbpedia.org/resource/> .
+ns15:Seleção_Botsuanense_de_Futebol	owl:sameAs	dbpedia:Botswana_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns17:	<http://en.wikipedia.org/wiki/> .
+ns17:Botswana_national_football_team	foaf:primaryTopic	dbpedia:Botswana_national_football_team .
+dbpedia:Rudi_Gutendorf	dbpprop:managerclubs	dbpedia:Botswana_national_football_team .
+dbpedia:Mogogi_Gabonamong	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Phenyo_Mongala	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Dipsy_Selolwane	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Itumeleng_Duiker	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Jerome_Ramatlhakwane	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Noah_Maposa	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Pontsho_Moloi	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Tebogo_Sembowa	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Gobonyeone_Selefa	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Moemedi_Moatlhaping	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbpedia:Botswana_national_football_team	rdf:type	dbpedia-owl:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Botswana_national_football_team	rdf:type	yago:YagoLegalActorGeo ,
+		yago:YagoLegalActor ,
+		yago:NationalSportsTeamsOfBotswana .
+@prefix ns20:	<http://schema.org/> .
+dbpedia:Botswana_national_football_team	rdf:type	ns20:Organization ,
+		owl:Thing ,
+		dbpedia-owl:Organisation ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		ns20:SportsTeam ,
+		yago:SocialGroup107950920 ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Botswana_national_football_team	rdf:type	dul:Agent ,
+		dul:SocialPerson ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:AfricanNationalAssociationFootballTeams ,
+		yago:FootballTeam108080025 .
+@prefix ns22:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns22:منتخب_بوتسوانا_لكرة_القدم .
+@prefix ns23:	<http://sr.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns23:Фудбалска_репрезентација_Боцване ,
+		ns12:보츠와나_축구_국가대표팀 .
+@prefix ns24:	<http://lv.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns24:Botsvanas_futbola_izlase .
+@prefix ns25:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns25:Сборная_Ботсваны_по_футболу .
+@prefix ns26:	<http://ca.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns26:Selecció_de_futbol_de_Botswana ,
+		ns10:Nazionale_di_calcio_del_Botswana .
+@prefix ns27:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns27:Đội_tuyển_bóng_đá_quốc_gia_Botswana .
+@prefix ns28:	<http://et.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns28:Botswana_jalgpallikoondis .
+@prefix ns29:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns29:Botswana_national_football_team ,
+		ns15:Seleção_Botsuanense_de_Futebol .
+@prefix ns30:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns30:Botswanas_herrlandslag_i_fotboll .
+@prefix ns31:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns31:Echipa_națională_de_fotbal_a_Botswanei .
+@prefix ns32:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns32:Збірна_Ботсвани_з_футболу .
+@prefix ns33:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns33:博茨瓦納國家足球隊 .
+@prefix ns34:	<http://he.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns34:נבחרת_בוטסואנה_בכדורגל .
+@prefix ns35:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns35:बोत्स्वाना_फुटबॉल_संघ .
+@prefix ns36:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns36:Botsvana_Millî_Futbol_Takımı .
+@prefix ns37:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns37:Botsvanos_vyrų_futbolo_rinktinė ,
+		ns5:Botswanische_Fußballnationalmannschaft ,
+		ns14:Reprezentacja_Botswany_w_piłce_nożnej ,
+		ns11:サッカーボツワナ代表 ,
+		ns4:Équipe_du_Botswana_de_football .
+@prefix ns38:	<http://no.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns38:Botswanas_herrelandslag_i_fotball .
+@prefix ns39:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns39:Botswanai_labdarúgó-válogatott ,
+		ns7:Botswanská_fotbalová_reprezentace .
+@prefix ns40:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns40:Botswanan_jalkapallomaajoukkue ,
+		ns6:Q119322 ,
+		ns9:Tim_nasional_sepak_bola_Botswana .
+@prefix ns41:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns41:تیم_ملی_فوتبال_بوتسوانا .
+@prefix ns42:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns42:Botswana_national_football_team ,
+		dbpedia:Botswana_national_football_team ,
+		ns13:Botswaans_voetbalelftal ,
+		ns8:Selección_de_fútbol_de_Botsuana .
+@prefix ns43:	<http://wikidata.org/entity/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns43:Q119322 .
+@prefix ns44:	<http://yago-knowledge.org/resource/> .
+dbpedia:Botswana_national_football_team	owl:sameAs	ns44:Botswana_national_football_team ,
+		<http://rdf.freebase.com/ns/m.04c4pk> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Botswana_national_football_team	rdfs:label	"Nazionale di calcio del Botswana"@it ,
+		"\u00C9quipe du Botswana de football"@fr ,
+		"Botswaans voetbalelftal"@nl ,
+		"Botswanische Fu\u00DFballnationalmannschaft"@de ,
+		"\u535A\u8328\u74E6\u7D0D\u570B\u5BB6\u8DB3\u7403\u968A"@zh ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0628\u0648\u062A\u0633\u0648\u0627\u0646\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"\u30B5\u30C3\u30AB\u30FC\u30DC\u30C4\u30EF\u30CA\u4EE3\u8868"@ja ,
+		"Botswana national football team" ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u043E\u0442\u0441\u0432\u0430\u043D\u044B \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"Selecci\u00F3n de f\u00FAtbol de Botsuana"@es ,
+		"Sele\u00E7\u00E3o Botsuanense de Futebol"@pt ,
+		"Reprezentacja Botswany w pi\u0142ce no\u017Cnej"@pl .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+dbpedia:Botswana_national_football_team	dcterms:subject	<http://dbpedia.org/resource/Category:1968_establishments_in_Botswana> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Botswana_national_football_team	dcterms:subject	category:Botswana_national_football_team ,
+		category:National_sports_teams_of_Botswana ,
+		category:African_national_association_football_teams ;
+	foaf:homepage	<http://www.bfa.co.bw/> ;
+	foaf:name	"Botswana" ;
+	foaf:nick	"Dipitse" ,
+		"(The Zebras)" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Botswana_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Botswana_national_football_team?oldid=605815025> ;
+	rdfs:comment	"\u30B5\u30C3\u30AB\u30FC\u30DC\u30C4\u30EF\u30CA\u4EE3\u8868\uFF08\u2015\u3060\u3044\u3072\u3087\u3046\uFF09\u306F\u3001\u30DC\u30C4\u30EF\u30CA\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\uFF08Botswana Football Association\u3001\u7565\u79F0:BFA\uFF09\u306B\u3088\u308A\u69CB\u6210\u3055\u308C\u308B\u30DC\u30C4\u30EF\u30CA\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3002FIFA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u51FA\u5834\u306F\u306A\u3044\u3002\u30A2\u30D5\u30EA\u30AB\u30CD\u30A4\u30B7\u30E7\u30F3\u30BA\u30AB\u30C3\u30D7\u306F2012\u5E74\u5927\u4F1A\u306B\u521D\u51FA\u5834\u3057\u305F\u304C\u30013\u9023\u6557\u3067\u52DD\u3061\u70B9\u3092\u3042\u3052\u3089\u308C\u305A1\u6B21\u30EA\u30FC\u30B0\u3067\u6557\u9000\u3057\u305F\u3002"@ja ,
+		"L'\u00E9quipe du Botswana de football est constitu\u00E9e par une s\u00E9lection des meilleurs joueurs botswanais sous l'\u00E9gide de la F\u00E9d\u00E9ration du Botswana de football."@fr ,
+		"Die Botswanische Fu\u00DFballnationalmannschaft, die The Zebras (\u201EDie Zebras\u201C) genannt wird, ist die Fu\u00DFball-Auswahlmannschaft von Botswana und wird kontrolliert durch die Botswana Football Association. Botswana hat noch nie an der Fu\u00DFball-Weltmeisterschaft teilgenommen. Der gr\u00F6\u00DFte Erfolg war die Qualifikation f\u00FCr die Fu\u00DFball-Afrikameisterschaft 2012. Die Qualifikation gelang u.a. durch einen 1:0-Ausw\u00E4rtserfolg gegen Tunesien am 1. Juli 2010."@de ,
+		"A Sele\u00E7\u00E3o Botsuanense de Futebol, apelidados de \"zebras\" \u00E9 a equipe nacional de futebol do Botsuana, e \u00E9 controlada pela Associa\u00E7\u00E3o de Futebol do Botsuana (BFA). Eles nunca se classificaram para a Copa do Mundo, e nunca haviam se classificados para a Copa das Na\u00E7\u00F5es Africanas, at\u00E9 no ano de 2011 quando se classificaram pela primeira vez na hist\u00F3ria do Botsuana para a Copa das Na\u00E7\u00F5es Africanas de 2012, sendo a primeira competi\u00E7\u00E3o continental a disputarem."@pt ,
+		"The Botswana national football team, nicknamed 'The Zebras' (Setswana: Dipitse) is the national football team of the African country of Botswana and is controlled by the Botswana Football Association. They have never qualified for the World Cup but they did qualify for the 2012 Africa Cup of Nations for the first time in their history." ,
+		"La nazionale di calcio dello Botswana \u00E8 la rappresentativa calcistica dell'omonima nazione africana ed \u00E8 posta sotto il controllo della federazione calcistica del Botswana (Botswana Football Association). I giocatori della rappresentativa sono soprannominati zebre. Non ha mai partecipato alla Coppa del Mondo.Il 26 marzo 2011 si qualifica per la prima volta alla Coppa d'Africa.Attualmente occupa la 95\u00AA posizione nel Ranking mondiale FIFA."@it ,
+		"Het Botswaans voetbal is een team van voetballers dat Botswana vertegenwoordigt bij internationale wedstrijden zoals kwalificatiewedstrijden voor het WK en de Afrika Cup.De Botswana Football Association werd in 1970 opgericht en is aangesloten bij de COSAFA, de CAF en de FIFA (sinds 1978)."@nl ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0628\u0648\u062A\u0633\u0648\u0627\u0646\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0644\u0642\u0628 \u0628\u0627\u0644\u062D\u0645\u064A\u0631 \u0627\u0644\u0648\u062D\u0634\u064A\u0629 \u0648\u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0641\u064A \u0628\u0648\u062A\u0633\u0648\u0627\u0646\u0627 \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0628\u0648\u062A\u0633\u0648\u0627\u0646\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0647 \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0646\u0647\u0627\u0626\u064A\u0627\u062A \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 . \u0641\u064A \u0645\u0627\u0631\u0633 2011 \u062D\u0642\u0642\u062A \u0628\u0648\u062A\u0633\u0648\u0627\u0646\u0627 \u0625\u0646\u062C\u0627\u0632\u0627 \u062A\u0627\u0631\u064A\u062E\u064A\u0627 \u0628\u0627\u0644\u062A\u0623\u0647\u0644 \u0627\u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0625\u0641\u0631\u064A\u0642\u064A\u0629 2012 \u0628\u0639\u062F \u062A\u063A\u0644\u0628\u0647\u0627 \u0639\u0644\u0649 \u0623\u0642\u0648\u0649 \u0627\u0644\u0645\u0646\u062A\u062E\u0628\u0627\u062A \u0627\u0644\u0625\u0641\u0631\u064A\u0642\u064A\u0629 \u0643\u062A\u0648\u0646\u0633 \u0648 \u0627\u0644\u0637\u0648\u063A\u0648 \u0648 \u0647\u0648 \u0623\u0646\u062C\u0627\u0632 \u0644\u0645 \u064A\u0633\u0628\u0642 \u0623\u0646 \u062D\u0642\u0642\u062A\u0647 \u0628\u0648\u062A\u0633\u0648\u0627\u0646\u0627 ."@ar ,
+		"La Selecci\u00F3n de f\u00FAtbol de Botsuana es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Asociaci\u00F3n de F\u00FAtbol de Botsuana, perteneciente a la CAF y a la FIFA."@es ,
+		"Reprezentacja Botswany w pi\u0142ce no\u017Cnej \u2013 kadra Botswany w pi\u0142ce no\u017Cnej m\u0119\u017Cczyzn. Zwi\u0105zek pi\u0142karski w Botswanie powsta\u0142 w 1970 roku, do FIFA i CAF nale\u017Cy od 1976 roku.Dotychczas ani razu nie zdo\u0142a\u0142a zakwalifikowa\u0107 si\u0119 do Mistrzostw \u015Awiata. W 2011 po raz pierwszy awansowa\u0142a do fina\u0142owego turnieju o Puchar Narod\u00F3w Afryki w 2012."@pl ,
+		"\u0421\u0431\u043E\u0301\u0440\u043D\u0430\u044F \u0411\u043E\u0442\u0441\u0432\u0430\u0301\u043D\u044B \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u0301\u043B\u0443 \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u0411\u043E\u0442\u0441\u0432\u0430\u043D\u0443 \u0432 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0430\u0445 \u0438 \u0442\u0443\u0440\u043D\u0438\u0440\u0430\u0445 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u0442\u0441\u044F \u0411\u043E\u0442\u0441\u0432\u0430\u043D\u0441\u043A\u043E\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0435\u0439. \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u043E\u0442\u0441\u0432\u0430\u043D\u044B \u043D\u0438\u043A\u043E\u0433\u0434\u0430 \u043D\u0435 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B\u0430 \u0443\u0447\u0430\u0441\u0442\u0438\u044F \u0432 \u0444\u0438\u043D\u0430\u043B\u044C\u043D\u044B\u0445 \u0447\u0430\u0441\u0442\u044F\u0445 \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430, \u0430 \u043D\u0430 \u041A\u0443\u0431\u043A\u0435 \u0430\u0444\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0445 \u043D\u0430\u0446\u0438\u0439 \u0434\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B\u0430 \u0442\u043E\u043B\u044C\u043A\u043E \u0432 2012 \u0433\u043E\u0434\u0443."@ru ,
+		"\u535A\u8328\u74E6\u7D0D\u570B\u5BB6\u8DB3\u7403\u968A\uFF08\u82F1\u8BED\uFF1ABotswana national football team\uFF09\u662F\u535A\u8328\u74E6\u7D0D\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u535A\u8328\u74E6\u7D0D\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u975E\u6D32\u8DB3\u5354\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u535A\u8328\u74E6\u7D0D\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4E16\u754C\u76C3\u6C7A\u8CFD\u9031\uFF0C\u975E\u6D32\u570B\u5BB6\u76C3\u65B9\u9762\u65BC2012\u5E74\u9996\u6B21\u53D6\u5F97\u6C7A\u8CFD\u5468\u5165\u5834\u52B5\uFF0C\u4F46\u662F\u5206\u7D44\u8CFD\u4E09\u6230\u5168\u6557\u51FA\u5C40\u3002"@zh ;
+	foaf:isPrimaryTopicOf	ns17:Botswana_national_football_team ;
+	dbpprop:club	dbpedia:Mochudi_Centre_Chiefs_SC ,
+		<http://dbpedia.org/resource/Uniao_Flamengo_Santos_F.C.> ,
+		<http://dbpedia.org/resource/Polokwane_City_F.C.> ,
+		dbpedia:Botswana_Defence_Force_XI_FC ,
+		dbpedia:Mogoditshane_Fighters ,
+		<http://dbpedia.org/resource/Township_Rollers_F.C.> ,
+		<http://dbpedia.org/resource/Gaborone_United_S.C.> ,
+		<http://dbpedia.org/resource/SuperSport_United_F.C.> ,
+		<http://dbpedia.org/resource/University_of_Pretoria_F.C.> ,
+		<http://dbpedia.org/resource/Mpumalanga_Black_Aces_F.C.> ,
+		<http://dbpedia.org/resource/Bloemfontein_Celtic_F.C.> ,
+		dbpedia:Extension_Gunners ,
+		<http://dbpedia.org/resource/Black_Africa_S.C.> ,
+		<http://dbpedia.org/resource/Notwane_F.C.> ,
+		<http://dbpedia.org/resource/Platinum_Stars_F.C.> ,
+		dbpedia:Nico_United ,
+		dbpedia:CS_Don_Bosco ,
+		<http://dbpedia.org/resource/Botswana_Meat_Commission_F.C.> ;
+	dbpprop:captain	dbpedia:Mompati_Thuma .
+@prefix ns49:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Botswana_national_football_team	dbpprop:hasPhotoCollection	ns49:Botswana_national_football_team ;
+	dbpprop:name	dbpedia:Mogogi_Gabonamong ,
+		dbpedia:Moreetsi_Mosimanyana ,
+		dbpedia:Moemedi_Moatlhaping ,
+		dbpedia:Jackie_Mothatego ,
+		dbpedia:Kabo_Rasuping ,
+		dbpedia:Tebogo_Sembowa ,
+		dbpedia:Gaopatwe_Seosenyeng ,
+		dbpedia:Mmusa_Ohilwe ,
+		dbpedia:Ofentse_Nato ,
+		dbpedia:Kabelo_Dembe ,
+		dbpedia:Alphonse_Modisaotsile ,
+		dbpedia:Edwin_Olerile ,
+		dbpedia:Kaelo_Kgaswane ,
+		dbpedia:Osego_Gaotewe ,
+		dbpedia:Abednico_Powell ,
+		dbpedia:Mompati_Thuma ,
+		"Botswana" ,
+		dbpedia:Michael_Mogaladi ,
+		dbpedia:Mosimanegape_Ramoshibidu ,
+		dbpedia:Noah_Maposa ,
+		dbpedia:Jerome_Ramatlhakwane ,
+		dbpedia:Ndiapo_Letsholathebe ,
+		dbpedia:Lemponye_Tshireletso ,
+		dbpedia:Dipsy_Selolwane ,
+		dbpedia:Modiri_Marumo ,
+		dbpedia:Tshepo_Motlhabankwe ,
+		dbpedia:Phenyo_Mongala ,
+		dbpedia:Dirang_Moloi ,
+		dbpedia:Bonolo_Phuduhudu ,
+		dbpedia:Gift_Moyo ,
+		dbpedia:Gogontle_Marumo ,
+		dbpedia:Kelelelo_Kgosimore ,
+		dbpedia:Keorapetse_Seloiso ,
+		dbpedia:Lesego_Galenamotlhale ,
+		dbpedia:Leutlwetse_Tshireletso ,
+		dbpedia:Moshe_Gaolaolwe ,
+		dbpedia:Michael_Pepukani ,
+		dbpedia:Kekaetswe_Moloi ,
+		dbpedia:Simisani_Mathumo ,
+		dbpedia:Galabgwe_Moyana ,
+		dbpedia:Pako_Lekgari ,
+		dbpedia:Agisanyang_Ramaabya ,
+		dbpedia:Mwampole_Masule ,
+		dbpedia:Ntesang_Simanyana ,
+		dbpedia:Oscar_Ncenga ,
+		dbpedia:Otlaantshekela_Mooketsi ,
+		dbpedia:Sekhana_Koko ,
+		dbpedia:Topo_Piet ,
+		dbpedia:Unobatsha_Mbaiwa ,
+		dbpedia:Joel_Mogorosi ,
+		dbpedia:Mogakolodi_Ngele ;
+	dbpedia-owl:abstract	"L'\u00E9quipe du Botswana de football est constitu\u00E9e par une s\u00E9lection des meilleurs joueurs botswanais sous l'\u00E9gide de la F\u00E9d\u00E9ration du Botswana de football."@fr ,
+		"La nazionale di calcio dello Botswana \u00E8 la rappresentativa calcistica dell'omonima nazione africana ed \u00E8 posta sotto il controllo della federazione calcistica del Botswana (Botswana Football Association). I giocatori della rappresentativa sono soprannominati zebre. Non ha mai partecipato alla Coppa del Mondo.Il 26 marzo 2011 si qualifica per la prima volta alla Coppa d'Africa.Attualmente occupa la 95\u00AA posizione nel Ranking mondiale FIFA."@it ,
+		"La Selecci\u00F3n de f\u00FAtbol de Botsuana es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Asociaci\u00F3n de F\u00FAtbol de Botsuana, perteneciente a la CAF y a la FIFA."@es ,
+		"A Sele\u00E7\u00E3o Botsuanense de Futebol, apelidados de \"zebras\" \u00E9 a equipe nacional de futebol do Botsuana, e \u00E9 controlada pela Associa\u00E7\u00E3o de Futebol do Botsuana (BFA). Eles nunca se classificaram para a Copa do Mundo, e nunca haviam se classificados para a Copa das Na\u00E7\u00F5es Africanas, at\u00E9 no ano de 2011 quando se classificaram pela primeira vez na hist\u00F3ria do Botsuana para a Copa das Na\u00E7\u00F5es Africanas de 2012, sendo a primeira competi\u00E7\u00E3o continental a disputarem."@pt ,
+		"\u535A\u8328\u74E6\u7D0D\u570B\u5BB6\u8DB3\u7403\u968A\uFF08\u82F1\u8BED\uFF1ABotswana national football team\uFF09\u662F\u535A\u8328\u74E6\u7D0D\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u535A\u8328\u74E6\u7D0D\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u975E\u6D32\u8DB3\u5354\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u535A\u8328\u74E6\u7D0D\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4E16\u754C\u76C3\u6C7A\u8CFD\u9031\uFF0C\u975E\u6D32\u570B\u5BB6\u76C3\u65B9\u9762\u65BC2012\u5E74\u9996\u6B21\u53D6\u5F97\u6C7A\u8CFD\u5468\u5165\u5834\u52B5\uFF0C\u4F46\u662F\u5206\u7D44\u8CFD\u4E09\u6230\u5168\u6557\u51FA\u5C40\u3002"@zh ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0628\u0648\u062A\u0633\u0648\u0627\u0646\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0644\u0642\u0628 \u0628\u0627\u0644\u062D\u0645\u064A\u0631 \u0627\u0644\u0648\u062D\u0634\u064A\u0629 \u0648\u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0641\u064A \u0628\u0648\u062A\u0633\u0648\u0627\u0646\u0627 \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0628\u0648\u062A\u0633\u0648\u0627\u0646\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0647 \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0646\u0647\u0627\u0626\u064A\u0627\u062A \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 . \u0641\u064A \u0645\u0627\u0631\u0633 2011 \u062D\u0642\u0642\u062A \u0628\u0648\u062A\u0633\u0648\u0627\u0646\u0627 \u0625\u0646\u062C\u0627\u0632\u0627 \u062A\u0627\u0631\u064A\u062E\u064A\u0627 \u0628\u0627\u0644\u062A\u0623\u0647\u0644 \u0627\u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0625\u0641\u0631\u064A\u0642\u064A\u0629 2012 \u0628\u0639\u062F \u062A\u063A\u0644\u0628\u0647\u0627 \u0639\u0644\u0649 \u0623\u0642\u0648\u0649 \u0627\u0644\u0645\u0646\u062A\u062E\u0628\u0627\u062A \u0627\u0644\u0625\u0641\u0631\u064A\u0642\u064A\u0629 \u0643\u062A\u0648\u0646\u0633 \u0648 \u0627\u0644\u0637\u0648\u063A\u0648 \u0648 \u0647\u0648 \u0623\u0646\u062C\u0627\u0632 \u0644\u0645 \u064A\u0633\u0628\u0642 \u0623\u0646 \u062D\u0642\u0642\u062A\u0647 \u0628\u0648\u062A\u0633\u0648\u0627\u0646\u0627 ."@ar ,
+		"The Botswana national football team, nicknamed 'The Zebras' (Setswana: Dipitse) is the national football team of the African country of Botswana and is controlled by the Botswana Football Association. They have never qualified for the World Cup but they did qualify for the 2012 Africa Cup of Nations for the first time in their history." ,
+		"\u0421\u0431\u043E\u0301\u0440\u043D\u0430\u044F \u0411\u043E\u0442\u0441\u0432\u0430\u0301\u043D\u044B \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u0301\u043B\u0443 \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u0411\u043E\u0442\u0441\u0432\u0430\u043D\u0443 \u0432 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0430\u0445 \u0438 \u0442\u0443\u0440\u043D\u0438\u0440\u0430\u0445 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u0442\u0441\u044F \u0411\u043E\u0442\u0441\u0432\u0430\u043D\u0441\u043A\u043E\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0435\u0439. \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u043E\u0442\u0441\u0432\u0430\u043D\u044B \u043D\u0438\u043A\u043E\u0433\u0434\u0430 \u043D\u0435 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B\u0430 \u0443\u0447\u0430\u0441\u0442\u0438\u044F \u0432 \u0444\u0438\u043D\u0430\u043B\u044C\u043D\u044B\u0445 \u0447\u0430\u0441\u0442\u044F\u0445 \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430, \u0430 \u043D\u0430 \u041A\u0443\u0431\u043A\u0435 \u0430\u0444\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0445 \u043D\u0430\u0446\u0438\u0439 \u0434\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B\u0430 \u0442\u043E\u043B\u044C\u043A\u043E \u0432 2012 \u0433\u043E\u0434\u0443."@ru ,
+		"Reprezentacja Botswany w pi\u0142ce no\u017Cnej \u2013 kadra Botswany w pi\u0142ce no\u017Cnej m\u0119\u017Cczyzn. Zwi\u0105zek pi\u0142karski w Botswanie powsta\u0142 w 1970 roku, do FIFA i CAF nale\u017Cy od 1976 roku.Dotychczas ani razu nie zdo\u0142a\u0142a zakwalifikowa\u0107 si\u0119 do Mistrzostw \u015Awiata. W 2011 po raz pierwszy awansowa\u0142a do fina\u0142owego turnieju o Puchar Narod\u00F3w Afryki w 2012."@pl ,
+		"Het Botswaans voetbal is een team van voetballers dat Botswana vertegenwoordigt bij internationale wedstrijden zoals kwalificatiewedstrijden voor het WK en de Afrika Cup.De Botswana Football Association werd in 1970 opgericht en is aangesloten bij de COSAFA, de CAF en de FIFA (sinds 1978). Het Botswaans voetbalelftal behaalde in december 2010 met de 53e plaats de hoogste positie op de FIFA-wereldranglijst, in november 1999 werd met de 165e plaats de laagste positie bereikt.Het land wist zich als eerste te plaatsen voor de African Cup of Nations 2012. Het is voor het eerst dat het Botswaans voetbalelftal zich weet te plaatsen vor het continentaal kampioenschap voetbal."@nl ,
+		"\u30B5\u30C3\u30AB\u30FC\u30DC\u30C4\u30EF\u30CA\u4EE3\u8868\uFF08\u2015\u3060\u3044\u3072\u3087\u3046\uFF09\u306F\u3001\u30DC\u30C4\u30EF\u30CA\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\uFF08Botswana Football Association\u3001\u7565\u79F0:BFA\uFF09\u306B\u3088\u308A\u69CB\u6210\u3055\u308C\u308B\u30DC\u30C4\u30EF\u30CA\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3002FIFA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u51FA\u5834\u306F\u306A\u3044\u3002\u30A2\u30D5\u30EA\u30AB\u30CD\u30A4\u30B7\u30E7\u30F3\u30BA\u30AB\u30C3\u30D7\u306F2012\u5E74\u5927\u4F1A\u306B\u521D\u51FA\u5834\u3057\u305F\u304C\u30013\u9023\u6557\u3067\u52DD\u3061\u70B9\u3092\u3042\u3052\u3089\u308C\u305A1\u6B21\u30EA\u30FC\u30B0\u3067\u6557\u9000\u3057\u305F\u3002"@ja ,
+		"Die Botswanische Fu\u00DFballnationalmannschaft, die The Zebras (\u201EDie Zebras\u201C) genannt wird, ist die Fu\u00DFball-Auswahlmannschaft von Botswana und wird kontrolliert durch die Botswana Football Association. Botswana hat noch nie an der Fu\u00DFball-Weltmeisterschaft teilgenommen. Der gr\u00F6\u00DFte Erfolg war die Qualifikation f\u00FCr die Fu\u00DFball-Afrikameisterschaft 2012. Die Qualifikation gelang u.a. durch einen 1:0-Ausw\u00E4rtserfolg gegen Tunesien am 1. Juli 2010. In der Endrunde in Gabun und \u00C4quatorialguinea verlor Botswana alle drei Spiele. Die 1:6 Niederlage gegen Guinea am 28. Januar 2012 war die erste Niederlage mit 5 Toren Unterschied bei einer Afrikameisterschaft seit 42 Jahren."@de ;
+	dbpedia-owl:wikiPageID	1158358 ;
+	dbpedia-owl:wikiPageRevisionID	605815025 ;
+	dbpprop:topScorer	dbpedia:Jerome_Ramatlhakwane ;
+	dbpprop:clubnat	"RSA" ,
+		"BOT" ,
+		"NAM" ,
+		"COD" ;
+	dbpprop:goals	10 ,
+		2 ,
+		3 ,
+		0 ,
+		1 ,
+		7 ,
+		4 ,
+		5 ,
+		19 ;
+	dbpprop:caps	66 ,
+		40 ,
+		43 ,
+		47 ,
+		35 ,
+		38 ,
+		39 ,
+		58 ,
+		60 ,
+		50 ,
+		8 ,
+		13 ,
+		14 ,
+		0 ,
+		1 ,
+		2 ,
+		3 ,
+		4 ,
+		5 ,
+		7 ,
+		27 ,
+		31 ,
+		16 ,
+		17 ,
+		18 ,
+		19 ,
+		20 ,
+		21 ,
+		23 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Botswana_national_football_team	dbpprop:age	"2011-01-19+02:00"^^xsd:date ,
+		"2013-08-31+02:00"^^xsd:date ,
+		"2009-01-21+02:00"^^xsd:date ,
+		"2013-07-27+02:00"^^xsd:date ,
+		"2012-01-21+02:00"^^xsd:date ,
+		"2013-06-08+02:00"^^xsd:date ,
+		"2014-03-05+02:00"^^xsd:date ,
+		"2013-07-11+02:00"^^xsd:date ,
+		"2013-09-07+02:00"^^xsd:date ,
+		"1982-07-07+02:00"^^xsd:date ;
+	dbpprop:coach	<http://dbpedia.org/resource/Peter_Butler_(footballer,_born_1966)> ;
+	dbpprop:patternSh	"_Botswana12Away" ,
+		"_Botswana12Home" ,
+		"_Botswana11Home" ;
+	dbpedia-owl:coach	<http://dbpedia.org/resource/Peter_Butler_(footballer,_born_1966)> ;
+	dbpprop:patternSo	"_Botswana12Home" ,
+		"_Botswana11Home" ,
+		"_Botswana12Away" ;
+	dbpprop:association	dbpedia:Botswana_Football_Association ;
+	dbpprop:badgeSize	200 ;
+	dbpprop:body	0 ,
+		"FFFFFF" ;
+	dbpprop:confederation	dbpedia:Confederation_of_African_Football ;
+	dbpprop:fifaRank	94 ;
+	dbpprop:fifaTrigramme	"BOT" ;
+	dbpprop:leftarm	0 ,
+		"FFFFFF" ;
+	dbpprop:patternB	"_Botswana11Home" ,
+		"_Botswana12Home" ,
+		"_Botswana12Away" ;
+	dbpprop:patternLa	"_Botswana12Home" ,
+		"_Botswana11home" ,
+		"_Botswana12Away" ;
+	dbpprop:patternRa	"_Botswana11Home" ,
+		"_Botswana12Home" ,
+		"_Botswana12Away" ;
+	dbpprop:rightarm	0 ,
+		"FFFFFF" ;
+	dbpprop:shorts	0 ,
+		"FFFFFFF" ;
+	dbpprop:socks	0 ,
+		"FFFFFFF" ;
+	dbpprop:no	20 ,
+		21 ,
+		22 ,
+		23 ,
+		16 ,
+		18 ,
+		19 ,
+		13 ,
+		14 ,
+		8 ,
+		10 ,
+		11 ,
+		4 ,
+		5 ,
+		2 ,
+		3 ;
+	dbpprop:pos	"GK" ,
+		"FW" ,
+		"DF" ,
+		"MF" ;
+	dbpprop:badge	"Botswana FA.png" ;
+	dbpprop:firstGame	8 ;
+	dbpprop:largestLoss	8 ,
+		"Botswana 0\u20137" ;
+	dbpprop:largestWin	6 ;
+	dbpprop:regionalCupApps	1 ;
+	dbpprop:regionalCupBest	"Group stage" ;
+	dbpprop:regionalCupFirst	2012 ;
+	dbpprop:regionalName	dbpedia:Africa_Cup_of_Nations ;
+	dbpprop:eloMax	97 ;
+	dbpprop:eloMaxDate	"August 2011" ;
+	dbpprop:eloMin	187 ;
+	dbpprop:eloMinDate	"March 1997" ;
+	dbpprop:eloRank	133 ;
+	dbpprop:fifaMax	53 ;
+	dbpprop:fifaMaxDate	"December 2010" ;
+	dbpprop:fifaMin	165 ;
+	dbpprop:fifaMinDate	"November 1999" ;
+	dbpprop:subConfederation	dbpedia:Council_of_Southern_Africa_Football_Associations ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.bfa.co.bw/> ,
+		<http://www.fifa.com/associations/association=bot/index.html> ;
+	dbpprop:homeStadium	dbpedia:Botswana_National_Stadium ;
+	dbpedia-owl:stadium	dbpedia:Botswana_National_Stadium ;
+	dbpprop:nickname	"Dipitse" .
+dbpedia:Mmusa_Ohilwe	dbpedia-owl:birthPlace	dbpedia:Botswana_national_football_team ;
+	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Ofentse_Nato	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:James_Tshekedi	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Terence_Mophuting	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Peter_Cormack	dbpedia-owl:managerClub	dbpedia:Botswana_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Botswana_national_football_team .
+ns22:منتخب_بوتسوانا_لكرة_القدم	owl:sameAs	dbpedia:Botswana_national_football_team .
+ns26:Selecció_de_futbol_de_Botswana	owl:sameAs	dbpedia:Botswana_national_football_team .
+ns28:Botswana_jalgpallikoondis	owl:sameAs	dbpedia:Botswana_national_football_team .
+ns41:تیم_ملی_فوتبال_بوتسوانا	owl:sameAs	dbpedia:Botswana_national_football_team .
+ns40:Botswanan_jalkapallomaajoukkue	owl:sameAs	dbpedia:Botswana_national_football_team .
+ns34:נבחרת_בוטסואנה_בכדורגל	owl:sameAs	dbpedia:Botswana_national_football_team .
+ns29:Botswana_national_football_team	owl:sameAs	dbpedia:Botswana_national_football_team .
+ns39:Botswanai_labdarúgó-válogatott	owl:sameAs	dbpedia:Botswana_national_football_team .
+ns37:Botsvanos_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Botswana_national_football_team .
+ns24:Botsvanas_futbola_izlase	owl:sameAs	dbpedia:Botswana_national_football_team .
+ns35:बोत्स्वाना_फुटबॉल_संघ	owl:sameAs	dbpedia:Botswana_national_football_team .
+ns38:Botswanas_herrelandslag_i_fotball	owl:sameAs	dbpedia:Botswana_national_football_team .
+ns31:Echipa_națională_de_fotbal_a_Botswanei	owl:sameAs	dbpedia:Botswana_national_football_team .
+ns25:Сборная_Ботсваны_по_футболу	owl:sameAs	dbpedia:Botswana_national_football_team .
+ns42:Botswana_national_football_team	owl:sameAs	dbpedia:Botswana_national_football_team .
+ns23:Фудбалска_репрезентација_Боцване	owl:sameAs	dbpedia:Botswana_national_football_team .
+ns30:Botswanas_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Botswana_national_football_team .
+ns36:Botsvana_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Botswana_national_football_team .
+ns32:Збірна_Ботсвани_з_футболу	owl:sameAs	dbpedia:Botswana_national_football_team .
+ns27:Đội_tuyển_bóng_đá_quốc_gia_Botswana	owl:sameAs	dbpedia:Botswana_national_football_team .
+ns33:博茨瓦納國家足球隊	owl:sameAs	dbpedia:Botswana_national_football_team .
+dbpedia:Molathegi_Podile	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Mogakolodi_Ngele__2	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Noah_Kareng	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+<http://dbpedia.org/resource/Veselin_Jelu%C5%A1i%C4%87>	dbpedia-owl:managerClub	dbpedia:Botswana_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Botswana_national_football_team .
+dbpedia:Thandwa_Moreki	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Barulaganye_Bolofete	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Kagiso_Tshelametsi	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Mogakolodi_Ngele	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Barney_Marman	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Davis_Kopi	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Abednico_Powell	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Joel_Mogorosi	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Mpoeleng_Mpoeleng	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Tamocha_Bedi	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Malepa_Bolelang	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Stanley_Tshosane	dbpedia-owl:birthPlace	dbpedia:Botswana_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Botswana_national_football_team .
+dbpedia:Onalethata_Thekiso	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Talinda_Nyathi	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Tshepiso_Molwantwa	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Phineas_Maimela	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Reuben_Mosweu	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Thato_Siska	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Shimane_Kgope_Ntshweu	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Kabelo_Moshaoa	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Phuthego_Modipe	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Richard_Bangwe	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Ontse_Ntesa	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Freddie_Mwila	dbpedia-owl:managerClub	dbpedia:Botswana_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Botswana_national_football_team .
+dbpedia:Joel_Mogorosi__5	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Boiki_Mothibi__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Mokgathi_Mokgathi	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Oneeleng_Radikara	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Keoagetse_Radipotsane	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Boiki_Mothibi	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Thatayaone_Mothuba	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Dirang_Moloi	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Eric_Molebatsi	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Modiri_Marumo	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Seabo_Gabanakgosi	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Koegathe_Rabithome	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Louis_Setshwane	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Thobo_Kgoboge	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Ofentse_Nato__3	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Anthony_Matengu	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Oliver_Pikati	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Patrick_Lebekwe	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Duncan_Kgopolelo	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Ditaola_Ditaola	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Kenny_Mwape	dbpedia-owl:managerClub	dbpedia:Botswana_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Botswana_national_football_team .
+dbpedia:Dipsy_Selolwane__10	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Moreetsi_Mosimanyana	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Phazha_Butale	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Kemmy_Pilato	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Mompati_Thuma	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Pius_Kolagano	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Lovemore_Mokgweetsi	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Agisanyang_Mosimanegape	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Odirile_Gaolebale	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Kabelo_Kgosiang	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Busang_Rasefako	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Kgosietsile_Mampori	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Mosimanegape_Ramoshibidu	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Innocent_Ranku	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Kgakgamotso_Pharo	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Alex_Matshameko	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Tebogo_Mothusi	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Keitumetse_Paul	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+<http://dbpedia.org/resource/Peter_Butler_(footballer,_born_1966)>	dbpprop:managerclubs	dbpedia:Botswana_national_football_team ;
+	dbpprop:currentclub	dbpedia:Botswana_national_football_team ;
+	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Shepard_Mosekgwa	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Colwyn_Rowe	dbpedia-owl:managerClub	dbpedia:Botswana_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Botswana_national_football_team .
+dbpedia:Masego_Ntshingane	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Donald_Thobega	dbpedia-owl:team	dbpedia:Botswana_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Botswana_national_football_team .
+dbpedia:Peter_Cormack__15	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Lovemore_Mokgweetsi__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Oneeleng_Radikara__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Talinda_Nyathi__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Edwin_Disang__3	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Anthony_Matengu__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Davis_Kopi__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Noah_Maposa__2	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Richard_Bangwe__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Shepard_Mosekgwa__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Masego_Ntshingane__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Moemedi_Moatlhaping__3	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Kagiso_Tshelametsi__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Kenny_Mwape__4	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Mmusa_Ohilwe__7	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Barulaganye_Bolofete__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Jerome_Ramatlhakwane__5	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Kabelo_Moshaoa__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Mpoeleng_Mpoeleng__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Onalethata_Thekiso__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Thatayaone_Mothuba__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Thato_Siska__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Kabelo_Kgosiang__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:James_Tshekedi__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Odirile_Gaolebale__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Ontse_Ntesa__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Agisanyang_Mosimanegape__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Gobonyeone_Selefa__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Malepa_Bolelang__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Mompati_Thuma__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Phenyo_Mongala__10	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Duncan_Kgopolelo__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Donald_Thobega__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Moreetsi_Mosimanyana__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Mosimanegape_Ramoshibidu__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Pontsho_Moloi__4	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Tebogo_Mothusi__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+<http://dbpedia.org/resource/Veselin_Jelu%C5%A1i%C4%87__2>	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Dirang_Moloi__4	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Eric_Molebatsi__2	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Tamocha_Bedi__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Reuben_Mosweu__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Busang_Rasefako__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Molathegi_Podile__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Alex_Matshameko__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Colwyn_Rowe__7	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Oliver_Pikati__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Phuthego_Modipe__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Ditaola_Ditaola__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Patrick_Lebekwe__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Barney_Marman__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Mokgathi_Mokgathi__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Mogogi_Gabonamong__4	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Noah_Kareng__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Phazha_Butale__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Pius_Kolagano__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Innocent_Ranku__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Kgakgamotso_Pharo__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Shimane_Kgope_Ntshweu__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Koegathe_Rabithome__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Seabo_Gabanakgosi__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Kemmy_Pilato__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Kgosietsile_Mampori__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Thobo_Kgoboge__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Modiri_Marumo__4	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Tebogo_Sembowa__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Abednico_Powell__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Freddie_Mwila__14	dbpedia-owl:team	dbpedia:Botswana_national_football_team .
+dbpedia:Thandwa_Moreki__1	dbpedia-owl:team	dbpedia:Botswana_national_football_team .

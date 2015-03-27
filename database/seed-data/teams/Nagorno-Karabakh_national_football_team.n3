@@ -1,0 +1,75 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://wikidata.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Q3954829	owl:sameAs	dbpedia:Nagorno-Karabakh_national_football_team .
+@prefix ns3:	<http://it.dbpedia.org/resource/> .
+ns3:Selezione_di_calcio_del_Nagorno_Karabakh	owl:sameAs	dbpedia:Nagorno-Karabakh_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns5:	<http://en.wikipedia.org/wiki/> .
+ns5:Nagorno-Karabakh_national_football_team	foaf:primaryTopic	dbpedia:Nagorno-Karabakh_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns7:	<http://schema.org/> .
+dbpedia:Nagorno-Karabakh_national_football_team	rdf:type	ns7:SportsTeam ,
+		ns7:Organization .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Nagorno-Karabakh_national_football_team	rdf:type	dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		dbpedia-owl:Organisation ,
+		dbpedia-owl:Agent ,
+		owl:Thing .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Nagorno-Karabakh_national_football_team	rdf:type	dul:SocialPerson ,
+		dul:Agent .
+@prefix ns10:	<http://wikidata.org/entity/> .
+dbpedia:Nagorno-Karabakh_national_football_team	owl:sameAs	ns10:Q3954829 ,
+		dbpedia:Nagorno-Karabakh_national_football_team .
+@prefix ns11:	<http://pl.dbpedia.org/resource/> .
+dbpedia:Nagorno-Karabakh_national_football_team	owl:sameAs	ns11:Reprezentacja_Górskiego_Karabachu_w_piłce_nożnej ,
+		ns3:Selezione_di_calcio_del_Nagorno_Karabakh ,
+		<http://rdf.freebase.com/ns/m.0s980st> .
+@prefix ns12:	<http://ja.dbpedia.org/resource/> .
+dbpedia:Nagorno-Karabakh_national_football_team	owl:sameAs	ns12:サッカーナゴルノ・カラバフ代表 ,
+		ns1:Q3954829 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Nagorno-Karabakh_national_football_team	rdfs:label	"Selezione di calcio del Nagorno Karabakh"@it ,
+		"\u30B5\u30C3\u30AB\u30FC\u30CA\u30B4\u30EB\u30CE\u30FB\u30AB\u30E9\u30D0\u30D5\u4EE3\u8868"@ja ,
+		"Reprezentacja G\u00F3rskiego Karabachu w pi\u0142ce no\u017Cnej"@pl ,
+		"Nagorno-Karabakh national football team" .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Nagorno-Karabakh_national_football_team	dcterms:subject	category:European_national_and_official_selection-teams_not_affiliated_to_FIFA ,
+		<http://dbpedia.org/resource/Category:European_N.F.-Board_teams> ;
+	foaf:name	"Artsakh" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Nagorno-Karabakh_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Nagorno-Karabakh_national_football_team?oldid=605593725> ;
+	rdfs:comment	"The Nagorno-Karabakh national football team (locally known as Artsakh national football team), is the national representative of the Nagorno-Karabakh Republic (Artsakh). It is not yet a full member of FIFA or UEFA and is therefore not eligible to enter the World Cup or the European Championship." ,
+		"Reprezentacja G\u00F3rskiego Karabachu w pi\u0142ce no\u017Cnej nie jest cz\u0142onkiem FIFA i UEFA."@pl ,
+		"La Selezione di calcio del Nagorno Karabakh, \u00E8 la rappresentativa nazionale della repubblica del Nagorno Karabakh (Artsakh) e non \u00E8 riconosciuta dalla FIFA.Dal 17 settembre 2012 \u00E8 affiliata, come membro provvisorio, alla NF-Board ed una settimana dopo ha disputato il suo primo incontro ufficiale affrontando in trasferta la selezione di calcio dell'Abkhazia."@it ,
+		"\u30B5\u30C3\u30AB\u30FC\u30CA\u30B4\u30EB\u30CE\u30FB\u30AB\u30E9\u30D0\u30D5\u4EE3\u8868\u306F\u3001\u30CA\u30B4\u30EB\u30CE\u30FB\u30AB\u30E9\u30D0\u30D5\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u306B\u3088\u308A\u7DE8\u6210\u3055\u308C\u308B\u30CA\u30B4\u30EB\u30CE\u30FB\u30AB\u30E9\u30D0\u30D5\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30CA\u30B4\u30EB\u30CE\u30FB\u30AB\u30E9\u30D0\u30D5\u4EE3\u8868\u306F\u3001FIFA\u53CA\u3073\u3001UEFA\u306B\u52A0\u76DF\u3057\u3066\u3044\u306A\u3044\u305F\u3081\u3001\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u3001EURO\u306B\u53C2\u52A0\u3067\u304D\u305A\u3001\u4ED6\u306E\u30C1\u30FC\u30E0\u3068\u306E\u5BFE\u6226\u3082\u3001\u56FD\u969BA\u30DE\u30C3\u30C1\u3068\u306F\u8A8D\u3081\u3089\u308C\u306A\u3044\u30022012\u5E749\u670817\u65E5\u306BNF-Board\u306E\u66AB\u5B9A\u4F1A\u54E1\u306B\u306A\u308A\u30018\u65E5\u5F8C\u306E9\u670825\u65E5\u306B\u30A2\u30D6\u30CF\u30B8\u30A2\u3068\u521D\u8A66\u5408\u3092\u884C\u3063\u305F\uFF08\u30A2\u30D6\u30CF\u30B8\u30A2\u306E\u9996\u90FD\u30FB\u30B9\u30D5\u30DF\u3067\u8A66\u5408\u3092\u884C\u3044\u30011-1\u3067\u5F15\u304D\u5206\u3051\uFF09\u3002\u305D\u306E\u5F8C10\u670821\u65E5\u306B\u3082\u3001\u30CA\u30B4\u30EB\u30CE\u30FB\u30AB\u30E9\u30D0\u30D5\u306E\u9996\u90FD\u30FB\u30B9\u30C6\u30D1\u30CA\u30B1\u30EB\u30C8\u3067\u30A2\u30D6\u30CF\u30B8\u30A2\u3068\u8A66\u5408\u3092\u884C\u3044\u30013-0\u3067\u521D\u52DD\u5229\u3092\u6319\u3052\u305F\u3002"@ja ;
+	foaf:isPrimaryTopicOf	ns5:Nagorno-Karabakh_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix ns18:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Nagorno-Karabakh_national_football_team	dbpprop:hasPhotoCollection	ns18:Nagorno-Karabakh_national_football_team ;
+	dbpprop:name	"Artsakh" ;
+	dbpedia-owl:abstract	"Reprezentacja G\u00F3rskiego Karabachu w pi\u0142ce no\u017Cnej nie jest cz\u0142onkiem FIFA i UEFA."@pl ,
+		"La Selezione di calcio del Nagorno Karabakh, \u00E8 la rappresentativa nazionale della repubblica del Nagorno Karabakh (Artsakh) e non \u00E8 riconosciuta dalla FIFA.Dal 17 settembre 2012 \u00E8 affiliata, come membro provvisorio, alla NF-Board ed una settimana dopo ha disputato il suo primo incontro ufficiale affrontando in trasferta la selezione di calcio dell'Abkhazia. Il mese successivo ha disputato contro la stessa avversaria la partita di ritorno in casa.La selezione \u00E8 finanziata dallo stato con un budget annuale di circa 150.000 euro. La squadra \u00E8 composta da giocatori molto giovani, intorno ai venti anni, e, per ammissione dello stesso allenatore, manca di esperienza."@it ,
+		"The Nagorno-Karabakh national football team (locally known as Artsakh national football team), is the national representative of the Nagorno-Karabakh Republic (Artsakh). It is not yet a full member of FIFA or UEFA and is therefore not eligible to enter the World Cup or the European Championship." ,
+		"\u30B5\u30C3\u30AB\u30FC\u30CA\u30B4\u30EB\u30CE\u30FB\u30AB\u30E9\u30D0\u30D5\u4EE3\u8868\u306F\u3001\u30CA\u30B4\u30EB\u30CE\u30FB\u30AB\u30E9\u30D0\u30D5\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u306B\u3088\u308A\u7DE8\u6210\u3055\u308C\u308B\u30CA\u30B4\u30EB\u30CE\u30FB\u30AB\u30E9\u30D0\u30D5\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30CA\u30B4\u30EB\u30CE\u30FB\u30AB\u30E9\u30D0\u30D5\u4EE3\u8868\u306F\u3001FIFA\u53CA\u3073\u3001UEFA\u306B\u52A0\u76DF\u3057\u3066\u3044\u306A\u3044\u305F\u3081\u3001\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u3001EURO\u306B\u53C2\u52A0\u3067\u304D\u305A\u3001\u4ED6\u306E\u30C1\u30FC\u30E0\u3068\u306E\u5BFE\u6226\u3082\u3001\u56FD\u969BA\u30DE\u30C3\u30C1\u3068\u306F\u8A8D\u3081\u3089\u308C\u306A\u3044\u30022012\u5E749\u670817\u65E5\u306BNF-Board\u306E\u66AB\u5B9A\u4F1A\u54E1\u306B\u306A\u308A\u30018\u65E5\u5F8C\u306E9\u670825\u65E5\u306B\u30A2\u30D6\u30CF\u30B8\u30A2\u3068\u521D\u8A66\u5408\u3092\u884C\u3063\u305F\uFF08\u30A2\u30D6\u30CF\u30B8\u30A2\u306E\u9996\u90FD\u30FB\u30B9\u30D5\u30DF\u3067\u8A66\u5408\u3092\u884C\u3044\u30011-1\u3067\u5F15\u304D\u5206\u3051\uFF09\u3002\u305D\u306E\u5F8C10\u670821\u65E5\u306B\u3082\u3001\u30CA\u30B4\u30EB\u30CE\u30FB\u30AB\u30E9\u30D0\u30D5\u306E\u9996\u90FD\u30FB\u30B9\u30C6\u30D1\u30CA\u30B1\u30EB\u30C8\u3067\u30A2\u30D6\u30CF\u30B8\u30A2\u3068\u8A66\u5408\u3092\u884C\u3044\u30013-0\u3067\u521D\u52DD\u5229\u3092\u6319\u3052\u305F\u3002"@ja ;
+	dbpedia-owl:wikiPageID	38969546 ;
+	dbpedia-owl:wikiPageRevisionID	605593725 ;
+	dbpprop:asstManager	"Mher Avanesyan" ;
+	dbpprop:coach	dbpedia:Sargis_Aghajanyan ;
+	dbpedia-owl:coach	dbpedia:Sargis_Aghajanyan ;
+	dbpprop:association	dbpedia:Artsakh_Football_Association ;
+	dbpprop:confederation	dbpedia:Confederation_of_Independent_Football_Associations ;
+	dbpprop:fifaTrigramme	"NKR" ;
+	dbpprop:badge	"Artsakh Football Association logo.png" ;
+	dbpprop:firstGame	1 ;
+	dbpprop:largestWin	"Artsakh 3\u20130" ;
+	dbpprop:homeStadium	dbpedia:Stepanakert ,
+		dbpedia:Stepanakert_Stadium ;
+	dbpedia-owl:stadium	dbpedia:Stepanakert ,
+		dbpedia:Stepanakert_Stadium .
+dbpedia:Stepanakert_Stadium	dbpprop:tenants	dbpedia:Nagorno-Karabakh_national_football_team ;
+	dbpedia-owl:tenant	dbpedia:Nagorno-Karabakh_national_football_team .
+dbpedia:Artsakh_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Nagorno-Karabakh_national_football_team .

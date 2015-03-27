@@ -1,0 +1,249 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Rafik_Saïfi	foaf:primaryTopic	<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_Africa_Cup_of_Nations_squads>	dbpprop:name	<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi>	rdf:type	<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi>	rdf:type	dbpedia-owl:Athlete .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi>	rdf:type	yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		yago:ACAjaccioPlayers ,
+		yago:AlgerianExpatriatesInQatar ,
+		yago:AlgerianExpatriatesInFrance .
+@prefix ns6:	<http://schema.org/> .
+<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi>	rdf:type	ns6:Person ,
+		dbpedia-owl:Agent ,
+		yago:AlgerianFootballers ,
+		yago:AlgeriaInternationalFootballers ,
+		dbpedia-owl:Person ,
+		yago:AlgerianExpatriateFootballers ,
+		yago:Ligue1Players ,
+		yago:Whole100003553 ,
+		yago:Object100002684 ,
+		yago:ExpatriateFootballersInQatar ,
+		yago:PhysicalEntity100001930 ,
+		yago:FCIstresPlayers .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi>	rdf:type	dul:NaturalPerson ,
+		yago:AmiensSCPlayers ,
+		yago:Ligue2Players ,
+		yago:FCLorientPlayers .
+@prefix ns8:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi>	rdf:type	ns8:Q5 ,
+		yago:Contestant109613191 ,
+		dul:Agent ,
+		yago:Athlete109820263 ,
+		yago:FootballPlayer110101634 ,
+		yago:KabylePeople ,
+		yago:MCAlgerPlayers ,
+		yago:Player110439851 ,
+		yago:TroyesACPlayers ,
+		ns8:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi>	rdf:type	owl:Thing ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:PeopleFromAlgiers .
+@prefix ns10:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi>	rdf:type	ns10:Athlete ,
+		foaf:Person ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		yago:QatarStarsLeaguePlayers ,
+		yago:LivingPeople ,
+		yago:ExpatriateFootballersInFrance ,
+		ns10:SoccerPlayer ,
+		yago:Al-KhorSportsClubPlayers .
+@prefix ns11:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi>	owl:sameAs	ns11:Rafik_Saïfi ,
+		<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi> ,
+		<http://rdf.freebase.com/ns/m.0gyjd3> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi>	rdfs:label	"\u0421\u0430\u0438\u0444\u0438, \u0420\u0430\u0444\u0438\u043A"@ru ,
+		"\u30E9\u30D5\u30A3\u30AF\u30FB\u30B5\u30A4\u30D5\u30A3"@ja ,
+		"Rafik Sa\u00EFfi"@pl ,
+		"Rafik Sa\u00EFfi"@pt ,
+		"Rafik Sa\u00EFfi"@de ,
+		"Rafik Sa\u00EFfi" ,
+		"Rafik Sa\u00EFfi"@nl ,
+		"\u0631\u0641\u064A\u0642 \u0635\u0627\u064A\u0641\u064A"@ar ,
+		"Rafik Sa\u00EFfi"@fr ,
+		"Rafik Sa\u00EFfi"@es ,
+		"Rafik Sa\u00EFfi"@it .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi>	dcterms:subject	<http://dbpedia.org/resource/Category:2002_African_Cup_of_Nations_players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi>	dcterms:subject	category:People_from_Algiers ,
+		category:MC_Alger_players ,
+		category:Ligue_1_players ,
+		<http://dbpedia.org/resource/Category:2010_Africa_Cup_of_Nations_players> ,
+		<http://dbpedia.org/resource/Category:2000_African_Cup_of_Nations_players> ,
+		category:Al-Khor_Sports_Club_players ,
+		category:FC_Istres_players ,
+		category:Troyes_AC_players ,
+		category:Algerian_expatriates_in_France ,
+		category:Algeria_international_footballers ,
+		category:Algerian_expatriate_footballers ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Algerian_footballers ,
+		category:Amiens_SC_players ,
+		category:FC_Lorient_players ,
+		category:Algerian_expatriates_in_Qatar ,
+		category:Expatriate_footballers_in_Qatar ,
+		category:Qatar_Stars_League_players ,
+		category:Ligue_2_players ,
+		<http://dbpedia.org/resource/Category:1975_births> ,
+		category:Association_football_midfielders ,
+		category:Expatriate_footballers_in_France ,
+		category:AC_Ajaccio_players ,
+		category:Kabyle_people .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi>	dc:description	"Algerian footballer" ,
+		"Algerian footballer" ;
+	foaf:givenName	"Rafik" ;
+	foaf:name	"Rafik Saifi" ,
+		"Saifi, Rafik" ,
+		"Rafik Sa\u00EFfi" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Rafik_Sa\u00EFfi?oldid=592479263> ;
+	rdfs:comment	"Rafik Sa\u00EFfi (arabisch \u200F\u0631\u0641\u064A\u0642 \u0635\u0627\u064A\u0641\u064A\u200E, DMG Raf\u012Bq \u1E62\u0101yif\u012B; * 7. Februar 1975 in Algier) ist ein algerischer Fu\u00DFballspieler. Er spielt auf der Position eines St\u00FCrmers."@de ,
+		"Rafik Sa\u00EFfi - em \u00E1rabe, \u0631\u0641\u064A\u0642 \u0635\u0627\u064A\u0641\u064A (Argel, 7 de fevereiro de 1975) - \u00E9 um futebolista da Arg\u00E9lia que joga na posi\u00E7\u00E3o de medio."@pt ,
+		"\u30E9\u30D5\u30A3\u30AF\u30FB\u30B5\u30A4\u30D5\u30A3\uFF08\u30A2\u30E9\u30D3\u30A2\u8A9E: \u0631\u0641\u064A\u0642 \u0635\u0627\u064A\u0641\u064A\u200E, Rafik Sa\u00EFfi, 1975\u5E742\u67087\u65E5 - \uFF09\u306F\u3001\u30A2\u30EB\u30B8\u30A7\u30EA\u30A2\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9\u3002"@ja ,
+		"Rafik Sa\u00EFfi (urodzony 7 lutego 1975 w Algierze) \u2013 algierski pi\u0142karz, graj\u0105cy na pozycji pomocnika. Aktualnie zwi\u0105zany kontraktem z francuskim klubem, FC Istres. Karier\u0119 zaczyna\u0142 w klubie z rodzinnego miasta - MC Algier, kt\u00F3remu pom\u00F3g\u0142 w zdobyciu mistrzostwa kraju. W 1999 roku, maj\u0105c 24 lata wyjecha\u0142 do Francji, zasilaj\u0105c szeregi Troyes AC. Tam gra\u0142 przez 5 sezon\u00F3w, by w 2004 roku przenie\u015B\u0107 si\u0119 do FC Istres. Nast\u0119pnie gra\u0142 w AC Ajaccio (2005-2006), FC Lorient (2006-2009)."@pl ,
+		"Rafik Sa\u00EFfi (Algiers, 7 februari 1975) is een Algerijns voetballer. Hij trad in het seizoen 2009/10 in dienst bij FC Istres, waarvoor hij ook in 2004/2005 speelde. Daarnaast kwam hij meer dan veertig keer uit voor het Algerijns voetbalelftal, waaronder op het WK 2010. In november 2010 tekende hij een contract bij Amiens SC. Sa\u00EFfi werd in 2008 verkozen tot Algerijns Voetballer van het Jaar."@nl ,
+		"Rafik Sa\u00EFfi (Arabic: \u0631\u0641\u064A\u0642 \u0635\u0627\u064A\u0641\u064A\u200E; born February 7, 1975 in Algiers) is an Algerian professional football player who is currently playing for Amiens SC in the Championnat National." ,
+		"\u0420\u0430\u0444\u0438\u043A \u0421\u0430\u0438\u0444\u0438 (\u0430\u0440\u0430\u0431. \u064A\u0632\u064A\u062F \u0645\u0646\u0635\u0648\u0631\u064A\u200E\u200E; 7 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1975, \u0410\u043B\u0436\u0438\u0440) \u2014 \u0430\u043B\u0436\u0438\u0440\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0438\u0439 \u0437\u0430 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u043A\u043B\u0443\u0431 \u00AB\u0410\u043C\u044C\u0435\u043D\u00BB, \u0431\u044B\u0432\u0448\u0438\u0439 \u0438\u0433\u0440\u043E\u043A \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0410\u043B\u0436\u0438\u0440\u0430. \u0421\u0430\u0438\u0444\u0438 \u043E\u0431\u044B\u0447\u043D\u043E \u0438\u0433\u0440\u0430\u0435\u0442 \u043D\u0430 \u043F\u043E\u0437\u0438\u0446\u0438\u0438 \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0435\u0433\u043E, \u0442\u0430\u043A\u0436\u0435 \u0441\u043F\u043E\u0441\u043E\u0431\u0435\u043D \u0441\u044B\u0433\u0440\u0430\u0442\u044C \u043D\u0430 \u043C\u0435\u0441\u0442\u0435 \u0430\u0442\u0430\u043A\u0443\u044E\u0449\u0435\u0433\u043E \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A\u0430."@ru ,
+		"Rafik Sa\u00EFfi (Argel, 7 de febrero de 1975) es un futbolista argelino que actualmente juega en Amiens SC en el Nacional de Championnat."@es ,
+		"Rafik Sa\u00EFfi, n\u00E9 le 7 f\u00E9vrier 1975 \u00E0 Alger, est un ancien footballeur international alg\u00E9rien, retrait\u00E9 depuis 2012 et qui \u00E9voluait au poste d'attaquant. Il a \u00E9t\u00E9 \u00E9lu Ballon d'Or alg\u00E9rien en 2008.Il travaille \u00E0 la chaine alg\u00E9rienne El Djazaira comme analyseur sur la CAN 2012."@fr ,
+		"Rafik Sa\u00EFfi (Algeri, 7 febbraio 1975) \u00E8 un calciatore algerino, centrocampista dell'Amiens."@it ,
+		"\u0631\u0641\u064A\u0642 \u0635\u0627\u064A\u0641\u064A \u0647\u0648 \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u062C\u0632\u0627\u0626\u0631\u064A\u060C \u0648\u0644\u062F \u0641\u064A 07 \u0641\u0628\u0631\u0627\u064A\u0631 1975 \u0628\u0627\u0644\u062C\u0632\u0627\u0626\u0631 \u0627\u0644\u0639\u0627\u0635\u0645\u0629. \u0643\u0645\u0627 \u064A\u0639\u062F \u0645\u0646 \u0623\u0628\u0631\u0632 \u0644\u0627\u0639\u0628\u064A \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u062C\u0632\u0627\u0626\u0631\u064A\u060C \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0623\u0645\u064A\u0627\u0646 \u0627\u0644\u0641\u0631\u0646\u0633\u064A."@ar ;
+	foaf:surname	"Saifi" ;
+	foaf:isPrimaryTopicOf	ns1:Rafik_Saïfi .
+@prefix ns17:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi>	dbpprop:hasPhotoCollection	ns17:Rafik_Saïfi ;
+	dbpprop:name	"Saifi, Rafik" ,
+		"Rafik Sa\u00EFfi" ;
+	dbpedia-owl:abstract	"Rafik Sa\u00EFfi (arabisch \u200F\u0631\u0641\u064A\u0642 \u0635\u0627\u064A\u0641\u064A\u200E, DMG Raf\u012Bq \u1E62\u0101yif\u012B; * 7. Februar 1975 in Algier) ist ein algerischer Fu\u00DFballspieler. Er spielt auf der Position eines St\u00FCrmers."@de ,
+		"\u30E9\u30D5\u30A3\u30AF\u30FB\u30B5\u30A4\u30D5\u30A3\uFF08\u30A2\u30E9\u30D3\u30A2\u8A9E: \u0631\u0641\u064A\u0642 \u0635\u0627\u064A\u0641\u064A\u200E, Rafik Sa\u00EFfi, 1975\u5E742\u67087\u65E5 - \uFF09\u306F\u3001\u30A2\u30EB\u30B8\u30A7\u30EA\u30A2\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9\u3002"@ja ,
+		"\u0631\u0641\u064A\u0642 \u0635\u0627\u064A\u0641\u064A \u0647\u0648 \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u062C\u0632\u0627\u0626\u0631\u064A\u060C \u0648\u0644\u062F \u0641\u064A 07 \u0641\u0628\u0631\u0627\u064A\u0631 1975 \u0628\u0627\u0644\u062C\u0632\u0627\u0626\u0631 \u0627\u0644\u0639\u0627\u0635\u0645\u0629. \u0643\u0645\u0627 \u064A\u0639\u062F \u0645\u0646 \u0623\u0628\u0631\u0632 \u0644\u0627\u0639\u0628\u064A \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u062C\u0632\u0627\u0626\u0631\u064A\u060C \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0623\u0645\u064A\u0627\u0646 \u0627\u0644\u0641\u0631\u0646\u0633\u064A."@ar ,
+		"Rafik Sa\u00EFfi (urodzony 7 lutego 1975 w Algierze) \u2013 algierski pi\u0142karz, graj\u0105cy na pozycji pomocnika. Aktualnie zwi\u0105zany kontraktem z francuskim klubem, FC Istres. Karier\u0119 zaczyna\u0142 w klubie z rodzinnego miasta - MC Algier, kt\u00F3remu pom\u00F3g\u0142 w zdobyciu mistrzostwa kraju. W 1999 roku, maj\u0105c 24 lata wyjecha\u0142 do Francji, zasilaj\u0105c szeregi Troyes AC. Tam gra\u0142 przez 5 sezon\u00F3w, by w 2004 roku przenie\u015B\u0107 si\u0119 do FC Istres. Nast\u0119pnie gra\u0142 w AC Ajaccio (2005-2006), FC Lorient (2006-2009). W sezonie 2007/2008 zaliczy\u0142 sw\u00F3j najlepszy sezon we Francji, zdobywaj\u0105c dla Lorient 14 goli.W 2009 Sa\u00EFfi odszed\u0142 do katarskiego Al Khor. Nast\u0119pnie powr\u00F3ci\u0142 do FC Istres."@pl ,
+		"Rafik Sa\u00EFfi - em \u00E1rabe, \u0631\u0641\u064A\u0642 \u0635\u0627\u064A\u0641\u064A (Argel, 7 de fevereiro de 1975) - \u00E9 um futebolista da Arg\u00E9lia que joga na posi\u00E7\u00E3o de medio."@pt ,
+		"Rafik Sa\u00EFfi (Argel, 7 de febrero de 1975) es un futbolista argelino que actualmente juega en Amiens SC en el Nacional de Championnat."@es ,
+		"Rafik Sa\u00EFfi, n\u00E9 le 7 f\u00E9vrier 1975 \u00E0 Alger, est un ancien footballeur international alg\u00E9rien, retrait\u00E9 depuis 2012 et qui \u00E9voluait au poste d'attaquant. Il a \u00E9t\u00E9 \u00E9lu Ballon d'Or alg\u00E9rien en 2008.Il travaille \u00E0 la chaine alg\u00E9rienne El Djazaira comme analyseur sur la CAN 2012."@fr ,
+		"Rafik Sa\u00EFfi (Algiers, 7 februari 1975) is een Algerijns voetballer. Hij trad in het seizoen 2009/10 in dienst bij FC Istres, waarvoor hij ook in 2004/2005 speelde. Daarnaast kwam hij meer dan veertig keer uit voor het Algerijns voetbalelftal, waaronder op het WK 2010. In november 2010 tekende hij een contract bij Amiens SC. Sa\u00EFfi werd in 2008 verkozen tot Algerijns Voetballer van het Jaar."@nl ,
+		"Rafik Sa\u00EFfi (Arabic: \u0631\u0641\u064A\u0642 \u0635\u0627\u064A\u0641\u064A\u200E; born February 7, 1975 in Algiers) is an Algerian professional football player who is currently playing for Amiens SC in the Championnat National." ,
+		"Rafik Sa\u00EFfi (Algeri, 7 febbraio 1975) \u00E8 un calciatore algerino, centrocampista dell'Amiens."@it ,
+		"\u0420\u0430\u0444\u0438\u043A \u0421\u0430\u0438\u0444\u0438 (\u0430\u0440\u0430\u0431. \u064A\u0632\u064A\u062F \u0645\u0646\u0635\u0648\u0631\u064A\u200E\u200E; 7 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1975, \u0410\u043B\u0436\u0438\u0440) \u2014 \u0430\u043B\u0436\u0438\u0440\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0438\u0439 \u0437\u0430 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u043A\u043B\u0443\u0431 \u00AB\u0410\u043C\u044C\u0435\u043D\u00BB, \u0431\u044B\u0432\u0448\u0438\u0439 \u0438\u0433\u0440\u043E\u043A \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0410\u043B\u0436\u0438\u0440\u0430. \u0421\u0430\u0438\u0444\u0438 \u043E\u0431\u044B\u0447\u043D\u043E \u0438\u0433\u0440\u0430\u0435\u0442 \u043D\u0430 \u043F\u043E\u0437\u0438\u0446\u0438\u0438 \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0435\u0433\u043E, \u0442\u0430\u043A\u0436\u0435 \u0441\u043F\u043E\u0441\u043E\u0431\u0435\u043D \u0441\u044B\u0433\u0440\u0430\u0442\u044C \u043D\u0430 \u043C\u0435\u0441\u0442\u0435 \u0430\u0442\u0430\u043A\u0443\u044E\u0449\u0435\u0433\u043E \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A\u0430."@ru ;
+	dbpedia-owl:wikiPageID	6950595 ;
+	dbpedia-owl:wikiPageRevisionID	592479263 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi>	dbpprop:birthDate	"1975-02-07+02:00"^^xsd:date .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi>	dbpprop:birthPlace	dbpedia:Algeria ,
+		dbpedia:Algiers ;
+	dbpprop:dateOfBirth	"1975-02-07+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	dbpedia:Algeria ,
+		dbpedia:Algiers ;
+	dbpprop:shortDescription	"Algerian footballer" ;
+	dbpedia-owl:birthDate	"1975-02-07+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Algeria ,
+		dbpedia:Algiers ;
+	dbpedia-owl:birthYear	"1975+02:00"^^xsd:gYear ;
+	dbpprop:goals	31 ,
+		26 ,
+		27 ,
+		20 ,
+		19 ,
+		4 ,
+		5 ,
+		2 ;
+	dbpprop:bg	"white" ;
+	dbpprop:caps	110 ,
+		95 ,
+		35 ,
+		29 ,
+		25 ,
+		26 ,
+		18 ,
+		13 ,
+		10 ;
+	dbpprop:years	1994 ,
+		1995 ,
+		1993 ,
+		1999 ,
+		1996 ,
+		2010 ,
+		2009 ,
+		2006 ,
+		2004 ,
+		2005 ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi__7> ,
+		<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi__8> ,
+		<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi__9> ,
+		<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi__12> ,
+		<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi__11> ,
+		<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi__3> ,
+		<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi__5> ,
+		<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi__6> ,
+		<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi__4> ,
+		<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi__2> ,
+		<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi__10> ,
+		<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi__1> ;
+	dbpprop:position	dbpedia:Midfielder ,
+		<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Forward_(association_football)> ,
+		dbpedia:Midfielder ;
+	dbpedia-owl:height	1.7800000000000000266 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi>	ns21:height	"178.0"^^ns20:centimetre ;
+	dbpprop:currentclub	dbpedia:Amiens_SC ;
+	dbpprop:clubnumber	13 ;
+	dbpprop:fullname	"Rafik Sa\u00EFfi" ;
+	dbpprop:clubs	dbpedia:Amiens_SC ,
+		dbpedia:FC_Lorient ,
+		dbpedia:Troyes_AC ,
+		dbpedia:IRB_Sougueur ,
+		"\u2192 Istres" ,
+		dbpedia:MC_Alger ,
+		dbpedia:FC_Istres ,
+		dbpedia:AC_Ajaccio ,
+		dbpedia:Al-Khor_Sports_Club ,
+		<http://dbpedia.org/resource/IB_Kh%C3%A9mis_El_Khechna> ,
+		dbpedia:CM_Bordj_El_Kiffan ;
+	dbpedia-owl:team	dbpedia:Amiens_SC ,
+		dbpedia:FC_Lorient ,
+		dbpedia:Troyes_AC ,
+		dbpedia:IRB_Sougueur ,
+		dbpedia:MC_Alger ,
+		dbpedia:Algeria_national_football_team ,
+		dbpedia:FC_Istres ,
+		dbpedia:AC_Ajaccio ,
+		dbpedia:Al-Khor_Sports_Club ,
+		<http://dbpedia.org/resource/IB_Kh%C3%A9mis_El_Khechna> ,
+		dbpedia:CM_Bordj_El_Kiffan .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Algeria squads" ;
+	dbpprop:pcupdate	"--09-30+02:00"^^xsd:gMonthDay ;
+	dbpprop:fg	"green" ;
+	dbpprop:nationalcaps	64 ;
+	dbpprop:nationalgoals	18 ;
+	dbpprop:nationalteam	dbpedia:Algeria_national_football_team ;
+	dbpprop:nationalyears	1998 ;
+	dbpedia-owl:number	13 ;
+	dbpprop:ntupdate	"--09-30+02:00"^^xsd:gMonthDay .
+<http://dbpedia.org/resource/2000_African_Cup_of_Nations_squads>	dbpprop:name	<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi> .
+dbpedia:Rafik	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi> .
+<http://dbpedia.org/resource/2002_African_Cup_of_Nations_squads>	dbpprop:name	<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi> .
+dbpedia:Rafik_Saïfi	owl:sameAs	<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi> .
+dbpedia:Rafik_Saifi	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Rafik_Sa%C3%AFfi> .

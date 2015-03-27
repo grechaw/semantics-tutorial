@@ -1,0 +1,660 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xml:base="http://www.daml.org/2001/12/factbook/ku">
+  <rdf:Description rdf:about='#A125292'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#NL'/>
+    <NS0:percent>7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57868'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>0</NS0:maxAge>
+    <NS0:ratio>1.04</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58145'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125287'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#SN'/>
+    <NS0:percent>8</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#Governorate'>
+    <rdf:type rdf:resource='http://www.w3.org/2000/01/rdf-schema#Class'/>
+    <rdfs:subClassOf rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AdministrativeDivision'/>
+    <rdfs:label>Governorate</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125282'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#US'/>
+    <NS0:percent>12</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58234'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125277'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#JA'/>
+    <NS0:percent>23</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58065'>
+    <NS0:year>1996</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125272'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#SA'/>
+    <NS0:distance>222</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58115'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>f.o.b., 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125267'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#IZ'/>
+    <NS0:distance>242</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58227'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58111'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58221'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:maxRunway>913</NS0:maxRunway>
+    <NS0:count>3 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57894'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58214'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>1524</NS0:minRunway>
+    <NS0:maxRunway>2437</NS0:maxRunway>
+    <NS0:count>1</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58067'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58207'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>2438</NS0:minRunway>
+    <NS0:maxRunway>3047</NS0:maxRunway>
+    <NS0:count>2 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58097'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58060'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57819'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>unnamed location</NS0:name>
+    <NS0:elevation>306</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58201'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>3048</NS0:minRunway>
+    <NS0:count>2</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57856'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57814'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Persian Gulf</NS0:name>
+    <NS0:elevation>0</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58194'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Mina&apos; Su&apos;ud</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58153'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57900'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58190'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Mina&apos; al Ahmadi</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58054'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58100'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57996'>
+    <rdf:type rdf:resource='#Governorate'/>
+    <NS0:name>Hawalli</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58186'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Mina&apos; &apos;Abd Allah</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57992'>
+    <rdf:type rdf:resource='#Governorate'/>
+    <NS0:name>Al Jahra&apos;</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58182'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Kuwait</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57799'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>29.5</NS0:latitude>
+    <NS0:longitude>45.75</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57988'>
+    <rdf:type rdf:resource='#Governorate'/>
+    <NS0:name>Al &apos;Asimah</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58178'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Ash Shuwaykh</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57984'>
+    <rdf:type rdf:resource='#Governorate'/>
+    <NS0:name>Al Farwaniyah</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58174'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Ash Shu&apos;aybah</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57980'>
+    <rdf:type rdf:resource='#Governorate'/>
+    <NS0:name>Al Ahmadi</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57973'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CapitalCity'/>
+    <NS0:name>Kuwait</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58231'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57958'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#English_widely_spoken'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57862'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58198'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125296'>
+    <NS0:note>1999</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58165'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57897'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57953'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Arabic'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58141'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#clothing'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58160'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57956'>
+    <NS0:note>official</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57948'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#other'/>
+    <NS0:percent>15</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125317'>
+    <NS0:note>1999</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58137'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#vehicles_and_parts'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58148'>
+    <NS0:year>1995</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58109'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57944'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Parsi'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58133'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#construction_materials'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57859'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57940'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Hindu'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58129'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#food'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57936'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Christian'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58107'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58122'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#fertilizers'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58167'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58171'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57930'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Muslim'/>
+    <NS0:percent>85</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58155'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58118'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#oil_and_refined_products'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57925'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#other'/>
+    <NS0:percent>7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58126'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>f.o.b., 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57920'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Iranian'/>
+    <NS0:percent>4</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57865'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57915'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#South_Asian'/>
+    <NS0:percent>9</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57910'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#other_Arab'/>
+    <NS0:percent>35</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58105'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57934'>
+    <NS0:note>Sunni 45%, Shi&apos;a 40%</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57905'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Kuwaiti'/>
+    <NS0:percent>45</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57835'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57891'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:ratio>1.51</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58082'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#services'/>
+    <NS0:percent>NA</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58240'>
+    <NS0:note>FY00/01</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125313'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#GM'/>
+    <NS0:percent>7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57965'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1995</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58237'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57886'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>65</NS0:minAge>
+    <NS0:ratio>1.81</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#KU'>
+    <NS0:background>Kuwait was attacked and overrun by Iraq on 2 August 1990. Following several weeks of aerial bombardment, a US-led UN coalition began a ground assault on 23 February 1991 that completely liberated Kuwait in four days. Kuwait has spent more than $5 billion to repair oil infrastructure damaged during 1990-91.</NS0:background>
+    <NS0:location>Middle East, bordering the Persian Gulf, between Iraq and Saudi Arabia</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A57799'/>
+    <NS0:mapReferences>Middle East</NS0:mapReferences>
+    <NS0:totalArea>17820</NS0:totalArea>
+    <NS0:landArea>17820</NS0:landArea>
+    <NS0:waterArea>0</NS0:waterArea>
+    <NS0:comparativeArea>slightly smaller than New Jersey</NS0:comparativeArea>
+    <NS0:landBoundaries>464</NS0:landBoundaries>
+    <NS0:coastline>499</NS0:coastline>
+    <NS0:territorialSea>12</NS0:territorialSea>
+    <NS0:climate>dry desert; intensely hot summers; short, cool winters</NS0:climate>
+    <NS0:terrain>flat to slightly undulating desert plain</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A57814'/>
+    <NS0:highestPoint rdf:resource='#A57819'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#petroleum'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#fish'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#shrimp'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#natural_gas'/>
+    <NS0:arableLand>0</NS0:arableLand>
+    <NS0:permanentCrops>0</NS0:permanentCrops>
+    <NS0:permanentPastures>8</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>0</NS0:forestsAndWoodland>
+    <NS0:otherLandUse rdf:ID='A57832'>92</NS0:otherLandUse>
+    <NS0:irrigatedLand rdf:ID='A57835'>20</NS0:irrigatedLand>
+    <NS0:naturalHazard>sudden cloudbursts are common from October to April</NS0:naturalHazard>
+    <NS0:naturalHazard>they bring inordinate amounts of rain which can damage roads and houses</NS0:naturalHazard>
+    <NS0:naturalHazard>sandstorms and dust storms occur throughout the year, but are most common between March and August</NS0:naturalHazard>
+    <NS0:environmentalIssue>limited natural fresh water resources</NS0:environmentalIssue>
+    <NS0:environmentalIssue>some of world&apos;s largest and most sophisticated desalination facilities provide much of the water</NS0:environmentalIssue>
+    <NS0:environmentalIssue>air and water pollution</NS0:environmentalIssue>
+    <NS0:environmentalIssue>desertification</NS0:environmentalIssue>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Climate_Change'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Desertification'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Environmental_Modification'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Hazardous_Wastes'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Law_of_the_Sea'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Nuclear_Test_Ban'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Ozone_Layer_Protection'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Biodiversity'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Endangered_Species'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Marine_Dumping'/>
+    <NS0:population>2041961</NS0:population>
+    <NS0:populationGrowthRate rdf:ID='A57856'>3.38</NS0:populationGrowthRate>
+    <NS0:birthRate rdf:ID='A57859'>21.91</NS0:birthRate>
+    <NS0:deathRate rdf:ID='A57862'>2.45</NS0:deathRate>
+    <NS0:netMigrationRate rdf:ID='A57865'>14.31</NS0:netMigrationRate>
+    <NS0:sexRatio rdf:resource='#A57868'/>
+    <NS0:sexRatio rdf:resource='#A57874'/>
+    <NS0:sexRatio rdf:resource='#A57880'/>
+    <NS0:sexRatio rdf:resource='#A57886'/>
+    <NS0:sexRatio rdf:ID='A57894' rdf:resource='#A57891'/>
+    <NS0:infantMortalityRate rdf:ID='A57897'>11.18</NS0:infantMortalityRate>
+    <NS0:totalFertilityRate rdf:ID='A57900'>3.2</NS0:totalFertilityRate>
+    <NS0:nationalityNoun>Kuwaiti(s)</NS0:nationalityNoun>
+    <NS0:nationalityAdjective>Kuwaiti</NS0:nationalityAdjective>
+    <NS0:ethnicGroup rdf:resource='#A57905'/>
+    <NS0:ethnicGroup rdf:resource='#A57910'/>
+    <NS0:ethnicGroup rdf:resource='#A57915'/>
+    <NS0:ethnicGroup rdf:resource='#A57920'/>
+    <NS0:ethnicGroup rdf:resource='#A57925'/>
+    <NS0:religion rdf:ID='A57934' rdf:resource='#A57930'/>
+    <NS0:religion rdf:resource='#A57936'/>
+    <NS0:religion rdf:resource='#A57940'/>
+    <NS0:religion rdf:resource='#A57944'/>
+    <NS0:religion rdf:resource='#A57948'/>
+    <NS0:language rdf:ID='A57956' rdf:resource='#A57953'/>
+    <NS0:language rdf:resource='#A57958'/>
+    <NS0:literacyDefinition>age 15 and over can read and write</NS0:literacyDefinition>
+    <NS0:literacyTotal>78.6</NS0:literacyTotal>
+    <NS0:literacyMale>82.2</NS0:literacyMale>
+    <NS0:literacyFemale rdf:ID='A57965'>74.9</NS0:literacyFemale>
+    <NS0:conventionalLongCountryName>State of Kuwait</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Kuwait</NS0:conventionalShortCountryName>
+    <NS0:localLongCountryName>Dawlat al Kuwayt</NS0:localLongCountryName>
+    <NS0:localShortCountryName>Al Kuwayt</NS0:localShortCountryName>
+    <NS0:governmentType rdf:resource='http://www.daml.org/2001/12/factbook/governmentTypes#nominal_constitutional_monarchy'/>
+    <NS0:capital rdf:resource='#A57973'/>
+    <NS0:administrativeDivision rdf:resource='#A57980'/>
+    <NS0:administrativeDivision rdf:resource='#A57984'/>
+    <NS0:administrativeDivision rdf:resource='#A57988'/>
+    <NS0:administrativeDivision rdf:resource='#A57992'/>
+    <NS0:administrativeDivision rdf:resource='#A57996'/>
+    <NS0:independence>19 June 1961 (from UK)</NS0:independence>
+    <NS0:constitution>approved and promulgated 11 November 1962</NS0:constitution>
+    <NS0:legalSystem>civil law system with Islamic law significant in personal matters; has not accepted compulsory ICJ jurisdiction</NS0:legalSystem>
+    <NS0:suffrage>adult males who have been naturalized for 30 years or more or have resided in Kuwait since before 1920 and their male descendants at age 21</NS0:suffrage>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ABEDA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#AfDB'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#AFESD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#AL'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#AMF'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#BDEAC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CAEU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CCC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ESCWA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#FAO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#G-77'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#GCC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IAEA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IBRD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICAO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICRM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IDA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IDB'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFAD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFRCS'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ILO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IMF'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IMO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Inmarsat'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Intelsat'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Interpol'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IOC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ISO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ITU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NAM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OAPEC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OIC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OPCW'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OPEC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UN'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNCTAD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNESCO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNIDO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNITAR'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UPU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WFTU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WHO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WIPO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WMO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WToO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WTrO'/>
+    <NS0:flagDescription>three equal horizontal bands of green (top), white, and red with a black trapezoid based on the hoist side</NS0:flagDescription>
+    <NS0:economyOverview>Kuwait is a small, relatively open economy with proved crude oil reserves of about 94 billion barrels - 10% of world reserves. Petroleum accounts for nearly half of GDP, 90% of export revenues, and 75% of government income. Kuwait&apos;s climate limits agricultural development. Consequently, with the exception of fish, it depends almost wholly on food imports. About 75% of potable water must be distilled or imported. Higher oil prices put the FY99/00 budget into a $2 billion surplus. The FY00/01 budget covers only nine months because of a change in the fiscal year. The budget for FY01/02, which begins 1 April, contains higher expenditures for salaries, construction, and other general categories. Kuwait continues its discussions with foreign oil companies to develop fields in the northern part of the country.</NS0:economyOverview>
+    <NS0:grossDomesticProduct rdf:ID='A58054'>29300000000</NS0:grossDomesticProduct>
+    <NS0:grossDomesticProductRealGrowth rdf:ID='A58057'>6</NS0:grossDomesticProductRealGrowth>
+    <NS0:grossDomesticProductPerCapita rdf:ID='A58060'>15000</NS0:grossDomesticProductPerCapita>
+    <NS0:grossDomesticProductAgriculture>0</NS0:grossDomesticProductAgriculture>
+    <NS0:grossDomesticProductIndustry>55</NS0:grossDomesticProductIndustry>
+    <NS0:grossDomesticProductServices rdf:ID='A58065'>45</NS0:grossDomesticProductServices>
+    <NS0:inflationRate rdf:ID='A58067'>3</NS0:inflationRate>
+    <NS0:laborForce rdf:ID='A58069'>1300000</NS0:laborForce>
+    <NS0:occupation rdf:resource='#A58072'/>
+    <NS0:occupation rdf:resource='#A58077'/>
+    <NS0:occupation rdf:resource='#A58082'/>
+    <NS0:unemploymentRate rdf:ID='A58087'>1.8</NS0:unemploymentRate>
+    <NS0:budgetRevenues>11500000000</NS0:budgetRevenues>
+    <NS0:budgetExpenditures>17200000000</NS0:budgetExpenditures>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#petroleum'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#petrochemicals'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#desalination'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#food_processing'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#construction_materials'/>
+    <NS0:industrialProductionGrowthRate rdf:ID='A58097'>1</NS0:industrialProductionGrowthRate>
+    <NS0:electricityProduction rdf:ID='A58100'>31567000000</NS0:electricityProduction>
+    <NS0:electricityProductionFossilFuel>100</NS0:electricityProductionFossilFuel>
+    <NS0:electricityProductionHydro>0</NS0:electricityProductionHydro>
+    <NS0:electricityProductionNuclear>0</NS0:electricityProductionNuclear>
+    <NS0:electricityProductionOther rdf:ID='A58105'>0</NS0:electricityProductionOther>
+    <NS0:electricityConsumption rdf:ID='A58107'>29357000000</NS0:electricityConsumption>
+    <NS0:electricityExports rdf:ID='A58109'>0</NS0:electricityExports>
+    <NS0:electricityImports rdf:ID='A58111'>0</NS0:electricityImports>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#practically_no_crops'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#fish'/>
+    <NS0:exports rdf:ID='A58115'>23200000000</NS0:exports>
+    <NS0:exportsCommodity rdf:resource='#A58118'/>
+    <NS0:exportsCommodity rdf:resource='#A58122'/>
+    <NS0:imports rdf:ID='A58126'>7600000000</NS0:imports>
+    <NS0:importsCommodity rdf:resource='#A58129'/>
+    <NS0:importsCommodity rdf:resource='#A58133'/>
+    <NS0:importsCommodity rdf:resource='#A58137'/>
+    <NS0:importsCommodity rdf:resource='#A58141'/>
+    <NS0:externalDebt rdf:ID='A58145'>6900000000</NS0:externalDebt>
+    <NS0:economicAidRecipient rdf:ID='A58148'>27600000</NS0:economicAidRecipient>
+    <NS0:currency>Kuwaiti dinar (KWD)</NS0:currency>
+    <NS0:currencyCode>KWD</NS0:currencyCode>
+    <NS0:fiscalYear>1 April - 31 March</NS0:fiscalYear>
+    <NS0:mainTelephoneLines rdf:ID='A58153'>412000</NS0:mainTelephoneLines>
+    <NS0:mobileTelephoneLines rdf:ID='A58155'>210000</NS0:mobileTelephoneLines>
+    <NS0:telephoneSystemGeneralAssessment>the quality of service is excellent</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>new telephone exchanges provide a large capacity for new subscribers; trunk traffic is carried by microwave radio relay, coaxial cable, open wire, and fiber-optic cable; a cellular telephone system operates throughout Kuwait, and the country is well supplied with pay telephones</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>coaxial cable and microwave radio relay to Saudi Arabia; linked to Bahrain, Qatar, UAE via the Fiber-Optic Gulf (FOG) cable; satellite earth stations - 3 Intelsat (1 Atlantic Ocean, 2 Indian Ocean), 1 Inmarsat (Atlantic Ocean), and 2 Arabsat</NS0:telephoneSystemInternational>
+    <NS0:radios rdf:ID='A58160'>1175000</NS0:radios>
+    <NS0:televisions rdf:ID='A58162'>875000</NS0:televisions>
+    <NS0:internetCountryCode>.kw</NS0:internetCountryCode>
+    <NS0:internetServiceProviders rdf:ID='A58165'>3</NS0:internetServiceProviders>
+    <NS0:internetUsers rdf:ID='A58167'>100000</NS0:internetUsers>
+    <NS0:highwaysTotal>4450</NS0:highwaysTotal>
+    <NS0:highwaysPaved>3590</NS0:highwaysPaved>
+    <NS0:highwaysUnpaved rdf:ID='A58171'>860</NS0:highwaysUnpaved>
+    <NS0:port rdf:resource='#A58174'/>
+    <NS0:port rdf:resource='#A58178'/>
+    <NS0:port rdf:resource='#A58182'/>
+    <NS0:port rdf:resource='#A58186'/>
+    <NS0:port rdf:resource='#A58190'/>
+    <NS0:port rdf:resource='#A58194'/>
+    <NS0:airports rdf:ID='A58198'>8</NS0:airports>
+    <NS0:airportBreakdown rdf:resource='#A58201'/>
+    <NS0:airportBreakdown rdf:resource='#A58207'/>
+    <NS0:airportBreakdown rdf:resource='#A58214'/>
+    <NS0:airportBreakdown rdf:resource='#A58221'/>
+    <NS0:heliports rdf:ID='A58227'>3</NS0:heliports>
+    <NS0:militaryAge>18</NS0:militaryAge>
+    <NS0:malesOfMilitaryAge rdf:ID='A58231'>780559</NS0:malesOfMilitaryAge>
+    <NS0:malesFitForMilitaryService rdf:ID='A58234'>466521</NS0:malesFitForMilitaryService>
+    <NS0:malesReachingMilitaryAgeAnnually rdf:ID='A58237'>18309</NS0:malesReachingMilitaryAgeAnnually>
+    <NS0:militaryExpenditures rdf:ID='A58240'>1900000000</NS0:militaryExpenditures>
+    <NS0:militaryExpendituresPercentGDP rdf:ID='A58242'>8.7</NS0:militaryExpendituresPercentGDP>
+    <NS0:internationalDispute>in November 1994, Iraq formally accepted the UN-demarcated border with Kuwait which had been spelled out in Security Council Resolutions 687 , 773 (1993), and 883 (1993)</NS0:internationalDispute>
+    <NS0:internationalDispute>this formally ends earlier claims to Kuwait and to Bubiyan and Warbah islands</NS0:internationalDispute>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/ku-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/ku-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/ku-map.jpg</NS0:map>
+    <NS0:border rdf:resource='#A125267'/>
+    <NS0:border rdf:resource='#A125272'/>
+    <NS0:exportPartner rdf:resource='#A125277'/>
+    <NS0:exportPartner rdf:resource='#A125282'/>
+    <NS0:exportPartner rdf:resource='#A125287'/>
+    <NS0:exportPartner rdf:ID='A125296' rdf:resource='#A125292'/>
+    <NS0:importPartner rdf:resource='#A125298'/>
+    <NS0:importPartner rdf:resource='#A125303'/>
+    <NS0:importPartner rdf:resource='#A125308'/>
+    <NS0:importPartner rdf:ID='A125317' rdf:resource='#A125313'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58077'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#industry'/>
+    <NS0:percent>NA</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125308'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#UK'/>
+    <NS0:percent>7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58162'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58242'>
+    <NS0:note>FY00/01</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58087'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>official 1996</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58072'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#agriculture'/>
+    <NS0:percent>NA</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57832'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57880'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>15</NS0:minAge>
+    <NS0:maxAge>64</NS0:maxAge>
+    <NS0:ratio>1.77</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125303'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#JA'/>
+    <NS0:percent>10</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58057'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A58069'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1998</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125298'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#US'/>
+    <NS0:percent>15</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A57874'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>14</NS0:maxAge>
+    <NS0:ratio>1.04</NS0:ratio>
+  </rdf:Description>
+</rdf:RDF>

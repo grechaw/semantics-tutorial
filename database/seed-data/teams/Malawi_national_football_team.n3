@@ -1,0 +1,481 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_du_Malawi_de_football	owl:sameAs	dbpedia:Malawi_national_football_team .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Malawische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Malawi_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q365548	owl:sameAs	dbpedia:Malawi_national_football_team .
+@prefix ns5:	<http://cs.dbpedia.org/resource/> .
+ns5:Fotbalová_reprezentace_Malawi	owl:sameAs	dbpedia:Malawi_national_football_team .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Selección_de_fútbol_de_Malaui	owl:sameAs	dbpedia:Malawi_national_football_team .
+@prefix ns7:	<http://id.dbpedia.org/resource/> .
+ns7:Tim_nasional_sepak_bola_Malawi	owl:sameAs	dbpedia:Malawi_national_football_team .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Nazionale_di_calcio_del_Malawi	owl:sameAs	dbpedia:Malawi_national_football_team .
+@prefix ns9:	<http://ja.dbpedia.org/resource/> .
+ns9:サッカーマラウイ代表	owl:sameAs	dbpedia:Malawi_national_football_team .
+@prefix ns10:	<http://ko.dbpedia.org/resource/> .
+ns10:말라위_축구_국가대표팀	owl:sameAs	dbpedia:Malawi_national_football_team .
+@prefix ns11:	<http://nl.dbpedia.org/resource/> .
+ns11:Malawisch_voetbalelftal	owl:sameAs	dbpedia:Malawi_national_football_team .
+@prefix ns12:	<http://pl.dbpedia.org/resource/> .
+ns12:Reprezentacja_Malawi_w_piłce_nożnej	owl:sameAs	dbpedia:Malawi_national_football_team .
+@prefix ns13:	<http://pt.dbpedia.org/resource/> .
+ns13:Seleção_Malauiana_de_Futebol	owl:sameAs	dbpedia:Malawi_national_football_team .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Lawrence_Waya	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Lawrence_Waya	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns17:	<http://en.wikipedia.org/wiki/> .
+ns17:Malawi_national_football_team	foaf:primaryTopic	dbpedia:Malawi_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Malawi_national_football_team	rdf:type	yago:YagoPermanentlyLocatedEntity ,
+		yago:AfricanNationalAssociationFootballTeams ,
+		dbpedia-owl:Organisation ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ,
+		yago:FootballTeam108080025 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Malawi_national_football_team	rdf:type	dul:SocialPerson ,
+		yago:NationalSportsTeamsOfMalawi .
+@prefix ns21:	<http://schema.org/> .
+dbpedia:Malawi_national_football_team	rdf:type	ns21:SportsTeam ,
+		yago:YagoLegalActorGeo ,
+		dul:Agent ,
+		yago:YagoLegalActor ,
+		ns21:Organization ,
+		dbpedia-owl:Agent ,
+		owl:Thing .
+@prefix ns22:	<http://yago-knowledge.org/resource/> .
+dbpedia:Malawi_national_football_team	owl:sameAs	ns22:Malawi_national_football_team .
+@prefix ns23:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Malawi_national_football_team	owl:sameAs	ns23:Đội_tuyển_bóng_đá_quốc_gia_Malawi ,
+		dbpedia:Malawi_national_football_team ,
+		ns11:Malawisch_voetbalelftal .
+@prefix ns24:	<http://et.dbpedia.org/resource/> .
+dbpedia:Malawi_national_football_team	owl:sameAs	ns24:Malawi_jalgpallikoondis ,
+		ns9:サッカーマラウイ代表 .
+@prefix ns25:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Malawi_national_football_team	owl:sameAs	ns25:Сборная_Малави_по_футболу ,
+		ns3:Malawische_Fußballnationalmannschaft ,
+		ns12:Reprezentacja_Malawi_w_piłce_nożnej .
+@prefix ns26:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Malawi_national_football_team	owl:sameAs	ns26:Malawis_herrlandslag_i_fotboll ,
+		ns10:말라위_축구_국가대표팀 ,
+		<http://rdf.freebase.com/ns/m.04gky_> .
+@prefix ns27:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Malawi_national_football_team	owl:sameAs	ns27:Збірна_Малаві_з_футболу .
+@prefix ns28:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Malawi_national_football_team	owl:sameAs	ns28:منتخب_مالاوي_لكرة_القدم .
+@prefix ns29:	<http://ca.dbpedia.org/resource/> .
+dbpedia:Malawi_national_football_team	owl:sameAs	ns29:Selecció_de_futbol_de_Malawi .
+@prefix ns30:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Malawi_national_football_team	owl:sameAs	ns30:Malawi_national_football_team ,
+		ns7:Tim_nasional_sepak_bola_Malawi .
+@prefix ns31:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Malawi_national_football_team	owl:sameAs	ns31:馬拉威國家足球隊 .
+@prefix ns32:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Malawi_national_football_team	owl:sameAs	ns32:Malawi_labdarúgó-válogatott .
+@prefix ns33:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Malawi_national_football_team	owl:sameAs	ns33:Malavi_Millî_Futbol_Takımı ,
+		ns5:Fotbalová_reprezentace_Malawi ,
+		ns6:Selección_de_fútbol_de_Malaui .
+@prefix ns34:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Malawi_national_football_team	owl:sameAs	ns34:تیم_ملی_فوتبال_مالاوی .
+@prefix ns35:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Malawi_national_football_team	owl:sameAs	ns35:Echipa_națională_de_fotbal_a_statului_Malawi .
+@prefix ns36:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Malawi_national_football_team	owl:sameAs	ns36:Malawin_jalkapallomaajoukkue .
+@prefix ns37:	<http://he.dbpedia.org/resource/> .
+dbpedia:Malawi_national_football_team	owl:sameAs	ns37:נבחרת_מלאווי_בכדורגל ,
+		ns1:Équipe_du_Malawi_de_football ,
+		ns8:Nazionale_di_calcio_del_Malawi .
+@prefix ns38:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Malawi_national_football_team	owl:sameAs	ns38:Malawi_national_football_team .
+@prefix ns39:	<http://no.dbpedia.org/resource/> .
+dbpedia:Malawi_national_football_team	owl:sameAs	ns39:Malawis_herrelandslag_i_fotball ,
+		ns13:Seleção_Malauiana_de_Futebol .
+@prefix ns40:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Malawi_national_football_team	owl:sameAs	ns40:Malavio_vyrų_futbolo_rinktinė .
+@prefix ns41:	<http://wikidata.org/entity/> .
+dbpedia:Malawi_national_football_team	owl:sameAs	ns41:Q365548 ,
+		ns4:Q365548 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Malawi_national_football_team	rdfs:label	"Reprezentacja Malawi w pi\u0142ce no\u017Cnej"@pl ,
+		"Selecci\u00F3n de f\u00FAtbol de Malaui"@es ,
+		"Malawi national football team" ,
+		"\u00C9quipe du Malawi de football"@fr ,
+		"Malawische Fu\u00DFballnationalmannschaft"@de ,
+		"Malawisch voetbalelftal"@nl ,
+		"\u30B5\u30C3\u30AB\u30FC\u30DE\u30E9\u30A6\u30A4\u4EE3\u8868"@ja ,
+		"Sele\u00E7\u00E3o Malauiana de Futebol"@pt ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u041C\u0430\u043B\u0430\u0432\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"Nazionale di calcio del Malawi"@it ,
+		"\u99AC\u62C9\u5A01\u570B\u5BB6\u8DB3\u7403\u968A"@zh ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0645\u0627\u0644\u0627\u0648\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Malawi_national_football_team	dcterms:subject	category:National_sports_teams_of_Malawi ,
+		category:African_national_association_football_teams ,
+		category:Malawi_national_football_team ;
+	foaf:homepage	<http://www.fam.mw/> ;
+	foaf:name	"Malawi" ;
+	foaf:nick	"The Flames" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Malawi_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Malawi_national_football_team?oldid=605817438> ;
+	rdfs:comment	"A Sele\u00E7\u00E3o Malauiana de Futebol representa o Malaui nas competi\u00E7\u00F5es de futebol da FIFA."@pt ,
+		"Die Malawische Fu\u00DFballnationalmannschaft untersteht der Football Association of Malawi und repr\u00E4sentiert den s\u00FCdafrikanischen Staat Malawi im Fu\u00DFball. Seit den 60er Jahren tr\u00E4gt der Verband L\u00E4nderspiele aus. Vor 1966 gab es die Nationalmannschaft von Nyassaland.Die gr\u00F6\u00DFten Erfolge feierte die Mannschaft in den 1980er Jahren. Bis zur Teilnahme am Afrika-Cup 2010 konnte sich Malawi nur 1984 f\u00FCr diesen Wettbewerb qualifizieren."@de ,
+		"\u0421\u0431\u043E\u0301\u0440\u043D\u0430\u044F \u041C\u0430\u043B\u0430\u0301\u0432\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u0301\u043B\u0443 \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u041C\u0430\u043B\u0430\u0432\u0438 \u043D\u0430 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u044B\u0445 \u0442\u0443\u0440\u043D\u0438\u0440\u0430\u0445 \u0438 \u0432 \u0442\u043E\u0432\u0430\u0440\u0438\u0449\u0435\u0441\u043A\u0438\u0445 \u043C\u0430\u0442\u0447\u0430\u0445. \u0421\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u043E\u0439 \u0438\u0437 \u0441\u043B\u0430\u0431\u0435\u0439\u0448\u0438\u0445 \u0441\u0431\u043E\u0440\u043D\u044B\u0445 \u0410\u0444\u0440\u0438\u043A\u0438, \u0445\u043E\u0442\u044F \u043F\u0440\u043E\u0448\u043B\u0430 \u0432 \u0444\u0438\u043D\u0430\u043B\u044C\u043D\u0443\u044E \u0447\u0430\u0441\u0442\u044C \u041A\u0410\u041D 2010. \u0412\u044B\u0441\u0448\u0435\u0435 \u0434\u043E\u0441\u0442\u0438\u0436\u0435\u043D\u0438\u0435: \u0431\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0435 \u043C\u0435\u0434\u0430\u043B\u0438 \u043D\u0430 \u0412\u0441\u0435\u0430\u0444\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0445 \u0438\u0433\u0440\u0430\u0445 1987 \u0433\u043E\u0434\u0430."@ru ,
+		"La nazionale di calcio del Malawi \u00E8 la rappresentativa calcistica dell'omonima nazione africana ed \u00E8 posta sotto l'egida della Football Association of Malawi (anno di fondazione 1966, affiliazione alla FIFA l'anno seguente).Non ha mai preso parte alla fase finale della Coppa del Mondo. Invece, nel 1984, ha disputato la Coppa d'Africa, raccogliendo un punto in tre partite, frutto di un pareggio 2-2 con la Nigeria."@it ,
+		"La Selecci\u00F3n de f\u00FAtbol de Malaui es el equipo representativo del pa\u00EDs en las competiciones oficiales. Es dirigida por la Asociaci\u00F3n de F\u00FAtbol de Malaui, perteneciente a la Confederaci\u00F3n Africana de F\u00FAtbol.Malaui nunca ha participado en la Copa Mundial de F\u00FAtbol, ni en los Juegos Ol\u00EDmpicos. En 1984 particip\u00F3 por primera en la Copa Africana de Naciones, siendo eliminada en la primera fase, al igual que en 2010."@es ,
+		"Reprezentacja Malawi w pi\u0142ce no\u017Cnej \u2013 kadra Malawi w pi\u0142ce no\u017Cnej m\u0119\u017Cczyzn. Jest kontrolowana przez Zwi\u0105zek Pi\u0142karski Malawi (Football Association of Malawi). Federacja zosta\u0142a za\u0142o\u017Cona w 1966, od 1967 jest cz\u0142onkiem FIFA, od 1968 CAF. Przydomek reprezentacji to 'P\u0142omienie'. Malawijczycy nigdy nie awansowali do fina\u0142\u00F3w Mistrzostw \u015Awiata, w 1984 dotarli do Rundy 1 Pucharu Narod\u00F3w Afryki. Dru\u017Cyna Malawi trzykrotnie triumfowa\u0142a w Pucharze CECAFA (1978, 1979, 1988)."@pl ,
+		"\u99AC\u62C9\u5A01\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u99AC\u62C9\u5A01\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u99AC\u62C9\u5A01\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u975E\u6D32\u8DB3\u5354\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u99AC\u62C9\u5A01\u81F3\u4ECA\u66FE\u7D93\u65BC1984\u5E74\u53CA2010\u5E74\u53C3\u52A0\u904E\u975E\u6D32\u570B\u5BB6\u76C3\uFF0C\u4E0D\u904E\u5747\u5728\u9996\u5708\u6B62\u6B65\u3002"@zh ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0645\u0627\u0644\u0627\u0648\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0644\u0642\u0628 \u0628\u0627\u0644\u0634\u0639\u0644\u0629 \u0648\u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0641\u064A \u0645\u0627\u0644\u0627\u0648\u064A \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0645\u0627\u0644\u0627\u0648\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u0642\u0628\u0644 1966 \u0643\u0627\u0646 \u0627\u0633\u0645\u0647 \u0645\u0646\u062A\u062E\u0628 \u0646\u064A\u0627\u0633\u0627\u0644\u0627\u0646\u062F. \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0647 \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0648\u0644\u0643\u0646\u0647 \u062A\u0623\u0647\u0644 \u0645\u0631\u062A\u064A\u0646 \u0625\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0641\u0631\u064A\u0642\u064A\u0629. \u0623\u0641\u0636\u0644 \u0623\u062F\u0627\u0621 \u0644\u0644\u0645\u0646\u062A\u062E\u0628 \u0643\u0627\u0646 \u0627\u062D\u062A\u0644\u0627\u0644 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u062B\u0627\u0644\u062B \u0641\u064A \u062F\u0648\u0631\u0629 \u0627\u0644\u0623\u0644\u0639\u0627\u0628 \u0627\u0644\u0623\u0641\u0631\u064A\u0642\u064A\u0629 1987. \u0641\u064A \u0641\u0628\u0631\u0627\u064A\u0631 2010 \u062A\u0645 \u062A\u0639\u064A\u064A\u0646 \u0643\u064A\u0646\u0627\u0647 \u0641\u064A\u0631\u064A \u0645\u062F\u0631\u0628\u0627 \u0644\u0644\u0645\u0646\u062A\u062E\u0628."@ar ,
+		"L'\u00E9quipe de Malawi de football est constitu\u00E9e par une s\u00E9lection des meilleurs joueurs malawites sous l'\u00E9gide de la F\u00E9d\u00E9ration du Malawi de football."@fr ,
+		"Het Malawisch voetbalelftal is een team van voetballers dat Malawi vertegenwoordigt bij internationale wedstrijden zoals CECAFA Cup en de kwalificatiewedstrijden voor het WK en de Afrika Cup.De Football Association of Malawi werd in 1966 opgericht en is aangesloten bij de COSAFA, de CAF en de FIFA (sinds 1968). Het Malawisch voetbalelftal behaalde in december 1993 met de 67e plaats de hoogste positie op de FIFA-wereldranglijst, in december 2007 werd met de 138e plaats de laagste positie bereikt."@nl ,
+		"\u30B5\u30C3\u30AB\u30FC\u30DE\u30E9\u30A6\u30A4\u4EE3\u8868\uFF08Malawi national football team\uFF09\u306F\u3001\u30DE\u30E9\u30A6\u30A4\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30DE\u30E9\u30A6\u30A4\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"The Malawi national football team, nicknamed The Flames, is the national team of Malawi and is controlled by the Football Association of Malawi. Before 1966 they were known as the Nyasaland national football team. They have never qualified for the World Cup finals, and have twice reached the finals of the Africa Cup of Nations.Their best performance was winning the bronze medal at the 1987 All-Africa Games." ;
+	foaf:isPrimaryTopicOf	ns17:Malawi_national_football_team ;
+	dbpprop:club	"CIVO United" ,
+		dbpedia:CD_Costa_do_Sol ,
+		<http://dbpedia.org/resource/University_of_Pretoria_F.C.> ,
+		<http://dbpedia.org/resource/Silver_Strikers_F.C.> ,
+		<http://dbpedia.org/resource/Big_Bullets_F.C.> ,
+		<http://dbpedia.org/resource/Dak_Lak_F.C.> ,
+		<http://dbpedia.org/resource/Platinum_Stars_F.C.> ,
+		<http://dbpedia.org/resource/Lamontville_Golden_Arrows_F.C.> ,
+		<http://dbpedia.org/resource/Iraklis_Psachna_F.C.> ,
+		<http://dbpedia.org/resource/Clube_Ferrovi%C3%A1rio_de_Nampula> ,
+		dbpedia:Kamuzu_Barracks_FC ,
+		"Blue Eagles" ,
+		<http://dbpedia.org/resource/Bidvest_Wits_F.C.> ,
+		<http://dbpedia.org/resource/Bloemfontein_Celtic_F.C.> ,
+		<http://dbpedia.org/resource/Black_Leopards_F.C.> ;
+	dbpprop:captain	dbpedia:Joseph_Kamwendo .
+@prefix ns46:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Malawi_national_football_team	dbpprop:hasPhotoCollection	ns46:Malawi_national_football_team ;
+	dbpprop:name	dbpedia:Atusaye_Nyondo ,
+		dbpedia:John_Banda ,
+		dbpedia:Robin_Ngalande ,
+		dbpedia:Davi_Banda ,
+		dbpedia:Harry_Nyirenda ,
+		dbpedia:Moses_Chavula ,
+		dbpedia:Harvey_Mkacha ,
+		dbpedia:Mician_Mhone ,
+		dbpedia:Douglas_Chirambo ,
+		dbpedia:Forster_Namwera ,
+		<http://dbpedia.org/resource/Robert_Ng\u0027ambi> ,
+		dbpedia:Peter_Wadabwa ,
+		dbpedia:Owen_Chaima ,
+		dbpedia:Chimango_Kayira ,
+		dbpedia:John_Lanjesi ,
+		"Malawi" ,
+		dbpedia:Charles_Swini ,
+		dbpedia:Tawonga_Chimodzi ,
+		dbpedia:Frank_Banda ,
+		dbpedia:Philip_Masiye ,
+		dbpedia:Limbikani_Mzava ,
+		dbpedia:James_Sangala ;
+	dbpedia-owl:abstract	"Reprezentacja Malawi w pi\u0142ce no\u017Cnej \u2013 kadra Malawi w pi\u0142ce no\u017Cnej m\u0119\u017Cczyzn. Jest kontrolowana przez Zwi\u0105zek Pi\u0142karski Malawi (Football Association of Malawi). Federacja zosta\u0142a za\u0142o\u017Cona w 1966, od 1967 jest cz\u0142onkiem FIFA, od 1968 CAF. Przydomek reprezentacji to 'P\u0142omienie'. Malawijczycy nigdy nie awansowali do fina\u0142\u00F3w Mistrzostw \u015Awiata, w 1984 dotarli do Rundy 1 Pucharu Narod\u00F3w Afryki. Dru\u017Cyna Malawi trzykrotnie triumfowa\u0142a w Pucharze CECAFA (1978, 1979, 1988). Trenerem reprezentacji jest Kinnah Phiri. Obecnie w rankingu FIFA dru\u017Cyna Malawi zajmuje 72. miejsce,a w CAF 16. miejsce (18. maja 2011)."@pl ,
+		"La nazionale di calcio del Malawi \u00E8 la rappresentativa calcistica dell'omonima nazione africana ed \u00E8 posta sotto l'egida della Football Association of Malawi (anno di fondazione 1966, affiliazione alla FIFA l'anno seguente).Non ha mai preso parte alla fase finale della Coppa del Mondo. Invece, nel 1984, ha disputato la Coppa d'Africa, raccogliendo un punto in tre partite, frutto di un pareggio 2-2 con la Nigeria. Nel palmares figurano trofei a carattere regionale, come la CECAFA cup, ed a livello continentale, come il bronzo raggiunto ai Giochi Africani del 1987 sotto la guida tecnica di Reuben Malola.Nel 2010 partecipa per la seconda volta nella sua storia alla Coppa d'Africa, battendo all'esordio per 3-0 la pi\u00F9 quotata Algeria, fresca qualificata ai mondiali. Nonostante la vittoria contro l'Algeria, il Malawi non passa il turno, arrivando quarto nel proprio girone.Attualmente occupa la 72\u00AA posizione nel Ranking mondiale FIFA."@it ,
+		"L'\u00E9quipe de Malawi de football est constitu\u00E9e par une s\u00E9lection des meilleurs joueurs malawites sous l'\u00E9gide de la F\u00E9d\u00E9ration du Malawi de football."@fr ,
+		"\u30B5\u30C3\u30AB\u30FC\u30DE\u30E9\u30A6\u30A4\u4EE3\u8868\uFF08Malawi national football team\uFF09\u306F\u3001\u30DE\u30E9\u30A6\u30A4\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30DE\u30E9\u30A6\u30A4\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"\u0421\u0431\u043E\u0301\u0440\u043D\u0430\u044F \u041C\u0430\u043B\u0430\u0301\u0432\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u0301\u043B\u0443 \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u041C\u0430\u043B\u0430\u0432\u0438 \u043D\u0430 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u044B\u0445 \u0442\u0443\u0440\u043D\u0438\u0440\u0430\u0445 \u0438 \u0432 \u0442\u043E\u0432\u0430\u0440\u0438\u0449\u0435\u0441\u043A\u0438\u0445 \u043C\u0430\u0442\u0447\u0430\u0445. \u0421\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u043E\u0439 \u0438\u0437 \u0441\u043B\u0430\u0431\u0435\u0439\u0448\u0438\u0445 \u0441\u0431\u043E\u0440\u043D\u044B\u0445 \u0410\u0444\u0440\u0438\u043A\u0438, \u0445\u043E\u0442\u044F \u043F\u0440\u043E\u0448\u043B\u0430 \u0432 \u0444\u0438\u043D\u0430\u043B\u044C\u043D\u0443\u044E \u0447\u0430\u0441\u0442\u044C \u041A\u0410\u041D 2010. \u0412\u044B\u0441\u0448\u0435\u0435 \u0434\u043E\u0441\u0442\u0438\u0436\u0435\u043D\u0438\u0435: \u0431\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0435 \u043C\u0435\u0434\u0430\u043B\u0438 \u043D\u0430 \u0412\u0441\u0435\u0430\u0444\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0445 \u0438\u0433\u0440\u0430\u0445 1987 \u0433\u043E\u0434\u0430."@ru ,
+		"The Malawi national football team, nicknamed The Flames, is the national team of Malawi and is controlled by the Football Association of Malawi. Before 1966 they were known as the Nyasaland national football team. They have never qualified for the World Cup finals, and have twice reached the finals of the Africa Cup of Nations.Their best performance was winning the bronze medal at the 1987 All-Africa Games." ,
+		"Die Malawische Fu\u00DFballnationalmannschaft untersteht der Football Association of Malawi und repr\u00E4sentiert den s\u00FCdafrikanischen Staat Malawi im Fu\u00DFball. Seit den 60er Jahren tr\u00E4gt der Verband L\u00E4nderspiele aus. Vor 1966 gab es die Nationalmannschaft von Nyassaland.Die gr\u00F6\u00DFten Erfolge feierte die Mannschaft in den 1980er Jahren. Bis zur Teilnahme am Afrika-Cup 2010 konnte sich Malawi nur 1984 f\u00FCr diesen Wettbewerb qualifizieren. 1987 gewann die malawische Nationalelf die Bronzemedaille bei den All-Africa Games in Kenia. F\u00FCr eine Weltmeisterschaft konnte sich das kleine Land noch nie qualifizieren.Die meisten Nationalspieler sind entweder in Malawi selbst t\u00E4tig oder in der s\u00FCdafrikanischen Liga. Von den wenigen Europalegion\u00E4ren ist Daniel Chitsulo, Profi von Rot-Weiss Essen, der erfolgreichste. Der Deutsche Burkhard Ziese war von 2005 bis 2006 Nationaltrainer."@de ,
+		"\u99AC\u62C9\u5A01\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u99AC\u62C9\u5A01\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u99AC\u62C9\u5A01\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u975E\u6D32\u8DB3\u5354\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u99AC\u62C9\u5A01\u81F3\u4ECA\u66FE\u7D93\u65BC1984\u5E74\u53CA2010\u5E74\u53C3\u52A0\u904E\u975E\u6D32\u570B\u5BB6\u76C3\uFF0C\u4E0D\u904E\u5747\u5728\u9996\u5708\u6B62\u6B65\u3002"@zh ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0645\u0627\u0644\u0627\u0648\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0644\u0642\u0628 \u0628\u0627\u0644\u0634\u0639\u0644\u0629 \u0648\u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0641\u064A \u0645\u0627\u0644\u0627\u0648\u064A \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0645\u0627\u0644\u0627\u0648\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u0642\u0628\u0644 1966 \u0643\u0627\u0646 \u0627\u0633\u0645\u0647 \u0645\u0646\u062A\u062E\u0628 \u0646\u064A\u0627\u0633\u0627\u0644\u0627\u0646\u062F. \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0647 \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0648\u0644\u0643\u0646\u0647 \u062A\u0623\u0647\u0644 \u0645\u0631\u062A\u064A\u0646 \u0625\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0641\u0631\u064A\u0642\u064A\u0629. \u0623\u0641\u0636\u0644 \u0623\u062F\u0627\u0621 \u0644\u0644\u0645\u0646\u062A\u062E\u0628 \u0643\u0627\u0646 \u0627\u062D\u062A\u0644\u0627\u0644 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u062B\u0627\u0644\u062B \u0641\u064A \u062F\u0648\u0631\u0629 \u0627\u0644\u0623\u0644\u0639\u0627\u0628 \u0627\u0644\u0623\u0641\u0631\u064A\u0642\u064A\u0629 1987. \u0641\u064A \u0641\u0628\u0631\u0627\u064A\u0631 2010 \u062A\u0645 \u062A\u0639\u064A\u064A\u0646 \u0643\u064A\u0646\u0627\u0647 \u0641\u064A\u0631\u064A \u0645\u062F\u0631\u0628\u0627 \u0644\u0644\u0645\u0646\u062A\u062E\u0628."@ar ,
+		"A Sele\u00E7\u00E3o Malauiana de Futebol representa o Malaui nas competi\u00E7\u00F5es de futebol da FIFA."@pt ,
+		"Het Malawisch voetbalelftal is een team van voetballers dat Malawi vertegenwoordigt bij internationale wedstrijden zoals CECAFA Cup en de kwalificatiewedstrijden voor het WK en de Afrika Cup.De Football Association of Malawi werd in 1966 opgericht en is aangesloten bij de COSAFA, de CAF en de FIFA (sinds 1968). Het Malawisch voetbalelftal behaalde in december 1993 met de 67e plaats de hoogste positie op de FIFA-wereldranglijst, in december 2007 werd met de 138e plaats de laagste positie bereikt."@nl ,
+		"La Selecci\u00F3n de f\u00FAtbol de Malaui es el equipo representativo del pa\u00EDs en las competiciones oficiales. Es dirigida por la Asociaci\u00F3n de F\u00FAtbol de Malaui, perteneciente a la Confederaci\u00F3n Africana de F\u00FAtbol.Malaui nunca ha participado en la Copa Mundial de F\u00FAtbol, ni en los Juegos Ol\u00EDmpicos. En 1984 particip\u00F3 por primera en la Copa Africana de Naciones, siendo eliminada en la primera fase, al igual que en 2010."@es ;
+	dbpedia-owl:wikiPageID	1198154 ;
+	dbpedia-owl:wikiPageRevisionID	605817438 ;
+	dbpprop:clubnat	"South Africa" ,
+		"Greece" ,
+		"Malawi" ,
+		"Mozambique" ,
+		"VIE" ;
+	dbpprop:goals	4 ,
+		5 ,
+		3 ,
+		0 ,
+		1 ;
+	dbpprop:caps	62 ,
+		51 ,
+		44 ,
+		47 ,
+		26 ,
+		27 ,
+		20 ,
+		17 ,
+		12 ,
+		13 ,
+		14 ,
+		8 ,
+		9 ,
+		10 ,
+		7 ,
+		0 ,
+		3 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Malawi_national_football_team	dbpprop:age	"1993-09-28+02:00"^^xsd:date ,
+		"1988-07-25+02:00"^^xsd:date ,
+		"1995-05-19+02:00"^^xsd:date ,
+		"1985-08-08+02:00"^^xsd:date ,
+		"1993-11-19+02:00"^^xsd:date ,
+		"1993-04-23+02:00"^^xsd:date ,
+		"1988-08-26+02:00"^^xsd:date ,
+		"1983-12-29+02:00"^^xsd:date ,
+		"1986-09-11+02:00"^^xsd:date ,
+		"1985-02-28+02:00"^^xsd:date ,
+		"1990-08-25+02:00"^^xsd:date ,
+		"1992-11-02+02:00"^^xsd:date ,
+		"1993-11-12+02:00"^^xsd:date ,
+		"1986-08-20+02:00"^^xsd:date ,
+		"1988-09-14+02:00"^^xsd:date ,
+		"1986-10-19+02:00"^^xsd:date ,
+		"1990-04-22+02:00"^^xsd:date ,
+		"1991-01-12+02:00"^^xsd:date ,
+		"1993-08-20+02:00"^^xsd:date ;
+	dbpprop:asstManager	"Jack Chamangwana" ;
+	dbpprop:coach	dbpedia:Young_Chimodzi ;
+	dbpprop:patternSh	"_mwiaway" ,
+		"_mwihome" ;
+	dbpedia-owl:coach	dbpedia:Young_Chimodzi ;
+	dbpprop:patternSo	"_mwihome" ,
+		"_mwiaway" ;
+	dbpprop:association	dbpedia:Football_Association_of_Malawi ;
+	dbpprop:badgeSize	200 ;
+	dbpprop:body	"FF0000" ,
+		"FFFFFF" ;
+	dbpprop:confederation	dbpedia:Confederation_of_African_Football ;
+	dbpprop:fifaRank	1224 ;
+	dbpprop:fifaTrigramme	"MWI" ;
+	dbpprop:leftarm	"FF0000" ,
+		"FFFFFF" ;
+	dbpprop:patternB	"_mwiaway" .
+@prefix ns48:	<http://dbpedia.org/datatype/> .
+dbpedia:Malawi_national_football_team	dbpprop:patternB	"3643200.0"^^ns48:second ;
+	dbpprop:patternLa	"_mwihome1112" ,
+		"_mwiaway" ;
+	dbpprop:patternRa	"_mwihome1112" ,
+		"_mwiaway" ;
+	dbpprop:rightarm	"FFFFFF" ;
+	dbpprop:shorts	"FF0000" ,
+		"FFFFFF" ;
+	dbpprop:socks	"FF0000" ,
+		5 ;
+	dbpprop:no	8 ,
+		9 ,
+		10 ,
+		11 ,
+		12 ,
+		13 ,
+		14 ,
+		15 ,
+		1 ,
+		2 ,
+		3 ,
+		4 ,
+		5 ,
+		6 ,
+		7 ,
+		16 ,
+		17 ,
+		18 ,
+		19 ,
+		20 ,
+		21 ;
+	dbpprop:title	"Finalists" ,
+		"Squads" ;
+	dbpprop:pos	"GK" ,
+		"MF" ,
+		"FW" ,
+		"DF" ;
+	dbpprop:badge	"Malawi FA .png" ;
+	dbpprop:firstGame	0 ,
+		"http://www.rsssf.com/tablesm/malaw-intres.html" ;
+	dbpprop:largestLoss	0 ;
+	dbpprop:largestWin	"Malawi 8\u20131" ;
+	dbpprop:regionalCupApps	2 ;
+	dbpprop:regionalCupBest	"Round 1: 1984 & 2010" ;
+	dbpprop:regionalCupFirst	1984 ;
+	dbpprop:regionalName	dbpedia:Africa_Cup_of_Nations ;
+	dbpprop:eloMax	47 ;
+	dbpprop:eloMaxDate	"June 1988" ;
+	dbpprop:eloMin	145 ;
+	dbpprop:eloMinDate	"December 1999" ;
+	dbpprop:eloRank	116 ;
+	dbpprop:fifaMax	53 ;
+	dbpprop:fifaMaxDate	"December 1992" ;
+	dbpprop:fifaMin	138 ;
+	dbpprop:fifaMinDate	"December 2007, March 2008" ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.fifa.com/associations/association=mwi/index.html> ,
+		<http://www.rsssf.com/tablesm/malaw-intres.html> ,
+		<http://www.fam.mw/> ;
+	dbpprop:homeStadium	dbpedia:Kamuzu_Stadium ;
+	dbpedia-owl:stadium	dbpedia:Kamuzu_Stadium ;
+	dbpprop:nickname	"The Flames" .
+dbpedia:Atusaye_Nyondo__4	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Fisher_Kondowe	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Swadic_Sanudi	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Peter_Mponda	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Essau_Kanyenda	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Joseph_Kamwendo	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Atusaye_Nyondo	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Danny_McLennan	dbpprop:managerclubs	dbpedia:Malawi_national_football_team .
+dbpedia:Peter_Mgangira	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Peter_Wadabwa	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Tawonga_Chimodzi	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Hellings_Mwakasungula	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Patrick_Mabedi	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Russell_Mwafulirwa	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Jimmy_Zakazaka	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+<http://dbpedia.org/resource/Robert_Ng\u0027ambi>	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Allan_Kamanga	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Chiukepo_Msowoya	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Jacob_Ngwira	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:John_Banda	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+<http://dbpedia.org/resource/Henry_Moyo_(football)>	dbpedia-owl:managerClub	dbpedia:Malawi_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Malawi_national_football_team ;
+	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Joseph_Kamwendo__10	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+ns28:منتخب_مالاوي_لكرة_القدم	owl:sameAs	dbpedia:Malawi_national_football_team .
+ns29:Selecció_de_futbol_de_Malawi	owl:sameAs	dbpedia:Malawi_national_football_team .
+ns24:Malawi_jalgpallikoondis	owl:sameAs	dbpedia:Malawi_national_football_team .
+ns34:تیم_ملی_فوتبال_مالاوی	owl:sameAs	dbpedia:Malawi_national_football_team .
+ns36:Malawin_jalkapallomaajoukkue	owl:sameAs	dbpedia:Malawi_national_football_team .
+ns37:נבחרת_מלאווי_בכדורגל	owl:sameAs	dbpedia:Malawi_national_football_team .
+ns30:Malawi_national_football_team	owl:sameAs	dbpedia:Malawi_national_football_team .
+ns32:Malawi_labdarúgó-válogatott	owl:sameAs	dbpedia:Malawi_national_football_team .
+ns40:Malavio_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Malawi_national_football_team .
+ns39:Malawis_herrelandslag_i_fotball	owl:sameAs	dbpedia:Malawi_national_football_team .
+ns35:Echipa_națională_de_fotbal_a_statului_Malawi	owl:sameAs	dbpedia:Malawi_national_football_team .
+ns25:Сборная_Малави_по_футболу	owl:sameAs	dbpedia:Malawi_national_football_team .
+ns38:Malawi_national_football_team	owl:sameAs	dbpedia:Malawi_national_football_team .
+ns26:Malawis_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Malawi_national_football_team .
+ns33:Malavi_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Malawi_national_football_team .
+ns27:Збірна_Малаві_з_футболу	owl:sameAs	dbpedia:Malawi_national_football_team .
+ns23:Đội_tuyển_bóng_đá_quốc_gia_Malawi	owl:sameAs	dbpedia:Malawi_national_football_team .
+ns31:馬拉威國家足球隊	owl:sameAs	dbpedia:Malawi_national_football_team .
+dbpedia:Victor_Nyirenda	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Simplex_Nthala	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Chikondi_Banda	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Tamika_Mkandawire	dbpedia-owl:birthPlace	dbpedia:Malawi_national_football_team .
+dbpedia:Mike_Hennigan	dbpedia-owl:managerClub	dbpedia:Malawi_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Malawi_national_football_team .
+dbpedia:Elvis_Kafoteka	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Harry_Nyirenda	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Moses_Chavula	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Kennedy_Malunga	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Stephen_Constantine	dbpedia-owl:managerClub	dbpedia:Malawi_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Malawi_national_football_team .
+dbpedia:Tawonga_Chimodzi__3	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Davi_Banda__4	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Clement_Kafwafwa	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Maupo_Msowoya	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Maupo_Msowoya__6	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Daniel_Chitsulo	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Tom_Saintfiet	dbpprop:managerclubs	dbpedia:Malawi_national_football_team ;
+	dbpprop:currentclub	dbpedia:Malawi_national_football_team .
+dbpedia:Kim_Splidsboel	dbpedia-owl:managerClub	dbpedia:Malawi_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Malawi_national_football_team .
+dbpedia:Clement_Kafwafwa__4	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Kim_Splidsboel__8	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Limbikani_Mzava__3	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Stephen_Constantine__6	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Charles_Swini__3	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+<http://dbpedia.org/resource/Henry_Moyo_(football)__3>	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Young_Chimodzi__2	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Chikondi_Banda__1	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:John_Banda__2	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Hellings_Mwakasungula__5	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Elvis_Kafoteka__6	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Peter_Mgangira__5	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Chiukepo_Msowoya__8	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Fisher_Kondowe__6	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Mike_Hennigan__5	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+<http://dbpedia.org/resource/Henry_Moyo_(football)__2>	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+<http://dbpedia.org/resource/Alan_Gillett_(football)__2>	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Jacob_Ngwira__4	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Peter_Wadabwa__2	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Simplex_Nthala__5	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+<http://dbpedia.org/resource/Henry_Moyo_(football)__1>	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Christopher_John_Banda__4	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Jimmy_Zakazaka__4	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Swadic_Sanudi__5	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Young_Chimodzi__1	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+<http://dbpedia.org/resource/Robert_Ng\u0027ambi__5>	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Victor_Nyirenda__6	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Essau_Kanyenda__12	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Harry_Nyirenda__4	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Nyasaland_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Malawi_national_football_team .
+dbpedia:Allan_Kamanga__9	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Charles_Swini	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Christopher_John_Banda	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Davi_Banda	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:James_Sangala	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Young_Chimodzi	dbpedia-owl:managerClub	dbpedia:Malawi_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Malawi_national_football_team ;
+	dbpprop:currentclub	dbpedia:Malawi_national_football_team ;
+	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Robin_Ngalande	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+<http://dbpedia.org/resource/Alan_Gillett_(football)>	dbpedia-owl:managerClub	dbpedia:Malawi_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Malawi_national_football_team .
+dbpedia:James_Sangala__5	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Gabadinho_Mhango	dbpedia-owl:birthPlace	dbpedia:Malawi_national_football_team ;
+	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+dbpedia:Limbikani_Mzava	dbpedia-owl:birthPlace	dbpedia:Malawi_national_football_team ;
+	dbpedia-owl:team	dbpedia:Malawi_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malawi_national_football_team .
+<http://dbpedia.org/resource/2012_CECAFA_Cup_statistics>	dbpprop:leastDrawsTeam	dbpedia:Malawi_national_football_team .
+dbpedia:Moses_Chavula__7	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Gabadinho_Mhango__3	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Peter_Mponda__7	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Russell_Mwafulirwa__6	dbpedia-owl:team	dbpedia:Malawi_national_football_team .
+dbpedia:Robin_Ngalande__4	dbpedia-owl:team	dbpedia:Malawi_national_football_team .

@@ -1,0 +1,173 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona>	rdf:type	dbpedia-owl:Agent .
+@prefix ns2:	<http://schema.org/> .
+<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona>	rdf:type	ns2:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona>	rdf:type	yago:Object100002684 ,
+		yago:Whole100003553 ,
+		dbpedia-owl:Person ,
+		<http://dbpedia.org/class/yago/Uni%C3%B3nEspa%C3%B1olaFootballers> ,
+		yago:ChileInternationalFootballers ,
+		yago:Player110439851 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:LotaSchwagerPlayers ,
+		yago:SoccerPlayer110618342 ,
+		yago:Athlete109820263 ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:FootballPlayer110101634 ,
+		yago:PhysicalEntity100001930 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona>	rdf:type	owl:Thing ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona>	rdf:type	foaf:Person ,
+		yago:LivingThing100004258 .
+@prefix ns6:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona>	rdf:type	ns6:Q215627 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		dbpedia-owl:Athlete ,
+		ns6:Q5 ,
+		yago:HockeyPlayer110179291 ,
+		yago:ChileanFootballers ,
+		yago:AudaxItalianoPlayers ,
+		yago:Goalkeeper110134001 ,
+		yago:AssociationFootballGoalkeepers .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona>	rdf:type	dul:Agent ,
+		yago:Contestant109613191 ,
+		dul:NaturalPerson .
+@prefix ns8:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona>	owl:sameAs	ns8:Luis_Marín_Barahona ,
+		<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona> ,
+		<http://rdf.freebase.com/ns/m.0bxzw2v> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona>	rdfs:label	"Luis Mar\u00EDn Barahona"@pl ,
+		"Luis Mar\u00EDn Barahona"@es ,
+		"Luis Mar\u00EDn Baharona"@fr ,
+		"\u0644\u0648\u064A\u0633 \u0645\u0627\u0631\u064A\u0646 \u0628\u0627\u0631\u0627\u0647\u0648\u0646\u0627"@ar ,
+		"\u041C\u0430\u0440\u0438\u043D \u0411\u0430\u0440\u0430\u043E\u043D\u0430, \u041B\u0443\u0438\u0441"@ru ,
+		"Luis Mar\u00EDn Barahona" ,
+		"Luis Mar\u00EDn Barahona"@it ,
+		"Luis Mar\u00EDn (Fu\u00DFballtorh\u00FCter)"@de .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona>	dcterms:subject	<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:Chilean_Primera_Divisi%C3%B3n_players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona>	dcterms:subject	category:Audax_Italiano_players ,
+		category:Club_de_Deportes_Santiago_Wanderers_players ,
+		<http://dbpedia.org/resource/Category:1983_births> ,
+		category:Association_football_goalkeepers ,
+		category:Lota_Schwager_players ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:Club_Deportivo_O\u0027Higgins_players> ,
+		category:Chile_international_footballers ,
+		<http://dbpedia.org/resource/Category:Uni%C3%B3n_Espa%C3%B1ola_footballers> ,
+		category:Chilean_footballers .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona>	dc:description	"Chilean footballer" ,
+		"Chilean footballer" ;
+	foaf:givenName	"Luis" ;
+	foaf:name	"Luis Mar\u00EDn Barahona" ,
+		"Luis Mar\u00EDn" ,
+		"Luis Antonio Mar\u00EDn Barahona" ,
+		"Mar\u00EDn Barahona, Luis" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Luis_Mar\u00EDn_Barahona?oldid=606568102> ;
+	rdfs:comment	"Luis Mar\u00EDn Barahona (n\u00E9 le 18 mai 1983 \u00E0 Santiago) est un footballeur chilien, qui \u00E9volue en tant que gardien de but."@fr ,
+		"Luis Mar\u00EDn Batahona (Santiago, 13 aprile 1983) \u00E8 un calciatore cileno, portiere dell'O'Higgins e della Nazionale di calcio cilena."@it ,
+		"Luis Antonio Mar\u00EDn Barahona (* 18. Mai 1983 in Santiago de Chile) ist in chilenischer Fu\u00DFballtorh\u00FCter. Seit 2008 steht er beim chilenischen Verein Uni\u00F3n Espa\u00F1ola unter Vertrag."@de ,
+		"\u0644\u0648\u064A\u0633 \u0645\u0627\u0631\u064A\u0646 \u0628\u0627\u0631\u0627\u0647\u0648\u0646\u0627 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: Luis Mar\u00EDn Barahona) (\u0645\u0648\u0627\u0644\u064A\u062F 18 \u0645\u0627\u064A\u0648 1983 \u0641\u064A \u062A\u0634\u064A\u0644\u064A) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u062A\u0634\u064A\u0644\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u064A\u0648\u0646\u064A\u0648\u0646 \u0625\u0633\u0628\u0627\u0646\u064A\u0627 \u0627\u0644\u062A\u0634\u064A\u0644\u064A ."@ar ,
+		"\u041B\u0443\u0301\u0438\u0441 \u0410\u043D\u0442\u043E\u0301\u043D\u0438\u043E \u041C\u0430\u0440\u0438\u0301\u043D \u0411\u0430\u0440\u0430\u043E\u0301\u043D\u0430 (\u0438\u0441\u043F. Luis Antonio Mar\u00EDn Barahona; 18 \u043C\u0430\u044F 1983, \u0421\u0430\u043D\u0442\u044C\u044F\u0433\u043E, \u0427\u0438\u043B\u0438) \u2014 \u0447\u0438\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432\u0440\u0430\u0442\u0430\u0440\u044C \u043A\u043B\u0443\u0431\u0430 \u00AB\u0423\u043D\u0438\u043E\u043D \u042D\u0441\u043F\u0430\u043D\u044C\u043E\u043B\u0430\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0427\u0438\u043B\u0438."@ru ,
+		"Luis Antonio Mar\u00EDn Barahona (Valpara\u00EDso, Chile, 18 de mayo de 1983) es un futbolista chileno. Juega como portero en Universidad de Chile de la Primera Divisi\u00F3n de Chile."@es ,
+		"Luis Antonio Mar\u00EDn Barahona (born May 18, 1983 in Valpara\u00EDso, Chile) is a Chilean football goalkeeper who plays for Chilean club Universidad de Chile." ,
+		"Luis Antonio Mar\u00EDn Barahona (ur. 18 maja 1983 w Santiago) - chilijski pi\u0142karz wyst\u0119puj\u0105cy na pozycji bramkarza. Od 2008 roku zawodnik Uni\u00F3n Espa\u00F1oli, graj\u0105cej w Primera Divisi\u00F3n de Chile."@pl ;
+	foaf:surname	"Mar\u00EDn Barahona" .
+@prefix ns14:	<http://en.wikipedia.org/wiki/> .
+<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona>	foaf:isPrimaryTopicOf	ns14:Luis_Marín_Barahona .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix ns16:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona>	dbpprop:hasPhotoCollection	ns16:Luis_Marín_Barahona ;
+	dbpprop:name	"Mar\u00EDn Barahona, Luis" ,
+		"Luis Mar\u00EDn" ;
+	dbpedia-owl:abstract	"Luis Antonio Mar\u00EDn Barahona (ur. 18 maja 1983 w Santiago) - chilijski pi\u0142karz wyst\u0119puj\u0105cy na pozycji bramkarza. Od 2008 roku zawodnik Uni\u00F3n Espa\u00F1oli, graj\u0105cej w Primera Divisi\u00F3n de Chile."@pl ,
+		"Luis Antonio Mar\u00EDn Barahona (* 18. Mai 1983 in Santiago de Chile) ist in chilenischer Fu\u00DFballtorh\u00FCter. Seit 2008 steht er beim chilenischen Verein Uni\u00F3n Espa\u00F1ola unter Vertrag."@de ,
+		"Luis Mar\u00EDn Barahona (n\u00E9 le 18 mai 1983 \u00E0 Santiago) est un footballeur chilien, qui \u00E9volue en tant que gardien de but."@fr ,
+		"\u041B\u0443\u0301\u0438\u0441 \u0410\u043D\u0442\u043E\u0301\u043D\u0438\u043E \u041C\u0430\u0440\u0438\u0301\u043D \u0411\u0430\u0440\u0430\u043E\u0301\u043D\u0430 (\u0438\u0441\u043F. Luis Antonio Mar\u00EDn Barahona; 18 \u043C\u0430\u044F 1983, \u0421\u0430\u043D\u0442\u044C\u044F\u0433\u043E, \u0427\u0438\u043B\u0438) \u2014 \u0447\u0438\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432\u0440\u0430\u0442\u0430\u0440\u044C \u043A\u043B\u0443\u0431\u0430 \u00AB\u0423\u043D\u0438\u043E\u043D \u042D\u0441\u043F\u0430\u043D\u044C\u043E\u043B\u0430\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0427\u0438\u043B\u0438."@ru ,
+		"Luis Antonio Mar\u00EDn Barahona (born May 18, 1983 in Valpara\u00EDso, Chile) is a Chilean football goalkeeper who plays for Chilean club Universidad de Chile." ,
+		"Luis Mar\u00EDn Batahona (Santiago, 13 aprile 1983) \u00E8 un calciatore cileno, portiere dell'O'Higgins e della Nazionale di calcio cilena."@it ,
+		"\u0644\u0648\u064A\u0633 \u0645\u0627\u0631\u064A\u0646 \u0628\u0627\u0631\u0627\u0647\u0648\u0646\u0627 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: Luis Mar\u00EDn Barahona) (\u0645\u0648\u0627\u0644\u064A\u062F 18 \u0645\u0627\u064A\u0648 1983 \u0641\u064A \u062A\u0634\u064A\u0644\u064A) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u062A\u0634\u064A\u0644\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u064A\u0648\u0646\u064A\u0648\u0646 \u0625\u0633\u0628\u0627\u0646\u064A\u0627 \u0627\u0644\u062A\u0634\u064A\u0644\u064A ."@ar ,
+		"Luis Antonio Mar\u00EDn Barahona (Valpara\u00EDso, Chile, 18 de mayo de 1983) es un futbolista chileno. Juega como portero en Universidad de Chile de la Primera Divisi\u00F3n de Chile."@es ;
+	dbpedia-owl:wikiPageID	27378575 ;
+	dbpedia-owl:wikiPageRevisionID	606568102 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona>	dbpprop:birthDate	"1983-05-18+02:00"^^xsd:date .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona>	dbpprop:birthPlace	dbpedia:Chile ,
+		<http://dbpedia.org/resource/Valpara%C3%ADso> ;
+	dbpprop:dateOfBirth	"1983-05-18+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Valpara\u00EDso, Chile" ;
+	dbpprop:shortDescription	"Chilean footballer" ;
+	dbpedia-owl:birthDate	"1983-05-18+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Chile ,
+		<http://dbpedia.org/resource/Valpara%C3%ADso> ;
+	dbpedia-owl:birthYear	"1983+02:00"^^xsd:gYear ;
+	dbpprop:goals	0 ;
+	dbpprop:caps	86 ,
+		51 ,
+		14 ,
+		0 ,
+		28 ;
+	dbpprop:years	2013 ,
+		2011 ,
+		2008 ,
+		2007 ,
+		2003 ;
+	dbpprop:youthclubs	dbpedia:Santiago_Wanderers ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona__4> ,
+		<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona__3> ,
+		<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona__6> ,
+		<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona__2> ,
+		<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona__1> ,
+		<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona__5> ;
+	dbpprop:position	dbpedia:Goalkeeper ;
+	dbpedia-owl:position	dbpedia:Goalkeeper ;
+	dbpedia-owl:height	1.8799999999999998934 .
+@prefix ns19:	<http://dbpedia.org/datatype/> .
+@prefix ns20:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona>	ns20:height	"188.0"^^ns19:centimetre ;
+	dbpprop:currentclub	dbpedia:Club_Universidad_de_Chile ;
+	dbpprop:clubnumber	1 ;
+	dbpprop:fullname	"Luis Antonio Mar\u00EDn Barahona" ;
+	dbpprop:clubs	"\u2192 U. de Chile" ,
+		dbpedia:Audax_Italiano ,
+		<http://dbpedia.org/resource/Uni%C3%B3n_Espa%C3%B1ola> ,
+		<http://dbpedia.org/resource/O\u0027Higgins_F.C.> ,
+		dbpedia:Lota_Schwager ;
+	dbpedia-owl:team	dbpedia:Santiago_Wanderers ,
+		dbpedia:Club_Universidad_de_Chile ,
+		dbpedia:Audax_Italiano ,
+		<http://dbpedia.org/resource/Uni%C3%B3n_Espa%C3%B1ola> ,
+		dbpedia:Chile_national_football_team ,
+		<http://dbpedia.org/resource/O\u0027Higgins_F.C.> ,
+		dbpedia:Lota_Schwager ;
+	dbpprop:clubUpdate	"2014-04-27+02:00"^^xsd:date ;
+	dbpprop:nationalteamUpdate	"2010-05-13+02:00"^^xsd:date ;
+	dbpprop:nationalcaps	8 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:Chile_national_football_team ;
+	dbpprop:nationalyears	2010 ;
+	dbpedia-owl:number	1 .
+ns14:Luis_Marín_Barahona	foaf:primaryTopic	<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona> .
+<http://dbpedia.org/resource/Club_Universidad_de_Chile__Luis_Mar%C3%ADn__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona> .
+dbpedia:Club_Universidad_de_Chile	dbpprop:name	<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona> .
+dbpedia:Luis_Marín_Barahona	owl:sameAs	<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona> .
+<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Baharona>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona> .
+<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Baharona_(footballer)>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona> .
+dbpedia:Luis_Marin_Barahona	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona> .
+dbpedia:Barahona	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Luis_Mar%C3%ADn_Barahona> .

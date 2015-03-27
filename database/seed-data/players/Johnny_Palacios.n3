@@ -1,0 +1,196 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://es.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Johnny_Palacios	owl:sameAs	dbpedia:Johnny_Palacios .
+@prefix ns3:	<http://fr.dbpedia.org/resource/> .
+ns3:Johnny_Palacios	owl:sameAs	dbpedia:Johnny_Palacios .
+@prefix ns4:	<http://de.dbpedia.org/resource/> .
+ns4:Johnny_Palacios	owl:sameAs	dbpedia:Johnny_Palacios .
+@prefix ns5:	<http://wikidata.dbpedia.org/resource/> .
+ns5:Q510909	owl:sameAs	dbpedia:Johnny_Palacios .
+@prefix ns6:	<http://it.dbpedia.org/resource/> .
+ns6:Johnny_Palacios	owl:sameAs	dbpedia:Johnny_Palacios .
+@prefix ns7:	<http://ja.dbpedia.org/resource/> .
+ns7:ジョニー・パラシオス	owl:sameAs	dbpedia:Johnny_Palacios .
+@prefix ns8:	<http://pl.dbpedia.org/resource/> .
+ns8:Johnny_Palacios	owl:sameAs	dbpedia:Johnny_Palacios .
+@prefix ns9:	<http://pt.dbpedia.org/resource/> .
+ns9:Johnny_Palacios	owl:sameAs	dbpedia:Johnny_Palacios .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2009_CONCACAF_Gold_Cup_squads>	dbpprop:name	dbpedia:Johnny_Palacios .
+dbpedia:Honduras_national_football_team	dbpprop:name	dbpedia:Johnny_Palacios .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns12:	<http://en.wikipedia.org/wiki/> .
+ns12:Johnny_Palacios	foaf:primaryTopic	dbpedia:Johnny_Palacios .
+@prefix ns13:	<http://ar.dbpedia.org/resource/> .
+ns13:جوني_بالاسيوس	owl:sameAs	dbpedia:Johnny_Palacios .
+@prefix ns14:	<http://mr.dbpedia.org/resource/> .
+ns14:जॉनी_पलासियोस	owl:sameAs	dbpedia:Johnny_Palacios .
+@prefix ns15:	<http://nn.dbpedia.org/resource/> .
+ns15:Johnny_Palacios	owl:sameAs	dbpedia:Johnny_Palacios .
+@prefix ns16:	<http://no.dbpedia.org/resource/> .
+ns16:Johnny_Palacios	owl:sameAs	dbpedia:Johnny_Palacios .
+<http://ru.dbpedia.org/resource/\u041F\u0430\u043B\u0430\u0441\u0438\u043E\u0441,_\u0414\u0436\u043E\u043D\u043D\u0438>	owl:sameAs	dbpedia:Johnny_Palacios .
+@prefix ns17:	<http://uk.dbpedia.org/resource/> .
+ns17:Джонні_Паласіос	owl:sameAs	dbpedia:Johnny_Palacios .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Johnny_Palacios .
+<http://dbpedia.org/resource/2013_CONCACAF_Gold_Cup_squads>	dbpprop:name	dbpedia:Johnny_Palacios .
+<http://dbpedia.org/resource/2011_Copa_Centroamericana_squads>	dbpprop:name	dbpedia:Johnny_Palacios .
+dbpedia:Club_Deportivo_Olimpia	dbpprop:name	dbpedia:Johnny_Palacios .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns19:	<http://schema.org/> .
+dbpedia:Johnny_Palacios	rdf:type	ns19:Person ,
+		ns5:Q215627 .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Johnny_Palacios	rdf:type	dbpedia-owl:SoccerPlayer ,
+		owl:Thing ,
+		foaf:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Johnny_Palacios	rdf:type	yago:Player110439851 ,
+		yago:Athlete109820263 ,
+		yago:CausalAgent100007347 ,
+		yago:FootballPlayer110101634 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:Contestant109613191 ,
+		yago:HonduranFootballers ,
+		yago:ClubDeportivoOlimpiaFootballers ,
+		<http://dbpedia.org/class/yago/LigaNacionalDeF%C3%BAtbolDeHondurasFootballers> ,
+		ns5:Q5 ,
+		yago:PhysicalEntity100001930 ,
+		yago:PeopleFromLaCeiba .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Johnny_Palacios	rdf:type	dul:Agent ,
+		<http://dbpedia.org/class/yago/2009CONCACAFGoldCupPlayers> ,
+		dbpedia-owl:Agent ,
+		dul:NaturalPerson ,
+		dbpedia-owl:Person ,
+		yago:Whole100003553 ,
+		dbpedia-owl:Athlete ,
+		yago:Object100002684 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ;
+	owl:sameAs	ns17:Джонні_Паласіос ,
+		ns6:Johnny_Palacios ,
+		ns7:ジョニー・パラシオス ,
+		ns4:Johnny_Palacios ,
+		ns16:Johnny_Palacios ,
+		ns13:جوني_بالاسيوس ,
+		<http://ru.dbpedia.org/resource/\u041F\u0430\u043B\u0430\u0441\u0438\u043E\u0441,_\u0414\u0436\u043E\u043D\u043D\u0438> .
+@prefix ns23:	<http://yago-knowledge.org/resource/> .
+dbpedia:Johnny_Palacios	owl:sameAs	ns23:Johnny_Palacios ,
+		ns14:जॉनी_पलासियोस ,
+		ns9:Johnny_Palacios ,
+		ns15:Johnny_Palacios .
+@prefix ns24:	<http://wikidata.org/entity/> .
+dbpedia:Johnny_Palacios	owl:sameAs	ns24:Q510909 ,
+		dbpedia:Johnny_Palacios ,
+		ns8:Johnny_Palacios ,
+		<http://rdf.freebase.com/ns/m.0gq74k> ,
+		ns3:Johnny_Palacios ,
+		ns5:Q510909 ,
+		ns1:Johnny_Palacios .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Johnny_Palacios	rdfs:label	"\u041F\u0430\u043B\u0430\u0441\u0438\u043E\u0441, \u0414\u0436\u043E\u043D\u043D\u0438"@ru ,
+		"Johnny Palacios" ,
+		"Johnny Palacios"@de ,
+		"Johnny Palacios"@pt ,
+		"Johnny Palacios"@it ,
+		"Johnny Palacios"@fr ,
+		"\u30B8\u30E7\u30CB\u30FC\u30FB\u30D1\u30E9\u30B7\u30AA\u30B9"@ja ,
+		"Johnny Palacios"@es ,
+		"\u062C\u0648\u0646\u064A \u0628\u0627\u0644\u0627\u0633\u064A\u0648\u0633"@ar ,
+		"Johnny Palacios"@pl .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Johnny_Palacios	dcterms:subject	category:Living_people ,
+		<http://dbpedia.org/resource/Category:1986_births> ,
+		<http://dbpedia.org/resource/Category:Liga_Nacional_de_F%C3%BAtbol_de_Honduras_footballers> ,
+		category:Honduran_footballers ,
+		category:Association_football_defenders ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Club_Deportivo_Olimpia_footballers ,
+		category:Honduras_international_footballers ,
+		category:People_from_La_Ceiba ,
+		category:Honduran_people_of_African_descent ,
+		<http://dbpedia.org/resource/Category:2009_CONCACAF_Gold_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2013_CONCACAF_Gold_Cup_players> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Johnny_Palacios	dc:description	"Honduran footballer" ,
+		"Honduran footballer" ;
+	foaf:givenName	"Johnny" ;
+	foaf:name	"Palacios, Johnny" ,
+		"Johnny Eulogio Palacios Cacho" ,
+		"Johnny Palacios" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Johnny_Palacios	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Johnny_Palacios?oldid=577091859> ;
+	rdfs:comment	"Johnny Eulogio Palacios Cacho (n\u00E9 le 20 d\u00E9cembre 1986 \u00E0 La Ceiba au Honduras) est un joueur de football international hondurien, qui joue au poste de d\u00E9fenseur.Il \u00E9volue actuellement dans le club hondurien du Club Deportivo Olimpia.Il est le fr\u00E8re de Milton, Jerry, Wilson et Edwin Palacios, tous quatre footballeurs."@fr ,
+		"\u062C\u0648\u0646\u064A \u0625\u064A\u0648\u0644\u0648\u062C\u064A\u0648 \u0628\u0627\u0644\u0627\u0633\u064A\u0648\u0633 \u0643\u0627\u062A\u0634\u0648 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Jhonny Eulogio Palacios Cacho) (\u0645\u0648\u0627\u0644\u064A\u062F 20 \u062F\u064A\u0633\u0645\u0628\u0631 1986 \u0641\u064A \u0644\u0627 \u0633\u064A\u0628\u0627) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0647\u0646\u062F\u0648\u0631\u0627\u0633\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0623\u0648\u0644\u064A\u0645\u0628\u064A\u0627 \u0627\u0644\u0647\u0646\u062F\u0648\u0631\u0627\u0633\u064A ."@ar ,
+		"Johnny Eulogio Palacios Cacho (La Ceiba, 20 dicembre 1986) \u00E8 un calciatore honduregno, difensore del Club Deportivo Olimpia e della Nazionale di calcio dell'Honduras."@it ,
+		"Johnny Eulogio Palacios Cacho (La Ceiba, Honduras, 20 de diciembre de 1986) es un futbolista hondure\u00F1o que juega como defensor en el CD Olimpia de la Liga Nacional de Honduras."@es ,
+		"Johnny Palacios (* 20. Dezember 1986 in La Ceiba) ist ein honduranischer Fu\u00DFballspieler. Der Nationalspieler steht bei CD Olimpia unter Vertrag. Seine Br\u00FCder Milton, Jerry und Wilson spielen ebenfalls f\u00FCr die honduranische Nationalmannschaft."@de ,
+		"\u0414\u0436\u043E\u0301\u043D\u043D\u0438 \u041F\u0430\u043B\u0430\u0301\u0441\u0438\u043E\u0441 (\u0430\u043D\u0433\u043B. \u0438 \u0438\u0441\u043F. Johnny Palacios; 20 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1987, \u041B\u0430-\u0421\u0435\u0439\u0431\u0430) \u2014 \u0433\u043E\u043D\u0434\u0443\u0440\u0430\u0441\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u041E\u043B\u0438\u043C\u043F\u0438\u044F\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0413\u043E\u043D\u0434\u0443\u0440\u0430\u0441\u0430."@ru ,
+		"Johnny Palacios (ur. 20 grudnia 1986 w La Ceibie) \u2013 honduraski pi\u0142karz wyst\u0119puj\u0105cy na pozycji obro\u0144cy. Obecnie gra w Olimpii Tegucigalpa. Jego starsi bracia: Wilson, Jerry i Milton r\u00F3wnie\u017C s\u0105 zawodowymi pi\u0142karzami."@pl ,
+		"Johnny Eulogio Palacios Cacho (born 20 December 1986) is a Honduran footballer who plays as a defender for Olimpia." ,
+		"\u30B8\u30E7\u30CB\u30FC\u30FB\u30A8\u30A6\u30ED\u30B8\u30AA\u30FB\u30D1\u30E9\u30B7\u30AA\u30B9\u30FB\u30B9\u30A2\u30BD\uFF08Johnny Eulogio Palacios Suazo, 1986\u5E7412\u670820\u65E5 - \uFF09\u306F\u3001\u30DB\u30F3\u30B8\u30E5\u30E9\u30B9\u30FB\u30E9\u30FB\u30BB\u30A4\u30D0\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DB\u30F3\u30B8\u30E5\u30E9\u30B9\u4EE3\u8868\u3002CD\u30AA\u30EA\u30F3\u30D4\u30A2\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002"@ja ,
+		"Johnny Eulogio Palacios Cacho (La Ceiba, 20 de dezembro de 1986) \u00E9 um futebolista profissional hondurenho, milita no Club Deportivo Olimpia."@pt ;
+	foaf:surname	"Palacios" ;
+	foaf:isPrimaryTopicOf	ns12:Johnny_Palacios .
+@prefix ns30:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Johnny_Palacios	dbpprop:hasPhotoCollection	ns30:Johnny_Palacios ;
+	dbpprop:name	"Johnny Palacios" ,
+		"Palacios, Johnny" ;
+	dbpedia-owl:abstract	"\u0414\u0436\u043E\u0301\u043D\u043D\u0438 \u041F\u0430\u043B\u0430\u0301\u0441\u0438\u043E\u0441 (\u0430\u043D\u0433\u043B. \u0438 \u0438\u0441\u043F. Johnny Palacios; 20 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1987, \u041B\u0430-\u0421\u0435\u0439\u0431\u0430) \u2014 \u0433\u043E\u043D\u0434\u0443\u0440\u0430\u0441\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u041E\u043B\u0438\u043C\u043F\u0438\u044F\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0413\u043E\u043D\u0434\u0443\u0440\u0430\u0441\u0430."@ru ,
+		"Johnny Eulogio Palacios Cacho (La Ceiba, 20 dicembre 1986) \u00E8 un calciatore honduregno, difensore del Club Deportivo Olimpia e della Nazionale di calcio dell'Honduras."@it ,
+		"Johnny Palacios (ur. 20 grudnia 1986 w La Ceibie) \u2013 honduraski pi\u0142karz wyst\u0119puj\u0105cy na pozycji obro\u0144cy. Obecnie gra w Olimpii Tegucigalpa. Jego starsi bracia: Wilson, Jerry i Milton r\u00F3wnie\u017C s\u0105 zawodowymi pi\u0142karzami."@pl ,
+		"Johnny Eulogio Palacios Cacho (La Ceiba, Honduras, 20 de diciembre de 1986) es un futbolista hondure\u00F1o que juega como defensor en el CD Olimpia de la Liga Nacional de Honduras."@es ,
+		"Johnny Eulogio Palacios Cacho (born 20 December 1986) is a Honduran footballer who plays as a defender for Olimpia." ,
+		"Johnny Palacios (* 20. Dezember 1986 in La Ceiba) ist ein honduranischer Fu\u00DFballspieler. Der Nationalspieler steht bei CD Olimpia unter Vertrag. Seine Br\u00FCder Milton, Jerry und Wilson spielen ebenfalls f\u00FCr die honduranische Nationalmannschaft."@de ,
+		"Johnny Eulogio Palacios Cacho (n\u00E9 le 20 d\u00E9cembre 1986 \u00E0 La Ceiba au Honduras) est un joueur de football international hondurien, qui joue au poste de d\u00E9fenseur.Il \u00E9volue actuellement dans le club hondurien du Club Deportivo Olimpia.Il est le fr\u00E8re de Milton, Jerry, Wilson et Edwin Palacios, tous quatre footballeurs. Le 30 octobre 2007, Edwin, alors \u00E2g\u00E9 de 16 ans, fut enlev\u00E9 \u00E0 La Ceiba par un groupe arm\u00E9.Lors de la coupe du monde 2010 en Afrique du Sud, la s\u00E9lection hondurienne appelle Jerry, Johnny, et Wilson dans son \u00E9quipe, et tient d\u00E9sormais un record. Les trois fr\u00E8res sont le premier et le seul trio de fr\u00E8res \u00E0 disputer une coupe du monde de football pour une seule nation."@fr ,
+		"\u062C\u0648\u0646\u064A \u0625\u064A\u0648\u0644\u0648\u062C\u064A\u0648 \u0628\u0627\u0644\u0627\u0633\u064A\u0648\u0633 \u0643\u0627\u062A\u0634\u0648 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Jhonny Eulogio Palacios Cacho) (\u0645\u0648\u0627\u0644\u064A\u062F 20 \u062F\u064A\u0633\u0645\u0628\u0631 1986 \u0641\u064A \u0644\u0627 \u0633\u064A\u0628\u0627) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0647\u0646\u062F\u0648\u0631\u0627\u0633\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0623\u0648\u0644\u064A\u0645\u0628\u064A\u0627 \u0627\u0644\u0647\u0646\u062F\u0648\u0631\u0627\u0633\u064A ."@ar ,
+		"\u30B8\u30E7\u30CB\u30FC\u30FB\u30A8\u30A6\u30ED\u30B8\u30AA\u30FB\u30D1\u30E9\u30B7\u30AA\u30B9\u30FB\u30B9\u30A2\u30BD\uFF08Johnny Eulogio Palacios Suazo, 1986\u5E7412\u670820\u65E5 - \uFF09\u306F\u3001\u30DB\u30F3\u30B8\u30E5\u30E9\u30B9\u30FB\u30E9\u30FB\u30BB\u30A4\u30D0\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DB\u30F3\u30B8\u30E5\u30E9\u30B9\u4EE3\u8868\u3002CD\u30AA\u30EA\u30F3\u30D4\u30A2\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002"@ja ,
+		"Johnny Eulogio Palacios Cacho (La Ceiba, 20 de dezembro de 1986) \u00E9 um futebolista profissional hondurenho, milita no Club Deportivo Olimpia."@pt ;
+	dbpedia-owl:wikiPageID	6813306 ;
+	dbpedia-owl:wikiPageRevisionID	577091859 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Johnny_Palacios	dbpprop:birthDate	"1986-12-20+02:00"^^xsd:date ;
+	dbpprop:birthPlace	dbpedia:Honduras ,
+		dbpedia:La_Ceiba ;
+	dbpprop:dateOfBirth	"1986-12-20+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	dbpedia:Honduras ,
+		dbpedia:La_Ceiba ;
+	dbpprop:shortDescription	"Honduran footballer" ;
+	dbpedia-owl:birthDate	"1986-12-20+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:La_Ceiba ,
+		dbpedia:Honduras ;
+	dbpedia-owl:birthYear	"1986+02:00"^^xsd:gYear ;
+	dbpprop:bg	"blue" ;
+	dbpprop:years	2006 ;
+	dbpedia-owl:careerStation	dbpedia:Johnny_Palacios__1 ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.8200000000000000622 .
+@prefix ns32:	<http://dbpedia.org/datatype/> .
+@prefix ns33:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Johnny_Palacios	ns33:height	"182.0"^^ns32:centimetre ;
+	dbpprop:currentclub	dbpedia:Club_Deportivo_Olimpia ;
+	dbpprop:clubnumber	30 ;
+	dbpprop:fullname	"Johnny Eulogio Palacios Cacho" ;
+	dbpprop:clubs	dbpedia:Club_Deportivo_Olimpia ;
+	dbpedia-owl:team	dbpedia:Honduras_national_football_team ,
+		dbpedia:Club_Deportivo_Olimpia .
+@prefix ns34:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Johnny_Palacios	dbpprop:wordnet_type	ns34:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Honduras squads" ;
+	dbpprop:pcupdate	2006 ;
+	dbpprop:fg	"White" ;
+	dbpprop:nationalcaps	15 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:Honduras_national_football_team ;
+	dbpprop:nationalyears	2009 ;
+	dbpedia-owl:number	30 ;
+	dbpprop:ntupdate	2011 .
+dbpedia:Club_Deportivo_Olimpia__Johnny_Palacios__1	dbpedia-owl:currentMember	dbpedia:Johnny_Palacios .

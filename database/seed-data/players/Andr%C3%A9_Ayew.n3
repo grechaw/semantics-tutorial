@@ -1,0 +1,236 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:André_Ayew	foaf:primaryTopic	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_Africa_Cup_of_Nations_squads>	dbpprop:name	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Ayew	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+<http://dbpedia.org/resource/Olympique_de_Marseille__Andr%C3%A9_Ayew__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Olympique_de_Marseille_season>	dbpprop:name	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+<http://dbpedia.org/resource/Andr%C3%A9_Ayew>	rdf:type	dbpedia-owl:SoccerPlayer .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Andr%C3%A9_Ayew>	rdf:type	yago:FrenchFootballers ,
+		yago:GhanaInternationalFootballers ,
+		yago:GhanaianFootballers ,
+		yago:FCNaniaPlayers ,
+		dbpedia-owl:Athlete ,
+		yago:CausalAgent100007347 .
+@prefix ns7:	<http://schema.org/> .
+<http://dbpedia.org/resource/Andr%C3%A9_Ayew>	rdf:type	ns7:Person ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:FrenchPeopleOfGhanaianDescent ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:OlympiqueDeMarseillePlayers .
+@prefix ns8:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Andr%C3%A9_Ayew>	rdf:type	ns8:SoccerPlayer .
+@prefix ns9:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Andr%C3%A9_Ayew>	rdf:type	ns9:Q215627 ,
+		yago:Whole100003553 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Andr%C3%A9_Ayew>	rdf:type	owl:Thing ,
+		yago:Object100002684 ,
+		yago:Ligue2Players ,
+		yago:Striker110663996 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Athlete109820263 ,
+		yago:AssociationFootballStrikers ,
+		yago:FootballPlayer110101634 ,
+		yago:AssociationFootballWingers ,
+		yago:Winger110782471 ,
+		yago:Player110439851 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Andr%C3%A9_Ayew>	rdf:type	dul:NaturalPerson ,
+		foaf:Person ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		ns9:Q5 ,
+		dul:Agent ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Person ,
+		yago:Contestant109613191 ,
+		yago:FCLorientPlayers ,
+		yago:Ligue1Players .
+@prefix ns12:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Andr%C3%A9_Ayew>	owl:sameAs	ns12:André_Ayew ,
+		<http://rdf.freebase.com/ns/m.02w4dxc> ,
+		<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Andr%C3%A9_Ayew>	rdfs:label	"Andr\u00E9 Ayew"@pt ,
+		"Andr\u00E9 Ayew"@it ,
+		"\u30A2\u30F3\u30C9\u30EC\u30FB\u30A2\u30A4\u30A7\u30A6"@ja ,
+		"Andr\u00E9 Ayew"@es ,
+		"Andr\u00E9 Ayew"@nl ,
+		"Andr\u00E9 Ayew" ,
+		"Andr\u00E9 Ayew"@pl ,
+		"Andr\u00E9 Ayew"@de ,
+		"\u0623\u0646\u062F\u0631\u064A \u0623\u064A\u0648"@ar ,
+		"Andr\u00E9 Ayew"@fr ,
+		"\u0410\u0439\u044E, \u0410\u043D\u0434\u0440\u0435"@ru .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Andr%C3%A9_Ayew>	dcterms:subject	category:FC_Nania_players ,
+		category:Association_football_strikers ,
+		category:Ligue_1_players ,
+		category:Ligue_2_players ,
+		category:Ghana_under-20_international_footballers ,
+		category:French_people_of_Ghanaian_descent ,
+		category:French_footballers ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2008_Africa_Cup_of_Nations_players> ,
+		category:Ghana_international_footballers ,
+		<http://dbpedia.org/resource/Category:2012_Africa_Cup_of_Nations_players> ,
+		category:Olympique_de_Marseille_players ,
+		category:Ghanaian_footballers ,
+		category:Association_football_wingers ,
+		<http://dbpedia.org/resource/Category:1989_births> ,
+		category:Ghanaian_Muslims ,
+		category:FC_Lorient_players ,
+		<http://dbpedia.org/resource/Category:2010_Africa_Cup_of_Nations_players> ,
+		category:African_Muslims ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Andr\u00E9_Ayew_5438.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Andr%C3%A9_Ayew>	dc:description	"Footballer" ,
+		"Footballer" ;
+	foaf:givenName	"Andre" ;
+	foaf:name	"Andr\u00E9 Ayew" ,
+		"Andre Ayew" ,
+		"Andr\u00E9 Morgan Rami Ayew" ,
+		"Ayew, Andre" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Andr%C3%A9_Ayew>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Andr\u00E9_Ayew?oldid=606359942> ;
+	rdfs:comment	"Andr\u00E9 Dede Ayew (Seclin, 17 de dezembro de 1989) \u00E9 um futebolista franco-gan\u00EAs. Atualmente, defende o Olympique de Marseille.\u00C9 filho do ex-jogador Abedi Pel\u00E9 (cujo nome real \u00E9 Abedi Ayew) e irm\u00E3o dos tamb\u00E9m jogadores Jordan Ayew e Abdul Rahim Ayew."@pt ,
+		"Andr\u00E9 Morgan Rami Ayew (Arabic: \u0623\u0646\u062F\u0631\u064A\u0647 \u0631\u0627\u0645\u064A \u0622\u064A\u0648\u200E: Arabic pronunciation: [a~n\u02C8dr\u2009~\u00E6\u02D0\u2009~ ra~\u02C8mi a~\u02C8je~w] , Akan: pronunciation: /\u00E6\u02C8jju\u02D0/ a-YEW; born 17 December 1989) is a Ghanaian professional footballer who plays for the French Ligue 1 club Marseille and the Ghana national football team. Ayew plays as a winger for Olympique de Marseille." ,
+		"Andr\u00E9 \"Dede\" Ayew (wym. [\u00E6\u02C8jju\u02D0]; urodzony 17 grudnia 1989 w Seclin) \u2013 pi\u0142karz francuski pochodzenia gha\u0144skiego wyst\u0119puj\u0105cy na pozycji napastnika w Olympique Marsylia."@pl ,
+		"Andr\u00E9 Morgan Rami Ayew (Seclin, 17 dicembre 1989) \u00E8 un calciatore ghanese, ala dell'Olympique Marsiglia e della Nazionale ghanese."@it ,
+		"Andr\u00E9 Morgan Rami Ayew (Arabic: </small>\u0623\u0646\u062F\u0631\u064A\u0647 \u0631\u0627\u0645\u064A \u0622\u064A\u0648\u200E: Arabic pronunciation: [a~n\u02C8dr\u2009~\u00E6\u02D0\u2009~ ra~\u02C8mi a~\u02C8je~w] , Akan: </small>pronunciation: /\u00E6\u02C8jju\u02D0/ a-YEW; born 17 December 1989) is a Ghanaian professional footballer who plays for the French Ligue 1 club Marseille and the Ghana national football team. Ayew plays as a winger for Olympique de Marseille." ,
+		"\u0623\u0646\u062F\u0631\u064A \u0623\u064A\u0648\u0648 (\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629: Andr\u00E9 Ayew)\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 17 \u062F\u064A\u0633\u0645\u0628\u0631 1989 \u0641\u064A \u0633\u064A\u0643\u0644\u064A\u0646 \u0641\u064A \u0641\u0631\u0646\u0633\u0627\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u063A\u0627\u0646\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0645\u0627\u0631\u0633\u064A\u0644\u064A\u0627 \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0641\u064A \u0639\u0627\u0645 2007\u060C \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0627\u0644\u0622\u0646.\u0627\u062D\u0631\u0632 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0634\u0627\u0628 \u0628\u0627\u0644\u0642\u0627\u0647\u0631\u0629\u0648 \u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u063A\u0627\u0646\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0646\u0630 \u0639\u0627\u0645 2007.\u064A\u0634\u0627\u0631\u0643 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u063A\u0627\u0646\u0627 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0623\u0645\u0645 \u0623\u0641\u0631\u064A\u0642\u064A\u0627 \u0648\u0647\u0648 \u0635\u0627\u062D\u0628 \u0647\u062F\u0641 \u062A\u0623\u0647\u0644 \u0645\u0646\u062A\u062E\u0628 \u063A\u0627\u0646\u0627 \u0644\u0644\u062F\u0648\u0631 \u0627\u0644\u062B\u0627\u0646\u0649 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0623\u0645\u0645 \u0623\u0641\u0631\u064A\u0642\u064A\u0627 2010 \u0628\u0623\u0646\u062C\u0648\u0644\u0627."@ar ,
+		"\u0410\u043D\u0434\u0440\u0435\u0301 \u0410\u0439\u044E\u0301 (\u0444\u0440. Andr\u00E9 Ayew; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 17 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1989 \u0433\u043E\u0434\u0430, \u0421\u0435\u043A\u043B\u0435\u043D, \u0424\u0440\u0430\u043D\u0446\u0438\u044F) \u2014 \u0433\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439 \u043C\u0430\u0440\u0441\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u041C\u0430\u0440\u0441\u0435\u043B\u044C\u00BB. \u041E\u0442\u0435\u0446 \u0410\u043D\u0434\u0440\u0435 \u2014 \u0410\u0431\u0435\u0434\u0438 \u041F\u0435\u043B\u0435, \u043C\u043B\u0430\u0434\u0448\u0438\u0439 \u0431\u0440\u0430\u0442 \u2014 \u0414\u0436\u043E\u0440\u0434\u0430\u043D \u0410\u0439\u044E."@ru ,
+		"Andr\u00E9 Ayew, n\u00E9 le 17 d\u00E9cembre 1989 \u00E0 Seclin, est un footballeur international ghan\u00E9en qui \u00E9volue au poste de milieu de terrain \u00E0 l'Olympique de Marseille.Il poss\u00E8de \u00E9galement la nationalit\u00E9 fran\u00E7aise.Son fr\u00E8re cadet, Jordan Ayew, est \u00E9galement footballeur professionnel au sein de l'OM."@fr ,
+		"\u30A2\u30F3\u30C9\u30EC\u30FB\u30E2\u30EB\u30AC\u30F3\u30FB\u30E9\u30DF\u30FB\u30A2\u30A4\u30A7\u30A6\uFF08Andr\u00E9 Morgan Rami Ayew, 1989\u5E7412\u670817\u65E5 - \uFF09\u306F\u3001\u30AC\u30FC\u30CA\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30D5\u30E9\u30F3\u30B9\u30FB\u30CE\u30FC\u30EB\u770C\u30B9\u30AF\u30E9\u30F3\u51FA\u8EAB\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9\u3002\u30EA\u30FC\u30B0\u30FB\u30A2\u30F3\u3001\u30AA\u30EA\u30F3\u30D4\u30C3\u30AF\u30FB\u30DE\u30EB\u30BB\u30A4\u30E6\u6240\u5C5E\u3002\u300C\u30A2\u30F3\u30C9\u30EC\u30FB\u30A2\u30E6\u30FC\u300D\u3068\u3082\u8868\u8A18\u3055\u308C\u308B\u3002"@ja ,
+		"Andr\u00E9 Morgan Rami Ayew (Seclin, 17 december 1989) is een Ghanees voetballer die speelt bij Olympique Marseille. Andr\u00E9 Ayew is de zoon van voormalig profvoetballer Ab\u00E9di Pel\u00E9 en heeft twee broers, van wie de ene, Jordan Ayew, bij FC Sochaux speelt en de andere, Abdul Rahim Ayew bij Lierse SK. Hij is sinds 2007 Ghanees international."@nl ,
+		"Andr\u00E9 \u201EDede\u201C Ayew (* 17. Dezember 1989 in Seclin, Frankreich) ist ein franz\u00F6sisch-ghanaischer Fu\u00DFballspieler. Der St\u00FCrmer spielt seit der Saison 2010/11 wieder beim franz\u00F6sischen Erstligisten Olympique Marseille, von dem er 2008 an den FC Lorient und 2009 an AC Arles-Avignon ausgeliehen wurde, und ist auch in der ghanaischen Nationalmannschaft aktiv."@de ,
+		"Andr\u00E9 Ayew (Seclin, Francia, 17 de diciembre de 1989) es un futbolista franco-ghan\u00E9s. Juega de mediocampista y su actual equipo es el Olympique de Marseille de la Ligue 1 de Francia.Hijo del famoso jugador Ab\u00E9di Pel\u00E9, su hermano Jordan Ayew es igualmente jugador por el club marsell\u00E9s."@es ;
+	foaf:surname	"Ayew" ;
+	foaf:isPrimaryTopicOf	ns1:André_Ayew .
+@prefix ns18:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Andr%C3%A9_Ayew>	dbpprop:hasPhotoCollection	ns18:André_Ayew ;
+	dbpprop:caption	"Ayew with Marseille" ;
+	dbpprop:name	"Andr\u00E9 Ayew" ,
+		"Ayew, Andre" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Andr\u00E9_Ayew_5438.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u30A2\u30F3\u30C9\u30EC\u30FB\u30E2\u30EB\u30AC\u30F3\u30FB\u30E9\u30DF\u30FB\u30A2\u30A4\u30A7\u30A6\uFF08Andr\u00E9 Morgan Rami Ayew, 1989\u5E7412\u670817\u65E5 - \uFF09\u306F\u3001\u30AC\u30FC\u30CA\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30D5\u30E9\u30F3\u30B9\u30FB\u30CE\u30FC\u30EB\u770C\u30B9\u30AF\u30E9\u30F3\u51FA\u8EAB\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9\u3002\u30EA\u30FC\u30B0\u30FB\u30A2\u30F3\u3001\u30AA\u30EA\u30F3\u30D4\u30C3\u30AF\u30FB\u30DE\u30EB\u30BB\u30A4\u30E6\u6240\u5C5E\u3002\u300C\u30A2\u30F3\u30C9\u30EC\u30FB\u30A2\u30E6\u30FC\u300D\u3068\u3082\u8868\u8A18\u3055\u308C\u308B\u3002"@ja ,
+		"Andr\u00E9 Morgan Rami Ayew (Arabic: \u0623\u0646\u062F\u0631\u064A\u0647 \u0631\u0627\u0645\u064A \u0622\u064A\u0648\u200E: Arabic pronunciation: [a~n\u02C8dr\u2009~\u00E6\u02D0\u2009~ ra~\u02C8mi a~\u02C8je~w] , Akan: pronunciation: /\u00E6\u02C8jju\u02D0/ a-YEW; born 17 December 1989) is a Ghanaian professional footballer who plays for the French Ligue 1 club Marseille and the Ghana national football team. Ayew plays as a winger for Olympique de Marseille. He is the second-born son of the three-time winner of the African Footballer of the Year award and FIFA 100 member Abedi Pele and has two brothers, Ibrahim and Jordan, who also play football.Ayew began his career in his home country of Ghana playing for Nania. He made his debut for the club at age 14. In 2005, he signed with his father's former club, Marseille, and spent two seasons in the club's youth academy before making his debut for the club in the 2007\u201308 season. In the following two seasons, Ayew played on loan with Lorient and Arles-Avignon helping the latter team earn promotion to Ligue 1 for the first time. In 2010, Ayew returned to Marseille and became an integral part of the first team under manager Didier Deschamps.Though born in France, Ayew is a Ghanaian international. At youth level, he starred for and captained the Ghana under-20 team that won both the 2009 African Youth Championship and the 2009 FIFA U-20 World Cup. At senior level, Ayew made his debut on 21 August 2007 against Senegal at the New Den Stadium in London. He has since represented his nation at the 2008 and 2010 editions of the Africa Cup of Nations and the 2010 FIFA World Cup. On 16 December 2011, a day to his 22nd birthday, he was named the BBC African Footballer of the Year for 2011 and Ayew was crowned as the Ghanaian Footballer of the Year. In the summer of 2013, he was linked with a move to Liverpool F.C. while Newcastle United F.C. were also reported as showing interest." ,
+		"Andr\u00E9 Morgan Rami Ayew (Seclin, 17 dicembre 1989) \u00E8 un calciatore ghanese, ala dell'Olympique Marsiglia e della Nazionale ghanese."@it ,
+		"Andr\u00E9 Dede Ayew (Seclin, 17 de dezembro de 1989) \u00E9 um futebolista franco-gan\u00EAs. Atualmente, defende o Olympique de Marseille.\u00C9 filho do ex-jogador Abedi Pel\u00E9 (cujo nome real \u00E9 Abedi Ayew) e irm\u00E3o dos tamb\u00E9m jogadores Jordan Ayew e Abdul Rahim Ayew."@pt ,
+		"\u0623\u0646\u062F\u0631\u064A \u0623\u064A\u0648\u0648 (\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629: Andr\u00E9 Ayew)\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 17 \u062F\u064A\u0633\u0645\u0628\u0631 1989 \u0641\u064A \u0633\u064A\u0643\u0644\u064A\u0646 \u0641\u064A \u0641\u0631\u0646\u0633\u0627\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u063A\u0627\u0646\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0645\u0627\u0631\u0633\u064A\u0644\u064A\u0627 \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0641\u064A \u0639\u0627\u0645 2007\u060C \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0627\u0644\u0622\u0646.\u0627\u062D\u0631\u0632 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0634\u0627\u0628 \u0628\u0627\u0644\u0642\u0627\u0647\u0631\u0629\u0648 \u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u063A\u0627\u0646\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0646\u0630 \u0639\u0627\u0645 2007.\u064A\u0634\u0627\u0631\u0643 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u063A\u0627\u0646\u0627 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0623\u0645\u0645 \u0623\u0641\u0631\u064A\u0642\u064A\u0627 \u0648\u0647\u0648 \u0635\u0627\u062D\u0628 \u0647\u062F\u0641 \u062A\u0623\u0647\u0644 \u0645\u0646\u062A\u062E\u0628 \u063A\u0627\u0646\u0627 \u0644\u0644\u062F\u0648\u0631 \u0627\u0644\u062B\u0627\u0646\u0649 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0623\u0645\u0645 \u0623\u0641\u0631\u064A\u0642\u064A\u0627 2010 \u0628\u0623\u0646\u062C\u0648\u0644\u0627."@ar ,
+		"Andr\u00E9 Ayew (Seclin, Francia, 17 de diciembre de 1989) es un futbolista franco-ghan\u00E9s. Juega de mediocampista y su actual equipo es el Olympique de Marseille de la Ligue 1 de Francia.Hijo del famoso jugador Ab\u00E9di Pel\u00E9, su hermano Jordan Ayew es igualmente jugador por el club marsell\u00E9s."@es ,
+		"Andr\u00E9 Morgan Rami Ayew (Seclin, 17 december 1989) is een Ghanees voetballer die speelt bij Olympique Marseille. Andr\u00E9 Ayew is de zoon van voormalig profvoetballer Ab\u00E9di Pel\u00E9 en heeft twee broers, van wie de ene, Jordan Ayew, bij FC Sochaux speelt en de andere, Abdul Rahim Ayew bij Lierse SK. Hij is sinds 2007 Ghanees international."@nl ,
+		"Andr\u00E9 \"Dede\" Ayew (wym. [\u00E6\u02C8jju\u02D0]; urodzony 17 grudnia 1989 w Seclin) \u2013 pi\u0142karz francuski pochodzenia gha\u0144skiego wyst\u0119puj\u0105cy na pozycji napastnika w Olympique Marsylia."@pl ,
+		"Andr\u00E9 Morgan Rami Ayew (Arabic: </small>\u0623\u0646\u062F\u0631\u064A\u0647 \u0631\u0627\u0645\u064A \u0622\u064A\u0648\u200E: Arabic pronunciation: [a~n\u02C8dr\u2009~\u00E6\u02D0\u2009~ ra~\u02C8mi a~\u02C8je~w] , Akan: </small>pronunciation: /\u00E6\u02C8jju\u02D0/ a-YEW; born 17 December 1989) is a Ghanaian professional footballer who plays for the French Ligue 1 club Marseille and the Ghana national football team. Ayew plays as a winger for Olympique de Marseille. He is the second-born son of the three-time winner of the African Footballer of the Year award and FIFA 100 member Abedi Pele and has two brothers, Ibrahim and Jordan, who also play football.Ayew began his career in his home country of Ghana playing for Nania. He made his debut for the club at age 14. In 2005, he signed with his father's former club, Marseille, and spent two seasons in the club's youth academy before making his debut for the club in the 2007\u201308 season. In the following two seasons, Ayew played on loan with Lorient and Arles-Avignon helping the latter team earn promotion to Ligue 1 for the first time. In 2010, Ayew returned to Marseille and became an integral part of the first team under manager Didier Deschamps.Though born in France, Ayew is a Ghanaian international. At youth level, he starred for and captained the Ghana under-20 team that won both the 2009 African Youth Championship and the 2009 FIFA U-20 World Cup. At senior level, Ayew made his debut on 21 August 2007 against Senegal at the New Den Stadium in London. He has since represented his nation at the 2008 and 2010 editions of the Africa Cup of Nations and the 2010 FIFA World Cup. On 16 December 2011, a day to his 22nd birthday, he was named the BBC African Footballer of the Year for 2011 and Ayew was crowned as the Ghanaian Footballer of the Year. In the summer of 2013, he was linked with a move to Liverpool F.C. while Newcastle United F.C. were also reported as showing interest." ,
+		"Andr\u00E9 Ayew, n\u00E9 le 17 d\u00E9cembre 1989 \u00E0 Seclin, est un footballeur international ghan\u00E9en qui \u00E9volue au poste de milieu de terrain \u00E0 l'Olympique de Marseille.Il poss\u00E8de \u00E9galement la nationalit\u00E9 fran\u00E7aise.Son fr\u00E8re cadet, Jordan Ayew, est \u00E9galement footballeur professionnel au sein de l'OM."@fr ,
+		"\u0410\u043D\u0434\u0440\u0435\u0301 \u0410\u0439\u044E\u0301 (\u0444\u0440. Andr\u00E9 Ayew; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 17 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1989 \u0433\u043E\u0434\u0430, \u0421\u0435\u043A\u043B\u0435\u043D, \u0424\u0440\u0430\u043D\u0446\u0438\u044F) \u2014 \u0433\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439 \u043C\u0430\u0440\u0441\u0435\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u041C\u0430\u0440\u0441\u0435\u043B\u044C\u00BB. \u041E\u0442\u0435\u0446 \u0410\u043D\u0434\u0440\u0435 \u2014 \u0410\u0431\u0435\u0434\u0438 \u041F\u0435\u043B\u0435, \u043C\u043B\u0430\u0434\u0448\u0438\u0439 \u0431\u0440\u0430\u0442 \u2014 \u0414\u0436\u043E\u0440\u0434\u0430\u043D \u0410\u0439\u044E."@ru ,
+		"Andr\u00E9 \u201EDede\u201C Ayew (* 17. Dezember 1989 in Seclin, Frankreich) ist ein franz\u00F6sisch-ghanaischer Fu\u00DFballspieler. Der St\u00FCrmer spielt seit der Saison 2010/11 wieder beim franz\u00F6sischen Erstligisten Olympique Marseille, von dem er 2008 an den FC Lorient und 2009 an AC Arles-Avignon ausgeliehen wurde, und ist auch in der ghanaischen Nationalmannschaft aktiv. Er ist der Sohn von Ab\u00E9di Pel\u00E9, einem der erfolgreichsten afrikanischen Fu\u00DFballer aller Zeiten, sowie Neffe von Kwame Ayew und Sola Ayew, die ebenfalls bekannte ghanaische Spieler waren. Auch sein \u00E4lterer Bruder Ibrahim und sein j\u00FCngerer Bruder Jordan sind Fu\u00DFballprofis."@de ;
+	dbpedia-owl:wikiPageID	12416277 ;
+	dbpedia-owl:wikiPageRevisionID	606359942 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Andr%C3%A9_Ayew>	dbpprop:birthDate	"1989-12-17+02:00"^^xsd:date ;
+	dbpprop:birthPlace	dbpedia:Seclin ,
+		dbpedia:France ;
+	dbpprop:dateOfBirth	"1989-12-17+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	dbpedia:Seclin ,
+		dbpedia:France ;
+	dbpprop:shortDescription	"Footballer" ;
+	dbpedia-owl:birthDate	"1989-12-17+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Seclin ,
+		dbpedia:France ;
+	dbpedia-owl:birthYear	"1989+02:00"^^xsd:gYear ;
+	dbpprop:last	"Ayew" ;
+	dbpprop:after	"Incumbent" ;
+	dbpprop:before	dbpedia:Stephen_Appiah ,
+		"(Richard Kingson)" ;
+	dbpprop:goals	3 ,
+		36 ;
+	dbpprop:bg	"White" ;
+	dbpprop:caps	114 ,
+		25 ,
+		23 ;
+	dbpprop:years	2009 ,
+		2013 ,
+		2007 ,
+		2008 ;
+	dbpprop:youthclubs	dbpedia:Olympique_de_Marseille ,
+		<http://dbpedia.org/resource/F.C._Nania> ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Andr%C3%A9_Ayew__1> ,
+		<http://dbpedia.org/resource/Andr%C3%A9_Ayew__7> ,
+		<http://dbpedia.org/resource/Andr%C3%A9_Ayew__2> ,
+		<http://dbpedia.org/resource/Andr%C3%A9_Ayew__5> ,
+		<http://dbpedia.org/resource/Andr%C3%A9_Ayew__4> ,
+		<http://dbpedia.org/resource/Andr%C3%A9_Ayew__6> ,
+		<http://dbpedia.org/resource/Andr%C3%A9_Ayew__3> ;
+	dbpprop:position	dbpedia:Midfielder ,
+		<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:position	dbpedia:Midfielder ,
+		<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:height	1.7600000000000000089 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Andr%C3%A9_Ayew>	ns21:height	"176.0"^^ns20:centimetre ;
+	dbpprop:currentclub	dbpedia:Olympique_de_Marseille ;
+	dbpprop:clubnumber	10 ;
+	dbpprop:fullname	"Andr\u00E9 Morgan Rami Ayew" ;
+	dbpprop:clubs	"\u2192 Arles-Avignon" ,
+		"\u2192 Lorient" ,
+		dbpedia:Olympique_de_Marseille ;
+	dbpedia-owl:team	dbpedia:AC_Arles-Avignon ,
+		dbpedia:Ghana_national_under-20_football_team ,
+		dbpedia:Ghana_national_football_team ,
+		<http://dbpedia.org/resource/F.C._Nania> ,
+		dbpedia:Olympique_de_Marseille ,
+		dbpedia:FC_Lorient .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Andr%C3%A9_Ayew>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Ghana squads" ,
+		"Ghana national football team Vice-Captain" ;
+	dbpprop:pcupdate	"2014-03-07+02:00"^^xsd:date ;
+	dbpprop:youthyears	2005 ,
+		1999 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.om.net> ,
+		<http://soccernet.espn.go.com/player/_/id/104030/andre-ayew?cc=5739> .
+@prefix ns23:	<http://www.om.net/fr/Equipes/201002/Effectif_pro/1687/> .
+<http://dbpedia.org/resource/Andr%C3%A9_Ayew>	dbpedia-owl:wikiPageExternalLink	ns23:AYEW ;
+	dbpprop:fg	"Black" ;
+	dbpprop:nationalcaps	12 ,
+		47 ;
+	dbpprop:nationalgoals	4 ;
+	dbpprop:nationalteam	dbpedia:Ghana_national_under-20_football_team ,
+		dbpedia:Ghana_national_football_team ;
+	dbpprop:nationalyears	2007 ,
+		2009 ;
+	dbpedia-owl:number	10 ;
+	dbpprop:ntupdate	"2013-11-19+02:00"^^xsd:date ;
+	dbpprop:first	"Andr\u00E9" .
+dbpedia:André_Ayew	owl:sameAs	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+<http://dbpedia.org/resource/2009%E2%80%9310_Olympique_de_Marseille_season__Andr%C3%A9_Ayew__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+<http://dbpedia.org/resource/2011%E2%80%9312_Olympique_de_Marseille_season__Andr%C3%A9_Ayew__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Olympique_de_Marseille_season__Andr%C3%A9_Ayew__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+<http://dbpedia.org/resource/Andr%C3%A9_Ayew_Pel%C3%A9>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+<http://dbpedia.org/resource/Andr%C3%A9_D%C3%A9d%C3%A9_Ayew>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+<http://dbpedia.org/resource/Andre_\u0027Dede\u0027_Ayew>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+dbpedia:Andre_Ayew	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+dbpedia:Ghana_national_football_team	dbpprop:name	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> ;
+	dbpprop:viceCaptain	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+dbpedia:Ghana_at_the_FIFA_World_Cup	dbpprop:name	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+<http://dbpedia.org/resource/2008_Africa_Cup_of_Nations_squads>	dbpprop:name	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+<http://dbpedia.org/resource/2012_Africa_Cup_of_Nations_squads>	dbpprop:name	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+dbpedia:Ghana_national_under-20_football_team	dbpprop:name	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+<http://dbpedia.org/resource/2009_FIFA_U-20_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+<http://dbpedia.org/resource/2011%E2%80%9312_Olympique_de_Marseille_season>	dbpprop:name	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+<http://dbpedia.org/resource/2009%E2%80%9310_Olympique_de_Marseille_season>	dbpprop:name	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .
+dbpedia:Olympique_de_Marseille	dbpprop:name	<http://dbpedia.org/resource/Andr%C3%A9_Ayew> .

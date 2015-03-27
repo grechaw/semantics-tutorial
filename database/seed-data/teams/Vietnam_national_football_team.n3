@@ -1,0 +1,758 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Falko_G%C3%B6tz>	dbpedia-owl:managerClub	dbpedia:Vietnam_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Falko_G%C3%B6tz>	dbpprop:managerclubs	dbpedia:Vietnam_national_football_team .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns4:	<http://fr.dbpedia.org/resource/> .
+ns4:Équipe_du_Viêt_Nam_de_football	owl:sameAs	dbpedia:Vietnam_national_football_team .
+@prefix ns5:	<http://de.dbpedia.org/resource/> .
+ns5:Vietnamesische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Vietnam_national_football_team .
+@prefix ns6:	<http://wikidata.dbpedia.org/resource/> .
+ns6:Q270689	owl:sameAs	dbpedia:Vietnam_national_football_team .
+@prefix ns7:	<http://cs.dbpedia.org/resource/> .
+ns7:Vietnamská_fotbalová_reprezentace	owl:sameAs	dbpedia:Vietnam_national_football_team .
+@prefix ns8:	<http://es.dbpedia.org/resource/> .
+ns8:Selección_de_fútbol_de_Vietnam	owl:sameAs	dbpedia:Vietnam_national_football_team .
+@prefix ns9:	<http://id.dbpedia.org/resource/> .
+ns9:Tim_nasional_sepak_bola_Vietnam	owl:sameAs	dbpedia:Vietnam_national_football_team .
+@prefix ns10:	<http://it.dbpedia.org/resource/> .
+ns10:Nazionale_di_calcio_del_Vietnam	owl:sameAs	dbpedia:Vietnam_national_football_team .
+@prefix ns11:	<http://ja.dbpedia.org/resource/> .
+ns11:サッカーベトナム代表	owl:sameAs	dbpedia:Vietnam_national_football_team .
+@prefix ns12:	<http://ko.dbpedia.org/resource/> .
+ns12:베트남_축구_국가대표팀	owl:sameAs	dbpedia:Vietnam_national_football_team .
+@prefix ns13:	<http://nl.dbpedia.org/resource/> .
+ns13:Vietnamees_voetbalelftal	owl:sameAs	dbpedia:Vietnam_national_football_team .
+@prefix ns14:	<http://pl.dbpedia.org/resource/> .
+ns14:Reprezentacja_Wietnamu_w_piłce_nożnej	owl:sameAs	dbpedia:Vietnam_national_football_team .
+@prefix ns15:	<http://pt.dbpedia.org/resource/> .
+ns15:Seleção_Vietnamita_de_Futebol	owl:sameAs	dbpedia:Vietnam_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns17:	<http://en.wikipedia.org/wiki/> .
+ns17:Vietnam_national_football_team	foaf:primaryTopic	dbpedia:Vietnam_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Vietnam_national_football_team	rdf:type	yago:YagoLegalActor ,
+		dbpedia-owl:Agent .
+@prefix ns20:	<http://schema.org/> .
+dbpedia:Vietnam_national_football_team	rdf:type	ns20:Organization ,
+		owl:Thing ,
+		ns20:SportsTeam ,
+		yago:AsianNationalAssociationFootballTeams .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Vietnam_national_football_team	rdf:type	dul:Agent ,
+		dul:SocialPerson ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:NationalSportsTeamsOfVietnam ,
+		yago:FootballTeam108080025 ,
+		dbpedia-owl:Organisation ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		yago:YagoLegalActorGeo ;
+	owl:sameAs	ns15:Seleção_Vietnamita_de_Futebol .
+@prefix ns22:	<http://wikidata.org/entity/> .
+dbpedia:Vietnam_national_football_team	owl:sameAs	ns22:Q270689 .
+@prefix ns23:	<http://yago-knowledge.org/resource/> .
+dbpedia:Vietnam_national_football_team	owl:sameAs	ns23:Vietnam_national_football_team .
+@prefix ns24:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Vietnam_national_football_team	owl:sameAs	ns24:Vietnams_herrlandslag_i_fotboll .
+@prefix ns25:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Vietnam_national_football_team	owl:sameAs	ns25:व्हियेतनाम_फुटबॉल_संघ .
+@prefix ns26:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Vietnam_national_football_team	owl:sameAs	ns26:Vietnami_labdarúgó-válogatott .
+@prefix ns27:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Vietnam_national_football_team	owl:sameAs	ns27:تیم_ملی_فوتبال_ویتنام ,
+		ns10:Nazionale_di_calcio_del_Vietnam ,
+		<http://rdf.freebase.com/ns/m.04b6sy> ,
+		ns13:Vietnamees_voetbalelftal .
+@prefix ns28:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Vietnam_national_football_team	owl:sameAs	ns28:Vietnam_national_football_team .
+@prefix ns29:	<http://ms.dbpedia.org/resource/> .
+dbpedia:Vietnam_national_football_team	owl:sameAs	ns29:Pasukan_bola_sepak_kebangsaan_Vietnam .
+@prefix ns30:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Vietnam_national_football_team	owl:sameAs	ns30:Vietnam_national_football_team ,
+		ns9:Tim_nasional_sepak_bola_Vietnam .
+@prefix ns31:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Vietnam_national_football_team	owl:sameAs	ns31:越南國家足球隊 .
+@prefix ns32:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Vietnam_national_football_team	owl:sameAs	ns32:Vietnamo_vyrų_futbolo_rinktinė .
+@prefix ns33:	<http://he.dbpedia.org/resource/> .
+dbpedia:Vietnam_national_football_team	owl:sameAs	ns33:נבחרת_וייטנאם_בכדורגל .
+@prefix ns34:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Vietnam_national_football_team	owl:sameAs	ns34:Đội_tuyển_bóng_đá_quốc_gia_Việt_Nam ,
+		ns7:Vietnamská_fotbalová_reprezentace ,
+		ns8:Selección_de_fútbol_de_Vietnam ,
+		ns11:サッカーベトナム代表 ,
+		ns6:Q270689 .
+@prefix ns35:	<http://et.dbpedia.org/resource/> .
+dbpedia:Vietnam_national_football_team	owl:sameAs	ns35:Vietnami_jalgpallikoondis .
+@prefix ns36:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Vietnam_national_football_team	owl:sameAs	ns36:منتخب_فيتنام_لكرة_القدم .
+@prefix ns37:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Vietnam_national_football_team	owl:sameAs	ns37:Сборная_Вьетнама_по_футболу ,
+		dbpedia:Vietnam_national_football_team .
+@prefix ns38:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Vietnam_national_football_team	owl:sameAs	ns38:Echipa_națională_de_fotbal_a_Vietnamului ,
+		ns4:Équipe_du_Viêt_Nam_de_football .
+@prefix ns39:	<http://th.dbpedia.org/resource/> .
+dbpedia:Vietnam_national_football_team	owl:sameAs	ns39:ฟุตบอลทีมชาติเวียดนาม ,
+		<http://uk.dbpedia.org/resource/\u0417\u0431\u0456\u0440\u043D\u0430_\u0412\u0027\u0454\u0442\u043D\u0430\u043C\u0443_\u0437_\u0444\u0443\u0442\u0431\u043E\u043B\u0443> ,
+		ns14:Reprezentacja_Wietnamu_w_piłce_nożnej ,
+		ns5:Vietnamesische_Fußballnationalmannschaft .
+@prefix ns40:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Vietnam_national_football_team	owl:sameAs	ns40:Vietnam_Millî_Futbol_Takımı ,
+		ns12:베트남_축구_국가대표팀 .
+@prefix ns41:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Vietnam_national_football_team	owl:sameAs	ns41:Vietnamin_jalkapallomaajoukkue .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Vietnam_national_football_team	rdfs:label	"\u8D8A\u5357\u570B\u5BB6\u8DB3\u7403\u968A"@zh ,
+		"\u00C9quipe du Vi\u00EAt Nam de football"@fr ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0641\u064A\u062A\u0646\u0627\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"Reprezentacja Wietnamu w pi\u0142ce no\u017Cnej"@pl ,
+		"Sele\u00E7\u00E3o Vietnamita de Futebol"@pt ,
+		"Vietnam national football team" ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0412\u044C\u0435\u0442\u043D\u0430\u043C\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"Nazionale di calcio del Vietnam"@it ,
+		"Vietnamesische Fu\u00DFballnationalmannschaft"@de ,
+		"Selecci\u00F3n de f\u00FAtbol de Vietnam"@es ,
+		"Vietnamees voetbalelftal"@nl ,
+		"\u30B5\u30C3\u30AB\u30FC\u30D9\u30C8\u30CA\u30E0\u4EE3\u8868"@ja .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Vietnam_national_football_team	dcterms:subject	category:National_sports_teams_of_Vietnam ,
+		category:Asian_national_association_football_teams ,
+		category:Vietnam_national_football_team ;
+	foaf:homepage	<http://www.vff.org.vn/> ;
+	foaf:name	"Vietnam" ;
+	foaf:nick	"Nh\u1EEFng chi\u1EBFn binh \u0111\u1ECF" ,
+		"(The Golden Star)" ,
+		"Ng\u00F4i sao v\u00E0ng" ,
+		"(The Red Warriors)" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Vietnam_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Vietnam_national_football_team?oldid=606001810> ;
+	rdfs:comment	"\u30B5\u30C3\u30AB\u30FC\u30D9\u30C8\u30CA\u30E0\u4EE3\u8868(\u0110\u1ED9i tuy\u1EC3n b\u00F3ng \u0111\u00E1 qu\u1ED1c gia Vi\u1EC7t Nam)\u306F\u3001\u30D9\u30C8\u30CA\u30E0\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08VFF\uFF09\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30A2\u30B8\u30A2\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u304A\u3088\u3073ASEAN\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u6240\u5C5E\u3002\u5F53\u9805\u76EE\u306B\u306F\u30011975\u5E74\u307E\u3067\u306E\u30B5\u30C3\u30AB\u30FC\u5317\u30D9\u30C8\u30CA\u30E0\u4EE3\u8868\u306E\u8A18\u9332\u30FB\u7D4C\u6B74\u304C\u542B\u307E\u308C\u308B\u3002\u540C\u5E74\u307E\u3067\u306E\u5357\u30D9\u30C8\u30CA\u30E0\u4EE3\u8868\u306B\u3064\u3044\u3066\u306F\u30B5\u30C3\u30AB\u30FC\u5357\u30D9\u30C8\u30CA\u30E0\u4EE3\u8868\u3092\u53C2\u7167\u3002"@ja ,
+		"A Sele\u00E7\u00E3o Vietnamita de Futebol representa o Vietn\u00E3 nas competi\u00E7\u00F5es de futebol da FIFA. A Sele\u00E7\u00E3o Vietnamita nunca disputou uma Copa do Mundo FIFA, tendo disputado apenas um torneio oficial: a Copa da \u00C1sia de 2007, como uma das quatro sedes da competi\u00E7\u00E3o, junto com Mal\u00E1sia, Tail\u00E2ndia e Indon\u00E9sia, parando nas quartas-de-final ap\u00F3s ser derrotado por 2 a 0 frente ao Iraque, que viria mais tarde a ser o campe\u00E3o da competi\u00E7\u00E3o.Estreou oficialmente em 1991, num amistoso contra as Filipinas, em Manila."@pt ,
+		"Het Vietnamees voetbalelftal is een team van voetballers dat Vietnam vertegenwoordigt bij internationale wedstrijden zoals de kwalificatiewedstrijden voor het Wereldkampioenschap voetbal, de Asian Cup en het ASEAN voetbalkampioenschap.Tot 1975 vertegenwoordigde het team enkel Noord-Vietnam vanwege de verdeling van het land in Noord- en Zuid-Vietnam. Het Noord-Vietnamese team was niet erg actief en speelde enkel tegen andere communistische landen."@nl ,
+		"\u8D8A\u5357\u56FD\u5BB6\u8DB3\u7403\u961F\uFF08\u8D8A\u5357\u8BED\uFF1A\u0110\u1ED9i tuy\u1EC3n b\u00F3ng \u0111\u00E1 qu\u1ED1c gia Vi\u1EC7t Nam\uFF0F\u968A\u9078\u43FE\u8DE2\u570B\u5BB6\u8D8A\u5357</span>\uFF09\u662F\u8D8A\u5357\u793E\u6703\u4E3B\u7FA9\u5171\u548C\u570B\u7684\u8DB3\u7403\u4EE3\u8868\u961F\uFF0C\u4E4B\u524D\u662F\u6CD5\u570B\u9818\u571F\u6CD5\u5C5E\u5370\u5EA6\u652F\u90A3\uFF0C\u5F8C\u4F86\u4E8C\u6B21\u4E16\u754C\u5927\u6230\u5F8C\u5206\u88C2\u70BA\u5317\u8D8A\u8207\u5357\u8D8A\uFF0C\u4E24\u5730\u7684\u8DB3\u7403\u8FD0\u52A8\u5747\u4F20\u81EA\u6CD5\u56FD\u3002\u5357\u8D8A\u8DB3\u7403\u6210\u7E3E\u9AD8\u65BC\u5317\u8D8A\u5E76\u66FE\u57281956\u5E74\u4E9E\u6D32\u76C3\u548C1960\u5E74\u4E9E\u6D32\u76C3\u83B7\u6BBF\u8ECD\u3002\u800C\u5317\u8D8A\u53EA\u662F\u57281956\u5E74\u52301966\u5E7410\u5E74\u95F4\u4E0E\u5176\u4ED6\u5171\u4EA7\u4E3B\u4E49\u56FD\u5BB6\u8FDB\u884C\u8FC7\u51E0\u573A\u6BD4\u8D5B\u3002\u8D8A\u5357\u5168\u570B\u7D71\u4E00\u5F8C\uFF0C\u53C8\u7D93\u904E\u591A\u5E74\u6230\u722D\uFF0C\u76F4\u52301991\u5E74\u8D8A\u5357\u624D\u5F00\u59CB\u53C3\u52A0\u570B\u969B\u8CFD\u4E8B\u3002\u8D8A\u5357\u53C3\u8207\u570B\u969B\u8CFD\u5F8C\u6210\u7E3E\u53EA\u662F\u4E00\u822C\uFF0C\u76F4\u81F32007\u5E74\u8D8A\u5357\u570B\u5967\u548C\u56FD\u5BB6\u961F\u7686\u53D6\u5F97\u524D\u6240\u672A\u6709\u7684\u597D\u6210\u7E3E\uFF0C\u570B\u5967\u968A\u6253\u5165\u5967\u904B\u5916\u570D\u8CFD\u6C7A\u8CFD\uFF0C\u570B\u5BB6\u968A\u5247\u4EE5\u5176\u4E2D\u4E00\u500B\u4E3B\u8FA6\u570B\u8EAB\u4EFD\u9996\u5EA6\u8FDB\u5165\u4E9E\u6D32\u76C3\u6C7A\u8CFD\u5468\uFF0C\u8D8A\u5357\u5728\u9996\u5708\u5206\u7D44\u8CFD\u9996\u58342-0\u64CA\u6557\u897F\u4E9E\u51A0\u8ECD\u963F\u806F\u914B\uFF0C\u6B21\u6230\u66F4\u8207\u5361\u5854\u723E\u6253\u548C\u3002\u5118\u7BA1\u6700\u5F8C\u5927\u6557\u7D66\u65E5\u672C\uFF0C\u4F46\u4ECD\u6B77\u53F2\u6027\u6253\u5165\u4E9E\u6D32\u676F\u6700\u5F8C\u516B\u5F37\u3002\u5C3D\u7BA1\u8D8A\u5357\u5728\u56DB\u5206\u4E4B\u4E00\u51B3\u8D5B\u8F93\u7ED9\u5F8C\u4F86\u596A\u51A0\u7684\u4F0A\u62C9\u514B\uFF0C\u4F46\u4ED6\u4EEC\u4ECD\u6253\u7834\u4E86\u6771\u5357\u4E9E\u56FD\u5BB6\u591A\u5E74\u7121\u7DE3\u6649\u7D1A\u6DD8\u6C70\u8CFD\u7684\u5C37\u5C2C\u5C40\u9762\u3002\u4E0D\u904E2007\u5E74\u4E4B\u5F8C\uFF0C\u8D8A\u5357\u8DB3\u7403\u518D\u6C92\u6709\u7A81\u7834\u6027\u6210\u7E3E\uFF0C\u57282010\u5E74\u548C2014\u5E74\u4E16\u754C\u676F\u5916\u570D\u8CFD\uFF0C\u4EE5\u53CA2011\u5E74\u548C2015\u5E74\u4E9E\u6D32\u76C3\u5916\u570D\u8CFD\uFF0C\u7686\u65E9\u65E9\u88AB\u6DD8\u6C70\u51FA\u5C40\u3002\u8001\u864E\u676F\u4E0A\uFF0C1998\u5E74\u8D8A\u5357\u66FE\u975E\u5E38\u63A5\u8FD1\u51A0\u519B\uFF0C\u5F53\u65F6\u8D8A\u5357\u662F\u4E1C\u9053\u4E3B\uFF0C\u537B\u5728\u51B3\u8D5B1-0\u8F93\u7ED9\u65B0\u52A0\u5761\u961F\u3002\u4F462008\u5E74\u5E74\u64CA\u6557\u6CF0\u570B\u62FF\u4E0B\u51A0\u8ECD\u3002"@zh ,
+		"\u8D8A\u5357\u56FD\u5BB6\u8DB3\u7403\u961F\uFF08\u8D8A\u5357\u8BED\uFF1A\u0110\u1ED9i tuy\u1EC3n b\u00F3ng \u0111\u00E1 qu\u1ED1c gia Vi\u1EC7t Nam\uFF0F\u968A\u9078\u43FE\u8DE2\u570B\u5BB6\u8D8A\u5357\uFF09\u662F\u8D8A\u5357\u793E\u6703\u4E3B\u7FA9\u5171\u548C\u570B\u7684\u8DB3\u7403\u4EE3\u8868\u961F\uFF0C\u4E4B\u524D\u662F\u6CD5\u570B\u9818\u571F\u6CD5\u5C5E\u5370\u5EA6\u652F\u90A3\uFF0C\u5F8C\u4F86\u4E8C\u6B21\u4E16\u754C\u5927\u6230\u5F8C\u5206\u88C2\u70BA\u5317\u8D8A\u8207\u5357\u8D8A\uFF0C\u4E24\u5730\u7684\u8DB3\u7403\u8FD0\u52A8\u5747\u4F20\u81EA\u6CD5\u56FD\u3002\u5357\u8D8A\u8DB3\u7403\u6210\u7E3E\u9AD8\u65BC\u5317\u8D8A\u5E76\u66FE\u57281956\u5E74\u4E9E\u6D32\u76C3\u548C1960\u5E74\u4E9E\u6D32\u76C3\u83B7\u6BBF\u8ECD\u3002\u800C\u5317\u8D8A\u53EA\u662F\u57281956\u5E74\u52301966\u5E7410\u5E74\u95F4\u4E0E\u5176\u4ED6\u5171\u4EA7\u4E3B\u4E49\u56FD\u5BB6\u8FDB\u884C\u8FC7\u51E0\u573A\u6BD4\u8D5B\u3002\u8D8A\u5357\u5168\u570B\u7D71\u4E00\u5F8C\uFF0C\u53C8\u7D93\u904E\u591A\u5E74\u6230\u722D\uFF0C\u76F4\u52301991\u5E74\u8D8A\u5357\u624D\u5F00\u59CB\u53C3\u52A0\u570B\u969B\u8CFD\u4E8B\u3002\u8D8A\u5357\u53C3\u8207\u570B\u969B\u8CFD\u5F8C\u6210\u7E3E\u53EA\u662F\u4E00\u822C\uFF0C\u76F4\u81F32007\u5E74\u8D8A\u5357\u570B\u5967\u548C\u56FD\u5BB6\u961F\u7686\u53D6\u5F97\u524D\u6240\u672A\u6709\u7684\u597D\u6210\u7E3E\uFF0C\u570B\u5967\u968A\u6253\u5165\u5967\u904B\u5916\u570D\u8CFD\u6C7A\u8CFD\uFF0C\u570B\u5BB6\u968A\u5247\u4EE5\u5176\u4E2D\u4E00\u500B\u4E3B\u8FA6\u570B\u8EAB\u4EFD\u9996\u5EA6\u8FDB\u5165\u4E9E\u6D32\u76C3\u6C7A\u8CFD\u5468\uFF0C\u8D8A\u5357\u5728\u9996\u5708\u5206\u7D44\u8CFD\u9996\u58342-0\u64CA\u6557\u897F\u4E9E\u51A0\u8ECD\u963F\u806F\u914B\uFF0C\u6B21\u6230\u66F4\u8207\u5361\u5854\u723E\u6253\u548C\u3002\u5118\u7BA1\u6700\u5F8C\u5927\u6557\u7D66\u65E5\u672C\uFF0C\u4F46\u4ECD\u6B77\u53F2\u6027\u6253\u5165\u4E9E\u6D32\u676F\u6700\u5F8C\u516B\u5F37\u3002\u5C3D\u7BA1\u8D8A\u5357\u5728\u56DB\u5206\u4E4B\u4E00\u51B3\u8D5B\u8F93\u7ED9\u5F8C\u4F86\u596A\u51A0\u7684\u4F0A\u62C9\u514B\uFF0C\u4F46\u4ED6\u4EEC\u4ECD\u6253\u7834\u4E86\u6771\u5357\u4E9E\u56FD\u5BB6\u591A\u5E74\u7121\u7DE3\u6649\u7D1A\u6DD8\u6C70\u8CFD\u7684\u5C37\u5C2C\u5C40\u9762\u3002\u4E0D\u904E2007\u5E74\u4E4B\u5F8C\uFF0C\u8D8A\u5357\u8DB3\u7403\u518D\u6C92\u6709\u7A81\u7834\u6027\u6210\u7E3E\uFF0C\u57282010\u5E74\u548C2014\u5E74\u4E16\u754C\u676F\u5916\u570D\u8CFD\uFF0C\u4EE5\u53CA2011\u5E74\u548C2015\u5E74\u4E9E\u6D32\u76C3\u5916\u570D\u8CFD\uFF0C\u7686\u65E9\u65E9\u88AB\u6DD8\u6C70\u51FA\u5C40\u3002\u8001\u864E\u676F\u4E0A\uFF0C1998\u5E74\u8D8A\u5357\u66FE\u975E\u5E38\u63A5\u8FD1\u51A0\u519B\uFF0C\u5F53\u65F6\u8D8A\u5357\u662F\u4E1C\u9053\u4E3B\uFF0C\u537B\u5728\u51B3\u8D5B1-0\u8F93\u7ED9\u65B0\u52A0\u5761\u961F\u3002\u4F462008\u5E74\u5E74\u64CA\u6557\u6CF0\u570B\u62FF\u4E0B\u51A0\u8ECD\u3002"@zh ,
+		"Die vietnamesische Fu\u00DFballnationalmannschaft ist die Nationalmannschaft des s\u00FCdostasiatischen Staates Vietnam, sie wird von der Vietnam Football Federation (VFF) organisiert. Die VFF wurde 1962 gegr\u00FCndet und trat zwei Jahre sp\u00E4ter der FIFA bei. Ihre Heimspiele tr\u00E4gt die Mannschaft im M\u1EF9-\u0110\u00ECnh-Nationalstadion der Hauptstadt Hanoi aus, selten wird auch in Nam \u0110\u1ECBnh, H\u1EA3i Ph\u00F2ng und Ho-Chi-Minh-Stadt gespielt."@de ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0641\u064A\u062A\u0646\u0627\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0647\u0648 \u0627\u0644\u0641\u0631\u064A\u0642 \u0627\u0644\u0648\u0637\u0646\u064A \u0644\u0641\u064A\u062A\u0646\u0627\u0645 \u0627\u0644\u0630\u064A \u064A\u0645\u062B\u0644\u0647\u0627 \u0641\u064A \u0627\u0644\u0645\u0633\u0627\u0628\u0642\u0627\u062A \u0627\u0644\u0631\u0633\u0645\u064A\u0629. \u064A\u0646\u0638\u0645\u0647 \u0627\u062A\u062D\u0627\u062F \u0641\u064A\u062A\u0646\u0627\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645\u060C \u0627\u0644\u0630\u064A \u064A\u0646\u062A\u0645\u064A \u0625\u0644\u0649 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0622\u0633\u064A\u0648\u064A . \u0643\u0627\u0646 \u064A\u0645\u062B\u0644 \u0627\u0644\u0634\u0637\u0631\u064A\u0646 \u0627\u0644\u0634\u0645\u0627\u0644\u064A \u0648 \u0627\u0644\u062C\u0646\u0648\u0628\u064A \u0645\u0646 \u0627\u0644\u0628\u0644\u0627\u062F \u0645\u0646\u062A\u062E\u0628\u0627\u0646 \u0645\u0646\u0641\u0635\u0644\u0627\u0646 \u0625\u0644\u0649 \u0623\u0646 \u0623\u062A\u062D\u062F\u0627 \u0641\u064A 1976 .\u0623\u0628\u0631\u0632 \u0627\u0646\u062C\u0627\u0632\u0627\u062A \u0645\u0646\u062A\u062E\u0628 \u0641\u064A\u062A\u0646\u0627\u0645 \u0627\u0644\u062C\u0646\u0648\u0628\u064A\u0629 \u0647\u0648 \u0627\u0644\u062D\u0635\u0648\u0644 \u0639\u0644\u0649 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0631\u0627\u0628\u0639 \u0628\u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0622\u0633\u064A\u0627 \u0645\u0631\u062A\u064A\u0646."@ar ,
+		"\u0421\u0431\u043E\u0301\u0440\u043D\u0430\u044F \u0412\u044C\u0435\u0442\u043D\u0430\u0301\u043C\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u0301\u043B\u0443 \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u0412\u044C\u0435\u0442\u043D\u0430\u043C \u043D\u0430 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0440\u0435\u043D\u0435. \u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E \u043A\u043E\u043C\u0430\u043D\u0434\u043E\u0439 \u043E\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043B\u044F\u0435\u0442 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u0430 \u0412\u044C\u0435\u0442\u043D\u0430\u043C\u0430."@ru ,
+		"The Vietnam national football team (Vietnamese: \u0110\u1ED9i tuy\u1EC3n b\u00F3ng \u0111\u00E1 qu\u1ED1c gia Vi\u1EC7t Nam) is the national football team representing Vietnam in international football competition and is managed by the Vietnam Football Federation.In the FIFA World Rankings, Vietnam's highest standing was in the first release of the figures, in September 1998, at 84th." ,
+		"La nazionale di calcio del Vietnam (in vietnamita \u0110\u1ED9i tuy\u1EC3n b\u00F3ng \u0111\u00E1 qu\u1ED1c gia Vi\u1EC7t Nam) \u00E8 la squadra calcistica nazionale dell'omonimo stato, \u00E8 posta sotto l'egida della Federazione calcistica del Vietnam, a sua volta subordinata alla FIFA.Quando il Vietnam era diviso in Vietnam del Nord e Vietnam del Sud esistevano anche due nazionali."@it ,
+		"W latach 1945-1976, w czasie podzia\u0142u pa\u0144stwa wietnamskiego na Demokratyczn\u0105 Republik\u0119 Wietnamu i Wietnam Po\u0142udniowy, istnia\u0142y dwie wietnamskie reprezentacje. Reprezentacja DR Wietnamu gra\u0142a rzadko, najcz\u0119\u015Bciej z dru\u017Cynami z innych pa\u0144stw komunistycznych, g\u0142\u00F3wnie z Kore\u0105 P\u00F3\u0142nocn\u0105 i Chinami. Ostatni raz wyst\u0105pi\u0142a w 1966 roku. Reprezentacja Wietnamu Po\u0142udniowego by\u0142a znacznie aktywniejsza na futbolowej arenie mi\u0119dzynarodowej."@pl ,
+		"La Selecci\u00F3n de f\u00FAtbol de Vietnam (en vietnamita: \u0110\u1ED9i tuy\u1EC3n b\u00F3ng \u0111\u00E1 qu\u1ED1c gia Vi\u1EC7t Nam) es el equipo representativo del pa\u00EDs en las competiciones oficiales."@es ,
+		"L'\u00E9quipe du Vi\u00EAt Nam de football est une s\u00E9lection des meilleurs joueurs vietnamiens sous l'\u00E9gide de la F\u00E9d\u00E9ration du Vi\u00EAt Nam de football."@fr ;
+	foaf:isPrimaryTopicOf	ns17:Vietnam_national_football_team ;
+	dbpprop:club	<http://dbpedia.org/resource/An_Giang_F.C.> ,
+		<http://dbpedia.org/resource/S%C3%B4ng_Lam_Ngh%E1%BB%87_An_F.C.> ,
+		<http://dbpedia.org/resource/Becamex_Binh_Duong_F.C.> ,
+		<http://dbpedia.org/resource/%C4%90%E1%BB%93ng_T%C3%A2m_Long_An_F.C.> ,
+		<http://dbpedia.org/resource/TDCS_Dong_Thap_F.C.> ,
+		<http://dbpedia.org/resource/QNK_Quang_Nam_F.C.> ,
+		<http://dbpedia.org/resource/SHB_Da_Nang_F.C.> ,
+		<http://dbpedia.org/resource/Hanoi_T&T_F.C.> ,
+		<http://dbpedia.org/resource/Thanh_Hoa_F.C.> ,
+		<http://dbpedia.org/resource/Ho%C3%A0ng_Anh_Gia_Lai_F.C.> ,
+		<http://dbpedia.org/resource/Hai_Phong_F.C.> ,
+		<http://dbpedia.org/resource/Hanoi_F.C.> ,
+		dbpedia:Haiphong ,
+		<http://dbpedia.org/resource/Vissai_Ninh_Binh_F.C.> ,
+		<http://dbpedia.org/resource/FK_Ban%C3%ADk_Most> ;
+	dbpprop:captain	<http://dbpedia.org/resource/L%C3%AA_T%E1%BA%A5n_T%C3%A0i> .
+@prefix ns46:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Vietnam_national_football_team	dbpprop:hasPhotoCollection	ns46:Vietnam_national_football_team ;
+	dbpprop:name	<http://dbpedia.org/resource/L%C3%AA_C%C3%B4ng_Vinh> ,
+		dbpedia:Michal_Nguyen ,
+		"Vietnam" ,
+		dbpedia:Samson_Kayode ,
+		<http://dbpedia.org/resource/Ho%C3%A0ng_V%C4%83n_B%C3%ACnh> ,
+		<http://dbpedia.org/resource/Cao_S%E1%BB%B9_C%C6%B0%E1%BB%9Dng> ,
+		dbpedia:Nguyen_Anh_Duc ,
+		<http://dbpedia.org/resource/Nguy%E1%BB%85n_Quang_H%E1%BA%A3i> ,
+		<http://dbpedia.org/resource/Hu%E1%BB%B3nh_Kesley_Alves> ,
+		dbpedia:Huynh_Quoc_Anh ,
+		<http://dbpedia.org/resource/B%C3%B9i_V%C4%83n_Hi%E1%BA%BFu> ,
+		<http://dbpedia.org/resource/Khu%E1%BA%A5t_H%E1%BB%AFu_Long> ,
+		dbpedia:Pham_Thanh_Luong ,
+		dbpedia:Nguyen_Minh_Duc ,
+		<http://dbpedia.org/resource/Phan_Thanh_B%C3%ACnh> ,
+		<http://dbpedia.org/resource/%C4%90%C3%A0o_V%C4%83n_Phong> ,
+		<http://dbpedia.org/resource/Tr%E1%BA%A7n_M%E1%BA%A1nh_D%C5%A9ng> ,
+		dbpedia:Phung_Van_Nhien ,
+		<http://dbpedia.org/resource/Nguy%E1%BB%85n_Thanh_B%C3%ACnh> ,
+		<http://dbpedia.org/resource/Tr%E1%BA%A7n_B%E1%BB%ADu_Ng%E1%BB%8Dc> ,
+		dbpedia:Nguyen_Minh_Chau ,
+		<http://dbpedia.org/resource/Nguy%E1%BB%85n_Tu%E1%BA%A5n_Phong> ,
+		<http://dbpedia.org/resource/Phan_V%C4%83n_T%C3%A0i_Em> ,
+		<http://dbpedia.org/resource/L%C3%AA_T%E1%BA%A5n_T%C3%A0i> ,
+		<http://dbpedia.org/resource/Hu%E1%BB%B3nh_Quang_Thanh> ,
+		<http://dbpedia.org/resource/%C4%90o%C3%A0n_Vi%E1%BB%87t_C%C6%B0%E1%BB%9Dng> ,
+		dbpedia:Nguyen_Minh_Phuong ,
+		dbpedia:Nguyen_Xuan_Thanh ,
+		dbpedia:Nguyen_Van_Quyet ,
+		<http://dbpedia.org/resource/Phan_V%C4%83n_Santos> ,
+		<http://dbpedia.org/resource/V%C5%A9_Nh%C6%B0_Th%C3%A0nh> ,
+		dbpedia:Truong_Dinh_Luat ,
+		dbpedia:Nguyen_Manh_Dung ,
+		<http://dbpedia.org/resource/L%C3%AA_Ph%C6%B0%E1%BB%9Bc_T%E1%BB%A9> ,
+		<http://dbpedia.org/resource/Ch%C3%A2u_L%C3%AA_Ph%C6%B0%E1%BB%9Bc_V%C4%A9nh> ,
+		<http://dbpedia.org/resource/Nguy%E1%BB%85n_V%C4%83n_Bi%E1%BB%83n> ,
+		<http://dbpedia.org/resource/D%C6%B0%C6%A1ng_Thanh_H%C3%A0o> ,
+		<http://dbpedia.org/resource/Nguy%E1%BB%85n_Tr%E1%BB%8Dng_Ho%C3%A0ng> ,
+		<http://dbpedia.org/resource/L%C3%AA_Quang_H%C3%B9ng> ,
+		<http://dbpedia.org/resource/Nguy%E1%BB%85n_Huy_H%C3%B9ng> ,
+		<http://dbpedia.org/resource/Ph%E1%BA%A1m_M%E1%BA%A1nh_H%C3%B9ng> ,
+		<http://dbpedia.org/resource/Tr%E1%BA%A7n_Nguy%C3%AAn_M%E1%BA%A1nh> ,
+		<http://dbpedia.org/resource/M%E1%BA%A1c_H%E1%BB%93ng_Qu%C3%A2n> ;
+	dbpedia-owl:abstract	"\u30B5\u30C3\u30AB\u30FC\u30D9\u30C8\u30CA\u30E0\u4EE3\u8868(\u0110\u1ED9i tuy\u1EC3n b\u00F3ng \u0111\u00E1 qu\u1ED1c gia Vi\u1EC7t Nam)\u306F\u3001\u30D9\u30C8\u30CA\u30E0\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08VFF\uFF09\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30A2\u30B8\u30A2\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u304A\u3088\u3073ASEAN\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u6240\u5C5E\u3002\u5F53\u9805\u76EE\u306B\u306F\u30011975\u5E74\u307E\u3067\u306E\u30B5\u30C3\u30AB\u30FC\u5317\u30D9\u30C8\u30CA\u30E0\u4EE3\u8868\u306E\u8A18\u9332\u30FB\u7D4C\u6B74\u304C\u542B\u307E\u308C\u308B\u3002\u540C\u5E74\u307E\u3067\u306E\u5357\u30D9\u30C8\u30CA\u30E0\u4EE3\u8868\u306B\u3064\u3044\u3066\u306F\u30B5\u30C3\u30AB\u30FC\u5357\u30D9\u30C8\u30CA\u30E0\u4EE3\u8868\u3092\u53C2\u7167\u3002"@ja ,
+		"The Vietnam national football team (Vietnamese: \u0110\u1ED9i tuy\u1EC3n b\u00F3ng \u0111\u00E1 qu\u1ED1c gia Vi\u1EC7t Nam) is the national football team representing Vietnam in international football competition and is managed by the Vietnam Football Federation.In the FIFA World Rankings, Vietnam's highest standing was in the first release of the figures, in September 1998, at 84th. The team is currently ranked 116th in the World, 16th in Asia and 1st in South East Asia by FIFA (April 2014).By late 1950s, known by the name South Vietnam national football team became one of the four strongest teams in Asia, as they advanced into the final round of 1956 AFC Asian Cup, 1960 AFC Asian Cup, finishing 4th both times. The team also won 10th Merdeka Tournament in Malaysia, 1966.Vietnam is one of the most successful teams in South East Asia along with Thailand, Singapore, Indonesia and Malaysia. Winning the ASEAN Football Championship 2008 and other small competitions and still improving today.While Vietnam was split into North and South Vietnam, two national teams existed and both were controlled by similar Vietnam Football Associations. After the two countries unified in 1976 the Vietnam Football Associations was renamed to Vietnam Football Federation." ,
+		"La Selecci\u00F3n de f\u00FAtbol de Vietnam (en vietnamita: \u0110\u1ED9i tuy\u1EC3n b\u00F3ng \u0111\u00E1 qu\u1ED1c gia Vi\u1EC7t Nam) es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Federaci\u00F3n de F\u00FAtbol de Vietnam, perteneciente a la AFC y es miembro de FIFA.Cuando Vietnam estaba dividido en Vietnam del Norte y Vietnam del Sur, el primero participaba en pocos partidos (sobre todo contra otros pa\u00EDses comunistas) mientras que Vietnam del Sur era mucho m\u00E1s activo teniendo destacadas actuaciones en las primeras ediciones de la Copa Asi\u00E1tica. En 1975 \u00E9ste \u00FAltimo desapareci\u00F3 aunque hasta 1991 no jugaron como un s\u00F3lo equipo.Por lo que su primera y \u00FAnica actuaci\u00F3n fue en la Copa Asi\u00E1tica 2007 en la que estuvo clasificada como equipo anfitri\u00F3n junto con Tailandia, Malasia e Indonesia donde lleg\u00F3 a los Cuartos de final."@es ,
+		"Die vietnamesische Fu\u00DFballnationalmannschaft ist die Nationalmannschaft des s\u00FCdostasiatischen Staates Vietnam, sie wird von der Vietnam Football Federation (VFF) organisiert. Die VFF wurde 1962 gegr\u00FCndet und trat zwei Jahre sp\u00E4ter der FIFA bei. Ihre Heimspiele tr\u00E4gt die Mannschaft im M\u1EF9-\u0110\u00ECnh-Nationalstadion der Hauptstadt Hanoi aus, selten wird auch in Nam \u0110\u1ECBnh, H\u1EA3i Ph\u00F2ng und Ho-Chi-Minh-Stadt gespielt."@de ,
+		"\u8D8A\u5357\u56FD\u5BB6\u8DB3\u7403\u961F\uFF08\u8D8A\u5357\u8BED\uFF1A\u0110\u1ED9i tuy\u1EC3n b\u00F3ng \u0111\u00E1 qu\u1ED1c gia Vi\u1EC7t Nam\uFF0F\u968A\u9078\u43FE\u8DE2\u570B\u5BB6\u8D8A\u5357\uFF09\u662F\u8D8A\u5357\u793E\u6703\u4E3B\u7FA9\u5171\u548C\u570B\u7684\u8DB3\u7403\u4EE3\u8868\u961F\uFF0C\u4E4B\u524D\u662F\u6CD5\u570B\u9818\u571F\u6CD5\u5C5E\u5370\u5EA6\u652F\u90A3\uFF0C\u5F8C\u4F86\u4E8C\u6B21\u4E16\u754C\u5927\u6230\u5F8C\u5206\u88C2\u70BA\u5317\u8D8A\u8207\u5357\u8D8A\uFF0C\u4E24\u5730\u7684\u8DB3\u7403\u8FD0\u52A8\u5747\u4F20\u81EA\u6CD5\u56FD\u3002\u5357\u8D8A\u8DB3\u7403\u6210\u7E3E\u9AD8\u65BC\u5317\u8D8A\u5E76\u66FE\u57281956\u5E74\u4E9E\u6D32\u76C3\u548C1960\u5E74\u4E9E\u6D32\u76C3\u83B7\u6BBF\u8ECD\u3002\u800C\u5317\u8D8A\u53EA\u662F\u57281956\u5E74\u52301966\u5E7410\u5E74\u95F4\u4E0E\u5176\u4ED6\u5171\u4EA7\u4E3B\u4E49\u56FD\u5BB6\u8FDB\u884C\u8FC7\u51E0\u573A\u6BD4\u8D5B\u3002\u8D8A\u5357\u5168\u570B\u7D71\u4E00\u5F8C\uFF0C\u53C8\u7D93\u904E\u591A\u5E74\u6230\u722D\uFF0C\u76F4\u52301991\u5E74\u8D8A\u5357\u624D\u5F00\u59CB\u53C3\u52A0\u570B\u969B\u8CFD\u4E8B\u3002\u8D8A\u5357\u53C3\u8207\u570B\u969B\u8CFD\u5F8C\u6210\u7E3E\u53EA\u662F\u4E00\u822C\uFF0C\u76F4\u81F32007\u5E74\u8D8A\u5357\u570B\u5967\u548C\u56FD\u5BB6\u961F\u7686\u53D6\u5F97\u524D\u6240\u672A\u6709\u7684\u597D\u6210\u7E3E\uFF0C\u570B\u5967\u968A\u6253\u5165\u5967\u904B\u5916\u570D\u8CFD\u6C7A\u8CFD\uFF0C\u570B\u5BB6\u968A\u5247\u4EE5\u5176\u4E2D\u4E00\u500B\u4E3B\u8FA6\u570B\u8EAB\u4EFD\u9996\u5EA6\u8FDB\u5165\u4E9E\u6D32\u76C3\u6C7A\u8CFD\u5468\uFF0C\u8D8A\u5357\u5728\u9996\u5708\u5206\u7D44\u8CFD\u9996\u58342-0\u64CA\u6557\u897F\u4E9E\u51A0\u8ECD\u963F\u806F\u914B\uFF0C\u6B21\u6230\u66F4\u8207\u5361\u5854\u723E\u6253\u548C\u3002\u5118\u7BA1\u6700\u5F8C\u5927\u6557\u7D66\u65E5\u672C\uFF0C\u4F46\u4ECD\u6B77\u53F2\u6027\u6253\u5165\u4E9E\u6D32\u676F\u6700\u5F8C\u516B\u5F37\u3002\u5C3D\u7BA1\u8D8A\u5357\u5728\u56DB\u5206\u4E4B\u4E00\u51B3\u8D5B\u8F93\u7ED9\u5F8C\u4F86\u596A\u51A0\u7684\u4F0A\u62C9\u514B\uFF0C\u4F46\u4ED6\u4EEC\u4ECD\u6253\u7834\u4E86\u6771\u5357\u4E9E\u56FD\u5BB6\u591A\u5E74\u7121\u7DE3\u6649\u7D1A\u6DD8\u6C70\u8CFD\u7684\u5C37\u5C2C\u5C40\u9762\u3002\u4E0D\u904E2007\u5E74\u4E4B\u5F8C\uFF0C\u8D8A\u5357\u8DB3\u7403\u518D\u6C92\u6709\u7A81\u7834\u6027\u6210\u7E3E\uFF0C\u57282010\u5E74\u548C2014\u5E74\u4E16\u754C\u676F\u5916\u570D\u8CFD\uFF0C\u4EE5\u53CA2011\u5E74\u548C2015\u5E74\u4E9E\u6D32\u76C3\u5916\u570D\u8CFD\uFF0C\u7686\u65E9\u65E9\u88AB\u6DD8\u6C70\u51FA\u5C40\u3002\u8001\u864E\u676F\u4E0A\uFF0C1998\u5E74\u8D8A\u5357\u66FE\u975E\u5E38\u63A5\u8FD1\u51A0\u519B\uFF0C\u5F53\u65F6\u8D8A\u5357\u662F\u4E1C\u9053\u4E3B\uFF0C\u537B\u5728\u51B3\u8D5B1-0\u8F93\u7ED9\u65B0\u52A0\u5761\u961F\u3002\u4F462008\u5E74\u5E74\u64CA\u6557\u6CF0\u570B\u62FF\u4E0B\u51A0\u8ECD\u3002"@zh ,
+		"W latach 1945-1976, w czasie podzia\u0142u pa\u0144stwa wietnamskiego na Demokratyczn\u0105 Republik\u0119 Wietnamu i Wietnam Po\u0142udniowy, istnia\u0142y dwie wietnamskie reprezentacje. Reprezentacja DR Wietnamu gra\u0142a rzadko, najcz\u0119\u015Bciej z dru\u017Cynami z innych pa\u0144stw komunistycznych, g\u0142\u00F3wnie z Kore\u0105 P\u00F3\u0142nocn\u0105 i Chinami. Ostatni raz wyst\u0105pi\u0142a w 1966 roku. Reprezentacja Wietnamu Po\u0142udniowego by\u0142a znacznie aktywniejsza na futbolowej arenie mi\u0119dzynarodowej. Dwukrotnie \u2013 w 1956 i 1960 roku \u2013 bra\u0142a udzia\u0142 w fina\u0142ach rozgrywek o Puchar Azji. W obu turniejach zaj\u0119\u0142a czwarte miejsce.Wietnam Po\u0142udniowy bra\u0142 te\u017C udzia\u0142 w eliminacjach do mistrzostw \u015Bwiata w roku 1974. Jednak przegra\u0142 wszystkie mecze w swojej grupie (0:1 z Hongkongiem i 0:4 z Japoni\u0105).Po zjednoczeniu i proklamowaniu w lipcu 1976 roku Socjalistycznej Republiki Wietnamu dru\u017Cyna narodowa nie zagra\u0142a ani razu przez pi\u0119tna\u015Bcie lat. Dopiero w listopadzie 1991 meczem z Filipinami Wietnam powr\u00F3ci\u0142 do rodziny pi\u0142karskich dru\u017Cyn narodowych.Od tego czasu ani razu nie uda\u0142o mu si\u0119 awansowa\u0107 ani do fina\u0142\u00F3w mistrzostw \u015Bwiata, ani rozgrywek o Puchar Azji. W tej drugiej imprezie zadebiutowa\u0142a w 2007 roku jako jeden z czterech gospodarzy turnieju. Od 2005 do 2007 roku trenerem Wietnamu by\u0142 po raz trzeci w karierze Alfred Riedl, by\u0142y selekcjoner reprezentacji Austrii.W 2007 reprezentacja Wietnamu odnios\u0142a sw\u00F3j najwi\u0119kszy sukces w historii dochodz\u0105c do \u0107wier\u0107fina\u0142u Pucharu Azji."@pl ,
+		"\u0421\u0431\u043E\u0301\u0440\u043D\u0430\u044F \u0412\u044C\u0435\u0442\u043D\u0430\u0301\u043C\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u0301\u043B\u0443 \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u0412\u044C\u0435\u0442\u043D\u0430\u043C \u043D\u0430 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0440\u0435\u043D\u0435. \u0420\u0443\u043A\u043E\u0432\u043E\u0434\u0441\u0442\u0432\u043E \u043A\u043E\u043C\u0430\u043D\u0434\u043E\u0439 \u043E\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043B\u044F\u0435\u0442 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u0430 \u0412\u044C\u0435\u0442\u043D\u0430\u043C\u0430."@ru ,
+		"L'\u00E9quipe du Vi\u00EAt Nam de football est une s\u00E9lection des meilleurs joueurs vietnamiens sous l'\u00E9gide de la F\u00E9d\u00E9ration du Vi\u00EAt Nam de football."@fr ,
+		"Het Vietnamees voetbalelftal is een team van voetballers dat Vietnam vertegenwoordigt bij internationale wedstrijden zoals de kwalificatiewedstrijden voor het Wereldkampioenschap voetbal, de Asian Cup en het ASEAN voetbalkampioenschap.Tot 1975 vertegenwoordigde het team enkel Noord-Vietnam vanwege de verdeling van het land in Noord- en Zuid-Vietnam. Het Noord-Vietnamese team was niet erg actief en speelde enkel tegen andere communistische landen. Vietnam kon zich nog nooit via de kwalificatieronden plaatsen voor een WK of een Asian Cup. In 2007 waren ze als \u00E9\u00E9n van de vier gastlanden automatisch geplaatst voor de eindronde van de Asian Cup 2007."@nl ,
+		"\u8D8A\u5357\u56FD\u5BB6\u8DB3\u7403\u961F\uFF08\u8D8A\u5357\u8BED\uFF1A\u0110\u1ED9i tuy\u1EC3n b\u00F3ng \u0111\u00E1 qu\u1ED1c gia Vi\u1EC7t Nam\uFF0F\u968A\u9078\u43FE\u8DE2\u570B\u5BB6\u8D8A\u5357</span>\uFF09\u662F\u8D8A\u5357\u793E\u6703\u4E3B\u7FA9\u5171\u548C\u570B\u7684\u8DB3\u7403\u4EE3\u8868\u961F\uFF0C\u4E4B\u524D\u662F\u6CD5\u570B\u9818\u571F\u6CD5\u5C5E\u5370\u5EA6\u652F\u90A3\uFF0C\u5F8C\u4F86\u4E8C\u6B21\u4E16\u754C\u5927\u6230\u5F8C\u5206\u88C2\u70BA\u5317\u8D8A\u8207\u5357\u8D8A\uFF0C\u4E24\u5730\u7684\u8DB3\u7403\u8FD0\u52A8\u5747\u4F20\u81EA\u6CD5\u56FD\u3002\u5357\u8D8A\u8DB3\u7403\u6210\u7E3E\u9AD8\u65BC\u5317\u8D8A\u5E76\u66FE\u57281956\u5E74\u4E9E\u6D32\u76C3\u548C1960\u5E74\u4E9E\u6D32\u76C3\u83B7\u6BBF\u8ECD\u3002\u800C\u5317\u8D8A\u53EA\u662F\u57281956\u5E74\u52301966\u5E7410\u5E74\u95F4\u4E0E\u5176\u4ED6\u5171\u4EA7\u4E3B\u4E49\u56FD\u5BB6\u8FDB\u884C\u8FC7\u51E0\u573A\u6BD4\u8D5B\u3002\u8D8A\u5357\u5168\u570B\u7D71\u4E00\u5F8C\uFF0C\u53C8\u7D93\u904E\u591A\u5E74\u6230\u722D\uFF0C\u76F4\u52301991\u5E74\u8D8A\u5357\u624D\u5F00\u59CB\u53C3\u52A0\u570B\u969B\u8CFD\u4E8B\u3002\u8D8A\u5357\u53C3\u8207\u570B\u969B\u8CFD\u5F8C\u6210\u7E3E\u53EA\u662F\u4E00\u822C\uFF0C\u76F4\u81F32007\u5E74\u8D8A\u5357\u570B\u5967\u548C\u56FD\u5BB6\u961F\u7686\u53D6\u5F97\u524D\u6240\u672A\u6709\u7684\u597D\u6210\u7E3E\uFF0C\u570B\u5967\u968A\u6253\u5165\u5967\u904B\u5916\u570D\u8CFD\u6C7A\u8CFD\uFF0C\u570B\u5BB6\u968A\u5247\u4EE5\u5176\u4E2D\u4E00\u500B\u4E3B\u8FA6\u570B\u8EAB\u4EFD\u9996\u5EA6\u8FDB\u5165\u4E9E\u6D32\u76C3\u6C7A\u8CFD\u5468\uFF0C\u8D8A\u5357\u5728\u9996\u5708\u5206\u7D44\u8CFD\u9996\u58342-0\u64CA\u6557\u897F\u4E9E\u51A0\u8ECD\u963F\u806F\u914B\uFF0C\u6B21\u6230\u66F4\u8207\u5361\u5854\u723E\u6253\u548C\u3002\u5118\u7BA1\u6700\u5F8C\u5927\u6557\u7D66\u65E5\u672C\uFF0C\u4F46\u4ECD\u6B77\u53F2\u6027\u6253\u5165\u4E9E\u6D32\u676F\u6700\u5F8C\u516B\u5F37\u3002\u5C3D\u7BA1\u8D8A\u5357\u5728\u56DB\u5206\u4E4B\u4E00\u51B3\u8D5B\u8F93\u7ED9\u5F8C\u4F86\u596A\u51A0\u7684\u4F0A\u62C9\u514B\uFF0C\u4F46\u4ED6\u4EEC\u4ECD\u6253\u7834\u4E86\u6771\u5357\u4E9E\u56FD\u5BB6\u591A\u5E74\u7121\u7DE3\u6649\u7D1A\u6DD8\u6C70\u8CFD\u7684\u5C37\u5C2C\u5C40\u9762\u3002\u4E0D\u904E2007\u5E74\u4E4B\u5F8C\uFF0C\u8D8A\u5357\u8DB3\u7403\u518D\u6C92\u6709\u7A81\u7834\u6027\u6210\u7E3E\uFF0C\u57282010\u5E74\u548C2014\u5E74\u4E16\u754C\u676F\u5916\u570D\u8CFD\uFF0C\u4EE5\u53CA2011\u5E74\u548C2015\u5E74\u4E9E\u6D32\u76C3\u5916\u570D\u8CFD\uFF0C\u7686\u65E9\u65E9\u88AB\u6DD8\u6C70\u51FA\u5C40\u3002\u8001\u864E\u676F\u4E0A\uFF0C1998\u5E74\u8D8A\u5357\u66FE\u975E\u5E38\u63A5\u8FD1\u51A0\u519B\uFF0C\u5F53\u65F6\u8D8A\u5357\u662F\u4E1C\u9053\u4E3B\uFF0C\u537B\u5728\u51B3\u8D5B1-0\u8F93\u7ED9\u65B0\u52A0\u5761\u961F\u3002\u4F462008\u5E74\u5E74\u64CA\u6557\u6CF0\u570B\u62FF\u4E0B\u51A0\u8ECD\u3002"@zh ,
+		"La nazionale di calcio del Vietnam (in vietnamita \u0110\u1ED9i tuy\u1EC3n b\u00F3ng \u0111\u00E1 qu\u1ED1c gia Vi\u1EC7t Nam) \u00E8 la squadra calcistica nazionale dell'omonimo stato, \u00E8 posta sotto l'egida della Federazione calcistica del Vietnam, a sua volta subordinata alla FIFA.Quando il Vietnam era diviso in Vietnam del Nord e Vietnam del Sud esistevano anche due nazionali. Mentre quella del nord partecipava a poche rare manifestazioni con altre nazionali comuniste, la nazionale del Vietnam del Sud, al contrario, era molto attiva: partecip\u00F2 infatti alle prime due edizioni della Coppa d'Asia classificandosi entrambe le volte al quarto posto. Il Vietnam del Sud gioc\u00F2 la sua ultima partita nel 1975, ma la nazionale unificata gioc\u00F2 il suo primo match soltanto 16 anni dopo, nel 1991.L'unico risultato degno di nota della nazionale asiatica \u00E8 il primo posto nel Campionato di calcio dell'ASEAN (meglio noto come AFF Suzuki Cup; gi\u00E0 Tiger Cup) del 2008: la squadra vinse in finale (un po' a sorpresa) contro Thailandia."@it ,
+		"A Sele\u00E7\u00E3o Vietnamita de Futebol representa o Vietn\u00E3 nas competi\u00E7\u00F5es de futebol da FIFA. A Sele\u00E7\u00E3o Vietnamita nunca disputou uma Copa do Mundo FIFA, tendo disputado apenas um torneio oficial: a Copa da \u00C1sia de 2007, como uma das quatro sedes da competi\u00E7\u00E3o, junto com Mal\u00E1sia, Tail\u00E2ndia e Indon\u00E9sia, parando nas quartas-de-final ap\u00F3s ser derrotado por 2 a 0 frente ao Iraque, que viria mais tarde a ser o campe\u00E3o da competi\u00E7\u00E3o.Estreou oficialmente em 1991, num amistoso contra as Filipinas, em Manila. A partida terminou empatada em 2 a 2. Participou pela primeira vez como Vietn\u00E3 apenas nas Eliminat\u00F3rias da Copa do Mundo FIFA de 1994. Vinte anos antes, como Vietn\u00E3 do Sul, superou a Tail\u00E2ndia por 1 a 0, perdendo as partidas contra Jap\u00E3o e Hong Kong, por 4 a 0 e 1 a 0, respectivamente."@pt ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0641\u064A\u062A\u0646\u0627\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0647\u0648 \u0627\u0644\u0641\u0631\u064A\u0642 \u0627\u0644\u0648\u0637\u0646\u064A \u0644\u0641\u064A\u062A\u0646\u0627\u0645 \u0627\u0644\u0630\u064A \u064A\u0645\u062B\u0644\u0647\u0627 \u0641\u064A \u0627\u0644\u0645\u0633\u0627\u0628\u0642\u0627\u062A \u0627\u0644\u0631\u0633\u0645\u064A\u0629. \u064A\u0646\u0638\u0645\u0647 \u0627\u062A\u062D\u0627\u062F \u0641\u064A\u062A\u0646\u0627\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645\u060C \u0627\u0644\u0630\u064A \u064A\u0646\u062A\u0645\u064A \u0625\u0644\u0649 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0622\u0633\u064A\u0648\u064A . \u0643\u0627\u0646 \u064A\u0645\u062B\u0644 \u0627\u0644\u0634\u0637\u0631\u064A\u0646 \u0627\u0644\u0634\u0645\u0627\u0644\u064A \u0648 \u0627\u0644\u062C\u0646\u0648\u0628\u064A \u0645\u0646 \u0627\u0644\u0628\u0644\u0627\u062F \u0645\u0646\u062A\u062E\u0628\u0627\u0646 \u0645\u0646\u0641\u0635\u0644\u0627\u0646 \u0625\u0644\u0649 \u0623\u0646 \u0623\u062A\u062D\u062F\u0627 \u0641\u064A 1976 .\u0623\u0628\u0631\u0632 \u0627\u0646\u062C\u0627\u0632\u0627\u062A \u0645\u0646\u062A\u062E\u0628 \u0641\u064A\u062A\u0646\u0627\u0645 \u0627\u0644\u062C\u0646\u0648\u0628\u064A\u0629 \u0647\u0648 \u0627\u0644\u062D\u0635\u0648\u0644 \u0639\u0644\u0649 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0631\u0627\u0628\u0639 \u0628\u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0622\u0633\u064A\u0627 \u0645\u0631\u062A\u064A\u0646."@ar ;
+	dbpedia-owl:wikiPageID	1145542 ;
+	dbpedia-owl:wikiPageRevisionID	606001810 ;
+	dbpprop:location	dbpedia:Hanoi .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Vietnam_national_football_team	dbpprop:latest	"--07-17+02:00"^^xsd:gMonthDay ,
+		"--11-15+02:00"^^xsd:gMonthDay ,
+		"--11-19+02:00"^^xsd:gMonthDay ;
+	dbpprop:topScorer	<http://dbpedia.org/resource/L%C3%AA_C%C3%B4ng_Vinh> ;
+	dbpprop:round	2015 ;
+	dbpprop:after	2010 ;
+	dbpprop:before	2007 ;
+	dbpprop:style	"\"text-align:center;\"" ;
+	dbpprop:clubnat	"VIE" ,
+		"CZE" ;
+	dbpprop:goals	"Qu\u1ED1c Anh" ,
+		"Tr\u1ECDng Ho\u00E0ng" ,
+		"Ka Wai" ,
+		11 ,
+		12 ,
+		13 ,
+		2 ,
+		"Anh \u0110\u1EE9c" ,
+		3 ,
+		0 ,
+		7 ,
+		4 ,
+		5 ,
+		31 .
+@prefix ns48:	<http://dbpedia.org/datatype/> .
+dbpedia:Vietnam_national_football_team	dbpprop:time	"1260.0"^^ns48:second ;
+	dbpprop:stadium	<http://dbpedia.org/resource/M%E1%BB%B9_%C4%90%C3%ACnh_National_Stadium> ;
+	dbpprop:report	<http://vff.org.vn/vi/asian-cup-2015-404/vl-asian-cup-2015-dt-viet-nam-dt-hong-kong-tq-3-1-21696.html> ;
+	dbpprop:score	3 ;
+	dbpprop:caps	73 ,
+		69 ,
+		45 ,
+		38 ,
+		56 ,
+		49 ,
+		50 ,
+		55 ,
+		8 ,
+		11 ,
+		13 ,
+		0 ,
+		1 ,
+		2 ,
+		5 ,
+		6 ,
+		7 ,
+		24 ,
+		25 ,
+		31 ,
+		17 ,
+		18 ,
+		20 ,
+		22 ;
+	dbpprop:years	2008 ;
+	dbpprop:age	"1983-09-14+02:00"^^xsd:date ,
+		"1991-06-23+02:00"^^xsd:date ,
+		"1985-04-27+02:00"^^xsd:date ,
+		"1989-04-14+02:00"^^xsd:date ,
+		"1985-06-06+02:00"^^xsd:date ,
+		"1981-08-28+02:00"^^xsd:date ,
+		"1991-06-19+02:00"^^xsd:date ,
+		"1977-09-30+02:00"^^xsd:date ,
+		"1981-04-29+02:00"^^xsd:date ,
+		"1988-10-06+02:00"^^xsd:date ,
+		"1989-10-02+02:00"^^xsd:date ,
+		"1985-01-01+02:00"^^xsd:date ,
+		"1988-09-10+02:00"^^xsd:date ,
+		"1991-06-27+02:00"^^xsd:date ,
+		"1985-01-25+02:00"^^xsd:date ,
+		"1985-12-10+02:00"^^xsd:date ,
+		"1983-11-12+02:00"^^xsd:date ,
+		"1991-12-20+02:00"^^xsd:date ,
+		"1984-01-04+02:00"^^xsd:date ,
+		"1980-07-05+02:00"^^xsd:date ,
+		"1990-03-09+02:00"^^xsd:date ,
+		"1982-11-23+02:00"^^xsd:date ,
+		"1993-03-03+02:00"^^xsd:date ,
+		"1982-04-23+02:00"^^xsd:date ,
+		"1985-11-01+02:00"^^xsd:date ,
+		"1985-01-09+02:00"^^xsd:date ,
+		"1981-10-14+02:00"^^xsd:date ,
+		"1985-06-22+02:00"^^xsd:date ,
+		"1984-04-26+02:00"^^xsd:date ,
+		"1985-01-13+02:00"^^xsd:date ,
+		"1986-11-01+02:00"^^xsd:date ,
+		"1985-03-22+02:00"^^xsd:date ,
+		"1992-06-22+02:00"^^xsd:date ,
+		"1981-12-23+02:00"^^xsd:date ,
+		"1989-12-04+02:00"^^xsd:date ,
+		"1992-06-07+02:00"^^xsd:date ,
+		"1987-02-19+02:00"^^xsd:date ,
+		"1987-08-11+02:00"^^xsd:date ,
+		"1984-10-10+02:00"^^xsd:date ,
+		"1984-04-15+02:00"^^xsd:date ,
+		"1989-02-01+02:00"^^xsd:date ,
+		"1992-01-01+02:00"^^xsd:date ;
+	dbpprop:asstManager	dbpedia:Le_Tuan_Long ,
+		"Phung Thanh Phuong" ,
+		"Quach Ngoc Minh" ;
+	dbpprop:coach	"Vacancy" ;
+	dbpprop:patternSh	"_nikered" ,
+		"36000.0"^^ns48:second ,
+		"_nikewhite" ;
+	dbpprop:patternSo	"36000.0"^^ns48:second ,
+		"_redtop" ,
+		"_yellowtop" ;
+	dbpprop:stack	"yes" ;
+	dbpprop:date	"2014-03-05+02:00"^^xsd:date ;
+	dbpprop:viceCaptain	dbpedia:Pham_Thanh_Luong ;
+	dbpprop:association	"Vietnam Football Federation" ;
+	dbpprop:badgeSize	200 ;
+	dbpprop:body	"FF0000" ,
+		"FFFFFF" ;
+	dbpprop:confederation	dbpedia:Asian_Football_Confederation ;
+	dbpprop:fifaRank	1169 ;
+	dbpprop:fifaTrigramme	"VIE" ;
+	dbpprop:leftarm	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:patternB	"36000.0"^^ns48:second ,
+		"_whitearc" ,
+		"43200.0"^^ns48:second ,
+		"_VIE09a" ,
+		"32400.0"^^ns48:second ,
+		"_vneckyellowred" ,
+		"_cuciturerev" ,
+		"_VIE12a" ,
+		"_VIE10a" ;
+	dbpprop:patternLa	"_whiteborder" ,
+		"36000.0"^^ns48:second ,
+		"_yellowborder" ,
+		"_redborder" ,
+		"_VIE10a2" ;
+	dbpprop:patternRa	"_whiteborder" ,
+		"36000.0"^^ns48:second ,
+		"_yellowborder" ,
+		"_redborder" ,
+		"_VIE10a" ;
+	dbpprop:rightarm	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:shorts	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:socks	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:no	20 ,
+		21 ,
+		22 ,
+		23 ,
+		16 ,
+		17 ,
+		18 ,
+		19 ,
+		12 ,
+		13 ,
+		14 ,
+		15 ,
+		8 ,
+		10 ,
+		11 ,
+		4 ,
+		5 ,
+		6 ,
+		7 ,
+		1 ,
+		3 ;
+	dbpprop:title	2012 ,
+		2009 ,
+		2010 ,
+		2005 ,
+		dbpedia:ASEAN_Football_Championship ,
+		"Links to related articles" ;
+	dbpprop:pos	"GK" ,
+		"DF" ,
+		"FW" ,
+		"MF" ;
+	dbpprop:result	"W" ;
+	dbpprop:president	dbpedia:Nguyen_Trong_Hy ;
+	dbpprop:badge	"VFF2008.png" ;
+	dbpprop:firstGame	2 ;
+	dbpprop:largestLoss	6 ;
+	dbpprop:largestWin	11 ;
+	dbpprop:regionalCupApps	1 ;
+	dbpprop:regionalCupBest	"Quarter-Finals, 2007" ;
+	dbpprop:regionalCupFirst	2007 ;
+	dbpprop:regionalName	dbpedia:AFC_Asian_Cup ;
+	dbpprop:eloMax	58 ;
+	dbpprop:eloMin	175 ;
+	dbpprop:eloMinDate	"January 1995" ;
+	dbpprop:eloRank	145 ;
+	dbpprop:fifaMax	84 ;
+	dbpprop:fifaMaxDate	"September 1998" ;
+	dbpprop:fifaMin	172 ;
+	dbpprop:fifaMinDate	"December 2006" ;
+	dbpprop:subConfederation	dbpedia:ASEAN_Football_Federation ;
+	dbpedia-owl:wikiPageExternalLink	<http://vff.org.vn/vi/asian-cup-2015-404/vl-asian-cup-2015-dt-viet-nam-dt-hong-kong-tq-3-1-21696.html> ,
+		<http://www.vff.org.vn/> ,
+		<http://www.fifa.com/associations/association=vie/index.html> ;
+	dbpprop:homeStadium	<http://dbpedia.org/resource/M%E1%BB%B9_%C4%90%C3%ACnh_National_Stadium> ;
+	dbpedia-owl:stadium	<http://dbpedia.org/resource/M%E1%BB%B9_%C4%90%C3%ACnh_National_Stadium> ;
+	dbpprop:nickname	"Nh\u1EEFng chi\u1EBFn binh \u0111\u1ECF" ,
+		"Ng\u00F4i sao v\u00E0ng" .
+<http://dbpedia.org/resource/Cao_S%E1%BB%B9_C%C6%B0%E1%BB%9Dng>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Hong_Son	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/%C4%90%E1%BA%B7ng_V%C4%83n_Th%C3%A0nh>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/V%C6%B0%C6%A1ng_Ti%E1%BA%BFn_D%C5%A9ng>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Dinh_Thanh_Trung	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Phung_Cong_Minh	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Ho%C3%A0ng_V%C4%83n_B%C3%ACnh>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_Quang_H%E1%BA%A3i>	dbpedia-owl:birthPlace	dbpedia:Vietnam_national_football_team ;
+	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Vu_Phong	dbpedia-owl:birthPlace	dbpedia:Vietnam_national_football_team ;
+	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Anh_Duc	dbpedia-owl:birthPlace	dbpedia:Vietnam_national_football_team ;
+	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Huynh_Quoc_Anh	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Tr%E1%BA%A7n_Minh_Quang>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/L%C3%AA_B%E1%BA%ADt_Hi%E1%BA%BFu>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/V%C3%B5_Ho%C3%A0ng_Qu%E1%BA%A3ng>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Mai_Tien_Thanh	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Minh_Duc	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Pham_Thanh_Luong	dbpedia-owl:birthPlace	dbpedia:Vietnam_national_football_team ;
+	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Viet_Thang	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Ngoc_Thanh	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Phan_Thanh_B%C3%ACnh>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Dang_Phuong_Nam	dbpedia-owl:birthPlace	dbpedia:Vietnam_national_football_team ;
+	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Mai_Xuan_Hop	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Th%E1%BA%A1ch_B%E1%BA%A3o_Khanh>	dbpedia-owl:birthPlace	dbpedia:Vietnam_national_football_team ;
+	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Tran_Duc_Duong	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/V%C5%A9_Minh_Hi%E1%BA%BFu>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Le_Van_Truong	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_Thanh_B%C3%ACnh>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/%C4%90%C3%A0o_V%C4%83n_Phong>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Tr%E1%BA%A7n_M%E1%BA%A1nh_D%C5%A9ng>	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Phung_Van_Nhien	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Vu_Anh_Tuan	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Tr%E1%BA%A7n_B%E1%BB%ADu_Ng%E1%BB%8Dc>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/L%C3%AA_Quang_C%C6%B0%E1%BB%9Dng>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Pham_Minh_Duc	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_Qu%E1%BB%91c_Long>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/%C3%82u_V%C4%83n_Ho%C3%A0n>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/B%C3%B9i_T%E1%BA%A5n_Tr%C6%B0%E1%BB%9Dng>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_Tu%E1%BA%A5n_Phong>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Minh_Chuyen	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Ho%C3%A0ng_V%C4%83n_Ph%C3%BAc>	dbpedia-owl:managerClub	dbpedia:Vietnam_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Minh_Chau	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/V%C3%B5_Duy_Nam>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Phan_Thanh_H%C3%B9ng>	dbpedia-owl:managerClub	dbpedia:Vietnam_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Vietnam_national_football_team ;
+	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_Gia_T%E1%BB%AB>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_Huy_Ho%C3%A0ng>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Tran_Truong_Giang	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/L%C3%AA_H%E1%BB%93ng_Minh>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Phan_V%C4%83n_T%C3%A0i_Em>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/L%C3%AA_S%E1%BB%B9_M%E1%BA%A1nh>	dbpedia-owl:birthPlace	dbpedia:Vietnam_national_football_team ;
+	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Phan_Thanh_Giang	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Chu_Ngoc_Anh	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/L%C3%AA_T%E1%BA%A5n_T%C3%A0i>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Hu%E1%BB%B3nh_Quang_Thanh>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nam_Nguy%E1%BB%85n_Th%C3%A0nh>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/L%C3%AA_V%C4%83n_Th%E1%BA%AFng>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Ho%C3%A0ng_%C4%90%C3%ACnh_T%C3%B9ng>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/L%C6%B0%C6%A1ng_Trung_Tu%E1%BA%A5n>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_H%E1%BB%93ng_Ti%E1%BA%BFn>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_Anh_%C4%90%E1%BB%A9c_(born_1980)>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_H%E1%BB%AFu_Th%E1%BA%AFng_(born_1972)>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Phan_Thanh_H%C6%B0ng>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/%C4%90o%C3%A0n_Vi%E1%BB%87t_C%C6%B0%E1%BB%9Dng>	dbpedia-owl:birthPlace	dbpedia:Vietnam_national_football_team ;
+	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Minh_Phuong	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Thanh_Long_Giang	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Van_Quyet	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Tran_Chi_Cong	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/D%C6%B0%C6%A1ng_H%E1%BB%93ng_S%C6%A1n>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Xuan_Thanh	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_Anh_Tu%E1%BA%A5n>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Pham_Hai_Nam	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Truong_Dinh_Luat	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/V%C5%A9_Nh%C6%B0_Th%C3%A0nh>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_Th%E1%BA%BF_Anh>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_Ho%C3%A0ng_V%C6%B0%C6%A1ng>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Luong_Van_Duoc_Em	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Tr%E1%BA%A7n_H%E1%BA%A3i_L%C3%A2m>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/L%C3%AA_Ph%C6%B0%E1%BB%9Bc_T%E1%BB%A9>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Hu%E1%BB%B3nh_Ph%C3%BAc_Hi%E1%BB%87p>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Manh_Dung	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Pham_Van_Quyen	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Ph%E1%BA%A1m_Nguy%C3%AAn_Sa>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_V%C4%83n_Bi%E1%BB%83n>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_Tr%E1%BB%8Dng_Ho%C3%A0ng>	dbpedia-owl:birthPlace	dbpedia:Vietnam_national_football_team ;
+	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Ph%E1%BA%A1m_H%C3%B9ng_D%C5%A9ng>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Tr%E1%BA%A7n_Tr%E1%BB%8Dng_B%C3%ACnh>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Ch%C3%A2u_L%C3%AA_Ph%C6%B0%E1%BB%9Bc_V%C4%A9nh>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Tr%E1%BA%A7n_%C4%90%E1%BB%A9c_C%C6%B0%E1%BB%9Dng>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/M%E1%BB%B9_%C4%90%C3%ACnh_National_Stadium>	dbpprop:tenants	dbpedia:Vietnam_national_football_team ;
+	dbpedia-owl:tenant	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/2007_in_Japanese_football>	dbpprop:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Ch%C3%A2u_Phong_H%C3%B2a>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Bui_Quang_Huy	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/M%E1%BA%A1c_H%E1%BB%93ng_Qu%C3%A2n>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/L%C3%AA_Hu%E1%BB%B3nh_%C4%90%E1%BB%A9c>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Dylan_Kerr	dbpedia-owl:managerClub	dbpedia:Vietnam_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Vietnam_national_football_team .
+dbpedia:Edson_Tavares	dbpprop:managerclubs	dbpedia:Vietnam_national_football_team .
+dbpedia:Henrique_Calisto	dbpprop:managerclubs	dbpedia:Vietnam_national_football_team .
+ns36:منتخب_فيتنام_لكرة_القدم	owl:sameAs	dbpedia:Vietnam_national_football_team .
+ns35:Vietnami_jalgpallikoondis	owl:sameAs	dbpedia:Vietnam_national_football_team .
+ns27:تیم_ملی_فوتبال_ویتنام	owl:sameAs	dbpedia:Vietnam_national_football_team .
+ns41:Vietnamin_jalkapallomaajoukkue	owl:sameAs	dbpedia:Vietnam_national_football_team .
+ns33:נבחרת_וייטנאם_בכדורגל	owl:sameAs	dbpedia:Vietnam_national_football_team .
+ns28:Vietnam_national_football_team	owl:sameAs	dbpedia:Vietnam_national_football_team .
+ns26:Vietnami_labdarúgó-válogatott	owl:sameAs	dbpedia:Vietnam_national_football_team .
+ns32:Vietnamo_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Vietnam_national_football_team .
+ns25:व्हियेतनाम_फुटबॉल_संघ	owl:sameAs	dbpedia:Vietnam_national_football_team .
+ns29:Pasukan_bola_sepak_kebangsaan_Vietnam	owl:sameAs	dbpedia:Vietnam_national_football_team .
+ns38:Echipa_națională_de_fotbal_a_Vietnamului	owl:sameAs	dbpedia:Vietnam_national_football_team .
+ns37:Сборная_Вьетнама_по_футболу	owl:sameAs	dbpedia:Vietnam_national_football_team .
+ns30:Vietnam_national_football_team	owl:sameAs	dbpedia:Vietnam_national_football_team .
+ns24:Vietnams_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Vietnam_national_football_team .
+ns39:ฟุตบอลทีมชาติเวียดนาม	owl:sameAs	dbpedia:Vietnam_national_football_team .
+ns40:Vietnam_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Vietnam_national_football_team .
+<http://uk.dbpedia.org/resource/\u0417\u0431\u0456\u0440\u043D\u0430_\u0412\u0027\u0454\u0442\u043D\u0430\u043C\u0443_\u0437_\u0444\u0443\u0442\u0431\u043E\u043B\u0443>	owl:sameAs	dbpedia:Vietnam_national_football_team .
+ns34:Đội_tuyển_bóng_đá_quốc_gia_Việt_Nam	owl:sameAs	dbpedia:Vietnam_national_football_team .
+ns31:越南國家足球隊	owl:sameAs	dbpedia:Vietnam_national_football_team .
+dbpedia:Karl-Heinz_Weigang	dbpedia-owl:managerClub	dbpedia:Vietnam_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Phan_Thanh_H%C3%B9ng__3>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Phan_Thanh_H%C3%B9ng__6>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_Gia_T%E1%BB%AB__1>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Alfred_Riedl	dbpedia-owl:managerClub	dbpedia:Vietnam_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Ngoc_Duy__3	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Manh_Dung__7	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Pham_Thanh_Luong__6	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Pham_Van_Quyen__4	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Dinh_Thanh_Trung__1	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/%C4%90%C3%A0o_V%C4%83n_Phong__1>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Hu%E1%BB%B3nh_Kesley_Alves>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Phan_V%C4%83n_Santos>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/L%C3%AA_C%C3%B4ng_Vinh__9>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Hu%E1%BB%B3nh_Kesley_Alves__3>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Hong_Son__3	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Viet_Thang__7	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Alfred_Riedl__16	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Alfred_Riedl__18	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Alfred_Riedl__14	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Dido_(footballer)__4>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Chu_Ngoc_Anh__1	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Falko_G%C3%B6tz__14>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Karl-Heinz_Weigang__9	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/L%C3%AA_S%E1%BB%B9_M%E1%BA%A1nh__1>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/D%C6%B0%C6%A1ng_H%E1%BB%93ng_S%C6%A1n__4>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_V%C4%83n_Bi%E1%BB%83n__2>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/V%C3%B5_Duy_Nam__2>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Minh_Chau__3	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/M%E1%BA%A1c_H%E1%BB%93ng_Qu%C3%A2n__6>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_H%E1%BB%93ng_Ti%E1%BA%BFn__3>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Xuan_Thanh__1	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Tr%E1%BA%A7n_B%E1%BB%ADu_Ng%E1%BB%8Dc__3>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Vu_Anh_Tuan__2	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Tr%E1%BA%A7n_Minh_Quang__3>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Dang_Phuong_Nam__2	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Hu%E1%BB%B3nh_Quang_Thanh__4>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Mai_Tien_Thanh__2	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_Thanh_B%C3%ACnh__2>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Minh_Chuyen__6	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/V%C5%A9_Nh%C6%B0_Th%C3%A0nh__5>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/L%C3%AA_T%E1%BA%A5n_T%C3%A0i__5>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Tran_Duc_Duong__3	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Michal_Nguyen__3	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Th%E1%BA%A1ch_B%E1%BA%A3o_Khanh__4>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_Tr%E1%BB%8Dng_Ho%C3%A0ng__4>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Ph%E1%BA%A1m_Nguy%C3%AAn_Sa__1>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Th%E1%BA%A1ch_B%E1%BA%A3o_Khanh__5>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Cao_S%E1%BB%B9_C%C6%B0%E1%BB%9Dng__5>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Hu%E1%BB%B3nh_Ph%C3%BAc_Hi%E1%BB%87p__1>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Phan_V%C4%83n_Santos__5>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Phung_Cong_Minh__2	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Tran_Truong_Giang__4	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Vu_Phong__5	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/L%C3%AA_Ph%C6%B0%E1%BB%9Bc_T%E1%BB%A9__1>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/L%C3%AA_Quang_C%C6%B0%E1%BB%9Dng__1>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Ph%E1%BA%A1m_H%C3%B9ng_D%C5%A9ng__1>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Anh_Duc__3	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Phan_Thanh_H%C6%B0ng__1>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Cong_Huy__2	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Ch%C3%A2u_Phong_H%C3%B2a__5>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Ho%C3%A0ng_%C4%90%C3%ACnh_T%C3%B9ng__4>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_Anh_%C4%90%E1%BB%A9c_(born_1980)__4>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Minh_Duc__2	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Pham_Minh_Duc__4	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Ho%C3%A0ng_V%C4%83n_Ph%C3%BAc__5>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Huynh_Quoc_Anh__2	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_Ho%C3%A0ng_V%C6%B0%C6%A1ng__3>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/%C4%90o%C3%A0n_Vi%E1%BB%87t_C%C6%B0%E1%BB%9Dng__7>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/L%C3%AA_V%C4%83n_Th%E1%BA%AFng__1>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Phan_V%C4%83n_T%C3%A0i_Em__6>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Tran_Chi_Cong__3	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_Huy_Ho%C3%A0ng__1>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Van_Quyet__2	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Phung_Van_Nhien__1	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Tr%E1%BA%A7n_%C4%90%E1%BB%A9c_C%C6%B0%E1%BB%9Dng__3>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_Quang_H%E1%BA%A3i__5>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Truong_Dinh_Luat__4	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/L%C3%AA_H%E1%BB%93ng_Minh__5>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Minh_Phuong__6	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Tr%E1%BA%A7n_H%E1%BA%A3i_L%C3%A2m__2>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Nguy%E1%BB%85n_Th%E1%BA%BF_Anh__5>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/L%C6%B0%C6%A1ng_Trung_Tu%E1%BA%A5n__5>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/%C3%82u_V%C4%83n_Ho%C3%A0n__2>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Cong_Huy	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Nguyen_Ngoc_Duy	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Tran_Dinh_Dong	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/L%C3%AA_C%C3%B4ng_Vinh>	dbpedia-owl:birthPlace	dbpedia:Vietnam_national_football_team ;
+	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Michal_Nguyen	dbpedia-owl:team	dbpedia:Vietnam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vietnam_national_football_team .
+dbpedia:Dylan_Kerr__17	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Dido_(footballer)>	dbpedia-owl:managerClub	dbpedia:Vietnam_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/Phan_Thanh_B%C3%ACnh__5>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/B%C3%B9i_T%E1%BA%A5n_Tr%C6%B0%E1%BB%9Dng__4>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Pham_Hai_Nam__2	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Vietnam_National_Football_Team	dbpedia-owl:wikiPageRedirects	dbpedia:Vietnam_national_football_team .
+dbpedia:Tran_Dinh_Dong__2	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+<http://dbpedia.org/resource/L%C3%AA_Hu%E1%BB%B3nh_%C4%90%E1%BB%A9c__5>	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .
+dbpedia:Le_Van_Truong__3	dbpedia-owl:team	dbpedia:Vietnam_national_football_team .

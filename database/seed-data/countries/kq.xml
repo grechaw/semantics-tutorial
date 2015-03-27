@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xml:base="http://www.daml.org/2001/12/factbook/kq">
+  <rdf:Description rdf:about='#A56638'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>6.4</NS0:latitude>
+    <NS0:longitude>-162.4</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56658'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>unnamed location</NS0:name>
+    <NS0:elevation>1</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56679'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>none; offshore anchorage only</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56653'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Pacific Ocean</NS0:name>
+    <NS0:elevation>0</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#KQ'>
+    <NS0:background>The US annexed the reef in 1922. Its sheltered lagoon served as a way station for flying boats on Hawaii-to-American Samoa flights during the late 1930s. There is no flora on the reef, which is frequently awash, but it does support an abundant and diverse marine fauna. In 2001, the waters surrounding the reef were designated a National Wildlife Refuge.</NS0:background>
+    <NS0:location>Oceania, reef in the North Pacific Ocean, about one-half of the way from Hawaii to American Samoa</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A56638'/>
+    <NS0:mapReferences>Oceania</NS0:mapReferences>
+    <NS0:totalArea>1</NS0:totalArea>
+    <NS0:landArea>1</NS0:landArea>
+    <NS0:waterArea>0</NS0:waterArea>
+    <NS0:comparativeArea>about 1.7 times the size of The Mall in Washington, DC</NS0:comparativeArea>
+    <NS0:coastline>3</NS0:coastline>
+    <NS0:exclusiveEconomicZone>200</NS0:exclusiveEconomicZone>
+    <NS0:territorialSea>12</NS0:territorialSea>
+    <NS0:climate>tropical, but moderated by prevailing winds</NS0:climate>
+    <NS0:terrain>low and nearly level</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A56653'/>
+    <NS0:highestPoint rdf:resource='#A56658'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#terrestrial_and_aquatic_wildlife'/>
+    <NS0:arableLand>0</NS0:arableLand>
+    <NS0:permanentCrops>0</NS0:permanentCrops>
+    <NS0:permanentPastures>0</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>0</NS0:forestsAndWoodland>
+    <NS0:otherLandUse>100</NS0:otherLandUse>
+    <NS0:irrigatedLand rdf:ID='A56669'>0</NS0:irrigatedLand>
+    <NS0:naturalHazard>wet or awash most of the time, maximum elevation of about 1 meter makes Kingman Reef a maritime hazard</NS0:naturalHazard>
+    <NS0:environmentalIssue>none</NS0:environmentalIssue>
+    <NS0:conventionalLongCountryName>none</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Kingman Reef</NS0:conventionalShortCountryName>
+    <NS0:dependencyStatus>unincorporated territory of the US; administered from Washington, DC, by the US Fish and Wildlife Service of the Department of the Interior</NS0:dependencyStatus>
+    <NS0:legalSystem>the laws of the US, where applicable, apply</NS0:legalSystem>
+    <NS0:flagDescription>the flag of the US is used</NS0:flagDescription>
+    <NS0:economyOverview>no economic activity</NS0:economyOverview>
+    <NS0:port rdf:resource='#A56679'/>
+    <NS0:internationalDispute>none</NS0:internationalDispute>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/kq-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/kq-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/kq-map.jpg</NS0:map>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56669'>
+    <NS0:year>1996</NS0:year>
+  </rdf:Description>
+</rdf:RDF>

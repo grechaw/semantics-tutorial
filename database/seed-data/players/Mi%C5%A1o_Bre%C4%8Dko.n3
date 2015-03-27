@@ -1,0 +1,221 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Mišo_Brečko	foaf:primaryTopic	<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko>	rdf:type	foaf:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko>	rdf:type	yago:Contestant109613191 .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko>	rdf:type	dbpedia-owl:Agent ,
+		dbpedia-owl:Person ,
+		yago:ExpatriateFootballersInGermany ,
+		yago:HamburgerSVPlayers ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:Athlete109820263 ,
+		yago:YagoLegalActor .
+@prefix ns5:	<http://schema.org/> .
+<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko>	rdf:type	ns5:Person ,
+		yago:LivingPeople ,
+		yago:FootballPlayer110101634 ,
+		yago:SlovenianFootballers ,
+		yago:SloveniaInternationalFootballers ,
+		yago:SlovenianExpatriateFootballers ,
+		<http://dbpedia.org/class/yago/F.C.HansaRostockPlayers> ,
+		<http://dbpedia.org/class/yago/Fu%C3%9Fball-BundesligaPlayers> ,
+		yago:Player110439851 ,
+		dbpedia-owl:Athlete ,
+		<http://dbpedia.org/class/yago/1.FCK%C3%B6lnPlayers> ,
+		yago:PhysicalEntity100001930 ,
+		yago:SlovenianExpatriatesInGermany ,
+		dbpedia-owl:SoccerPlayer .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko>	rdf:type	dul:NaturalPerson ,
+		yago:Whole100003553 .
+@prefix ns7:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko>	rdf:type	ns7:Q5 ,
+		yago:Object100002684 ,
+		<http://dbpedia.org/class/yago/2.Fu%C3%9Fball-BundesligaPlayers> ,
+		dul:Agent ,
+		yago:PeopleFromTrbovlje .
+@prefix ns8:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko>	rdf:type	ns8:SoccerPlayer ,
+		yago:FCErzgebirgeAuePlayers ,
+		ns7:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko>	rdf:type	owl:Thing ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.02qm42g> .
+@prefix ns10:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko>	owl:sameAs	ns10:Mišo_Brečko ,
+		<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko>	rdfs:label	"Mi\u0161o Bre\u010Dko"@de ,
+		"\u0645\u064A\u0634\u0648 \u0628\u0631\u064A\u062A\u0634\u0643\u0648"@ar ,
+		"Mi\u0161o Bre\u010Dko"@it ,
+		"\u30DF\u30B7\u30E7\u30FB\u30D6\u30EC\u30C1\u30E5\u30B3"@ja ,
+		"Mi\u0161o Bre\u010Dko"@fr ,
+		"Mi\u0161o Bre\u010Dko"@pl ,
+		"Mi\u0161o Bre\u010Dko" ,
+		"\u99AC\u65AF\u5967\u00B7\u6BD4\u65AF\u9AD8"@zh ,
+		"Mi\u0161o Bre\u010Dko"@nl ,
+		"\u0411\u0440\u0435\u0447\u043A\u043E, \u041C\u0438\u0448\u043E"@ru ,
+		"Mi\u0161o Bre\u010Dko"@pt ,
+		"Mi\u0161o Bre\u010Dko"@es .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko>	dcterms:subject	<http://dbpedia.org/resource/Category:1984_births> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko>	dcterms:subject	category:Bundesliga_players ,
+		<http://dbpedia.org/resource/Category:2._Bundesliga_players> ,
+		<http://dbpedia.org/resource/Category:F.C._Hansa_Rostock_players> ,
+		category:Expatriate_footballers_in_Germany ,
+		category:Living_people ,
+		category:Association_football_defenders ,
+		category:NK_Interblock_Ljubljana_players ,
+		category:People_from_Trbovlje ,
+		category:FC_Erzgebirge_Aue_players ,
+		<http://dbpedia.org/resource/Category:1._FC_K%C3%B6ln_players> ,
+		category:Hamburger_SV_players ,
+		category:Slovenia_under-21_international_footballers ,
+		category:Slovenian_footballers ,
+		category:Slovenia_international_footballers ,
+		category:Slovenian_expatriate_footballers ,
+		category:Slovenian_expatriates_in_Germany .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko>	dc:description	"Slovenian footballer" ,
+		"Slovenian footballer" ;
+	foaf:givenName	"Mi\u0161o" ;
+	foaf:name	"Bre\u010Dko, Mi\u0161o" ,
+		"Mi\u0161o Bre\u010Dko" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Mi\u0161o_Bre\u010Dko?oldid=605788025> ;
+	rdfs:comment	"Mi\u0161o Bre\u010Dko [mi\u0283o br\u025Bt\u0283ko] (* 1. Mai 1984 in Trbovlje, SFR Jugoslawien) ist ein slowenischer Fu\u00DFballspieler."@de ,
+		"\u30DF\u30B7\u30E7\u30FB\u30D6\u30EC\u30C1\u30E5\u30B3\uFF08Mi\u0161o Bre\u010Dko\u30011984\u5E745\u67081\u65E5 - \uFF09\u306F\u3001\u30B9\u30ED\u30D9\u30CB\u30A2\u30FB\u30C8\u30EB\u30DC\u30F4\u30EA\u30A7\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30B9\u30ED\u30D9\u30CB\u30A2\u4EE3\u8868\u3067\u3042\u308B\u30021.FC\u30B1\u30EB\u30F3\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FDF\u30FBMF\u3002"@ja ,
+		"Mi\u0161o Bre\u010Dko (born 1 May 1984 in Trbovlje) is a Slovenian footballer who plays as a defender for German club 1. FC K\u00F6ln and the Slovenian national team." ,
+		"Mi\u0161o Bre\u010Dko (Trbovlje, Eslovenia, 1 de mayo de 1984), futbolista esloveno. Juega de defensa y su actual equipo es el FC Colonia de la Bundesliga de Alemania."@es ,
+		"Mi\u0161o Bre\u010Dko (Trbovlije, 1 de maio de 1984) \u00E9 um futebolista profissional esloveno, defensor, milita no 1. FC K\u00F6ln."@pt ,
+		"\u99AC\u65AF\u5967\u00B7\u6BD4\u65AF\u9AD8\uFF08\u82F1\u8BED\uFF1AMi\u0161o Bre\u010Dko\uFF0C1984\u5E745\u67081\u65E5\uFF0D\uFF09\uFF0C\u662F\u4E00\u540D\u65AF\u6D1B\u6587\u5C3C\u4E9E\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u53F8\u804C\u5F8C\u885B\u53CA\u4E2D\u5834\uFF0C\u76EE\u524D\u6548\u529B\u5FB7\u7532\u7403\u961F\u79D1\u9686\u3002"@zh ,
+		"Mi\u0161o Bre\u010Dko est un footballeur international slov\u00E8ne n\u00E9 le 1er mai 1984 \u00E0 Trbovlje. Il \u00E9volue actuellement au poste d'arri\u00E8re lat\u00E9ral pour le FC Cologne en Bundesliga."@fr ,
+		"Mi\u0161o Bre\u010Dko (ur. 1 maja 1984 w Trbovlje) pi\u0142karz s\u0142owe\u0144ski graj\u0105cy na pozycji prawego obro\u0144cy. Mierzy 178 cm wzrostu, wa\u017Cy 68 kg."@pl ,
+		"Mi\u0161o Bre\u010Dko (Trbovlje, 1\u00BA maggio 1984) \u00E8 un calciatore sloveno, difensore del Colonia e della Nazionale slovena."@it ,
+		"Mi\u0161o Bre\u010Dko (Trbovlje, 1 mei 1984) is een Sloveens profvoetballer die sinds 2008 uitkomt voor Bundesligaclub 1. FC K\u00F6ln. Hij speelt meestal als verdediger, maar kan ook uit de voeten als middenvelder."@nl ,
+		"\u041C\u0438\u0448\u043E \u0411\u0440\u0435\u0447\u043A\u043E (\u0441\u043B\u043E\u0432\u0435\u043D. Mi\u0161o Bre\u010Dko; 1 \u043C\u0430\u044F 1984, \u0422\u0440\u0431\u043E\u0432\u043B\u0435, \u0421\u0424\u0420\u042E) \u2014 \u0441\u043B\u043E\u0432\u0435\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043D\u0435\u043C\u0435\u0446\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u041A\u0451\u043B\u044C\u043D\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u043B\u043E\u0432\u0435\u043D\u0438\u0438."@ru ,
+		"\u0645\u064A\u0634\u0648 \u0628\u0631\u064A\u062A\u0634\u0643\u0648 (\u0645\u0648\u0627\u0644\u064A\u062F 1 \u0645\u0627\u064A\u0648 1984 \u0641\u064A \u062A\u0631\u0628\u0648\u0641\u0644\u064A - \u064A\u0648\u063A\u0648\u0633\u0644\u0627\u0641\u064A\u0627) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0633\u0644\u0648\u0641\u064A\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0643\u0648\u0644\u0646 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0645\u0646\u0630 2008 \u0641\u064A \u0645\u0631\u0643\u0632 \u0642\u0644\u0628 \u0627\u0644\u062F\u0641\u0627\u0639 \u0643\u0645\u0627 \u064A\u062C\u064A\u062F \u0627\u0644\u0644\u0639\u0628 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0648\u0633\u0637 \u0627\u0644\u0645\u062F\u0627\u0641\u0639 ."@ar ;
+	foaf:surname	"Bre\u010Dko" ;
+	foaf:isPrimaryTopicOf	ns1:Mišo_Brečko .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix ns17:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko>	dbpprop:hasPhotoCollection	ns17:Mišo_Brečko ;
+	dbpprop:name	"Bre\u010Dko, Mi\u0161o" ,
+		"Mi\u0161o Bre\u010Dko" ;
+	dbpedia-owl:abstract	"\u30DF\u30B7\u30E7\u30FB\u30D6\u30EC\u30C1\u30E5\u30B3\uFF08Mi\u0161o Bre\u010Dko\u30011984\u5E745\u67081\u65E5 - \uFF09\u306F\u3001\u30B9\u30ED\u30D9\u30CB\u30A2\u30FB\u30C8\u30EB\u30DC\u30F4\u30EA\u30A7\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30B9\u30ED\u30D9\u30CB\u30A2\u4EE3\u8868\u3067\u3042\u308B\u30021.FC\u30B1\u30EB\u30F3\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FDF\u30FBMF\u3002"@ja ,
+		"\u041C\u0438\u0448\u043E \u0411\u0440\u0435\u0447\u043A\u043E (\u0441\u043B\u043E\u0432\u0435\u043D. Mi\u0161o Bre\u010Dko; 1 \u043C\u0430\u044F 1984, \u0422\u0440\u0431\u043E\u0432\u043B\u0435, \u0421\u0424\u0420\u042E) \u2014 \u0441\u043B\u043E\u0432\u0435\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043D\u0435\u043C\u0435\u0446\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u041A\u0451\u043B\u044C\u043D\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u043B\u043E\u0432\u0435\u043D\u0438\u0438."@ru ,
+		"Mi\u0161o Bre\u010Dko (Trbovlije, 1 de maio de 1984) \u00E9 um futebolista profissional esloveno, defensor, milita no 1. FC K\u00F6ln."@pt ,
+		"Mi\u0161o Bre\u010Dko (born 1 May 1984 in Trbovlje) is a Slovenian footballer who plays as a defender for German club 1. FC K\u00F6ln and the Slovenian national team." ,
+		"\u99AC\u65AF\u5967\u00B7\u6BD4\u65AF\u9AD8\uFF08\u82F1\u8BED\uFF1AMi\u0161o Bre\u010Dko\uFF0C1984\u5E745\u67081\u65E5\uFF0D\uFF09\uFF0C\u662F\u4E00\u540D\u65AF\u6D1B\u6587\u5C3C\u4E9E\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u53F8\u804C\u5F8C\u885B\u53CA\u4E2D\u5834\uFF0C\u76EE\u524D\u6548\u529B\u5FB7\u7532\u7403\u961F\u79D1\u9686\u3002"@zh ,
+		"Mi\u0161o Bre\u010Dko (Trbovlje, Eslovenia, 1 de mayo de 1984), futbolista esloveno. Juega de defensa y su actual equipo es el FC Colonia de la Bundesliga de Alemania."@es ,
+		"Mi\u0161o Bre\u010Dko est un footballeur international slov\u00E8ne n\u00E9 le 1er mai 1984 \u00E0 Trbovlje. Il \u00E9volue actuellement au poste d'arri\u00E8re lat\u00E9ral pour le FC Cologne en Bundesliga."@fr ,
+		"\u0645\u064A\u0634\u0648 \u0628\u0631\u064A\u062A\u0634\u0643\u0648 (\u0645\u0648\u0627\u0644\u064A\u062F 1 \u0645\u0627\u064A\u0648 1984 \u0641\u064A \u062A\u0631\u0628\u0648\u0641\u0644\u064A - \u064A\u0648\u063A\u0648\u0633\u0644\u0627\u0641\u064A\u0627) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0633\u0644\u0648\u0641\u064A\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0643\u0648\u0644\u0646 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0645\u0646\u0630 2008 \u0641\u064A \u0645\u0631\u0643\u0632 \u0642\u0644\u0628 \u0627\u0644\u062F\u0641\u0627\u0639 \u0643\u0645\u0627 \u064A\u062C\u064A\u062F \u0627\u0644\u0644\u0639\u0628 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0648\u0633\u0637 \u0627\u0644\u0645\u062F\u0627\u0641\u0639 ."@ar ,
+		"Mi\u0161o Bre\u010Dko (Trbovlje, 1\u00BA maggio 1984) \u00E8 un calciatore sloveno, difensore del Colonia e della Nazionale slovena."@it ,
+		"Mi\u0161o Bre\u010Dko (Trbovlje, 1 mei 1984) is een Sloveens profvoetballer die sinds 2008 uitkomt voor Bundesligaclub 1. FC K\u00F6ln. Hij speelt meestal als verdediger, maar kan ook uit de voeten als middenvelder."@nl ,
+		"Mi\u0161o Bre\u010Dko (ur. 1 maja 1984 w Trbovlje) pi\u0142karz s\u0142owe\u0144ski graj\u0105cy na pozycji prawego obro\u0144cy. Mierzy 178 cm wzrostu, wa\u017Cy 68 kg."@pl ,
+		"Mi\u0161o Bre\u010Dko [mi\u0283o br\u025Bt\u0283ko] (* 1. Mai 1984 in Trbovlje, SFR Jugoslawien) ist ein slowenischer Fu\u00DFballspieler."@de ;
+	dbpedia-owl:wikiPageID	10682451 ;
+	dbpedia-owl:wikiPageRevisionID	605788025 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko>	dbpprop:birthDate	"1984-05-01+02:00"^^xsd:date .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko>	dbpprop:birthPlace	dbpedia:Trbovlje ,
+		dbpedia:Socialist_Federal_Republic_of_Yugoslavia ;
+	dbpprop:dateOfBirth	"1984-05-01+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Trbovlje, SFR Yugoslavia" ;
+	dbpprop:shortDescription	"Slovenian footballer" ;
+	dbpedia-owl:birthDate	"1984-05-01+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Trbovlje ,
+		dbpedia:Socialist_Federal_Republic_of_Yugoslavia ;
+	dbpedia-owl:birthYear	"1984+02:00"^^xsd:gYear ;
+	dbpprop:goals	5 ,
+		0 ,
+		1 ;
+	dbpprop:caps	24 ,
+		21 ,
+		14 ,
+		6 ,
+		186 ;
+	dbpprop:years	2008 ,
+		2002 ,
+		2003 ,
+		2006 ,
+		2004 ,
+		2005 ;
+	dbpprop:youthclubs	dbpedia:NK_Rudar_Trbovlje ,
+		dbpedia:NK_Interblock ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko__3> ,
+		<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko__2> ,
+		<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko__4> ,
+		<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko__5> ,
+		<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko__1> ,
+		<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko__6> ,
+		<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko__7> ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.7800000000000000266 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko>	ns21:height	"178.0"^^ns20:centimetre ;
+	dbpprop:currentclub	1 ;
+	dbpprop:clubnumber	2 ;
+	dbpprop:fullname	"Mi\u0161o Bre\u010Dko" ;
+	dbpprop:clubs	"\u2192 Erzgebirge Aue" ,
+		"\u2192 Hansa Rostock" ,
+		dbpedia:Hamburger_SV ,
+		<http://dbpedia.org/resource/NK_%C5%A0martno_ob_Paki> ,
+		1 ,
+		dbpedia:Hamburger_SV_II ,
+		dbpedia:NK_Interblock ;
+	dbpedia-owl:team	dbpedia:FC_Erzgebirge_Aue ,
+		dbpedia:Hamburger_SV ,
+		dbpedia:Slovenia_national_under-17_football_team ,
+		dbpedia:Slovenia_national_under-19_football_team ,
+		dbpedia:Slovenia_national_under-21_football_team ,
+		<http://dbpedia.org/resource/F.C._Hansa_Rostock> ,
+		<http://dbpedia.org/resource/NK_%C5%A0martno_ob_Paki> ,
+		<http://dbpedia.org/resource/1._FC_K%C3%B6ln> ,
+		dbpedia:Hamburger_SV_II ,
+		dbpedia:NK_Interblock ,
+		dbpedia:NK_Rudar_Trbovlje .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:pcupdate	"2014-04-25+02:00"^^xsd:date ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.nzs.si/index.php?t=reprezentancaPortret&id=17905> ,
+		<http://www.transfermarkt.de/en/miso-brecko/profil/spieler_15300.html> ;
+	dbpprop:nationalcaps	66 ,
+		12 ,
+		5 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:Slovenia_national_football_team ,
+		dbpedia:Slovenia_national_under-19_football_team ,
+		dbpedia:Slovenia_national_under-17_football_team ,
+		dbpedia:Slovenia_national_under-21_football_team ;
+	dbpprop:nationalyears	2004 ,
+		2003 ;
+	dbpedia-owl:number	2 ;
+	dbpprop:ntupdate	"2014-03-05+02:00"^^xsd:date .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko> .
+dbpedia:List_of_German_football_transfers_summer_2008	dbpprop:name	<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko> .
+dbpedia:Slovenia_national_football_team	dbpprop:name	<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko> .
+dbpedia:List_of_Slovenia_national_football_team_World_Cup_and_European_Championship_squads	dbpprop:name	<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko> .
+<http://dbpedia.org/resource/1._FC_K%C3%B6ln>	dbpprop:name	<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko> .
+dbpedia:List_of_German_football_transfers_summer_2007	dbpprop:name	<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko> .
+<http://dbpedia.org/resource/1._FC_K%C3%B6ln__Mi%C5%A1o_Bre%C4%8Dko__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko> .
+dbpedia:Mišo_Brečko	owl:sameAs	<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko> .
+dbpedia:Miso_Brecko	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Mi%C5%A1o_Bre%C4%8Dko> .

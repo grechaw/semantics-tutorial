@@ -1,0 +1,351 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xml:base="http://www.daml.org/2001/12/factbook/gz">
+  <rdf:Description rdf:about='#A44553'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:maxRunway>913</NS0:maxRunway>
+    <NS0:count>1 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44507'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123401'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#EG'/>
+    <NS0:distance>11</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44455'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Hebrew'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44547'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>3048</NS0:minRunway>
+    <NS0:count>1 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44451'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Arabic'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44482'>
+    <NS0:note>1999 est., includes West Bank</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#GZ'>
+    <NS0:background>The Israel-PLO Declaration of Principles on Interim Self-Government Arrangements (the DOP), signed in Washington on 13 September 1993, provided for a transitional period not exceeding five years of Palestinian interim self-government in the Gaza Strip and the West Bank. Under the DOP, Israel agreed to transfer certain powers and responsibilities to the Palestinian Authority, which includes the Palestinian Legislative Council elected in January 1996, as part of the interim self-governing arrangements in the West Bank and Gaza Strip. A transfer of powers and responsibilities for the Gaza Strip and Jericho took place pursuant to the Israel-PLO 4 May 1994 Cairo Agreement on the Gaza Strip and the Jericho Area and in additional areas of the West Bank pursuant to the Israel-PLO 28 September 1995 Interim Agreement, the Israel-PLO 15 January 1997 Protocol Concerning Redeployment in Hebron, the Israel-PLO 23 October 1998 Wye River Memorandum, and the 4 September 1999 Sharm el-Sheikh Agreement. The DOP provides that Israel will retain responsibility during the transitional period for external security and for internal security and public order of settlements and Israeli citizens. Permanent status is to be determined through direct negotiations, which resumed in September 1999 after a three-year hiatus. An intifadah broke out in September 2000; the resulting widespread violence in the West Bank and Gaza Strip, Israel&apos;s military response, and instability in the Palestinian Authority are undermining progress toward a permanent settlement.</NS0:background>
+    <NS0:location>Middle East, bordering the Mediterranean Sea, between Egypt and Israel</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A44331'/>
+    <NS0:mapReferences>Middle East</NS0:mapReferences>
+    <NS0:totalArea>360</NS0:totalArea>
+    <NS0:landArea>360</NS0:landArea>
+    <NS0:waterArea>0</NS0:waterArea>
+    <NS0:comparativeArea>slightly more than twice the size of Washington, DC</NS0:comparativeArea>
+    <NS0:landBoundaries>62</NS0:landBoundaries>
+    <NS0:coastline>40</NS0:coastline>
+    <NS0:climate>temperate, mild winters, dry and warm to hot summers</NS0:climate>
+    <NS0:terrain>flat to rolling, sand- and dune-covered coastal plain</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A44345'/>
+    <NS0:highestPoint rdf:resource='#A44350'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#arable_land'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#natural_gas'/>
+    <NS0:arableLand>24</NS0:arableLand>
+    <NS0:permanentCrops>39</NS0:permanentCrops>
+    <NS0:permanentPastures>0</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>11</NS0:forestsAndWoodland>
+    <NS0:otherLandUse rdf:ID='A44361'>26</NS0:otherLandUse>
+    <NS0:irrigatedLand rdf:ID='A44364'>120</NS0:irrigatedLand>
+    <NS0:naturalHazard>droughts</NS0:naturalHazard>
+    <NS0:environmentalIssue>desertification</NS0:environmentalIssue>
+    <NS0:environmentalIssue>salination of fresh water</NS0:environmentalIssue>
+    <NS0:environmentalIssue>sewage treatment</NS0:environmentalIssue>
+    <NS0:environmentalIssue>water-borne disease</NS0:environmentalIssue>
+    <NS0:environmentalIssue>soil degradation</NS0:environmentalIssue>
+    <NS0:population rdf:ID='A44373'>1178119</NS0:population>
+    <NS0:populationGrowthRate rdf:ID='A44376'>4.01</NS0:populationGrowthRate>
+    <NS0:birthRate rdf:ID='A44379'>42.48</NS0:birthRate>
+    <NS0:deathRate rdf:ID='A44382'>4.21</NS0:deathRate>
+    <NS0:netMigrationRate rdf:ID='A44385'>1.8</NS0:netMigrationRate>
+    <NS0:sexRatio rdf:resource='#A44388'/>
+    <NS0:sexRatio rdf:resource='#A44394'/>
+    <NS0:sexRatio rdf:resource='#A44400'/>
+    <NS0:sexRatio rdf:resource='#A44406'/>
+    <NS0:sexRatio rdf:ID='A44414' rdf:resource='#A44411'/>
+    <NS0:infantMortalityRate rdf:ID='A44417'>25.37</NS0:infantMortalityRate>
+    <NS0:totalFertilityRate rdf:ID='A44420'>6.42</NS0:totalFertilityRate>
+    <NS0:nationalityNoun>NA</NS0:nationalityNoun>
+    <NS0:nationalityAdjective>NA</NS0:nationalityAdjective>
+    <NS0:ethnicGroup rdf:resource='#A44425'/>
+    <NS0:ethnicGroup rdf:resource='#A44430'/>
+    <NS0:religion rdf:ID='A44439' rdf:resource='#A44435'/>
+    <NS0:religion rdf:resource='#A44441'/>
+    <NS0:religion rdf:resource='#A44446'/>
+    <NS0:language rdf:resource='#A44451'/>
+    <NS0:language rdf:ID='A44458' rdf:resource='#A44455'/>
+    <NS0:language rdf:ID='A44463' rdf:resource='#A44460'/>
+    <NS0:literacyDefinition>NA</NS0:literacyDefinition>
+    <NS0:conventionalLongCountryName>none</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Gaza Strip</NS0:conventionalShortCountryName>
+    <NS0:localLongCountryName>none</NS0:localLongCountryName>
+    <NS0:localShortCountryName>Qita Ghazzah</NS0:localShortCountryName>
+    <NS0:economyOverview>Economic output in the Gaza Strip - which comes under the responsibility of the Palestinian Authority since the Cairo Agreement of May 1994 - declined perhaps one-third between 1992 and 1996. The downturn was largely the result of Israeli closure policies - the imposition of generalized border closures in response to security incidents in Israel - which disrupted previously established labor and commodity market relationships between Israel and the WBGS (West Bank and Gaza Strip). The most serious negative social effect of this downturn was the emergence of high unemployment; unemployment in the WBGS during the 1980s was generally under 5%; by 1995 it had risen to over 20%. Since 1997 Israel&apos;s use of comprehensive closures has decreased and, in 1998, Israel implemented new policies to reduce the impact of closures and other security procedures on the movement of Palestinian goods and labor. These changes fueled an almost three-year long economic recovery in the West Bank and Gaza Strip; real GDP grew by 5% in 1998 and 6% in 1999. Recovery was upended in the last quarter of 2000 with the outbreak of Palestinian violence, which triggered tight Israeli closures of Palestinian self-rule areas and a severe disruption of trade and labor movements.</NS0:economyOverview>
+    <NS0:grossDomesticProduct rdf:ID='A44471'>1110000000</NS0:grossDomesticProduct>
+    <NS0:grossDomesticProductRealGrowth rdf:ID='A44474'>-7.5</NS0:grossDomesticProductRealGrowth>
+    <NS0:grossDomesticProductPerCapita rdf:ID='A44477'>1000</NS0:grossDomesticProductPerCapita>
+    <NS0:grossDomesticProductAgriculture>9</NS0:grossDomesticProductAgriculture>
+    <NS0:grossDomesticProductIndustry>28</NS0:grossDomesticProductIndustry>
+    <NS0:grossDomesticProductServices rdf:ID='A44482'>63</NS0:grossDomesticProductServices>
+    <NS0:occupation rdf:resource='#A44484'/>
+    <NS0:occupation rdf:resource='#A44489'/>
+    <NS0:occupation rdf:ID='A44498' rdf:resource='#A44494'/>
+    <NS0:budgetRevenues>1600000000</NS0:budgetRevenues>
+    <NS0:budgetExpenditures>1730000000</NS0:budgetExpenditures>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#generally_small_family_businesses_that_produce_textiles'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#soap'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#olive-wood_carvings'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#and_mother-of-pearl_souvenirs'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#the_Israelis_have_established_some_small-scale_modern_industries_in_an_industrial_center'/>
+    <NS0:electricityExports rdf:ID='A44507'>0</NS0:electricityExports>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#olives'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#citrus'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#vegetables'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#beef'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#dairy_products'/>
+    <NS0:exportsCommodity rdf:resource='#A44514'/>
+    <NS0:exportsCommodity rdf:resource='#A44518'/>
+    <NS0:importsCommodity rdf:resource='#A44522'/>
+    <NS0:importsCommodity rdf:resource='#A44526'/>
+    <NS0:importsCommodity rdf:resource='#A44530'/>
+    <NS0:currency>new Israeli shekel (ILS)</NS0:currency>
+    <NS0:currencyCode>ILS</NS0:currencyCode>
+    <NS0:fiscalYear>calendar year</NS0:fiscalYear>
+    <NS0:telephoneSystemGeneralAssessment>NA</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>rudimentary telephone services provided by an open wire system</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>NA</NS0:telephoneSystemInternational>
+    <NS0:internetServiceProviders rdf:ID='A44540'>3</NS0:internetServiceProviders>
+    <NS0:port rdf:resource='#A44542'/>
+    <NS0:airports>2</NS0:airports>
+    <NS0:airportBreakdown rdf:resource='#A44547'/>
+    <NS0:airportBreakdown rdf:resource='#A44553'/>
+    <NS0:internationalDispute>West Bank and Gaza Strip are Israeli-occupied with current status subject to the Israeli-Palestinian Interim Agreement - permanent status to be determined through further negotiation</NS0:internationalDispute>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/gz-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/gz-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/gz-map.jpg</NS0:map>
+    <NS0:border rdf:resource='#A123401'/>
+    <NS0:border rdf:resource='#A123406'/>
+    <NS0:exportPartner rdf:resource='#A123411'/>
+    <NS0:exportPartner rdf:resource='#A123415'/>
+    <NS0:exportPartner rdf:resource='#A123419'/>
+    <NS0:importPartner rdf:resource='#A123423'/>
+    <NS0:importPartner rdf:resource='#A123427'/>
+    <NS0:importPartner rdf:resource='#A123431'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44542'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Gaza</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44446'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Jewish'/>
+    <NS0:percent>0.6</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44540'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44350'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Abu &apos;Awdah (Joz Abu &apos;Auda)</NS0:name>
+    <NS0:elevation>105</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44474'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44441'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Christian'/>
+    <NS0:percent>0.7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44345'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Mediterranean Sea</NS0:name>
+    <NS0:elevation>0</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44530'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#construction_materials'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44435'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Muslim'/>
+    <NS0:percent>98.7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44373'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>July 2001</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44526'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#consumer_goods'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44430'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Jewish'/>
+    <NS0:percent>0.6</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44385'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44522'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#food'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44376'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44331'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>31.416666666666668</NS0:latitude>
+    <NS0:longitude>34.333333333333336</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44425'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Palestinian_Arab_and_other'/>
+    <NS0:percent>99.4</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44518'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#flowers'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44514'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#citrus'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44361'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44411'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:ratio>1.03</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44439'>
+    <NS0:note>predominantly Sunni</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44406'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>65</NS0:minAge>
+    <NS0:ratio>0.75</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44477'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44471'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44498'>
+    <NS0:year>1996</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44400'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>15</NS0:minAge>
+    <NS0:maxAge>64</NS0:maxAge>
+    <NS0:ratio>1.03</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44494'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#agriculture'/>
+    <NS0:percent>13</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44379'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44394'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>14</NS0:maxAge>
+    <NS0:ratio>1.05</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44489'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#industry'/>
+    <NS0:percent>21</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44417'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123431'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#WE'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44414'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44484'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#services'/>
+    <NS0:percent>66</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44388'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>0</NS0:maxAge>
+    <NS0:ratio>1.05</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123427'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#EG'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44364'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123423'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#IS'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44420'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44458'>
+    <NS0:note>spoken by Israeli settlers and many Palestinians</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123419'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#WE'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123415'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#EG'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123411'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#IS'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44463'>
+    <NS0:note>widely understood</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123406'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#IS'/>
+    <NS0:distance>51</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44382'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A44460'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#English'/>
+  </rdf:Description>
+</rdf:RDF>

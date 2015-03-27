@@ -1,0 +1,308 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Leo_Bertos	owl:sameAs	dbpedia:Leo_Bertos .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Leo_Bertos	owl:sameAs	dbpedia:Leo_Bertos .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q443019	owl:sameAs	dbpedia:Leo_Bertos .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Leo_Bertos	owl:sameAs	dbpedia:Leo_Bertos .
+@prefix ns6:	<http://it.dbpedia.org/resource/> .
+ns6:Leo_Bertos	owl:sameAs	dbpedia:Leo_Bertos .
+@prefix ns7:	<http://pl.dbpedia.org/resource/> .
+ns7:Leo_Bertos	owl:sameAs	dbpedia:Leo_Bertos .
+@prefix ns8:	<http://pt.dbpedia.org/resource/> .
+ns8:Leo_Bertos	owl:sameAs	dbpedia:Leo_Bertos .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2009%E2%80%9310_Wellington_Phoenix_FC_season>	dbpprop:name	dbpedia:Leo_Bertos .
+<http://dbpedia.org/resource/2008%E2%80%9309_Wellington_Phoenix_FC_season>	dbpprop:name	dbpedia:Leo_Bertos .
+<http://dbpedia.org/resource/2010%E2%80%9311_Wellington_Phoenix_FC_season>	dbpprop:name	dbpedia:Leo_Bertos .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns11:	<http://en.wikipedia.org/wiki/> .
+ns11:Leo_Bertos	foaf:primaryTopic	dbpedia:Leo_Bertos .
+@prefix ns12:	<http://el.dbpedia.org/resource/> .
+ns12:Λεωνίδας_Μπέρτος	owl:sameAs	dbpedia:Leo_Bertos .
+@prefix ns13:	<http://ar.dbpedia.org/resource/> .
+ns13:ليو_بيرتوس	owl:sameAs	dbpedia:Leo_Bertos .
+@prefix ns14:	<http://la.dbpedia.org/resource/> .
+ns14:Leonidas_Bertos	owl:sameAs	dbpedia:Leo_Bertos .
+@prefix ns15:	<http://mr.dbpedia.org/resource/> .
+ns15:लियो_बर्तोस	owl:sameAs	dbpedia:Leo_Bertos .
+@prefix ns16:	<http://nn.dbpedia.org/resource/> .
+ns16:Leo_Bertos	owl:sameAs	dbpedia:Leo_Bertos .
+@prefix ns17:	<http://no.dbpedia.org/resource/> .
+ns17:Leo_Bertos	owl:sameAs	dbpedia:Leo_Bertos .
+<http://ru.dbpedia.org/resource/\u0411\u0435\u0440\u0442\u043E\u0441,_\u041B\u0435\u043E>	owl:sameAs	dbpedia:Leo_Bertos .
+@prefix ns18:	<http://uk.dbpedia.org/resource/> .
+ns18:Лео_Бертос	owl:sameAs	dbpedia:Leo_Bertos .
+dbpedia:New_Zealand_national_football_team	dbpprop:name	dbpedia:Leo_Bertos .
+<http://dbpedia.org/resource/2013_OSN_Cup_squads>	dbpprop:name	dbpedia:Leo_Bertos .
+<http://dbpedia.org/resource/2000%E2%80%9301_Barnsley_F.C._season>	dbpprop:name	dbpedia:Leo_Bertos .
+<http://dbpedia.org/resource/2001%E2%80%9302_Barnsley_F.C._season>	dbpprop:name	dbpedia:Leo_Bertos .
+<http://dbpedia.org/resource/2011%E2%80%9312_Wellington_Phoenix_FC_season>	dbpprop:name	dbpedia:Leo_Bertos .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Leo_Bertos .
+<http://dbpedia.org/resource/2012_OFC_Nations_Cup_squads>	dbpprop:name	dbpedia:Leo_Bertos .
+dbpedia:New_Zealand_national_under-23_football_team	dbpprop:p	dbpedia:Leo_Bertos .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Leo_Bertos	rdf:type	yago:Whole100003553 ,
+		yago:Object100002684 ,
+		yago:NewZealandExpatriateSoccerPlayers ,
+		yago:AssociationFootballWingers ,
+		yago:Winger110782471 ,
+		foaf:Person ,
+		yago:Player110439851 ,
+		yago:FootballPlayer110101634 ,
+		<http://dbpedia.org/class/yago/RochdaleA.F.C.Players> ,
+		yago:Athlete109820263 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		<http://dbpedia.org/class/yago/2009FIFAConfederationsCupPlayers> ,
+		yago:WellingtonPhoenixPlayers ,
+		yago:NewZealandPeopleOfGreekDescent ,
+		yago:ExpatriateSoccerPlayersInAustralia ,
+		yago:NewZealandPeopleOfRomanianDescent ,
+		yago:Contestant109613191 ,
+		yago:A-LeaguePlayers ,
+		<http://dbpedia.org/class/yago/PeopleEducatedAtWellingtonCollege(NewZealand)> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Leo_Bertos	rdf:type	dbpedia-owl:SoccerPlayer ,
+		yago:NewZealandAssociationFootballers ,
+		yago:NewZealandInternationalFootballers ,
+		yago:SoccerPlayer110618342 .
+@prefix ns22:	<http://schema.org/> .
+dbpedia:Leo_Bertos	rdf:type	ns22:Person ,
+		yago:PeopleFromWellingtonCity ,
+		<http://dbpedia.org/class/yago/YorkCityF.C.Players> ,
+		yago:FootballConferencePlayers ,
+		ns4:Q215627 ,
+		owl:Thing ,
+		yago:PerthGloryFCPlayers ,
+		<http://dbpedia.org/class/yago/ChesterCityF.C.Players> ,
+		<http://dbpedia.org/class/yago/ScarboroughF.C.Players> ,
+		yago:TheFootballLeaguePlayers .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Leo_Bertos	rdf:type	dul:Agent ,
+		dbpedia-owl:Athlete ,
+		dbpedia-owl:Person ,
+		ns4:Q5 ,
+		dbpedia-owl:Agent ,
+		dul:NaturalPerson ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		<http://dbpedia.org/class/yago/BarnsleyF.C.Players> ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:ExpatriateFootballersInEngland ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		<http://dbpedia.org/class/yago/NewZealandM%C4%81oriPeople> ,
+		<http://dbpedia.org/class/yago/WorksopTownF.C.Players> ,
+		yago:PhysicalEntity100001930 ;
+	owl:sameAs	ns6:Leo_Bertos ,
+		ns3:Leo_Bertos ,
+		ns13:ليو_بيرتوس ,
+		<http://rdf.freebase.com/ns/m.09ntbc> ,
+		dbpedia:Leo_Bertos .
+@prefix ns24:	<http://yago-knowledge.org/resource/> .
+dbpedia:Leo_Bertos	owl:sameAs	ns24:Leo_Bertos ,
+		ns17:Leo_Bertos ,
+		<http://ru.dbpedia.org/resource/\u0411\u0435\u0440\u0442\u043E\u0441,_\u041B\u0435\u043E> ,
+		ns16:Leo_Bertos ,
+		ns5:Leo_Bertos ,
+		ns15:लियो_बर्तोस ,
+		ns12:Λίο_Μπέρτος ,
+		ns1:Leo_Bertos .
+@prefix ns25:	<http://wikidata.org/entity/> .
+dbpedia:Leo_Bertos	owl:sameAs	ns25:Q443019 ,
+		ns14:Leonidas_Bertos ,
+		ns12:Λεωνίδας_Μπέρτος ,
+		ns7:Leo_Bertos ,
+		ns18:Лео_Бертос ,
+		ns8:Leo_Bertos ,
+		ns4:Q443019 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Leo_Bertos	rdfs:label	"Leo Bertos"@pt ,
+		"\u0644\u064A\u0648 \u0628\u064A\u0631\u062A\u0648\u0633"@ar ,
+		"Leo Bertos"@es ,
+		"Leo Bertos"@pl ,
+		"Leo Bertos"@it ,
+		"Leo Bertos"@de ,
+		"Leo Bertos"@fr ,
+		"Leo Bertos" ,
+		"\u0411\u0435\u0440\u0442\u043E\u0441, \u041B\u0435\u043E"@ru .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Leo_Bertos	dcterms:subject	category:A-League_players ,
+		category:The_Football_League_players ,
+		<http://dbpedia.org/resource/Category:1981_births> ,
+		<http://dbpedia.org/resource/Category:New_Zealand_M%C4%81ori_sportspeople> ,
+		category:New_Zealand_people_of_Greek_descent ,
+		category:Association_football_wingers ,
+		category:Perth_Glory_FC_players ,
+		<http://dbpedia.org/resource/Category:Scarborough_F.C._players> ,
+		category:New_Zealand_expatriate_association_footballers ,
+		<http://dbpedia.org/resource/Category:Worksop_Town_F.C._players> ,
+		<http://dbpedia.org/resource/Category:2009_FIFA_Confederations_Cup_players> ,
+		category:New_Zealand_expatriate_sportspeople_in_Australia ,
+		category:New_Zealand_association_footballers ,
+		category:Wellington_Phoenix_FC_players ,
+		category:New_Zealand_expatriate_sportspeople_in_the_United_Kingdom ,
+		category:Football_Conference_players ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:York_City_F.C._players> ,
+		category:New_Zealand_international_footballers ,
+		<http://dbpedia.org/resource/Category:Rochdale_A.F.C._players> ,
+		<http://dbpedia.org/resource/Category:Chester_City_F.C._players> ,
+		<http://dbpedia.org/resource/Category:People_educated_at_Wellington_College_(New_Zealand)> ,
+		category:People_from_Wellington_City ,
+		category:Expatriate_footballers_in_England ,
+		category:Expatriate_soccer_players_in_Australia ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:Barnsley_F.C._players> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Leo_Bertos.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Leo_Bertos	dc:description	"New Zealand association footballer" ,
+		"New Zealand association footballer" ;
+	foaf:givenName	"Leo" ;
+	foaf:name	"Bertos, Leo" ,
+		"Leonida Christos Bertos" ,
+		"Leo Bertos" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Leo_Bertos	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Leo_Bertos?oldid=603960281> ;
+	rdfs:comment	"\u041B\u0435\u043E\u043D\u0438\u0434\u0430 \u0425\u0440\u0438\u0441\u0442\u043E\u0441 (\u041B\u0435\u043E) \u0411\u0435\u0440\u0442\u043E\u0441 (\u0430\u043D\u0433\u043B. Leonida Christos \"Leo\" Bertos; 20 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1981, \u0412\u0435\u043B\u043B\u0438\u043D\u0433\u0442\u043E\u043D) \u2014 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u0440\u0430\u0432\u044B\u0439 \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0412\u0435\u043B\u043B\u0438\u043D\u0433\u0442\u043E\u043D \u0424\u0438\u043D\u0438\u043A\u0441\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041D\u043E\u0432\u043E\u0439 \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u0438."@ru ,
+		"Leonidas Christos Bertos (Wellington, 20 dicembre 1981) \u00E8 un calciatore neozelandese, centrocampista del Wellington Phoenix e della nazionale neozelandese."@it ,
+		"\u0644\u064A\u0648 \u0628\u064A\u0631\u062A\u0648\u0633\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 20 \u062F\u064A\u0633\u0645\u0628\u0631 1981\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u064A.\u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0648\u064A\u0644\u064A\u0646\u063A\u062A\u0648\u0646 \u0641\u064A\u0646\u064A\u0643\u0633.\u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2003."@ar ,
+		"Leonida Christos \"Leo\" Bertos (ur. 20 grudnia 1981 r. w Wellingtonie w Nowej Zelandii) \u2013 nowozelandzki pi\u0142karz, reprezentant kraju graj\u0105cy na pozycji defensywnego pomocnika. Obecnie wyst\u0119puje w klubie A-League Wellington Phoenix. Powo\u0142any przez trenera Rickiego Herberta na Puchar Konfederacji 2009, gdzie Nowa Zelandia odpad\u0142a w fazie grupowej, oraz na M\u015A 2010."@pl ,
+		"Leonida \"Leo\" Christos Bertos (Wellington, 20 de dezembro de 1981) \u00E9 um futebolista neozeland\u00EAs, que atua na posi\u00E7\u00E3o de meia e joga pelo Wellington Phoenix."@pt ,
+		"Leonida Christos \"Leo\" Bertos (born 20 December 1981) is a New Zealand football player who plays as an attacking midfielder or right winger for New Zealand-based A-League team Wellington Phoenix and has represented the New Zealand national football team. He is sponsored by the sportwear company Adidas." ,
+		"Leo Bertos, n\u00E9 le 20 d\u00E9cembre 1981 \u00E0 Wellington, est un footballeur n\u00E9o-z\u00E9landais \u00E9voluant au poste de milieu offensif. Il fait partie de l'\u00C9quipe de Nouvelle-Z\u00E9lande lors de la Coupe du monde de football de 2010."@fr ,
+		"Leo Bertos (20 de diciembre de 1981 en Wellington) es un futbolista neozeland\u00E9s, poseedor tambi\u00E9n de la nacionalidad griega, que juega como mediocampista en el Wellington Phoenix.Desempe\u00F1\u00F3 gran parte de su carrera en clubes de la segunda, cuarta y quinta divisi\u00F3n inglesa, aunque desde 2006 juega en el A-League australiana, primero jug\u00F3 para el Perth Glory y luego con el Wellington Phoenix, su equipo actual. En representaci\u00F3n de los All Whites disput\u00F3 m\u00E1s de 50 partidos."@es ,
+		"Leo Bertos (eigentlich Leonidas Bertos; * 20. Dezember 1981 in Wellington) ist ein neuseel\u00E4ndischer Fu\u00DFballspieler mit griechischen Wurzeln, der momentan beim neuseel\u00E4ndischen Top-Club FC Wellington Phoenix unter Vertrag steht. Er ist auch neuseel\u00E4ndischer Nationalspieler."@de ;
+	foaf:surname	"Bertos" ;
+	foaf:isPrimaryTopicOf	ns11:Leo_Bertos .
+@prefix ns31:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Leo_Bertos	dbpprop:hasPhotoCollection	ns31:Leo_Bertos ;
+	dbpprop:caption	"Bertos at Wellington Phoenix" ;
+	dbpprop:name	"Leo Bertos" ,
+		"Bertos, Leo" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Leo_Bertos.jpg?width=300> ;
+	dbpedia-owl:abstract	"Leonidas Christos Bertos (Wellington, 20 dicembre 1981) \u00E8 un calciatore neozelandese, centrocampista del Wellington Phoenix e della nazionale neozelandese."@it ,
+		"Leo Bertos (eigentlich Leonidas Bertos; * 20. Dezember 1981 in Wellington) ist ein neuseel\u00E4ndischer Fu\u00DFballspieler mit griechischen Wurzeln, der momentan beim neuseel\u00E4ndischen Top-Club FC Wellington Phoenix unter Vertrag steht. Er ist auch neuseel\u00E4ndischer Nationalspieler."@de ,
+		"Leonida Christos \"Leo\" Bertos (ur. 20 grudnia 1981 r. w Wellingtonie w Nowej Zelandii) \u2013 nowozelandzki pi\u0142karz, reprezentant kraju graj\u0105cy na pozycji defensywnego pomocnika. Obecnie wyst\u0119puje w klubie A-League Wellington Phoenix. Powo\u0142any przez trenera Rickiego Herberta na Puchar Konfederacji 2009, gdzie Nowa Zelandia odpad\u0142a w fazie grupowej, oraz na M\u015A 2010."@pl ,
+		"\u0644\u064A\u0648 \u0628\u064A\u0631\u062A\u0648\u0633\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 20 \u062F\u064A\u0633\u0645\u0628\u0631 1981\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u064A.\u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0648\u064A\u0644\u064A\u0646\u063A\u062A\u0648\u0646 \u0641\u064A\u0646\u064A\u0643\u0633.\u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2003."@ar ,
+		"Leonida Christos \"Leo\" Bertos (born 20 December 1981) is a New Zealand football player who plays as an attacking midfielder or right winger for New Zealand-based A-League team Wellington Phoenix and has represented the New Zealand national football team. He is sponsored by the sportwear company Adidas." ,
+		"\u041B\u0435\u043E\u043D\u0438\u0434\u0430 \u0425\u0440\u0438\u0441\u0442\u043E\u0441 (\u041B\u0435\u043E) \u0411\u0435\u0440\u0442\u043E\u0441 (\u0430\u043D\u0433\u043B. Leonida Christos \"Leo\" Bertos; 20 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1981, \u0412\u0435\u043B\u043B\u0438\u043D\u0433\u0442\u043E\u043D) \u2014 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u0440\u0430\u0432\u044B\u0439 \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0412\u0435\u043B\u043B\u0438\u043D\u0433\u0442\u043E\u043D \u0424\u0438\u043D\u0438\u043A\u0441\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041D\u043E\u0432\u043E\u0439 \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u0438."@ru ,
+		"Leo Bertos, n\u00E9 le 20 d\u00E9cembre 1981 \u00E0 Wellington, est un footballeur n\u00E9o-z\u00E9landais \u00E9voluant au poste de milieu offensif. Il fait partie de l'\u00C9quipe de Nouvelle-Z\u00E9lande lors de la Coupe du monde de football de 2010."@fr ,
+		"Leonida \"Leo\" Christos Bertos (Wellington, 20 de dezembro de 1981) \u00E9 um futebolista neozeland\u00EAs, que atua na posi\u00E7\u00E3o de meia e joga pelo Wellington Phoenix."@pt ,
+		"Leo Bertos (20 de diciembre de 1981 en Wellington) es un futbolista neozeland\u00E9s, poseedor tambi\u00E9n de la nacionalidad griega, que juega como mediocampista en el Wellington Phoenix.Desempe\u00F1\u00F3 gran parte de su carrera en clubes de la segunda, cuarta y quinta divisi\u00F3n inglesa, aunque desde 2006 juega en el A-League australiana, primero jug\u00F3 para el Perth Glory y luego con el Wellington Phoenix, su equipo actual. En representaci\u00F3n de los All Whites disput\u00F3 m\u00E1s de 50 partidos."@es ;
+	dbpedia-owl:wikiPageID	3595973 ;
+	dbpedia-owl:wikiPageRevisionID	603960281 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Leo_Bertos	dbpprop:birthDate	"1981-12-20+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Wellington, New Zealand" ;
+	dbpprop:dateOfBirth	"1981-12-20+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Wellington, New Zealand" ;
+	dbpprop:shortDescription	"New Zealand association footballer" ;
+	dbpedia-owl:birthDate	"1981-12-20+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ,
+		dbpedia:Wellington ;
+	dbpedia-owl:birthYear	"1981+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	200 ;
+	dbpprop:goals	7 ,
+		2 ,
+		0 ,
+		1 ,
+		13 ,
+		9 ;
+	dbpprop:bg	"white" ;
+	dbpprop:id	24289 ;
+	dbpprop:caps	82 ,
+		127 ,
+		4 ,
+		5 ,
+		7 ,
+		1 ,
+		12 ,
+		35 ,
+		48 ;
+	dbpprop:years	2003 ,
+		2000 ,
+		2006 ,
+		2005 ,
+		2008 ,
+		1997 ;
+	dbpprop:youthclubs	dbpedia:Wellington_Olympic_AFC ,
+		<http://dbpedia.org/resource/Barnsley_F.C.> ;
+	dbpedia-owl:careerStation	dbpedia:Leo_Bertos__7 ,
+		dbpedia:Leo_Bertos__3 ,
+		dbpedia:Leo_Bertos__8 ,
+		dbpedia:Leo_Bertos__11 ,
+		dbpedia:Leo_Bertos__6 ,
+		dbpedia:Leo_Bertos__1 ,
+		dbpedia:Leo_Bertos__10 ,
+		dbpedia:Leo_Bertos__13 ,
+		dbpedia:Leo_Bertos__12 ,
+		dbpedia:Leo_Bertos__5 ,
+		dbpedia:Leo_Bertos__4 ,
+		dbpedia:Leo_Bertos__9 ,
+		dbpedia:Leo_Bertos__2 ;
+	dbpprop:position	dbpedia:Midfielder ;
+	dbpedia-owl:position	dbpedia:Midfielder ;
+	dbpedia-owl:height	1.7700000000000000178 .
+@prefix ns33:	<http://dbpedia.org/datatype/> .
+@prefix ns34:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Leo_Bertos	ns34:height	"177.0"^^ns33:centimetre ;
+	dbpprop:fullname	"Leonida Christos Bertos" ;
+	dbpprop:clubs	dbpedia:Wellington_Olympic_AFC ,
+		<http://dbpedia.org/resource/Rochdale_A.F.C.> ,
+		dbpedia:Perth_Glory_FC ,
+		<http://dbpedia.org/resource/Barrow_A.F.C.> ,
+		dbpedia:Wellington_Phoenix_FC ,
+		<http://dbpedia.org/resource/York_City_F.C.> ,
+		<http://dbpedia.org/resource/Chester_City_F.C.> ,
+		<http://dbpedia.org/resource/Scarborough_F.C.> ,
+		<http://dbpedia.org/resource/Worksop_Town_F.C.> ,
+		<http://dbpedia.org/resource/Barnsley_F.C.> ;
+	dbpedia-owl:team	dbpedia:Wellington_Olympic_AFC ,
+		<http://dbpedia.org/resource/Rochdale_A.F.C.> ,
+		dbpedia:Perth_Glory_FC ,
+		dbpedia:New_Zealand_national_football_team ,
+		<http://dbpedia.org/resource/Barrow_A.F.C.> ,
+		dbpedia:Wellington_Phoenix_FC ,
+		<http://dbpedia.org/resource/York_City_F.C.> ,
+		<http://dbpedia.org/resource/Chester_City_F.C.> ,
+		<http://dbpedia.org/resource/Scarborough_F.C.> ,
+		<http://dbpedia.org/resource/Worksop_Town_F.C.> ,
+		dbpedia:New_Zealand_national_under-23_football_team ,
+		<http://dbpedia.org/resource/Barnsley_F.C.> .
+@prefix ns35:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Leo_Bertos	dbpprop:wordnet_type	ns35:synset-soccer_player-noun-1 ;
+	dbpprop:title	"New Zealand Squads" ;
+	dbpprop:pcupdate	"2014-01-24+02:00"^^xsd:date ;
+	dbpprop:youthyears	2000 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.nzfootball.co.nz/index.php?id=300> ,
+		<http://www.wellingtonphoenix.com/default.aspx?s=wellfc_playerprofile_item&pid=837> ;
+	dbpprop:fg	"black" ;
+	dbpprop:nationalcaps	56 ,
+		5 ;
+	dbpprop:nationalgoals	0 ,
+		1 ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_under-23_football_team ,
+		dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalyears	2003 ;
+	dbpprop:ntupdate	"2014-01-21+02:00"^^xsd:date .
+<http://dbpedia.org/resource/2009_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Leo_Bertos .
+<http://dbpedia.org/resource/2008%E2%80%9309_Wellington_Phoenix_FC_season__Leo_Bertos__1>	dbpedia-owl:currentMember	dbpedia:Leo_Bertos .
+<http://dbpedia.org/resource/2010%E2%80%9311_Wellington_Phoenix_FC_season__Leo_Bertos__1>	dbpedia-owl:currentMember	dbpedia:Leo_Bertos .
+<http://dbpedia.org/resource/2001%E2%80%9302_Barnsley_F.C._season__Leo_Bertos__1>	dbpedia-owl:currentMember	dbpedia:Leo_Bertos .
+<http://dbpedia.org/resource/2009%E2%80%9310_Wellington_Phoenix_FC_season__Leo_Bertos__1>	dbpedia-owl:currentMember	dbpedia:Leo_Bertos .
+<http://dbpedia.org/resource/2013%E2%80%9314_Wellington_Phoenix_FC_season__Leo_Bertos__1>	dbpedia-owl:currentMember	dbpedia:Leo_Bertos .
+<http://dbpedia.org/resource/2011%E2%80%9312_Wellington_Phoenix_FC_season__Leo_Bertos__1>	dbpedia-owl:currentMember	dbpedia:Leo_Bertos .
+<http://dbpedia.org/resource/2012%E2%80%9313_Wellington_Phoenix_FC_season__Leo_Bertos__1>	dbpedia-owl:currentMember	dbpedia:Leo_Bertos .
+<http://dbpedia.org/resource/2000%E2%80%9301_Barnsley_F.C._season__Leo_Bertos__1>	dbpedia-owl:currentMember	dbpedia:Leo_Bertos .
+<http://dbpedia.org/resource/2008_OFC_Nations_Cup_squads>	dbpprop:name	dbpedia:Leo_Bertos .
+<http://dbpedia.org/resource/2012%E2%80%9313_Wellington_Phoenix_FC_season>	dbpprop:name	dbpedia:Leo_Bertos .
+<http://dbpedia.org/resource/2014%E2%80%9315_Wellington_Phoenix_FC_season>	dbpprop:p	dbpedia:Leo_Bertos .
+<http://dbpedia.org/resource/2013%E2%80%9314_Wellington_Phoenix_FC_season>	dbpprop:name	dbpedia:Leo_Bertos .

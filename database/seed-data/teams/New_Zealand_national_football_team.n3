@@ -1,0 +1,2022 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_de_Nouvelle-Zélande_de_football	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Neuseeländische_Fußballnationalmannschaft	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q175315	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+@prefix ns5:	<http://cs.dbpedia.org/resource/> .
+ns5:Novozélandská_fotbalová_reprezentace	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Selección_de_fútbol_de_Nueva_Zelanda	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+@prefix ns7:	<http://id.dbpedia.org/resource/> .
+ns7:Tim_nasional_sepak_bola_Selandia_Baru	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Nazionale_di_calcio_della_Nuova_Zelanda	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+@prefix ns9:	<http://ja.dbpedia.org/resource/> .
+ns9:サッカーニュージーランド代表	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+@prefix ns10:	<http://ko.dbpedia.org/resource/> .
+ns10:뉴질랜드_축구_국가대표팀	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+@prefix ns11:	<http://nl.dbpedia.org/resource/> .
+ns11:Nieuw-Zeelands_voetbalelftal	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+@prefix ns12:	<http://pl.dbpedia.org/resource/> .
+ns12:Reprezentacja_Nowej_Zelandii_w_piłce_nożnej	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+@prefix ns13:	<http://pt.dbpedia.org/resource/> .
+ns13:Seleção_Neozelandesa_de_Futebol	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Ceri_Evans	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Ceri_Evans	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Malcolm_Dunford	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tony_Graham_(New_Zealand_footballer)>	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Marco_Rojas	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Brian_Hardman	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Declan_Edge	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tony_Ferris	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Noel_Barkley	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Duncan_Cole	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Danny_Halligan	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Iain_Gillies	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Vaughan_Coveny__13	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Bert_Hiddlestone__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Luke_Rowe_(footballer)__4>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns17:	<http://en.wikipedia.org/wiki/> .
+ns17:New_Zealand_national_football_team	foaf:primaryTopic	dbpedia:New_Zealand_national_football_team .
+dbpedia:Chris_Zoricich	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Maurice_Tillotson	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:New_Zealand_national_football_team	rdf:type	yago:YagoPermanentlyLocatedEntity ,
+		dbpedia-owl:Agent ,
+		yago:OceanianNationalAssociationFootballTeams ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:NationalSportsTeamsOfNewZealand .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:New_Zealand_national_football_team	rdf:type	dul:Agent .
+@prefix ns21:	<http://schema.org/> .
+dbpedia:New_Zealand_national_football_team	rdf:type	ns21:SportsTeam ,
+		yago:FootballTeam108080025 ,
+		dul:SocialPerson ,
+		ns21:Organization ,
+		owl:Thing ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ,
+		dbpedia-owl:Organisation ;
+	owl:sameAs	ns10:뉴질랜드_축구_국가대표팀 .
+@prefix ns22:	<http://la.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns22:Turma_Pediludica_Nationalis_Novozelandica .
+@prefix ns23:	<http://gl.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns23:Selección_de_fútbol_de_Nova_Zelandia .
+@prefix ns24:	<http://ar.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns24:منتخب_نيوزيلندا_لكرة_القدم .
+@prefix ns25:	<http://fi.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns25:Uuden-Seelannin_jalkapallomaajoukkue .
+@prefix ns26:	<http://hif.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns26:New_Zealand_national_football_team .
+@prefix ns27:	<http://ru.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns27:Сборная_Новой_Зеландии_по_футболу ,
+		ns12:Reprezentacja_Nowej_Zelandii_w_piłce_nożnej .
+@prefix ns28:	<http://bn.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns28:নিউজিল্যান্ড_জাতীয়_ফুটবল_দল .
+@prefix ns29:	<http://no.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns29:New_Zealands_herrelandslag_i_fotball .
+@prefix ns30:	<http://az.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns30:Yeni_Zelandiya_milli_futbol_komandası .
+@prefix ns31:	<http://sr.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns31:Фудбалска_репрезентација_Новог_Зеланда .
+@prefix ns32:	<http://sk.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns32:Národné_futbalové_mužstvo_Nového_Zélandu .
+@prefix ns33:	<http://th.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns33:ฟุตบอลทีมชาตินิวซีแลนด์ .
+@prefix ns34:	<http://ms.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns34:Pasukan_bola_sepak_kebangsaan_New_Zealand .
+@prefix ns35:	<http://zh.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns35:新西蘭國家足球隊 ,
+		<http://rdf.freebase.com/ns/m.03_44z> .
+@prefix ns36:	<http://wikidata.org/entity/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns36:Q175315 ,
+		<http://mt.dbpedia.org/resource/Tim_nazzjonali_tal-futbol_ta\u0027_New_Zealand> ,
+		ns3:Neuseeländische_Fußballnationalmannschaft ,
+		dbpedia:New_Zealand_national_football_team .
+@prefix ns37:	<http://tr.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns37:Yeni_Zelanda_Millî_Futbol_Takımı .
+@prefix ns38:	<http://et.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns38:Uus-Meremaa_jalgpallikoondis ,
+		ns7:Tim_nasional_sepak_bola_Selandia_Baru ,
+		ns9:サッカーニュージーランド代表 .
+@prefix ns39:	<http://ang.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns39:Nīwes_Sǣlandes_þēodlīc_fōtþōðerhēap .
+@prefix ns40:	<http://eo.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns40:Nov-Zelanda_nacia_teamo_de_futbalo ,
+		ns6:Selección_de_fútbol_de_Nueva_Zelanda ,
+		ns8:Nazionale_di_calcio_della_Nuova_Zelanda .
+@prefix ns41:	<http://he.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns41:נבחרת_ניו_זילנד_בכדורגל .
+@prefix ns42:	<http://fa.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns42:تیم_ملی_فوتبال_نیوزیلند .
+@prefix ns43:	<http://jv.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns43:Tim_nasional_bal-balan_Selandia_Anyar .
+@prefix ns44:	<http://sv.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns44:Nya_Zeelands_herrlandslag_i_fotboll .
+@prefix ns45:	<http://vi.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns45:Đội_tuyển_bóng_đá_quốc_gia_New_Zealand .
+@prefix ns46:	<http://simple.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns46:New_Zealand_national_football_team ,
+		ns13:Seleção_Neozelandesa_de_Futebol ,
+		ns5:Novozélandská_fotbalová_reprezentace .
+@prefix ns47:	<http://bg.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns47:Национален_отбор_по_футбол_на_Нова_Зеландия .
+@prefix ns48:	<http://ro.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns48:Echipa_națională_de_fotbal_a_Noii_Zeelande ,
+		ns11:Nieuw-Zeelands_voetbalelftal .
+@prefix ns49:	<http://lv.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns49:Jaunzēlandes_futbola_izlase .
+@prefix ns50:	<http://da.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns50:New_Zealands_fodboldlandshold ,
+		ns4:Q175315 .
+@prefix ns51:	<http://mr.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns51:न्यू_झीलँड_फुटबॉल_संघ .
+@prefix ns52:	<http://sl.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns52:Novozelandska_nogometna_reprezentanca .
+@prefix ns53:	<http://yago-knowledge.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns53:New_Zealand_national_football_team .
+@prefix ns54:	<http://uk.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns54:Збірна_Нової_Зеландії_з_футболу .
+@prefix ns55:	<http://hr.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns55:Novozelandska_nogometna_reprezentacija .
+@prefix ns56:	<http://lt.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns56:Naujosios_Zelandijos_vyrų_futbolo_rinktinė ,
+		ns1:Équipe_de_Nouvelle-Zélande_de_football .
+@prefix ns57:	<http://hu.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns57:Új-zélandi_labdarúgó-válogatott .
+@prefix ns58:	<http://ca.dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	owl:sameAs	ns58:Selecció_de_futbol_de_Nova_Zelanda .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:New_Zealand_national_football_team	rdfs:label	"Neuseel\u00E4ndische Fu\u00DFballnationalmannschaft"@de ,
+		"Nieuw-Zeelands voetbalelftal"@nl ,
+		"New Zealand national football team" ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u041D\u043E\u0432\u043E\u0439 \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"Nazionale di calcio della Nuova Zelanda"@it ,
+		"Selecci\u00F3n de f\u00FAtbol de Nueva Zelanda"@es ,
+		"\u65B0\u897F\u862D\u570B\u5BB6\u8DB3\u7403\u968A"@zh ,
+		"Sele\u00E7\u00E3o Neozelandesa de Futebol"@pt ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0646\u064A\u0648\u0632\u064A\u0644\u0646\u062F\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"\u30B5\u30C3\u30AB\u30FC\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9\u4EE3\u8868"@ja ,
+		"Reprezentacja Nowej Zelandii w pi\u0142ce no\u017Cnej"@pl ,
+		"\u00C9quipe de Nouvelle-Z\u00E9lande de football"@fr .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:New_Zealand_national_football_team	dcterms:subject	category:Oceanian_national_association_football_teams ,
+		category:National_sports_teams_of_New_Zealand ,
+		category:New_Zealand_national_football_team ;
+	foaf:name	"New Zealand" ;
+	foaf:nick	"All Whites" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:New_Zealand_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/New_Zealand_national_football_team?oldid=606751878> ;
+	rdfs:comment	"The New Zealand national football team represents New Zealand in international football. The team is controlled by the governing body for football in New Zealand New Zealand Football (NZF), which is currently a member of the Oceania Football Confederation (OFC). The team's official nickname is the All Whites.New Zealand is a four-time OFC champion." ,
+		"La selecci\u00F3n de f\u00FAtbol de Nueva Zelanda es el equipo representativo de dicho pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Asociaci\u00F3n de F\u00FAtbol de Nueva Zelanda, perteneciente a la OFC y a la FIFA.El principal seud\u00F3nimo de este equipo, All Whites, se le dio por primera vez durante la clasificaci\u00F3n para la Copa Mundial de 1982."@es ,
+		"\u65B0\u897F\u862D\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u65B0\u897F\u862D\u7684\u570B\u5BB6\u8DB3\u7403\u968A\uFF0C\u4E26\u7531\u65B0\u897F\u862D\u8DB3\u7403\u5354\u6703\u6240\u7BA1\u7406\u3002\u65B0\u897F\u862D\u66FE\u65BC\u6649\u8EAB1982\u5E74\u7684\u4E16\u754C\u76C3\uFF0C\u7576\u5C46\u5916\u570D\u8CFD\u65B0\u897F\u862D\u5728\u9996\u8F2A\u7206\u51B7\u6DD8\u6C70\u6FB3\u6D32\u6649\u7D1A\u6B21\u968E\u6BB5\uFF0C\u5728\u6B21\u968E\u6BB5\u5916\u570D\u8CFD\u672C\u4F86\u5728\u5206\u6578\u53CA\u5F97\u5931\u7403\u5DEE\u90FD\u843D\u5F8C\u65BC\u4E2D\u570B\uFF0C\u4F46\u5728\u6700\u5916\u4E00\u5834\u5916\u570D\u8CFD\u4F5C\u5BA2\u5DF2\u7D93\u51FA\u7DDA\u7121\u671B\u7684\u6C99\u5730\u963F\u62C9\u4F2F\uFF0C\u7ADF\u51FA\u4E4E\u610F\u6599\u5730\u5927\u52DD\u4E3B\u968A5-0\uFF0C\u4EE4\u6700\u5F8C\u8207\u4E2D\u570B\u540C\u5206\u4EE5\u53CA\u5F97\u5931\u7403\u5B8C\u5168\u76F8\u540C\u4E26\u5217\u7B2C\u4E8C\u4F4D\uFF0C\u9808\u8981\u53E6\u884C\u8209\u884C\u4E00\u5834\u8CFD\u4E8B\u6C7A\u5B9A\u90A3\u968A\u51FA\u7DDA\u3002\u7D50\u679C\u65B0\u897F\u862D\u4EE52-1\u64CA\u6557\u4E2D\u570B\uFF0C\u5947\u8DE1\u5730\u9996\u6B21\u6649\u7D1A\u6C7A\u8CFD\u5468\uFF0C\u4F46\u537B\u5728\u5206\u7D44\u8CFD\u4E2D\u4EE52-5\u4E0D\u6575\u8607\u683C\u862D\uFF0C0-3\u4E0D\u6575\u8607\u806F\u53CA0-4\u6557\u7D66\u5DF4\u897F\uFF0C3\u6230\u6557\u5317\uFF0C\u4EE5\u5C0F\u7EC4\u7B2C4\u540D\u672B\u5E2D\u51FA\u5C40\u3002\u5728\u5927\u6D0B\u6D32\u570B\u5BB6\u76C3\u65B9\u9762\uFF0C\u65B0\u897F\u862D\u66FE\u4E09\u5EA6\u8207\u6FB3\u6D32\u722D\u596A\u51A0\u8ECD\uFF0C\u7576\u4E2D\uFF0C\u65B0\u897F\u862D\u8D0F\u5F97\u5169\u6B21\u51A0\u8ECD\uFF0C\u96D6\u7136\u5982\u6B64\uFF0C\u4F46\u6FB3\u6D32\u4E0D\u8AD6\u5728\u4E16\u754C\u6392\u540D\u6216\u662F\u7403\u54E1\u8CEA\u7D20\u90FD\u9060\u6BD4\u65B0\u897F\u862D\u51FA\u8272\uFF0C\u81EA1966\u5E74\u4E16\u754C\u76C3\u4E16\u754C\u76C3\u5916\u570D\u8CFD\uFF0C\u6FB3\u6D32\u5927\u591A\u90FD\u80FD\u58D3\u5012\u65B0\u897F\u862D\u6649\u7D1A\u4E16\u754C\u76C3\u5916\u570D\u8CFD\u7684\u9644\u52A0\u8CFD(\u96641982\u5E74\u4E16\u754C\u676F\u5916\u570D\u8CFD\u5916)\uFF0C\u4F462006\u5E741\u6708\u8D77\uFF0C\u6FB3\u6D32\u5C31\u6210\u70BA\u4E9E\u6D32\u7684\u7403\u968A\u4E4B\u4E00\uFF0C\u65B0\u897F\u862D\u5C31\u66F4\u6709\u53EF\u80FD\u6649\u7D1A\u4E16\u754C\u76C3\u5916\u570D\u8CFD\u7684\u9644\u52A0\u8CFD\u3002\u5728\u6C92\u6709\u6FB3\u6D32\u968A\u7684\u60C5\u6CC1\u4E0B\uFF0C\u65B0\u897F\u862D\u57282010\u5E74\u4E16\u754C\u76C3\u5916\u570D\u8CFD\u4E2D\u8F15\u9B06\u5730\u4EE5\u5927\u6D0B\u5DDE\u5C0F\u5340\u9996\u540D\u51FA\u7DDA\uFF0C\u4E26\u5728\u9644\u52A0\u8CFD\u64CA\u6557\u5DF4\u6797\u6649\u8EAB\u6C7A\u8CFD\u5468\uFF0C\u4EA6\u662F\u9996\u5C46\u65B0\u897F\u862D\u8207\u6FB3\u6D32\u5169\u500B\u5927\u6D0B\u6D32\u570B\u5BB6\u4E00\u9F4A\u6649\u7D1A\u4E16\u754C\u676F\u6C7A\u8CFD\u5468\u3002\u65B0\u897F\u862D\u5728\u6C7A\u8CFD\u9031\u88AB\u7DE8\u5165F\u7D44\uFF0C\u4E09\u5834\u5206\u7D44\u8CFD\u7686\u8207\u5C0D\u624B(\u65AF\u6D1B\u4F10\u514B\u3001\u610F\u5927\u5229\u53CA\u5DF4\u62C9\u572D)\u6253\u6210\u5E73\u624B\uFF0C\u96D6\u4F4D\u5217\u5C0F\u7D44\u7B2C\u4E09\u540D\u800C\u51FA\u5C40\uFF0C\u4F46\u537B\u662F\u8A72\u5C46\u6C7A\u8CFD\u9031\u4E2D\u552F\u4E00\u4E0D\u66FE\u6557\u9663\u7684\u968A\u4F0D\uFF0C\u800C\u4E14\u6210\u7E3E\u6BD4\u540C\u7D44\u7684\u56DB\u5C46\u4E16\u754C\u676F\u51A0\u8ECD\u610F\u5927\u5229\u70BA\u4F73\u30022014\u5E74\u4E16\u754C\u76C3\u5916\u570D\u8CFD\uFF0C\u65B0\u897F\u862D\u6BEB\u7121\u96E3\u5EA6\u5730\u53D6\u5F97\u5927\u6D0B\u6D32\u5340\u5916\u570D\u8CFD\u51A0\u8ECD\uFF0C,\u518D\u6B21\u6649\u8EAB\u8DE8\u6D32\u9644\u52A0\u8CFD\uFF0C\u4F46\u9019\u6B21\u7684\u5C0D\u624B\u662F\u904E\u53BB\u4E94\u5C46\u90FD\u6253\u5165\u4E16\u754C\u76C3\u6700\u5F8C\u5341\u516D\u5F37\u7684\u58A8\u897F\u54E5\uFF0C\u65B0\u897F\u862D\u660E\u986F\u5BE6\u529B\u4E0D\u53CA\u5C0D\u624B\uFF0C\u7E3D\u6BD4\u6578\u4EE53-9\u5927\u6557\u51FA\u5C40\u3002"@zh ,
+		"Reprezentacja Nowej Zelandii w pi\u0142ce no\u017Cnej (nazywana All Whites) dwukrotnie zakwalifikowa\u0142a si\u0119 na Mistrzostwa \u015Awiata \u2013 w 1982 r., przegrywaj\u0105c wszystkie trzy spotkania w grupie (z Brazyli\u0105 0:4, ZSRR 0:3 i Szkocj\u0105 2:5) oraz na Mistrzostwa \u015Awiata w 2010 r. w RPA, remisuj\u0105c we wszystkich trzech meczach w grupie (1:1 z W\u0142ochami i S\u0142owacj\u0105, oraz bezbramkowo z Paragwajem), co oznacza\u0142o \u017Ce Nowa Zelandia zosta\u0142a jedyn\u0105 niepokonan\u0105 dru\u017Cyn\u0105 tego mundialu, ale r\u00F3wnie\u017C nie da\u0142o jej awansu do 1/8 fina\u0142u."@pl ,
+		"Die neuseel\u00E4ndische Fu\u00DFballnationalmannschaft, wegen ihrer Trikots in Anlehnung an die All Blacks auch All Whites genannt, ist das Auswahlteam des pazifischen Inselstaates Neuseeland. Die Nationalmannschaft f\u00E4llt unter die Administration des Fu\u00DFballverbandes New Zealand Football.Die bislang gr\u00F6\u00DFten Erfolge erreichten die neuseel\u00E4ndischen Fu\u00DFballer mit den Qualifikationen zu den Fu\u00DFball-Weltmeisterschaften 1982 in Spanien und 2010 in S\u00FCdafrika."@de ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0646\u064A\u0648\u0632\u064A\u0644\u0646\u062F\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0647\u0648 \u0645\u0645\u062B\u0644 \u0646\u064A\u0648\u0632\u064A\u0644\u0646\u062F\u0627 \u0627\u0644\u0631\u0633\u0645\u064A \u0641\u064A \u0631\u064A\u0627\u0636\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645. \u0634\u0627\u0631\u0643 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0641\u064A \u0646\u0647\u0627\u0626\u064A\u0627\u062A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0645\u0631\u062A\u064A\u0646\u060C \u0623\u0648\u0644 \u0645\u0631\u0629 \u0643\u0627\u0646\u062A \u0641\u064A 1982\u060C \u062B\u0645 \u063A\u0627\u0628 \u0639\u0646 \u0627\u0644\u0646\u0647\u0627\u0626\u064A\u0627\u062A \u062D\u062A\u0649 \u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 2010. \u062D\u0635\u0644 \u0639\u0644\u0649 \u0644\u0642\u0628 \u0627\u0644\u0642\u0627\u0631\u0629 4 \u0645\u0631\u0627\u062A \u0645\u0646 \u0623\u0635\u0644 9 \u0645\u0634\u0627\u0631\u0643\u0627\u062A\u060C \u0648\u0644\u0639\u0628 \u0641\u064A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0642\u0627\u0631\u0627\u062A 3 \u0645\u0631\u0627\u062A \u0643\u0645\u0645\u062B\u0644\u0627\u064B \u0644\u0642\u0627\u0631\u0629 \u0623\u0648\u0642\u064A\u0627\u0646\u0648\u0633\u064A\u0627."@ar ,
+		"A Sele\u00E7\u00E3o Neozelandesa de Futebol representa a Nova Zel\u00E2ndia nas competi\u00E7\u00F5es da FIFA. S\u00E3o conhecidos tamb\u00E9m como All Whites, uma referencia \u00E0 cor de seu uniforme principal, que \u00E9 todo branco. Controlada pela NZF, a Sele\u00E7\u00E3o Neozelandesa participou duas edi\u00E7\u00F5es da Copa do Mundo, uma em 1982 e outra em 2010, que foi sediada na \u00C1frica do Sul. Nesta copa a Nova Zel\u00E2ndia marcou o seu primeiro ponto na hist\u00F3ria das copas, ao empatar com a Eslov\u00E1quia no dia 15 de Junho."@pt ,
+		"\u30B5\u30C3\u30AB\u30FC\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9\u4EE3\u8868\uFF08New Zealand national soccer team\uFF09\u306F\u3001\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9\u30D5\u30C3\u30C8\u30DC\u30FC\u30EB\u682A\u5F0F\u4F1A\u793E\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"L'\u00E9quipe de Nouvelle-Z\u00E9lande de football est constitu\u00E9e par une s\u00E9lection des meilleurs joueurs n\u00E9o-z\u00E9landais sous l'\u00E9gide de la F\u00E9d\u00E9ration de Nouvelle-Z\u00E9lande de football. Surnomm\u00E9e les \u00AB All Whites \u00BB (par opposition aux \u00AB All Blacks \u00BB) ou les \u00AB Kiwis \u00BB, elle repr\u00E9sente le pays lors des comp\u00E9titions continentales et internationales.L'\u00E9quipe nationale dispute la premi\u00E8re rencontre de son histoire le 17 juin 1922 face \u00E0 l'Australie, match remport\u00E9 sur le score de trois buts \u00E0 un."@fr ,
+		"La Nazionale di calcio della Nuova Zelanda \u00E8 la rappresentativa calcistica maggiore della Nuova Zelanda ed \u00E8 posta sotto l'egida della locale federazione nota come New Zealand Football.La divisa completamente bianca della nazionale neozelandese prende spunto da quella inglese ed \u00E8 in contrasto con quella totalmente nera della nazionale di rugby (gli All Blacks)."@it ,
+		"Het Nieuw-Zeelands voetbalelftal is een team van voetballers dat Nieuw-Zeeland vertegenwoordigt bij internationale wedstrijden, zoals het WK en de OFC Nations Cup. Nadat het Australisch voetbalelftal zich bij de AFC aansloot is Nieuw-Zeeland het beste team van de OFC."@nl ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u041D\u043E\u0432\u043E\u0439 \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 (\u0430\u043D\u0433\u043B. New Zealand national football team), \u00AB\u041E\u043B\u043B \u0423\u0430\u0439\u0442\u0441\u00BB (\u0430\u043D\u0433\u043B. All Whites, \u043C\u0430\u043E\u0440\u0438 \u014Cm\u0101 \u2014 \u00AB\u0432\u0441\u0435 \u0432 \u0431\u0435\u043B\u043E\u043C\u00BB) \u2014 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u041D\u043E\u0432\u0443\u044E \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u044E \u043D\u0430 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F\u0445 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u043F\u043E\u0434 \u044D\u0433\u0438\u0434\u043E\u0439 \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u041D\u043E\u0432\u043E\u0439 \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u0438. \u0412 \u0440\u0435\u0439\u0442\u0438\u043D\u0433\u0435 \u0424\u0418\u0424\u0410 \u043D\u0430 12 \u044F\u043D\u0432\u0430\u0440\u044F 2011 \u0437\u0430\u043D\u0438\u043C\u0430\u0435\u0442 63-\u0435 \u043C\u0435\u0441\u0442\u043E."@ru ;
+	dbpprop:mostCaps	dbpedia:Ivan_Vicelich ;
+	foaf:isPrimaryTopicOf	ns17:New_Zealand_national_football_team ;
+	dbpprop:club	dbpedia:Perth_Glory_FC ,
+		dbpedia:PEC_Zwolle ,
+		<http://dbpedia.org/resource/Stab%C3%A6k_Fotball> ,
+		dbpedia:Melbourne_Victory_FC ,
+		dbpedia:Albirex_Niigata ,
+		dbpedia:Auckland_City_FC ,
+		<http://dbpedia.org/resource/West_Ham_United_F.C.> ,
+		dbpedia:Chivas_USA ,
+		<http://dbpedia.org/resource/Burnley_F.C.> ,
+		dbpedia:VfB_Stuttgart ,
+		dbpedia:Team_Wellington ,
+		dbpedia:Wellington_Phoenix_FC ,
+		dbpedia:Sacramento_Republic_FC ,
+		dbpedia:Olympique_de_Marseille ,
+		dbpedia:Waitakere_United ,
+		<http://dbpedia.org/resource/Blackburn_Rovers_F.C._Reserves_and_Academy> ,
+		dbpedia:Central_Coast_Mariners_FC ,
+		dbpedia:Falkenbergs_FF ,
+		dbpedia:Vegalta_Sendai ,
+		dbpedia:Canterbury_United_FC ,
+		<http://dbpedia.org/resource/Leicester_City_F.C.> ,
+		<http://dbpedia.org/resource/Lincoln_City_F.C.> ,
+		<http://dbpedia.org/resource/Ipswich_Town_F.C.> ,
+		dbpedia:Free_agent ,
+		<http://dbpedia.org/resource/Crawley_Town_F.C.> ;
+	dbpprop:captain	dbpedia:Winston_Reid .
+@prefix ns63:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:New_Zealand_national_football_team	dbpprop:hasPhotoCollection	ns63:New_Zealand_national_football_team ;
+	dbpprop:name	dbpedia:Kris_Bright ,
+		dbpedia:Craig_Henderson ,
+		dbpedia:Michael_McGlinchey ,
+		<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> ,
+		<http://dbpedia.org/resource/Tim_Payne_(footballer)> ,
+		dbpedia:Glen_Moss ,
+		dbpedia:Jeremy_Christie ,
+		dbpedia:Dan_Keat ,
+		dbpedia:Andrew_Durante ,
+		<http://dbpedia.org/resource/Michael_Fitzgerald_(footballer)> ,
+		<http://dbpedia.org/resource/Chris_Wood_(footballer_born_1991)> ,
+		dbpedia:Marco_Rojas ,
+		<http://dbpedia.org/resource/Chris_James_(footballer)> ,
+		dbpedia:Tyler_Boyd ,
+		dbpedia:Michael_Boxall ,
+		"Winston Reid INJ" ,
+		dbpedia:Storm_Roux ,
+		dbpedia:Tony_Lochhead ,
+		dbpedia:Cole_Peverley ,
+		"New Zealand" ,
+		dbpedia:Kosta_Barbarouses ,
+		dbpedia:Cameron_Howieson ,
+		dbpedia:Tamati_Williams ,
+		<http://dbpedia.org/resource/Ryan_Thomas_(footballer)> ,
+		"Ivan Vicelich RET" ,
+		dbpedia:Leo_Bertos ,
+		dbpedia:Jeremy_Brockie ,
+		dbpedia:Ben_Sigmund ,
+		dbpedia:Rory_Fallon ,
+		<http://dbpedia.org/resource/Aaron_Scott_(footballer)> ,
+		dbpedia:Bill_Tuiloma ,
+		dbpedia:Jacob_Spoonley ,
+		dbpedia:Chris_Killen ,
+		dbpedia:Shane_Smeltz ,
+		dbpedia:Aaron_Clapham ,
+		dbpedia:Louis_Fenton ,
+		dbpedia:Jake_Gleeson ,
+		<http://dbpedia.org/resource/Jake_Butler_(footballer)> ;
+	dbpedia-owl:abstract	"\u65B0\u897F\u862D\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u65B0\u897F\u862D\u7684\u570B\u5BB6\u8DB3\u7403\u968A\uFF0C\u4E26\u7531\u65B0\u897F\u862D\u8DB3\u7403\u5354\u6703\u6240\u7BA1\u7406\u3002\u65B0\u897F\u862D\u66FE\u65BC\u6649\u8EAB1982\u5E74\u7684\u4E16\u754C\u76C3\uFF0C\u7576\u5C46\u5916\u570D\u8CFD\u65B0\u897F\u862D\u5728\u9996\u8F2A\u7206\u51B7\u6DD8\u6C70\u6FB3\u6D32\u6649\u7D1A\u6B21\u968E\u6BB5\uFF0C\u5728\u6B21\u968E\u6BB5\u5916\u570D\u8CFD\u672C\u4F86\u5728\u5206\u6578\u53CA\u5F97\u5931\u7403\u5DEE\u90FD\u843D\u5F8C\u65BC\u4E2D\u570B\uFF0C\u4F46\u5728\u6700\u5916\u4E00\u5834\u5916\u570D\u8CFD\u4F5C\u5BA2\u5DF2\u7D93\u51FA\u7DDA\u7121\u671B\u7684\u6C99\u5730\u963F\u62C9\u4F2F\uFF0C\u7ADF\u51FA\u4E4E\u610F\u6599\u5730\u5927\u52DD\u4E3B\u968A5-0\uFF0C\u4EE4\u6700\u5F8C\u8207\u4E2D\u570B\u540C\u5206\u4EE5\u53CA\u5F97\u5931\u7403\u5B8C\u5168\u76F8\u540C\u4E26\u5217\u7B2C\u4E8C\u4F4D\uFF0C\u9808\u8981\u53E6\u884C\u8209\u884C\u4E00\u5834\u8CFD\u4E8B\u6C7A\u5B9A\u90A3\u968A\u51FA\u7DDA\u3002\u7D50\u679C\u65B0\u897F\u862D\u4EE52-1\u64CA\u6557\u4E2D\u570B\uFF0C\u5947\u8DE1\u5730\u9996\u6B21\u6649\u7D1A\u6C7A\u8CFD\u5468\uFF0C\u4F46\u537B\u5728\u5206\u7D44\u8CFD\u4E2D\u4EE52-5\u4E0D\u6575\u8607\u683C\u862D\uFF0C0-3\u4E0D\u6575\u8607\u806F\u53CA0-4\u6557\u7D66\u5DF4\u897F\uFF0C3\u6230\u6557\u5317\uFF0C\u4EE5\u5C0F\u7EC4\u7B2C4\u540D\u672B\u5E2D\u51FA\u5C40\u3002\u5728\u5927\u6D0B\u6D32\u570B\u5BB6\u76C3\u65B9\u9762\uFF0C\u65B0\u897F\u862D\u66FE\u4E09\u5EA6\u8207\u6FB3\u6D32\u722D\u596A\u51A0\u8ECD\uFF0C\u7576\u4E2D\uFF0C\u65B0\u897F\u862D\u8D0F\u5F97\u5169\u6B21\u51A0\u8ECD\uFF0C\u96D6\u7136\u5982\u6B64\uFF0C\u4F46\u6FB3\u6D32\u4E0D\u8AD6\u5728\u4E16\u754C\u6392\u540D\u6216\u662F\u7403\u54E1\u8CEA\u7D20\u90FD\u9060\u6BD4\u65B0\u897F\u862D\u51FA\u8272\uFF0C\u81EA1966\u5E74\u4E16\u754C\u76C3\u4E16\u754C\u76C3\u5916\u570D\u8CFD\uFF0C\u6FB3\u6D32\u5927\u591A\u90FD\u80FD\u58D3\u5012\u65B0\u897F\u862D\u6649\u7D1A\u4E16\u754C\u76C3\u5916\u570D\u8CFD\u7684\u9644\u52A0\u8CFD(\u96641982\u5E74\u4E16\u754C\u676F\u5916\u570D\u8CFD\u5916)\uFF0C\u4F462006\u5E741\u6708\u8D77\uFF0C\u6FB3\u6D32\u5C31\u6210\u70BA\u4E9E\u6D32\u7684\u7403\u968A\u4E4B\u4E00\uFF0C\u65B0\u897F\u862D\u5C31\u66F4\u6709\u53EF\u80FD\u6649\u7D1A\u4E16\u754C\u76C3\u5916\u570D\u8CFD\u7684\u9644\u52A0\u8CFD\u3002\u5728\u6C92\u6709\u6FB3\u6D32\u968A\u7684\u60C5\u6CC1\u4E0B\uFF0C\u65B0\u897F\u862D\u57282010\u5E74\u4E16\u754C\u76C3\u5916\u570D\u8CFD\u4E2D\u8F15\u9B06\u5730\u4EE5\u5927\u6D0B\u5DDE\u5C0F\u5340\u9996\u540D\u51FA\u7DDA\uFF0C\u4E26\u5728\u9644\u52A0\u8CFD\u64CA\u6557\u5DF4\u6797\u6649\u8EAB\u6C7A\u8CFD\u5468\uFF0C\u4EA6\u662F\u9996\u5C46\u65B0\u897F\u862D\u8207\u6FB3\u6D32\u5169\u500B\u5927\u6D0B\u6D32\u570B\u5BB6\u4E00\u9F4A\u6649\u7D1A\u4E16\u754C\u676F\u6C7A\u8CFD\u5468\u3002\u65B0\u897F\u862D\u5728\u6C7A\u8CFD\u9031\u88AB\u7DE8\u5165F\u7D44\uFF0C\u4E09\u5834\u5206\u7D44\u8CFD\u7686\u8207\u5C0D\u624B(\u65AF\u6D1B\u4F10\u514B\u3001\u610F\u5927\u5229\u53CA\u5DF4\u62C9\u572D)\u6253\u6210\u5E73\u624B\uFF0C\u96D6\u4F4D\u5217\u5C0F\u7D44\u7B2C\u4E09\u540D\u800C\u51FA\u5C40\uFF0C\u4F46\u537B\u662F\u8A72\u5C46\u6C7A\u8CFD\u9031\u4E2D\u552F\u4E00\u4E0D\u66FE\u6557\u9663\u7684\u968A\u4F0D\uFF0C\u800C\u4E14\u6210\u7E3E\u6BD4\u540C\u7D44\u7684\u56DB\u5C46\u4E16\u754C\u676F\u51A0\u8ECD\u610F\u5927\u5229\u70BA\u4F73\u30022014\u5E74\u4E16\u754C\u76C3\u5916\u570D\u8CFD\uFF0C\u65B0\u897F\u862D\u6BEB\u7121\u96E3\u5EA6\u5730\u53D6\u5F97\u5927\u6D0B\u6D32\u5340\u5916\u570D\u8CFD\u51A0\u8ECD\uFF0C,\u518D\u6B21\u6649\u8EAB\u8DE8\u6D32\u9644\u52A0\u8CFD\uFF0C\u4F46\u9019\u6B21\u7684\u5C0D\u624B\u662F\u904E\u53BB\u4E94\u5C46\u90FD\u6253\u5165\u4E16\u754C\u76C3\u6700\u5F8C\u5341\u516D\u5F37\u7684\u58A8\u897F\u54E5\uFF0C\u65B0\u897F\u862D\u660E\u986F\u5BE6\u529B\u4E0D\u53CA\u5C0D\u624B\uFF0C\u7E3D\u6BD4\u6578\u4EE53-9\u5927\u6557\u51FA\u5C40\u3002"@zh ,
+		"L'\u00E9quipe de Nouvelle-Z\u00E9lande de football est constitu\u00E9e par une s\u00E9lection des meilleurs joueurs n\u00E9o-z\u00E9landais sous l'\u00E9gide de la F\u00E9d\u00E9ration de Nouvelle-Z\u00E9lande de football. Surnomm\u00E9e les \u00AB All Whites \u00BB (par opposition aux \u00AB All Blacks \u00BB) ou les \u00AB Kiwis \u00BB, elle repr\u00E9sente le pays lors des comp\u00E9titions continentales et internationales.L'\u00E9quipe nationale dispute la premi\u00E8re rencontre de son histoire le 17 juin 1922 face \u00E0 l'Australie, match remport\u00E9 sur le score de trois buts \u00E0 un. Affili\u00E9e \u00E0 la FIFA en 1948, la F\u00E9d\u00E9ration n\u00E9o-z\u00E9landaise est membre fondateur de la Conf\u00E9d\u00E9ration du football d'Oc\u00E9anie en 1966. La s\u00E9lection n\u00E9o-z\u00E9landaise dispute ses premi\u00E8res qualifications \u00E0 une phase finale de Coupe du monde en 1970.Elle remporte son premier troph\u00E9e en Coupe d'Oc\u00E9anie en 1973 et compte trois autres victoires dans cette comp\u00E9tition en 1998, 2002 et 2008. Elle compte \u00E9galement deux participations \u00E0 une phase finale de la Coupe du monde, en 1982 et en 2010.Meilleure nation de la Conf\u00E9d\u00E9ration du football d'Oc\u00E9anie depuis le d\u00E9part de l'Australie vers la Conf\u00E9d\u00E9ration asiatique de football en 2006, la s\u00E9lection a termin\u00E9 l'ann\u00E9e 2013 au 90e rang mondial du classement FIFA. Les N\u00E9o-Z\u00E9landais disputent leurs rencontres \u00E0 domicile au Westpac Stadium, stade de 36 000 places situ\u00E9 \u00E0 Wellington, ou au North Harbour Stadium d'Auckland, d'une capacit\u00E9 de 35 000 places. L'\u00E9quipe est entra\u00EEn\u00E9e de 2005 \u00E0 2013 par le N\u00E9o-Z\u00E9landais Ricki Herbert."@fr ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0646\u064A\u0648\u0632\u064A\u0644\u0646\u062F\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0647\u0648 \u0645\u0645\u062B\u0644 \u0646\u064A\u0648\u0632\u064A\u0644\u0646\u062F\u0627 \u0627\u0644\u0631\u0633\u0645\u064A \u0641\u064A \u0631\u064A\u0627\u0636\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645. \u0634\u0627\u0631\u0643 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0641\u064A \u0646\u0647\u0627\u0626\u064A\u0627\u062A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0645\u0631\u062A\u064A\u0646\u060C \u0623\u0648\u0644 \u0645\u0631\u0629 \u0643\u0627\u0646\u062A \u0641\u064A 1982\u060C \u062B\u0645 \u063A\u0627\u0628 \u0639\u0646 \u0627\u0644\u0646\u0647\u0627\u0626\u064A\u0627\u062A \u062D\u062A\u0649 \u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 2010. \u062D\u0635\u0644 \u0639\u0644\u0649 \u0644\u0642\u0628 \u0627\u0644\u0642\u0627\u0631\u0629 4 \u0645\u0631\u0627\u062A \u0645\u0646 \u0623\u0635\u0644 9 \u0645\u0634\u0627\u0631\u0643\u0627\u062A\u060C \u0648\u0644\u0639\u0628 \u0641\u064A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0642\u0627\u0631\u0627\u062A 3 \u0645\u0631\u0627\u062A \u0643\u0645\u0645\u062B\u0644\u0627\u064B \u0644\u0642\u0627\u0631\u0629 \u0623\u0648\u0642\u064A\u0627\u0646\u0648\u0633\u064A\u0627."@ar ,
+		"Die neuseel\u00E4ndische Fu\u00DFballnationalmannschaft, wegen ihrer Trikots in Anlehnung an die All Blacks auch All Whites genannt, ist das Auswahlteam des pazifischen Inselstaates Neuseeland. Die Nationalmannschaft f\u00E4llt unter die Administration des Fu\u00DFballverbandes New Zealand Football.Die bislang gr\u00F6\u00DFten Erfolge erreichten die neuseel\u00E4ndischen Fu\u00DFballer mit den Qualifikationen zu den Fu\u00DFball-Weltmeisterschaften 1982 in Spanien und 2010 in S\u00FCdafrika."@de ,
+		"Het Nieuw-Zeelands voetbalelftal is een team van voetballers dat Nieuw-Zeeland vertegenwoordigt bij internationale wedstrijden, zoals het WK en de OFC Nations Cup. Nadat het Australisch voetbalelftal zich bij de AFC aansloot is Nieuw-Zeeland het beste team van de OFC."@nl ,
+		"A Sele\u00E7\u00E3o Neozelandesa de Futebol representa a Nova Zel\u00E2ndia nas competi\u00E7\u00F5es da FIFA. S\u00E3o conhecidos tamb\u00E9m como All Whites, uma referencia \u00E0 cor de seu uniforme principal, que \u00E9 todo branco. Controlada pela NZF, a Sele\u00E7\u00E3o Neozelandesa participou duas edi\u00E7\u00F5es da Copa do Mundo, uma em 1982 e outra em 2010, que foi sediada na \u00C1frica do Sul. Nesta copa a Nova Zel\u00E2ndia marcou o seu primeiro ponto na hist\u00F3ria das copas, ao empatar com a Eslov\u00E1quia no dia 15 de Junho. Mesmo n\u00E3o sendo tradicional no Futebol, a Nova Zel\u00E2ndia \u00E9 considerada a melhor sele\u00E7\u00E3o de Futebol da Oceania desde que a Austr\u00E1lia foi transferida para a AFC (Confedera\u00E7\u00E3o Asi\u00E1tica de Futebol).A Nova Zel\u00E2ndia ganhou 4 vezes a Copa das Na\u00E7\u00F5es da OFC: 1973, 1998 , 2002 e 2008.Venceu a competi\u00E7\u00E3o e ganhou o direito a participar da Copa das Confedera\u00E7\u00F5es em 2009.Seu uniforme branco, \u00E9 baseado originalmente na cor do uniforme da Inglaterra."@pt ,
+		"Reprezentacja Nowej Zelandii w pi\u0142ce no\u017Cnej (nazywana All Whites) dwukrotnie zakwalifikowa\u0142a si\u0119 na Mistrzostwa \u015Awiata \u2013 w 1982 r., przegrywaj\u0105c wszystkie trzy spotkania w grupie (z Brazyli\u0105 0:4, ZSRR 0:3 i Szkocj\u0105 2:5) oraz na Mistrzostwa \u015Awiata w 2010 r. w RPA, remisuj\u0105c we wszystkich trzech meczach w grupie (1:1 z W\u0142ochami i S\u0142owacj\u0105, oraz bezbramkowo z Paragwajem), co oznacza\u0142o \u017Ce Nowa Zelandia zosta\u0142a jedyn\u0105 niepokonan\u0105 dru\u017Cyn\u0105 tego mundialu, ale r\u00F3wnie\u017C nie da\u0142o jej awansu do 1/8 fina\u0142u. Uczestniczy od pocz\u0105tku w rozgrywkach o Puchar Narod\u00F3w Oceanii, zajmuj\u0105c czterokrotnie pierwsze miejsce (w 1973, 1998, 2002, 2008 r.), raz drugie (w 2000 r.) i trzykrotnie trzecie miejsce (w 1996, 2004 i 2012 r.). Jako zwyci\u0119zca strefy Oceanii, r\u00F3wnie\u017C trzykrotnie bra\u0142a udzia\u0142 w Pucharze Konfederacji (w 1999 i 2003 oraz 2009), przegrywaj\u0105c 8 spotka\u0144, a remisuj\u0105c zaledwie jedno (0:0 z Irakiem w roku 2009).Reprezentacja Nowej Zelandii zajmuje obecnie 1. miejsce w Oceanii OFC (stan na 19 pa\u017Adziernika 2011)."@pl ,
+		"\u30B5\u30C3\u30AB\u30FC\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9\u4EE3\u8868\uFF08New Zealand national soccer team\uFF09\u306F\u3001\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9\u30D5\u30C3\u30C8\u30DC\u30FC\u30EB\u682A\u5F0F\u4F1A\u793E\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u041D\u043E\u0432\u043E\u0439 \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 (\u0430\u043D\u0433\u043B. New Zealand national football team), \u00AB\u041E\u043B\u043B \u0423\u0430\u0439\u0442\u0441\u00BB (\u0430\u043D\u0433\u043B. All Whites, \u043C\u0430\u043E\u0440\u0438 \u014Cm\u0101 \u2014 \u00AB\u0432\u0441\u0435 \u0432 \u0431\u0435\u043B\u043E\u043C\u00BB) \u2014 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u041D\u043E\u0432\u0443\u044E \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u044E \u043D\u0430 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F\u0445 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u043F\u043E\u0434 \u044D\u0433\u0438\u0434\u043E\u0439 \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u041D\u043E\u0432\u043E\u0439 \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u0438. \u0412 \u0440\u0435\u0439\u0442\u0438\u043D\u0433\u0435 \u0424\u0418\u0424\u0410 \u043D\u0430 12 \u044F\u043D\u0432\u0430\u0440\u044F 2011 \u0437\u0430\u043D\u0438\u043C\u0430\u0435\u0442 63-\u0435 \u043C\u0435\u0441\u0442\u043E."@ru ,
+		"La Nazionale di calcio della Nuova Zelanda \u00E8 la rappresentativa calcistica maggiore della Nuova Zelanda ed \u00E8 posta sotto l'egida della locale federazione nota come New Zealand Football.La divisa completamente bianca della nazionale neozelandese prende spunto da quella inglese ed \u00E8 in contrasto con quella totalmente nera della nazionale di rugby (gli All Blacks). Non a caso, il soprannome di questa rappresentativa \u00E8 All Whites.Solo due volte la Nuova Zelanda ha raggiunto la fase finale della Coppa del Mondo: nell'edizione spagnola del 1982, in cui perse malamente tutte e tre le partite disputate, e in quella sudafricana del 2010, dove invece ha ottenuto altrettanti pareggi, risultando, al termine del torneo, l'unica nazionale imbattuta negli incontri disputati.La Nuova Zelanda si \u00E8 battuta frequentemente con l'Australia nella Oceania Nations Cup, il campionato internazionale giocato dalle nazionali appartenenti alla confederazione calcistica dell'Oceania (OFC). Gli All Whites hanno vinto quattro volte questa competizione: nel 1973, nel 1998, nel 2002 e nel 2008. Nell'ultima edizione vinta i neozelandesi non si sono trovati opposti alla rivale storica, in quanto l'Australia dal 1\u00BA gennaio 2006 \u00E8 entrata a far parte dell'AFC, la confederazione calcistica asiatica.A causa del basso livello del campionato locale, i giocatori neozelandesi di maggior talento giocano in Europa, negli Stati Uniti e in Australia.Attualmente occupa la 57\u00AA posizione nel Ranking mondiale FIFA."@it ,
+		"La selecci\u00F3n de f\u00FAtbol de Nueva Zelanda es el equipo representativo de dicho pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Asociaci\u00F3n de F\u00FAtbol de Nueva Zelanda, perteneciente a la OFC y a la FIFA.El principal seud\u00F3nimo de este equipo, All Whites, se le dio por primera vez durante la clasificaci\u00F3n para la Copa Mundial de 1982. Esto se bas\u00F3 en el color blanco que com\u00FAnmente utilizaba el seleccionado como uniforme y en el apodo de la selecci\u00F3n de rugby, llamados All Blacks. El sobrenombre lleg\u00F3 reci\u00E9n el encuentro disputado ante China Taip\u00E9i, por la segunda fecha.Disput\u00F3 dos ediciones de la Copa Mundial de la FIFA, Espa\u00F1a 1982 y Sud\u00E1frica 2010. En el 1982 perdi\u00F3 en sus tres presentaciones, terminando pen\u00FAltimo en la tabla acumulada de dicho torneo, pero en 2010 fue la \u00FAnica selecci\u00F3n que no perdi\u00F3 ning\u00FAn encuentro en todo el campeonato.Los All Whites comparten una rivalidad con la selecci\u00F3n australiana, desde 1966, a\u00F1o de fundaci\u00F3n de la OFC, hasta 2006, a\u00F1o en el que Australia pas\u00F3 a ser parte de la AFC; se disputaron el primer lugar de la Confederaci\u00F3n de F\u00FAtbol de Ocean\u00EDa. A pesar de que Australia posee una clara ventaja sobre los neozelandeses, Nueva Zelanda pudo alzarse 4 veces con el trofeo de la Copa de las Naciones de la OFC en 1973, 1998, 2002 y 2008. En dos de ellos (1998 y 2002) bati\u00F3 a los australianos en la final. Ambos seleccionados disputaban la Copa Trans-Tasman.Es el \u00FAnico seleccionados de la OFC, de los 14 miembros, que alcanz\u00F3 la fase final de la Copa Mundial de F\u00FAtbol y, junto con Tahit\u00ED, los \u00FAnicos que se proclamaron campeones continentales. Adem\u00E1s de ser el mejor posicionado en el r\u00E1nking FIFA."@es ,
+		"The New Zealand national football team represents New Zealand in international football. The team is controlled by the governing body for football in New Zealand New Zealand Football (NZF), which is currently a member of the Oceania Football Confederation (OFC). The team's official nickname is the All Whites.New Zealand is a four-time OFC champion. The team represented New Zealand at the FIFA World Cup tournaments in 1982 and 2010, and the FIFA Confederations Cup tournaments in 1999, 2003 and 2009.Because most New Zealand football clubs are semi-professional rather than fully professional, most top New Zealand footballers play abroad for clubs in Europe, the United States, Canada and in the Australian A-League." ;
+	dbpedia-owl:wikiPageID	1023035 ;
+	dbpedia-owl:wikiPageRevisionID	606751878 ;
+	dbpprop:location	"Auckland, New Zealand" ,
+		"Tokyo, Japan" ,
+		"Mexico City, Mexico" ,
+		"Honiara, Solomon Islands" ,
+		"Port-of-Spain, Trinidad & Tobago" ,
+		"Wellington, New Zealand" ,
+		"Riyadh, Saudi Arabia" ,
+		"Dunedin, New Zealand" .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:New_Zealand_national_football_team	dbpprop:latest	"--11-20+02:00"^^xsd:gMonthDay ,
+		"--09-09+02:00"^^xsd:gMonthDay ,
+		"--10-15+02:00"^^xsd:gMonthDay ,
+		"--11-13+02:00"^^xsd:gMonthDay ;
+	dbpprop:topScorer	dbpedia:Vaughan_Coveny ;
+	dbpprop:round	2013 ,
+		2014 ,
+		dbpedia:Exhibition_game ;
+	dbpprop:confederationsCupBest	"Group Stage; 1999, 2003 and 2009" ;
+	dbpprop:confederationsCupFirst	1999 ;
+	dbpprop:confederationsCupApps	3 ;
+	dbpprop:clubnat	"FRA" ,
+		"NOR" ,
+		"SWE" ,
+		"NED" ,
+		"AUS" ,
+		"USA" ,
+		"GER" ,
+		"ENG" ,
+		"JPN" ,
+		"NZL" ;
+	dbpprop:goals	"Aguilar" ,
+		"Kagawa" ,
+		"Fallon" ,
+		"C. Lolohea" ,
+		"A. Mabkhout" ,
+		"James" ,
+		"A. Khalil" ,
+		"B. Sigmund" ,
+		"Okazaki" ,
+		"Wood" ,
+		"Jim\u00E9nez" ,
+		"M\u00E1rquez" ,
+		"T. Smith" ,
+		"Pe\u00F1a" ,
+		"Morishige" ,
+		"C. Killen" ,
+		"T. Payne" ,
+		"Peralta" ,
+		6 ,
+		4 ,
+		2 ,
+		3 ,
+		0 ,
+		1 ,
+		12 ,
+		23 ,
+		16 .
+@prefix ns65:	<http://dbpedia.org/datatype/> .
+dbpedia:New_Zealand_national_football_team	dbpprop:time	"1140.0"^^ns65:second ,
+		"1921-09-09+02:00"^^xsd:date ,
+		"1921-09-05+02:00"^^xsd:date ,
+		"1020.0"^^ns65:second ,
+		"2006-09-10+02:00"^^xsd:date ,
+		"2011-10-16+02:00"^^xsd:date ,
+		"2019-10-15+02:00"^^xsd:date ,
+		"night in JST" ,
+		"2006-09-06+02:00"^^xsd:date ,
+		"1170.0"^^ns65:second ;
+	dbpprop:attendance	107000 ,
+		47670 ;
+	dbpprop:referee	"Viktor Kassai" ,
+		"FIFA World Rankings:    '''147th &emsp;  88th" ,
+		"Strebre Delovski" ,
+		dbpedia:Alan_Milliner ,
+		"Averii Jacques" ,
+		"FIFA World Rankings:    '''88th &emsp;  103rd" ;
+	dbpprop:bg	"white" ,
+		"gold" ;
+	dbpprop:stadium	"FIFA World Rankings:    '''84th &emsp;  57th" ,
+		dbpedia:King_Fahd_International_Stadium ,
+		dbpedia:Hasely_Crawford_Stadium ,
+		dbpedia:Forsyth_Barr_Stadium ,
+		<http://dbpedia.org/resource/National_Olympic_Stadium_(Tokyo)> ,
+		dbpedia:Mount_Smart_Stadium ,
+		dbpedia:Estadio_Azteca ,
+		"FIFA World Rankings:    '''107th &emsp;  57th" ,
+		"FIFA World Rankings:    '''85th      67th" ,
+		dbpedia:Wellington_Regional_Stadium ,
+		dbpedia:Lawson_Tama_Stadium .
+@prefix ns66:	<http://www.stuff.co.nz/sport/football/8462628/> .
+dbpedia:New_Zealand_national_football_team	dbpprop:report	ns66:All-Whites-grab-last-gasp-win-over-New-Caledonia ,
+		<http://www.stuff.co.nz/sport/football/9132967/Forgotten-man-gives-All-Whites-victory/> ,
+		<http://www.stuff.co.nz/sport/football/9146101/All-Whites-suffer-amid-Sigmund-disgrace/> ,
+		<http://www.fifa.com/worldcup/preliminaries/play-off/matches/round=258533/match=300234896/index.html> ,
+		<http://www.fifa.com/worldcup/preliminaries/play-off/matches/round=258533/match=300260872/index.html> ,
+		<http://www.nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=2595&cHash=2ec073c2f7> ,
+		"Summary" ,
+		<http://www.fifa.com/worldcup/preliminaries/oceania/matches/round=258417/match=300201677/index.html?intcmp=livecoverage_header_fwcq_playbyplay_en> ,
+		<http://www.fifa.com/worldcup/preliminaries/oceania/matches/round=258417/match=300201683/index.html?intcmp=livecoverage_header_fwcq_playbyplay_en> ;
+	dbpprop:score	4 ,
+		5 ,
+		2 ,
+		0 ;
+	dbpprop:caps	32 ,
+		34 ,
+		47 ,
+		43 ,
+		48 ,
+		50 ,
+		56 ,
+		5 ,
+		6 ,
+		7 ,
+		0 ,
+		1 ,
+		2 ,
+		3 ,
+		13 ,
+		8 ,
+		9 ,
+		17 ,
+		18 ,
+		28 ,
+		25 ,
+		27 ,
+		88 ;
+	dbpprop:age	"1994-12-30+02:00"^^xsd:date ,
+		"1990-03-31+02:00"^^xsd:date ,
+		"1987-09-28+02:00"^^xsd:date ,
+		"1990-06-26+02:00"^^xsd:date ,
+		"1986-07-18+02:00"^^xsd:date ,
+		"1981-09-29+02:00"^^xsd:date ,
+		"1993-04-03+02:00"^^xsd:date ,
+		"1991-11-05+02:00"^^xsd:date ,
+		"1994-12-22+02:00"^^xsd:date ,
+		"1984-01-19+02:00"^^xsd:date ,
+		"1988-08-18+02:00"^^xsd:date ,
+		"1986-09-05+02:00"^^xsd:date ,
+		"1981-10-08+02:00"^^xsd:date ,
+		"1987-01-07+02:00"^^xsd:date ,
+		"1983-05-25+02:00"^^xsd:date ,
+		"1982-05-03+02:00"^^xsd:date ,
+		"1994-01-10+02:00"^^xsd:date ,
+		"1991-12-07+02:00"^^xsd:date ,
+		"1987-10-07+02:00"^^xsd:date ,
+		"1993-01-13+02:00"^^xsd:date ,
+		"1988-09-17+02:00"^^xsd:date ,
+		"1983-01-19+02:00"^^xsd:date ,
+		"1981-12-20+02:00"^^xsd:date ,
+		"1976-09-03+02:00"^^xsd:date ,
+		"1994-12-20+02:00"^^xsd:date ,
+		"1995-03-23+02:00"^^xsd:date ,
+		"1990-02-19+02:00"^^xsd:date ,
+		"1982-03-20+02:00"^^xsd:date ,
+		"1981-02-03+02:00"^^xsd:date ,
+		"1987-06-24+02:00"^^xsd:date ,
+		"1987-03-21+02:00"^^xsd:date ,
+		"1984-11-12+02:00"^^xsd:date ,
+		"1982-01-12+02:00"^^xsd:date ,
+		"1987-01-15+02:00"^^xsd:date ,
+		"1988-07-03+02:00"^^xsd:date ;
+	dbpprop:coach	dbpedia:Neil_Emblen ;
+	dbpedia-owl:coach	dbpedia:Neil_Emblen ;
+	dbpprop:stack	"y" ,
+		"yes" ;
+	dbpprop:date	"2013-09-05+02:00"^^xsd:date ,
+		"2013-11-13+02:00"^^xsd:date ,
+		"2013-03-22+02:00"^^xsd:date ,
+		"2014-03-05+02:00"^^xsd:date ,
+		"2013-10-15+02:00"^^xsd:date ,
+		"2013-03-26+02:00"^^xsd:date ,
+		"2013-09-09+02:00"^^xsd:date ,
+		"2014-05-30+02:00"^^xsd:date ,
+		"2013-11-20+02:00"^^xsd:date ;
+	<http://dbpedia.org/property/1stRankingDate>	"August 1993" ;
+	dbpprop:association	dbpedia:New_Zealand_Football ;
+	dbpprop:body	"FFFFFF" ,
+		0 ;
+	dbpprop:confederation	"OFC" ;
+	dbpprop:fifaRank	11121 ;
+	dbpprop:fifaTrigramme	"NZL" ;
+	dbpprop:leftarm	"FFFFFF" ,
+		0 ;
+	dbpprop:rightarm	"FFFFFF" ,
+		0 ;
+	dbpprop:shorts	"FFFFFF" ,
+		0 ;
+	dbpprop:socks	"FFFFFF" ,
+		0 ;
+	dbpprop:no	16 ,
+		17 ,
+		18 ,
+		19 ,
+		20 ,
+		21 ,
+		22 ,
+		1 ,
+		4 ,
+		6 ,
+		7 ,
+		8 ,
+		9 ,
+		10 ,
+		11 ,
+		12 ,
+		13 ,
+		14 ,
+		15 ;
+	dbpprop:title	"New Zealand Squads" ,
+		"Competitions" ,
+		"Awards" ;
+	dbpprop:pos	"FW" ,
+		"DF" ,
+		"GK" ,
+		"MF" ;
+	dbpprop:result	"L" ,
+		"W" ,
+		"D" ;
+	dbpprop:badge	"New Zealand Football.svg" ;
+	dbpprop:firstGame	3 ;
+	dbpprop:largestLoss	0 ;
+	dbpprop:largestWin	13 ;
+	dbpprop:regionalCupApps	9 ;
+	dbpprop:regionalCupBest	"Champions; 1973, 1998, 2002 and 2008" ;
+	dbpprop:regionalCupFirst	1973 ;
+	dbpprop:regionalName	dbpedia:OFC_Nations_Cup ;
+	dbpprop:eloMax	39 ;
+	dbpprop:eloMaxDate	"June 1983" ;
+	dbpprop:eloMin	95 ;
+	dbpprop:eloMinDate	"February 1998" ,
+		"September 1997," ;
+	dbpprop:eloRank	66 ;
+	dbpprop:fifaMax	47 ;
+	dbpprop:fifaMaxDate	"August 2002" ;
+	dbpprop:fifaMin	156 ;
+	dbpprop:fifaMinDate	"September 2007" ;
+	dbpprop:worldCupApps	2 ;
+	dbpprop:worldCupBest	"Group Stage; 1982 and 2010" ;
+	dbpprop:worldCupFirst	1982 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=2595&cHash=2ec073c2f7> ,
+		<http://www.fifa.com/worldcup/preliminaries/play-off/matches/round=258533/match=300234896/index.html> ,
+		<http://www.fifa.com/worldcup/preliminaries/play-off/matches/round=258533/match=300260872/index.html> ,
+		ns66:All-Whites-grab-last-gasp-win-over-New-Caledonia ,
+		<http://www.stuff.co.nz/sport/football/9132967/Forgotten-man-gives-All-Whites-victory/> ,
+		<http://www.stuff.co.nz/sport/football/9146101/All-Whites-suffer-amid-Sigmund-disgrace/> ,
+		<http://www.nzfootball.co.nz/> ,
+		<http://el.soccerway.com/matches/2013/10/16/world/friendlies/trinidad-and-tobago/new-zealand/1596855/> ,
+		<http://el.soccerway.com/matches/2013/09/05/world/friendlies/saudi-arabia/new-zealand/1553711/> ,
+		<http://el.soccerway.com/matches/2013/09/09/world/friendlies/united-arab-emirates/new-zealand/1589626/> ,
+		<http://www.fifa.com/worldcup/preliminaries/oceania/matches/round=258417/match=300201683/index.html?intcmp=livecoverage_header_fwcq_playbyplay_en> ,
+		<http://www.fifa.com/worldcup/preliminaries/oceania/matches/round=258417/match=300201677/index.html?intcmp=livecoverage_header_fwcq_playbyplay_en> ;
+	dbpprop:fg	"black" ;
+	dbpprop:homeStadium	"Westpac Stadium" ;
+	dbpedia-owl:stadium	dbpedia:Wellington_Regional_Stadium ;
+	dbpprop:nickname	"All Whites" .
+dbpedia:Maurice_Tillotson__5	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ken_Hough	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/James_Pritchett_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kris_Bright	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Yuri_Semin	dbpedia-owl:managerClub	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:managerclubs	dbpedia:New_Zealand_national_football_team .
+dbpedia:Aaran_Lines	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Andrew_Boyens	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ivan_Vicelich	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jake_Gleeson	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tony_Lochhead	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Gavin_Wilkinson	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Mark_Burton_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Dan_Keat	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jock_Aird	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Chris_Killen	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Christian_Bouckenooghe	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Bert_Ormond	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Paul_Nixon_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Juan_Schwanner	dbpedia-owl:managerClub	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:managerclubs	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kevin_Fallon	dbpedia-owl:managerClub	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:managerclubs	dbpedia:New_Zealand_national_football_team .
+dbpedia:Frits_Poelman	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Willem_de_Graaf	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alan_Vest__5	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bill_Knott_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_qualification_(AFC_%E2%80%93_OFC_play-off)>	dbpprop:team	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Graeme_Petersen__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/John_Legg_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:New_Zealand_national_rugby_union_team	dbpprop:before	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Reg_King_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alf_Stamp	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/John_Wrathall_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tom_McNab	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Malcolm_Bland	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ray_Mears_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Don_Kendrick	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/John_Legg_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Praven_Jeram	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tim_Cooper_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jim_Middleton_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ron_Armstrong	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Clint_Gosling	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ken_Armstrong_(footballer_born_1924)>	dbpedia-owl:managerClub	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:managerclubs	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Gerard_Davis	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:John_Staines	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ken_Fleet	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Earle_Thomas	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tommy_Farnan__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Matt_Guildea	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tommy_Farnan	dbpedia-owl:deathPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Duncan_Cole__3	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Billy_Wright_(footballer_born_1962)__13>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Duncan_Oughton__4	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+ns39:Nīwes_Sǣlandes_þēodlīc_fōtþōðerhēap	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns24:منتخب_نيوزيلندا_لكرة_القدم	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns30:Yeni_Zelandiya_milli_futbol_komandası	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns47:Национален_отбор_по_футбол_на_Нова_Зеландия	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns28:নিউজিল্যান্ড_জাতীয়_ফুটবল_দল	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns58:Selecció_de_futbol_de_Nova_Zelanda	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns50:New_Zealands_fodboldlandshold	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns40:Nov-Zelanda_nacia_teamo_de_futbalo	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns38:Uus-Meremaa_jalgpallikoondis	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns42:تیم_ملی_فوتبال_نیوزیلند	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns25:Uuden-Seelannin_jalkapallomaajoukkue	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns23:Selección_de_fútbol_de_Nova_Zelandia	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns41:נבחרת_ניו_זילנד_בכדורגל	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns26:New_Zealand_national_football_team	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns55:Novozelandska_nogometna_reprezentacija	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns57:Új-zélandi_labdarúgó-válogatott	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns43:Tim_nasional_bal-balan_Selandia_Anyar	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns22:Turma_Pediludica_Nationalis_Novozelandica	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns56:Naujosios_Zelandijos_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns49:Jaunzēlandes_futbola_izlase	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns51:न्यू_झीलँड_फुटबॉल_संघ	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns34:Pasukan_bola_sepak_kebangsaan_New_Zealand	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+<http://mt.dbpedia.org/resource/Tim_nazzjonali_tal-futbol_ta\u0027_New_Zealand>	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns29:New_Zealands_herrelandslag_i_fotball	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns48:Echipa_națională_de_fotbal_a_Noii_Zeelande	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns27:Сборная_Новой_Зеландии_по_футболу	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns46:New_Zealand_national_football_team	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns32:Národné_futbalové_mužstvo_Nového_Zélandu	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns52:Novozelandska_nogometna_reprezentanca	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns31:Фудбалска_репрезентација_Новог_Зеланда	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns44:Nya_Zeelands_herrlandslag_i_fotboll	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns33:ฟุตบอลทีมชาตินิวซีแลนด์	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns37:Yeni_Zelanda_Millî_Futbol_Takımı	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns54:Збірна_Нової_Зеландії_з_футболу	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns45:Đội_tuyển_bóng_đá_quốc_gia_New_Zealand	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+ns35:新西蘭國家足球隊	owl:sameAs	dbpedia:New_Zealand_national_football_team .
+dbpedia:Paul_Urlovic	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Chad_Coombes	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Mark_Elrick	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Fred_de_Jong	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Michael_Ridenton	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Mark_Atkinson_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Martin_Akers	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Michael_Boxall	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ian_Hogg_(footballer)>	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alex_Stenhouse	dbpedia-owl:deathPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:OFC_Nations_Cup	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Glen_Moss__10	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ben_Sigmund__9	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Neil_Haines__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Allan_Gilgrist__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Chris_Wood_(footballer_born_1991)>	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/2009_FIFA_Confederations_Cup_statistics>	dbpprop:leastGoalsTeam	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:mostCleanSheetsOpponentTeam	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:mostConsecutiveCleanSheetsOpponentTeam	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:worstGoalDifferenceTeam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jim_Warrender	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Billy_McClure	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Les_Groves	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Dennis_Tindall	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Shane_Smeltz__17	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jarrod_Smith__9	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jim_Moyes__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Roger_Smith_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/George_Campbell_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Brent_Fisher__8	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Bill_Hume	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Des_Warman	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alan_Vest	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bob_Innes_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Chris_Turner_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Iain_Hastie	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:John_Adshead	dbpedia-owl:managerClub	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:managerclubs	dbpedia:New_Zealand_national_football_team .
+dbpedia:Merv_Gordon	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Michael_Fitzgerald_(footballer)>	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Peter_Simonsen	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ryan_Nelsen	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Sean_Byrne_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tony_Evans_(New_Zealand_footballer)>	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:George_Cuthill	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jack_Kidd_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Derek_Phillips_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Glen_Collins_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Robert_Ironside	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Shane_Smeltz	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tony_Moynihan_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Billy_Walsh_(Irish_footballer)>	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Joe_McGrath_(footballer)>	dbpedia-owl:managerClub	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:managerclubs	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Greg_Brown_(footballer_born_1962)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Dan_Keat__10	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Australia%E2%80%93New_Zealand_association_football_rivalry>	dbpprop:teamsInvolved	dbpedia:New_Zealand_national_football_team .
+dbpedia:Campbell_Banks__8	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ljubi%C5%A1a_Bro%C4%87i%C4%87>	dbpprop:managerclubs	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_statistics>	dbpprop:leastWinsTeam	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:leastLossesTeam	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:mostDrawsTeam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tony_Levy	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Colin_Walker_(footballer_born_1958)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Keith_Pritchett	dbpedia-owl:managerClub	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:managerclubs	dbpedia:New_Zealand_national_football_team .
+dbpedia:Cameron_Howieson	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Leo_Bertos	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jeremy_Brockie	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ben_Sigmund	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Duncan_Oughton	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tim_Brown_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Steven_Old	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Aaron_Scott_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jarrod_Smith	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Andrew_Barron	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Alf_Smith_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Max_Davis	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Paul_Probert	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Joe_Todd	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Brian_Armstrong_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Brian_Turner_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Dennis_Smith_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/John_Hill_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Pat_Harris_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Roger_Smith_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kevin_Weymouth	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Nigel_Ashurst	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:George_Drylie	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Allan_Carville	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kenny_Cresswell	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Don_Crabb	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Neil_Harlock	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Neil_Haines	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Shane_Rufer	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:John_Leijh	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Thomas_Edge_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ron_Kearns	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Colin_Latimour	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Trefor_Pugh	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alex_Davis	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Harold_Chapman_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Reg_Singer	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Theo_van_den_Broek	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jacob_Spoonley	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ken_Olley	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Istvan_Nemet	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jack_Hatchard	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Phil_Dando	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Eddie_Barton	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tony_Laffey	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Mark_Cossey	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Gary_Jenkins_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kevin_Mulgrew	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Warren_Fleet	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Eric_Lesbirel	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Vic_Smith	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Charles_Ives_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/George_Anderson_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/George_Wright_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/John_Hanson_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/John_Morris_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/John_White_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Michael_Wilson_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Paul_Rennell	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Raf_de_Gregorio	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Richard_Wilson_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Vic_Pollard	dbpedia-owl:country	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Daniel_Ellensohn	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tony_Laus	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Reg_Craxton	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Bobby_Almond__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bill_Hunter_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/2014_FIFA_World_Cup_qualification_(CONCACAF_%E2%80%93_OFC_play-off)>	dbpprop:team	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Neil_Harlock__6	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Michael_Utting__8	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Joe_Kissock	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Bill_Brownlee	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Robert_McAuley	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Andrew_Boyens__10	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Chris_Killen__14	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jock_Aird__6	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Brad_Scott_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Glen_Collins_(footballer)__5>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Adrian_Webster_(footballer_born_1980)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Michael_McGlinchey	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tony_Levy__8	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/1973_OFC_Nations_Cup_Final>	dbpprop:team	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Michael_Boxall__12	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ian_Upchurch__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/John_White_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Andrew_Durante	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Sam_Malcolmson	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Bill_Hume__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jack_Skinner_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Fred_Benge	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/John_Dryden_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Brad_Scott_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Walter_Brundell	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Len_Barwell	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/George_Campbell_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Winston_Reid	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jim_Stephenson	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Graeme_Cameron	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Allan_Pearce	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Paul_Cameron_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Len_Beavis	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Billy_Woods_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Steve_Boyland	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Allan_Gilgrist	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jim_Mutimer	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Graeme_Petersen	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Garry_Paddison	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Cliff_Banham	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/John_Houghton_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/George_Robinson_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Alex_Smith_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Gordon_Smith_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jeff_Strom	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/John_Rae_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kevin_Curtin	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alex_Sutherland	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Grant_Schofield	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ernie_Bridge_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Craig_Simpson_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Syd_Haines	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Gary_Eccles	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Lankford_Smith	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alan_Stroud	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Fred_Craggs	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tyler_Boyd	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Martin_Felton	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Murray_Kay	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:David_Rayner	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Graham_Storer	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ian_Masson	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Grant_Lightbown	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Archie_McQuarrie	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Dick_Hislop	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Don_Finlayson	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Joe_Burke_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Stan_Cawtheray	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Steven_Bruce	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Clive_Campbell_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Alun_Evans_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Andy_Rennie_(New_Zealander_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bill_Kennedy_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Brian_Sergent_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jack_Jepson	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jim_Campbell_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Mike_Simeonoff	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Paul_Brydon_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ray_Speed	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tim_Myers_(footballer)>	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Bill_Zuill	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Wattie_Cooper	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/David_Burgess_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/David_Houghton_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/George_McLaren_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Graham_Marshall_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Grahame_Bilby	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jack_Sharp_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Peter_O\u0027Malley_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ken_Billot	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Bert_Hiddlestone	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Julius_Beck	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jimmy_Hunter_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jim_Bell_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tony_Gowans	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Josh_Stick	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Wally_Meehan	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ross_Durant	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Geordie_Newman	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Richard_Mulligan_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Greg_Hough_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ray_Davey_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Carl_Jorgensen	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Phil_Traynor	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Bill_Tuiloma	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ken_Mason_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Neil_McArthur	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ces_Dacre	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kosta_Barbarouses	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bob_King_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Frank_Albrechtsen	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Graham_Pearce_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jack_Tinkler	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Keith_Hobbs_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Les_McGirr	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Mark_Armstrong_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Nigel_Debenham	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Peter_Henry_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Rex_Boyes	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Gary_Lake	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Greg_Little_(association_football)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ray_Hodgson	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alan_Preston	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Arthur_Brown_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bob_Wilson_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bill_Harris_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Alan_Wilkinson_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bill_Hunter_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Colin_Shaw_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jeremy_Brown_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Lee_Stickland	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Martin_Jennison	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ross_Goodacre	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ryan_Thomas_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Adam_McGeorge	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Doug_Lapwood	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ian_Upchurch	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Rupert_Ryan_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Rupesh_Puna	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Grahame_Davis	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bill_Chapman_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Charlie_Steele,_Jr.>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Garry_Lund	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alistair_Elder	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Joe_Habets	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Michael_Jones_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Brian_Roberts_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Charles_Mackie_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ron_Stone_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Gareth_Rowe	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Francis_Phelan	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Duncan_Ritchie	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Colin_Tuaa	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Rodger_Gray	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Arthur_Masters_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Cameron_Lindsay	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Owen_Nuttridge	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ossie_Cleal	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Graham_Griffiths	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kevin_Hagan	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bill_Thomas_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Bill_Westerveld	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Bob_Quickenden	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Brent_Fisher	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Joe_Callaghan	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:John_Raat	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Leo_Hope-Ede	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tony_Scheirlinck	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kenny_Harlock	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Mark_Foy	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Paddy_Breslin	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Allan_Smith_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jake_Butler_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:David_Chote	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:John_van_Helden	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Reg_Haggett	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Riki_van_Steeden	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Darren_McClennan	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Johan_Verweij	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:George_McAnulty	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Harold_Balk	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Alex_Metzger_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/David_Wallace_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jeff_Campbell_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Michael_McGarry	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Neville_Siebert	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Nik_Viljoen	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Billy_Nicolle	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Shaun_Baxter	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Neil_Jones_(footballer)>	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ted_Charlton	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alex_Laing	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Craig_Henderson	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Keith_Gibson	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Bill_Anton	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Malcolm_Ferguson	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jim_Kershaw	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Howard_Hutchinson	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tom_McCormack_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Louis_Fenton	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Stu_Jacobs	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ivan_Walsh	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Andy_Leslie_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jim_Cowe	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jason_New	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Peter_Whiting	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Les_Wood	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jim_Moyes	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bill_Ives_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Dennis_Charlton	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Barry_Pickering	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Terry_Haydon	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kelly_McLoughlin	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bill_Hooper_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Duncan_McVey	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tim_Payne_(footballer)>	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jim_McDougall	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Roy_Coxon	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tom_Methven	dbpedia-owl:deathPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Keith_Mackay	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Garry_Welch	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Doug_Ottley	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jim_Ferrier_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tom_McCabe_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:George_Lamont	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Phil_Patterson	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/John_Kemp_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kevin_Birch	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ces_Dacre__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jock_Newall	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Gordon_Barker_(footballer)>	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ron_Armstrong__2	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Mick_Waitt__4	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ted_Cook_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kenny_Harlock__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Rory_Fallon__12	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:James_Bannatyne__5	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Wynton_Rufer	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Simon_Elliott	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Chris_James_(footballer)>	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/2000_OFC_Nations_Cup_Final>	dbpprop:team	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Rory_Fallon	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Dave_Taylor_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tony_Sibley	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Grant_Turner	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Glenn_Dods	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Glen_Adam	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tinoi_Christie	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alan_Marley	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Iain_Ormond	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jeremy_Brockie__15	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Wynton_Rufer__14	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Cole_Peverley__11	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Charlie_Steele,_Jr.__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Marco_Rojas__9	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Alf_Smith_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jason_Batty	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Perry_Cotton	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Dave_Mulligan	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/1983_in_Japanese_football>	dbpprop:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/2003_in_Japanese_football>	dbpprop:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Billy_Wright_(footballer_born_1962)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Barrie_Truman	dbpedia-owl:managerClub	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:managerclubs	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Allan_Jones_(football_coach)>	dbpedia-owl:managerClub	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:managerclubs	dbpedia:New_Zealand_national_football_team .
+dbpedia:Mick_Waitt	dbpedia-owl:managerClub	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:managerclubs	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ian_Marshall_(football_coach)>	dbpedia-owl:deathPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:managerClub	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:managerclubs	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Aaron_Scott_(footballer)__4>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Chad_Coombes__8	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Keith_Pritchett__8	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bobby_Clark_(footballer)>	dbpedia-owl:managerClub	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:managerclubs	dbpedia:New_Zealand_national_football_team .
+dbpedia:Dave_Bright	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Allan_Boath	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Steve_Sumner	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Raul_Blanco	dbpprop:managerclubs	dbpedia:New_Zealand_national_football_team .
+dbpedia:Bobby_Almond	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tim_Stevens_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Mark_Paston	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Glen_Moss	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Danny_Hay	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Noah_Hickey	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Campbell_Banks	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jeremy_Christie	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ross_Nicholson	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ken_Dugdale	dbpedia-owl:managerClub	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:managerclubs	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tommy_Mason_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ricki_Herbert	dbpedia-owl:managerClub	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:managerclubs	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jeff_Fleming	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Steve_Wooddin	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jack_Tinkler__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:James_Bannatyne	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Neil_Emblen	dbpedia-owl:managerClub	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:managerclubs	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/2002_OFC_Nations_Cup_Final>	dbpprop:team	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Keith_Nelson_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Frank_van_Hattum	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Adrian_Elrick__2	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Christian_Bouckenooghe__10	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Wally_Hughes	dbpedia-owl:managerClub	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:managerclubs	dbpedia:New_Zealand_national_football_team .
+dbpedia:Che_Bunce	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Cole_Peverley	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Rodney_Reid	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Robert_Morrison_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Imre_Kiss_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Michael_Groom_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Adrian_Elrick	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jonathon_Taylor	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Paddy_McFarlane	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Dave_Witteveen	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ian_Park	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Harry_Spencer_(footballer)>	dbpedia-owl:deathPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Peter_Hall_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Rewi_Braithwaite	dbpedia-owl:deathPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Keith_Barton	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Greg_Draper	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Paul_Halford	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ken_Ironside	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Andy_Deeley	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Dave_McKissock	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Chris_Riley_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Arthur_Inglis	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Aaron_Clapham	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Sandy_Davie	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Keith_Braithwaite	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jim_Christie	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Charles_Ballard	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Arthur_Leong	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Iain_Marshall	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alex_Caldwell	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jock_Corbett	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ken_France	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Luke_Rowe_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Storm_Roux	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Peter_Gerrard	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Leslie_Kalai	dbpprop:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/2013%E2%80%9314_Wellington_Phoenix_FC_season>	dbpprop:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Allan_Pearce__7	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Scott_Smith_(footballer_born_1975)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Michael_Utting	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Chris_Jackson_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Sean_Douglas	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Vaughan_Coveny	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jonathan_Perry_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Heremaia_Ngata	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tom_Randles_(footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tom_Randles_(footballer)__3>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Charlie_Steele,_Sr.>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Duncan_Ormond	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Dan_Jones_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ian_Masson__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jeff_Fleming__4	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Lee_Jones_(New_Zealand_footballer)>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Geoff_Brand	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+dbpedia:Keith_Garland	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Brian_Armstrong_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Colin_Walker_(footballer_born_1958)__9>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Vic_Pollard__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Gavin_Wilkinson__6	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Glen_Adam__4	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Daniel_Ellensohn__10	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Wally_Hughes__2	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Bert_Ormond__4	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/David_Burgess_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Simon_Elliott__14	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Mark_Elrick__3	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kris_Bright__13	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Steve_Sumner__7	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:New_Zealand_National_Football_Team	dbpedia-owl:wikiPageRedirects	dbpedia:New_Zealand_national_football_team .
+dbpedia:Michael_McGlinchey__8	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Syd_Haines__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Andrew_Durante__7	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Vic_Pollard__1__2	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ryan_Nelsen__10	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ross_Nicholson__8	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:All_White	dbpedia-owl:wikiPageDisambiguates	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/New_Zealand_national_football_team_(disambiguation)>	dbpedia-owl:wikiPageDisambiguates	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ken_Hough__Ken_Hough__1	dbpedia-owl:country	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alf_Stamp__4	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Allan_Jones_(football_coach)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Colin_Latimour__2	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Danny_Halligan__2	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Duncan_Ritchie__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Eric_Lesbirel__2	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Gerard_Davis__7	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jim_Kershaw__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jock_Newall__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:John_Leijh__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kevin_Weymouth__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Max_Davis__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Nigel_Ashurst__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Nigel_Debenham__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ray_Davey_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ray_Mears_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Derek_Phillips_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alex_Stenhouse__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Brian_Sergent_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Che_Bunce__14	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Fred_Craggs__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Garry_Welch__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Geordie_Newman__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Graham_Griffiths__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jim_Cowe__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jim_McDougall__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jim_Mutimer__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:John_Staines__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ken_Mason_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Michael_Ridenton__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Paddy_McFarlane__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Robert_Ironside__4	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bill_Chapman_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Colin_Shaw_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jeremy_Brown_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Les_Groves__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ryan_Thomas_(footballer)__4>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Stu_Jacobs__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Arthur_Leong__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Billy_Woods_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Frank_Albrechtsen__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Grant_Turner__2	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Harry_Spencer_(footballer)__3>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/John_Dryden_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Perry_Cotton__5	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Reg_Singer__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Warren_Fleet__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Aaron_Clapham__8	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alan_Marley__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Alun_Evans_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Andy_Deeley__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Billy_McClure__6	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Bob_Quickenden__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bobby_Clark_(footballer)__11>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Doug_Lapwood__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Frits_Poelman__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Grahame_Davis__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/James_Pritchett_(footballer)__2>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jim_Middleton_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Johan_Verweij__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kelly_McLoughlin__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Les_McGirr__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Martin_Felton__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Nik_Viljoen__2	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Yuri_Semin__10	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Danny_Hay__7	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tony_Lochhead__8	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:John_Adshead__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bill_Knott_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ceri_Evans__9	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Trefor_Pugh__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Duncan_Ormond__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jason_Batty__15	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:John_van_Helden__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Malcolm_Bland__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Steven_Bruce__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ted_Cook_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tim_Stevens_(footballer)__2>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Alex_Smith_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alistair_Elder__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Barrie_Truman__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bill_Harris_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Howard_Hutchinson__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jock_Corbett__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Joe_Burke_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/John_Hill_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Noel_Barkley__2	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ross_Goodacre__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tim_Cooper_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alex_Laing__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Cliff_Banham__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/David_Houghton_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Garry_Paddison__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Graeme_Cameron__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Graham_Storer__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Iain_Gillies__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:John_Raat__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ken_Billot__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Malcolm_Ferguson__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Michael_Jones_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Roy_Coxon__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tony_Gowans__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Mark_Paston__7	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Clint_Gosling__5	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/John_Houghton_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Paul_Halford__4	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Adrian_Webster_(footballer_born_1980)__18>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Allan_Smith_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Andrew_Barron__10	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Graham_Marshall_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Greg_Hough_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jim_Bell_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Len_Barwell__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Martin_Jennison__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Pat_Harris_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Paul_Nixon_(footballer)__9>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Phil_Patterson__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Robert_Morrison_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Thomas_Edge_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Alex_Metzger_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Andy_Leslie_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bill_Ives_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Bill_Tuiloma__8	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:David_Chote__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Grant_Lightbown__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ivan_Walsh__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ken_France__2	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Owen_Nuttridge__5	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Phil_Dando__8	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Praven_Jeram__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tinoi_Christie__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Clive_Campbell_(footballer)__2>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Dennis_Smith_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Keith_Mackay__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ken_Dugdale__2	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Paul_Cameron_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ron_Kearns__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Stan_Cawtheray__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tom_McCormack_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tony_Scheirlinck__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Grant_Schofield__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Rex_Boyes__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Allan_Carville__5	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Chris_Riley_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jack_Kidd_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jack_Sharp_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kevin_Birch__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Phil_Traynor__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Scott_Smith_(footballer_born_1975)__9>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Brian_Roberts_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Charles_Ives_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Charles_Mackie_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Chris_Turner_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Grahame_Bilby__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Greg_Little_(association_football)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Juan_Schwanner__8	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ken_Olley__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kevin_Hagan__6	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Mark_Foy__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ted_Charlton__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Fred_de_Jong__4	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Riki_van_Steeden__3	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Sean_Douglas__9	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Doug_Ottley__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Arthur_Brown_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Bill_Anton__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bob_Wilson_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Charlie_Steele,_Sr.__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Don_Kendrick__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Gordon_Smith_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Heremaia_Ngata__7	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Istvan_Nemet__3	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jack_Hatchard__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Julius_Beck__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Keith_Braithwaite__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Neville_Siebert__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Peter_Simonsen__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ray_Hodgson__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Reg_Haggett__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tim_Brown_(footballer)__6>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Vic_Smith__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Alan_Wilkinson_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Don_Crabb__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Fred_Benge__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/George_Wright_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ian_Park__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Imre_Kiss_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Josh_Stick__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ken_Hough__2	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Leo_Bertos__13	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Neil_McArthur__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Raf_de_Gregorio__11	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tony_Evans_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ces_Dacre__1__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Neil_Emblen__14	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jeff_Strom__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Don_Finlayson__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Gary_Lake__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:George_Lamont__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:George_McAnulty__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Harold_Chapman_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Joe_Kissock__3	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Joe_Todd__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jonathan_Perry_(footballer)__4>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Keith_Barton__2	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Lee_Jones_(New_Zealand_footballer)__4>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Peter_Hall_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ross_Durant__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alex_Sutherland__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Arthur_Inglis__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Eddie_Barton__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:George_Cuthill__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Murray_Kay__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Peter_Gerrard__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Richard_Mulligan_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Rupert_Ryan_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Billy_Nicolle__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Colin_Tuaa__3	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Dave_Bright__6	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Dennis_Tindall__3	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Gareth_Rowe__2	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/George_McLaren_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/George_Robinson_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Harold_Balk__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jason_New__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Joe_Callaghan__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Lee_Stickland__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Reg_King_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Rodney_Reid__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Storm_Roux__5	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tom_McCabe_(footballer)__5>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)__7>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Darren_McClennan__5	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Gary_Eccles__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jeff_Campbell_(footballer)__9>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Arthur_Masters_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Carl_Jorgensen__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Geoff_Brand__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jim_Stephenson__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kenny_Cresswell__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Lankford_Smith__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Mark_Burton_(footballer)__3>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Reg_Craxton__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Rewi_Braithwaite__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Rodger_Gray__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Terry_Haydon__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Keith_Garland__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bill_Thomas_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Charles_Ballard__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Earle_Thomas__6	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:George_Drylie__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ian_Marshall_(football_coach)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jim_Christie__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Keith_Gibson__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ken_Armstrong_(footballer_born_1924)__5>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Michael_Groom_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Steve_Boyland__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tony_Moynihan_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Chris_Jackson_(New_Zealand_footballer)__10>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Chris_Zoricich__15	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Dave_Taylor_(New_Zealand_footballer)__5>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Frank_van_Hattum__5	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Malcolm_Dunford__4	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Michael_McGarry__4	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Noah_Hickey__6	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Richard_Wilson_(footballer)__9>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ricki_Herbert__4	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Steve_Wooddin__5	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tony_Sibley__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Craig_Simpson_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/David_Wallace_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Francis_Phelan__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Gary_Jenkins_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Gordon_Barker_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jacob_Spoonley__11	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/John_Hanson_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kevin_Curtin__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Len_Beavis__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Paul_Rennell__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Peter_O\u0027Malley_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Willem_de_Graaf__2	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alan_Stroud__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Bill_Brownlee__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Brian_Turner_(New_Zealand_footballer)__12>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Dan_Jones_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:David_Rayner__3	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Declan_Edge__9	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jake_Butler_(footballer)__2>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jim_Campbell_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Michael_Fitzgerald_(footballer)__6>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Peter_Henry_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ray_Speed__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Robert_McAuley__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tom_McNab__8	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tom_Methven__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tony_Laus__2	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Walter_Brundell__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Archie_McQuarrie__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Dennis_Charlton__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Des_Warman__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Garry_Lund__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/George_Anderson_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Greg_Brown_(footballer_born_1962)__10>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Iain_Marshall__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Joe_Habets__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ken_Armstrong_(footballer_born_1924)__4>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Sam_Malcolmson__8	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Brian_Hardman__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jim_Warrender__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jimmy_Hunter_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/John_Wrathall_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Keith_Hobbs_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Les_Wood__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Merv_Gordon__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Sandy_Davie__9	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Shane_Rufer__6	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Shaun_Baxter__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Bill_Zuill__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jack_Skinner_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Mark_Armstrong_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Mark_Atkinson_(footballer)__5>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ossie_Cleal__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Paul_Brydon_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Paul_Probert__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Theo_van_den_Broek__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Allan_Boath__10	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Andy_Rennie_(New_Zealander_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ernie_Bridge_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Jim_Ferrier_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Joe_McGrath_(footballer)__7>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/John_Kemp_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/John_Morris_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Matt_Guildea__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Peter_Whiting__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tony_Ferris__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Wattie_Cooper__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Barry_Pickering__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bill_Kennedy_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Graham_Pearce_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Iain_Ormond__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jack_Jepson__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/John_Rae_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Keith_Nelson_(footballer)__3>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ken_Ironside__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Leo_Hope-Ede__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Mike_Simeonoff__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Paddy_Breslin__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bob_Innes_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bob_King_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Dave_Witteveen__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Glenn_Dods__3	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ken_Fleet__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kevin_Mulgrew__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Martin_Akers__4	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Ricki_Herbert__3	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Ron_Stone_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Rupesh_Puna__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Sean_Byrne_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tommy_Mason_(footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Tony_Graham_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tony_Laffey__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Tyler_Boyd__4	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Wally_Meehan__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alex_Caldwell__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Alex_Davis__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Bill_Hooper_(New_Zealand_footballer)__1>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Bill_Westerveld__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Chris_Wood_(footballer_born_1991)__13>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Dave_McKissock__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Dick_Hislop__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Duncan_McVey__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Iain_Hastie__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Jonathon_Taylor__3	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Kevin_Fallon__4	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Louis_Fenton__7	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:Mark_Cossey__1	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/Michael_Wilson_(New_Zealand_footballer)__4>	dbpedia-owl:team	dbpedia:New_Zealand_national_football_team .
+dbpedia:All_Whites	dbpedia-owl:wikiPageRedirects	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/New_Zealand_men\u0027s_national_football_team>	dbpedia-owl:wikiPageRedirects	dbpedia:New_Zealand_national_football_team .
+dbpedia:New_Zealand_national_Association_Football_team	dbpedia-owl:wikiPageRedirects	dbpedia:New_Zealand_national_football_team .
+dbpedia:New_Zealand_national_association_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:New_Zealand_national_football_team .
+<http://dbpedia.org/resource/New_Zealand_national_football_(soccer)_team>	dbpedia-owl:wikiPageRedirects	dbpedia:New_Zealand_national_football_team .
+dbpedia:New_Zealand_national_soccer_team	dbpedia-owl:wikiPageRedirects	dbpedia:New_Zealand_national_football_team .
+dbpedia:New_zealand_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:New_Zealand_national_football_team .

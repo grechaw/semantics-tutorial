@@ -1,0 +1,633 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_du_Gabon_de_football	owl:sameAs	dbpedia:Gabon_national_football_team .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Gabunische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Gabon_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q235416	owl:sameAs	dbpedia:Gabon_national_football_team .
+@prefix ns5:	<http://cs.dbpedia.org/resource/> .
+ns5:Gabonská_fotbalová_reprezentace	owl:sameAs	dbpedia:Gabon_national_football_team .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Selección_de_fútbol_de_Gabón	owl:sameAs	dbpedia:Gabon_national_football_team .
+@prefix ns7:	<http://id.dbpedia.org/resource/> .
+ns7:Tim_nasional_sepak_bola_Gabon	owl:sameAs	dbpedia:Gabon_national_football_team .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Nazionale_di_calcio_del_Gabon	owl:sameAs	dbpedia:Gabon_national_football_team .
+@prefix ns9:	<http://ja.dbpedia.org/resource/> .
+ns9:サッカーガボン代表	owl:sameAs	dbpedia:Gabon_national_football_team .
+@prefix ns10:	<http://ko.dbpedia.org/resource/> .
+ns10:가봉_축구_국가대표팀	owl:sameAs	dbpedia:Gabon_national_football_team .
+@prefix ns11:	<http://nl.dbpedia.org/resource/> .
+ns11:Gabonees_voetbalelftal	owl:sameAs	dbpedia:Gabon_national_football_team .
+@prefix ns12:	<http://pl.dbpedia.org/resource/> .
+ns12:Reprezentacja_Gabonu_w_piłce_nożnej	owl:sameAs	dbpedia:Gabon_national_football_team .
+@prefix ns13:	<http://pt.dbpedia.org/resource/> .
+ns13:Seleção_Gabonense_de_Futebol	owl:sameAs	dbpedia:Gabon_national_football_team .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Robert_Vicot__10	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns16:	<http://en.wikipedia.org/wiki/> .
+ns16:Gabon_national_football_team	foaf:primaryTopic	dbpedia:Gabon_national_football_team .
+dbpedia:Jean_Prouff	dbpedia-owl:managerClub	dbpedia:Gabon_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Jean_Prouff	dbpprop:managerclubs	dbpedia:Gabon_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Gabon_national_football_team	rdf:type	dul:SocialPerson ,
+		dul:Agent .
+@prefix ns20:	<http://schema.org/> .
+dbpedia:Gabon_national_football_team	rdf:type	ns20:SportsTeam .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Gabon_national_football_team	rdf:type	yago:YagoPermanentlyLocatedEntity ,
+		owl:Thing ,
+		ns20:Organization ,
+		yago:FootballTeam108080025 ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		dbpedia-owl:Organisation ,
+		yago:NationalSportsTeamsOfGabon ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:AfricanNationalAssociationFootballTeams ,
+		dbpedia-owl:Agent .
+@prefix ns22:	<http://et.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns22:Gaboni_jalgpallikoondis .
+@prefix ns23:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns23:Gabon_Millî_Futbol_Takımı .
+@prefix ns24:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns24:Gabonin_jalkapallomaajoukkue .
+@prefix ns25:	<http://he.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns25:נבחרת_גבון_בכדורגל .
+@prefix ns26:	<http://sr.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns26:Фудбалска_репрезентација_Габона .
+@prefix ns27:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns27:Gabons_herrlandslag_i_fotboll ,
+		ns5:Gabonská_fotbalová_reprezentace ,
+		ns7:Tim_nasional_sepak_bola_Gabon ,
+		<http://el.dbpedia.org/resource/\u0395\u03B8\u03BD\u03B9\u03BA\u03AE_\u0393\u03BA\u03B1\u03BC\u03C0\u03CC\u03BD_(\u03C0\u03BF\u03B4\u03CC\u03C3\u03C6\u03B1\u03B9\u03C1\u03BF_\u03B1\u03BD\u03B4\u03C1\u03CE\u03BD)> .
+@prefix ns28:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns28:Echipa_națională_de_fotbal_a_Gabonului ,
+		dbpedia:Gabon_national_football_team .
+@prefix ns29:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns29:Сборная_Габона_по_футболу ,
+		ns9:サッカーガボン代表 .
+@prefix ns30:	<http://lv.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns30:Gabonas_futbola_izlase .
+@prefix ns31:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns31:गॅबन_फुटबॉल_संघ .
+@prefix ns32:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns32:加蓬國家足球隊 ,
+		<http://rdf.freebase.com/ns/m.046syv> .
+@prefix ns33:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns33:Збірна_Габону_з_футболу ,
+		ns3:Gabunische_Fußballnationalmannschaft ,
+		ns1:Équipe_du_Gabon_de_football .
+@prefix ns34:	<http://wikidata.org/entity/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns34:Q235416 ,
+		ns10:가봉_축구_국가대표팀 .
+@prefix ns35:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns35:Gabono_vyrų_futbolo_rinktinė .
+@prefix ns36:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns36:منتخب_الغابون_لكرة_القدم .
+@prefix ns37:	<http://no.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns37:Gabons_herrelandslag_i_fotball .
+@prefix ns38:	<http://yago-knowledge.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns38:Gabon_national_football_team ,
+		ns13:Seleção_Gabonense_de_Futebol ,
+		ns6:Selección_de_fútbol_de_Gabón .
+@prefix ns39:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns39:Đội_tuyển_bóng_đá_quốc_gia_Gabon ,
+		ns12:Reprezentacja_Gabonu_w_piłce_nożnej .
+@prefix ns40:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns40:تیم_ملی_فوتبال_گابون .
+@prefix ns41:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns41:Gabon_national_football_team ,
+		ns4:Q235416 .
+@prefix ns42:	<http://sk.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns42:Gabonské_národné_futbalové_mužstvo .
+@prefix ns43:	<http://ca.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns43:Selecció_de_futbol_de_Gabon ,
+		ns8:Nazionale_di_calcio_del_Gabon ,
+		ns11:Gabonees_voetbalelftal .
+@prefix ns44:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns44:Gabon_national_football_team .
+@prefix ns45:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Gabon_national_football_team	owl:sameAs	ns45:Gaboni_labdarúgó-válogatott .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Gabon_national_football_team	rdfs:label	"\u00C9quipe du Gabon de football"@fr ,
+		"Selecci\u00F3n de f\u00FAtbol de Gab\u00F3n"@es ,
+		"Sele\u00E7\u00E3o Gabonense de Futebol"@pt ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0413\u0430\u0431\u043E\u043D\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"\u30B5\u30C3\u30AB\u30FC\u30AC\u30DC\u30F3\u4EE3\u8868"@ja ,
+		"\u52A0\u84EC\u570B\u5BB6\u8DB3\u7403\u968A"@zh ,
+		"Gabunische Fu\u00DFballnationalmannschaft"@de ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u063A\u0627\u0628\u0648\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"Reprezentacja Gabonu w pi\u0142ce no\u017Cnej"@pl ,
+		"Nazionale di calcio del Gabon"@it ,
+		"Gabonees voetbalelftal"@nl ,
+		"Gabon national football team" .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Gabon_national_football_team	dcterms:subject	category:African_national_association_football_teams ,
+		category:Gabon_national_football_team ,
+		category:National_sports_teams_of_Gabon ;
+	foaf:name	"Gabon" ;
+	foaf:nick	"Les Panth\u00E8res" ,
+		"(The Panthers)" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Gabon_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Gabon_national_football_team?oldid=604938827> ;
+	rdfs:comment	"A Sele\u00E7\u00E3o Gabonense de Futebol representa o Gab\u00E3o nas competi\u00E7\u00F5es de futebol da FIFA. Nunca disputou uma Copa do Mundo, mas possui boas chances de disputar uma edi\u00E7\u00E3o do torneio pela primeira vez em sua hist\u00F3ria."@pt ,
+		"Die Gabunische Fu\u00DFballnationalmannschaft, die den afrikanischenStaat Gabun im Fu\u00DFball repr\u00E4sentiert, untersteht der F\u00E9d\u00E9ration Gabonaise de Football.Sie konnte sich noch nie f\u00FCr eine Weltmeisterschaft qualifizieren, aber bereits f\u00FCnfmal f\u00FCr den Africa-Cup, zuletzt 2012 als -Co-Gastgeber."@de ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u063A\u0627\u0628\u0648\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Gabon national football team) \u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0627\u0644\u0630\u064A \u064A\u0645\u062B\u0644 \u0627\u0644\u063A\u0627\u0628\u0648\u0646 \u0648\u064A\u062A\u062D\u0643\u0645 \u0628\u0647 \u0627\u062A\u062D\u0627\u062F \u0627\u0644\u063A\u0627\u0628\u0648\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u063A\u0627\u0628\u0648\u0646\u064A \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0648\u0623\u0641\u0636\u0644 \u0627\u0646\u062C\u0627\u0632 \u062D\u0642\u0642\u0647 \u0647\u0648 \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0627\u0644\u062F\u0648\u0631 \u0627\u0644\u0631\u0628\u0639 \u0627\u0644\u0646\u0647\u0627\u0626\u064A \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0641\u0631\u064A\u0642\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 1996 \u0627\u0644\u062A\u064A \u0623\u0642\u064A\u0645\u062A \u0641\u064A \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A\u0627 . \u0623\u0628\u0631\u0632 \u0646\u062C\u0648\u0645 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u063A\u0627\u0628\u0648\u0646 \u0627\u0644\u062D\u0627\u0644\u064A\u0648\u0646 \u0648\u064A\u0644\u064A \u0623\u0648\u0628\u0648\u0645\u064A\u0627\u0646\u063A \u0648\u0628\u0631\u0648\u0646\u0648 \u0625\u0643\u0648\u064A\u0644 \u0645\u0627\u0646\u063A\u0627 ."@ar ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0413\u0430\u0431\u043E\u043D\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u0413\u0430\u0431\u043E\u043D \u0432 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0430\u0445 \u0438 \u0442\u0443\u0440\u043D\u0438\u0440\u0430\u0445 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u0442\u0441\u044F \u0413\u0430\u0431\u043E\u043D\u0441\u043A\u043E\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0435\u0439 \u0424\u0443\u0442\u0431\u043E\u043B\u0430."@ru ,
+		"La Selecci\u00F3n de f\u00FAtbol de Gab\u00F3n, controlada por la Federaci\u00F3n Gabonesa de F\u00FAtbol es el equipo representativo del pa\u00EDs en las competiciones oficiales."@es ,
+		"\u52A0\u84EC\u570B\u5BB6\u8DB3\u7403\u968A\uFF08\u6CD5\u8BED\uFF1A\u00C9quipe du Gabon de football\uFF09\u662F\u52A0\u84EC\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u52A0\u84EC\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u975E\u6D32\u8DB3\u5354\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u52A0\u84EC\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4E16\u754C\u76C3\u6C7A\u8CFD\u9031\uFF0C\u53EA\u662F\u66FE\u7D935\u6B21\u6649\u8EAB\u975E\u6D32\u570B\u5BB6\u76C3\u6C7A\u8CFD\u9031\uFF0C\u65BC2012\u5E74\u8207\u8D64\u9053\u757F\u5167\u4E9E\u5171\u540C\u8209\u8FA6\u975E\u6D32\u570B\u5BB6\u76C3\u3002"@zh ,
+		"\u30B5\u30C3\u30AB\u30FC\u30AC\u30DC\u30F3\u4EE3\u8868\u306F\u3001\u30AC\u30DC\u30F3\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08FEGAFOOT\uFF09\u306B\u3088\u308A\u7DE8\u6210\u3055\u308C\u308B\u30AC\u30DC\u30F3\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"Het Gabonees voetbalelftal is een team van voetballers dat Gabon vertegenwoordigt bij internationale wedstrijden zoals de CEMAC Cup en de (kwalificatie)wedstrijden voor het WK en de Afrika Cup.De F\u00E9d\u00E9ration Gabonaise de Football werd in 1962 opgericht en is aangesloten de CAF en de FIFA (sinds 1966). Het Gabonees voetbalelftal behaalde in juli 2009 met de 30e plaats de hoogste positie op de FIFA-wereldranglijst, in april 2003 werd met de 125e plaats de laagste positie bereikt."@nl ,
+		"Reprezentacja Gabonu \u2013 kadra Gabonu w pi\u0142ce no\u017Cnej m\u0119\u017Cczyzn."@pl ,
+		"The Gabon national football team, nicknamed Les Panth\u00E8res (The Panthers), is the national team of Gabon and is controlled by the F\u00E9d\u00E9ration Gabonaise de Football. They have never qualified for the World Cup finals, but have qualified five times for the Africa Cup of Nations." ,
+		"L'\u00E9quipe du Gabon de football est constitu\u00E9e par une s\u00E9lection des meilleurs joueurs gabonais sous l'\u00E9gide de la F\u00E9d\u00E9ration gabonaise de football."@fr ,
+		"La nazionale di calcio del Gabon, anche chiamata dai locali Azingo \u00E8 la rappresentativa calcistica dell'omonima nazione africana ed \u00E8 posta sotto il controllo della F\u00E9d\u00E9ration Gabonaisede Football. Non ha mai preso parte alla fase finale di un Mondiale (ma ha sfiorato la qualificazione nel 2010) e vanta quattro partecipazioni alla Coppa d'Africa (1994, 1996, 2000, 2010, miglior risultato i quarti di finale nel 1996), che ospiter\u00E0 nel 2012 insieme alla Guinea Equatoriale."@it ;
+	foaf:isPrimaryTopicOf	ns16:Gabon_national_football_team ;
+	dbpprop:club	dbpedia:CS_Sfaxien ,
+		dbpedia:AS_Mangasport ,
+		dbpedia:US_Bitam ,
+		<http://dbpedia.org/resource/Leix%C3%B5es_S.C.> ,
+		dbpedia:OGC_Nice ,
+		dbpedia:AD_Nogueirense ,
+		dbpedia:USJA_Carquefou ,
+		<http://dbpedia.org/resource/ES_Uz%C3%A8s_Pont_du_Gard> ,
+		dbpedia:FC_Rostov ,
+		dbpedia:Sapins_FC ,
+		<http://dbpedia.org/resource/Difa%C3%A2_El_Jadidi> ,
+		dbpedia:FC_Metz ,
+		<http://dbpedia.org/resource/Cercle_Mb%C3%A9ri_Sportif> ,
+		dbpedia:CF_Mounana ,
+		dbpedia:AC_Bongoville ,
+		dbpedia:Olympique_de_Marseille ,
+		dbpedia:AJ_Auxerre ,
+		dbpedia:Celta_de_Vigo ,
+		dbpedia:FC_Lorient ,
+		<http://dbpedia.org/resource/LB_Ch%C3%A2teauroux> ,
+		<http://dbpedia.org/resource/ES_S%C3%A9tif> ,
+		dbpedia:Wydad_Casablanca ,
+		dbpedia:Borussia_Dortmund ,
+		<http://dbpedia.org/resource/AC_L%C3%A9opards> ,
+		dbpedia:Free_agent ,
+		dbpedia:FC_Girondins_de_Bordeaux ,
+		dbpedia:Missile_FC ,
+		<http://dbpedia.org/resource/K.V._Oostende> ,
+		<http://dbpedia.org/resource/Standard_Li%C3%A8ge> ;
+	dbpprop:captain	dbpedia:Edmond_Mouele .
+@prefix ns50:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Gabon_national_football_team	dbpprop:hasPhotoCollection	ns50:Gabon_national_football_team ;
+	dbpprop:name	<http://dbpedia.org/resource/Andr%C3%A9_Biyogo_Poko> ,
+		dbpedia:Emmanuel_Ndong ,
+		dbpedia:Willy_Aubameyang ,
+		dbpedia:Anthony_Mfa_Mezui ,
+		<http://dbpedia.org/resource/Benjamin_Z%C3%A9_Ondo> ,
+		dbpedia:Yanne_Bidonga ,
+		dbpedia:Johann_Obiang ,
+		<http://dbpedia.org/resource/%C3%89tienne_Alain_Djissikadi%C3%A9> ,
+		dbpedia:Franck_Engonga ,
+		dbpedia:Fabrice_Do_Marcolino ,
+		<http://dbpedia.org/resource/L%C3%A9vy_Madinda> ,
+		<http://dbpedia.org/resource/%C3%89ric_Mouloungui> ,
+		dbpedia:Romuald_Ntsitsigui_Ewouta ,
+		dbpedia:Malick_Evouna ,
+		dbpedia:Lionel_Yacouya ,
+		<http://dbpedia.org/resource/Yves_Bits%C3%A9ki_Moto> ,
+		<http://dbpedia.org/resource/Aaron_Appindangoy%C3%A9> ,
+		dbpedia:Bonaventure_Sokambi ,
+		<http://dbpedia.org/resource/C%C3%A9dric_Ondo_Biyogh%C3%A9> ,
+		<http://dbpedia.org/resource/Cyrille_Engozo\u0027o_Avebe> ,
+		dbpedia:Davy_Gael_Mayoungou ,
+		dbpedia:Dieudonne_Nkoume-Kemba ,
+		<http://dbpedia.org/resource/Erwin_Ngu%C3%A9ma_Obame> ,
+		<http://dbpedia.org/resource/Randal_Oto%E2%80%99o> ,
+		dbpedia:Yrondu_Musavu-King ,
+		dbpedia:Paul_Kessany ,
+		dbpedia:Martin_Ndong_Essono ,
+		dbpedia:Samson_Mbingui ,
+		dbpedia:Didier_Ovono ,
+		<http://dbpedia.org/resource/Mo%C3%AFse_Brou_Apanga> ,
+		dbpedia:Bruno_Ecuele_Manga ,
+		dbpedia:Henri_Junior_Ndong ,
+		<http://dbpedia.org/resource/Romaric_Rogomb%C3%A9> ,
+		"Gabon" ,
+		<http://dbpedia.org/resource/R%C3%A9my_Ebanega> ,
+		<http://dbpedia.org/resource/Didier_Ibrahim_N\u0027Dong> ,
+		dbpedia:Edmond_Mouele ,
+		dbpedia:Farel_Mounguengui ,
+		dbpedia:Merlin_Tandjigora ,
+		<http://dbpedia.org/resource/Duval_N\u0027Zembi> ,
+		<http://dbpedia.org/resource/Gu%C3%A9lor_Kanga> ,
+		<http://dbpedia.org/resource/Jean-Ren%C3%A9_Nz%C3%A9> ,
+		dbpedia:Johann_Lengoualama ,
+		dbpedia:Knox_Ness-Younga ,
+		dbpedia:Paulin_Nzambi ,
+		dbpedia:Robert_Nsimba ,
+		dbpedia:Serge_Kevyn_Aboue_Angoue ,
+		dbpedia:Tchen_Kabi ,
+		dbpedia:Terence_Wombo_Biteghe ,
+		dbpedia:Ulrich_Boucka ,
+		<http://dbpedia.org/resource/Alexander_N\u0027Doumbou> ,
+		dbpedia:Williams_Loussoueke ,
+		<http://dbpedia.org/resource/Fr%C3%A9d%C3%A9ric_Bulot> ,
+		dbpedia:Pierre-Emerick_Aubameyang ,
+		dbpedia:Lloyd_Palun ;
+	dbpedia-owl:abstract	"La nazionale di calcio del Gabon, anche chiamata dai locali Azingo \u00E8 la rappresentativa calcistica dell'omonima nazione africana ed \u00E8 posta sotto il controllo della F\u00E9d\u00E9ration Gabonaisede Football. Non ha mai preso parte alla fase finale di un Mondiale (ma ha sfiorato la qualificazione nel 2010) e vanta quattro partecipazioni alla Coppa d'Africa (1994, 1996, 2000, 2010, miglior risultato i quarti di finale nel 1996), che ospiter\u00E0 nel 2012 insieme alla Guinea Equatoriale. Ha vinto nel corso della sua storia tornei a carattere regionale come l'UNIFAC Cup (1999) e la Coupe UDEAC (1985 e 1988).Attualmente occupa la 59\u00AA posizione nel Ranking mondiale FIFA."@it ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u063A\u0627\u0628\u0648\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Gabon national football team) \u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0627\u0644\u0630\u064A \u064A\u0645\u062B\u0644 \u0627\u0644\u063A\u0627\u0628\u0648\u0646 \u0648\u064A\u062A\u062D\u0643\u0645 \u0628\u0647 \u0627\u062A\u062D\u0627\u062F \u0627\u0644\u063A\u0627\u0628\u0648\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u063A\u0627\u0628\u0648\u0646\u064A \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0648\u0623\u0641\u0636\u0644 \u0627\u0646\u062C\u0627\u0632 \u062D\u0642\u0642\u0647 \u0647\u0648 \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0627\u0644\u062F\u0648\u0631 \u0627\u0644\u0631\u0628\u0639 \u0627\u0644\u0646\u0647\u0627\u0626\u064A \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0641\u0631\u064A\u0642\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 1996 \u0627\u0644\u062A\u064A \u0623\u0642\u064A\u0645\u062A \u0641\u064A \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A\u0627 . \u0623\u0628\u0631\u0632 \u0646\u062C\u0648\u0645 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u063A\u0627\u0628\u0648\u0646 \u0627\u0644\u062D\u0627\u0644\u064A\u0648\u0646 \u0648\u064A\u0644\u064A \u0623\u0648\u0628\u0648\u0645\u064A\u0627\u0646\u063A \u0648\u0628\u0631\u0648\u0646\u0648 \u0625\u0643\u0648\u064A\u0644 \u0645\u0627\u0646\u063A\u0627 ."@ar ,
+		"Die Gabunische Fu\u00DFballnationalmannschaft, die den afrikanischenStaat Gabun im Fu\u00DFball repr\u00E4sentiert, untersteht der F\u00E9d\u00E9ration Gabonaise de Football.Sie konnte sich noch nie f\u00FCr eine Weltmeisterschaft qualifizieren, aber bereits f\u00FCnfmal f\u00FCr den Africa-Cup, zuletzt 2012 als -Co-Gastgeber. Dabei wurde zweimal das Viertelfinale erreicht, in dem jedes Mal im Elfmeterschie\u00DFen verloren wurde.Die in Europa aktiven Nationalspieler spielen fast ausschlie\u00DFlich in der ersten und zweiten franz\u00F6sischen Liga. Aktueller Coach des Teams ist Gernot Rohr, der Anfang 2010 dem franz\u00F6sischen Ex-Nationalspieler Alain Giresse nachfolgte."@de ,
+		"L'\u00E9quipe du Gabon de football est constitu\u00E9e par une s\u00E9lection des meilleurs joueurs gabonais sous l'\u00E9gide de la F\u00E9d\u00E9ration gabonaise de football."@fr ,
+		"Reprezentacja Gabonu \u2013 kadra Gabonu w pi\u0142ce no\u017Cnej m\u0119\u017Cczyzn."@pl ,
+		"Het Gabonees voetbalelftal is een team van voetballers dat Gabon vertegenwoordigt bij internationale wedstrijden zoals de CEMAC Cup en de (kwalificatie)wedstrijden voor het WK en de Afrika Cup.De F\u00E9d\u00E9ration Gabonaise de Football werd in 1962 opgericht en is aangesloten de CAF en de FIFA (sinds 1966). Het Gabonees voetbalelftal behaalde in juli 2009 met de 30e plaats de hoogste positie op de FIFA-wereldranglijst, in april 2003 werd met de 125e plaats de laagste positie bereikt."@nl ,
+		"\u52A0\u84EC\u570B\u5BB6\u8DB3\u7403\u968A\uFF08\u6CD5\u8BED\uFF1A\u00C9quipe du Gabon de football\uFF09\u662F\u52A0\u84EC\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u52A0\u84EC\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u975E\u6D32\u8DB3\u5354\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u52A0\u84EC\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4E16\u754C\u76C3\u6C7A\u8CFD\u9031\uFF0C\u53EA\u662F\u66FE\u7D935\u6B21\u6649\u8EAB\u975E\u6D32\u570B\u5BB6\u76C3\u6C7A\u8CFD\u9031\uFF0C\u65BC2012\u5E74\u8207\u8D64\u9053\u757F\u5167\u4E9E\u5171\u540C\u8209\u8FA6\u975E\u6D32\u570B\u5BB6\u76C3\u3002"@zh ,
+		"The Gabon national football team, nicknamed Les Panth\u00E8res (The Panthers), is the national team of Gabon and is controlled by the F\u00E9d\u00E9ration Gabonaise de Football. They have never qualified for the World Cup finals, but have qualified five times for the Africa Cup of Nations." ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0413\u0430\u0431\u043E\u043D\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u0413\u0430\u0431\u043E\u043D \u0432 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0430\u0445 \u0438 \u0442\u0443\u0440\u043D\u0438\u0440\u0430\u0445 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u0442\u0441\u044F \u0413\u0430\u0431\u043E\u043D\u0441\u043A\u043E\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0435\u0439 \u0424\u0443\u0442\u0431\u043E\u043B\u0430."@ru ,
+		"La Selecci\u00F3n de f\u00FAtbol de Gab\u00F3n, controlada por la Federaci\u00F3n Gabonesa de F\u00FAtbol es el equipo representativo del pa\u00EDs en las competiciones oficiales. Hasta la fecha, no ha ganado todav\u00EDa ning\u00FAn t\u00EDtulo a nivel internacional, pero logr\u00F3 clasificarse cinco veces para la competici\u00F3n final de la Copa Africana de Naciones, y su selecci\u00F3n juvenil conquist\u00F3 el quinto lugar en el Campeonato Continental Sub-20, disputado en Burkina Faso en 2002.A pesar de que Gab\u00F3n todav\u00EDa no ha conquistado ning\u00FAn torneo futbol\u00EDstico a nivel internacional, varios de sus jugadores act\u00FAan en equipos extranjeros, como Shiva Ngizu (que juega en el Nantes), St\u00E9phane Ngu\u00E9ma (Stade Rennes), Daniel Cousin (Le Mans) y Pierre-Emerick Aubameyang (Borussia Dortmund)."@es ,
+		"\u30B5\u30C3\u30AB\u30FC\u30AC\u30DC\u30F3\u4EE3\u8868\u306F\u3001\u30AC\u30DC\u30F3\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08FEGAFOOT\uFF09\u306B\u3088\u308A\u7DE8\u6210\u3055\u308C\u308B\u30AC\u30DC\u30F3\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"A Sele\u00E7\u00E3o Gabonense de Futebol representa o Gab\u00E3o nas competi\u00E7\u00F5es de futebol da FIFA. Nunca disputou uma Copa do Mundo, mas possui boas chances de disputar uma edi\u00E7\u00E3o do torneio pela primeira vez em sua hist\u00F3ria."@pt ;
+	dbpedia-owl:wikiPageID	1109291 ;
+	dbpedia-owl:wikiPageRevisionID	604938827 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Gabon_national_football_team	dbpprop:latest	"--08-14+02:00"^^xsd:gMonthDay ,
+		"--07-28+02:00"^^xsd:gMonthDay ,
+		2014 ,
+		"--09-07+02:00"^^xsd:gMonthDay ,
+		"--06-15+02:00"^^xsd:gMonthDay ;
+	dbpprop:clubnat	"POR" ,
+		"RUS" ,
+		"GAB" ,
+		"ESP" ,
+		"FRA" ,
+		"TUN" ,
+		"BEL" ,
+		"ALG" ,
+		"DEU" ,
+		"CGO" ,
+		"MAR" ;
+	dbpprop:goals	2 ,
+		0 ,
+		1 ,
+		7 ,
+		4 ,
+		5 ,
+		11 ;
+	dbpprop:caps	19 ,
+		22 ,
+		24 ,
+		26 ,
+		31 ,
+		0 ,
+		1 ,
+		2 ,
+		3 ,
+		4 ,
+		5 ,
+		6 ,
+		7 ,
+		9 ,
+		10 ,
+		12 ,
+		13 ,
+		14 ,
+		15 ,
+		35 ,
+		36 ,
+		41 ,
+		43 ,
+		47 ,
+		67 ,
+		16 ;
+	dbpprop:age	"1991-03-07+02:00"^^xsd:date ,
+		"1994-06-17+02:00"^^xsd:date ,
+		"1992-01-04+02:00"^^xsd:date ,
+		"1992-01-01+02:00"^^xsd:date ,
+		"1986-04-27+02:00"^^xsd:date ,
+		"1988-11-28+02:00"^^xsd:date ,
+		"1994-04-27+02:00"^^xsd:date ,
+		"1990-07-12+02:00"^^xsd:date ,
+		"1994-08-03+02:00"^^xsd:date ,
+		"1977-02-03+02:00"^^xsd:date ,
+		"1992-05-04+02:00"^^xsd:date ,
+		"1987-06-18+02:00"^^xsd:date ,
+		"1991-04-08+02:00"^^xsd:date ,
+		"1989-11-17+02:00"^^xsd:date ,
+		"1983-03-14+02:00"^^xsd:date ,
+		"1992-08-23+02:00"^^xsd:date ,
+		"1983-04-23+02:00"^^xsd:date ,
+		"1990-09-01+02:00"^^xsd:date ,
+		"1981-05-05+02:00"^^xsd:date ,
+		"1992-06-11+02:00"^^xsd:date ,
+		"1985-08-08+02:00"^^xsd:date ,
+		"1982-02-04+02:00"^^xsd:date ,
+		"1988-07-16+02:00"^^xsd:date ,
+		"1988-05-05+02:00"^^xsd:date ,
+		"1988-10-12+02:00"^^xsd:date ,
+		"1983-01-23+02:00"^^xsd:date ,
+		"1991-04-10+02:00"^^xsd:date ,
+		"1993-10-27+02:00"^^xsd:date ,
+		"1992-11-28+02:00"^^xsd:date ,
+		"1990-07-04+02:00"^^xsd:date ,
+		"1988-06-28+02:00"^^xsd:date ,
+		"1993-07-26+02:00"^^xsd:date ,
+		"1977-01-05+02:00"^^xsd:date ,
+		"1993-07-05+02:00"^^xsd:date ,
+		"1994-10-01+02:00"^^xsd:date ,
+		"1992-02-09+02:00"^^xsd:date ,
+		"1990-09-27+02:00"^^xsd:date ,
+		"1994-05-23+02:00"^^xsd:date ,
+		"1979-03-20+02:00"^^xsd:date ,
+		"1984-04-01+02:00"^^xsd:date ,
+		"1990-11-25+02:00"^^xsd:date ,
+		"1990-04-06+02:00"^^xsd:date ,
+		"1992-02-02+02:00"^^xsd:date ,
+		"1982-02-18+02:00"^^xsd:date ,
+		"1994-08-17+02:00"^^xsd:date ,
+		"1989-03-07+02:00"^^xsd:date ,
+		"1992-09-29+02:00"^^xsd:date ,
+		"1987-02-16+02:00"^^xsd:date ,
+		"1993-03-07+02:00"^^xsd:date ,
+		"1989-06-18+02:00"^^xsd:date ,
+		"1985-03-16+02:00"^^xsd:date ,
+		"1992-01-08+02:00"^^xsd:date ,
+		"1987-08-12+02:00"^^xsd:date ;
+	dbpprop:coach	dbpedia:Claude_Albert_Mbourounot ;
+	dbpedia-owl:coach	dbpedia:Claude_Albert_Mbourounot ;
+	dbpprop:patternSo	"_long_dyf2" ,
+		"_yellowhorizontal" ;
+	dbpprop:association	<http://dbpedia.org/resource/F%C3%A9d%C3%A9ration_Gabonaise_de_Football> ;
+	dbpprop:badgeSize	200 ;
+	dbpprop:body	"FFFF44" ,
+		"FFFFFF" ;
+	dbpprop:confederation	dbpedia:Confederation_of_African_Football ;
+	dbpprop:fifaRank	87 ;
+	dbpprop:fifaTrigramme	"GAB" ;
+	dbpprop:leftarm	"FFFFFF" ,
+		"FFFF44" .
+@prefix ns52:	<http://dbpedia.org/datatype/> .
+dbpedia:Gabon_national_football_team	dbpprop:patternB	"43200.0"^^ns52:second ,
+		"_gab1113away" ;
+	dbpprop:rightarm	"FFFFFF" ,
+		"FFFF44" ;
+	dbpprop:shorts	"FFFFFF" ,
+		1 ;
+	dbpprop:socks	1 ;
+	dbpprop:pos	"GK" ,
+		"DF" ,
+		"FW" ,
+		"MF" ;
+	dbpprop:badge	"Gabon FA.png" ;
+	dbpprop:firstGame	5 ;
+	dbpprop:largestLoss	6 ;
+	dbpprop:largestWin	7 ;
+	dbpprop:regionalCupApps	5 ;
+	dbpprop:regionalCupBest	"Quarter-finals: 1996 & 2012" ;
+	dbpprop:regionalCupFirst	1994 ;
+	dbpprop:regionalName	dbpedia:Africa_Cup_of_Nations ;
+	dbpprop:eloMax	63 ;
+	dbpprop:eloMaxDate	"November 1996" ;
+	dbpprop:eloMin	123 ;
+	dbpprop:eloMinDate	"June 2004" ;
+	dbpprop:eloRank	87 ;
+	dbpprop:fifaMax	30 ;
+	dbpprop:fifaMaxDate	"July 2009" ;
+	dbpprop:fifaMin	125 ;
+	dbpprop:fifaMinDate	"April 2005" ;
+	dbpprop:subConfederation	<http://dbpedia.org/resource/Central_African_Football_Federations\u0027_Union> ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.les-pantheres.com/> ,
+		<http://www.fifa.com/associations/association=gab/index.html> ;
+	dbpprop:homeStadium	dbpedia:Stade_Omar_Bongo ;
+	dbpedia-owl:stadium	dbpedia:Stade_Omar_Bongo ;
+	dbpprop:nickname	"Les Panth\u00E8res" .
+dbpedia:Pierre-Emerick_Aubameyang	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Lloyd_Palun	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Th%C3%A9odore_Nzue_Nguema>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Ernest_Akouassaga	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Georges_Ambourouet	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Catilina_Aubameyang	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Pierre_Aubameyang	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Shiva_N\u0027Zigou>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Bruno_Ecuele_Manga	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Thierry_Issi%C3%A9mou>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Roguy_M%C3%A9y%C3%A9>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Ars%C3%A8ne_Copa>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Ars%C3%A8ne_Do_Marcolino>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Jairzinho	dbpedia-owl:managerClub	dbpedia:Gabon_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Etienne_Bito\u0027o>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Paul_Kessany	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Aymard_Moro_Mv%C3%A9>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Didier_Ovono	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Dieudonn%C3%A9_Londo>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Andr%C3%A9_Biyogo_Poko>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Guy_Roger_Nzamba	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Thierry_Mouyouma	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Georges_Akieremy	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Thibault_Tchicaya	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Gilles_Mbang_Ondo	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/St%C3%A9phane_N\u0027Gu%C3%A9ma>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Bruno_Zita_Mbanangoy%C3%A9>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Fabrice_Do_Marcolino	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Ant%C3%B4nio_Dumas>	dbpprop:managerclubs	dbpedia:Gabon_national_football_team .
+dbpedia:Catilina_Aubameyang__12	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Alain_de_Martigny__4	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Alexander_N\u0027Doumbou>	dbpedia-owl:birthPlace	dbpedia:Gabon_national_football_team ;
+	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Alain_Giresse	dbpedia-owl:managerClub	dbpedia:Gabon_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Gabon_national_football_team .
+dbpedia:Paulo_Jorge_Rebelo_Duarte	dbpedia-owl:managerClub	dbpedia:Gabon_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Randal_Oto%E2%80%99o>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+ns36:منتخب_الغابون_لكرة_القدم	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns43:Selecció_de_futbol_de_Gabon	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns22:Gaboni_jalgpallikoondis	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns40:تیم_ملی_فوتبال_گابون	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns24:Gabonin_jalkapallomaajoukkue	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns25:נבחרת_גבון_בכדורגל	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns44:Gabon_national_football_team	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns45:Gaboni_labdarúgó-válogatott	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns35:Gabono_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns30:Gabonas_futbola_izlase	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns31:गॅबन_फुटबॉल_संघ	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns37:Gabons_herrelandslag_i_fotball	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns28:Echipa_națională_de_fotbal_a_Gabonului	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns29:Сборная_Габона_по_футболу	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns41:Gabon_national_football_team	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns42:Gabonské_národné_futbalové_mužstvo	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns26:Фудбалска_репрезентација_Габона	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns27:Gabons_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns23:Gabon_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns33:Збірна_Габону_з_футболу	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns39:Đội_tuyển_bóng_đá_quốc_gia_Gabon	owl:sameAs	dbpedia:Gabon_national_football_team .
+ns32:加蓬國家足球隊	owl:sameAs	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/St%C3%A9phane_Achy>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Henri_Antchouet__11	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Guy_Tchingoma__2	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Karl-Heinz_Weigang	dbpedia-owl:managerClub	dbpedia:Gabon_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Gabon_national_football_team .
+dbpedia:Claude_Albert_Mbourounot	dbpedia-owl:managerClub	dbpedia:Gabon_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Gabon_national_football_team .
+dbpedia:Alain_Giresse__9	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Michel_De_Wolf	dbpedia-owl:managerClub	dbpedia:Gabon_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Gu%C3%A9lor_Kanga>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Anthony_Mfa_Mezui	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Jonas_Ogandaga	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Fr%C3%A9d%C3%A9ric_Bulot>	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Christian_Coste	dbpedia-owl:managerClub	dbpedia:Gabon_national_football_team .
+dbpedia:Edmond_Mouele	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/L%C3%A9vy_Madinda>	dbpedia-owl:birthPlace	dbpedia:Gabon_national_football_team ;
+	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/C%C3%A9dric_Boussoughou>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Erwin_Ngu%C3%A9ma_Obame>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Armand_Ossey	dbpedia-owl:birthPlace	dbpedia:Gabon_national_football_team ;
+	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Serge_Dev%C3%A8ze>	dbpedia-owl:managerClub	dbpedia:Gabon_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/%C3%89ric_Mouloungui>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Andr%C3%A9_Biyogo_Poko__3>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Robert_Pintenat	dbpedia-owl:managerClub	dbpedia:Gabon_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Gabon_national_football_team .
+dbpedia:Willy_Aubameyang	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Alain_de_Martigny	dbpedia-owl:managerClub	dbpedia:Gabon_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Beni_Kiend%C3%A9__2>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Mo%C3%AFse_Brou_Apanga__8>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Gilles_Mbang_Ondo__8	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/St%C3%A9phane_Achy__6>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Gernot_Rohr	dbpprop:managerclubs	dbpedia:Gabon_national_football_team .
+dbpedia:Anselme_Delicat	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Mo%C3%AFse_Brou_Apanga>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Jean_Thissen	dbpedia-owl:managerClub	dbpedia:Gabon_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Gabon_national_football_team .
+dbpedia:Merlin_Tandjigora	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Paulo_Jorge_Rebelo_Duarte__9	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Daniel_Cousin__10	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Didier_Ibrahim_N\u0027Dong__3>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Claude_Albert_Mbourounot__1	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Roguy_M%C3%A9y%C3%A9__12>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/L%C3%A9vy_Madinda__3>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Michel_De_Wolf__11	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Georges_Akieremy__4	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Merlin_Tandjigora__6	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/%C3%89ric_Mouloungui__8>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Jairzinho__10	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Dieudonn%C3%A9_Londo__5>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Th%C3%A9odore_Nzue_Nguema__7>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Ars%C3%A8ne_Copa__4>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Erwin_Ngu%C3%A9ma_Obame__5>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Pierre_Aubameyang__10	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Thierry_Issi%C3%A9mou__5>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Benjamin_Z%C3%A9_Ondo__3>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Randal_Oto%E2%80%99o__2>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Robert_Pintenat__10	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Etienne_Bito\u0027o__10>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Gu%C3%A9lor_Kanga__2>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Alexander_N\u0027Doumbou__7>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Jean_Thissen__5	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Merlin_Tandjigora__7	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/St%C3%A9phane_N\u0027Gu%C3%A9ma__10>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Alexander_N\u0027Doumbou__6>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Paul_Kessany__6	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Yrondu_Musavu-King__3	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Franck_Engonga__4	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Thibault_Tchicaya__6	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Christian_Coste__12	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Ars%C3%A8ne_Do_Marcolino__7>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Bruno_Zita_Mbanangoy%C3%A9__7>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Fabrice_Do_Marcolino__7	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Aymard_Moro_Mv%C3%A9__8>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Karl-Heinz_Weigang__8	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Didier_Ovono__10	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Shiva_N\u0027Zigou__10>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Edmond_Mouele__2	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Daniel_Cousin	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Anthony_Mfa_Mezui__3	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Nedeljko_Bulatovi%C4%87__12>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Pierre-Emerick_Aubameyang__11	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Rodrigue_Moundounga__8	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Robert_Vicot	dbpedia-owl:managerClub	dbpedia:Gabon_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Beni_Kiend%C3%A9>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Nedeljko_Bulatovi%C4%87>	dbpedia-owl:managerClub	dbpedia:Gabon_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Gabon_national_football_team .
+dbpedia:Rodrigue_Moundounga	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Charly_Moussono	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Guy_Tchingoma	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Bruno_Ecuele_Manga__7	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Yrondu_Musavu-King	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Didier_Ibrahim_N\u0027Dong>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/Benjamin_Z%C3%A9_Ondo>	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Ernest_Akouassaga__6	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Georges_Ambourouet__9	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Stade_Omar_Bongo	dbpprop:tenants	dbpedia:Gabon_national_football_team ;
+	dbpedia-owl:tenant	dbpedia:Gabon_national_football_team .
+dbpedia:Franck_Engonga	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Henri_Antchouet	dbpedia-owl:team	dbpedia:Gabon_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Gabon_national_football_team .
+dbpedia:Lloyd_Palun__5	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+<http://dbpedia.org/resource/C%C3%A9dric_Boussoughou__3>	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Charly_Moussono__2	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Willy_Aubameyang__7	dbpedia-owl:team	dbpedia:Gabon_national_football_team .
+dbpedia:Jean_Prouff__16	dbpedia-owl:team	dbpedia:Gabon_national_football_team .

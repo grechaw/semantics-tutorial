@@ -1,0 +1,541 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+@prefix ns4:	<http://cs.dbpedia.org/resource/> .
+ns4:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+@prefix ns5:	<http://el.dbpedia.org/resource/> .
+ns5:Νικολά_Ανελκά	owl:sameAs	dbpedia:Nicolas_Anelka .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+@prefix ns7:	<http://id.dbpedia.org/resource/> .
+ns7:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+@prefix ns9:	<http://ja.dbpedia.org/resource/> .
+ns9:ニコラ・アネルカ	owl:sameAs	dbpedia:Nicolas_Anelka .
+@prefix ns10:	<http://ko.dbpedia.org/resource/> .
+ns10:니콜라_아넬카	owl:sameAs	dbpedia:Nicolas_Anelka .
+@prefix ns11:	<http://nl.dbpedia.org/resource/> .
+ns11:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+@prefix ns12:	<http://pl.dbpedia.org/resource/> .
+ns12:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+@prefix ns13:	<http://pt.dbpedia.org/resource/> .
+ns13:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+@prefix ns14:	<http://wikidata.dbpedia.org/resource/> .
+ns14:Q1939	owl:sameAs	dbpedia:Nicolas_Anelka .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2001%E2%80%9302_Liverpool_F.C._season>	dbpprop:name	dbpedia:Nicolas_Anelka .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns17:	<http://en.wikipedia.org/wiki/> .
+ns17:Nicolas_Anelka	foaf:primaryTopic	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2001_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Nicolas_Anelka .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Nicolas_Anelka	rdf:type	dul:NaturalPerson .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Nicolas_Anelka	rdf:type	yago:ExpatriateFootballersInEngland ,
+		<http://dbpedia.org/class/yago/ManchesterCityF.C.Players> ,
+		foaf:Person ,
+		yago:PeopleOfMartiniquaisDescent ,
+		yago:ExpatriateFootballersInChina ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:FrenchExpatriatesInTheUnitedKingdom ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:INFClairefontainePlayers ,
+		<http://dbpedia.org/class/yago/2001FIFAConfederationsCupPlayers> ,
+		yago:FrenchExpatriatesInSpain ,
+		<http://dbpedia.org/class/yago/Fenerbah%C3%A7eFootballers> ,
+		yago:Whole100003553 ,
+		yago:Object100002684 ,
+		yago:FrenchExpatriatesInTurkey .
+@prefix ns21:	<http://schema.org/> .
+dbpedia:Nicolas_Anelka	rdf:type	ns21:Person ,
+		yago:Forward110105733 ,
+		yago:FrenchExpatriateFootballers ,
+		yago:FranceInternationalFootballers ,
+		yago:ExpatriateFootballersInSpain ,
+		yago:PhysicalEntity100001930 ,
+		yago:LaLigaFootballers .
+@prefix ns22:	<http://umbel.org/umbel/rc/> .
+dbpedia:Nicolas_Anelka	rdf:type	ns22:SoccerPlayer ,
+		yago:UEFAEuro2000Players ,
+		yago:AssociationFootballForwards ,
+		yago:ExpatriateFootballersInTurkey ,
+		yago:BasketballPlayer109842047 ,
+		<http://dbpedia.org/class/yago/RealMadridC.F.Players> ,
+		<http://dbpedia.org/class/yago/ParisSaint-GermainF.C.Players> ,
+		yago:FrenchFootballers ,
+		yago:Player110439851 ,
+		yago:Athlete109820263 ,
+		yago:FootballPlayer110101634 .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Nicolas_Anelka	rdf:type	dbpedia-owl:SoccerManager ,
+		dbpedia-owl:SportsManager ,
+		<http://dbpedia.org/class/yago/ArsenalF.C.Players> ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:Exile110071332 ,
+		ns22:Athlete ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		yago:FranceYouthInternationalFootballers ,
+		<http://dbpedia.org/class/yago/ShanghaiShenhuaF.C.Players> ,
+		yago:PeopleFromVersailles ,
+		<http://dbpedia.org/class/yago/ChelseaF.C.Players> ,
+		<http://dbpedia.org/class/yago/BoltonWanderersF.C.Players> ,
+		yago:PremierLeaguePlayers ,
+		yago:UEFAEuro2008Players ,
+		yago:Contestant109613191 ,
+		ns14:Q215627 ,
+		<http://dbpedia.org/class/yago/S%C3%BCperLigPlayers> ,
+		owl:Thing ,
+		yago:Ligue1Players ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Person ,
+		<http://dbpedia.org/class/yago/LiverpoolF.C.Players> ,
+		ns14:Q5 ,
+		dul:Agent .
+@prefix ns24:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns24:Nicolas_Anelka .
+@prefix ns25:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns25:निकोलस_अनेल्का .
+@prefix ns26:	<http://ur.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns26:نیکولا_آنلکا .
+@prefix ns27:	<http://mk.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns27:Николас_Анелка ,
+		ns14:Q1939 .
+@prefix ns28:	<http://bg.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns28:Никола_Анелка ,
+		<http://ru.dbpedia.org/resource/\u0410\u043D\u0435\u043B\u044C\u043A\u0430,_\u041D\u0438\u043A\u043E\u043B\u044F> ,
+		dbpedia:Nicolas_Anelka .
+@prefix ns29:	<http://ga.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns29:Nicolas_Anelka .
+@prefix ns30:	<http://ca.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns30:Nicolas_Anelka .
+@prefix ns31:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns31:Nicolas_Anelka .
+@prefix ns32:	<http://ms.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns32:Nicolas_Anelka .
+@prefix ns33:	<http://br.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns33:Nicolas_Anelka .
+@prefix ns34:	<http://wikidata.org/entity/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns34:Q1939 .
+@prefix ns35:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns35:نيكولا_أنيلكا ,
+		<http://rdf.freebase.com/ns/m.041x65> .
+@prefix ns36:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns36:Ніколя_Анелька .
+@prefix ns37:	<http://lv.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns37:Nikolā_Anelka ,
+		ns5:Νικολά_Ανελκά .
+@prefix ns38:	<http://oc.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns38:Nicolas_Anelka .
+@prefix ns39:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns39:Nicolas_Anelka .
+@prefix ns40:	<http://be_x_old.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns40:Нікаля_Анэлька .
+@prefix ns41:	<http://az.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns41:Nikolas_Anelka .
+@prefix ns42:	<http://et.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns42:Nicolas_Anelka .
+@prefix ns43:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns43:Nicolas_Anelka ,
+		ns10:니콜라_아넬카 ,
+		ns11:Nicolas_Anelka .
+@prefix ns44:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns44:Nicolas_Anelka ,
+		ns4:Nicolas_Anelka .
+@prefix ns45:	<http://qu.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns45:Nicolas_Anelka .
+@prefix ns46:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns46:نیکولا_آنلکا ,
+		ns1:Nicolas_Anelka .
+@prefix ns47:	<http://kk.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns47:Николас_Анелька .
+@prefix ns48:	<http://sw.cyc.com/concept/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns48:Mx4rv8_ZqgcxROuMF2fRs5I7Hg ,
+		ns12:Nicolas_Anelka .
+@prefix ns49:	<http://cy.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns49:Nicolas_Anelka .
+@prefix ns50:	<http://jv.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns50:Nicolas_Anelka ,
+		ns7:Nicolas_Anelka .
+@prefix ns51:	<http://ka.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns51:ნიკოლა_ანელკა ,
+		ns9:ニコラ・アネルカ .
+@prefix ns52:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns52:Nicolas_Anelka ,
+		ns8:Nicolas_Anelka ,
+		ns6:Nicolas_Anelka .
+@prefix ns53:	<http://da.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns53:Nicolas_Anelka .
+@prefix ns54:	<http://th.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns54:นีกอลา_อาแนลกา .
+@prefix ns55:	<http://yago-knowledge.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns55:Nicolas_Anelka ,
+		ns3:Nicolas_Anelka .
+@prefix ns56:	<http://sw.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns56:Nicolas_Anelka .
+@prefix ns57:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns57:尼古拉·阿内尔卡 .
+@prefix ns58:	<http://sk.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns58:Nicolas_Anelka .
+@prefix ns59:	<http://nn.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns59:Nicolas_Anelka .
+@prefix ns60:	<http://zh_yue.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns60:安歷卡 .
+@prefix ns61:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns61:Nicolas_Anelka ,
+		ns13:Nicolas_Anelka .
+@prefix ns62:	<http://hr.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns62:Nicolas_Anelka .
+@prefix ns63:	<http://no.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns63:Nicolas_Anelka .
+@prefix ns64:	<http://he.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns64:ניקולא_אנלקה .
+@prefix ns65:	<http://sr.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns65:Никола_Анелка .
+@prefix ns66:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Nicolas_Anelka	owl:sameAs	ns66:Nicolas_Anelka .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Nicolas_Anelka	rdfs:label	"Nicolas Anelka"@nl ,
+		"\u5C3C\u53E4\u62C9\u00B7\u963F\u5185\u5C14\u5361"@zh ,
+		"Nicolas Anelka"@de ,
+		"Nicolas Anelka"@es ,
+		"Nicolas Anelka"@it ,
+		"Nicolas Anelka"@pl ,
+		"Nicolas Anelka"@pt ,
+		"\u30CB\u30B3\u30E9\u30FB\u30A2\u30CD\u30EB\u30AB"@ja ,
+		"Nicolas Anelka" ,
+		"Nicolas Anelka"@fr ,
+		"\u0410\u043D\u0435\u043B\u044C\u043A\u0430, \u041D\u0438\u043A\u043E\u043B\u044F"@ru ,
+		"\u0646\u064A\u0643\u0648\u0644\u0627 \u0623\u0646\u064A\u0644\u0643\u0627"@ar .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Nicolas_Anelka	dcterms:subject	category:Expatriate_footballers_in_Turkey ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:1979_births> ,
+		category:France_international_footballers ,
+		category:Expatriate_footballers_in_England ,
+		category:French_expatriates_in_Italy ,
+		category:Expatriate_footballers_in_China ,
+		category:UEFA_European_Championship-winning_players ,
+		category:UEFA_Euro_2008_players ,
+		category:Ligue_1_players ,
+		category:Living_people ,
+		category:French_expatriates_in_Turkey ,
+		category:Converts_to_Islam ,
+		category:French_people_of_Martiniquais_descent ,
+		<http://dbpedia.org/resource/Category:Paris_Saint-Germain_F.C._players> ,
+		category:FIFA_Confederations_Cup-winning_players ,
+		<http://dbpedia.org/resource/Category:Arsenal_F.C._players> ,
+		category:French_expatriates_in_England .
+@prefix ns70:	<http://dbpedia.org/resource/Category:First_Division/> .
+dbpedia:Nicolas_Anelka	dcterms:subject	ns70:Premier_League_topscorers ,
+		category:People_from_Versailles ,
+		<http://dbpedia.org/resource/Category:Real_Madrid_C.F._players> ,
+		<http://dbpedia.org/resource/Category:Fenerbah%C3%A7e_footballers> ,
+		<http://dbpedia.org/resource/Category:Shanghai_Shenhua_F.C._players> ,
+		category:UEFA_Euro_2000_players ,
+		category:INF_Clairefontaine_players ,
+		category:France_youth_international_footballers ,
+		category:French_footballers ,
+		category:French_expatriates_in_Spain ,
+		category:French_expatriates_in_China ,
+		<http://dbpedia.org/resource/Category:Liverpool_F.C._players> ,
+		<http://dbpedia.org/resource/Category:2001_FIFA_Confederations_Cup_players> ,
+		<http://dbpedia.org/resource/Category:Chelsea_F.C._players> ,
+		<http://dbpedia.org/resource/Category:Manchester_City_F.C._players> ,
+		<http://dbpedia.org/resource/Category:Juventus_F.C._players> ,
+		<http://dbpedia.org/resource/Category:West_Bromwich_Albion_F.C._players> ,
+		category:French_former_Christians ,
+		category:Premier_League_players ,
+		<http://dbpedia.org/resource/Category:Bolton_Wanderers_F.C._players> ,
+		category:Expatriate_footballers_in_Brazil ,
+		category:Expatriate_footballers_in_Spain ,
+		category:La_Liga_footballers ,
+		category:Association_football_forwards ,
+		category:Expatriate_footballers_in_Italy ,
+		<http://dbpedia.org/resource/Category:S%C3%BCper_Lig_players> ,
+		category:Serie_A_footballers ,
+		category:French_Muslims ,
+		category:French_expatriate_footballers ,
+		category:French_expatriates_in_Brazil ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas_Anelka_4720.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Nicolas_Anelka	dc:description	"Footballer" ,
+		"Footballer" ;
+	foaf:givenName	"Nicolas" ;
+	foaf:name	"Nicolas S\u00E9bastien Anelka" ,
+		"Anelka, Nicolas" ,
+		"Nicolas Anelka" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Nicolas_Anelka	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Nicolas_Anelka?oldid=606436446> ;
+	rdfs:comment	"Nicolas Anelka (n\u00E9 le 14 mars 1979 au Chesnay dans les Yvelines) est un footballeur international fran\u00E7ais qui \u00E9volue au poste d'attaquant (il fut m\u00EAme entra\u00EEneur-adjoint durant une courte p\u00E9riode).Il quitte le club anglais de West Bromwich Albion, le 14 mars 2014."@fr ,
+		"\u30CB\u30B3\u30E9\u30FB\u30BB\u30D0\u30B9\u30C6\u30A3\u30A2\u30F3\u30FB\u30A2\u30CD\u30EB\u30AB\uFF08Nicolas Sebastian Anelka, 1979\u5E743\u670814\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u30FB\u30F4\u30A7\u30EB\u30B5\u30A4\u30E6\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9\u3002"@ja ,
+		"Nicolas Sebastien Anelka (Le Chesnay, 14 de mar\u00E7o de 1979) \u00E9 um futebolista franc\u00EAs que atua como atacante. Atualmente, n\u00E3o joga por nenhum clube.\u00C9 o segundo jogador que mais movimentou dinheiro no futebol, atr\u00E1s de Zlatan Ibrahimovic: a soma de suas transfer\u00EAncias j\u00E1 somaram 135 milh\u00F5es de euros."@pt ,
+		"Nicolas S\u00E9bastien Anelka (* 14. M\u00E4rz 1979 in Le Chesnay bei Versailles) ist ein franz\u00F6sischer Fu\u00DFballspieler. Er war 2012 kurze Zeit Spielertrainer bei Shanghai Shenhua.Der 69-fache Nationalspieler und Europameister von 2000 war in verschiedenen europ\u00E4ischen Topligen bei Spitzenklubs erfolgreich."@de ,
+		"Nicolas S\u00E9bastien Anelka (French pronunciation: \u200B[ni.k\u0254.la a.n\u025Bl.ka]; born 14 March 1979) is a French footballer. Prior to his retirement from international football, Anelka was also a regular member of the French national team. Former Chelsea manager Carlo Ancelotti has described him as a quick player with good aerial ability, technique, shooting, and movement off the ball.Anelka began his career at Paris Saint-Germain, but soon moved to Arsenal." ,
+		"\u041D\u0438\u043A\u043E\u043B\u044F\u0301 \u0421\u0435\u0431\u0430\u0441\u0442\u044C\u044F\u0301\u043D \u0410\u043D\u0435\u043B\u044C\u043A\u0430\u0301 (\u0444\u0440. Nicolas Sebastian Anelka, \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0438\u0437\u043D\u043E\u0448\u0435\u043D\u0438\u0435 [nik\u0254la an\u025Blka]; 14 \u043C\u0430\u0440\u0442\u0430 1979, \u0412\u0435\u0440\u0441\u0430\u043B\u044C, \u0418\u043B\u044C-\u0434\u0435-\u0424\u0440\u0430\u043D\u0441, \u0424\u0440\u0430\u043D\u0446\u0438\u044F) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439 \u0431\u0440\u0430\u0437\u0438\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0410\u0442\u043B\u0435\u0442\u0438\u043A\u043E \u041C\u0438\u043D\u0435\u0439\u0440\u043E\u00BB, \u0440\u0430\u043D\u0435\u0435 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0437\u0430 \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u0424\u0440\u0430\u043D\u0446\u0438\u0438."@ru ,
+		"Nicolas S\u00E9bastien Anelka (Versailles, 14 maart 1979) is een Frans betaald voetballer die bij voorkeur als spits speelt. Sinds 14 maart 2014 zit hij zonder club. Eerder speelde hij bij onder meer Paris SG, Arsenal, Real Madrid, Liverpool, Manchester City, Chelsea en Juventus FC. Anelka debuteerde in 1998 voor het Frans voetbalelftal en speelde sindsdien meer dan zestig interlands."@nl ,
+		"Nicolas S\u00E9bastien Anelka (wym. [nik\u0254\u02C8la an\u025Bl\u02C8ka]; ur. 14 marca 1979 w Wersalu) \u2013 francuski pi\u0142karz graj\u0105cy na pozycji napastnika.Anelka zaczyna\u0142 swoj\u0105 karier\u0119 w Paris Saint-Germain, jednak wkr\u00F3tce przeszed\u0142 do Arsenalu, gdzie sta\u0142 si\u0119 podstawowym graczem, po czym w 1999 roku zdoby\u0142 nagrod\u0119 dla najlepszego m\u0142odego zawodnika graj\u0105cego w Anglii. W tym samym roku Real Madryt zakupi\u0142 pi\u0142karza do swojego klubu za rekordow\u0105 cen\u0119 22,3 milion\u00F3w funt\u00F3w."@pl ,
+		"\u0646\u064A\u0643\u0648\u0644\u0627 \u0633\u064A\u0628\u0633\u062A\u064A\u0627\u0646 \u0623\u0646\u064A\u0644\u0643\u0627 (\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629: Nicolas Anelka) \u0621 (\u0645\u0648\u0627\u0644\u064A\u062F 14 \u0645\u0627\u0631\u0633 \u0639\u0627\u0645 1979 \u0641\u064A \u0641\u064A\u0631\u0633\u0627\u064A) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0641\u0631\u0646\u0633\u064A \u064A\u0644\u0639\u0628 \u0641\u064A \u062E\u0637 \u0627\u0644\u0647\u062C\u0648\u0645\u060C \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627\u064B \u0645\u0639 \u0646\u0627\u062F\u064A \u0648\u064A\u0633\u062A \u0628\u0631\u0648\u0645\u064A\u062A\u0634 \u0623\u0644\u0628\u064A\u0648\u0646.\u0627\u0639\u062A\u0646\u0642 \u0623\u0646\u064A\u0644\u0643\u0627 \u0627\u0644\u0625\u0633\u0644\u0627\u0645 \u0648\u0623\u062E\u062A\u0627\u0631 \u0644\u0646\u0641\u0633\u0647 \u0627\u0633\u0645 \u0639\u0628\u062F \u0627\u0644\u0633\u0644\u0627\u0645 \u0628\u0644\u0627\u0644.\u0628\u062F\u0623 \u0645\u0634\u0648\u0627\u0631\u0647 \u0645\u0639 \u0646\u0627\u062F\u064A \u0628\u0627\u0631\u064A\u0633 \u0633\u0627\u0646 \u062C\u064A\u0631\u0645\u0627\u0646 \u062B\u0645 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0623\u0631\u0633\u0646\u0627\u0644 \u0628\u0645\u0628\u0644\u063A \u0646\u0635\u0641 \u0645\u0644\u064A\u0648\u0646 \u062F\u0648\u0644\u0627\u0631 \u062B\u0645 \u0627\u0646\u062A\u0642\u0644 \u0627\u0644\u064A \u0641\u0631\u064A\u0642 \u0631\u064A\u0627\u0644 \u0645\u062F\u0631\u064A\u062F \u0627\u0644\u0623\u0633\u0628\u0627\u0646\u064A \u0628\u0645\u0628\u0644\u063A 32 \u0645\u0644\u064A\u0648\u0646 \u062F\u0648\u0644\u0627\u0631 \u0648\u0643\u0627\u0646 \u0645\u0646 \u0623\u0643\u0628\u0631 \u0627\u0644\u0635\u0641\u0642\u0627\u062A \u0641\u064A \u0630\u0627\u0644\u0643 \u0627\u0644\u0648\u0642\u062A \u0648\u0644\u0643\u0646 \u0628\u0639\u062F \u0627\u0639\u062A\u0646\u0627\u0642\u0629 \u0627\u0644\u0625\u0633\u0644\u0627\u0645 \u0641\u064A \u0641\u0631\u064A\u0642 \u0631\u064A\u0627\u0644 \u0645\u062F\u0631\u064A\u062F \u0627\u0646\u062A\u0642\u0644 \u0627\u0644\u064A \u0628\u0627\u0631\u064A\u0633 \u0633\u0627\u0646 \u062C\u0631\u0645\u0627\u0646 \u0648\u0628\u0639\u062F\u0647\u0627 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0644\u064A\u0641\u0631\u0628\u0648\u0644 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A \u0645\u0639\u0627\u0631\u0627\u064B \u0644\u0645\u062F\u0629 \u0639\u0627\u0645 \u0648\u0628\u0639\u062F\u0647\u0627 \u0627\u0644\u064A \u0641\u0631\u064A\u0642 \u0645\u0627\u0646\u0634\u0633\u062A\u0631 \u0633\u064A\u062A\u064A \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A \u0648\u0628\u0639\u062F\u0647\u0627 \u0627\u0644\u064A \u0641\u0646\u0631\u0628\u062E\u0634\u0647 \u0627\u0644\u062A\u0631\u0643\u064A \u0648\u0647\u0646\u0627\u0643 \u0648\u0632\u062F\u0627\u062F \u062A\u0639\u0644\u0642\u0647 \u0641\u064A \u0627\u0644\u0625\u0633\u0644\u0627\u0645 \u0648\u0641\u064A \u0639\u0627\u0645 2006 \u0627\u0646\u062A\u0642\u0644 \u0627\u0644\u064A \u0641\u0631\u064A\u0642 \u0628\u0648\u0644\u062A\u0648\u0646 \u0648\u0627\u0646\u062F\u0631\u0631\u0632 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A. "@ar ,
+		"Nicolas S\u00E9bastien Anelka (14 de marzo de 1979, Versalles) es un futbolista franc\u00E9s.Inici\u00F3 su carrera en el Paris Saint-Germain FC, de donde se traslad\u00F3 al Arsenal. Pronto se convirti\u00F3 en uno de los habituales del equipo, imponi\u00E9ndose un a\u00F1o despu\u00E9s en el PFA Young Player of the Year Award. En 1999 el Real Madrid F.C. lo contrat\u00F3 tras abonar 33 millones de euros; no obstante, tras una temporada discreta volvi\u00F3 al Par\u00EDs Saint-Germain a cambio de 33 millones."@es ,
+		"Nicolas S\u00E9bastien Anelka (Le Chesnay, 14 marzo 1979) \u00E8 un calciatore francese, attaccante dell'Atl\u00E9tico Mineiro.\u00C8 stato campione d'Europa nel 2000 con la Nazionale francese."@it ,
+		"\u5C3C\u53E4\u62C9\u00B7\u585E\u5DF4\u65AF\u8482\u6602\u00B7\u963F\u5185\u5C14\u5361\uFF08\u6CD5\u8BED\uFF1ANicolas S\u00E9bastien Anelka\uFF0C\u7688\u4F9D\u4F0A\u65AF\u5170\u6559\u540E\u7684\u963F\u62C9\u4F2F\u540D\u300C\u963F\u5E03\u675C\u52D2-\u8428\u62C9\u59C6\u00B7\u6BD4\u62C9\u52D2\u300D\uFF08Abdul-Salam Bilal\uFF09\uFF0C1979\u5E743\u670814\u65E5\uFF0D\uFF09\uFF0C\u6CD5\u56FD\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u53F8\u8077\u524D\u950B\uFF0C\u4ED6\u66FE\u662F\u6CD5\u570B\u570B\u5BB6\u968A\u7684\u4E3B\u529B\u6210\u54E1\uFF0C\u4F46\u57282010\u5E74\u4E16\u754C\u676F\u8DB3\u7403\u8D5B\u671F\u9593\u88AB\u56FD\u5BB6\u961F\u9664\u540D\u3002\u5B89\u6B77\u5361\u662F\u4E00\u540D\u901F\u5EA6\u3001\u6280\u8853\u3001\u5C04\u8853\u90FD\u975E\u5E38\u51FA\u8272\u7684\u7403\u54E1\uFF0C\u66F4\u88AB\u6232\u7A31\u70BA\u300C\u7403\u58C7\u6D6A\u5B50\u300D\uFF0C\u56E0\u70BA\u4ED6\u66FE\u5148\u540E\u6548\u529B\u8FC7\u6CD5\u7532\u7684\u5DF4\u9ECE\u5723\u65E5\u8033\u66FC\u3001\u82F1\u8D85\u7684\u963F\u68EE\u7EB3\u3001\u66FC\u57CE\u3001\u5229\u7269\u6D66\u3001\u5207\u5C14\u897F\uFF0C\u897F\u7532\u7684\u7687\u5BB6\u99AC\u5FB7\u91CC\u53CA\u571F\u8D85\u7684\u8CBB\u502B\u5DF4\u6CBB\u7B49\u591A\u652F\u6B27\u6D32\u8C6A\u95E8\u7403\u961F\u3002\u76F4\u81F32013\u5E747\u6708\uFF0C\u5B89\u6B77\u5361\u5DF2\u7D93\u6548\u529B\u904E11\u9593\u7403\u6703\uFF0C\u7D2F\u7A4D\u8F49\u6703\u8CBB\u63A5\u8FD19000\u842C\u82F1\u938A\u3002 \u3002"@zh ;
+	foaf:surname	"Anelka" ;
+	foaf:isPrimaryTopicOf	ns17:Nicolas_Anelka .
+@prefix ns73:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Nicolas_Anelka	dbpprop:hasPhotoCollection	ns73:Nicolas_Anelka ;
+	dbpprop:caption	"Anelka playing for Chelsea in 2010" ;
+	dbpprop:name	"Nicolas Anelka" ,
+		"Anelka, Nicolas" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Nicolas_Anelka_4720.jpg?width=300> ;
+	dbpedia-owl:abstract	"Nicolas S\u00E9bastien Anelka (wym. [nik\u0254\u02C8la an\u025Bl\u02C8ka]; ur. 14 marca 1979 w Wersalu) \u2013 francuski pi\u0142karz graj\u0105cy na pozycji napastnika.Anelka zaczyna\u0142 swoj\u0105 karier\u0119 w Paris Saint-Germain, jednak wkr\u00F3tce przeszed\u0142 do Arsenalu, gdzie sta\u0142 si\u0119 podstawowym graczem, po czym w 1999 roku zdoby\u0142 nagrod\u0119 dla najlepszego m\u0142odego zawodnika graj\u0105cego w Anglii. W tym samym roku Real Madryt zakupi\u0142 pi\u0142karza do swojego klubu za rekordow\u0105 cen\u0119 22,3 milion\u00F3w funt\u00F3w. Anelka nie zaaklimatyzowa\u0142 si\u0119 w hiszpa\u0144skiej dru\u017Cynie i w nast\u0119pnym sezonie zosta\u0142 sprzedany za 20 milion\u00F3w funt\u00F3w do swojego pierwszego klubu \u2013 PSG. Pomimo regularnych wyst\u0119p\u00F3w w paryskim zespole w, grudniu 2001 roku Anelka zosta\u0142 wypo\u017Cyczony do Liverpoolu,a przed sezonem 2002/03, pi\u0142karza za 13 milion\u00F3w funt\u00F3w kupi\u0142 Manchester City.Po trzech sezonach gry dla The Citizens, Anelka odszed\u0142 do Fenerbahce, jednak po p\u00F3\u0142tora roku gry w tureckim klubie powr\u00F3ci\u0142 do Premier League, aby reprezentowa\u0107 barwy Boltonu Wanderers. Po przej\u015Bciu do Chelsea w styczniu 2008 roku, Anelka sta\u0142 si\u0119 najdro\u017Cszym pi\u0142karzem na \u015Bwiecie, bior\u0105c pod uwag\u0119 sum\u0119 wszystkich kwot, jakie do tej pory za niego zap\u0142acono (ponad 85 milion\u00F3w funt\u00F3w).Anelka wraz z reprezentacj\u0105 Francji zdoby\u0142 mistrzostwo Europy w 2000 roku oraz Puchar Konfederacji w 2001 roku. Wyst\u0105pi\u0142 w jej barwach 68 razy i strzeli\u0142 dla niej 13 goli w oficjalnych spotkaniach."@pl ,
+		"Nicolas S\u00E9bastien Anelka (Versailles, 14 maart 1979) is een Frans betaald voetballer die bij voorkeur als spits speelt. Sinds 14 maart 2014 zit hij zonder club. Eerder speelde hij bij onder meer Paris SG, Arsenal, Real Madrid, Liverpool, Manchester City, Chelsea en Juventus FC. Anelka debuteerde in 1998 voor het Frans voetbalelftal en speelde sindsdien meer dan zestig interlands."@nl ,
+		"\u041D\u0438\u043A\u043E\u043B\u044F\u0301 \u0421\u0435\u0431\u0430\u0441\u0442\u044C\u044F\u0301\u043D \u0410\u043D\u0435\u043B\u044C\u043A\u0430\u0301 (\u0444\u0440. Nicolas Sebastian Anelka, \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0438\u0437\u043D\u043E\u0448\u0435\u043D\u0438\u0435 [nik\u0254la an\u025Blka]; 14 \u043C\u0430\u0440\u0442\u0430 1979, \u0412\u0435\u0440\u0441\u0430\u043B\u044C, \u0418\u043B\u044C-\u0434\u0435-\u0424\u0440\u0430\u043D\u0441, \u0424\u0440\u0430\u043D\u0446\u0438\u044F) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439 \u0431\u0440\u0430\u0437\u0438\u043B\u044C\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0410\u0442\u043B\u0435\u0442\u0438\u043A\u043E \u041C\u0438\u043D\u0435\u0439\u0440\u043E\u00BB, \u0440\u0430\u043D\u0435\u0435 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0437\u0430 \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u0424\u0440\u0430\u043D\u0446\u0438\u0438. \u0422\u0438\u0442\u0443\u043B\u043E\u0432\u0430\u043D\u043D\u044B\u0439 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u0442\u0440\u0435\u043D\u0435\u0440 \u041A\u0430\u0440\u043B\u043E \u0410\u043D\u0447\u0435\u043B\u043E\u0442\u0442\u0438 \u043E\u043F\u0438\u0441\u044B\u0432\u0430\u0435\u0442 \u0435\u0433\u043E \u043A\u0430\u043A \u0431\u044B\u0441\u0442\u0440\u043E\u0433\u043E \u0438\u0433\u0440\u043E\u043A\u0430, \u0443\u043C\u0435\u044E\u0449\u0435\u0433\u043E \u0431\u043E\u0440\u043E\u0442\u044C\u0441\u044F \u0432 \u0432\u043E\u0437\u0434\u0443\u0445\u0435 \u0438 \u043E\u0431\u043B\u0430\u0434\u0430\u044E\u0449\u0435\u0433\u043E \u0445\u043E\u0440\u043E\u0448\u0438\u043C\u0438 \u0442\u0435\u0445\u043D\u0438\u043A\u043E\u0439, \u0443\u0434\u0430\u0440\u043E\u043C, \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u0435\u043C \u043C\u044F\u0447\u0430.\u0410\u043D\u0435\u043B\u044C\u043A\u0430 \u043D\u0430\u0447\u0430\u043B \u0441\u0432\u043E\u044E \u043A\u0430\u0440\u044C\u0435\u0440\u0443 \u0432 \u00AB\u041F\u0430\u0440\u0438 \u0421\u0435\u043D-\u0416\u0435\u0440\u043C\u0435\u043D\u00BB, \u043D\u043E \u0432\u0441\u043A\u043E\u0440\u0435 \u043F\u0435\u0440\u0435\u0448\u0451\u043B \u0432 \u00AB\u0410\u0440\u0441\u0435\u043D\u0430\u043B\u00BB, \u0433\u0434\u0435 \u0431\u044B\u0441\u0442\u0440\u043E \u0441\u0442\u0430\u043B \u0438\u0433\u0440\u043E\u043A\u043E\u043C \u043E\u0441\u043D\u043E\u0432\u043D\u043E\u0433\u043E \u0441\u043E\u0441\u0442\u0430\u0432\u0430 \u0438 \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u0437\u0432\u0430\u043D\u0438\u0435 \u043B\u0443\u0447\u0448\u0435\u0433\u043E \u043C\u043E\u043B\u043E\u0434\u043E\u0433\u043E \u0438\u0433\u0440\u043E\u043A\u0430 \u043F\u043E \u0432\u0435\u0440\u0441\u0438\u0438 \u041F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0438. \u00AB\u0420\u0435\u0430\u043B \u041C\u0430\u0434\u0440\u0438\u0434\u00BB \u0432\u044B\u043A\u0443\u043F\u0438\u043B \u0410\u043D\u0435\u043B\u044C\u043A\u0430 \u0437\u0430 \u0440\u0435\u043A\u043E\u0440\u0434\u043D\u0443\u044E \u0441\u0443\u043C\u043C\u0443 \u00A322,3 \u043C\u0438\u043B\u043B\u0438\u043E\u043D\u0430 \u0432 1999 \u0433\u043E\u0434\u0443, \u043D\u043E \u043E\u043D \u043D\u0435 \u0441\u043C\u043E\u0433 \u0437\u0430\u043A\u0440\u0435\u043F\u0438\u0442\u044C\u0441\u044F \u0432 \u043E\u0441\u043D\u043E\u0432\u043D\u043E\u043C \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u0438 \u0431\u044B\u043B \u0432\u044B\u043A\u0443\u043F\u043B\u0435\u043D \u00AB\u041F\u0430\u0440\u0438 \u0421\u0435\u043D-\u0416\u0435\u0440\u043C\u0435\u043D\u00BB \u0437\u0430 \u00A320 \u043C\u0438\u043B\u043B\u0438\u043E\u043D\u043E\u0432. \u041D\u0435\u0441\u043C\u043E\u0442\u0440\u044F \u043D\u0430 \u0440\u0435\u0433\u0443\u043B\u044F\u0440\u043D\u044B\u0435 \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u044F \u0432 \u041F\u0430\u0440\u0438\u0436\u0435, \u043E\u043D \u0432\u043D\u043E\u0432\u044C \u043E\u0431\u0440\u0430\u0449\u0430\u0435\u0442 \u0441\u0432\u043E\u0451 \u0432\u043D\u0438\u043C\u0430\u043D\u0438\u0435 \u043D\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u0410\u043D\u0433\u043B\u0438\u0438; \u0432 \u044F\u043D\u0432\u0430\u0440\u0435 2002 \u0433\u043E\u0434\u0430 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442 \u043E\u0442\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0432 \u0430\u0440\u0435\u043D\u0434\u0443 \u0432 \u00AB\u041B\u0438\u0432\u0435\u0440\u043F\u0443\u043B\u044C\u00BB, \u0430 \u0432 \u043D\u0430\u0447\u0430\u043B\u0435 \u0441\u0435\u0437\u043E\u043D\u0430 2002/03 \u043F\u0440\u0438\u0441\u043E\u0435\u0434\u0438\u043D\u044F\u0435\u0442\u0441\u044F \u043A \u00AB\u041C\u0430\u043D\u0447\u0435\u0441\u0442\u0435\u0440 \u0421\u0438\u0442\u0438\u00BB, \u0432\u044B\u043A\u0443\u043F\u0438\u0432\u0448\u0438\u043C \u0435\u0433\u043E \u0437\u0430 \u00A313 \u043C\u0438\u043B\u043B\u0438\u043E\u043D\u043E\u0432.\u041F\u043E\u0441\u043B\u0435 \u0442\u0440\u0451\u0445 \u0441\u0435\u0437\u043E\u043D\u043E\u0432 \u0432 \u041C\u0430\u043D\u0447\u0435\u0441\u0442\u0435\u0440\u0435 \u043E\u043D \u043F\u0435\u0440\u0435\u0445\u043E\u0434\u0438\u0442 \u0432 \u00AB\u0424\u0435\u043D\u0435\u0440\u0431\u0430\u0445\u0447\u0435\u00BB \u0438 \u043E\u0442\u044B\u0433\u0440\u044B\u0432\u0430\u0435\u0442 \u0442\u0430\u043C \u043E\u0434\u0438\u043D \u0441\u0435\u0437\u043E\u043D, \u043F\u043E\u0441\u043B\u0435 \u0447\u0435\u0433\u043E \u0441\u043D\u043E\u0432\u0430 \u0432\u043E\u0437\u0432\u0440\u0430\u0449\u0430\u0435\u0442\u0441\u044F \u0432 \u0410\u043D\u0433\u043B\u0438\u044E, \u0447\u0442\u043E\u0431\u044B \u043F\u043E\u0434\u043F\u0438\u0441\u0430\u0442\u044C \u043A\u043E\u043D\u0442\u0440\u0430\u043A\u0442 \u0441 \u00AB\u0411\u043E\u043B\u0442\u043E\u043D \u0423\u043E\u043D\u0434\u0435\u0440\u0435\u0440\u0441\u00BB \u2014 \u0441\u0443\u043C\u043C\u044B \u043F\u0435\u0440\u0435\u0445\u043E\u0434\u043E\u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0438\u043B\u0438 \u0441\u043E\u043E\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043D\u043D\u043E 7 \u043C\u043B\u043D \u0444\u0443\u043D\u0442\u043E\u0432 \u0441\u0442\u0435\u0440\u043B\u0438\u043D\u0433\u043E\u0432 \u0438 8 \u043C\u043B\u043D \u0444\u0443\u043D\u0442\u043E\u0432 \u0441\u0442\u0435\u0440\u043B\u0438\u043D\u0433\u043E\u0432.\u0410\u043D\u0435\u043B\u044C\u043A\u0430 \u0438\u043C\u0435\u0435\u0442 \u0431\u043E\u043B\u044C\u0448\u043E\u0435 \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \u0441\u044B\u0433\u0440\u0430\u043D\u043D\u044B\u0445 \u0438\u0433\u0440 \u0437\u0430 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0443\u044E \u0441\u0431\u043E\u0440\u043D\u0443\u044E. \u041F\u0435\u0440\u0432\u044B\u043C \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u043C \u0442\u0443\u0440\u043D\u0438\u0440\u043E\u043C, \u0432\u044B\u0438\u0433\u0440\u0430\u043D\u043D\u044B\u043C \u0438\u043C, \u0441\u0442\u0430\u043B \u0415\u0432\u0440\u043E 2000. \u041D\u0435\u0440\u0435\u0433\u0443\u043B\u044F\u0440\u043D\u043E\u0441\u0442\u044C \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u0439 \u0437\u0430 \u043E\u0441\u043D\u043E\u0432\u043D\u044B\u0435 \u0441\u043E\u0441\u0442\u0430\u0432\u044B \u0441\u0432\u043E\u0438\u0445 \u043A\u043B\u0443\u0431\u043E\u0432 \u043E\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043B\u044C\u043D\u043E \u0441\u043A\u0430\u0437\u0430\u043B\u0430\u0441\u044C \u0438 \u043D\u0430 \u0447\u0430\u0441\u0442\u043E\u0442\u0435 \u0435\u0433\u043E \u0443\u0447\u0430\u0441\u0442\u0438\u044F \u0432 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0430\u0445, \u043D\u043E \u043E\u043D \u0432\u0435\u0440\u043D\u0443\u043B\u0441\u044F \u0432 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0443\u044E \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u043D\u0430 \u0415\u0432\u0440\u043E 2008.\u0412 2010 \u0433\u043E\u0434\u0443 \u043F\u043E\u043A\u0438\u043D\u0443\u043B \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0438\u0437-\u0437\u0430 \u043A\u043E\u043D\u0444\u043B\u0438\u043A\u0442\u0430 \u0441 \u0442\u0440\u0435\u043D\u0435\u0440\u043E\u043C."@ru ,
+		"Nicolas S\u00E9bastien Anelka (French pronunciation: \u200B[ni.k\u0254.la a.n\u025Bl.ka]; born 14 March 1979) is a French footballer. Prior to his retirement from international football, Anelka was also a regular member of the French national team. Former Chelsea manager Carlo Ancelotti has described him as a quick player with good aerial ability, technique, shooting, and movement off the ball.Anelka began his career at Paris Saint-Germain, but soon moved to Arsenal. He became a first team regular and won the PFA Young Player of the Year Award the following season. Real Madrid signed him for \u00A322.3 million in 1999, but he did not settle in well and returned to Paris Saint-Germain in a \u00A320 million deal. Despite regular first team football in Paris, Anelka set his eyes upon the Premier League once more; he went on loan to Liverpool in January 2002 but joined Manchester City for \u00A313 million at the start of the 2002\u201303 season. After three seasons in Manchester, he moved to Fenerbah\u00E7e for two seasons before returning to England to join Bolton Wanderers \u2013 in deals worth \u00A37 million and \u00A38 million, respectively. He transferred to Chelsea from Bolton for a reported \u00A315 million in January 2008. During his transfers over the years, he has built an aggregate transfer cost of just under \u00A390 million. On 12 December 2011, Shanghai Shenhua announced that they had reached an agreement with Anelka to join the team in the winter transfer window. After one season there, Anelka joined Italian side Juventus on a six-month loan deal in 2013, after which he was released from Shanghai and signed for West Bromwich Albion on a free transfer.Anelka has played 69 times at international level and won his first international honours with France at Euro 2000, and won the Confederations Cup the following year. His failure to settle at club level limited his international appearances, but he returned to the national team for the Euro 2008 competition. On 19 June 2010, Anelka was excluded by the French Football Federation from the 2010 World Cup in South Africa for \"comments directed against the national coach, Raymond Domenech, unacceptable to the FFF, French football, and the principles they uphold.\" Two months later, having failed to turn up to his disciplinary hearing, he was banned for France's next eighteen games by the FFF, effectively ending his international career.Anelka is also known for his controversial relationship with French comedian Dieudonn\u00E9 M'bala M'bala and notably attracted widespread condemnation after performing a hand gesture called the \"quenelle\", created by the latter and regarded by some as anti-Semitic, on the pitch when playing for West Bromwich Albion in 2013. Anelka has responded that the gesture is anti-establishment, not anti-Semitic. An FA disciplinary hearing banned Anelka for five games, but found that he was not anti-Semitic, and had not intended the gesture to express or promote anti-Semitism. After West Bromwich Albion suspended him pending their own investigation, Anelka was given notice of termination of his contract by the club due to the club and player being unable to come to terms over the conditions required for the suspension by the club to be lifted, and comments made by the player on Twitter." ,
+		"\u30CB\u30B3\u30E9\u30FB\u30BB\u30D0\u30B9\u30C6\u30A3\u30A2\u30F3\u30FB\u30A2\u30CD\u30EB\u30AB\uFF08Nicolas Sebastian Anelka, 1979\u5E743\u670814\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u30FB\u30F4\u30A7\u30EB\u30B5\u30A4\u30E6\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9\u3002"@ja ,
+		"Nicolas Anelka (n\u00E9 le 14 mars 1979 au Chesnay dans les Yvelines) est un footballeur international fran\u00E7ais qui \u00E9volue au poste d'attaquant (il fut m\u00EAme entra\u00EEneur-adjoint durant une courte p\u00E9riode).Il quitte le club anglais de West Bromwich Albion, le 14 mars 2014."@fr ,
+		"Nicolas S\u00E9bastien Anelka (* 14. M\u00E4rz 1979 in Le Chesnay bei Versailles) ist ein franz\u00F6sischer Fu\u00DFballspieler. Er war 2012 kurze Zeit Spielertrainer bei Shanghai Shenhua.Der 69-fache Nationalspieler und Europameister von 2000 war in verschiedenen europ\u00E4ischen Topligen bei Spitzenklubs erfolgreich. Zu seiner Titelsammlung geh\u00F6ren aus der Zeit in England zwei Premier-League-Troph\u00E4en (1998 und 2010) und drei FA-Cup-Ausgaben (1998, 2009 und 2010) mit zun\u00E4chst dem FC Arsenal sowie sp\u00E4ter dem FC Chelsea. Dazwischen gewann er 2000 mit Real Madrid die Champions League und f\u00FCnf Jahre darauf mit Fenerbah\u00E7e Istanbul die t\u00FCrkische Meisterschaft. Nach einem kurzen Intermezzo ab 2012 beim chinesischen Klub Shanghai Shenhua mit ersten Erfahrungen als Co-Trainer wechselte der St\u00FCrmer kurz nach dem Jahreswechsel 2012/13 zum sp\u00E4teren italienischen Meister Juventus Turin."@de ,
+		"Nicolas Sebastien Anelka (Le Chesnay, 14 de mar\u00E7o de 1979) \u00E9 um futebolista franc\u00EAs que atua como atacante. Atualmente, n\u00E3o joga por nenhum clube.\u00C9 o segundo jogador que mais movimentou dinheiro no futebol, atr\u00E1s de Zlatan Ibrahimovic: a soma de suas transfer\u00EAncias j\u00E1 somaram 135 milh\u00F5es de euros. Sua ida por 22,5 milh\u00F5es de euros ao seu atual clube o fez ultrapassar os argentinos Hern\u00E1n Crespo (ent\u00E3o quem mais havia movimentado em transfer\u00EAncias, com total de 121 milh\u00F5es de euros) e Juan Sebasti\u00E1n Ver\u00F3n (119 milh\u00F5es) e seu compatriota Zin\u00E9dine Zidane (115 milh\u00F5es). Curiosamente, Crespo e Ver\u00F3n tamb\u00E9m passaram pelo Chelsea em transfer\u00EAncias caras pagas pelo bilion\u00E1rio dono do time, o russo Roman Abramovich.Anelka \u00E9 convertido ao islamismo, onde adotou o nome Abdelsalam Bilal (\u0639\u0628\u062F \u0627\u0644\u0633\u0644\u0627\u0645 \u0628\u0644\u0627\u0644, em \u00E1rabe)."@pt ,
+		"Nicolas S\u00E9bastien Anelka (14 de marzo de 1979, Versalles) es un futbolista franc\u00E9s.Inici\u00F3 su carrera en el Paris Saint-Germain FC, de donde se traslad\u00F3 al Arsenal. Pronto se convirti\u00F3 en uno de los habituales del equipo, imponi\u00E9ndose un a\u00F1o despu\u00E9s en el PFA Young Player of the Year Award. En 1999 el Real Madrid F.C. lo contrat\u00F3 tras abonar 33 millones de euros; no obstante, tras una temporada discreta volvi\u00F3 al Par\u00EDs Saint-Germain a cambio de 33 millones. Aunque era titular indiscutible en el equipo de Par\u00EDs fue cedido al Liverpool en enero de 2002. Tras terminar la temporada el Manchester City lo fich\u00F3 a cambio de 20 millones.Despu\u00E9s de tres temporadas en M\u00E1nchester se traslad\u00F3 al Fenerbah\u00E7e una temporada antes de volver a Inglaterra donde se uni\u00F3 al Bolton Wanderers, en virtud de acuerdos de 7 y 11 millones respectivamente. En enero de 2008 lo fich\u00F3 el Chelsea a cambio de 21 millones.El 12 de diciembre de 2011 el Chelsea anuncia el pase de Anelka al equipo chino del Shangh\u00E1i Shenhua., el que se hace efectivo a partir del 1 de enero de 2012. En enero de 2013 llega cedido a la Juventus de Tur\u00EDn hasta el final de temporada.Ha disputado numerosos encuentros a nivel internacional. Con el combinado franc\u00E9s se ha impuesto en una Eurocopa (2000) y en una Copa Confederaciones (2001). Sus discretos resultados a nivel de clubes limitaron sus actuaciones en encuentros internacionales, aunque volvi\u00F3 a ser convocado en la Eurocopa de 2008.En 2008, los importes de sus numerosos traspasos sumaban 124 millones de euros, la mayor cantidad generada por un futbolista en el mundo hasta aquel momento."@es ,
+		"\u5C3C\u53E4\u62C9\u00B7\u585E\u5DF4\u65AF\u8482\u6602\u00B7\u963F\u5185\u5C14\u5361\uFF08\u6CD5\u8BED\uFF1ANicolas S\u00E9bastien Anelka\uFF0C\u7688\u4F9D\u4F0A\u65AF\u5170\u6559\u540E\u7684\u963F\u62C9\u4F2F\u540D\u300C\u963F\u5E03\u675C\u52D2-\u8428\u62C9\u59C6\u00B7\u6BD4\u62C9\u52D2\u300D\uFF08Abdul-Salam Bilal\uFF09\uFF0C1979\u5E743\u670814\u65E5\uFF0D\uFF09\uFF0C\u6CD5\u56FD\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u53F8\u8077\u524D\u950B\uFF0C\u4ED6\u66FE\u662F\u6CD5\u570B\u570B\u5BB6\u968A\u7684\u4E3B\u529B\u6210\u54E1\uFF0C\u4F46\u57282010\u5E74\u4E16\u754C\u676F\u8DB3\u7403\u8D5B\u671F\u9593\u88AB\u56FD\u5BB6\u961F\u9664\u540D\u3002\u5B89\u6B77\u5361\u662F\u4E00\u540D\u901F\u5EA6\u3001\u6280\u8853\u3001\u5C04\u8853\u90FD\u975E\u5E38\u51FA\u8272\u7684\u7403\u54E1\uFF0C\u66F4\u88AB\u6232\u7A31\u70BA\u300C\u7403\u58C7\u6D6A\u5B50\u300D\uFF0C\u56E0\u70BA\u4ED6\u66FE\u5148\u540E\u6548\u529B\u8FC7\u6CD5\u7532\u7684\u5DF4\u9ECE\u5723\u65E5\u8033\u66FC\u3001\u82F1\u8D85\u7684\u963F\u68EE\u7EB3\u3001\u66FC\u57CE\u3001\u5229\u7269\u6D66\u3001\u5207\u5C14\u897F\uFF0C\u897F\u7532\u7684\u7687\u5BB6\u99AC\u5FB7\u91CC\u53CA\u571F\u8D85\u7684\u8CBB\u502B\u5DF4\u6CBB\u7B49\u591A\u652F\u6B27\u6D32\u8C6A\u95E8\u7403\u961F\u3002\u76F4\u81F32013\u5E747\u6708\uFF0C\u5B89\u6B77\u5361\u5DF2\u7D93\u6548\u529B\u904E11\u9593\u7403\u6703\uFF0C\u7D2F\u7A4D\u8F49\u6703\u8CBB\u63A5\u8FD19000\u842C\u82F1\u938A\u3002 \u3002"@zh ,
+		"\u0646\u064A\u0643\u0648\u0644\u0627 \u0633\u064A\u0628\u0633\u062A\u064A\u0627\u0646 \u0623\u0646\u064A\u0644\u0643\u0627 (\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629: Nicolas Anelka) \u0621 (\u0645\u0648\u0627\u0644\u064A\u062F 14 \u0645\u0627\u0631\u0633 \u0639\u0627\u0645 1979 \u0641\u064A \u0641\u064A\u0631\u0633\u0627\u064A) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0641\u0631\u0646\u0633\u064A \u064A\u0644\u0639\u0628 \u0641\u064A \u062E\u0637 \u0627\u0644\u0647\u062C\u0648\u0645\u060C \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627\u064B \u0645\u0639 \u0646\u0627\u062F\u064A \u0648\u064A\u0633\u062A \u0628\u0631\u0648\u0645\u064A\u062A\u0634 \u0623\u0644\u0628\u064A\u0648\u0646.\u0627\u0639\u062A\u0646\u0642 \u0623\u0646\u064A\u0644\u0643\u0627 \u0627\u0644\u0625\u0633\u0644\u0627\u0645 \u0648\u0623\u062E\u062A\u0627\u0631 \u0644\u0646\u0641\u0633\u0647 \u0627\u0633\u0645 \u0639\u0628\u062F \u0627\u0644\u0633\u0644\u0627\u0645 \u0628\u0644\u0627\u0644.\u0628\u062F\u0623 \u0645\u0634\u0648\u0627\u0631\u0647 \u0645\u0639 \u0646\u0627\u062F\u064A \u0628\u0627\u0631\u064A\u0633 \u0633\u0627\u0646 \u062C\u064A\u0631\u0645\u0627\u0646 \u062B\u0645 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0623\u0631\u0633\u0646\u0627\u0644 \u0628\u0645\u0628\u0644\u063A \u0646\u0635\u0641 \u0645\u0644\u064A\u0648\u0646 \u062F\u0648\u0644\u0627\u0631 \u062B\u0645 \u0627\u0646\u062A\u0642\u0644 \u0627\u0644\u064A \u0641\u0631\u064A\u0642 \u0631\u064A\u0627\u0644 \u0645\u062F\u0631\u064A\u062F \u0627\u0644\u0623\u0633\u0628\u0627\u0646\u064A \u0628\u0645\u0628\u0644\u063A 32 \u0645\u0644\u064A\u0648\u0646 \u062F\u0648\u0644\u0627\u0631 \u0648\u0643\u0627\u0646 \u0645\u0646 \u0623\u0643\u0628\u0631 \u0627\u0644\u0635\u0641\u0642\u0627\u062A \u0641\u064A \u0630\u0627\u0644\u0643 \u0627\u0644\u0648\u0642\u062A \u0648\u0644\u0643\u0646 \u0628\u0639\u062F \u0627\u0639\u062A\u0646\u0627\u0642\u0629 \u0627\u0644\u0625\u0633\u0644\u0627\u0645 \u0641\u064A \u0641\u0631\u064A\u0642 \u0631\u064A\u0627\u0644 \u0645\u062F\u0631\u064A\u062F \u0627\u0646\u062A\u0642\u0644 \u0627\u0644\u064A \u0628\u0627\u0631\u064A\u0633 \u0633\u0627\u0646 \u062C\u0631\u0645\u0627\u0646 \u0648\u0628\u0639\u062F\u0647\u0627 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0644\u064A\u0641\u0631\u0628\u0648\u0644 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A \u0645\u0639\u0627\u0631\u0627\u064B \u0644\u0645\u062F\u0629 \u0639\u0627\u0645 \u0648\u0628\u0639\u062F\u0647\u0627 \u0627\u0644\u064A \u0641\u0631\u064A\u0642 \u0645\u0627\u0646\u0634\u0633\u062A\u0631 \u0633\u064A\u062A\u064A \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A \u0648\u0628\u0639\u062F\u0647\u0627 \u0627\u0644\u064A \u0641\u0646\u0631\u0628\u062E\u0634\u0647 \u0627\u0644\u062A\u0631\u0643\u064A \u0648\u0647\u0646\u0627\u0643 \u0648\u0632\u062F\u0627\u062F \u062A\u0639\u0644\u0642\u0647 \u0641\u064A \u0627\u0644\u0625\u0633\u0644\u0627\u0645 \u0648\u0641\u064A \u0639\u0627\u0645 2006 \u0627\u0646\u062A\u0642\u0644 \u0627\u0644\u064A \u0641\u0631\u064A\u0642 \u0628\u0648\u0644\u062A\u0648\u0646 \u0648\u0627\u0646\u062F\u0631\u0631\u0632 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A. \u0648\u0641\u064A \u0641\u062A\u0631\u0629 \u0627\u0644\u0627\u0646\u062A\u0642\u0627\u0644\u0627\u062A \u0627\u0644\u0634\u062A\u0648\u064A\u0629 \u0628\u062F\u0627\u064A\u0629 \u0639\u0627\u0645 2008 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u062A\u0634\u0644\u0633\u064A.\u0628\u062F\u0621 \u0623\u0646\u064A\u0644\u0643\u0627 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0634\u0628\u0627\u0628 \u0646\u0627\u062F\u064A \u0628\u0627\u0631\u064A\u0633 \u0633\u0627\u0646 \u062C\u064A\u0631\u0645\u0627\u0646 \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0648\u0641\u064A \u0641\u0628\u0631\u0627\u064A\u0631 \u0645\u0646 \u0639\u0627\u0645 1997\u0645 \u0623\u0646\u062A\u0642\u0644 \u0628\u0644\u0627\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0627\u0644\u0622\u0631\u0633\u0646\u0627\u0644 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A \u0648\u0647\u0648 \u0644\u0645 \u064A\u062A\u062C\u0627\u0648\u0632 \u0627\u0644\u0640 17 \u0645\u0646 \u0639\u0645\u0631\u0647 \u0644\u064A\u0639\u0645\u0644 \u062A\u062D\u062A \u0642\u064A\u0627\u062F\u0629 \u0627\u0644\u062E\u0628\u064A\u0631 \u0622\u0631\u0633\u064A\u0646 \u0641\u064A\u0646\u062C\u0631 \u0648\u0623\u0633\u062A\u0637\u0627\u0639 \u0623\u0646\u064A\u0644\u0643\u0627 \u0645\u0646 \u0625\u062D\u0631\u0627\u0632 \u0623\u0648\u0644 \u0623\u0647\u062F\u0627\u0641\u0647 \u0645\u0639 \u0627\u0644\u0645\u062F\u0641\u0639\u062C\u064A\u0647 \u0636\u062F \u0646\u0627\u062F\u064A \u0645\u0627\u0646\u0634\u0633\u062A\u0631 \u064A\u0648\u0646\u0627\u064A\u062A\u062F \u0644\u064A\u0633\u0627\u0639\u062F \u0641\u0631\u064A\u0642\u0647 \u0641\u064A \u062A\u062D\u0642\u0642 \u0627\u0644\u0627\u0646\u062A\u0635\u0627\u0631 3-2.. \u062E\u0644\u0627\u0644 \u0623\u0648\u0644 \u0645\u0648\u0633\u0645 \u0644\u0647 \u0645\u0639 \u0641\u0631\u064A\u0642 \u0627\u0644\u0622\u0631\u0633\u0646\u0627\u0644 \u0643\u0627\u0646\u062A \u0645\u0634\u0627\u0631\u0643\u0627\u062A\u0647 \u0645\u062D\u062F\u0648\u062F\u0629 \u062C\u062F\u0627\u064B\u060C \u0648\u0644\u0643\u0646 \u0641\u064A \u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u0630\u064A \u064A\u0644\u064A\u0647 1997 - 1998\u0645 \u0648\u0628\u0639\u062F \u0627\u0644\u0625\u0635\u0627\u0628\u0629 \u0627\u0644\u0642\u0648\u064A\u0629 \u0627\u0644\u062A\u064A \u062A\u0639\u0631\u0636 \u0644\u0647\u0627 \u0645\u0647\u0627\u062C\u0645 \u0627\u0644\u0641\u0631\u064A\u0642 \u0627\u0644\u0623\u0648\u0644 \u0623\u064A\u0627\u0646 \u0631\u0627\u064A\u062A\u060C \u0623\u0635\u0628\u062D \u0628\u0644\u0627\u0644 \u0647\u0648 \u0645\u0647\u0627\u062C\u0645 \u0627\u0644\u0641\u0631\u064A\u0642 \u0627\u0644\u0623\u0648\u0644 \u0648\u0633\u0627\u0647\u0645 \u0628\u0625\u062D\u0631\u0627\u0632 \u0641\u0631\u064A\u0642\u0647 \u0644\u062B\u0646\u0627\u0626\u064A\u0629 \u0627\u0644\u0645\u0648\u0633\u0645 \u0639\u0646\u062F\u0645\u0627 \u062A\u0645\u0643\u0646 \u0627\u0644\u0645\u062F\u0641\u0639\u062C\u064A\u0629 \u0645\u0646 \u0625\u062D\u0631\u0627\u0632 \u0644\u0642\u0628 \u0627\u0644\u062F\u0648\u0631\u064A \u0648\u0627\u0644\u0643\u0623\u0633\u060C \u0623\u062D\u0631\u0632 \u0628\u0644\u0627\u0644 \u0623\u062D\u062F \u0623\u0647\u062F\u0627\u0641 \u0646\u0647\u0627\u0626\u064A \u0643\u0623\u0633 \u0627\u0644\u0623\u062A\u062D\u0627\u062F \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A \u0623\u0645\u0627\u0645 \u0646\u0627\u062F\u064A \u0646\u064A\u0648\u0643\u0627\u0633\u0644.\u0648\u0645\u0639 \u062A\u0642\u062F\u064A\u0645 \u0627\u0644\u0627\u0639\u0628 \u0644\u0645\u0633\u062A\u0648\u0649 \u0645\u062A\u0645\u064A\u0632 \u062D\u0635\u0644 \u0623\u0646\u064A\u0644\u0643\u0627 \u0639\u0644\u0649 \u062C\u0627\u0626\u0632\u0629 \u0623\u0641\u0636\u0644 \u0627\u0644\u0645\u0648\u0627\u0647\u0628 \u0628\u0627\u0644\u0643\u0631\u0629 \u0627\u0644\u0623\u0646\u062C\u0644\u064A\u0632\u064A\u0629 \u0644\u0639\u0627\u0645 1999\u0645\u060C \u0648\u0641\u064A \u0646\u0641\u0633 \u0627\u0644\u0639\u0627\u0645 \u0642\u062F\u0645 \u0627\u0644\u0641\u0631\u064A\u0642 \u0627\u0644\u0645\u0644\u0643\u064A \u0627\u0644\u0623\u0633\u0628\u0627\u0646\u064A \u0627\u0644\u0631\u064A\u0627\u0644 \u0645\u062F\u0631\u064A\u062F \u0639\u0631\u0636\u0627\u064B \u064A\u0642\u062F\u0631 \u0628\u0640 23 \u0645\u0644\u064A\u0648\u0646 \u062C\u0646\u064A\u0647 \u0623\u0633\u062A\u0631\u0644\u064A\u0646\u064A \u0644\u0636\u0645 \u0628\u0644\u0627\u0644 \u0625\u0644\u0649 \u0635\u0641\u0648\u0641\u0647\u060C \u0644\u0645 \u064A\u062A\u0645\u0643\u0646 \u0627\u0644\u0644\u0627\u0639\u0628 \u0648\u0644\u0627 \u062D\u062A\u0649 \u0627\u0644\u0622\u0631\u0633\u0646\u0627\u0644 \u0645\u0646 \u0631\u0641\u0636\u0647.. \u0623\u0646\u0636\u0645 \u0623\u0646\u064A\u0644\u0643\u0627 \u0644\u0644\u0631\u064A\u0627\u0644 \u0648\u0623\u0633\u062A\u0637\u0627\u0639 \u062E\u0644\u0627\u0644 \u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u0648\u062D\u064A\u062F \u0627\u0644\u0630\u064A \u0645\u062B\u0644 \u0627\u0644\u0631\u064A\u0627\u0644 \u0641\u064A\u0647 \u0645\u0646 \u0625\u062D\u0631\u0627\u0632 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0623\u0628\u0637\u0627\u0644 \u0627\u0644\u0623\u0648\u0631\u0628\u064A\u0647\u060C \u062A\u0645\u0643\u0646 \u0628\u0644\u0627\u0644 \u0645\u0646 \u0625\u062D\u0631\u0627\u0632 \u0623\u062D\u062F \u0623\u0647\u062F\u0627\u0641 \u0646\u0647\u0627\u0626\u064A \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 \u0641\u064A \u0627\u0644\u0639\u0627\u0645 2000\u0645 \u0636\u062F \u0641\u0631\u064A\u0642 \u0641\u0627\u0644\u0646\u0633\u064A\u0627 \u0648\u0627\u0644\u062A\u064A \u0627\u0646\u062A\u0647\u0649 3-0 \u0644\u0645\u0635\u062D\u0644\u0629 \u0627\u0644\u0631\u064A\u0627\u0644.\u0648\u0628\u0639\u062F 12 \u0634\u0647\u0631\u0627\u064B \u0642\u0636\u0627\u0647\u0627 \u0623\u0646\u064A\u0644\u0643\u0627 \u0641\u064A \u0627\u0644\u0628\u0631\u0646\u0627\u0628\u0648 \u0639\u0627\u062F \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0645\u0631\u0647 \u0623\u062E\u0631\u0649 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0628\u0627\u0631\u064A\u0633 \u0633\u0627\u0646 \u062C\u064A\u0631\u0645\u0627\u0646\u060C \u062A\u0645\u0643\u0646 \u0645\u0646 \u0625\u062D\u0631\u0627\u0632 18 \u0647\u062F\u0641\u0627\u064B \u062E\u0644\u0627\u0644 18 \u0634\u0647\u0631\u0627\u064B \u0642\u0636\u0627\u0647\u0627 \u0645\u0639 \u0627\u0644\u0646\u0627\u062F\u064A \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0642\u0628\u0644 \u0623\u0646 \u064A\u0639\u0627\u0631 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0644\u064A\u0641\u0631\u0628\u0648\u0644 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0644\u0645 \u064A\u0633\u062A\u0645\u0631 \u0628\u0644\u0627\u0644 \u0637\u0648\u064A\u0644\u0627\u064B \u0645\u0639 \u0627\u0644\u0644\u064A\u0641\u0631 \u0641\u0642\u062F \u0623\u0646\u062A\u0642\u0644 \u0628\u0634\u0643\u0644 \u0646\u0647\u0627\u0626\u064A \u0625\u0644\u0649 \u0641\u0631\u064A\u0642 \u0645\u0627\u0646\u0634\u0633\u062A\u0631 \u0633\u064A\u062A\u064A \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A \u0644\u064A\u062C\u062F \u0637\u0631\u064A\u0642\u0647 \u0625\u0644\u0649 \u0647\u0632 \u0627\u0644\u0634\u0628\u0627\u0643 \u0648\u064A\u062A\u0645\u0643\u0646 \u0645\u0646 \u0625\u062D\u0631\u0627\u0632 46 \u0647\u062F\u0641\u0627\u064B \u062E\u0644\u0627\u0644 \u0627\u0644\u0633\u0646\u062A\u064A\u0646 \u0648\u0627\u0644\u0646\u0635\u0641 \u0627\u0644\u062A\u064A \u0642\u0636\u0627\u0647\u0627 \u0645\u0639 \u0627\u0644\u0646\u0627\u062F\u064A. \u0648\u0645\u0639 \u0645\u0631\u0648\u0631 \u0627\u0644\u0648\u0642\u062A \u0623\u0646\u0636\u0645 \u0628\u0644\u0627\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0622\u062E\u0631 \u0648\u0647\u0648 \u0641\u0646\u0631\u0628\u062E\u0634\u0647 \u0627\u0644\u062A\u0631\u0643\u064A \u0641\u064A \u0639\u0627\u0645 2005\u0645 \u062D\u064A\u062B \u062D\u0642\u0642 \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0627\u0644\u0646\u062C\u0627\u062D \u0641\u064A \u0628\u0644\u0627\u062F \u0627\u0644\u0623\u062A\u0631\u0627\u0643\u060C \u0643\u0627\u0646 \u0645\u0639\u062F\u0644 \u0623\u0647\u062F\u0627\u0641\u0647 \u0647\u0648 \u0647\u062F\u0641 \u0648\u0627\u062D\u062F \u0643\u0644 \u062B\u0644\u0627\u062B \u0645\u0628\u0627\u0631\u064A\u0627\u062A \u0648\u0643\u0627\u0646 \u0630\u0644\u0643 \u0627\u0644\u0645\u0639\u062F\u0644 \u0643\u0627\u0641\u064A\u0627\u064B \u0641\u064A \u0623\u0646 \u064A\u0642\u062F\u0645 \u0633\u0627\u0645 \u0627\u0644\u0627\u0631\u062F\u064A\u0633 \u0645\u062F\u0631\u0628 \u0628\u0648\u0644\u062A\u0648\u0646 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A \u0639\u0631\u0636\u0627\u064B \u0625\u0644\u0649 \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0628\u0644\u0627\u0644 \u0648\u0642\u062F \u0646\u062C\u062D \u0641\u064A \u0627\u0644\u062A\u0639\u0627\u0642\u062F \u0645\u0639\u0647 \u0641\u064A \u0627\u0644\u0639\u0627\u0645 2006\u0645.\u0623\u0636\u0637\u0631 \u0646\u0627\u062F\u064A \u062A\u0634\u0644\u0633\u064A \u0644\u0644\u0628\u062D\u062B \u0639\u0646 \u0645\u0647\u0627\u062C\u0645 \u064A\u062E\u0644\u0641 \u0627\u0644\u0641\u064A\u0644 \u0627\u0644\u0625\u064A\u0641\u0648\u0627\u0631\u064A \u062F\u064A\u062F\u064A\u0647 \u062F\u0631\u0648\u063A\u0628\u0627 \u062E\u0644\u0627\u0644 \u0645\u0634\u0627\u0631\u0643\u062A\u0647 \u0641\u064A \u0627\u0644\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0623\u0641\u0631\u064A\u0642\u064A\u0629 \u0648\u0643\u0627\u0646 \u0628\u0644\u0627\u0644 \u0623\u0641\u0636\u0644 \u0627\u0644\u062E\u064A\u0627\u0631\u0627\u062A \u0627\u0644\u0645\u062A\u0627\u062D\u0629 \u0644\u0625\u062F\u0627\u0631\u0629 \u0627\u0644\u0628\u0644\u0648\u0632\u060C \u0648\u062A\u0645 \u0628\u0627\u0644\u0641\u0639\u0644 \u0627\u0644\u062A\u0639\u0627\u0642\u062F \u0645\u0639\u0647 \u0644\u064A\u0646\u0636\u0645 \u0625\u0644\u0649 \u0643\u062A\u064A\u0628\u0629 \u0623\u0633\u0648\u062F \u0644\u0646\u062F\u0646\u060C \u0623\u062D\u0631\u0632 \u0623\u0648\u0644 \u0623\u0647\u062F\u0627\u0641\u0647 \u0645\u0639 \u062A\u0634\u0644\u0633\u064A \u0641\u064A \u062B\u0644\u0627\u062B \u062D\u0636\u0648\u0631 \u0644\u0647 \u0641\u064A \u0645\u0628\u0627\u0631\u0627\u0629 \u062A\u0634\u0644\u0633\u064A \u0636\u062F \u0646\u0627\u062F\u064A \u0648\u064A\u062C\u0627\u0646 \u0636\u0645\u0646 \u0645\u0628\u0627\u0631\u064A\u0627\u062A \u0643\u0623\u0633 \u0627\u0644\u0625\u062A\u062D\u0627\u062F \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0634\u0627\u0631\u0643 \u0641\u064A \u0646\u0647\u0627\u0626\u064A \u0645\u0648\u0633\u0643\u0648 \u0643\u0628\u062F\u064A\u0644 \u0623\u0645\u0627\u0645 \u0646\u0627\u062F\u064A \u0645\u0627\u0646\u0634\u0633\u062A\u0631 \u064A\u0648\u0646\u0627\u064A\u062A\u062F \u0648\u0644\u0633\u0648\u0621 \u0627\u0644\u062D\u0638 \u0623\u0636\u0627\u0639 \u0631\u0643\u0644\u0629 \u062A\u0631\u062C\u064A\u062D\u0629 \u0623\u0647\u062F\u062A \u0627\u0644\u0644\u0642\u0628 \u0627\u0644\u0623\u0648\u0631\u0628\u064A \u0644\u0644\u0634\u064A\u0627\u0637\u064A\u0646 \u0627\u0644\u062D\u0645\u0631.. \u0648\u064A\u0637\u0645\u062D \u0628\u0644\u0627\u0644 \u0628\u0623\u0646 \u064A\u0643\u0648\u0646 \u0646\u0627\u062F\u064A \u062A\u0634\u0644\u0633\u064A \u0647\u0648 \u0622\u062E\u0631 \u0645\u062D\u0637\u0647 \u0644\u0647 \u0641\u064A \u0645\u0634\u0648\u0627\u0631\u0647 \u0627\u0644\u0643\u0631\u0648\u064A \u0628\u0639\u062F\u0645\u0627 \u062A\u0646\u0642\u0644 \u0643\u062B\u064A\u0631\u0627\u064B \u0628\u064A\u0646 \u0645\u062E\u062A\u0644\u0641 \u0623\u0646\u062F\u064A\u0629 \u0627\u0644\u0642\u0627\u0631\u0629 \u0627\u0644\u0639\u062C\u0648\u0632.. \u0648\u0639\u0644\u0649 \u0635\u0639\u064A\u062F \u0645\u0646\u062A\u062E\u0628 \u0628\u0644\u0627\u062F\u0647 \u0641\u0642\u062F \u0634\u0627\u0631\u0643 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0641\u0631\u0646\u0633\u0627 \u062A\u062D\u062A 20 \u0639\u0627\u0645 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 1997\u0645\u060C \u0648\u0639\u0644\u0649 \u0635\u0639\u064A\u062F \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0623\u0648\u0644 \u0641\u0642\u062F \u0633\u0627\u0647\u0645 \u0641\u064A \u0639\u0628\u0648\u0631 \u0641\u0631\u0646\u0633\u0627 \u0644\u0644\u062A\u0635\u0641\u064A\u0627\u062A \u0627\u0644\u0623\u0648\u0631\u0628\u064A\u0647 \u0646\u062D\u0648 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0628\u064A\u0629 2008\u0645\u060C \u0648\u0634\u0627\u0631\u0643 \u0623\u064A\u0636\u0627\u064B \u0645\u0646\u062A\u062E\u0628 \u0628\u0644\u0627\u062F\u0647 \u0641\u064A \u0627\u0644\u064A\u0648\u0631\u0648 2008\u0645.\u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"Nicolas S\u00E9bastien Anelka (Le Chesnay, 14 marzo 1979) \u00E8 un calciatore francese, attaccante dell'Atl\u00E9tico Mineiro.\u00C8 stato campione d'Europa nel 2000 con la Nazionale francese."@it ;
+	dbpedia-owl:wikiPageID	1053227 ;
+	dbpedia-owl:wikiPageRevisionID	606436446 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Nicolas_Anelka	dbpprop:birthDate	"1979-03-14+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Le Chesnay, France" ;
+	dbpprop:dateOfBirth	"1979-03-14+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Versailles, France" ;
+	dbpprop:shortDescription	"Footballer" ;
+	dbpedia-owl:birthDate	"1979-03-14+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	<http://dbpedia.org/resource/Versailles_(city)> ,
+		dbpedia:France_national_football_team ,
+		dbpedia:Le_Chesnay ;
+	dbpedia-owl:birthYear	"1979+02:00"^^xsd:gYear ;
+	dbpprop:goals	14 ,
+		10 ,
+		4 ,
+		2 ,
+		3 ,
+		0 ,
+		1 ,
+		23 ,
+		21 ,
+		38 ,
+		37 ;
+	dbpprop:bg	"#0055A4" ,
+		"gold" ;
+	dbpedia-owl:managerClub	<http://dbpedia.org/resource/Shanghai_Greenland_F.C.> ;
+	dbpprop:id	10409 ;
+	dbpprop:manageryears	2012 ;
+	dbpprop:caps	53 ,
+		10 ,
+		11 ,
+		2 ,
+		20 ,
+		22 ,
+		19 ,
+		125 ,
+		65 ,
+		89 ,
+		39 ;
+	dbpprop:managerclubs	<http://dbpedia.org/resource/Shanghai_Greenland_F.C.> ;
+	dbpprop:years	2008 ,
+		2012 ,
+		2013 ,
+		2002 ,
+		2000 ,
+		2001 ,
+		2006 ,
+		2005 ,
+		1999 ,
+		1996 ,
+		1997 ;
+	dbpprop:youthclubs	<http://dbpedia.org/resource/Paris_Saint-Germain_F.C.> ,
+		dbpedia:Clairefontaine ,
+		"Trappes Saint-Quentin" ;
+	dbpedia-owl:careerStation	dbpedia:Nicolas_Anelka__1 ,
+		dbpedia:Nicolas_Anelka__2 ,
+		dbpedia:Nicolas_Anelka__10 ,
+		dbpedia:Nicolas_Anelka__15 ,
+		dbpedia:Nicolas_Anelka__13 ,
+		dbpedia:Nicolas_Anelka__18 ,
+		dbpedia:Nicolas_Anelka__16 ,
+		dbpedia:Nicolas_Anelka__14 ,
+		dbpedia:Nicolas_Anelka__17 ,
+		dbpedia:Nicolas_Anelka__3 ,
+		dbpedia:Nicolas_Anelka__4 ,
+		dbpedia:Nicolas_Anelka__7 ,
+		dbpedia:Nicolas_Anelka__6 ,
+		dbpedia:Nicolas_Anelka__12 ,
+		dbpedia:Nicolas_Anelka__8 ,
+		dbpedia:Nicolas_Anelka__9 ,
+		dbpedia:Nicolas_Anelka__11 ,
+		dbpedia:Nicolas_Anelka__5 ;
+	dbpprop:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:height	1.8500000000000000888 .
+@prefix ns75:	<http://dbpedia.org/datatype/> .
+@prefix ns76:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Nicolas_Anelka	ns76:height	"185.0"^^ns75:centimetre ;
+	dbpprop:fullname	"Nicolas S\u00E9bastien Anelka" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/Real_Madrid_C.F.> ,
+		<http://dbpedia.org/resource/Manchester_City_F.C.> ,
+		"\u2192 Liverpool" ,
+		<http://dbpedia.org/resource/Chelsea_F.C.> ,
+		<http://dbpedia.org/resource/Bolton_Wanderers_F.C.> ,
+		<http://dbpedia.org/resource/West_Bromwich_Albion_F.C.> ,
+		"\u2192 Juventus" ,
+		<http://dbpedia.org/resource/Arsenal_F.C.> ,
+		<http://dbpedia.org/resource/Paris_Saint-Germain_F.C.> ,
+		<http://dbpedia.org/resource/Shanghai_Greenland_F.C.> ,
+		<http://dbpedia.org/resource/Fenerbah%C3%A7e_S.K._(football)> ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/Real_Madrid_C.F.> ,
+		<http://dbpedia.org/resource/Manchester_City_F.C.> ,
+		<http://dbpedia.org/resource/Liverpool_F.C.> ,
+		<http://dbpedia.org/resource/Chelsea_F.C.> ,
+		<http://dbpedia.org/resource/Bolton_Wanderers_F.C.> ,
+		dbpedia:France_national_football_team ,
+		<http://dbpedia.org/resource/Arsenal_F.C.> ,
+		dbpedia:France_national_under-20_football_team ,
+		<http://dbpedia.org/resource/Paris_Saint-Germain_F.C.> ,
+		<http://dbpedia.org/resource/Shanghai_Greenland_F.C.> ,
+		<http://dbpedia.org/resource/Fenerbah%C3%A7e_S.K._(football)> ,
+		dbpedia:Clairefontaine ;
+	dbpprop:expiry	"2014-04-22+02:00"^^xsd:date ;
+	dbpprop:small	"yes" .
+@prefix ns77:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Nicolas_Anelka	dbpprop:wordnet_type	ns77:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Awards" ,
+		"France squads" ;
+	dbpprop:youthyears	1995 ,
+		1983 ,
+		1993 .
+@prefix ns78:	<http://www.premierleague.com/en-gb/players/profile.overview.html/> .
+dbpedia:Nicolas_Anelka	dbpedia-owl:wikiPageExternalLink	ns78:nicolas-anelka ,
+		<http://www.fff.fr/servfff/historique/historique.php?cherche_joueur=Anelka> ;
+	dbpprop:clubUpdate	"2014-01-10+02:00"^^xsd:date ;
+	dbpprop:bordercolor	"navy" ,
+		"#EF4135" ;
+	dbpprop:fg	"navy" ,
+		"#FFFFFF" ;
+	dbpprop:nationalcaps	3 ,
+		69 ;
+	dbpprop:nationalgoals	0 ,
+		14 ;
+	dbpprop:nationalteam	dbpedia:France_national_football_team ,
+		dbpedia:France_national_under-20_football_team ;
+	dbpprop:nationalyears	1997 ,
+		1998 ;
+	dbpedia-owl:alias	"Anelka, Nicolas S\u00E9bastien" ;
+	dbpprop:alternativeNames	"Anelka, Nicolas S\u00E9bastien" .
+ns35:نيكولا_أنيلكا	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns41:Nikolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns40:Нікаля_Анэлька	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns28:Никола_Анелка	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns33:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns30:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns49:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns53:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns42:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns46:نیکولا_آنلکا	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns44:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns29:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns64:ניקולא_אנלקה	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns62:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns24:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns50:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns51:ნიკოლა_ანელკა	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns47:Николас_Анелька	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns39:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns37:Nikolā_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns27:Николас_Анелка	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns25:निकोलस_अनेल्का	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns32:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns59:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns63:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns38:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns45:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns43:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+<http://ru.dbpedia.org/resource/\u0410\u043D\u0435\u043B\u044C\u043A\u0430,_\u041D\u0438\u043A\u043E\u043B\u044F>	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns61:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns58:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns65:Никола_Анелка	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns52:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns56:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns54:นีกอลา_อาแนลกา	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns31:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns36:Ніколя_Анелька	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns26:نیکولا_آنلکا	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns66:Nicolas_Anelka	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns57:尼古拉·阿内尔卡	owl:sameAs	dbpedia:Nicolas_Anelka .
+ns60:安歷卡	owl:sameAs	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2012_Shanghai_Shenhua_F.C._season>	dbpprop:name	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2013_Shanghai_Shenhua_F.C._season>	dbpprop:name	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2001%E2%80%9302_Paris_Saint-Germain_F.C._season>	dbpprop:name	dbpedia:Nicolas_Anelka .
+dbpedia:List_of_Chinese_football_transfers_winter_2013	dbpprop:name	dbpedia:Nicolas_Anelka ;
+	dbpedia-owl:currentMember	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2010%E2%80%9311_Chelsea_F.C._season>	dbpprop:name	dbpedia:Nicolas_Anelka ;
+	dbpprop:seasonTopscorer	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2007%E2%80%9308_Chelsea_F.C._season>	dbpprop:name	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2008%E2%80%9309_Chelsea_F.C._season>	dbpprop:name	dbpedia:Nicolas_Anelka ;
+	dbpprop:leagueTopscorer	dbpedia:Nicolas_Anelka ;
+	dbpprop:seasonTopscorer	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2012%E2%80%9313_Juventus_F.C._season>	dbpprop:p	dbpedia:Nicolas_Anelka .
+dbpedia:UEFA_Euro_2008_squads	dbpprop:name	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2003%E2%80%9304_Manchester_City_F.C._season>	dbpprop:name	dbpedia:Nicolas_Anelka ;
+	dbpedia-owl:currentMember	dbpedia:Nicolas_Anelka ;
+	dbpprop:p	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/1999%E2%80%932000_Real_Madrid_C.F._season>	dbpprop:p	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/1998%E2%80%9399_Arsenal_F.C._season>	dbpprop:leagueTopscorer	dbpedia:Nicolas_Anelka ;
+	dbpprop:seasonTopscorer	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/1995%E2%80%9396_Paris_Saint-Germain_F.C._season>	dbpprop:name	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2010%E2%80%9311_Chelsea_F.C._season__icolas_Anelka__1>	dbpedia-owl:currentMember	dbpedia:Nicolas_Anelka .
+dbpedia:List_of_Chinese_football_transfers_winter_2012	dbpprop:name	dbpedia:Nicolas_Anelka ;
+	dbpedia-owl:currentMember	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2000_FIFA_Club_World_Championship_squads>	dbpprop:name	dbpedia:Nicolas_Anelka ;
+	dbpedia-owl:currentMember	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2008%E2%80%9309_Premier_League>	dbpprop:leagueTopscorer	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2008%E2%80%9309_FA_Cup>	dbpprop:topGoalScorer	dbpedia:Nicolas_Anelka .
+dbpedia:Anelka	dbpedia-owl:wikiPageDisambiguates	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2009%E2%80%9310_Chelsea_F.C._season>	dbpprop:name	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2002%E2%80%9303_Manchester_City_F.C._season>	dbpprop:name	dbpedia:Nicolas_Anelka ;
+	dbpedia-owl:currentMember	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2004%E2%80%9305_Manchester_City_F.C._season>	dbpprop:name	dbpedia:Nicolas_Anelka ;
+	dbpedia-owl:currentMember	dbpedia:Nicolas_Anelka ;
+	dbpprop:p	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/History_of_Real_Madrid_C.F.>	dbpprop:lcf	dbpedia:Nicolas_Anelka .
+dbpedia:UEFA_Euro_2000_squads	dbpprop:name	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2006%E2%80%9307_Bolton_Wanderers_F.C._season>	dbpprop:name	dbpedia:Nicolas_Anelka ;
+	dbpprop:leagueTopscorer	dbpedia:Nicolas_Anelka ;
+	dbpprop:seasonTopscorer	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2007%E2%80%9308_Bolton_Wanderers_F.C._season>	dbpprop:leagueTopscorer	dbpedia:Nicolas_Anelka ;
+	dbpprop:seasonTopscorer	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2001%E2%80%9302_Liverpool_F.C._season__icolas_Anelka__1>	dbpedia-owl:currentMember	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2007%E2%80%9308_Chelsea_F.C._season__icolas_Anelka__1>	dbpedia-owl:currentMember	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/1995%E2%80%9396_Paris_Saint-Germain_F.C._season__icolas_Anelka__1>	dbpedia-owl:currentMember	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2006%E2%80%9307_Bolton_Wanderers_F.C._season__icolas_Anelka__1>	dbpedia-owl:currentMember	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2008%E2%80%9309_Chelsea_F.C._season__icolas_Anelka__1>	dbpedia-owl:currentMember	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2008%E2%80%9309_Chelsea_F.C._season__icolas_Anelka__2>	dbpedia-owl:currentMember	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2012_Shanghai_Shenhua_F.C._season__icolas_Anelka__1>	dbpedia-owl:currentMember	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2012_Shanghai_Shenhua_F.C._season__icolas_Anelka__2>	dbpedia-owl:currentMember	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2013_Shanghai_Shenhua_F.C._season__icolas_Anelka__1>	dbpedia-owl:currentMember	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2001%E2%80%9302_Paris_Saint-Germain_F.C._season__icolas_Anelka__1>	dbpedia-owl:currentMember	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2009%E2%80%9310_Chelsea_F.C._season__icolas_Anelka__1>	dbpedia-owl:currentMember	dbpedia:Nicolas_Anelka .
+<http://dbpedia.org/resource/2009%E2%80%9310_Chelsea_F.C._season__icolas_Anelka__2>	dbpedia-owl:currentMember	dbpedia:Nicolas_Anelka .
+dbpedia:Abdul-Salam_Bilal	dbpedia-owl:wikiPageRedirects	dbpedia:Nicolas_Anelka .
+dbpedia:Le_Sulk	dbpedia-owl:wikiPageRedirects	dbpedia:Nicolas_Anelka .
+dbpedia:Nic_Anelka	dbpedia-owl:wikiPageRedirects	dbpedia:Nicolas_Anelka .
+dbpedia:Nicholas_Anelka	dbpedia-owl:wikiPageRedirects	dbpedia:Nicolas_Anelka .

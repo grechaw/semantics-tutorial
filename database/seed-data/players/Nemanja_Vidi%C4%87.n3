@@ -1,0 +1,260 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Nemanja_Vidić	foaf:primaryTopic	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2011_MLS_All-Star_Game>	dbpprop:name	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Nemanja_Vidi%C4%87>	rdf:type	yago:RedStarBelgradeFootballers ,
+		<http://dbpedia.org/class/yago/ManchesterUnitedF.C.Players> ,
+		foaf:Person ,
+		yago:Preserver110466918 .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Nemanja_Vidi%C4%87>	rdf:type	dbpedia-owl:Agent ,
+		dbpedia-owl:Person ,
+		yago:Defender109614684 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		<http://dbpedia.org/class/yago/PeopleFromU%C5%BEice> ,
+		yago:FCSpartakMoscowPlayers ,
+		yago:FKSpartakSuboticaPlayers ,
+		yago:AssociationFootballCentralDefenders .
+@prefix ns6:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Nemanja_Vidi%C4%87>	rdf:type	ns6:SoccerPlayer ,
+		dbpedia-owl:Athlete ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:ExpatriateFootballersInRussia ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:PhysicalEntity100001930 ,
+		yago:Organism100004475 ,
+		<http://dbpedia.org/class/yago/2006FIFAWorldCupPlayers> ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		yago:Contestant109613191 ,
+		yago:LivingPeople ,
+		yago:SerbiaInternationalFootballers .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Nemanja_Vidi%C4%87>	rdf:type	dul:NaturalPerson ,
+		yago:SerbianFootballers .
+@prefix ns8:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Nemanja_Vidi%C4%87>	rdf:type	ns8:Q5 ,
+		yago:Whole100003553 ,
+		dul:Agent ,
+		yago:Object100002684 ,
+		yago:ExpatriateFootballersInEngland ,
+		yago:Athlete109820263 ,
+		yago:PremierLeaguePlayers ,
+		yago:FootballPlayer110101634 ,
+		ns8:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Nemanja_Vidi%C4%87>	rdf:type	owl:Thing .
+@prefix ns10:	<http://schema.org/> .
+<http://dbpedia.org/resource/Nemanja_Vidi%C4%87>	rdf:type	ns10:Person ,
+		yago:Player110439851 ,
+		ns6:Athlete ;
+	owl:sameAs	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+@prefix ns11:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Nemanja_Vidi%C4%87>	owl:sameAs	ns11:Nemanja_Vidić ,
+		<http://rdf.freebase.com/ns/m.09jwl0> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Nemanja_Vidi%C4%87>	rdfs:label	"Nemanja Vidi\u0107"@fr ,
+		"Nemanja Vidi\u0107"@pl ,
+		"\u30CD\u30DE\u30CB\u30E3\u30FB\u30F4\u30A3\u30C7\u30A3\u30C3\u30C1"@ja ,
+		"Nemanja Vidi\u0107"@es ,
+		"\u5167\u99AC\u5C3C\u4E9E\u00B7\u7DAD\u8FEA\u5947"@zh ,
+		"Nemanja Vidi\u0107"@de ,
+		"Nemanja Vidi\u0107"@it ,
+		"Nemanja Vidi\u0107" ,
+		"Nemanja Vidi\u0107"@pt ,
+		"\u0412\u0438\u0434\u0438\u0447, \u041D\u0435\u043C\u0430\u043D\u044C\u044F"@ru ,
+		"\u0646\u064A\u0645\u0627\u0646\u064A\u0627 \u0641\u064A\u062F\u064A\u062A\u0634"@ar ,
+		"Nemanja Vidi\u0107"@nl .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Nemanja_Vidi%C4%87>	dcterms:subject	category:Serbia_and_Montenegro_international_footballers ,
+		category:Serbia_and_Montenegro_expatriate_footballers ,
+		category:Red_Star_Belgrade_footballers ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:FK_Spartak_Subotica_players ,
+		category:Serbian_expatriates_in_England ,
+		<http://dbpedia.org/resource/Category:People_from_U%C5%BEice> ,
+		category:Premier_League_players ,
+		category:Serbia_and_Montenegro_expatriates_in_Russia ,
+		<http://dbpedia.org/resource/Category:1981_births> ,
+		<http://dbpedia.org/resource/Category:Manchester_United_F.C._players> ,
+		category:FC_Spartak_Moscow_players ,
+		<http://dbpedia.org/resource/Category:2006_FIFA_World_Cup_players> ,
+		category:Association_football_central_defenders ,
+		category:Serbian_footballers ,
+		category:Serbia_international_footballers ,
+		category:Serbian_expatriate_footballers ,
+		category:Living_people ,
+		category:Expatriate_footballers_in_Russia ,
+		category:Expatriate_footballers_in_England ;
+	foaf:homepage	<http://www.nemanjavidic.com> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Nemanja_Vidi\u0107.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Nemanja_Vidi%C4%87>	dc:description	"Footballer" ,
+		"Footballer" ;
+	foaf:givenName	"Nemanja" ;
+	foaf:name	"Vidi\u0107, Nemanja" ,
+		"Nemanja Vidi\u0107" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Nemanja_Vidi%C4%87>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Nemanja_Vidi\u0107?oldid=606303892> ;
+	rdfs:comment	"\u30CD\u30DE\u30CB\u30E3\u30FB\u30F4\u30A3\u30C7\u30A3\u30C3\u30C1\uFF08Nemanja Vidi\u0107, \u30BB\u30EB\u30D3\u30A2\u8A9E: \u041D\u0435\u043C\u0430\u045A\u0430 \u0412\u0438\u0434\u0438\u045B, 1981\u5E7410\u670821\u65E5 - \uFF09\u306F\u3001\u30E6\u30FC\u30B4\u30B9\u30E9\u30D3\u30A2\uFF08\u73FE\u30BB\u30EB\u30D3\u30A2\uFF09\u30FB\u30A6\u30B8\u30C4\u30A7\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002"@ja ,
+		"Nemanja Vidi\u0107 (serbio: \u041D\u0435\u043C\u0430\u045A\u0430 \u0412\u0438\u0434\u0438\u045B; U\u017Eice, 21 de octubre de 1981) es un futbolista serbio. Juega de defensa y su actual equipo es el Manchester United de la Premier League de Inglaterra."@es ,
+		"\u041D\u0435\u043C\u0430\u0301\u043D\u044C\u044F \u0412\u0438\u0301\u0434\u0438\u0447 (\u0441\u0435\u0440\u0431. \u041D\u0435\u043C\u0430\u045A\u0430 \u0412\u0438\u0434\u0438\u045B / Nemanja Vidi\u0107; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 21 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1981 \u0433\u043E\u0434\u0430 \u0432 \u0423\u0436\u0438\u0446\u0435, \u042E\u0433\u043E\u0441\u043B\u0430\u0432\u0438\u044F) \u2014 \u0441\u0435\u0440\u0431\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0438 \u043A\u0430\u043F\u0438\u0442\u0430\u043D \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u041C\u0430\u043D\u0447\u0435\u0441\u0442\u0435\u0440 \u042E\u043D\u0430\u0439\u0442\u0435\u0434\u00BB. \u0422\u0430\u043A\u0436\u0435 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0437\u0430 \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u0421\u0435\u0440\u0431\u0438\u0438. \u041E\u0436\u0438\u0434\u0430\u0435\u0442\u0441\u044F, \u0447\u0442\u043E \u043F\u043E \u043E\u043A\u043E\u043D\u0447\u0430\u043D\u0438\u0438 \u043A\u043E\u043D\u0442\u0440\u0430\u043A\u0442\u0430 \u0441 \u00AB\u041C\u0430\u043D\u0447\u0435\u0441\u0442\u0435\u0440 \u042E\u043D\u0430\u0439\u0442\u0435\u0434\u00BB \u0432 \u043A\u043E\u043D\u0446\u0435 \u0438\u044E\u043D\u044F 2014 \u0433\u043E\u0434\u0430 \u043F\u0435\u0440\u0435\u0439\u0434\u0451\u0442 \u0432 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u00AB\u0418\u043D\u0442\u0435\u0440\u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u0435\u00BB."@ru ,
+		"Nemanja Vidi\u0107 (Servisch: \u041D\u0435\u043C\u0430\u045A\u0430 \u0412\u0438\u0434\u0438\u045B) (U\u017Eice, 21 oktober 1981) is een Servisch betaald voetballer die centraal in de verdediging speelt. Hij verruilde in januari 2006 Spartak Moskou voor Manchester United FC, waar hij in augustus 2010 zijn contract verlengde tot aan de zomer van 2014. In oktober 2002 debuteerde hij in het Servisch voetbalelftal, waarvoor hij meer dan vijftig interlands speelde.Vidi\u0107 werd op zijn veertiende opgenomen in de jeugdopleiding van Rode Ster Belgrado."@nl ,
+		"Nemanja Vidi\u0107 - em s\u00E9rvio, \u041D\u0435\u043C\u0430\u045A\u0430 \u0412\u0438\u0434\u0438\u045B - (Titovo U\u017Eice, 21 de outubro de 1981) \u00E9 um futebolista s\u00E9rvio que atua como zagueiro. Atualmente, joga pelo Manchester United."@pt ,
+		"Nemanja Vidi\u0107, n\u00E9 le 21 octobre 1981 \u00E0 U\u017Eice (Yougoslavie, aujourd'hui Serbie), est un footballeur international serbe qui \u00E9volue au poste de d\u00E9fenseur \u00E0 Manchester United."@fr ,
+		"\u5185\u9A6C\u5C3C\u4E9A\u00B7\u7EF4\u8FEA\u5947\uFF08\u585E\u723E\u7DAD\u4E9E\u8A9E\uFF1A\u041D\u0435\u043C\u0430\u045A\u0430 \u0412\u0438\u0434\u0438\u045B\uFF0C\u82F1\u8BED\uFF1ANemanja Vidi\u0107\uFF0C1981\u5E7410\u670821\u65E5\uFF0D\uFF09\uFF0C\u585E\u723E\u7DAD\u4E9E\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u53F8\u8077\u4E2D\u5805\uFF0C\u73FE\u6642\u70BA\u82F1\u8D85\u73ED\u9738\u66FC\u806F\u7684\u968A\u9577\u3002"@zh ,
+		"Nemanja Vidi\u0107 (Serbian Cyrillic: \u041D\u0435\u043C\u0430\u045A\u0430 \u0412\u0438\u0434\u0438\u045B, Serbian pronunciation: [n\u011B\u031Ema\u0272a v\u031E\u01D0\u02D0dit\u0361\u0255]; born 21 October 1981) is a Serbian footballer who plays for and captains English club Manchester United. He was part of the Serbian national team from 2002 to 2011." ,
+		"\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0633\u0628\u0627\u0631\u062A\u0627\u0643 \u0633\u0648\u0628\u0648\u062A\u064A\u0643\u0627 \u0641\u064A \u0645\u0648\u0633\u0645 2000/2001\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 27 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 6 \u0623\u0647\u062F\u0627\u0641\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2001 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0627\u0644\u0646\u062C\u0645 \u0627\u0644\u0623\u062D\u0645\u0631\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2004\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 67 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 12 \u0647\u062F\u0641\u060C \u0648\u0641\u064A \u0645\u0648\u0633\u0645 2004/2005 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0633\u0628\u0627\u0631\u062A\u0627\u0643 \u0645\u0648\u0633\u0643\u0648 \u0627\u0644\u0631\u0648\u0633\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 39 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 4 \u0623\u0647\u062F\u0627\u0641\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2006 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0645\u0627\u0646\u0634\u0633\u062A\u0631 \u064A\u0648\u0646\u0627\u064A\u062A\u062F \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A."@ar ,
+		"Nemanja Vidi\u0107 (serb. \u041D\u0435\u043C\u0430\u045A\u0430 \u0412\u0438\u0434\u0438\u045B, ur. 21 pa\u017Adziernika 1981 w miejscowo\u015Bci U\u017Eice w Serbii) \u2013 serbski pi\u0142karz, wyst\u0119puj\u0105cy na pozycji obro\u0144cy w sezonie 2005 zawodnik Spartaka Moskwa, od stycznia 2006 roku zawodnik klubu Premiership Manchester United. Od sezonu 2010/2011 kapitan dru\u017Cyny."@pl ,
+		"Nemanja Vidi\u0107 (serbisch-kyrillisch \u041D\u0435\u043C\u0430\u045A\u0430 \u0412\u0438\u0434\u0438\u045B; * 21. Oktober 1981 in Titovo U\u017Eice, SFR Jugoslawien) ist ein serbischer Fu\u00DFballspieler, der in der englischen Premier League bei Manchester United spielt sowie ehemaliger Mannschaftskapit\u00E4n der serbische Fu\u00DFballnationalmannschaft ist. Nemanja Vidi\u0107 galt aufgrund seiner Kopfball- und Zweikampfst\u00E4rke eine Zeit lang als einer der besten Abwehrspieler weltweit."@de ,
+		"Nemanja Vidi\u0107 (in serbo \u041D\u0435\u043C\u0430\u045A\u0430 \u0412\u0438\u0434\u0438\u045B[?]; U\u017Eice, 21 ottobre 1981) \u00E8 un calciatore serbo, difensore del Manchester Utd, di cui \u00E8 anche il capitano. Dal 1\u00BA luglio 2014 sar\u00E0 un giocatore dell'Inter."@it ;
+	foaf:surname	"Vidi\u0107" ;
+	dbpprop:n	2 ,
+		1 ;
+	foaf:isPrimaryTopicOf	ns1:Nemanja_Vidić .
+@prefix ns17:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Nemanja_Vidi%C4%87>	dbpprop:hasPhotoCollection	ns17:Nemanja_Vidić ;
+	dbpprop:caption	"Vidi\u0107 with Manchester United in 2006" ;
+	dbpprop:name	"Nemanja Vidi\u0107" ,
+		"Nemanja Vidic" ,
+		"Vidi\u0107, Nemanja" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Nemanja_Vidi\u0107.jpg?width=300> ;
+	dbpedia-owl:abstract	"Nemanja Vidi\u0107 (serbisch-kyrillisch \u041D\u0435\u043C\u0430\u045A\u0430 \u0412\u0438\u0434\u0438\u045B; * 21. Oktober 1981 in Titovo U\u017Eice, SFR Jugoslawien) ist ein serbischer Fu\u00DFballspieler, der in der englischen Premier League bei Manchester United spielt sowie ehemaliger Mannschaftskapit\u00E4n der serbische Fu\u00DFballnationalmannschaft ist. Nemanja Vidi\u0107 galt aufgrund seiner Kopfball- und Zweikampfst\u00E4rke eine Zeit lang als einer der besten Abwehrspieler weltweit."@de ,
+		"\u30CD\u30DE\u30CB\u30E3\u30FB\u30F4\u30A3\u30C7\u30A3\u30C3\u30C1\uFF08Nemanja Vidi\u0107, \u30BB\u30EB\u30D3\u30A2\u8A9E: \u041D\u0435\u043C\u0430\u045A\u0430 \u0412\u0438\u0434\u0438\u045B, 1981\u5E7410\u670821\u65E5 - \uFF09\u306F\u3001\u30E6\u30FC\u30B4\u30B9\u30E9\u30D3\u30A2\uFF08\u73FE\u30BB\u30EB\u30D3\u30A2\uFF09\u30FB\u30A6\u30B8\u30C4\u30A7\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002"@ja ,
+		"Nemanja Vidi\u0107 (Serbian Cyrillic: \u041D\u0435\u043C\u0430\u045A\u0430 \u0412\u0438\u0434\u0438\u045B, Serbian pronunciation: [n\u011B\u031Ema\u0272a v\u031E\u01D0\u02D0dit\u0361\u0255]; born 21 October 1981) is a Serbian footballer who plays for and captains English club Manchester United. He was part of the Serbian national team from 2002 to 2011. In July 2014, Vidic will complete a free transfer to Inter Milan, after agreeing a three year contract with the Serie A club.After establishing himself at Red Star Belgrade during the early 2000s, Vidi\u0107 moved to Spartak Moscow in the summer of 2004. He further increased his reputation when he was part of the \"Famous Four\" Serbian national team defence that conceded just one goal during the 2006 FIFA World Cup qualification campaign. He would later sign for Manchester United for around \u00A37 million in January 2006 before establishing a prominent defensive partnership with Rio Ferdinand the following season and earning a reputation for defensive consistency and awareness.Vidi\u0107 has collected a host of honours in his United career, including three consecutive Premier League titles (five titles in total), the UEFA Champions League, the FIFA World Club Cup, three League Cup medals, as well as being included in three consecutive (four in total) PFA Team of the Year sides from 2007 to 2009. In the 2008\u201309 season, he helped United to a record-breaking run of 14 consecutive clean sheets and was awarded the Barclays Player of the Season. He also collected both the club's Fans' and Players' Player of the Year awards. At the start of the 2010\u201311 season, Vidi\u0107 was selected as the new team captain of Manchester United. He collected his second Premier League Player of the Season award in 2010\u201311." ,
+		"\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0633\u0628\u0627\u0631\u062A\u0627\u0643 \u0633\u0648\u0628\u0648\u062A\u064A\u0643\u0627 \u0641\u064A \u0645\u0648\u0633\u0645 2000/2001\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 27 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 6 \u0623\u0647\u062F\u0627\u0641\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2001 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0627\u0644\u0646\u062C\u0645 \u0627\u0644\u0623\u062D\u0645\u0631\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2004\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 67 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 12 \u0647\u062F\u0641\u060C \u0648\u0641\u064A \u0645\u0648\u0633\u0645 2004/2005 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0633\u0628\u0627\u0631\u062A\u0627\u0643 \u0645\u0648\u0633\u0643\u0648 \u0627\u0644\u0631\u0648\u0633\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 39 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 4 \u0623\u0647\u062F\u0627\u0641\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2006 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0645\u0627\u0646\u0634\u0633\u062A\u0631 \u064A\u0648\u0646\u0627\u064A\u062A\u062F \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A."@ar ,
+		"Nemanja Vidi\u0107 - em s\u00E9rvio, \u041D\u0435\u043C\u0430\u045A\u0430 \u0412\u0438\u0434\u0438\u045B - (Titovo U\u017Eice, 21 de outubro de 1981) \u00E9 um futebolista s\u00E9rvio que atua como zagueiro. Atualmente, joga pelo Manchester United."@pt ,
+		"Nemanja Vidi\u0107, n\u00E9 le 21 octobre 1981 \u00E0 U\u017Eice (Yougoslavie, aujourd'hui Serbie), est un footballeur international serbe qui \u00E9volue au poste de d\u00E9fenseur \u00E0 Manchester United."@fr ,
+		"Nemanja Vidi\u0107 (Servisch: \u041D\u0435\u043C\u0430\u045A\u0430 \u0412\u0438\u0434\u0438\u045B) (U\u017Eice, 21 oktober 1981) is een Servisch betaald voetballer die centraal in de verdediging speelt. Hij verruilde in januari 2006 Spartak Moskou voor Manchester United FC, waar hij in augustus 2010 zijn contract verlengde tot aan de zomer van 2014. In oktober 2002 debuteerde hij in het Servisch voetbalelftal, waarvoor hij meer dan vijftig interlands speelde.Vidi\u0107 werd op zijn veertiende opgenomen in de jeugdopleiding van Rode Ster Belgrado. Dat liet hem in 2000-'01 debuteren in het profvoetbal door hem een jaar uit te lenen aan FK Spartak Zlatibor Voda. Toen hij terugkkeerde bij Rode Ster won hij daarmee in het seizoen 2003-'04 zowel de landstitel als de nationale beker. Vidi\u0107 stapte daarna over naar Spartak Moskou. Na twee jaar in de Russische competitie te hebben gespeeld en uitgeroepen te zijn tot onder meer 'beste verdediger van de Russische competitie' en beste 'Servische speler spelend in het buitenland', tekende hij op 5 januari 2005 een contract bij Manchester United."@nl ,
+		"\u5185\u9A6C\u5C3C\u4E9A\u00B7\u7EF4\u8FEA\u5947\uFF08\u585E\u723E\u7DAD\u4E9E\u8A9E\uFF1A\u041D\u0435\u043C\u0430\u045A\u0430 \u0412\u0438\u0434\u0438\u045B\uFF0C\u82F1\u8BED\uFF1ANemanja Vidi\u0107\uFF0C1981\u5E7410\u670821\u65E5\uFF0D\uFF09\uFF0C\u585E\u723E\u7DAD\u4E9E\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u53F8\u8077\u4E2D\u5805\uFF0C\u73FE\u6642\u70BA\u82F1\u8D85\u73ED\u9738\u66FC\u806F\u7684\u968A\u9577\u3002"@zh ,
+		"\u041D\u0435\u043C\u0430\u0301\u043D\u044C\u044F \u0412\u0438\u0301\u0434\u0438\u0447 (\u0441\u0435\u0440\u0431. \u041D\u0435\u043C\u0430\u045A\u0430 \u0412\u0438\u0434\u0438\u045B / Nemanja Vidi\u0107; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 21 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1981 \u0433\u043E\u0434\u0430 \u0432 \u0423\u0436\u0438\u0446\u0435, \u042E\u0433\u043E\u0441\u043B\u0430\u0432\u0438\u044F) \u2014 \u0441\u0435\u0440\u0431\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0438 \u043A\u0430\u043F\u0438\u0442\u0430\u043D \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u041C\u0430\u043D\u0447\u0435\u0441\u0442\u0435\u0440 \u042E\u043D\u0430\u0439\u0442\u0435\u0434\u00BB. \u0422\u0430\u043A\u0436\u0435 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0437\u0430 \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u0421\u0435\u0440\u0431\u0438\u0438. \u041E\u0436\u0438\u0434\u0430\u0435\u0442\u0441\u044F, \u0447\u0442\u043E \u043F\u043E \u043E\u043A\u043E\u043D\u0447\u0430\u043D\u0438\u0438 \u043A\u043E\u043D\u0442\u0440\u0430\u043A\u0442\u0430 \u0441 \u00AB\u041C\u0430\u043D\u0447\u0435\u0441\u0442\u0435\u0440 \u042E\u043D\u0430\u0439\u0442\u0435\u0434\u00BB \u0432 \u043A\u043E\u043D\u0446\u0435 \u0438\u044E\u043D\u044F 2014 \u0433\u043E\u0434\u0430 \u043F\u0435\u0440\u0435\u0439\u0434\u0451\u0442 \u0432 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u00AB\u0418\u043D\u0442\u0435\u0440\u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u0435\u00BB."@ru ,
+		"Nemanja Vidi\u0107 (serb. \u041D\u0435\u043C\u0430\u045A\u0430 \u0412\u0438\u0434\u0438\u045B, ur. 21 pa\u017Adziernika 1981 w miejscowo\u015Bci U\u017Eice w Serbii) \u2013 serbski pi\u0142karz, wyst\u0119puj\u0105cy na pozycji obro\u0144cy w sezonie 2005 zawodnik Spartaka Moskwa, od stycznia 2006 roku zawodnik klubu Premiership Manchester United. Od sezonu 2010/2011 kapitan dru\u017Cyny."@pl ,
+		"Nemanja Vidi\u0107 (serbio: \u041D\u0435\u043C\u0430\u045A\u0430 \u0412\u0438\u0434\u0438\u045B; U\u017Eice, 21 de octubre de 1981) es un futbolista serbio. Juega de defensa y su actual equipo es el Manchester United de la Premier League de Inglaterra."@es ,
+		"Nemanja Vidi\u0107 (in serbo \u041D\u0435\u043C\u0430\u045A\u0430 \u0412\u0438\u0434\u0438\u045B[?]; U\u017Eice, 21 ottobre 1981) \u00E8 un calciatore serbo, difensore del Manchester Utd, di cui \u00E8 anche il capitano. Dal 1\u00BA luglio 2014 sar\u00E0 un giocatore dell'Inter."@it ;
+	dbpedia-owl:wikiPageID	3532317 ;
+	dbpedia-owl:wikiPageRevisionID	606303892 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Nemanja_Vidi%C4%87>	dbpprop:birthDate	"1981-10-21+02:00"^^xsd:date ;
+	dbpprop:birthPlace	<http://dbpedia.org/resource/U%C5%BEice> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Nemanja_Vidi%C4%87>	dbpprop:birthPlace	dbpedia:Socialist_Federal_Republic_of_Yugoslavia ;
+	dbpprop:dateOfBirth	"1981-10-21+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"U\u017Eice, SFR Yugoslavia" ;
+	dbpprop:shortDescription	"Footballer" ;
+	dbpedia-owl:birthDate	"1981-10-21+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	<http://dbpedia.org/resource/U%C5%BEice> ,
+		dbpedia:Socialist_Federal_Republic_of_Yugoslavia ;
+	dbpedia-owl:birthYear	"1981+02:00"^^xsd:gYear ;
+	dbpedia-owl:viafId	"168068813" ;
+	dbpprop:sc	2 ,
+		1 ;
+	dbpprop:co	"Serbia" ,
+		"Ukraine" ;
+	dbpprop:ci	"Beograd" ,
+		"Kiev" ;
+	dbpprop:comp	dbpedia:Valeriy_Lobanovskyi_Memorial_Tournament ,
+		dbpedia:Exhibition_game ;
+	dbpprop:fr	1 ,
+		2 ;
+	dbpprop:st	"Lobanovsky Dynamo Stadium" ,
+		"Stadium Crvena Zvezda" ;
+	dbpprop:after	"Incumbent" ;
+	dbpprop:before	dbpedia:Gary_Neville ;
+	dbpprop:goals	15 ,
+		12 ,
+		6 ,
+		4 ;
+	dbpprop:bg	"gold" ;
+	dbpprop:d	"2005-08-15+02:00"^^xsd:date ,
+		"2006-11-15+02:00"^^xsd:date ;
+	dbpprop:id	26738 ;
+	dbpprop:caps	67 ,
+		208 ,
+		27 ,
+		39 ;
+	dbpprop:years	2011 ,
+		2000 ,
+		2006 ,
+		2004 ;
+	dbpprop:youthclubs	dbpedia:Red_Star_Belgrade ,
+		<http://dbpedia.org/resource/FK_Sloboda_U%C5%BEice> ,
+		dbpedia:FK_Jedinstvo_Putevi ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87__2> ,
+		<http://dbpedia.org/resource/Nemanja_Vidi%C4%87__3> ,
+		<http://dbpedia.org/resource/Nemanja_Vidi%C4%87__7> ,
+		<http://dbpedia.org/resource/Nemanja_Vidi%C4%87__4> ,
+		<http://dbpedia.org/resource/Nemanja_Vidi%C4%87__6> ,
+		<http://dbpedia.org/resource/Nemanja_Vidi%C4%87__5> ,
+		<http://dbpedia.org/resource/Nemanja_Vidi%C4%87__1> ,
+		<http://dbpedia.org/resource/Nemanja_Vidi%C4%87__8> ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.8899999999999999023 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Nemanja_Vidi%C4%87>	ns21:height	"189.0"^^ns20:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/Manchester_United_F.C.> ;
+	dbpprop:clubnumber	15 ;
+	dbpprop:fullname	"Nemanja Vidi\u0107" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/Manchester_United_F.C.> ,
+		dbpedia:FC_Spartak_Moscow ,
+		dbpedia:Red_Star_Belgrade ,
+		"\u2192 Spartak Subotica" ;
+	dbpedia-owl:team	dbpedia:FK_Jedinstvo_Putevi ,
+		<http://dbpedia.org/resource/Manchester_United_F.C.> ,
+		<http://dbpedia.org/resource/FK_Sloboda_U%C5%BEice> ,
+		dbpedia:FK_Spartak_Zlatibor_Voda ,
+		dbpedia:FC_Spartak_Moscow ,
+		dbpedia:Serbia_national_football_team ,
+		dbpedia:Red_Star_Belgrade .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Nemanja_Vidi%C4%87>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Awards" ,
+		"Manchester United captain" ;
+	dbpprop:youthyears	1994 ,
+		1996 ,
+		1989 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.reprezentacija.rs/index.php?option=com_content&view=article&id=1611&Itemid=2> ,
+		<http://www.manutd.com/en/Players-And-Staff/First-Team/Nemanja-Vidic.aspx> ,
+		<http://www.stretfordend.co.uk/playermenu/vidic.html> ,
+		<http://www.uefa.com/competitions/UCL/Players/Player=41382/index.html> ,
+		<http://www.nemanjavidic.com> ;
+	dbpprop:clubUpdate	"2014-04-26+02:00"^^xsd:date ;
+	dbpprop:nationalteamUpdate	"2011-10-11+02:00"^^xsd:date ;
+	dbpprop:fg	"navy" ;
+	dbpprop:nationalcaps	56 ;
+	dbpprop:nationalgoals	2 ;
+	dbpprop:nationalteam	dbpedia:Serbia_national_football_team ;
+	dbpprop:nationalyears	2002 ;
+	dbpedia-owl:number	15 ;
+	dbpprop:o	"Norway" ,
+		"Poland" ;
+	dbpedia-owl:alias	"Vidic, Nemanja" ;
+	dbpprop:alternativeNames	"Vidic, Nemanja" .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	dbpprop:before	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+<http://dbpedia.org/resource/Manchester_United_F.C.>	dbpprop:name	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+dbpedia:Gary_Neville	dbpprop:after	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+dbpedia:Inter_Milan	dbpprop:name	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+<http://dbpedia.org/resource/2008_FIFA_Club_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+dbpedia:Nemanja	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+<http://dbpedia.org/resource/Inter_Milan__emanja_Vidi%C4%87__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+<http://dbpedia.org/resource/Milo%C5%A1_Krasi%C4%87>	dbpprop:before	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+<http://dbpedia.org/resource/Manchester_United_F.C.__Nemanja_Vidi%C4%87__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+<http://dbpedia.org/resource/2006_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+dbpedia:Serbia_and_Montenegro_national_football_team	dbpprop:name	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+dbpedia:Serbia_national_football_team	dbpprop:text	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+dbpedia:Nemanja_Vidić	owl:sameAs	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+<http://dbpedia.org/resource/Vidi%C4%87>	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+<http://dbpedia.org/resource/2011_MLS_All-Star_Game__Nemanja_Vidi%C4%87__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+<http://dbpedia.org/resource/Nemanja_Vidi%C4%8D>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+dbpedia:Nemanja_Vidic	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+<http://dbpedia.org/resource/Nemanja_vidi%C4%8D>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .
+dbpedia:Ninja_Vidic	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> .

@@ -1,0 +1,307 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_de_Dominique_de_football	owl:sameAs	dbpedia:Dominica_national_football_team .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Dominicanische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Dominica_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q220724	owl:sameAs	dbpedia:Dominica_national_football_team .
+@prefix ns5:	<http://cs.dbpedia.org/resource/> .
+ns5:Dominická_fotbalová_reprezentace	owl:sameAs	dbpedia:Dominica_national_football_team .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Selección_de_fútbol_de_Dominica	owl:sameAs	dbpedia:Dominica_national_football_team .
+@prefix ns7:	<http://id.dbpedia.org/resource/> .
+ns7:Tim_nasional_sepak_bola_Dominika	owl:sameAs	dbpedia:Dominica_national_football_team .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Nazionale_di_calcio_della_Dominica	owl:sameAs	dbpedia:Dominica_national_football_team .
+@prefix ns9:	<http://ja.dbpedia.org/resource/> .
+ns9:サッカードミニカ国代表	owl:sameAs	dbpedia:Dominica_national_football_team .
+@prefix ns10:	<http://nl.dbpedia.org/resource/> .
+ns10:Voetbalelftal_van_Dominica	owl:sameAs	dbpedia:Dominica_national_football_team .
+@prefix ns11:	<http://pl.dbpedia.org/resource/> .
+ns11:Reprezentacja_Dominiki_w_piłce_nożnej	owl:sameAs	dbpedia:Dominica_national_football_team .
+@prefix ns12:	<http://pt.dbpedia.org/resource/> .
+ns12:Seleção_Dominiquense_de_Futebol	owl:sameAs	dbpedia:Dominica_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns14:	<http://en.wikipedia.org/wiki/> .
+ns14:Dominica_national_football_team	foaf:primaryTopic	dbpedia:Dominica_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Dominica_national_football_team	rdf:type	yago:NationalSportsTeamsOfDominica .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Dominica_national_football_team	rdf:type	dbpedia-owl:Organisation ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		owl:Thing .
+@prefix ns18:	<http://schema.org/> .
+dbpedia:Dominica_national_football_team	rdf:type	ns18:Organization ,
+		ns18:SportsTeam .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Dominica_national_football_team	rdf:type	dul:Agent ,
+		yago:CaribbeanNationalAssociationFootballTeams ,
+		yago:YagoPermanentlyLocatedEntity ,
+		dul:SocialPerson ,
+		yago:FootballTeam108080025 ,
+		yago:YagoLegalActorGeo ,
+		dbpedia-owl:Agent ,
+		yago:YagoLegalActor ;
+	owl:sameAs	ns8:Nazionale_di_calcio_della_Dominica .
+@prefix ns20:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Dominica_national_football_team	owl:sameAs	ns20:Đội_tuyển_bóng_đá_quốc_gia_Dominica .
+@prefix ns21:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Dominica_national_football_team	owl:sameAs	ns21:Dominica_national_football_team .
+@prefix ns22:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Dominica_national_football_team	owl:sameAs	ns22:Dominica_national_football_team ,
+		dbpedia:Dominica_national_football_team ,
+		ns1:Équipe_de_Dominique_de_football .
+@prefix ns23:	<http://hr.dbpedia.org/resource/> .
+dbpedia:Dominica_national_football_team	owl:sameAs	ns23:Nogometna_reprezentacija_Dominike .
+@prefix ns24:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Dominica_national_football_team	owl:sameAs	ns24:Dominikai_közösségi_labdarúgó-válogatott .
+@prefix ns25:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Dominica_national_football_team	owl:sameAs	ns25:Сборная_Доминики_по_футболу ,
+		ns6:Selección_de_fútbol_de_Dominica .
+@prefix ns26:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Dominica_national_football_team	owl:sameAs	ns26:تیم_ملی_فوتبال_دومینیکا ,
+		ns12:Seleção_Dominiquense_de_Futebol .
+@prefix ns27:	<http://yago-knowledge.org/resource/> .
+dbpedia:Dominica_national_football_team	owl:sameAs	ns27:Dominica_national_football_team .
+@prefix ns28:	<http://wikidata.org/entity/> .
+dbpedia:Dominica_national_football_team	owl:sameAs	ns28:Q220724 .
+@prefix ns29:	<http://ko.dbpedia.org/resource/> .
+dbpedia:Dominica_national_football_team	owl:sameAs	ns29:도미니카_연방_축구_국가대표팀 .
+@prefix ns30:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Dominica_national_football_team	owl:sameAs	ns30:Dominika_Millî_Futbol_Takımı .
+@prefix ns31:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Dominica_national_football_team	owl:sameAs	ns31:डॉमिनिका_फुटबॉल_संघ ,
+		ns11:Reprezentacja_Dominiki_w_piłce_nożnej .
+@prefix ns32:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Dominica_national_football_team	owl:sameAs	ns32:多米尼克國家足球隊 .
+@prefix ns33:	<http://he.dbpedia.org/resource/> .
+dbpedia:Dominica_national_football_team	owl:sameAs	ns33:נבחרת_דומיניקה_בכדורגל ,
+		ns4:Q220724 ,
+		ns7:Tim_nasional_sepak_bola_Dominika .
+@prefix ns34:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Dominica_national_football_team	owl:sameAs	ns34:Echipa_națională_de_fotbal_a_Dominicăi ,
+		ns3:Dominicanische_Fußballnationalmannschaft .
+@prefix ns35:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Dominica_national_football_team	owl:sameAs	ns35:Збірна_Домініки_з_футболу ,
+		ns9:サッカードミニカ国代表 ,
+		ns29:도미니카_축구_국가대표팀 .
+@prefix ns36:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Dominica_national_football_team	owl:sameAs	ns36:Dominikos_vyrų_futbolo_rinktinė .
+@prefix ns37:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Dominica_national_football_team	owl:sameAs	ns37:Dominicas_herrlandslag_i_fotboll .
+@prefix ns38:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Dominica_national_football_team	owl:sameAs	ns38:منتخب_دومينيكا_لكرة_القدم ,
+		ns5:Dominická_fotbalová_reprezentace ,
+		ns10:Voetbalelftal_van_Dominica ,
+		<http://rdf.freebase.com/ns/m.048d5z> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Dominica_national_football_team	rdfs:label	"Reprezentacja Dominiki w pi\u0142ce no\u017Cnej"@pl ,
+		"\u00C9quipe de Dominique de football"@fr ,
+		"Nazionale di calcio della Dominica"@it ,
+		"Dominicanische Fu\u00DFballnationalmannschaft"@de ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0414\u043E\u043C\u0438\u043D\u0438\u043A\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"Voetbalelftal van Dominica"@nl ,
+		"Sele\u00E7\u00E3o Dominiquense de Futebol"@pt ,
+		"Selecci\u00F3n de f\u00FAtbol de Dominica"@es ,
+		"Dominica national football team" ,
+		"\u30B5\u30C3\u30AB\u30FC\u30C9\u30DF\u30CB\u30AB\u56FD\u4EE3\u8868"@ja ,
+		"\u591A\u7C73\u5C3C\u514B\u570B\u5BB6\u8DB3\u7403\u968A"@zh ,
+		"\u0645\u0646\u062A\u062E\u0628 \u062F\u0648\u0645\u064A\u0646\u064A\u0643\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Dominica_national_football_team	dcterms:subject	category:Caribbean_national_association_football_teams ,
+		category:Dominica_national_football_team ,
+		category:National_sports_teams_of_Dominica ;
+	foaf:name	"Dominica" ;
+	foaf:nick	"Los Pericos" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Dominica_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Dominica_national_football_team?oldid=606744022> ;
+	rdfs:comment	"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0414\u043E\u043C\u0438\u043D\u0438\u043A\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u0414\u043E\u043C\u0438\u043D\u0438\u043A\u0443 \u0432 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0430\u0445 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u0442\u0441\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0435\u0439 \u0414\u043E\u043C\u0438\u043D\u0438\u043A\u0438. \u0427\u0430\u0441\u0442\u044C \u0438\u0433\u0440\u043E\u043A\u043E\u0432 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0442 \u0432 \u043A\u043B\u0443\u0431\u0430\u0445 \u043D\u0438\u0437\u0448\u0438\u0445 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0445 \u0434\u0438\u0432\u0438\u0437\u0438\u043E\u043D\u043E\u0432."@ru ,
+		"L'\u00E9quipe de Dominique de football est une s\u00E9lection des meilleurs joueurs dominiquais sous l'\u00E9gide de la F\u00E9d\u00E9ration de Dominique de football."@fr ,
+		"\u30B5\u30C3\u30AB\u30FC\u30C9\u30DF\u30CB\u30AB\u56FD\u4EE3\u8868\uFF08\u2010\u3053\u304F\u3060\u3044\u3072\u3087\u3046\uFF09\u306F\u3001\u30C9\u30DF\u30CB\u30AB\u56FD\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u306B\u3088\u308A\u7DE8\u6210\u3055\u308C\u308B\u30C9\u30DF\u30CB\u30AB\u56FD\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30C9\u30DF\u30CB\u30AB\u56FD\u306FFIFA\u304A\u3088\u3073CONCACAF\u306E\u6B63\u4F1A\u54E1\u3067\u3042\u308B\u3002\u3057\u304B\u3057\u3001\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u3001\u30B4\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u3078\u306E\u51FA\u5834\u306F\u306A\u3044\u30022013\u5E744\u670819\u65E5\u306B\u540C\u56FD\u5185\u3067\u81EA\u52D5\u8ECA\u4E8B\u6545\u306B\u3088\u308A\u3001\u904B\u8EE2\u3057\u3066\u3044\u305F\u5F53\u6642\u306E\u76E3\u7763\uFF08\u30AB\u30FC\u30C8\u30FB\u30D8\u30AF\u30BF\u30FC\uFF09\u3068\u4EE3\u8868\u9078\u624B\uFF11\u4EBA\u304C\u6B7B\u53BB\u3059\u308B\u60E8\u4E8B\u304C\u8D77\u304D\u305F\u3002"@ja ,
+		"\u0645\u0646\u062A\u062E\u0628 \u062F\u0648\u0645\u064A\u0646\u064A\u0643\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0648\u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0641\u064A \u062F\u0648\u0645\u064A\u0646\u064A\u0643\u0627 \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u062F\u0648\u0645\u064A\u0646\u064A\u0643\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0647 \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u064A\u0639\u062A\u0628\u0631 \u0645\u0646 \u0623\u0636\u0639\u0641 \u0645\u0646\u062A\u062E\u0628\u0627\u062A \u0627\u0644\u0642\u0627\u0631\u0629 \u062D\u064A\u062B \u062E\u0633\u0631 \u0645\u0646 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0645\u0643\u0633\u064A\u0643 0-10 \u0648 0-8 \u0641\u064A \u062A\u0635\u0641\u064A\u0627\u062A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 2006 ."@ar ,
+		"La Selecci\u00F3n de f\u00FAtbol de Dominica es el representativo nacional de este pa\u00EDs. Es controlada por la Federaci\u00F3n de F\u00FAtbol de Dominica, perteneciente a la Concacaf."@es ,
+		"A Sele\u00E7\u00E3o Dominiquense de Futebol representa Dominica nas competi\u00E7\u00F5es de futebol da FIFA.Nunca participou de uma Copa do Mundo, nem de uma Copa Ouro da CONCACAF."@pt ,
+		"\u591A\u7C73\u5C3C\u514B\u8DB3\u7403\u4EE3\u8868\u968A\u662F\u591A\u7C73\u5C3C\u514B\u7684\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u591A\u7C73\u5C3C\u514B\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u4E2D\u5317\u7F8E\u6D32\u53CA\u52A0\u52D2\u6BD4\u6D77\u8DB3\u7403\u5354\u6703\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u591A\u7C73\u5C3C\u514B\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4EFB\u4F55\u570B\u969B\u5927\u8CFD\u7684\u6C7A\u8CFD\u9031\uFF0C\u7121\u8AD6\u5728\u4E16\u754C\u76C3\u53CA\u7F8E\u6D32\u91D1\u76C3\u5916\u570D\u8CFD\u968E\u6BB5\u5F9E\u672A\u53D6\u5F97\u904E\u51FA\u7DDA\u8CC7\u683C\u3002"@zh ,
+		"The Dominica national football team is the national team of Dominica and is controlled by the Dominica Football Association. A member of CONCACAF." ,
+		"Het Dominicaans voetbalelftal is een team van voetballers dat Dominica vertegenwoordigt bij internationale wedstrijden zoals de kwalificatiewedstrijden voor het WK, en de Caribbean Cup.De Dominica Football Association werd in 1970 opgericht en is aangesloten bij de Cara\u00EFbische Voetbal Unie (CFU), de CONCACAF en de FIFA (sinds 1994)."@nl ,
+		"La Nazionale di calcio della Dominica \u00E8 la rappresentativa calcistica nazionale dell'omonimo paese, posta sotto l'egida della Dominica Football Association ed affiliata alla CONCACAF.La squadra \u00E8 uno dei membri pi\u00F9 deboli in seno alla FIFA, ha raggiunto la 129\u00AA posizione nella classifica del ranking FIFA nel luglio 1998, da quel momento \u00E8 iniziato un periodo di continue discese in questa particolare classifica fino a raggiungere la 191\u00AA nell'aprile 2008."@it ,
+		"Reprezentacja Dominiki w pi\u0142ce no\u017Cnej jest narodow\u0105 dru\u017Cyn\u0105 karaibskiego pa\u0144stwa Dominika, kontroluje j\u0105 Zwi\u0105zek Pi\u0142karski Dominiki (Dominica Football Association). Federacja zosta\u0142a za\u0142o\u017Cona w 1970, od 1994 jest cz\u0142onkiem FIFA, w tym samym roku wesz\u0142a do CONCACAF. Reprezentacja Dominiki to jedna z najs\u0142abszych dru\u017Cyn na \u015Bwiecie. Nigdy nie awansowa\u0142a do fina\u0142\u00F3w Mistrzostw \u015Awiata ani do Z\u0142otego Pucharu CONCACAF. Obecnie w rankingu FIFA zajmuje 183 miejsce."@pl ,
+		"Die dominicanische Fu\u00DFballnationalmannschaft ist die Auswahlmannschaft des dominicanische Fu\u00DFballverbands und vertritt Dominica auf internationaler Ebene. Bislang gelang weder die Qualifikation f\u00FCr eine Fu\u00DFball-Weltmeisterschaft noch f\u00FCr den kontinentalen CONCACAF Gold Cup. Auch beim regionalen Caribbean Nations Cup konnte die Mannschaft bislang nicht ein einziges Mal die erste Runde \u00FCberstehen."@de ;
+	foaf:isPrimaryTopicOf	ns14:Dominica_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Dominica_national_football_team	dbpprop:club	dbpedia:Centre_Bath_Estate_FC ,
+		dbpedia:Buster_Warner_FC ,
+		<http://dbpedia.org/resource/Starrin_and_Sons_St._Joseph> .
+@prefix ns44:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Dominica_national_football_team	dbpprop:hasPhotoCollection	ns44:Dominica_national_football_team ;
+	dbpprop:name	"Dominica" ,
+		dbpedia:Joel_Etienne-Clark ,
+		dbpedia:Hubert_Prince ,
+		dbpedia:Joslyn_Prince ,
+		dbpedia:Kelrick_Walters ,
+		dbpedia:Shern_Dailey ,
+		dbpedia:Vernent_Joseph ,
+		dbpedia:Dion_Laurent ,
+		dbpedia:Anfernee_Frederick ,
+		dbpedia:Briel_Thomas ,
+		dbpedia:Calvin_Christopher ,
+		dbpedia:Delbert_Dailey ,
+		dbpedia:Delroy_Parker ,
+		dbpedia:Egbert_Walsh ,
+		dbpedia:Elijah_Toulon ,
+		dbpedia:Kurlson_Benjamin ,
+		dbpedia:Mitchell_Joseph ,
+		dbpedia:Lester_Langlais ;
+	dbpedia-owl:abstract	"\u0645\u0646\u062A\u062E\u0628 \u062F\u0648\u0645\u064A\u0646\u064A\u0643\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0648\u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0641\u064A \u062F\u0648\u0645\u064A\u0646\u064A\u0643\u0627 \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u062F\u0648\u0645\u064A\u0646\u064A\u0643\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0647 \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u064A\u0639\u062A\u0628\u0631 \u0645\u0646 \u0623\u0636\u0639\u0641 \u0645\u0646\u062A\u062E\u0628\u0627\u062A \u0627\u0644\u0642\u0627\u0631\u0629 \u062D\u064A\u062B \u062E\u0633\u0631 \u0645\u0646 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0645\u0643\u0633\u064A\u0643 0-10 \u0648 0-8 \u0641\u064A \u062A\u0635\u0641\u064A\u0627\u062A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 2006 ."@ar ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0414\u043E\u043C\u0438\u043D\u0438\u043A\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u0414\u043E\u043C\u0438\u043D\u0438\u043A\u0443 \u0432 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0430\u0445 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u0442\u0441\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0435\u0439 \u0414\u043E\u043C\u0438\u043D\u0438\u043A\u0438. \u0427\u0430\u0441\u0442\u044C \u0438\u0433\u0440\u043E\u043A\u043E\u0432 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0442 \u0432 \u043A\u043B\u0443\u0431\u0430\u0445 \u043D\u0438\u0437\u0448\u0438\u0445 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0445 \u0434\u0438\u0432\u0438\u0437\u0438\u043E\u043D\u043E\u0432."@ru ,
+		"L'\u00E9quipe de Dominique de football est une s\u00E9lection des meilleurs joueurs dominiquais sous l'\u00E9gide de la F\u00E9d\u00E9ration de Dominique de football."@fr ,
+		"Reprezentacja Dominiki w pi\u0142ce no\u017Cnej jest narodow\u0105 dru\u017Cyn\u0105 karaibskiego pa\u0144stwa Dominika, kontroluje j\u0105 Zwi\u0105zek Pi\u0142karski Dominiki (Dominica Football Association). Federacja zosta\u0142a za\u0142o\u017Cona w 1970, od 1994 jest cz\u0142onkiem FIFA, w tym samym roku wesz\u0142a do CONCACAF. Reprezentacja Dominiki to jedna z najs\u0142abszych dru\u017Cyn na \u015Bwiecie. Nigdy nie awansowa\u0142a do fina\u0142\u00F3w Mistrzostw \u015Awiata ani do Z\u0142otego Pucharu CONCACAF. Obecnie w rankingu FIFA zajmuje 183 miejsce. Trenerem reprezentacji jest Christopher Erickson.Dominika zajmuje aktualnie (18. maja 2011) 18. miejsce w CONCACAF."@pl ,
+		"\u591A\u7C73\u5C3C\u514B\u8DB3\u7403\u4EE3\u8868\u968A\u662F\u591A\u7C73\u5C3C\u514B\u7684\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u591A\u7C73\u5C3C\u514B\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u4E2D\u5317\u7F8E\u6D32\u53CA\u52A0\u52D2\u6BD4\u6D77\u8DB3\u7403\u5354\u6703\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u591A\u7C73\u5C3C\u514B\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4EFB\u4F55\u570B\u969B\u5927\u8CFD\u7684\u6C7A\u8CFD\u9031\uFF0C\u7121\u8AD6\u5728\u4E16\u754C\u76C3\u53CA\u7F8E\u6D32\u91D1\u76C3\u5916\u570D\u8CFD\u968E\u6BB5\u5F9E\u672A\u53D6\u5F97\u904E\u51FA\u7DDA\u8CC7\u683C\u3002"@zh ,
+		"The Dominica national football team is the national team of Dominica and is controlled by the Dominica Football Association. A member of CONCACAF." ,
+		"A Sele\u00E7\u00E3o Dominiquense de Futebol representa Dominica nas competi\u00E7\u00F5es de futebol da FIFA.Nunca participou de uma Copa do Mundo, nem de uma Copa Ouro da CONCACAF."@pt ,
+		"La Nazionale di calcio della Dominica \u00E8 la rappresentativa calcistica nazionale dell'omonimo paese, posta sotto l'egida della Dominica Football Association ed affiliata alla CONCACAF.La squadra \u00E8 uno dei membri pi\u00F9 deboli in seno alla FIFA, ha raggiunto la 129\u00AA posizione nella classifica del ranking FIFA nel luglio 1998, da quel momento \u00E8 iniziato un periodo di continue discese in questa particolare classifica fino a raggiungere la 191\u00AA nell'aprile 2008."@it ,
+		"\u30B5\u30C3\u30AB\u30FC\u30C9\u30DF\u30CB\u30AB\u56FD\u4EE3\u8868\uFF08\u2010\u3053\u304F\u3060\u3044\u3072\u3087\u3046\uFF09\u306F\u3001\u30C9\u30DF\u30CB\u30AB\u56FD\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u306B\u3088\u308A\u7DE8\u6210\u3055\u308C\u308B\u30C9\u30DF\u30CB\u30AB\u56FD\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30C9\u30DF\u30CB\u30AB\u56FD\u306FFIFA\u304A\u3088\u3073CONCACAF\u306E\u6B63\u4F1A\u54E1\u3067\u3042\u308B\u3002\u3057\u304B\u3057\u3001\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u3001\u30B4\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u3078\u306E\u51FA\u5834\u306F\u306A\u3044\u30022013\u5E744\u670819\u65E5\u306B\u540C\u56FD\u5185\u3067\u81EA\u52D5\u8ECA\u4E8B\u6545\u306B\u3088\u308A\u3001\u904B\u8EE2\u3057\u3066\u3044\u305F\u5F53\u6642\u306E\u76E3\u7763\uFF08\u30AB\u30FC\u30C8\u30FB\u30D8\u30AF\u30BF\u30FC\uFF09\u3068\u4EE3\u8868\u9078\u624B\uFF11\u4EBA\u304C\u6B7B\u53BB\u3059\u308B\u60E8\u4E8B\u304C\u8D77\u304D\u305F\u3002"@ja ,
+		"Het Dominicaans voetbalelftal is een team van voetballers dat Dominica vertegenwoordigt bij internationale wedstrijden zoals de kwalificatiewedstrijden voor het WK, en de Caribbean Cup.De Dominica Football Association werd in 1970 opgericht en is aangesloten bij de Cara\u00EFbische Voetbal Unie (CFU), de CONCACAF en de FIFA (sinds 1994). Het Dominicaans voetbalelftal behaalde in november 2010 en februari 2011 met de 128e plaats de hoogste positie op de FIFA-wereldranglijst, in juli 2009 werd met de 198e plaats de laagste positie bereikt."@nl ,
+		"Die dominicanische Fu\u00DFballnationalmannschaft ist die Auswahlmannschaft des dominicanische Fu\u00DFballverbands und vertritt Dominica auf internationaler Ebene. Bislang gelang weder die Qualifikation f\u00FCr eine Fu\u00DFball-Weltmeisterschaft noch f\u00FCr den kontinentalen CONCACAF Gold Cup. Auch beim regionalen Caribbean Nations Cup konnte die Mannschaft bislang nicht ein einziges Mal die erste Runde \u00FCberstehen."@de ,
+		"La Selecci\u00F3n de f\u00FAtbol de Dominica es el representativo nacional de este pa\u00EDs. Es controlada por la Federaci\u00F3n de F\u00FAtbol de Dominica, perteneciente a la Concacaf."@es ;
+	dbpedia-owl:wikiPageID	1124871 ;
+	dbpedia-owl:wikiPageRevisionID	606744022 ;
+	dbpprop:topScorer	dbpedia:Kurlson_Benjamin ;
+	dbpprop:round	<http://dbpedia.org/resource/2014_Windward_Islands_Tournament> ;
+	dbpprop:clubnat	"DMA" ;
+	dbpprop:goals	"Neptune" ,
+		"Charles" ,
+		11 ,
+		0 ,
+		1 ,
+		4 .
+@prefix ns45:	<http://dbpedia.org/datatype/> .
+dbpedia:Dominica_national_football_team	dbpprop:time	"1140.0"^^ns45:second ;
+	dbpprop:stadium	dbpedia:Roseau ,
+		<http://dbpedia.org/resource/Windsor_Park_(Dominica)> ;
+	dbpprop:report	<http://dominicanewsonline.com/news/homepage/news/sports/dominica-goes-st-lucia-football-match/> ;
+	dbpprop:score	0 ;
+	dbpprop:caps	8 ,
+		9 ,
+		11 ,
+		13 ,
+		0 ,
+		1 ,
+		2 ,
+		3 ,
+		4 ,
+		5 ,
+		17 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Dominica_national_football_team	dbpprop:age	"1990-08-17+02:00"^^xsd:date ,
+		"1984-12-07+02:00"^^xsd:date ,
+		"1986-10-10+02:00"^^xsd:date ,
+		"1996-09-02+02:00"^^xsd:date ,
+		"1994-03-17+02:00"^^xsd:date ,
+		"1994-11-25+02:00"^^xsd:date ,
+		"1990-12-27+02:00"^^xsd:date ,
+		"1996-01-23+02:00"^^xsd:date ,
+		"1980-05-04+02:00"^^xsd:date ,
+		"1989-11-06+02:00"^^xsd:date ,
+		"1982-10-23+02:00"^^xsd:date ,
+		"1986-03-13+02:00"^^xsd:date ,
+		"1984-02-21+02:00"^^xsd:date ,
+		"1989-06-26+02:00"^^xsd:date ,
+		"1989-06-11+02:00"^^xsd:date ,
+		"1997-10-15+02:00"^^xsd:date ,
+		"1993-10-06+02:00"^^xsd:date ;
+	dbpprop:coach	"Vacant" ;
+	dbpprop:stack	"yes" ;
+	dbpprop:date	"2014-04-30+02:00"^^xsd:date ,
+		"2014-05-02+02:00"^^xsd:date ;
+	dbpprop:association	dbpedia:Dominica_Football_Association ;
+	dbpprop:body	0 ,
+		408040 ;
+	dbpprop:fifaRank	167 ;
+	dbpprop:fifaTrigramme	"DMA" ;
+	dbpprop:leftarm	0 ;
+	dbpprop:patternB	"_thinyellowsides" ;
+	dbpprop:patternLa	"_yellowshoulders" ;
+	dbpprop:patternRa	"_yellowshoulders" ;
+	dbpprop:rightarm	0 ;
+	dbpprop:shorts	0 ;
+	dbpprop:socks	0 ,
+		408040 ;
+	dbpprop:pos	"GK" ,
+		"MF" ,
+		"FW" ,
+		"DF" ;
+	dbpprop:result	"L" ;
+	dbpprop:badge	"Dominica FA.png" ;
+	dbpprop:firstGame	"Dominica 1\u20130 Martinique" ;
+	dbpprop:largestLoss	10 ;
+	dbpprop:largestWin	"Dominica 10\u20130" ;
+	dbpprop:eloRank	187 ;
+	dbpprop:fifaMax	128 ;
+	dbpprop:fifaMaxDate	"November 2010, February 2011" ;
+	dbpprop:fifaMin	198 ;
+	dbpprop:fifaMinDate	"July 2009" ;
+	dbpprop:subConfederation	"CFU" ;
+	dbpedia-owl:wikiPageExternalLink	<http://dominicanewsonline.com/news/homepage/news/sports/dominica-goes-st-lucia-football-match/> ;
+	dbpprop:homeStadium	<http://dbpedia.org/resource/Windsor_Park_(Dominica)> ;
+	dbpedia-owl:stadium	<http://dbpedia.org/resource/Windsor_Park_(Dominica)> ;
+	dbpprop:nickname	"Los Pericos" .
+ns29:도미니카_축구_국가대표팀	owl:sameAs	dbpedia:Dominica_national_football_team .
+ns38:منتخب_دومينيكا_لكرة_القدم	owl:sameAs	dbpedia:Dominica_national_football_team .
+ns26:تیم_ملی_فوتبال_دومینیکا	owl:sameAs	dbpedia:Dominica_national_football_team .
+ns33:נבחרת_דומיניקה_בכדורגל	owl:sameAs	dbpedia:Dominica_national_football_team .
+ns21:Dominica_national_football_team	owl:sameAs	dbpedia:Dominica_national_football_team .
+ns23:Nogometna_reprezentacija_Dominike	owl:sameAs	dbpedia:Dominica_national_football_team .
+ns24:Dominikai_közösségi_labdarúgó-válogatott	owl:sameAs	dbpedia:Dominica_national_football_team .
+ns36:Dominikos_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Dominica_national_football_team .
+ns31:डॉमिनिका_फुटबॉल_संघ	owl:sameAs	dbpedia:Dominica_national_football_team .
+ns34:Echipa_națională_de_fotbal_a_Dominicăi	owl:sameAs	dbpedia:Dominica_national_football_team .
+ns25:Сборная_Доминики_по_футболу	owl:sameAs	dbpedia:Dominica_national_football_team .
+ns22:Dominica_national_football_team	owl:sameAs	dbpedia:Dominica_national_football_team .
+ns37:Dominicas_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Dominica_national_football_team .
+ns30:Dominika_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Dominica_national_football_team .
+ns35:Збірна_Домініки_з_футболу	owl:sameAs	dbpedia:Dominica_national_football_team .
+ns20:Đội_tuyển_bóng_đá_quốc_gia_Dominica	owl:sameAs	dbpedia:Dominica_national_football_team .
+ns32:多米尼克國家足球隊	owl:sameAs	dbpedia:Dominica_national_football_team .
+dbpedia:Lester_Langlais	dbpedia-owl:team	dbpedia:Dominica_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Dominica_national_football_team .
+<http://dbpedia.org/resource/Daniel_Francis_(footballer)>	dbpedia-owl:team	dbpedia:Dominica_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Dominica_national_football_team .
+dbpedia:Joel_Etienne-Clark	dbpedia-owl:team	dbpedia:Dominica_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Dominica_national_football_team .
+dbpedia:Lennard_Remy	dbpedia-owl:team	dbpedia:Dominica_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Dominica_national_football_team .
+dbpedia:Richard_Pacquette	dbpedia-owl:team	dbpedia:Dominica_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Dominica_national_football_team .
+dbpedia:Kurlson_Benjamin	dbpedia-owl:team	dbpedia:Dominica_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Dominica_national_football_team .
+dbpedia:Jefferson_Louis__14	dbpedia-owl:team	dbpedia:Dominica_national_football_team .
+dbpedia:Mitchell_Joseph__1	dbpedia-owl:team	dbpedia:Dominica_national_football_team .
+dbpedia:Lennard_Remy__1	dbpedia-owl:team	dbpedia:Dominica_national_football_team .
+dbpedia:Richard_Pacquette__16	dbpedia-owl:team	dbpedia:Dominica_national_football_team .
+dbpedia:Kurlson_Benjamin__1	dbpedia-owl:team	dbpedia:Dominica_national_football_team .
+dbpedia:Joel_Etienne-Clark__11	dbpedia-owl:team	dbpedia:Dominica_national_football_team .
+dbpedia:Ryan_Edgar__10	dbpedia-owl:team	dbpedia:Dominica_national_football_team .
+dbpedia:Terry_Dyer__1	dbpedia-owl:team	dbpedia:Dominica_national_football_team .
+<http://dbpedia.org/resource/Daniel_Francis_(footballer)__11>	dbpedia-owl:team	dbpedia:Dominica_national_football_team .
+dbpedia:Lester_Langlais__1	dbpedia-owl:team	dbpedia:Dominica_national_football_team .
+dbpedia:Jefferson_Louis	dbpedia-owl:team	dbpedia:Dominica_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Dominica_national_football_team .
+dbpedia:Ryan_Edgar	dbpedia-owl:team	dbpedia:Dominica_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Dominica_national_football_team .
+dbpedia:Mitchell_Joseph	dbpedia-owl:team	dbpedia:Dominica_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Dominica_national_football_team .
+dbpedia:Terry_Dyer	dbpedia-owl:team	dbpedia:Dominica_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Dominica_national_football_team .
+<http://dbpedia.org/resource/Windsor_Park_(Dominica)>	dbpprop:tenants	dbpedia:Dominica_national_football_team ;
+	dbpedia-owl:tenant	dbpedia:Dominica_national_football_team .

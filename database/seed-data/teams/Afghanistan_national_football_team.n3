@@ -1,0 +1,544 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://fr.dbpedia.org/resource/\u00C9quipe_d\u0027Afghanistan_de_football>	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+@prefix ns2:	<http://de.dbpedia.org/resource/> .
+ns2:Afghanische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+@prefix ns3:	<http://wikidata.dbpedia.org/resource/> .
+ns3:Q192966	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+@prefix ns4:	<http://cs.dbpedia.org/resource/> .
+ns4:Afghánská_fotbalová_reprezentace	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Selección_de_fútbol_de_Afganistán	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+@prefix ns6:	<http://id.dbpedia.org/resource/> .
+ns6:Tim_nasional_sepak_bola_Afganistan	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+<http://it.dbpedia.org/resource/Nazionale_di_calcio_dell\u0027Afghanistan>	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+@prefix ns7:	<http://ja.dbpedia.org/resource/> .
+ns7:サッカーアフガニスタン代表	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+@prefix ns8:	<http://ko.dbpedia.org/resource/> .
+ns8:아프가니스탄_축구_국가대표팀	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+@prefix ns9:	<http://nl.dbpedia.org/resource/> .
+ns9:Afghaans_voetbalelftal	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+@prefix ns10:	<http://pl.dbpedia.org/resource/> .
+ns10:Reprezentacja_Afganistanu_w_piłce_nożnej	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+@prefix ns11:	<http://pt.dbpedia.org/resource/> .
+ns11:Seleção_Afegã_de_Futebol	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Masihullah_Barakzai	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Masihullah_Barakzai	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ahmad_Rahil_Fourmoli	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ali_Danish	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns15:	<http://en.wikipedia.org/wiki/> .
+ns15:Afghanistan_national_football_team	foaf:primaryTopic	dbpedia:Afghanistan_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbpedia:Afghanistan_national_football_team	rdf:type	dbpedia-owl:Organisation .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Afghanistan_national_football_team	rdf:type	yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		owl:Thing ,
+		yago:YagoPermanentlyLocatedEntity .
+@prefix ns18:	<http://schema.org/> .
+dbpedia:Afghanistan_national_football_team	rdf:type	ns18:Organization ,
+		yago:YagoLegalActorGeo ,
+		dbpedia-owl:Agent ,
+		yago:YagoLegalActor ,
+		yago:NationalSportsTeamsOfAfghanistan ,
+		yago:FootballTeam108080025 ,
+		yago:AsianNationalAssociationFootballTeams ,
+		ns18:SportsTeam .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Afghanistan_national_football_team	rdf:type	dul:Agent ,
+		dul:SocialPerson .
+@prefix ns20:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns20:Afganistanin_jalkapallomaajoukkue ,
+		<http://it.dbpedia.org/resource/Nazionale_di_calcio_dell\u0027Afghanistan> .
+@prefix ns21:	<http://lv.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns21:Afganistānas_futbola_izlase .
+@prefix ns22:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns22:阿富汗國家足球隊 .
+@prefix ns23:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns23:Afghanistan_national_football_team .
+@prefix ns24:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns24:Afghanistans_herrlandslag_i_fotboll .
+@prefix ns25:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns25:Echipa_națională_de_fotbal_a_Afganistanului .
+@prefix ns26:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns26:Afghanistan_national_football_team .
+@prefix ns27:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns27:Сборная_Афганистана_по_футболу ,
+		ns11:Seleção_Afegã_de_Futebol .
+@prefix ns28:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns28:منتخب_أفغانستان_الوطني_لكرة_القدم ,
+		dbpedia:Afghanistan_national_football_team .
+@prefix ns29:	<http://hr.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns29:Afganistanska_nogometna_reprezentacija .
+@prefix ns30:	<http://et.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns30:Afganistani_jalgpallikoondis .
+@prefix ns31:	<http://kk.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns31:Ауғанстан_Ұлттық_футбол_құрама_командасы .
+@prefix ns32:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns32:Afganistan_Millî_Futbol_Takımı ,
+		ns3:Q192966 .
+@prefix ns33:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns33:تیم_ملی_فوتبال_افغانستان .
+@prefix ns34:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns34:Afganistano_vyrų_futbolo_rinktinė .
+@prefix ns35:	<http://ka.dbpedia.org/resource/\u10D7\u10D0\u10E0\u10D2\u10D8:> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns35:ქვეყნის_მონაცემები_ავღანეთი .
+@prefix ns36:	<http://yago-knowledge.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns36:Afghanistan_national_football_team ,
+		ns7:サッカーアフガニスタン代表 ,
+		<http://fr.dbpedia.org/resource/\u00C9quipe_d\u0027Afghanistan_de_football> .
+@prefix ns37:	<http://be.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns37:Зборная_Афганістана_па_футболе .
+@prefix ns38:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns38:Збірна_Афганістану_з_футболу .
+@prefix ns39:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns39:Afgán_labdarúgó-válogatott ,
+		ns4:Afghánská_fotbalová_reprezentace ,
+		ns8:아프가니스탄_축구_국가대표팀 ,
+		ns5:Selección_de_fútbol_de_Afganistán ,
+		ns9:Afghaans_voetbalelftal .
+@prefix ns40:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns40:अफगाणिस्तान_फुटबॉल_संघ ,
+		ns2:Afghanische_Fußballnationalmannschaft ,
+		ns6:Tim_nasional_sepak_bola_Afganistan .
+@prefix ns41:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns41:Đội_tuyển_bóng_đá_quốc_gia_Afghanistan .
+@prefix ns42:	<http://wikidata.org/entity/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns42:Q192966 ,
+		ns10:Reprezentacja_Afganistanu_w_piłce_nożnej .
+@prefix ns43:	<http://he.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns43:נבחרת_אפגניסטן_בכדורגל ,
+		<http://rdf.freebase.com/ns/m.04gssk> .
+@prefix ns44:	<http://ms.dbpedia.org/resource/> .
+dbpedia:Afghanistan_national_football_team	owl:sameAs	ns44:Pasukan_bola_sepak_kebangsaan_Afghanistan .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Afghanistan_national_football_team	rdfs:label	"Selecci\u00F3n de f\u00FAtbol de Afganist\u00E1n"@es ,
+		"\u00C9quipe d'Afghanistan de football"@fr ,
+		"Afghaans voetbalelftal"@nl ,
+		"Sele\u00E7\u00E3o Afeg\u00E3 de Futebol"@pt ,
+		"Afghanische Fu\u00DFballnationalmannschaft"@de ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0410\u0444\u0433\u0430\u043D\u0438\u0441\u0442\u0430\u043D\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"Afghanistan national football team" ,
+		"\u963F\u5BCC\u6C57\u570B\u5BB6\u7537\u5B50\u8DB3\u7403\u968A"@zh ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0623\u0641\u063A\u0627\u0646\u0633\u062A\u0627\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"Nazionale di calcio dell'Afghanistan"@it ,
+		"Reprezentacja Afganistanu w pi\u0142ce no\u017Cnej"@pl ,
+		"\u30B5\u30C3\u30AB\u30FC\u30A2\u30D5\u30AC\u30CB\u30B9\u30BF\u30F3\u4EE3\u8868"@ja .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Afghanistan_national_football_team	dcterms:subject	category:Asian_national_association_football_teams ,
+		category:National_sports_teams_of_Afghanistan ,
+		category:Afghanistan_national_football_team ;
+	foaf:name	"Afghanistan" ;
+	foaf:nick	"The Lions of Khurasan ()" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Afghanistan_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Afghanistan_national_football_team?oldid=605122052> ;
+	rdfs:comment	"La Selecci\u00F3n de f\u00FAtbol de Afganist\u00E1n es el equipo nacional de Afganist\u00E1n y est\u00E1 coordinado por la Federaci\u00F3n de F\u00FAtbol de Afganist\u00E1n. Este equipo se fund\u00F3 en 1933 y fue incorporado a la FIFA en 1948 y en la AFC en 1954."@es ,
+		"L'\u00E9quipe d'Afghanistan de football (persan : \u062A\u06CC\u0645 \u0645\u0644\u06CC \u0641\u0648\u062A\u0628\u0627\u0644 \u0627\u0641\u063A\u0627\u0646\u0633\u062A\u0627\u0646, pachto:\u062F\u0627\u0641\u063A\u0627\u0646\u0633\u062A\u0627\u0646 \u0645\u0644\u06CC \u0641\u0648\u062A\u0628\u0627\u0644 \u062A\u06CC\u0645) regroupe les meilleurs joueurs afghans sous l'\u00E9gide de la F\u00E9d\u00E9ration d'Afghanistan de football."@fr ,
+		"Die afghanische Fu\u00DFballnationalmannschaft der M\u00E4nner (persisch \u200F\u0634\u06CC\u0631\u0627\u0646 \u062E\u0631\u0627\u0633\u0627\u0646 \u200E die L\u00F6wen von Khorassan) ist eine Auswahl afghanischer Fu\u00DFballspieler, die den Afghanischen Fu\u00DFballverband (AFF) auf internationaler Ebene repr\u00E4sentiert."@de ,
+		"A Sele\u00E7\u00E3o Afeg\u00E3 de Futebol (Persa: \u062A\u06CC\u0645 \u0645\u0644\u06CC \u0641\u0648\u062A\u0628\u0627\u0644 \u0627\u0641\u063A\u0627\u0646\u0633\u062A\u0627\u0646), conhecidos como Os Le\u00F5es de Khorasan \u00E9 a equipe nacional do Afeganist\u00E3o e \u00E9 controlada pela Federa\u00E7\u00E3o Afeg\u00E3 de Futebol. A equipe nacional foi fundada em 1922 juntando-se a FIFA em 1948 e a AFC em 1954. O Afeganist\u00E3o foi um dos membros fundadores da AFC. A sele\u00E7\u00E3o nacional do Afeganist\u00E3o faz seus jogos no Ghazi National Olympic Stadium em Kabul."@pt ,
+		"La nazionale di calcio afghana \u00E8 la squadra calcistica nazionale dell'Afghanistan ed \u00E8 posta sotto l'egida della Federazione calcistica dell'Afghanistan. La nazionale \u00E8 stata creata nel 1933 e si \u00E8 iscritta alla FIFA nel 1948. La nazionale gioca le partite in casa nello stadio olimpico nazionale Ghazi, \u00E8 stato costruito nel 1920 e pu\u00F2 ospitare un massimo di 55 000 spettatori. La nazionale \u00E8 chiamata leoni di Khorasan."@it ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0410\u0444\u0433\u0430\u043D\u0438\u0441\u0442\u0430\u043D\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u0410\u0444\u0433\u0430\u043D\u0438\u0441\u0442\u0430\u043D \u043D\u0430 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F\u0445 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u0442\u0441\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0435\u0439 \u0410\u0444\u0433\u0430\u043D\u0438\u0441\u0442\u0430\u043D\u0430. \u0411\u044B\u043B\u0430 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 1922 \u0433\u043E\u0434\u0443. \u0412 1944 \u0433\u043E\u0434\u0443 \u043F\u0440\u0438\u0441\u043E\u0435\u0434\u0438\u043D\u0438\u043B\u0430\u0441\u044C \u043A \u0424\u0418\u0424\u0410, \u0430 \u0432 1954 \u043A \u0410\u0437\u0438\u0430\u0442\u0441\u043A\u043E\u0439 \u043A\u043E\u043D\u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u0444\u0443\u0442\u0431\u043E\u043B\u0430.\u041B\u0443\u0447\u0448\u0435\u0435 \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u0435 \u0431\u044B\u043B\u043E \u043D\u0430 \u0410\u0437\u0438\u0430\u0442\u0441\u043A\u0438\u0445 \u0438\u0433\u0440\u0430\u0445 1951 \u0433\u043E\u0434\u0430, \u043D\u0430 \u043A\u043E\u0442\u043E\u0440\u044B\u0445 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0437\u0430\u043D\u044F\u043B\u0430 \u0447\u0435\u0442\u0432\u0451\u0440\u0442\u043E\u0435 \u043C\u0435\u0441\u0442\u043E. \u0421 1984 \u043F\u043E 2003 \u0433\u043E\u0434 \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u043D\u0435 \u043F\u0440\u043E\u0432\u0435\u043B\u0430 \u043D\u0438 \u043E\u0434\u043D\u043E\u0439 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0439 \u0432\u0441\u0442\u0440\u0435\u0447\u0438 \u0438 \u043E\u043F\u0443\u0441\u0442\u0438\u043B\u0430\u0441\u044C \u0434\u043E 173 \u043C\u0435\u0441\u0442\u0430 \u0432 \u043C\u0438\u0440\u043E\u0432\u043E\u043C \u0440\u0435\u0439\u0442\u0438\u043D\u0433\u0435 \u0424\u0418\u0424\u0410."@ru ,
+		"Reprezentacja Afganistanu w pi\u0142ce no\u017Cnej gra pod egid\u0105 Afga\u0144skiego Zwi\u0105zku Pi\u0142ki No\u017Cnej. Federacja zosta\u0142a za\u0142o\u017Cona w 1933, cz\u0142onkiem FIFA zosta\u0142a w 1948, AFC w 1954 (by\u0142a jednym z za\u0142o\u017Cycieli). W rankingu FIFA ze stycznia 2014 zajmuje 140 miejsce."@pl ,
+		"\u963F\u5BCC\u6C57\u570B\u5BB6\u7537\u5B50\u8DB3\u7403\u968A\u662F\u963F\u5BCC\u6C57\u7537\u5B50\u570B\u5BB6\u4EE3\u8868\u8DB3\u7403\u968A\uFF0C\u7531\u963F\u5BCC\u6C57\u8DB3\u7403\u5354\u6703\uFF08Football Federation of Afghanistan\uFF09\u8CA0\u8CAC\u7BA1\u8F44\u3002\u963F\u5BCC\u6C57\u570B\u5BB6\u8DB3\u7403\u968A\u65BC1933\u5E74\u6210\u7ACB\uFF0C\u4E26\u4E14\u65BC1948\u5E74\u53CA1954\u5E74\u5148\u5F8C\u52A0\u5165\u570B\u969B\u8DB3\u5354\u53CA\u4E9E\u6D32\u8DB3\u5354\u3002\u570B\u5BB6\u968A\u4EE5\u4F4D\u65BC\u9996\u90FD\u5580\u5E03\u723E\u7684\u52A0\u6FDF\u9AD4\u80B2\u9928(Ghazi Stadium)\u70BA\u4E3B\u5834\u5834\u5730\u3002\u4E0D\u904E\u963F\u5BCC\u6C57\u570B\u5167\u591A\u5E74\u4F86\u8655\u65BC\u975E\u5E38\u8CA7\u7AAE\u7684\u74B0\u5883\uFF0C\u4EA4\u901A\u4E26\u4E0D\u767C\u9054\uFF0C\u52A0\u4E0A\u81EA\u4E03\u5341\u5E74\u4EE3\u570B\u5167\u653F\u5C40\u4E0D\u7A69\u5B9A\u800C\u88AB\u8FEB\u62D2\u7D55\u7D44\u968A\u53C3\u52A0\u570B\u969B\u8CFD\u3002\u4F0A\u65AF\u862D\u904B\u52D5\u7D44\u7E54\u5854\u5229\u73ED\u65BC1996\u5E74\u81F32001\u5E74\u7D71\u6CBB\u963F\u5BCC\u6C57\u671F\u9593\uFF0C\u5BE6\u65BD\u7368\u88C1\u5C08\u5236\u548C\u653F\u6559\u5408\u4E00\u653F\u7B56\uFF0C\u4E5F\u5426\u5B9A\u5305\u62EC\u8DB3\u7403\u5728\u5167\u7684\u570B\u969B\u6027\u9AD4\u80B2\u904B\u52D5\uFF0C\u52A0\u6FDF\u9AD4\u80B2\u9928\u66F4\u8B8A\u70BA\u69CD\u6583\u72AF\u4EBA\u7684\u5211\u5834\uFF0C\u6700\u7D42\u5854\u5229\u73ED\u5728\u7F8E\u570B\u7684\u8ECD\u4E8B\u6253\u64CA\u4E0B\u65BC2001\u5E74\u57AE\u81FA\u3002\u570B\u5BB6\u968A\u65BC2003\u5E74\u91CD\u65B0\u7D44\u968A\u53C3\u8CFD\uFF0C\u4E26\u9996\u6B21\u53C3\u52A02004\u5E74\u4E9E\u6D32\u76C3\u5916\u570D\u8CFD\uFF0C\u4EE5\u53CA2006\u5E74\u4E16\u754C\u676F\u5916\u570D\u8CFD\u3002\u7531\u65BC\u963F\u5BCC\u6C57\u8DB3\u7403\u968A\u4EE5\u524D\u5F9E\u672A\u53C3\u52A0\u904E\u4EFB\u4F55\u5927\u578B\u570B\u969B\u8CFD\uFF0C\u800C\u4E14\u56E0\u570B\u5167\u653F\u6CBB\u53CA\u7D93\u6FDF\u74B0\u5883\u4ECD\u4E0D\u5229\u8DB3\u7403\u904B\u52D5\u767C\u5C55\uFF0C\u6545\u5BE6\u529B\u4ECD\u8207\u5176\u4ED6\u570B\u5BB6\u6709\u76F8\u7576\u5927\u7684\u8DDD\u96E2\uFF0C\u6BCF\u6B21\u570B\u969B\u8CFD\u4E5F\u662F\u5927\u6557\u800C\u56DE\u3002\u963F\u5BCC\u6C57\u76EE\u524D\u552F\u4E00\u53C3\u52A0\u904E\u7684\u570B\u969B\u8CFD\u4E8B\u662F1948\u5E74\u502B\u6566\u5967\u904B\u6703\uFF0C\u7576\u6642\u963F\u5BCC\u6C57\u4EE50\u6BD46\u4E0D\u6575\u76E7\u68EE\u5821\u3002"@zh ,
+		"The Afghanistan National Football Team(Persian: \u062A\u064A\u0645 \u0645\u0644\u0649 \u0641\u0648\u062A\u0628\u0627\u0644 \u0627\u0641\u063A\u0627\u0646\u0633\u062A\u0627\u0646\u200E), popularly known as the Lions of Chorasan or The Lions of Khurasan (Persian: \u0634\u064A\u0631\u0627\u0646 \u062E\u0631\u0627\u0633\u0627\u0646\u200E), is the national team of Afghanistan and is controlled by the Afghanistan Football Federation. Founded in 1922, they joined FIFA in 1948 and the AFC in 1954, as one of the founding members." ,
+		"Het Afghaans voetbalelftal is een team van voetballers dat Afghanistan vertegenwoordigt bij internationale wedstrijden."@nl ,
+		"\u30B5\u30C3\u30AB\u30FC\u30A2\u30D5\u30AC\u30CB\u30B9\u30BF\u30F3\u4EE3\u8868\u306F\u3001\u30A2\u30D5\u30AC\u30CB\u30B9\u30BF\u30F3\u30B5\u30C3\u30AB\u30FC\u9023\u76DF (AFF) \u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30A2\u30D5\u30AC\u30CB\u30B9\u30BF\u30F3\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u5357\u30A2\u30B8\u30A2\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u6240\u5C5E\u3002"@ja ;
+	dbpprop:mostCaps	dbpedia:Zohib_Islam_Amiri ;
+	foaf:isPrimaryTopicOf	ns15:Afghanistan_national_football_team ;
+	dbpprop:club	<http://dbpedia.org/resource/FK_Bosna_92_%C3%96rebro> ,
+		<http://dbpedia.org/resource/Bhawanipore_F.C.> ,
+		<http://dbpedia.org/resource/Toofaan_Harirod_F.C.> ,
+		<http://dbpedia.org/resource/TGM_SV_J%C3%BCgesheim> ,
+		<http://dbpedia.org/resource/Shaheen_Asmayee_F.C.> ,
+		"TB Uphusen" ,
+		dbpedia:VfB_Oldenburg ,
+		<http://dbpedia.org/resource/Dempo_S.C.> ,
+		dbpedia:Asker_Fotball ,
+		dbpedia:TuS_Dassendorf ,
+		1 ,
+		dbpedia:Altonaer_FC_von_1893 ,
+		<http://dbpedia.org/resource/Mumbai_F.C.> ,
+		<http://dbpedia.org/resource/Songkhla_United_F.C.> ;
+	dbpprop:captain	dbpedia:Zohib_Islam_Amiri .
+@prefix ns49:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Afghanistan_national_football_team	dbpprop:hasPhotoCollection	ns49:Afghanistan_national_football_team ;
+	dbpprop:name	dbpedia:Mustafa_Azadzoy ,
+		dbpedia:Faysal_Shayesteh ,
+		dbpedia:Mohammad_Mashriqi ,
+		dbpedia:Hashmatullah_Barakzai ,
+		dbpedia:Mansur_Faqiryar ,
+		dbpedia:Balal_Arezou ,
+		dbpedia:Zohib_Islam_Amiri ,
+		dbpedia:Ahmad_Hatifi ,
+		dbpedia:Mohammad_Rafi_Barakzai ,
+		dbpedia:Hamid_Sadid ,
+		dbpedia:Farzad_Ataee ,
+		dbpedia:Mustafa_Hadid ,
+		dbpedia:Sandjar_Ahmadi ,
+		dbpedia:Hamidullah_Yosufzai ,
+		"Afghanistan" ,
+		dbpedia:Zamir_Daudi ,
+		dbpedia:Djelaludin_Sharityar ;
+	dbpedia-owl:abstract	"La nazionale di calcio afghana \u00E8 la squadra calcistica nazionale dell'Afghanistan ed \u00E8 posta sotto l'egida della Federazione calcistica dell'Afghanistan. La nazionale \u00E8 stata creata nel 1933 e si \u00E8 iscritta alla FIFA nel 1948. La nazionale gioca le partite in casa nello stadio olimpico nazionale Ghazi, \u00E8 stato costruito nel 1920 e pu\u00F2 ospitare un massimo di 55 000 spettatori. La nazionale \u00E8 chiamata leoni di Khorasan. Ultimamente la nazionale ha ottenuto ottime prestazioni: ricordiamo fra le altre l'ottimo secondo posto nella SAFF Cup 2011, la vittoria della medesima competizione nel 2013 ai danni dell'India e le larghe vittorie in amichevole, ricevendo anche i complimenti del presidente Karzai . Attualmente la nazionale afgana occupa il 173esimo posto nel ranking FIFA, il risultato migliore da quando si \u00E8 reiscritta alla FIFA (gennaio 2003)."@it ,
+		"La Selecci\u00F3n de f\u00FAtbol de Afganist\u00E1n es el equipo nacional de Afganist\u00E1n y est\u00E1 coordinado por la Federaci\u00F3n de F\u00FAtbol de Afganist\u00E1n. Este equipo se fund\u00F3 en 1933 y fue incorporado a la FIFA en 1948 y en la AFC en 1954. Sus partidos como local lo suele jugar en el Estadio Nacional Ol\u00EDmpico Ghazi inaugurado en 1920 y con capacidad para 25.000 personas.El jugador m\u00E1s destacado de la selecci\u00F3n actual es Djelaludin Sharityar, que actualmente juega en el club Al Hadd, equipo de la primera divisi\u00F3n de Bahr\u00E9in."@es ,
+		"Reprezentacja Afganistanu w pi\u0142ce no\u017Cnej gra pod egid\u0105 Afga\u0144skiego Zwi\u0105zku Pi\u0142ki No\u017Cnej. Federacja zosta\u0142a za\u0142o\u017Cona w 1933, cz\u0142onkiem FIFA zosta\u0142a w 1948, AFC w 1954 (by\u0142a jednym z za\u0142o\u017Cycieli). W rankingu FIFA ze stycznia 2014 zajmuje 140 miejsce."@pl ,
+		"\u30B5\u30C3\u30AB\u30FC\u30A2\u30D5\u30AC\u30CB\u30B9\u30BF\u30F3\u4EE3\u8868\u306F\u3001\u30A2\u30D5\u30AC\u30CB\u30B9\u30BF\u30F3\u30B5\u30C3\u30AB\u30FC\u9023\u76DF (AFF) \u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30A2\u30D5\u30AC\u30CB\u30B9\u30BF\u30F3\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u5357\u30A2\u30B8\u30A2\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u6240\u5C5E\u3002"@ja ,
+		"A Sele\u00E7\u00E3o Afeg\u00E3 de Futebol (Persa: \u062A\u06CC\u0645 \u0645\u0644\u06CC \u0641\u0648\u062A\u0628\u0627\u0644 \u0627\u0641\u063A\u0627\u0646\u0633\u062A\u0627\u0646), conhecidos como Os Le\u00F5es de Khorasan \u00E9 a equipe nacional do Afeganist\u00E3o e \u00E9 controlada pela Federa\u00E7\u00E3o Afeg\u00E3 de Futebol. A equipe nacional foi fundada em 1922 juntando-se a FIFA em 1948 e a AFC em 1954. O Afeganist\u00E3o foi um dos membros fundadores da AFC. A sele\u00E7\u00E3o nacional do Afeganist\u00E3o faz seus jogos no Ghazi National Olympic Stadium em Kabul. O melhor desempenho do Afeganist\u00E3o em competi\u00E7\u00F5es internacionais foi nos Jogos Asi\u00E1ticos de 1951 quando ficou em 4\u00B0 lugar. O Afeganist\u00E3o n\u00E3o fez jogos internacionais entre 1984 e 2003, ano em que a equipe fez seu melhor desempenho no Ranking da FIFA alcan\u00E7ando a 164\u00B0 posi\u00E7\u00E3o. O jogo n\u00E3o foi incentivado durante o regime talib\u00E3 (1996-2001). Atualmente o Afeganist\u00E3o tem baixa participa\u00E7\u00E3o no futebol devido a falta de verbas e problemas de seguran\u00E7a dentro do pa\u00EDs. Mas, apesar disso, o Afeganist\u00E3o foi vice campe\u00E3o do SAFF Championship 2011, onde foram derrotados apenas pelo anfitri\u00E3o e maior redentor de t\u00EDtulos da competi\u00E7\u00E3o a \u00CDndia, em uma partida que foi marcada por um penalti contra o Afeganist\u00E3o e a posterior expuls\u00E3o do goleiro. Na fase de grupos o Afeganist\u00E3o empatou com a \u00CDndia, e derrotou o Sri Lanka e But\u00E3o e saiu vencedor na semi-final contra o Nepal."@pt ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0410\u0444\u0433\u0430\u043D\u0438\u0441\u0442\u0430\u043D\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u0410\u0444\u0433\u0430\u043D\u0438\u0441\u0442\u0430\u043D \u043D\u0430 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F\u0445 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u0442\u0441\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0435\u0439 \u0410\u0444\u0433\u0430\u043D\u0438\u0441\u0442\u0430\u043D\u0430. \u0411\u044B\u043B\u0430 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 1922 \u0433\u043E\u0434\u0443. \u0412 1944 \u0433\u043E\u0434\u0443 \u043F\u0440\u0438\u0441\u043E\u0435\u0434\u0438\u043D\u0438\u043B\u0430\u0441\u044C \u043A \u0424\u0418\u0424\u0410, \u0430 \u0432 1954 \u043A \u0410\u0437\u0438\u0430\u0442\u0441\u043A\u043E\u0439 \u043A\u043E\u043D\u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u0444\u0443\u0442\u0431\u043E\u043B\u0430.\u041B\u0443\u0447\u0448\u0435\u0435 \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u0435 \u0431\u044B\u043B\u043E \u043D\u0430 \u0410\u0437\u0438\u0430\u0442\u0441\u043A\u0438\u0445 \u0438\u0433\u0440\u0430\u0445 1951 \u0433\u043E\u0434\u0430, \u043D\u0430 \u043A\u043E\u0442\u043E\u0440\u044B\u0445 \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0437\u0430\u043D\u044F\u043B\u0430 \u0447\u0435\u0442\u0432\u0451\u0440\u0442\u043E\u0435 \u043C\u0435\u0441\u0442\u043E. \u0421 1984 \u043F\u043E 2003 \u0433\u043E\u0434 \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u043D\u0435 \u043F\u0440\u043E\u0432\u0435\u043B\u0430 \u043D\u0438 \u043E\u0434\u043D\u043E\u0439 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0439 \u0432\u0441\u0442\u0440\u0435\u0447\u0438 \u0438 \u043E\u043F\u0443\u0441\u0442\u0438\u043B\u0430\u0441\u044C \u0434\u043E 173 \u043C\u0435\u0441\u0442\u0430 \u0432 \u043C\u0438\u0440\u043E\u0432\u043E\u043C \u0440\u0435\u0439\u0442\u0438\u043D\u0433\u0435 \u0424\u0418\u0424\u0410. \u0412 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u0410\u0444\u0433\u0430\u043D\u0438\u0441\u0442\u0430\u043D \u043D\u0435 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u0435\u0442 \u0430\u043A\u0442\u0438\u0432\u043D\u043E\u0439 \u0434\u0435\u044F\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u0438 \u043F\u043E \u043E\u0442\u043D\u043E\u0448\u0435\u043D\u0438\u044E \u043A \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u0438\u0437-\u0437\u0430 \u043D\u0435\u0434\u043E\u0441\u0442\u0430\u0442\u043A\u0430 \u0441\u0440\u0435\u0434\u0441\u0442\u0432 \u0438 \u043F\u0440\u043E\u0431\u043B\u0435\u043C \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u0438 \u0432\u043D\u0443\u0442\u0440\u0438 \u0441\u0442\u0440\u0430\u043D\u044B."@ru ,
+		"Die afghanische Fu\u00DFballnationalmannschaft der M\u00E4nner (persisch \u200F\u0634\u06CC\u0631\u0627\u0646 \u062E\u0631\u0627\u0633\u0627\u0646 \u200E die L\u00F6wen von Khorassan) ist eine Auswahl afghanischer Fu\u00DFballspieler, die den Afghanischen Fu\u00DFballverband (AFF) auf internationaler Ebene repr\u00E4sentiert."@de ,
+		"Het Afghaans voetbalelftal is een team van voetballers dat Afghanistan vertegenwoordigt bij internationale wedstrijden."@nl ,
+		"\u963F\u5BCC\u6C57\u570B\u5BB6\u7537\u5B50\u8DB3\u7403\u968A\u662F\u963F\u5BCC\u6C57\u7537\u5B50\u570B\u5BB6\u4EE3\u8868\u8DB3\u7403\u968A\uFF0C\u7531\u963F\u5BCC\u6C57\u8DB3\u7403\u5354\u6703\uFF08Football Federation of Afghanistan\uFF09\u8CA0\u8CAC\u7BA1\u8F44\u3002\u963F\u5BCC\u6C57\u570B\u5BB6\u8DB3\u7403\u968A\u65BC1933\u5E74\u6210\u7ACB\uFF0C\u4E26\u4E14\u65BC1948\u5E74\u53CA1954\u5E74\u5148\u5F8C\u52A0\u5165\u570B\u969B\u8DB3\u5354\u53CA\u4E9E\u6D32\u8DB3\u5354\u3002\u570B\u5BB6\u968A\u4EE5\u4F4D\u65BC\u9996\u90FD\u5580\u5E03\u723E\u7684\u52A0\u6FDF\u9AD4\u80B2\u9928(Ghazi Stadium)\u70BA\u4E3B\u5834\u5834\u5730\u3002\u4E0D\u904E\u963F\u5BCC\u6C57\u570B\u5167\u591A\u5E74\u4F86\u8655\u65BC\u975E\u5E38\u8CA7\u7AAE\u7684\u74B0\u5883\uFF0C\u4EA4\u901A\u4E26\u4E0D\u767C\u9054\uFF0C\u52A0\u4E0A\u81EA\u4E03\u5341\u5E74\u4EE3\u570B\u5167\u653F\u5C40\u4E0D\u7A69\u5B9A\u800C\u88AB\u8FEB\u62D2\u7D55\u7D44\u968A\u53C3\u52A0\u570B\u969B\u8CFD\u3002\u4F0A\u65AF\u862D\u904B\u52D5\u7D44\u7E54\u5854\u5229\u73ED\u65BC1996\u5E74\u81F32001\u5E74\u7D71\u6CBB\u963F\u5BCC\u6C57\u671F\u9593\uFF0C\u5BE6\u65BD\u7368\u88C1\u5C08\u5236\u548C\u653F\u6559\u5408\u4E00\u653F\u7B56\uFF0C\u4E5F\u5426\u5B9A\u5305\u62EC\u8DB3\u7403\u5728\u5167\u7684\u570B\u969B\u6027\u9AD4\u80B2\u904B\u52D5\uFF0C\u52A0\u6FDF\u9AD4\u80B2\u9928\u66F4\u8B8A\u70BA\u69CD\u6583\u72AF\u4EBA\u7684\u5211\u5834\uFF0C\u6700\u7D42\u5854\u5229\u73ED\u5728\u7F8E\u570B\u7684\u8ECD\u4E8B\u6253\u64CA\u4E0B\u65BC2001\u5E74\u57AE\u81FA\u3002\u570B\u5BB6\u968A\u65BC2003\u5E74\u91CD\u65B0\u7D44\u968A\u53C3\u8CFD\uFF0C\u4E26\u9996\u6B21\u53C3\u52A02004\u5E74\u4E9E\u6D32\u76C3\u5916\u570D\u8CFD\uFF0C\u4EE5\u53CA2006\u5E74\u4E16\u754C\u676F\u5916\u570D\u8CFD\u3002\u7531\u65BC\u963F\u5BCC\u6C57\u8DB3\u7403\u968A\u4EE5\u524D\u5F9E\u672A\u53C3\u52A0\u904E\u4EFB\u4F55\u5927\u578B\u570B\u969B\u8CFD\uFF0C\u800C\u4E14\u56E0\u570B\u5167\u653F\u6CBB\u53CA\u7D93\u6FDF\u74B0\u5883\u4ECD\u4E0D\u5229\u8DB3\u7403\u904B\u52D5\u767C\u5C55\uFF0C\u6545\u5BE6\u529B\u4ECD\u8207\u5176\u4ED6\u570B\u5BB6\u6709\u76F8\u7576\u5927\u7684\u8DDD\u96E2\uFF0C\u6BCF\u6B21\u570B\u969B\u8CFD\u4E5F\u662F\u5927\u6557\u800C\u56DE\u3002\u963F\u5BCC\u6C57\u76EE\u524D\u552F\u4E00\u53C3\u52A0\u904E\u7684\u570B\u969B\u8CFD\u4E8B\u662F1948\u5E74\u502B\u6566\u5967\u904B\u6703\uFF0C\u7576\u6642\u963F\u5BCC\u6C57\u4EE50\u6BD46\u4E0D\u6575\u76E7\u68EE\u5821\u3002"@zh ,
+		"The Afghanistan National Football Team(Persian: \u062A\u064A\u0645 \u0645\u0644\u0649 \u0641\u0648\u062A\u0628\u0627\u0644 \u0627\u0641\u063A\u0627\u0646\u0633\u062A\u0627\u0646\u200E), popularly known as the Lions of Chorasan or The Lions of Khurasan (Persian: \u0634\u064A\u0631\u0627\u0646 \u062E\u0631\u0627\u0633\u0627\u0646\u200E), is the national team of Afghanistan and is controlled by the Afghanistan Football Federation. Founded in 1922, they joined FIFA in 1948 and the AFC in 1954, as one of the founding members. They play their home games at the Ghazi National Olympic Stadium in Kabul, the capital of Afghanistan.They played no international fixtures from 1984 to 2003 FIFA World Rankings and the game was discouraged under the religious Taliban regime from 1996 to 2001. The Afghan national team eventually returned to the international arena in 2002, when they played South Korea in the Asian Games, losing 2\u20130. Since their reemergence in international football. Afghanistan made it to the final match of SAFF Championship 2011, and it was their best performance in an international competition to date, where they were eventually defeated by the hosts and title holders India. In the group stage, Afghanistan drew with India, and defeated Sri Lanka and Bhutan, and won the semi-final against Nepal. In 2013, the Afghan team defeated Pakistan 3\u20130 in a Friendly game, and in the SAFF Championship 2013, it defeated Bhutan 3\u20130 in the group stage as well as Sri Lanka, 3\u20131. On 11 September 2013, the Afghans became SAFF 2013 champions after defeating India 2\u20130. They have reached a peak of 132 in September 2013 in the FIFA World Rankings. Goalkeeper, Mansur Faqiryar received the Best Player of the Tournament Award. The victory led to celebrations across Afghanistan.At the 2014 Ballon D'or ceremony, the Afghanistan Football Federation won the FIFA Fair Play Award. Afghanistan was honored with the award for the outstanding performance of the Afghanistan football during the year, despite chaos of war and difficult political situation the country is facing. FIFA in a statement, posted on its website said, \u201CFollowing a year of remarkable achievement in grassroots level football, building infrastructure to further develop football throughout the country and nurturing a professional league despite enduring over a decade of disorder stemming from war, Afghanistan has been presented the 2013 FIFA Fair Play award.\u201D" ,
+		"L'\u00E9quipe d'Afghanistan de football (persan : \u062A\u06CC\u0645 \u0645\u0644\u06CC \u0641\u0648\u062A\u0628\u0627\u0644 \u0627\u0641\u063A\u0627\u0646\u0633\u062A\u0627\u0646, pachto:\u062F\u0627\u0641\u063A\u0627\u0646\u0633\u062A\u0627\u0646 \u0645\u0644\u06CC \u0641\u0648\u062A\u0628\u0627\u0644 \u062A\u06CC\u0645) regroupe les meilleurs joueurs afghans sous l'\u00E9gide de la F\u00E9d\u00E9ration d'Afghanistan de football."@fr ;
+	dbpedia-owl:wikiPageID	1200987 ;
+	dbpedia-owl:wikiPageRevisionID	605122052 ;
+	dbpprop:topScorer	dbpedia:Balal_Arezou ;
+	dbpprop:clubnat	"NOR" ,
+		"SWE" ,
+		"THA" ,
+		"AFG" ,
+		"IND" ,
+		"GER" ;
+	dbpprop:goals	9 ,
+		2 ,
+		3 ,
+		0 ,
+		1 ,
+		6 ,
+		5 ;
+	dbpprop:caps	8 ,
+		10 ,
+		12 ,
+		14 ,
+		15 ,
+		1 ,
+		7 ,
+		26 ,
+		16 ,
+		17 ,
+		22 ,
+		36 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Afghanistan_national_football_team	dbpprop:age	"1986-01-03+02:00"^^xsd:date ,
+		"1983-03-15+02:00"^^xsd:date ,
+		"1981-12-02+02:00"^^xsd:date ,
+		"1992-07-24+02:00"^^xsd:date ,
+		"1987-08-26+02:00"^^xsd:date ,
+		"1991-06-21+02:00"^^xsd:date ,
+		1990 ,
+		"1988-12-28+02:00"^^xsd:date ,
+		"1992-02-10+02:00"^^xsd:date ,
+		"1986-03-13+02:00"^^xsd:date ,
+		"1987-08-05+02:00"^^xsd:date ,
+		"1987-05-02+02:00"^^xsd:date ,
+		"1988-08-25+02:00"^^xsd:date ,
+		"1987-07-07+02:00"^^xsd:date ;
+	dbpprop:coach	<http://dbpedia.org/resource/Erich_Rutem%C3%B6ller> ;
+	dbpprop:patternSh	"_AFG14a" .
+@prefix ns51:	<http://dbpedia.org/datatype/> .
+dbpedia:Afghanistan_national_football_team	dbpprop:patternSh	"50400.0"^^ns51:second ;
+	dbpedia-owl:coach	<http://dbpedia.org/resource/Erich_Rutem%C3%B6ller> ;
+	dbpprop:patternSo	"leftarm2=FFFFFF" ;
+	dbpprop:association	dbpedia:Afghanistan_Football_Federation ,
+		"FIFA" ;
+	dbpprop:body	"FFFFFF" ,
+		"DD0000" ;
+	dbpprop:confederation	dbpedia:Asian_Football_Confederation ;
+	dbpprop:fifaRank	1225 ;
+	dbpprop:leftarm	"DD0000" ;
+	dbpprop:patternB	"50400.0"^^ns51:second ,
+		"_AFG14a" ;
+	dbpprop:patternLa	"50400.0"^^ns51:second ,
+		"_AFG14a" ;
+	dbpprop:patternRa	"50400.0"^^ns51:second ,
+		"_AFG14a" ;
+	dbpprop:rightarm	"DD0000" ,
+		"FFFFFF" ;
+	dbpprop:shorts	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:socks	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:no	25 ,
+		22 ,
+		16 ,
+		17 ,
+		18 ,
+		14 ,
+		15 ,
+		8 ,
+		9 ,
+		10 ,
+		11 ,
+		1 ;
+	dbpprop:pos	"MF" ,
+		"FW" ,
+		"DF" ,
+		"GK" ;
+	dbpprop:badge	"Afghanistan Football Federation.gif" ;
+	dbpprop:firstGame	"Afghanistan 0\u20130" ;
+	dbpprop:largestLoss	11 ;
+	dbpprop:largestWin	1 ;
+	dbpprop:regionalName	dbpedia:AFC_Asian_Cup ;
+	dbpprop:eloMax	179 ;
+	dbpprop:eloMaxDate	"2013-09-11+02:00"^^xsd:date ;
+	dbpprop:eloMin	207 ;
+	dbpprop:eloMinDate	"2010-11-17+02:00"^^xsd:date ;
+	dbpprop:eloRank	179 ;
+	dbpprop:fifaMax	122 ;
+	dbpprop:fifaMaxDate	"April 2014" ;
+	dbpprop:fifaMin	204 ;
+	dbpprop:fifaMinDate	"January 2003" ;
+	dbpprop:subConfederation	dbpedia:South_Asian_Football_Federation ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.khorasanlions.com/> ,
+		<http://afghanland.com/entertainment/soccer.html> ,
+		<http://www.eloratings.net/Afghanistan.htm> ;
+	dbpprop:homeStadium	"Ghazi Stadium and Afghanistan Football Federation Stadium" ;
+	dbpedia-owl:stadium	dbpedia:Afghanistan_Football_Federation_Stadium ,
+		dbpedia:Ghazi_Stadium ;
+	dbpprop:nickname	"The Lions of Khurasan" ;
+	dbpprop:fifaCode	"AFG" .
+dbpedia:Qays_Shayesteh	dbpedia-owl:birthPlace	dbpedia:Afghanistan_national_football_team ;
+	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Zohib_Islam_Amiri	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mohammad_Zaki	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Aziz_Rohallah__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Zohib_Islam_Amiri__2	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+ns28:منتخب_أفغانستان_الوطني_لكرة_القدم	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns37:Зборная_Афганістана_па_футболе	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns30:Afganistani_jalgpallikoondis	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns33:تیم_ملی_فوتبال_افغانستان	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns20:Afganistanin_jalkapallomaajoukkue	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns43:נבחרת_אפגניסטן_בכדורגל	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns26:Afghanistan_national_football_team	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns29:Afganistanska_nogometna_reprezentacija	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns39:Afgán_labdarúgó-válogatott	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns35:ქვეყნის_მონაცემები_ავღანეთი	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns31:Ауғанстан_Ұлттық_футбол_құрама_командасы	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns34:Afganistano_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns21:Afganistānas_futbola_izlase	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns40:अफगाणिस्तान_फुटबॉल_संघ	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns44:Pasukan_bola_sepak_kebangsaan_Afghanistan	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns25:Echipa_națională_de_fotbal_a_Afganistanului	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns27:Сборная_Афганистана_по_футболу	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns23:Afghanistan_national_football_team	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns24:Afghanistans_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns32:Afganistan_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns38:Збірна_Афганістану_з_футболу	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns41:Đội_tuyển_bóng_đá_quốc_gia_Afghanistan	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+ns22:阿富汗國家足球隊	owl:sameAs	dbpedia:Afghanistan_national_football_team .
+dbpedia:Hamidullah_Karimi	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Abdul_Salem_Jamshid__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Waheed_Nadeem__3	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Faysal_Shayesteh	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mustafa_Hadid	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Balal_Arezou	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Farid_Ahmadi	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mustafa_Azadzoy	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+<http://dbpedia.org/resource/Klaus_St%C3%A4rk>	dbpedia-owl:managerClub	dbpedia:Afghanistan_national_football_team .
+dbpedia:Raza_Razai	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Davoud_Yaqoubi	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Hafizullah_Qadami	dbpedia-owl:birthPlace	dbpedia:Afghanistan_national_football_team ;
+	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Raza_Mahmoudi	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Shamsuddin_Amiri	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Sandjar_Ahmadi	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+<http://dbpedia.org/resource/Ali_Amiri_(Afghan_footballer)>	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ali_Jan_Faizi	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mansur_Faqiryar__3	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mohammad_Saber_Rohparwar	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ali_Ahmadi	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Abdul_Maroof_Gullestani	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Bashir_Ahmad_Saadat	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Aziz_Rohallah	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ahmed_Zia_Azimi	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Basir_Kamrani	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ali_Omari	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mohammad_Yousef_Kargar	dbpedia-owl:managerClub	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Afghanistan_national_football_team ;
+	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Najiballah_Zarimi	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Israfeel_Kohistani	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Hashmatullah_Barakzai__3	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+<http://dbpedia.org/resource/Erich_Rutem%C3%B6ller>	dbpprop:managerclubs	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:currentclub	dbpedia:Afghanistan_national_football_team ;
+	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Zubayr_Amiri	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Milad_Salem	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Abassin_Alikhil	dbpedia-owl:birthPlace	dbpedia:Afghanistan_national_football_team ;
+	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Harez-Arian_Habib__4	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Shamsuddin_Amiri__3	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ghazi_Stadium	dbpprop:tenants	dbpedia:Afghanistan_national_football_team ;
+	dbpedia-owl:tenant	dbpedia:Afghanistan_national_football_team .
+dbpedia:Obaidullah_Karimi	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Said_Azimshah_Garibzada	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ali_Askar_Lali	dbpedia-owl:managerClub	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Afghanistan_national_football_team ;
+	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Farid_Ahmadi__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Hamidullah_Karimi__2	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Sayeed_Tahir_Shah	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ahmad_Khesraw	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Eris_Muhandes	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mohammad_Fazel_Bratyan	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ahmad_Nasir_Safi	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ahmed_Zia_Azimi__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mohammad_Yousef_Kargar__4	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ahmad_Hatifi__3	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+<http://dbpedia.org/resource/1951_in_Japanese_football>	dbpprop:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Gennadi_Sarychev__8	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Qays_Shayesteh__4	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mohammad_Yousef_Kargar__3	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mohammad_Yousef_Kargar__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mohammad_Yousef_Kargar__2	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Harez-Arian_Habib	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Yusuf_Barak	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mansur_Faqiryar	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+<http://dbpedia.org/resource/H._A._Habib>	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ata_Yamrali	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Israfeel_Kohistani__5	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ali_Jan_Faizi__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Hafizullah_Qadami__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Waheed_Nadeem	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ghulam_Hazrat_Niazi	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mohammad_Mashriqi	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Omar_Nazar	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Gennadi_Sarychev	dbpedia-owl:managerClub	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ali_Yarzada	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Faisal_Sakhizada	dbpedia-owl:birthPlace	dbpedia:Afghanistan_national_football_team ;
+	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Said_Daftari	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Sidiq_Walizada	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mohammad_Nader_Aimi	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Hashmatullah_Barakzai	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Abdul_Salem_Jamshid	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Djelaludin_Sharityar	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mujtaba_Faiz	dbpedia-owl:birthPlace	dbpedia:Afghanistan_national_football_team ;
+	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Nazib_Nadvi	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Qais_Khedri	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+<http://dbpedia.org/resource/2013_SAFF_Championship_Final>	dbpprop:team	dbpedia:Afghanistan_national_football_team ;
+	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mohammad_Marouf_Jamhour	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Bashir_Ahmad_Saadat__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Obaidullah_Karimi__6	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+<http://dbpedia.org/resource/Klaus_St%C3%A4rk__1>	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Faysal_Shayesteh__4	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mustafa_Hadid__6	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Najib_Naderi	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ahmad_Hatifi	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Abassin_Alikhil__2	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Zamir_Daudi	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Afghanistan_national_football_team .
+dbpedia:Djelaludin_Sharityar__8	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ali_Yarzada__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mohammad_Saber_Rohparwar__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Balal_Arezou__5	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+<http://dbpedia.org/resource/H._A._Habib__6>	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ahmad_Nasir_Safi__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ata_Yamrali__6	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mohammad_Nader_Aimi__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Yusuf_Barak__5	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mohammad_Zaki__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Qais_Khedri__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Sayeed_Tahir_Shah__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Zamir_Daudi__7	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Abdul_Maroof_Gullestani__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Masihullah_Barakzai__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mohammad_Fazel_Bratyan__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Eris_Muhandes__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mujtaba_Faiz__2	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ali_Askar_Lali__2	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Omar_Nazar__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Sidiq_Walizada__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ahmad_Rahil_Fourmoli__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Zubayr_Amiri__6	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ali_Omari__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mustafa_Azadzoy__6	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mohammad_Mashriqi__6	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Najiballah_Zarimi__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Faisal_Sakhizada__2	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Sandjar_Ahmadi__3	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Najib_Naderi__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Said_Azimshah_Garibzada__4	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Said_Daftari__5	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Afganistan_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Afghanistan_national_football_team .
+dbpedia:Afganistan_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Afghanistan_national_football_team .
+dbpedia:Afghan_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Afghanistan_national_football_team .
+dbpedia:Davoud_Yaqoubi__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Ghulam_Hazrat_Niazi__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Mohammad_Marouf_Jamhour__1	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .
+dbpedia:Milad_Salem__9	dbpedia-owl:team	dbpedia:Afghanistan_national_football_team .

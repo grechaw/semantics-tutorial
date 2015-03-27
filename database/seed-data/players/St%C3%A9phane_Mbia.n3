@@ -1,0 +1,242 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Stéphane_Mbia	foaf:primaryTopic	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_Africa_Cup_of_Nations_squads>	dbpprop:name	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Mbia>	rdf:type	yago:Ligue1Players ,
+		yago:Contestant109613191 .
+@prefix ns5:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Mbia>	rdf:type	ns5:Q5 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/St%C3%A9phane_Mbia>	rdf:type	dul:Agent ,
+		dul:NaturalPerson ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Mbia>	rdf:type	dbpedia-owl:Athlete ,
+		yago:Whole100003553 ,
+		yago:CameroonInternationalFootballers ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:CameroonianExpatriateFootballers ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Object100002684 ,
+		yago:Absentee109757653 ,
+		dbpedia-owl:SoccerPlayer ,
+		dbpedia-owl:Agent ,
+		<http://dbpedia.org/class/yago/StadeRennaisF.C.Players> ,
+		dbpedia-owl:Person ,
+		yago:CameroonianExpatriates ,
+		yago:OlympiqueDeMarseillePlayers .
+@prefix ns8:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Mbia>	rdf:type	ns8:SoccerPlayer ,
+		yago:OlympicFootballersOfCameroon ,
+		yago:PhysicalEntity100001930 ,
+		yago:CameroonianFootballers ,
+		yago:KadjiSportsAcademyPlayers .
+@prefix ns9:	<http://schema.org/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Mbia>	rdf:type	ns9:Person ,
+		yago:Player110439851 ,
+		yago:Athlete109820263 ,
+		yago:FootballPlayer110101634 ,
+		<http://dbpedia.org/class/yago/PeopleFromYaound%C3%A9> ,
+		yago:FootballersAtThe2008SummerOlympics ,
+		yago:ExpatriateFootballersInFrance ,
+		foaf:Person ,
+		ns5:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/St%C3%A9phane_Mbia>	rdf:type	owl:Thing ;
+	owl:sameAs	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+@prefix ns11:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Mbia>	owl:sameAs	ns11:Stéphane_Mbia ,
+		<http://rdf.freebase.com/ns/m.027lgj5> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/St%C3%A9phane_Mbia>	rdfs:label	"St\u00E9phane Mbia"@fr ,
+		"St\u00E9phane Mbia"@de ,
+		"St\u00E9phane Mbia"@nl ,
+		"\u041C\u0431\u0438\u0430, \u0421\u0442\u0435\u0444\u0430\u043D"@ru ,
+		"St\u00E9phane Mbia" ,
+		"\u30B9\u30C6\u30D5\u30A1\u30FC\u30CC\u30FB\u30A8\u30E0\u30D3\u30A2"@ja ,
+		"St\u00E9phane M'Bia"@pl ,
+		"\u65AF\u7279\u51E1\u7EB3\u00B7\u59C6\u6BD4\u4E9A"@zh ,
+		"St\u00E9phane Mbia"@pt ,
+		"St\u00E9phane M'Bia"@es ,
+		"St\u00E9phane M'Bia"@it ,
+		"\u0633\u062A\u064A\u0641\u0627\u0646 \u0645\u0628\u064A\u0627"@ar .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/St%C3%A9phane_Mbia>	dcterms:subject	category:Olympique_de_Marseille_players ,
+		<http://dbpedia.org/resource/Category:People_from_Yaound%C3%A9> ,
+		category:Living_people ,
+		category:Premier_League_players ,
+		category:Kadji_Sports_Academy_players ,
+		category:Sevilla_FC_footballers ,
+		category:Footballers_at_the_2008_Summer_Olympics ,
+		category:Expatriate_footballers_in_France ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Cameroonian_expatriates_in_Spain ,
+		category:Olympic_footballers_of_Cameroon ,
+		category:Cameroonian_footballers ,
+		<http://dbpedia.org/resource/Category:1986_births> ,
+		category:Cameroon_international_footballers ,
+		category:Association_football_midfielders ,
+		category:Cameroonian_expatriate_footballers ,
+		category:Expatriate_footballers_in_Spain ,
+		category:Cameroonian_expatriates_in_France ,
+		category:Expatriate_footballers_in_England ,
+		category:La_Liga_footballers ,
+		<http://dbpedia.org/resource/Category:Queens_Park_Rangers_F.C._players> ,
+		category:Ligue_1_players ,
+		category:Cameroonian_expatriates_in_the_United_Kingdom ,
+		<http://dbpedia.org/resource/Category:2010_Africa_Cup_of_Nations_players> ,
+		<http://dbpedia.org/resource/Category:Stade_Rennais_F.C._players> ,
+		<http://dbpedia.org/resource/Category:2008_Africa_Cup_of_Nations_players> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/St\u00E9phane_Mbia_5403.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Mbia>	dc:description	"Footballer" ,
+		"Footballer" ;
+	foaf:givenName	"Stephane" ;
+	foaf:name	"Stephane Mbia" ,
+		"St\u00E9phane Mbia Etoundi" ,
+		"Mbia , Stephane" ,
+		"St\u00E9phane Mbia" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/St%C3%A9phane_Mbia>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/St\u00E9phane_Mbia?oldid=606805682> ;
+	rdfs:comment	"\u30B9\u30C6\u30D5\u30A1\u30FC\u30CC\u30FB\u30A8\u30E0\u30D3\u30A2\u30FB\u30A8\u30C8\u30A5\u30F3\u30C7\u30A3\uFF08St\u00E9phane Mbia Etoundi, 1986\u5E745\u670820\u65E5 - \uFF09\u306F\u3001\u30AB\u30E1\u30EB\u30FC\u30F3\u30FB\u30E4\u30A6\u30F3\u30C7\u51FA\u8EAB\u306E\u540C\u56FD\u4EE3\u8868\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30BB\u30D3\u30FC\u30B8\u30E3FC\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\u3002"@ja ,
+		"St\u00E9phane M'Bia Etoundi (ur. 20 maja 1986 w Jaunde) - kameru\u0144ski pi\u0142karz, wyst\u0119puje na pozycji pomocnika, wzrost: 187 cm, waga: 78 kg,"@pl ,
+		"St\u00E9phane Mbia Etoundi (born 20 May 1986) is a Cameroonian footballer who plays for Sevilla FC in La Liga, on loan from Queens Park Rangers, as a defensive midfielder.Mbia has also represented the Cameroon national football team on 41 occasions since winning his first cap in 2005." ,
+		"St\u00E9phane Mbia Etoundi (Yaound\u00E9, 20 de maio de 1986) \u00E9 um futebolista camaron\u00EAs que atua como volante. Atualmente, defende o Sevilla."@pt ,
+		"St\u00E9phane Mbia Etoundi (Yaund\u00E9, Camer\u00FAn, 20 de mayo de 1986), futbolista camerun\u00E9s, naturalizado franc\u00E9s. Puede jugar de mediocampista o defensa central y su actual equipo es el Sevilla Futbol Club. En el equipo de Nervi\u00F3n se encuentra cedido durante la temporada 13-14 con una clausula de compra de unos 4 millones de euros al finalizar la misma. El jueves 1 de Mayo de 2014 M'Bia da el pase a la final de la Europa League al Sevilla F. C."@es ,
+		"\u0633\u062A\u064A\u0641\u0627\u0646 \u0645\u0628\u064A\u0627 (\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629: St\u00E9phane Mbia)\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 20 \u0645\u0627\u064A\u0648 1986 \u0641\u064A \u064A\u0627\u0648\u0646\u062F\u064A \u0641\u064A \u0627\u0644\u0643\u0627\u0645\u064A\u0631\u0648\u0646\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0627\u0645\u064A\u0631\u0648\u0646\u064A.\u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0645\u0631\u0633\u064A\u0644\u064A\u0627 \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0641\u064A \u0639\u0627\u0645 2009\u060C \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0627\u0644\u0622\u0646.\u0645\u0646\u0630 \u0639\u0627\u0645 2005 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0643\u0627\u0645\u064A\u0631\u0648\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645."@ar ,
+		"\u0421\u0442\u0435\u0444\u0430\u0301\u043D \u041C\u0431\u0438\u0430\u0301 (\u0444\u0440. St\u00E9phane Mbia; 20 \u043C\u0430\u044F 1986, \u042F\u0443\u043D\u0434\u0435) \u2014 \u043A\u0430\u043C\u0435\u0440\u0443\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043E\u043F\u043E\u0440\u043D\u044B\u0439 \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u0430\u043C\u0435\u0440\u0443\u043D\u0430 \u0438 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u041A\u0443\u0438\u043D\u0437 \u041F\u0430\u0440\u043A \u0420\u0435\u0439\u043D\u0434\u0436\u0435\u0440\u0441\u00BB, \u043D\u0430 \u043F\u0440\u0430\u0432\u0430\u0445 \u0430\u0440\u0435\u043D\u0434\u044B \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0438\u0439 \u0437\u0430 \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u0443\u044E \u00AB\u0421\u0435\u0432\u0438\u043B\u044C\u044E\u00BB."@ru ,
+		"St\u00E9phane Mbia Etoundi (* 20. Mai 1986 in Yaound\u00E9) ist ein kamerunischer Fu\u00DFballspieler. Der defensive Mittelfeldspieler steht seit 2013 beim FC Sevilla unter Vertrag und ist Nationalspieler Kameruns."@de ,
+		"St\u00E9phane M'Bia Etoundi (Yaound\u00E9, 20 maggio 1986) \u00E8 un calciatore camerunese, centrocampista o all'occorenza difensore del Siviglia, in prestito dal Queens Park Rangers, e della Nazionale camerunese."@it ,
+		"St\u00E9phane M'Bia Etoundi (Yaound\u00E9, 20 mei 1986) is een Kameroens betaald voetballer die bij voorkeur uitkomt als verdedigende middenvelder. Hij tekende in augustus 2012 een tweejarig contract bij Queens Park Rangers, dat hem voor een niet bekendgemaakt bedrag overnam van Olympique Marseille. Hij debuteerde in mei 2006 voor het Kameroens voetbalelftal.M'Bia werd in eigen land opgeleid tot voetballer op de Kadji Sports Academy."@nl ,
+		"\u65AF\u7279\u51E1\u7EB3\u00B7\u59C6\u6BD4\u4E9A\u00B7\u57C3\u901A\u8FEA\uFF08St\u00E9phane Mbia Etoundi\uFF0C1986\u5E745\u670820\u65E5\uFF0D\uFF09\u662F\u4E00\u540D\u5580\u9EA5\u9686\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u64D4\u4EFB\u9632\u5B88\u4E2D\u5834\uFF0C\u66FE\u6548\u529B\u6CD5\u570B\u7403\u968A\u96F7\u6069\u53CA\u99AC\u8CFD\u3002\u73FE\u6548\u529B\u82F1\u8D85\u7403\u968A\u6606\u58EB\u67CF\u6D41\u6D6A\u3002"@zh ,
+		"St\u00E9phane Mbia Etoundi, n\u00E9 le 20 mai 1986 \u00E0 Yaound\u00E9 (Cameroun), est un footballeur international camerounais qui \u00E9volue au poste de milieu de terrain au S\u00E9ville FC en pr\u00EAt des Queens Park Rangers. Il peut \u00E9galement occuper le poste de d\u00E9fenseur.Il poss\u00E8de \u00E9galement la nationalit\u00E9 fran\u00E7aise."@fr ;
+	foaf:surname	"Mbia" ;
+	foaf:isPrimaryTopicOf	ns1:Stéphane_Mbia .
+@prefix ns17:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Mbia>	dbpprop:hasPhotoCollection	ns17:Stéphane_Mbia ;
+	dbpprop:caption	"Mbia playing for Marseille in 2010" ;
+	dbpprop:name	"St\u00E9phane Mbia" ,
+		"Mbia , Stephane" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/St\u00E9phane_Mbia_5403.jpg?width=300> ;
+	dbpedia-owl:abstract	"St\u00E9phane Mbia Etoundi (* 20. Mai 1986 in Yaound\u00E9) ist ein kamerunischer Fu\u00DFballspieler. Der defensive Mittelfeldspieler steht seit 2013 beim FC Sevilla unter Vertrag und ist Nationalspieler Kameruns."@de ,
+		"St\u00E9phane M'Bia Etoundi (Yaound\u00E9, 20 maggio 1986) \u00E8 un calciatore camerunese, centrocampista o all'occorenza difensore del Siviglia, in prestito dal Queens Park Rangers, e della Nazionale camerunese."@it ,
+		"St\u00E9phane Mbia Etoundi, n\u00E9 le 20 mai 1986 \u00E0 Yaound\u00E9 (Cameroun), est un footballeur international camerounais qui \u00E9volue au poste de milieu de terrain au S\u00E9ville FC en pr\u00EAt des Queens Park Rangers. Il peut \u00E9galement occuper le poste de d\u00E9fenseur.Il poss\u00E8de \u00E9galement la nationalit\u00E9 fran\u00E7aise."@fr ,
+		"St\u00E9phane Mbia Etoundi (Yaund\u00E9, Camer\u00FAn, 20 de mayo de 1986), futbolista camerun\u00E9s, naturalizado franc\u00E9s. Puede jugar de mediocampista o defensa central y su actual equipo es el Sevilla Futbol Club. En el equipo de Nervi\u00F3n se encuentra cedido durante la temporada 13-14 con una clausula de compra de unos 4 millones de euros al finalizar la misma. El jueves 1 de Mayo de 2014 M'Bia da el pase a la final de la Europa League al Sevilla F. C. con un gol en el minuto 94 de juego en Mestalla ante el Valencia F. C.,que permite al club hispalense jugar su tercera final europea."@es ,
+		"St\u00E9phane Mbia Etoundi (born 20 May 1986) is a Cameroonian footballer who plays for Sevilla FC in La Liga, on loan from Queens Park Rangers, as a defensive midfielder.Mbia has also represented the Cameroon national football team on 41 occasions since winning his first cap in 2005. He has scored a total of 3 goals in his international career, scoring once against Liberia during the 2008 Africa Cup of Nations qualification on the 3 June 2007 and twice versus Tunisia during the quarter-finals of the 2008 Africa Cup of Nations in Ghana on 4 February 2008." ,
+		"St\u00E9phane Mbia Etoundi (Yaound\u00E9, 20 de maio de 1986) \u00E9 um futebolista camaron\u00EAs que atua como volante. Atualmente, defende o Sevilla."@pt ,
+		"\u0633\u062A\u064A\u0641\u0627\u0646 \u0645\u0628\u064A\u0627 (\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629: St\u00E9phane Mbia)\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 20 \u0645\u0627\u064A\u0648 1986 \u0641\u064A \u064A\u0627\u0648\u0646\u062F\u064A \u0641\u064A \u0627\u0644\u0643\u0627\u0645\u064A\u0631\u0648\u0646\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0627\u0645\u064A\u0631\u0648\u0646\u064A.\u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0645\u0631\u0633\u064A\u0644\u064A\u0627 \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0641\u064A \u0639\u0627\u0645 2009\u060C \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0627\u0644\u0622\u0646.\u0645\u0646\u0630 \u0639\u0627\u0645 2005 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0643\u0627\u0645\u064A\u0631\u0648\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645."@ar ,
+		"\u0421\u0442\u0435\u0444\u0430\u0301\u043D \u041C\u0431\u0438\u0430\u0301 (\u0444\u0440. St\u00E9phane Mbia; 20 \u043C\u0430\u044F 1986, \u042F\u0443\u043D\u0434\u0435) \u2014 \u043A\u0430\u043C\u0435\u0440\u0443\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043E\u043F\u043E\u0440\u043D\u044B\u0439 \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u0430\u043C\u0435\u0440\u0443\u043D\u0430 \u0438 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u041A\u0443\u0438\u043D\u0437 \u041F\u0430\u0440\u043A \u0420\u0435\u0439\u043D\u0434\u0436\u0435\u0440\u0441\u00BB, \u043D\u0430 \u043F\u0440\u0430\u0432\u0430\u0445 \u0430\u0440\u0435\u043D\u0434\u044B \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0438\u0439 \u0437\u0430 \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u0443\u044E \u00AB\u0421\u0435\u0432\u0438\u043B\u044C\u044E\u00BB."@ru ,
+		"\u65AF\u7279\u51E1\u7EB3\u00B7\u59C6\u6BD4\u4E9A\u00B7\u57C3\u901A\u8FEA\uFF08St\u00E9phane Mbia Etoundi\uFF0C1986\u5E745\u670820\u65E5\uFF0D\uFF09\u662F\u4E00\u540D\u5580\u9EA5\u9686\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u64D4\u4EFB\u9632\u5B88\u4E2D\u5834\uFF0C\u66FE\u6548\u529B\u6CD5\u570B\u7403\u968A\u96F7\u6069\u53CA\u99AC\u8CFD\u3002\u73FE\u6548\u529B\u82F1\u8D85\u7403\u968A\u6606\u58EB\u67CF\u6D41\u6D6A\u3002"@zh ,
+		"St\u00E9phane M'Bia Etoundi (ur. 20 maja 1986 w Jaunde) - kameru\u0144ski pi\u0142karz, wyst\u0119puje na pozycji pomocnika, wzrost: 187 cm, waga: 78 kg,"@pl ,
+		"St\u00E9phane M'Bia Etoundi (Yaound\u00E9, 20 mei 1986) is een Kameroens betaald voetballer die bij voorkeur uitkomt als verdedigende middenvelder. Hij tekende in augustus 2012 een tweejarig contract bij Queens Park Rangers, dat hem voor een niet bekendgemaakt bedrag overnam van Olympique Marseille. Hij debuteerde in mei 2006 voor het Kameroens voetbalelftal.M'Bia werd in eigen land opgeleid tot voetballer op de Kadji Sports Academy. Hij maakte daarop in het seizoen 2004/05 bij Stade Rennais zijn debuut in het betaald voetbal. M'Bia speelde er in vijf seizoenen meer dan honderd wedstrijden speelde. Hierin kenmerkte hij zich door zijn snelheid en duelkracht. Voorafgaand aan het seizoen 2009/10 werd M'Bia overgenomen door Olympique Marseille. Daarmee werd hij dat jaar als basisspeler Frans landskampioen en nam hij voor het eerst deel aan de UEFA Champions League. Marseille eindigde daarin als derde in haar poule achter Real Madrid CF en AC Milan en werd vervolgens in de achtste finale van de UEFA Europa League uitgeschakeld door SL Benfica. M'Bia kwam uit voor verschillende nationale jeugdelftallen van Kameroen en debuteerde in 2006 voor de nationale hoofdmacht. Daarmee nam hij deel aan de African Cup of Nations 2008, waarin Kameroen de finale verloor van Egypte (0-1). Datzelfde jaar nam hij met een nationale selectie deel aan de Olympische Zomerspelen 2008. Brazili\u00EB was daarop in de kwartfinale te sterk (2-0). Bondscoach Paul Le Guen nam M'Bia twee jaar later op in zijn selectie voor het WK 2010, waaraan hij als basisspeler begon."@nl ,
+		"\u30B9\u30C6\u30D5\u30A1\u30FC\u30CC\u30FB\u30A8\u30E0\u30D3\u30A2\u30FB\u30A8\u30C8\u30A5\u30F3\u30C7\u30A3\uFF08St\u00E9phane Mbia Etoundi, 1986\u5E745\u670820\u65E5 - \uFF09\u306F\u3001\u30AB\u30E1\u30EB\u30FC\u30F3\u30FB\u30E4\u30A6\u30F3\u30C7\u51FA\u8EAB\u306E\u540C\u56FD\u4EE3\u8868\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30BB\u30D3\u30FC\u30B8\u30E3FC\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\u3002"@ja ;
+	dbpedia-owl:wikiPageID	8837535 ;
+	dbpedia-owl:wikiPageRevisionID	606805682 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/St%C3%A9phane_Mbia>	dbpprop:birthDate	"1986-05-20+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Yaound\u00E9, Cameroon" ;
+	dbpprop:dateOfBirth	"1986-05-20+02:00"^^xsd:date .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Mbia>	dbpprop:placeOfBirth	dbpedia:Cameroon ,
+		<http://dbpedia.org/resource/Yaound%C3%A9> ;
+	dbpprop:shortDescription	"Footballer" ;
+	dbpedia-owl:birthDate	"1986-05-20+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Cameroon_national_football_team ,
+		dbpedia:Cameroon ,
+		<http://dbpedia.org/resource/Yaound%C3%A9> ;
+	dbpedia-owl:birthYear	"1986+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	200 ;
+	dbpprop:goals	4 ,
+		5 ,
+		3 ,
+		0 ;
+	dbpprop:bg	"Green" ;
+	dbpprop:id	48572 ;
+	dbpprop:caps	105 ,
+		69 ,
+		29 ,
+		18 ;
+	dbpprop:years	2009 ,
+		2012 ,
+		2013 ,
+		2004 ;
+	dbpprop:youthclubs	<http://dbpedia.org/resource/Stade_Rennais_F.C.> ,
+		dbpedia:Kadji_Sports_Academy ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/St%C3%A9phane_Mbia__4> ,
+		<http://dbpedia.org/resource/St%C3%A9phane_Mbia__6> ,
+		<http://dbpedia.org/resource/St%C3%A9phane_Mbia__7> ,
+		<http://dbpedia.org/resource/St%C3%A9phane_Mbia__5> ,
+		<http://dbpedia.org/resource/St%C3%A9phane_Mbia__3> ,
+		<http://dbpedia.org/resource/St%C3%A9phane_Mbia__1> ,
+		<http://dbpedia.org/resource/St%C3%A9phane_Mbia__2> ;
+	dbpprop:position	dbpedia:Midfielder ;
+	dbpedia-owl:position	dbpedia:Midfielder ;
+	dbpedia-owl:height	0.0 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Mbia>	ns21:height	"0.0"^^ns20:centimetre ;
+	dbpprop:currentclub	dbpedia:Sevilla_FC ;
+	dbpprop:clubnumber	22 ;
+	dbpprop:fullname	"St\u00E9phane Mbia Etoundi" ;
+	dbpprop:clubs	"\u2192 Sevilla" ,
+		<http://dbpedia.org/resource/Stade_Rennais_F.C.> ,
+		dbpedia:Olympique_de_Marseille ,
+		<http://dbpedia.org/resource/Queens_Park_Rangers_F.C.> ;
+	dbpedia-owl:team	dbpedia:Sevilla_FC ,
+		<http://dbpedia.org/resource/Stade_Rennais_F.C.> ,
+		dbpedia:Kadji_Sports_Academy ,
+		dbpedia:Cameroon_national_football_team ,
+		dbpedia:Olympique_de_Marseille ,
+		<http://dbpedia.org/resource/Queens_Park_Rangers_F.C.> .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Mbia>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Cameroon squads" ;
+	dbpprop:pcupdate	"2014-05-01+02:00"^^xsd:date ;
+	dbpprop:youthyears	2003 ,
+		2004 ;
+	dbpedia-owl:wikiPageExternalLink	<http://soccernet.espn.go.com/player/_/id/84899/stephane-m\u0027bia?cc=5739> ,
+		<http://www.stade-rennais-online.com/Stephane-Mbia.html> ,
+		<http://www.transfermarkt.co.uk/en/stephane-mbia/profil/spieler_27470.html> ;
+	dbpprop:fg	"Yellow" ;
+	dbpprop:nationalcaps	41 ;
+	dbpprop:nationalgoals	3 ;
+	dbpprop:nationalteam	dbpedia:Cameroon_national_football_team ;
+	dbpprop:nationalyears	2005 ;
+	dbpedia-owl:number	22 ;
+	dbpprop:ntupdate	"2012-11-30+02:00"^^xsd:date .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+dbpedia:Cameroon_national_football_team	dbpprop:name	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+<http://dbpedia.org/resource/2003_FIFA_U-17_World_Championship_squads>	dbpprop:name	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Olympique_de_Marseille_season>	dbpprop:name	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+dbpedia:Cameroon_at_the_FIFA_World_Cup	dbpprop:name	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+<http://dbpedia.org/resource/Queens_Park_Rangers_F.C.>	dbpprop:name	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+<http://dbpedia.org/resource/Queens_Park_Rangers_F.C.__St%C3%A9phane_Mbia__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+<http://dbpedia.org/resource/2008_Africa_Cup_of_Nations_squads>	dbpprop:name	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+<http://dbpedia.org/resource/2013%E2%80%9314_Sevilla_FC_season>	dbpprop:name	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+<http://dbpedia.org/resource/2011%E2%80%9312_Olympique_de_Marseille_season>	dbpprop:name	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+<http://dbpedia.org/resource/2009%E2%80%9310_Olympique_de_Marseille_season>	dbpprop:name	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+dbpedia:Sevilla_FC	dbpprop:name	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+<http://dbpedia.org/resource/Sevilla_FC__St%C3%A9phane_Mbia__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+<http://dbpedia.org/resource/St%C3%A9phane>	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+dbpedia:Stéphane_Mbia	owl:sameAs	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+<http://dbpedia.org/resource/2013%E2%80%9314_Sevilla_FC_season__St%C3%A9phane_Mbia__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+<http://dbpedia.org/resource/2009%E2%80%9310_Olympique_de_Marseille_season__St%C3%A9phane_Mbia__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+<http://dbpedia.org/resource/2011%E2%80%9312_Olympique_de_Marseille_season__St%C3%A9phane_Mbia__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Olympique_de_Marseille_season__St%C3%A9phane_M\u0027Bia__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+<http://dbpedia.org/resource/St%C3%A9phane_M\u0027Bia>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+<http://dbpedia.org/resource/Stephan_m\u0027bia>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+dbpedia:Stephan_mbia	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+<http://dbpedia.org/resource/Stephane_M\u0027Bia>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+dbpedia:Stephane_Mbia	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .
+<http://dbpedia.org/resource/Stephane_m\u0027bia>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/St%C3%A9phane_Mbia> .

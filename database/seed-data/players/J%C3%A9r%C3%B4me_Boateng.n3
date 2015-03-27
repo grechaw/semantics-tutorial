@@ -1,0 +1,252 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Jérôme_Boateng	foaf:primaryTopic	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/FC_Bayern_Munich__J%C3%A9r%C3%B4me_Boateng__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+<http://dbpedia.org/resource/2007%E2%80%9308_Hertha_BSC_season>	dbpprop:name	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:List_of_German_football_transfers_summer_2010	dbpprop:name	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+dbpedia:List_of_German_football_transfers_summer_2007	dbpprop:name	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+<http://dbpedia.org/resource/2009_UEFA_European_Under-21_Championship_squads>	dbpprop:name	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng>	rdf:type	dul:NaturalPerson ,
+		dul:Agent .
+@prefix ns7:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng>	rdf:type	ns7:Q5 .
+@prefix ns8:	<http://schema.org/> .
+<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng>	rdf:type	ns8:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng>	rdf:type	yago:FCBayernMunichPlayers .
+@prefix ns10:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng>	rdf:type	ns10:SoccerPlayer ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:HamburgerSVPlayers ,
+		foaf:Person ,
+		yago:FootballPlayer110101634 ,
+		yago:Athlete109820263 ,
+		yago:Player110439851 ,
+		dbpedia-owl:Person ,
+		dbpedia-owl:Agent ,
+		yago:GermanExpatriateFootballers ,
+		yago:TennisBorussiaBerlinPlayers ,
+		yago:AssociationFootballDefenders ,
+		yago:HerthaBSCPlayers ,
+		yago:Whole100003553 ,
+		yago:Object100002684 ,
+		yago:PeopleFromBerlin ,
+		yago:PhysicalEntity100001930 ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:Preserver110466918 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		<http://dbpedia.org/class/yago/Fu%C3%9Fball-BundesligaPlayers> ,
+		yago:GermanFootballers ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:GermanyUnder-21InternationalFootballers ,
+		yago:Person100007846 ,
+		ns7:Q215627 ,
+		yago:GermanyInternationalFootballers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng>	rdf:type	owl:Thing ,
+		yago:Defender109614684 ,
+		yago:Contestant109613191 ,
+		<http://dbpedia.org/class/yago/ManchesterCityF.C.Players> ,
+		dbpedia-owl:Athlete ,
+		yago:GermanPeopleOfGhanaianDescent ,
+		yago:HerthaBSCIIPlayers ;
+	owl:sameAs	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> ,
+		<http://rdf.freebase.com/ns/m.02vsll9> .
+@prefix ns12:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng>	owl:sameAs	ns12:Jérôme_Boateng .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng>	rdfs:label	"J\u00E9r\u00F4me Boateng"@fr ,
+		"J\u00E9r\u00F4me Boateng"@es ,
+		"J\u00E9r\u00F4me Boateng"@it ,
+		"\u8B1D\u6D1B\u7F8E\u00B7\u4FDD\u5B9A"@zh ,
+		"\u30B8\u30A7\u30ED\u30FC\u30E0\u30FB\u30DC\u30A2\u30C6\u30F3\u30B0"@ja ,
+		"J\u00E9r\u00F4me Boateng"@nl ,
+		"J\u00E9r\u00F4me Boateng"@pl ,
+		"J\u00E9r\u00F4me Boateng" ,
+		"J\u00E9r\u00F4me Boateng"@de ,
+		"\u0411\u043E\u0430\u0442\u0435\u043D\u0433, \u0416\u0435\u0440\u043E\u043C"@ru ,
+		"\u062C\u064A\u0631\u0648\u0645 \u0628\u0648\u0627\u062A\u064A\u0646\u063A"@ar ,
+		"J\u00E9r\u00F4me Boateng"@pt .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng>	dcterms:subject	<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng>	dcterms:subject	category:Hertha_BSC_players ,
+		category:German_people_of_Ghanaian_descent ,
+		category:Association_football_defenders ,
+		category:Germany_under-21_international_footballers ,
+		category:Germany_youth_international_footballers ,
+		category:UEFA_Euro_2012_players ,
+		category:Germany_international_footballers ,
+		category:FC_Bayern_Munich_players ,
+		<http://dbpedia.org/resource/Category:1988_births> ,
+		category:Ghanaian_footballers ,
+		<http://dbpedia.org/resource/Category:Manchester_City_F.C._players> ,
+		category:German_expatriate_footballers ,
+		category:Tennis_Borussia_Berlin_players ,
+		category:Hamburger_SV_players ,
+		category:Sportspeople_from_Berlin ,
+		category:Bundesliga_players ,
+		category:German_footballers ,
+		category:Hertha_BSC_II_players ,
+		category:Living_people ;
+	foaf:homepage	<http://www.jboateng.com> ;
+	foaf:depiction	<http://en.wikipedia.org/wiki/Special:FilePath/Jerome_Boateng_2011_Germany_(cropped).jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng>	dc:description	"German footballer" ,
+		"German footballer" ;
+	foaf:givenName	"Jerome" ;
+	foaf:name	"Boateng, Jerome" ,
+		"J\u00E9r\u00F4me Boateng" ,
+		"J\u00E9r\u00F4me Agyenim Boateng" ,
+		"Jerome Boateng" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/J\u00E9r\u00F4me_Boateng?oldid=606388139> ;
+	rdfs:comment	"J\u00E9r\u00F4me Agyenim Boateng (* 3. September 1988 in West-Berlin) ist ein deutscher Fu\u00DFballspieler, der derzeit beim FC Bayern M\u00FCnchen unter Vertrag steht und f\u00FCr die A-Nationalmannschaft aktiv ist. Er spielt in der Innenverteidigung, kann aber auch auf der rechten und linken Abwehrseite eingesetzt werden."@de ,
+		"J\u00E9r\u00F4me Agyenim Boateng (German pronunciation: [\u0292e\u02C8\u0281o\u02D0m bo.a\u02C8t\u025B\u014B]) (born 3 September 1988) is a German footballer who currently plays for Bayern Munich. A versatile defender, Boateng primarily is a centre back, although he is a capable full back on either side.Boateng started his career at Hertha BSC where he developed from the youth ranks to the main team." ,
+		"\u30B8\u30A7\u30ED\u30FC\u30E0\u30FB\u30DC\u30A2\u30C6\u30F3\u30B0\uFF08J\u00E9r\u00F4me Agyenim Boateng\u30011988\u5E749\u67083\u65E5 - \uFF09\u306F\u3001\u30C9\u30A4\u30C4\u30FB\u30D9\u30EB\u30EA\u30F3\u51FA\u8EAB\u306E\u30D7\u30ED\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FDF\u3002\u30D6\u30F3\u30C7\u30B9\u30EA\u30FC\u30AC\u30FB\u30D0\u30A4\u30A8\u30EB\u30F3\u30FB\u30DF\u30E5\u30F3\u30D8\u30F3\u6240\u5C5E\u3002\u30AC\u30FC\u30CA\u4EE3\u8868\u306E\u30B1\u30F4\u30A3\u30F3=\u30D7\u30EA\u30F3\u30B9\u30FB\u30DC\u30A2\u30C6\u30F3\u30B0\u306F\u7570\u6BCD\u5144\u5F1F\u3067\u3042\u308B\u3002"@ja ,
+		"J\u00E9r\u00F4me Agyenim Boateng (Berl\u00EDn, Alemania, 3 de septiembre de 1988) es un futbolista alem\u00E1n, es el hermano menor del tambi\u00E9n jugador de f\u00FAtbol Kevin-Prince Boateng (que juega en la selecci\u00F3n ghanesa). J\u00E9r\u00F4me juega de defensor y en la actualidad milita en las filas del Bayern de M\u00FAnich."@es ,
+		"\u062C\u064A\u0631\u0648\u0645 \u0628\u0648\u0627\u062A\u064A\u0646\u063A (\u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629: J\u00E9r\u00F4me Boateng) \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F (3 \u0633\u0628\u062A\u0645\u0628\u0631 1988 \u0641\u064A \u0628\u0631\u0644\u064A\u0646 - \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u063A\u0631\u0628\u064A\u0629) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0623\u0644\u0645\u0627\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 [[\u0646\u0627\u062F\u064A \u0628\u0627\u064A\u0631\u0646 \u0645\u064A\u0648\u0646\u062E\u0627\u0644\u0627\u0644\u0645\u0627\u0646\u064A \u0645\u0646\u0630 2011 \u0645\u0646 \u0645\u0627\u0646\u0634\u064A\u0633\u062A\u0631 \u0633\u064A\u062A\u064A \u0627\u0644\u0646\u062C\u0644\u064A\u0632\u064A \u0641\u064A \u0645\u0631\u0643\u0632 \u0642\u0644\u0628 \u0627\u0644\u062F\u0641\u0627\u0639 \u0643\u0645\u0627 \u064A\u062C\u064A\u062F \u0627\u0644\u0644\u0639\u0628 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0638\u0647\u064A\u0631 \u0648\u0642\u062F \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0645\u0627\u0646\u0634\u0633\u062A\u0631 \u0633\u064A\u062A\u064A \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A \u0639\u0627\u0645 2010"@ar ,
+		"J\u00E9r\u00F4me Boateng (wym. [\u0292e\u02C8\u0281o\u02D0m bo.a\u02C8t\u025B\u014B]; ur. 3 wrze\u015Bnia 1988 r. w Berlinie) \u2013 niemiecki pi\u0142karz, syn Niemki i Gha\u0144czyka, wyst\u0119puj\u0105cy na pozycji obro\u0144cy w Bayernie. Jego brat Kevin-Prince Boateng jest pi\u0142karzem FC Schalke 04 i reprezentantem Ghany.Dotychczas w Bundeslidze rozegra\u0142 66 mecz\u00F3w i strzeli\u0142 dwa gole."@pl ,
+		"J\u00E9r\u00F4me Boateng est un joueur de football international allemand n\u00E9 le 3 septembre 1988 \u00E0 Berlin. Il \u00E9volue au poste de d\u00E9fenseur central ou de lat\u00E9ral droit ou gauche.D'origine ghan\u00E9enne, ce joueur polyvalent, capable de jouer \u00E0 tous les postes de la d\u00E9fense, a remport\u00E9 avec le Bayern Munich, club avec lequel il \u00E9volue depuis 2011, lors de la m\u00EAme saison, le Championnat d'Allemagne de football, la Coupe d'Allemagne de football et la Ligue des champions de l'UEFA 2012-2013."@fr ,
+		"J\u00E9r\u00F4me Agyenim Boateng (Berlino Ovest, 3 settembre 1988) \u00E8 un calciatore tedesco, difensore del Bayern Monaco e della Nazionale tedesca.Jerome ha il padre ghanese e la madre tedesca, ed ha deciso di giocare per la Nazionale tedesca. Ha un fratello Kevin-Prince Boateng, anch'egli calciatore che gioca nello Schalke 04 e nella Nazionale ghanese."@it ,
+		"J\u00E9r\u00F4me Boateng (Berlijn, 3 september 1988) is een Duits betaald voetballer van deels Ghanese afkomst. Hij tekende in juli 2011 een contract bij Bayern M\u00FCnchen. J\u00E9r\u00F4me is de jongere halfbroer van Kevin-Prince Boateng, die ook half-Duits is, maar voor het Ghanees voetbalelftal uitkomt."@nl ,
+		"\u0416\u0435\u0440\u043E\u0301\u043C \u0411\u043E\u0430\u0442\u0435\u0301\u043D\u0433 (\u0444\u0440. J\u00E9r\u00F4me Boateng; 3 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1988, \u0417\u0430\u043F\u0430\u0434\u043D\u044B\u0439 \u0411\u0435\u0440\u043B\u0438\u043D) \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442 \u0433\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043D\u0435\u043C\u0435\u0446\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0411\u0430\u0432\u0430\u0440\u0438\u044F\u00BB \u0438\u0437 \u041C\u044E\u043D\u0445\u0435\u043D\u0430. \u0411\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0439 \u043F\u0440\u0438\u0437\u0451\u0440 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 2010 \u0433\u043E\u0434\u0430."@ru ,
+		"J\u00E9r\u00F4me Agyenim Boateng (Berlim Ocidental, 3 de setembro de 1988) \u00E9 um futebolista alem\u00E3o de origem ganesa. Atua como zagueiro ou lateral e atualmente joga pelo Bayern de Munique. \u00C9 meio-irm\u00E3o do tamb\u00E9m futebolista Kevin-Prince Boateng."@pt ,
+		"\u6770\u7F57\u59C6\u00B7\u535A\u963F\u6ED5\uFF08\u5FB7\u8BED\uFF1AJ\u00E9r\u00F4me Boateng\uFF0C1988\u5E749\u67083\u65E5\uFF0D\uFF09\u662F\u4E00\u540D\u5FB7\u570B\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u64D4\u4EFB\u5F8C\u885B\uFF0C\u73FE\u6642\u6548\u529B\u5FB7\u7532\u7403\u6703\u62DC\u4EC1\u6155\u5C3C\u9ED1\u53CA\u662F\u73FE\u5F79\u5FB7\u570B\u570B\u5BB6\u8DB3\u7403\u968A\u4EE3\u8868\u3002\u8B1D\u6D1B\u7F8E\u00B7\u4FDD\u5B9A\u64C1\u6709\u5FB7\u570B\u548C\u52A0\u7D0D\u96D9\u91CD\u570B\u7C4D\u3002\u4ED6\u4E3B\u8981\u64D4\u4EFB\u4E2D\u5805\uFF0C\u800C\u4E14\u591A\u6750\u591A\u85DD\uFF0C\u53EF\u64D4\u4EFB\u5DE6\u3001\u53F3\u5F8C\u885B\u3002"@zh ;
+	foaf:surname	"Boateng" ;
+	foaf:isPrimaryTopicOf	ns1:Jérôme_Boateng .
+@prefix ns18:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng>	dbpprop:hasPhotoCollection	ns18:Jérôme_Boateng ;
+	dbpprop:caption	"Boateng with Germany at the UEFA Euro 2012" ;
+	dbpprop:name	"Boateng, Jerome" ,
+		"J\u00E9r\u00F4me Boateng" ;
+	dbpedia-owl:thumbnail	<http://en.wikipedia.org/wiki/Special:FilePath/Jerome_Boateng_2011_Germany_(cropped).jpg?width=300> ;
+	dbpedia-owl:abstract	"\u062C\u064A\u0631\u0648\u0645 \u0628\u0648\u0627\u062A\u064A\u0646\u063A (\u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629: J\u00E9r\u00F4me Boateng) \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F (3 \u0633\u0628\u062A\u0645\u0628\u0631 1988 \u0641\u064A \u0628\u0631\u0644\u064A\u0646 - \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0627\u0644\u063A\u0631\u0628\u064A\u0629) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0623\u0644\u0645\u0627\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 [[\u0646\u0627\u062F\u064A \u0628\u0627\u064A\u0631\u0646 \u0645\u064A\u0648\u0646\u062E\u0627\u0644\u0627\u0644\u0645\u0627\u0646\u064A \u0645\u0646\u0630 2011 \u0645\u0646 \u0645\u0627\u0646\u0634\u064A\u0633\u062A\u0631 \u0633\u064A\u062A\u064A \u0627\u0644\u0646\u062C\u0644\u064A\u0632\u064A \u0641\u064A \u0645\u0631\u0643\u0632 \u0642\u0644\u0628 \u0627\u0644\u062F\u0641\u0627\u0639 \u0643\u0645\u0627 \u064A\u062C\u064A\u062F \u0627\u0644\u0644\u0639\u0628 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0638\u0647\u064A\u0631 \u0648\u0642\u062F \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0645\u0627\u0646\u0634\u0633\u062A\u0631 \u0633\u064A\u062A\u064A \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A \u0639\u0627\u0645 2010"@ar ,
+		"\u30B8\u30A7\u30ED\u30FC\u30E0\u30FB\u30DC\u30A2\u30C6\u30F3\u30B0\uFF08J\u00E9r\u00F4me Agyenim Boateng\u30011988\u5E749\u67083\u65E5 - \uFF09\u306F\u3001\u30C9\u30A4\u30C4\u30FB\u30D9\u30EB\u30EA\u30F3\u51FA\u8EAB\u306E\u30D7\u30ED\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FDF\u3002\u30D6\u30F3\u30C7\u30B9\u30EA\u30FC\u30AC\u30FB\u30D0\u30A4\u30A8\u30EB\u30F3\u30FB\u30DF\u30E5\u30F3\u30D8\u30F3\u6240\u5C5E\u3002\u30AC\u30FC\u30CA\u4EE3\u8868\u306E\u30B1\u30F4\u30A3\u30F3=\u30D7\u30EA\u30F3\u30B9\u30FB\u30DC\u30A2\u30C6\u30F3\u30B0\u306F\u7570\u6BCD\u5144\u5F1F\u3067\u3042\u308B\u3002"@ja ,
+		"J\u00E9r\u00F4me Agyenim Boateng (Berl\u00EDn, Alemania, 3 de septiembre de 1988) es un futbolista alem\u00E1n, es el hermano menor del tambi\u00E9n jugador de f\u00FAtbol Kevin-Prince Boateng (que juega en la selecci\u00F3n ghanesa). J\u00E9r\u00F4me juega de defensor y en la actualidad milita en las filas del Bayern de M\u00FAnich."@es ,
+		"J\u00E9r\u00F4me Agyenim Boateng (German pronunciation: [\u0292e\u02C8\u0281o\u02D0m bo.a\u02C8t\u025B\u014B]) (born 3 September 1988) is a German footballer who currently plays for Bayern Munich. A versatile defender, Boateng primarily is a centre back, although he is a capable full back on either side.Boateng started his career at Hertha BSC where he developed from the youth ranks to the main team. After his first season at Hertha he soon signed for Hamburger SV and established himself as an integral part of the team, helping Hamburg reach the Europa League semi-finals twice consecutively.Physically strong and composed, he garnered a reputation as a tough-tackling, versatile defender. He also played in the Germany U-21 side, which won the Euro 2009 U-21 Championship and was soon promoted to the national side, being selected in Germany's 2010 World Cup squad." ,
+		"\u0416\u0435\u0440\u043E\u0301\u043C \u0411\u043E\u0430\u0442\u0435\u0301\u043D\u0433 (\u0444\u0440. J\u00E9r\u00F4me Boateng; 3 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1988, \u0417\u0430\u043F\u0430\u0434\u043D\u044B\u0439 \u0411\u0435\u0440\u043B\u0438\u043D) \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442 \u0433\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043D\u0435\u043C\u0435\u0446\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0411\u0430\u0432\u0430\u0440\u0438\u044F\u00BB \u0438\u0437 \u041C\u044E\u043D\u0445\u0435\u043D\u0430. \u0411\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0439 \u043F\u0440\u0438\u0437\u0451\u0440 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 2010 \u0433\u043E\u0434\u0430."@ru ,
+		"\u6770\u7F57\u59C6\u00B7\u535A\u963F\u6ED5\uFF08\u5FB7\u8BED\uFF1AJ\u00E9r\u00F4me Boateng\uFF0C1988\u5E749\u67083\u65E5\uFF0D\uFF09\u662F\u4E00\u540D\u5FB7\u570B\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u64D4\u4EFB\u5F8C\u885B\uFF0C\u73FE\u6642\u6548\u529B\u5FB7\u7532\u7403\u6703\u62DC\u4EC1\u6155\u5C3C\u9ED1\u53CA\u662F\u73FE\u5F79\u5FB7\u570B\u570B\u5BB6\u8DB3\u7403\u968A\u4EE3\u8868\u3002\u8B1D\u6D1B\u7F8E\u00B7\u4FDD\u5B9A\u64C1\u6709\u5FB7\u570B\u548C\u52A0\u7D0D\u96D9\u91CD\u570B\u7C4D\u3002\u4ED6\u4E3B\u8981\u64D4\u4EFB\u4E2D\u5805\uFF0C\u800C\u4E14\u591A\u6750\u591A\u85DD\uFF0C\u53EF\u64D4\u4EFB\u5DE6\u3001\u53F3\u5F8C\u885B\u3002"@zh ,
+		"J\u00E9r\u00F4me Agyenim Boateng (Berlino Ovest, 3 settembre 1988) \u00E8 un calciatore tedesco, difensore del Bayern Monaco e della Nazionale tedesca.Jerome ha il padre ghanese e la madre tedesca, ed ha deciso di giocare per la Nazionale tedesca. Ha un fratello Kevin-Prince Boateng, anch'egli calciatore che gioca nello Schalke 04 e nella Nazionale ghanese."@it ,
+		"J\u00E9r\u00F4me Boateng est un joueur de football international allemand n\u00E9 le 3 septembre 1988 \u00E0 Berlin. Il \u00E9volue au poste de d\u00E9fenseur central ou de lat\u00E9ral droit ou gauche.D'origine ghan\u00E9enne, ce joueur polyvalent, capable de jouer \u00E0 tous les postes de la d\u00E9fense, a remport\u00E9 avec le Bayern Munich, club avec lequel il \u00E9volue depuis 2011, lors de la m\u00EAme saison, le Championnat d'Allemagne de football, la Coupe d'Allemagne de football et la Ligue des champions de l'UEFA 2012-2013. Demi-fr\u00E8re du footballeur international ghan\u00E9en Kevin-Prince Boateng, il a particip\u00E9 \u00E0 la Coupe du monde 2010 et au Championnat d'Europe de football 2012 avec l'\u00E9quipe d'Allemagne."@fr ,
+		"J\u00E9r\u00F4me Boateng (wym. [\u0292e\u02C8\u0281o\u02D0m bo.a\u02C8t\u025B\u014B]; ur. 3 wrze\u015Bnia 1988 r. w Berlinie) \u2013 niemiecki pi\u0142karz, syn Niemki i Gha\u0144czyka, wyst\u0119puj\u0105cy na pozycji obro\u0144cy w Bayernie. Jego brat Kevin-Prince Boateng jest pi\u0142karzem FC Schalke 04 i reprezentantem Ghany.Dotychczas w Bundeslidze rozegra\u0142 66 mecz\u00F3w i strzeli\u0142 dwa gole. Do sezonu 2010/11 by\u0142 zawodnikiem Manchesteru City, do kt\u00F3rego trafi\u0142 z HSV za 12,5 mln.14 lipca 2011 po do\u015B\u0107 d\u0142ugich negocjacjach pi\u0142karz sta\u0142 si\u0119 zawodnikiem Bayernu Monachium.Wyst\u0119puje w reprezentacji Niemiec. W 2010 roku zdoby\u0142 z ni\u0105 br\u0105zowy medal na Mistrzostwach \u015Awiata 2010.== Przypisy =="@pl ,
+		"J\u00E9r\u00F4me Agyenim Boateng (* 3. September 1988 in West-Berlin) ist ein deutscher Fu\u00DFballspieler, der derzeit beim FC Bayern M\u00FCnchen unter Vertrag steht und f\u00FCr die A-Nationalmannschaft aktiv ist. Er spielt in der Innenverteidigung, kann aber auch auf der rechten und linken Abwehrseite eingesetzt werden."@de ,
+		"J\u00E9r\u00F4me Boateng (Berlijn, 3 september 1988) is een Duits betaald voetballer van deels Ghanese afkomst. Hij tekende in juli 2011 een contract bij Bayern M\u00FCnchen. J\u00E9r\u00F4me is de jongere halfbroer van Kevin-Prince Boateng, die ook half-Duits is, maar voor het Ghanees voetbalelftal uitkomt."@nl ,
+		"J\u00E9r\u00F4me Agyenim Boateng (Berlim Ocidental, 3 de setembro de 1988) \u00E9 um futebolista alem\u00E3o de origem ganesa. Atua como zagueiro ou lateral e atualmente joga pelo Bayern de Munique. \u00C9 meio-irm\u00E3o do tamb\u00E9m futebolista Kevin-Prince Boateng."@pt ;
+	dbpedia-owl:wikiPageID	12174108 ;
+	dbpedia-owl:wikiPageRevisionID	606388139 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng>	dbpprop:birthDate	"1988-09-03+02:00"^^xsd:date ;
+	dbpprop:birthPlace	dbpedia:West_Berlin ,
+		dbpedia:West_Germany ;
+	dbpprop:dateOfBirth	"1988-09-03+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Berlin, West Germany" ;
+	dbpprop:shortDescription	"German footballer" ;
+	dbpedia-owl:birthDate	"1988-09-03+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:West_Berlin ,
+		dbpedia:West_Germany ;
+	dbpedia-owl:birthYear	"1988+02:00"^^xsd:gYear ;
+	dbpprop:goals	3 ,
+		0 ,
+		1 ;
+	dbpprop:bg	"white" ;
+	dbpprop:caps	77 ,
+		75 ,
+		16 ,
+		24 ,
+		10 ;
+	dbpprop:years	2006 ,
+		2007 ,
+		2010 ,
+		2011 ;
+	dbpprop:youthclubs	dbpedia:Tennis_Borussia_Berlin ,
+		dbpedia:Hertha_BSC ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng__4> ,
+		<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng__6> ,
+		<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng__7> ,
+		<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng__1> ,
+		<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng__3> ,
+		<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng__2> ,
+		<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng__10> ,
+		<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng__9> ,
+		<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng__5> ,
+		<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng__8> ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.9199999999999999289 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng>	ns21:height	"192.0"^^ns20:centimetre ;
+	dbpprop:currentclub	dbpedia:FC_Bayern_Munich ;
+	dbpprop:clubnumber	17 ;
+	dbpprop:fullname	"J\u00E9r\u00F4me Agyenim Boateng" ;
+	dbpprop:clubs	dbpedia:FC_Bayern_Munich ,
+		dbpedia:Hertha_BSC_II ,
+		dbpedia:Hamburger_SV ,
+		dbpedia:Hertha_BSC ,
+		<http://dbpedia.org/resource/Manchester_City_F.C.> ;
+	dbpedia-owl:team	dbpedia:Germany_national_under-21_football_team ,
+		dbpedia:FC_Bayern_Munich ,
+		dbpedia:Hertha_BSC_II ,
+		dbpedia:Germany_national_youth_football_team ,
+		dbpedia:Tennis_Borussia_Berlin ,
+		dbpedia:Hamburger_SV ,
+		dbpedia:Hertha_BSC ,
+		<http://dbpedia.org/resource/Manchester_City_F.C.> .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Germany squads" ;
+	dbpprop:pcupdate	"--04-26+02:00"^^xsd:gMonthDay ;
+	dbpprop:youthyears	1994 ,
+		2002 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.kicker.de/news/fussball/bundesliga/vereine/1-bundesliga/2013-14/bayern-muenchen-14/39295/spieler_jerome-boateng.html> ,
+		<http://www.jboateng.com> ;
+	dbpprop:bordercolor	"black" ;
+	dbpprop:fg	"black" ;
+	dbpprop:nationalcaps	4 ,
+		15 ,
+		17 ,
+		37 ;
+	dbpprop:nationalgoals	0 ,
+		1 ,
+		2 ;
+	dbpprop:nationalteam	dbpedia:Germany_national_youth_football_team ,
+		dbpedia:Germany_national_under-21_football_team ,
+		dbpedia:Germany_national_football_team ;
+	dbpprop:nationalyears	2009 ,
+		2004 ,
+		2005 ,
+		2007 ;
+	dbpedia-owl:number	17 ;
+	dbpprop:ntupdate	"--03-05+02:00"^^xsd:gMonthDay .
+<http://dbpedia.org/resource/2010%E2%80%9311_Hamburger_SV_season__J%C3%A9r%C3%B4me_Boateng__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+<http://dbpedia.org/resource/2006%E2%80%9307_Hertha_BSC_season>	dbpprop:name	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+<http://dbpedia.org/resource/2011%E2%80%9312_FC_Bayern_Munich_season>	dbpprop:name	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> ;
+	dbpprop:p	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+dbpedia:FC_Bayern_Munich	dbpprop:name	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+dbpedia:Germany_national_football_team	dbpprop:name	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+<http://dbpedia.org/resource/2013_FIFA_Club_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+dbpedia:UEFA_Euro_2012_squads	dbpprop:name	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+<http://dbpedia.org/resource/2012%E2%80%9313_1._FC_N%C3%BCrnberg_season>	dbpprop:motm	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Hamburger_SV_season>	dbpprop:name	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+<http://dbpedia.org/resource/2006%E2%80%9307_Hertha_BSC_season__Jerome_Boateng__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+<http://dbpedia.org/resource/2006%E2%80%9307_Hertha_BSC_season__Jerome_Boateng__2>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+<http://dbpedia.org/resource/2007%E2%80%9308_Hertha_BSC_season__Jerome_Boateng__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+<http://dbpedia.org/resource/2011%E2%80%9312_FC_Bayern_Munich_season__J%C3%A9r%C3%B4me_Boateng__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Agyenim_Boateng>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+dbpedia:Jerome_Boateng	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+dbpedia:Jérôme_Boateng	owl:sameAs	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .
+dbpedia:Boateng	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/J%C3%A9r%C3%B4me_Boateng> .

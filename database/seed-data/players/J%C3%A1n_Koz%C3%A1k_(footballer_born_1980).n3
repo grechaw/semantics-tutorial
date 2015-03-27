@@ -1,0 +1,175 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/J\u00E1n_Koz\u00E1k_(footballer_born_1980)>	foaf:primaryTopic	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> .
+<http://dbpedia.org/resource/2005%E2%80%9306_West_Bromwich_Albion_F.C._season>	dbpprop:name	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Slovakia_at_the_FIFA_World_Cup	dbpprop:name	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> .
+<http://dbpedia.org/resource/2013_FC_Bunyodkor_season>	dbpprop:name	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> .
+<http://dbpedia.org/resource/2012_FC_Bunyodkor_season>	dbpprop:name	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns4:	<http://schema.org/> .
+<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)>	rdf:type	ns4:Person .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)>	rdf:type	dbpedia-owl:Athlete .
+@prefix ns6:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)>	rdf:type	ns6:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)>	rdf:type	owl:Thing ,
+		dbpedia-owl:Person ,
+		dbpedia-owl:Agent .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)>	rdf:type	dul:NaturalPerson ,
+		dul:Agent ,
+		ns6:Q5 ,
+		foaf:Person ,
+		dbpedia-owl:SoccerPlayer .
+@prefix ns9:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)>	rdf:type	ns9:SoccerPlayer ;
+	owl:sameAs	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> ,
+		<http://rdf.freebase.com/ns/m.0b8qtw> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)>	rdfs:label	"J\u00E1n Koz\u00E1k (footballer born 1980)" .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)>	dcterms:subject	category:Expatriate_footballers_in_Uzbekistan ,
+		category:FC_Bunyodkor_players ,
+		category:Slovak_expatriates_in_England ,
+		category:Gambrinus_liga_players ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:%C5%A0K_Slovan_Bratislava_players> ,
+		<http://dbpedia.org/resource/Category:K.S.C._Lokeren_Oost-Vlaanderen_players> ,
+		<http://dbpedia.org/resource/Category:Larissa_F.C._players> ,
+		<http://dbpedia.org/resource/Category:MFK_Ko%C5%A1ice_players> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:West_Bromwich_Albion_F.C._players> ,
+		category:Expatriate_footballers_in_Belgium ,
+		<http://dbpedia.org/resource/Category:MFK_Petr%C5%BEalka_players> ,
+		category:Expatriate_footballers_in_Greece ,
+		category:Expatriate_footballers_in_Romania ,
+		category:Belgian_Pro_League_players ,
+		category:Expatriate_footballers_in_England ,
+		category:Slovak_First_League_players ,
+		<http://dbpedia.org/resource/Category:1980_births> ,
+		category:Slovak_footballers ,
+		category:Slovakia_international_footballers ,
+		category:Slovak_expatriate_footballers ,
+		<http://dbpedia.org/resource/Category:Sportspeople_from_Ko%C5%A1ice> ,
+		category:SK_Slavia_Prague_players ,
+		<http://dbpedia.org/resource/Category:FC_Politehnica_Timi%C8%99oara_players> ,
+		category:Liga_I_players ,
+		category:Premier_League_players .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)>	dc:description	"Slovak footballer" ,
+		"Slovak footballer" ;
+	foaf:givenName	"Jan" ;
+	foaf:name	"J\u00E1n Koz\u00E1k" ,
+		"Kozak, Jan" ,
+		"Jan Kozak" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/J\u00E1n_Koz\u00E1k_(footballer_born_1980)?oldid=590549936> ;
+	rdfs:comment	"J\u00E1n Koz\u00E1k (born 22 April 1980) is a Slovak footballer who most recently played for FC Bunyodkor." ;
+	foaf:surname	"Kozak" ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/J\u00E1n_Koz\u00E1k_(footballer_born_1980)> ;
+	dbpprop:hasPhotoCollection	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/J\u00E1n_Koz\u00E1k_(footballer_born_1980)> ;
+	dbpprop:name	"J\u00E1n Koz\u00E1k" ,
+		"Kozak, Jan" ;
+	dbpedia-owl:abstract	"J\u00E1n Koz\u00E1k (born 22 April 1980) is a Slovak footballer who most recently played for FC Bunyodkor." ;
+	dbpedia-owl:wikiPageID	3959462 ;
+	dbpedia-owl:wikiPageRevisionID	590549936 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)>	dbpprop:birthDate	"1980-04-22+02:00"^^xsd:date ;
+	dbpprop:birthPlace	<http://dbpedia.org/resource/Ko%C5%A1ice> ,
+		dbpedia:Czechoslovakia ;
+	dbpprop:dateOfBirth	"1980-04-22+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	<http://dbpedia.org/resource/Ko%C5%A1ice> ,
+		dbpedia:Czechoslovakia ;
+	dbpprop:shortDescription	"Slovak footballer" ;
+	dbpedia-owl:birthDate	"1980-04-22+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	<http://dbpedia.org/resource/Ko%C5%A1ice> ,
+		dbpedia:Czechoslovakia ;
+	dbpedia-owl:birthYear	"1980+02:00"^^xsd:gYear ;
+	dbpprop:goals	6 ,
+		5 ,
+		3 ,
+		0 ,
+		1 ,
+		42 ;
+	dbpprop:caps	34 ,
+		22 ,
+		30 ,
+		129 ,
+		5 ,
+		6 ,
+		3 ,
+		13 ,
+		8 ,
+		10 ;
+	dbpprop:years	1998 ,
+		1997 ,
+		2002 ,
+		2003 ,
+		2000 ,
+		2006 ,
+		2010 ,
+		2011 ,
+		2009 ,
+		2012 ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)__9> ,
+		<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)__11> ,
+		<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)__6> ,
+		<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)__5> ,
+		<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)__2> ,
+		<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)__7> ,
+		<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)__1> ,
+		<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)__3> ,
+		<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)__4> ,
+		<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)__8> ,
+		<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)__10> ;
+	dbpprop:position	dbpedia:Midfielder ;
+	dbpedia-owl:position	dbpedia:Midfielder ;
+	dbpedia-owl:height	1.8999999999999999112 .
+@prefix ns16:	<http://dbpedia.org/datatype/> .
+@prefix ns17:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)>	ns17:height	"190.0"^^ns16:centimetre ;
+	dbpprop:fullname	"J\u00E1n Koz\u00E1k" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/FC_Petr%C5%BEalka_1898> ,
+		dbpedia:Bunyodkor_PFK ,
+		<http://dbpedia.org/resource/MFK_Ko%C5%A1ice> ,
+		"\u2192 West Bromwich" ,
+		dbpedia:AEL_1964_FC ,
+		<http://dbpedia.org/resource/%C5%A0K_Slovan_Bratislava> ,
+		dbpedia:SK_Slavia_Prague ,
+		"\u2192 Lokeren" ,
+		<http://dbpedia.org/resource/ACS_Poli_Timi%C8%99oara> ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/FC_Petr%C5%BEalka_1898> ,
+		dbpedia:Bunyodkor_PFK ,
+		<http://dbpedia.org/resource/West_Bromwich_Albion_F.C.> ,
+		<http://dbpedia.org/resource/MFK_Ko%C5%A1ice> ,
+		<http://dbpedia.org/resource/K.S.C._Lokeren_Oost-Vlaanderen> ,
+		<http://dbpedia.org/resource/%C5%A0K_Slovan_Bratislava> ,
+		dbpedia:SK_Slavia_Prague ,
+		dbpedia:AEL_1964_FC ,
+		<http://dbpedia.org/resource/ACS_Poli_Timi%C8%99oara> ,
+		dbpedia:Slovakia_national_football_team ;
+	dbpprop:pcupdate	"2013-02-27+02:00"^^xsd:date ;
+	dbpedia-owl:wikiPageExternalLink	<http://news.bbc.co.uk/sport2/shared/bsp/hi/football/statistics/players/k/kozak_38888.stm> ;
+	dbpprop:nationalcaps	25 ;
+	dbpprop:nationalgoals	2 ;
+	dbpprop:nationalteam	dbpedia:Slovakia_national_football_team ;
+	dbpprop:nationalyears	2004 ;
+	dbpprop:ntupdate	"2010-12-16+02:00"^^xsd:date .
+<http://dbpedia.org/resource/J\u00E1n_Koz\u00E1k_(footballer_born_1980)>	owl:sameAs	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> .
+<http://dbpedia.org/resource/2005%E2%80%9306_West_Bromwich_Albion_F.C._season__Jan_Kozak__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> .
+<http://dbpedia.org/resource/2005%E2%80%9306_FC_Artmedia_Bratislava_season__J%C3%A1n_Koz%C3%A1k__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> .
+<http://dbpedia.org/resource/2013_FC_Bunyodkor_season__J%C3%A1n_Koz%C3%A1k__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> .
+<http://dbpedia.org/resource/2012_FC_Bunyodkor_season__J%C3%A1n_Koz%C3%A1k__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> .
+<http://dbpedia.org/resource/2012_FC_Bunyodkor_season__J%C3%A1n_Koz%C3%A1k__2>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> .
+<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(born_1980)>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> .
+<http://dbpedia.org/resource/Jan_Kozak_(footballer_born_1980)>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> .
+dbpedia:List_of_Uzbek_football_transfers_2012	dbpprop:name	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> .
+dbpedia:List_of_Uzbek_football_transfers_2013	dbpprop:name	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> .
+<http://dbpedia.org/resource/2005%E2%80%9306_FC_Artmedia_Bratislava_season>	dbpprop:name	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> .
+<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k>	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/J%C3%A1n_Koz%C3%A1k_(footballer_born_1980)> .

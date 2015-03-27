@@ -1,0 +1,296 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Jay_DeMerit	owl:sameAs	dbpedia:Jay_DeMerit .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Jay_DeMerit	owl:sameAs	dbpedia:Jay_DeMerit .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q356072	owl:sameAs	dbpedia:Jay_DeMerit .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Jay_DeMerit	owl:sameAs	dbpedia:Jay_DeMerit .
+@prefix ns6:	<http://id.dbpedia.org/resource/> .
+ns6:Jay_DeMerit	owl:sameAs	dbpedia:Jay_DeMerit .
+@prefix ns7:	<http://it.dbpedia.org/resource/> .
+ns7:Jay_DeMerit	owl:sameAs	dbpedia:Jay_DeMerit .
+@prefix ns8:	<http://ja.dbpedia.org/resource/> .
+ns8:ジェイ・デメリット	owl:sameAs	dbpedia:Jay_DeMerit .
+@prefix ns9:	<http://nl.dbpedia.org/resource/> .
+ns9:Jay_DeMerit	owl:sameAs	dbpedia:Jay_DeMerit .
+@prefix ns10:	<http://pl.dbpedia.org/resource/> .
+ns10:Jay_DeMerit	owl:sameAs	dbpedia:Jay_DeMerit .
+@prefix ns11:	<http://pt.dbpedia.org/resource/> .
+ns11:Jay_DeMerit	owl:sameAs	dbpedia:Jay_DeMerit .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2004%E2%80%9305_Watford_F.C._season>	dbpprop:name	dbpedia:Jay_DeMerit .
+<http://dbpedia.org/resource/2006%E2%80%9307_Watford_F.C._season>	dbpprop:name	dbpedia:Jay_DeMerit .
+<http://dbpedia.org/resource/2005%E2%80%9306_Watford_F.C._season>	dbpprop:name	dbpedia:Jay_DeMerit .
+<http://dbpedia.org/resource/2007_Copa_Am%C3%A9rica_squads>	dbpprop:name	dbpedia:Jay_DeMerit .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns14:	<http://en.wikipedia.org/wiki/> .
+ns14:Jay_DeMerit	foaf:primaryTopic	dbpedia:Jay_DeMerit .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Jay_DeMerit .
+<http://dbpedia.org/resource/2012_MLS_All-Star_Game>	dbpprop:name	dbpedia:Jay_DeMerit .
+@prefix ns15:	<http://ar.dbpedia.org/resource/> .
+ns15:جاي_ديميريت	owl:sameAs	dbpedia:Jay_DeMerit .
+@prefix ns16:	<http://ca.dbpedia.org/resource/> .
+ns16:Jay_DeMerit	owl:sameAs	dbpedia:Jay_DeMerit .
+@prefix ns17:	<http://fi.dbpedia.org/resource/> .
+ns17:Jay_DeMerit	owl:sameAs	dbpedia:Jay_DeMerit .
+@prefix ns18:	<http://la.dbpedia.org/resource/> .
+ns18:Jay_DeMerit	owl:sameAs	dbpedia:Jay_DeMerit .
+@prefix ns19:	<http://mr.dbpedia.org/resource/> .
+ns19:जे_डिमेरिट	owl:sameAs	dbpedia:Jay_DeMerit .
+@prefix ns20:	<http://no.dbpedia.org/resource/> .
+ns20:Jay_DeMerit	owl:sameAs	dbpedia:Jay_DeMerit .
+<http://ru.dbpedia.org/resource/\u0414\u0435\u043C\u0435\u0440\u0438\u0442,_\u0414\u0436\u0435\u0439>	owl:sameAs	dbpedia:Jay_DeMerit .
+@prefix ns21:	<http://sv.dbpedia.org/resource/> .
+ns21:Jay_DeMerit	owl:sameAs	dbpedia:Jay_DeMerit .
+<http://dbpedia.org/resource/2007_CONCACAF_Gold_Cup_squads>	dbpprop:name	dbpedia:Jay_DeMerit .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbpedia:Jay_DeMerit	rdf:type	<http://dbpedia.org/class/yago/WatfordF.C.Players> .
+@prefix ns23:	<http://umbel.org/umbel/rc/> .
+dbpedia:Jay_DeMerit	rdf:type	ns23:Athlete ,
+		ns23:SoccerPlayer .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Jay_DeMerit	rdf:type	yago:Contestant109613191 ,
+		yago:Player110439851 ,
+		foaf:Person ,
+		yago:ExpatriateSoccerPlayersInCanada ,
+		yago:FootballPlayer110101634 ,
+		<http://dbpedia.org/class/yago/VancouverWhitecapsFC(MLS)Players> .
+@prefix ns25:	<http://schema.org/> .
+dbpedia:Jay_DeMerit	rdf:type	ns25:Person ,
+		yago:Athlete109820263 ,
+		yago:AmericanPeopleOfDanishDescent ,
+		yago:USLPremierDevelopmentLeaguePlayers .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Jay_DeMerit	rdf:type	dbpedia-owl:Athlete ,
+		yago:PremierLeaguePlayers ,
+		dbpedia-owl:Person ,
+		dbpedia-owl:Agent ,
+		yago:SoccerPlayer110618342 ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:AmericanSoccerPlayers ,
+		yago:ExpatriateFootballersInEngland ,
+		<http://dbpedia.org/class/yago/2007CONCACAFGoldCupPlayers> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Jay_DeMerit	rdf:type	dul:Agent ,
+		ns4:Q5 ,
+		dul:NaturalPerson ,
+		yago:Object100002684 ,
+		yago:YagoLegalActor ,
+		yago:Whole100003553 ,
+		yago:AmericanExpatriateSoccerPlayers ,
+		yago:LivingPeople ,
+		<http://dbpedia.org/class/yago/UnitedStatesMen\u0027sInternationalSoccerPlayers> ,
+		yago:YagoLegalActorGeo ,
+		yago:AmericanExpatriateSoccerPeopleInTheUnitedKingdom ,
+		yago:Organism100004475 ,
+		<http://dbpedia.org/class/yago/2007CopaAm%C3%A9ricaPlayers> ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		owl:Thing ,
+		yago:PhysicalEntity100001930 ,
+		ns4:Q215627 ,
+		<http://dbpedia.org/class/yago/2009FIFAConfederationsCupPlayers> ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		<http://dbpedia.org/class/yago/SouthallF.C.Players> ,
+		yago:ChicagoSockersPlayers ,
+		yago:SoccerPlayersFromWisconsin ,
+		<http://dbpedia.org/class/yago/PeopleFromGreenBay,Wisconsin> ,
+		yago:ChicagoFirePremierPlayers ,
+		<http://dbpedia.org/class/yago/UICFlamesMen\u0027sSoccerPlayers> ,
+		<http://dbpedia.org/class/yago/NorthwoodF.C.Players> ;
+	owl:sameAs	ns10:Jay_DeMerit ,
+		ns17:Jay_DeMerit ,
+		<http://rdf.freebase.com/ns/m.0d162g> .
+@prefix ns28:	<http://yago-knowledge.org/resource/> .
+dbpedia:Jay_DeMerit	owl:sameAs	ns28:Jay_DeMerit ,
+		ns6:Jay_DeMerit ,
+		ns5:Jay_DeMerit ,
+		ns19:जे_डिमेरिट ,
+		ns11:Jay_DeMerit ,
+		ns3:Jay_DeMerit ,
+		ns7:Jay_DeMerit ,
+		ns8:ジェイ・デメリット ,
+		<http://ru.dbpedia.org/resource/\u0414\u0435\u043C\u0435\u0440\u0438\u0442,_\u0414\u0436\u0435\u0439> .
+@prefix ns29:	<http://wikidata.org/entity/> .
+dbpedia:Jay_DeMerit	owl:sameAs	ns29:Q356072 ,
+		ns1:Jay_DeMerit ,
+		ns20:Jay_DeMerit ,
+		ns4:Q356072 ,
+		ns16:Jay_DeMerit ,
+		ns18:Jay_DeMerit ,
+		ns21:Jay_DeMerit ,
+		ns15:جاي_ديميريت ,
+		dbpedia:Jay_DeMerit ,
+		ns9:Jay_DeMerit .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Jay_DeMerit	rdfs:label	"\u062C\u0627\u064A \u062F\u064A\u0645\u064A\u0631\u064A\u062A"@ar ,
+		"Jay DeMerit"@pt ,
+		"Jay DeMerit"@it ,
+		"Jay DeMerit"@nl ,
+		"\u30B8\u30A7\u30A4\u30FB\u30C7\u30E1\u30EA\u30C3\u30C8"@ja ,
+		"Jay DeMerit"@pl ,
+		"Jay DeMerit"@fr ,
+		"\u0414\u0435\u043C\u0435\u0440\u0438\u0442, \u0414\u0436\u0435\u0439"@ru ,
+		"Jay DeMerit" ,
+		"Jay DeMerit"@es ,
+		"Jay DeMerit"@de .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+dbpedia:Jay_DeMerit	dcterms:subject	<http://dbpedia.org/resource/Category:2009_FIFA_Confederations_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2007_Copa_Am%C3%A9rica_players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Jay_DeMerit	dcterms:subject	category:American_expatriate_sportspeople_in_the_United_Kingdom ,
+		category:The_Football_League_players ,
+		category:Premier_League_players ,
+		<http://dbpedia.org/resource/Category:United_States_men\u0027s_international_soccer_players> ,
+		<http://dbpedia.org/resource/Category:Watford_F.C._players> ,
+		category:Expatriate_soccer_players_in_Canada ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Major_League_Soccer_All-Stars ,
+		category:Major_League_Soccer_players ,
+		category:Vancouver_Whitecaps_FC_players ,
+		category:American_expatriate_soccer_players ,
+		<http://dbpedia.org/resource/Category:Sportspeople_from_Green_Bay,_Wisconsin> ,
+		category:Chicago_Sockers_players ,
+		<http://dbpedia.org/resource/Category:Southall_F.C._players> ,
+		category:University_of_Illinois_at_Chicago_alumni ,
+		category:Chicago_Fire_Premier_players ,
+		<http://dbpedia.org/resource/Category:Northwood_F.C._players> ,
+		<http://dbpedia.org/resource/Category:UIC_Flames_men\u0027s_soccer_players> ,
+		category:CONCACAF_Gold_Cup-winning_players ,
+		category:USL_Premier_Development_League_players ,
+		category:American_soccer_players ,
+		category:Expatriate_footballers_in_England ,
+		<http://dbpedia.org/resource/Category:1979_births> ,
+		category:American_people_of_Danish_descent ,
+		category:Soccer_players_from_Wisconsin ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2007_CONCACAF_Gold_Cup_players> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Jay_Demerit.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Jay_DeMerit	dc:description	"Professional football player" ,
+		"Professional football player" ;
+	foaf:givenName	"Jay" ;
+	foaf:name	"Jay DeMerit" ,
+		"Jay Michael DeMerit" ,
+		"DeMerit, Jay" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Jay_DeMerit	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jay_DeMerit?oldid=605402226> ;
+	rdfs:comment	"\u0414\u0436\u0435\u0439 \u041C\u0430\u0439\u043A\u043B \u0414\u0435\u043C\u0435\u0301\u0440\u0438\u0442 (\u0430\u043D\u0433\u043B. Jay Michael DeMerit; 4 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1979, \u0413\u0440\u0438\u043D-\u0411\u0435\u0439, \u0412\u0438\u0441\u043A\u043E\u043D\u0441\u0438\u043D) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 MLS \u00AB\u0412\u0430\u043D\u043A\u0443\u0432\u0435\u0440 \u0423\u0430\u0439\u0442\u043A\u044D\u043F\u0441\u00BB."@ru ,
+		"Jay Michael DeMerit (4 de dezembro de 1979) \u00E9 um futebolista norte-americano, que joga como zagueiro. Atualmente defende o Vancouver Whitecaps."@pt ,
+		"Jay Michael DeMerit (ur. 4 grudnia 1979 w Green Bay), pi\u0142karz ameryka\u0144ski graj\u0105cy na pozycji \u015Brodkowego obro\u0144cy. Mierzy 180 cm wzrostu, wa\u017Cy 82 kg."@pl ,
+		"\u30B8\u30A7\u30A4\u30FB\u30C7\u30E1\u30EA\u30C3\u30C8\uFF08Jay DeMerit, 1979\u5E7412\u67084\u65E5 - \uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u30A6\u30A3\u30B9\u30B3\u30F3\u30B7\u30F3\u5DDE\u30B0\u30EA\u30FC\u30F3\u30D9\u30A4\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002"@ja ,
+		"\u062C\u0627\u064A \u062F\u064A\u0645\u064A\u0631\u064A\u062A\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 4 \u062F\u064A\u0633\u0645\u0628\u0631 1979\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0623\u0645\u0631\u064A\u0643\u064A.\u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0648\u0627\u062A\u0641\u0648\u0631\u062F \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A.\u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2007."@ar ,
+		"Jay Michael DeMerit (* 4. Dezember 1979 in Green Bay, Wisconsin) ist ein US-amerikanischer Fu\u00DFballspieler. Der Verteidiger spielt f\u00FCr den Vancouver Whitecaps FC in der Major League Soccer."@de ,
+		"Jay Michael DeMerit (Green Bay, Wisconsin, Estados Unidos, 4 de diciembre de 1979), futbolista estadounidense. Juega de defensa y su actual equipo es el Vancouver Whitecaps de la Major League Soccer."@es ,
+		"Jay Michael DeMerit (born December 4, 1979 in Green Bay, Wisconsin) is an American soccer player who plays for Vancouver Whitecaps FC in Major League Soccer. His improbable career is the subject of the independent film, Rise and Shine: The Jay DeMerit Story, based on his rise from the ninth tier of football in England to the Premier League and World Cup." ,
+		"Jay Michael DeMerit (Green Bay, 4 dicembre 1979) \u00E8 un calciatore statunitense, difensore dei Vancouver Whitecaps, squadra militante nella Major League Soccer."@it ,
+		"Jay Michael DeMerit, n\u00E9 le 4 d\u00E9cembre 1979 \u00E0 Green Bay, dans le Wisconsin, est un footballeur international am\u00E9ricain qui \u00E9volue au poste de d\u00E9fenseur."@fr ,
+		"Jay Michael DeMerit (Green Bay, Wisconsin, 4 december 1979) is een Amerikaans voetballer die speelt voor de Vancouver Whitecaps in de Major League Soccer en het Voetbalelftal van de Verenigde Staten."@nl ;
+	foaf:surname	"DeMerit" ;
+	foaf:isPrimaryTopicOf	ns14:Jay_DeMerit .
+@prefix ns35:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Jay_DeMerit	dbpprop:hasPhotoCollection	ns35:Jay_DeMerit ;
+	dbpprop:name	"DeMerit, Jay" ,
+		"Jay DeMerit" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Jay_Demerit.jpg?width=300> ;
+	dbpedia-owl:abstract	"Jay Michael DeMerit (4 de dezembro de 1979) \u00E9 um futebolista norte-americano, que joga como zagueiro. Atualmente defende o Vancouver Whitecaps."@pt ,
+		"\u062C\u0627\u064A \u062F\u064A\u0645\u064A\u0631\u064A\u062A\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 4 \u062F\u064A\u0633\u0645\u0628\u0631 1979\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0623\u0645\u0631\u064A\u0643\u064A.\u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0648\u0627\u062A\u0641\u0648\u0631\u062F \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A.\u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2007."@ar ,
+		"Jay Michael DeMerit, n\u00E9 le 4 d\u00E9cembre 1979 \u00E0 Green Bay, dans le Wisconsin, est un footballeur international am\u00E9ricain qui \u00E9volue au poste de d\u00E9fenseur."@fr ,
+		"Jay Michael DeMerit (ur. 4 grudnia 1979 w Green Bay), pi\u0142karz ameryka\u0144ski graj\u0105cy na pozycji \u015Brodkowego obro\u0144cy. Mierzy 180 cm wzrostu, wa\u017Cy 82 kg."@pl ,
+		"\u30B8\u30A7\u30A4\u30FB\u30C7\u30E1\u30EA\u30C3\u30C8\uFF08Jay DeMerit, 1979\u5E7412\u67084\u65E5 - \uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u30A6\u30A3\u30B9\u30B3\u30F3\u30B7\u30F3\u5DDE\u30B0\u30EA\u30FC\u30F3\u30D9\u30A4\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002"@ja ,
+		"Jay Michael DeMerit (Green Bay, Wisconsin, 4 december 1979) is een Amerikaans voetballer die speelt voor de Vancouver Whitecaps in de Major League Soccer en het Voetbalelftal van de Verenigde Staten."@nl ,
+		"Jay Michael DeMerit (Green Bay, 4 dicembre 1979) \u00E8 un calciatore statunitense, difensore dei Vancouver Whitecaps, squadra militante nella Major League Soccer."@it ,
+		"Jay Michael DeMerit (Green Bay, Wisconsin, Estados Unidos, 4 de diciembre de 1979), futbolista estadounidense. Juega de defensa y su actual equipo es el Vancouver Whitecaps de la Major League Soccer."@es ,
+		"\u0414\u0436\u0435\u0439 \u041C\u0430\u0439\u043A\u043B \u0414\u0435\u043C\u0435\u0301\u0440\u0438\u0442 (\u0430\u043D\u0433\u043B. Jay Michael DeMerit; 4 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1979, \u0413\u0440\u0438\u043D-\u0411\u0435\u0439, \u0412\u0438\u0441\u043A\u043E\u043D\u0441\u0438\u043D) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 MLS \u00AB\u0412\u0430\u043D\u043A\u0443\u0432\u0435\u0440 \u0423\u0430\u0439\u0442\u043A\u044D\u043F\u0441\u00BB."@ru ,
+		"Jay Michael DeMerit (* 4. Dezember 1979 in Green Bay, Wisconsin) ist ein US-amerikanischer Fu\u00DFballspieler. Der Verteidiger spielt f\u00FCr den Vancouver Whitecaps FC in der Major League Soccer."@de ,
+		"Jay Michael DeMerit (born December 4, 1979 in Green Bay, Wisconsin) is an American soccer player who plays for Vancouver Whitecaps FC in Major League Soccer. His improbable career is the subject of the independent film, Rise and Shine: The Jay DeMerit Story, based on his rise from the ninth tier of football in England to the Premier League and World Cup." ;
+	dbpedia-owl:wikiPageID	5066315 ;
+	dbpedia-owl:wikiPageRevisionID	605402226 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Jay_DeMerit	dbpprop:birthDate	"1979-12-04+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Green Bay, Wisconsin, United States" ;
+	dbpprop:dateOfBirth	"1979-12-04+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Green Bay, Wisconsin" ;
+	dbpprop:shortDescription	"Professional football player" ;
+	dbpedia-owl:birthDate	"1979-12-04+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	<http://dbpedia.org/resource/United_States_men\u0027s_national_soccer_team> ,
+		<http://dbpedia.org/resource/Green_Bay,_Wisconsin> ;
+	dbpedia-owl:birthYear	"1979+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	200 ;
+	dbpprop:goals	0 ,
+		1 ,
+		9 ;
+	dbpprop:bg	"white" ;
+	dbpprop:id	39248 ;
+	dbpprop:caps	60 ,
+		0 ,
+		2 ,
+		183 ;
+	dbpprop:years	2004 ,
+		2003 ,
+		2001 ,
+		2011 ;
+	dbpprop:youthclubs	dbpedia:UIC_Flames ;
+	dbpedia-owl:careerStation	dbpedia:Jay_DeMerit__6 ,
+		dbpedia:Jay_DeMerit__4 ,
+		dbpedia:Jay_DeMerit__3 ,
+		dbpedia:Jay_DeMerit__5 ,
+		dbpedia:Jay_DeMerit__2 ,
+		dbpedia:Jay_DeMerit__1 ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.8542000000000000703 .
+@prefix ns37:	<http://dbpedia.org/datatype/> .
+@prefix ns38:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Jay_DeMerit	ns38:height	"185.42"^^ns37:centimetre ;
+	dbpprop:currentclub	dbpedia:Vancouver_Whitecaps_FC ;
+	dbpprop:clubnumber	6 ;
+	dbpprop:fullname	"Jay Michael DeMerit" ;
+	dbpprop:clubs	dbpedia:Chicago_Fire_Premier ,
+		<http://dbpedia.org/resource/Southall_F.C.> ,
+		<http://dbpedia.org/resource/Northwood_F.C.> ,
+		dbpedia:Vancouver_Whitecaps_FC ,
+		<http://dbpedia.org/resource/Watford_F.C.> ;
+	dbpedia-owl:team	dbpedia:UIC_Flames ,
+		dbpedia:Chicago_Fire_Premier ,
+		<http://dbpedia.org/resource/Southall_F.C.> ,
+		<http://dbpedia.org/resource/United_States_men\u0027s_national_soccer_team> ,
+		dbpedia:Vancouver_Whitecaps_FC ,
+		<http://dbpedia.org/resource/Northwood_F.C.> ,
+		<http://dbpedia.org/resource/Watford_F.C.> .
+@prefix ns39:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Jay_DeMerit	dbpprop:wordnet_type	ns39:synset-soccer_player-noun-1 ;
+	dbpprop:title	"United States Squads" ;
+	dbpprop:pcupdate	"2013-10-28+02:00"^^xsd:date ;
+	dbpprop:youthyears	1998 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.beyondthepitch.net/podcasts/edition/index.cfm/beyond-the-pitch/2013/06/10/jay-demerit/> ,
+		<http://sportsillustrated.cnn.com/2006/magazine/10/09/soccer.demerit1016/index.html> .
+@prefix ns40:	<http://www.mlssoccer.com/players/> .
+dbpedia:Jay_DeMerit	dbpedia-owl:wikiPageExternalLink	ns40:jay-demerit ,
+		<http://www.watfordfc.premiumtv.co.uk/page/ProfilesDetail/0,,10400~30900,00.html> ;
+	dbpprop:bordercolor	"#BF0A30" ;
+	dbpprop:fg	"#002868" ;
+	dbpprop:nationalcaps	25 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	<http://dbpedia.org/resource/United_States_men\u0027s_national_soccer_team> ;
+	dbpprop:nationalyears	2007 ;
+	dbpedia-owl:number	6 ;
+	dbpprop:ntupdate	"2012-02-22+02:00"^^xsd:date .
+dbpedia:Ashleigh_McIvor	dbpprop:spouse	dbpedia:Jay_DeMerit .
+<http://dbpedia.org/resource/2009_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Jay_DeMerit .
+<http://dbpedia.org/resource/2013_Vancouver_Whitecaps_FC_season>	dbpprop:p	dbpedia:Jay_DeMerit .
+<http://dbpedia.org/resource/2011_Vancouver_Whitecaps_FC_season>	dbpprop:text	dbpedia:Jay_DeMerit ;
+	dbpprop:p	dbpedia:Jay_DeMerit .
+<http://dbpedia.org/resource/2012_Vancouver_Whitecaps_FC_season>	dbpprop:text	dbpedia:Jay_DeMerit ;
+	dbpprop:p	dbpedia:Jay_DeMerit .
+<http://dbpedia.org/resource/2009%E2%80%9310_Watford_F.C._season>	dbpprop:text	dbpedia:Jay_DeMerit .
+dbpedia:Demerit	dbpedia-owl:wikiPageDisambiguates	dbpedia:Jay_DeMerit .
+<http://dbpedia.org/resource/2012_MLS_All-Star_Game__Jay_DeMerit__1>	dbpedia-owl:currentMember	dbpedia:Jay_DeMerit .
+<http://dbpedia.org/resource/2006%E2%80%9307_Watford_F.C._season__Jay_DeMerit__1>	dbpedia-owl:currentMember	dbpedia:Jay_DeMerit .
+<http://dbpedia.org/resource/2005%E2%80%9306_Watford_F.C._season__Jay_DeMerit__1>	dbpedia-owl:currentMember	dbpedia:Jay_DeMerit .
+<http://dbpedia.org/resource/2004%E2%80%9305_Watford_F.C._season__Jay_DeMerit__1>	dbpedia-owl:currentMember	dbpedia:Jay_DeMerit .
+dbpedia:Jay_Demerit	dbpedia-owl:wikiPageRedirects	dbpedia:Jay_DeMerit .

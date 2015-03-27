@@ -1,0 +1,810 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xml:base="http://www.daml.org/2001/12/factbook/ei">
+  <rdf:Description rdf:about='#A30548'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A29985'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Atlantic Ocean</NS0:name>
+    <NS0:elevation>0</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30076'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30109'>
+    <NS0:year>1998</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30174'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Laois</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30317'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30436'>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30170'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Kilkenny</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30545'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30166'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Kildare</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30162'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Kerry</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A29969'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>53.0</NS0:latitude>
+    <NS0:longitude>-8.0</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30158'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Galway</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30325'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30538'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:maxRunway>913</NS0:maxRunway>
+    <NS0:count>25 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30154'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Dublin</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30363'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30431'>
+    <NS0:year>1998</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30150'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Donegal</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30531'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>914</NS0:minRunway>
+    <NS0:maxRunway>1523</NS0:maxRunway>
+    <NS0:count>2</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30340'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#agriculture'/>
+    <NS0:percent>8</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30146'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Cork</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30371'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30335'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#industry'/>
+    <NS0:percent>28</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30525'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:maxRunway>913</NS0:maxRunway>
+    <NS0:count>7 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30142'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Clare</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30330'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#services'/>
+    <NS0:percent>64</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30138'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Cavan</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30443'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30518'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>914</NS0:minRunway>
+    <NS0:maxRunway>1523</NS0:maxRunway>
+    <NS0:count>5</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30134'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Carlow</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30408'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>f.o.b., 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30312'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30009'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30511'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>1524</NS0:minRunway>
+    <NS0:maxRunway>2437</NS0:maxRunway>
+    <NS0:count>3</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30495'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30127'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CapitalCity'/>
+    <NS0:name>Dublin</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30448'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30504'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>2438</NS0:minRunway>
+    <NS0:maxRunway>3047</NS0:maxRunway>
+    <NS0:count>1</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30450'>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30445'>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30047'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30456'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124661'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#SN'/>
+    <NS0:percent>4</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30498'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>3048</NS0:minRunway>
+    <NS0:count>1</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30115'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Irish_spoken_mainly_in_areas_located_along_the_western_seaboard'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30319'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30111'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#English_is_the_language_generally_used'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124656'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#JA'/>
+    <NS0:percent>5</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30491'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Waterford</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124651'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#US'/>
+    <NS0:percent>18</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30487'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>New Ross</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30105'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#other'/>
+    <NS0:percent>5.9</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30483'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Limerick</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124645'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#US'/>
+    <NS0:percent>20</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30100'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Church_of_Ireland'/>
+    <NS0:percent>2.5</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30479'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Galway</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124640'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#UK'/>
+    <NS0:distance>360</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30095'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Roman_Catholic'/>
+    <NS0:percent>91.6</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30377'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#County'>
+    <rdf:type rdf:resource='http://www.w3.org/2000/01/rdf-schema#Class'/>
+    <rdfs:subClassOf rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AdministrativeDivision'/>
+    <rdfs:label>County</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30475'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Foynes</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30091'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#English'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30471'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Dublin</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30087'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Celtic'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30035'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>July 2001</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30467'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Drogheda</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30373'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30463'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Cork</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30386'>
+    <NS0:note>f.o.b., 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30459'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Arklow</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30554'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30323'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30073'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:ratio>0.98</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30068'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>65</NS0:minAge>
+    <NS0:ratio>0.76</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30551'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30062'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>15</NS0:minAge>
+    <NS0:maxAge>64</NS0:maxAge>
+    <NS0:ratio>1</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30056'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>14</NS0:maxAge>
+    <NS0:ratio>1.05</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30438'>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30454'>
+    <NS0:note>including 115 km of expressways</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30050'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>0</NS0:maxAge>
+    <NS0:ratio>1.07</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30327'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30427'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#clothing'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30347'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30234'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Wicklow</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30423'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#textiles'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30230'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Wexford</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30419'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#chemicals;_petroleum_and_petroleum_products'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30226'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Westmeath</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30415'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#other_machinery_and_equipment'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30082'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30222'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Waterford</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30411'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#data_processing_equipment'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30038'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30218'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Tipperary</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30306'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30309'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30121'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1981</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30214'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Sligo</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124649'>
+    <NS0:note>2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30404'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#animal_products'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30210'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Roscommon</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30079'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30400'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#pharmaceuticals;_live_animals'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30366'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30375'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30206'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Offaly</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30041'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30396'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#chemicals'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30202'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Monaghan</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30392'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#computers'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30198'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Meath</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30351'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30388'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#machinery_and_equipment'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30194'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Mayo</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30044'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30190'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Louth</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30557'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30186'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Longford</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#EI'>
+    <NS0:background>A failed 1916 Easter Monday Rebellion touched off several years of guerrilla warfare that in 1921 resulted in independence from the UK for the 26 southern counties; the six northern counties (Ulster) remained part of Great Britain. In 1948 Ireland withdrew from the British Commonwealth; it joined the European Community in 1973. Irish governments have sought the peaceful unification of Ireland and have cooperated with Britain against terrorist groups. A peace settlement for Northern Ireland, approved in 1998, was implemented the following year.</NS0:background>
+    <NS0:location>Western Europe, occupying five-sixths of the island of Ireland in the North Atlantic Ocean, west of Great Britain</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A29969'/>
+    <NS0:mapReferences>Europe</NS0:mapReferences>
+    <NS0:totalArea>70280</NS0:totalArea>
+    <NS0:landArea>68890</NS0:landArea>
+    <NS0:waterArea>1390</NS0:waterArea>
+    <NS0:comparativeArea>slightly larger than West Virginia</NS0:comparativeArea>
+    <NS0:landBoundaries>360</NS0:landBoundaries>
+    <NS0:coastline>1448</NS0:coastline>
+    <NS0:exclusiveFishingZone>200</NS0:exclusiveFishingZone>
+    <NS0:territorialSea>12</NS0:territorialSea>
+    <NS0:climate>temperate maritime; modified by North Atlantic Current; mild winters, cool summers; consistently humid; overcast about half the time</NS0:climate>
+    <NS0:terrain>mostly level to rolling interior plain surrounded by rugged hills and low mountains; sea cliffs on west coast</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A29985'/>
+    <NS0:highestPoint rdf:resource='#A29990'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#zinc'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#lead'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#natural_gas'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#barite'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#copper'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#gypsum'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#limestone'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#dolomite'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#peat'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#silver'/>
+    <NS0:arableLand>13</NS0:arableLand>
+    <NS0:permanentCrops>0</NS0:permanentCrops>
+    <NS0:permanentPastures>68</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>5</NS0:forestsAndWoodland>
+    <NS0:otherLandUse rdf:ID='A30009'>14</NS0:otherLandUse>
+    <NS0:naturalHazard>NA</NS0:naturalHazard>
+    <NS0:environmentalIssue>water pollution, especially of lakes, from agricultural runoff</NS0:environmentalIssue>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution-Nitrogen_Oxides'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution-Sulphur_94'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Biodiversity'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Climate_Change'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Desertification'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Environmental_Modification'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Hazardous_Wastes'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Law_of_the_Sea'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Marine_Dumping'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Nuclear_Test_Ban'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Ozone_Layer_Protection'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Ship_Pollution'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Tropical_Timber_83'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Tropical_Timber_94'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Wetlands'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Whaling'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution-Persistent_Organic_Pollutants'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Climate_Change-Kyoto_Protocol'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Endangered_Species'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Marine_Life_Conservation'/>
+    <NS0:population rdf:ID='A30035'>3840838</NS0:population>
+    <NS0:populationGrowthRate rdf:ID='A30038'>1.12</NS0:populationGrowthRate>
+    <NS0:birthRate rdf:ID='A30041'>14.57</NS0:birthRate>
+    <NS0:deathRate rdf:ID='A30044'>8.07</NS0:deathRate>
+    <NS0:netMigrationRate rdf:ID='A30047'>4.69</NS0:netMigrationRate>
+    <NS0:sexRatio rdf:resource='#A30050'/>
+    <NS0:sexRatio rdf:resource='#A30056'/>
+    <NS0:sexRatio rdf:resource='#A30062'/>
+    <NS0:sexRatio rdf:resource='#A30068'/>
+    <NS0:sexRatio rdf:ID='A30076' rdf:resource='#A30073'/>
+    <NS0:infantMortalityRate rdf:ID='A30079'>5.53</NS0:infantMortalityRate>
+    <NS0:totalFertilityRate rdf:ID='A30082'>1.9</NS0:totalFertilityRate>
+    <NS0:nationalityNoun>Irishman(men), Irishwoman(women), Irish (collective plural)</NS0:nationalityNoun>
+    <NS0:nationalityAdjective>Irish</NS0:nationalityAdjective>
+    <NS0:ethnicGroup rdf:resource='#A30087'/>
+    <NS0:ethnicGroup rdf:resource='#A30091'/>
+    <NS0:religion rdf:resource='#A30095'/>
+    <NS0:religion rdf:resource='#A30100'/>
+    <NS0:religion rdf:ID='A30109' rdf:resource='#A30105'/>
+    <NS0:language rdf:resource='#A30111'/>
+    <NS0:language rdf:ID='A30118' rdf:resource='#A30115'/>
+    <NS0:literacyDefinition>age 15 and over can read and write</NS0:literacyDefinition>
+    <NS0:literacyTotal rdf:ID='A30121'>98</NS0:literacyTotal>
+    <NS0:conventionalLongCountryName>none</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Ireland</NS0:conventionalShortCountryName>
+    <NS0:governmentType rdf:resource='http://www.daml.org/2001/12/factbook/governmentTypes#republic'/>
+    <NS0:capital rdf:resource='#A30127'/>
+    <NS0:administrativeDivision rdf:resource='#A30134'/>
+    <NS0:administrativeDivision rdf:resource='#A30138'/>
+    <NS0:administrativeDivision rdf:resource='#A30142'/>
+    <NS0:administrativeDivision rdf:resource='#A30146'/>
+    <NS0:administrativeDivision rdf:resource='#A30150'/>
+    <NS0:administrativeDivision rdf:resource='#A30154'/>
+    <NS0:administrativeDivision rdf:resource='#A30158'/>
+    <NS0:administrativeDivision rdf:resource='#A30162'/>
+    <NS0:administrativeDivision rdf:resource='#A30166'/>
+    <NS0:administrativeDivision rdf:resource='#A30170'/>
+    <NS0:administrativeDivision rdf:resource='#A30174'/>
+    <NS0:administrativeDivision rdf:resource='#A30178'/>
+    <NS0:administrativeDivision rdf:resource='#A30182'/>
+    <NS0:administrativeDivision rdf:resource='#A30186'/>
+    <NS0:administrativeDivision rdf:resource='#A30190'/>
+    <NS0:administrativeDivision rdf:resource='#A30194'/>
+    <NS0:administrativeDivision rdf:resource='#A30198'/>
+    <NS0:administrativeDivision rdf:resource='#A30202'/>
+    <NS0:administrativeDivision rdf:resource='#A30206'/>
+    <NS0:administrativeDivision rdf:resource='#A30210'/>
+    <NS0:administrativeDivision rdf:resource='#A30214'/>
+    <NS0:administrativeDivision rdf:resource='#A30218'/>
+    <NS0:administrativeDivision rdf:resource='#A30222'/>
+    <NS0:administrativeDivision rdf:resource='#A30226'/>
+    <NS0:administrativeDivision rdf:resource='#A30230'/>
+    <NS0:administrativeDivision rdf:resource='#A30234'/>
+    <NS0:independence>6 December 1921 (from UK by treaty)</NS0:independence>
+    <NS0:constitution>29 December 1937; adopted 1 July 1937 by plebiscite</NS0:constitution>
+    <NS0:legalSystem>based on English common law, substantially modified by indigenous concepts; judicial review of legislative acts in Supreme Court; has not accepted compulsory ICJ jurisdiction</NS0:legalSystem>
+    <NS0:suffrage>18 years of age; universal</NS0:suffrage>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Australia_Group'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#BIS'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CCC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CE'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#EBRD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ECE'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#EIB'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#EMU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ESA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#EU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#FAO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IAEA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IBRD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICAO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICFTU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICRM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IDA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IEA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFAD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFRCS'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ILO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IMF'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IMO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Intelsat'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Interpol'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IOC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IOM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ISO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ITU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#MINURSO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NAM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NEA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NSG'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OAS'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OECD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OPCW'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OSCE'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#PFP'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UN'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UN_Security_Council'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNCTAD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNESCO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNFICYP'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNHCR'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNIDO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNIFIL'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNIKOM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNITAR'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNMIBH'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNMIK'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNMOP'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNTAET'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNTSO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UPU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WEU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WHO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WIPO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WMO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WTrO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ZC'/>
+    <NS0:flagDescription>three equal vertical bands of green (hoist side), white, and orange; similar to the flag of Cote d&apos;Ivoire, which is shorter and has the colors reversed - orange (hoist side), white, and green; also similar to the flag of Italy, which is shorter and has colors of green (hoist side), white, and red</NS0:flagDescription>
+    <NS0:economyOverview>Ireland is a small, modern, trade-dependent economy with growth averaging a robust 9% in 1995-2000. Agriculture, once the most important sector, is now dwarfed by industry, which accounts for 38% of GDP and about 80% of exports and employs 28% of the labor force. Although exports remain the primary engine for Ireland&apos;s robust growth, the economy is also benefiting from a rise in consumer spending and recovery in both construction and business investment. Over the past decade, the Irish government has implemented a series of national economic programs designed to curb inflation, reduce government spending, increase labor force skills, and promote foreign investment. Ireland joined in launching the euro currency system in January 1999 along with 10 other EU nations. The Irish economy is in danger of overheating, with the tight labor market driving up wage demands and inflation.</NS0:economyOverview>
+    <NS0:grossDomesticProduct rdf:ID='A30306'>81900000000</NS0:grossDomesticProduct>
+    <NS0:grossDomesticProductRealGrowth rdf:ID='A30309'>9.9</NS0:grossDomesticProductRealGrowth>
+    <NS0:grossDomesticProductPerCapita rdf:ID='A30312'>21600</NS0:grossDomesticProductPerCapita>
+    <NS0:grossDomesticProductAgriculture>4</NS0:grossDomesticProductAgriculture>
+    <NS0:grossDomesticProductIndustry>38</NS0:grossDomesticProductIndustry>
+    <NS0:grossDomesticProductServices rdf:ID='A30317'>58</NS0:grossDomesticProductServices>
+    <NS0:populationBelowPovertyLine rdf:ID='A30319'>10</NS0:populationBelowPovertyLine>
+    <NS0:householdIncomeLowest10Percent>2</NS0:householdIncomeLowest10Percent>
+    <NS0:householdIncomeHighest10Percent rdf:ID='A30323'>27.3</NS0:householdIncomeHighest10Percent>
+    <NS0:inflationRate rdf:ID='A30325'>5.6</NS0:inflationRate>
+    <NS0:laborForce rdf:ID='A30327'>1820000</NS0:laborForce>
+    <NS0:occupation rdf:resource='#A30330'/>
+    <NS0:occupation rdf:resource='#A30335'/>
+    <NS0:occupation rdf:ID='A30344' rdf:resource='#A30340'/>
+    <NS0:unemploymentRate rdf:ID='A30347'>4.1</NS0:unemploymentRate>
+    <NS0:budgetRevenues>25700000000</NS0:budgetRevenues>
+    <NS0:budgetExpenditures>19200000000</NS0:budgetExpenditures>
+    <NS0:budgetCapitalExpenditures rdf:ID='A30351'>2000000000</NS0:budgetCapitalExpenditures>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#food_products'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#brewing'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#textiles'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#clothing'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#chemicals'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#pharmaceuticals'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#machinery'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#transportation_equipment'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#glass_and_crystal'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#software'/>
+    <NS0:industrialProductionGrowthRate rdf:ID='A30363'>14</NS0:industrialProductionGrowthRate>
+    <NS0:electricityProduction rdf:ID='A30366'>19542000000</NS0:electricityProduction>
+    <NS0:electricityProductionFossilFuel>94.42</NS0:electricityProductionFossilFuel>
+    <NS0:electricityProductionHydro>4.23</NS0:electricityProductionHydro>
+    <NS0:electricityProductionNuclear>0</NS0:electricityProductionNuclear>
+    <NS0:electricityProductionOther rdf:ID='A30371'>1.35</NS0:electricityProductionOther>
+    <NS0:electricityConsumption rdf:ID='A30373'>18414000000</NS0:electricityConsumption>
+    <NS0:electricityExports rdf:ID='A30375'>50000000</NS0:electricityExports>
+    <NS0:electricityImports rdf:ID='A30377'>290000000</NS0:electricityImports>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#turnips'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#barley'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#potatoes'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#sugar_beets'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#wheat'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#beef'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#dairy_products'/>
+    <NS0:exports rdf:ID='A30386'>73500000000</NS0:exports>
+    <NS0:exportsCommodity rdf:resource='#A30388'/>
+    <NS0:exportsCommodity rdf:resource='#A30392'/>
+    <NS0:exportsCommodity rdf:resource='#A30396'/>
+    <NS0:exportsCommodity rdf:resource='#A30400'/>
+    <NS0:exportsCommodity rdf:resource='#A30404'/>
+    <NS0:imports rdf:ID='A30408'>45700000000</NS0:imports>
+    <NS0:importsCommodity rdf:resource='#A30411'/>
+    <NS0:importsCommodity rdf:resource='#A30415'/>
+    <NS0:importsCommodity rdf:resource='#A30419'/>
+    <NS0:importsCommodity rdf:resource='#A30423'/>
+    <NS0:importsCommodity rdf:resource='#A30427'/>
+    <NS0:externalDebt rdf:ID='A30431'>11000000000</NS0:externalDebt>
+    <NS0:currency>Irish pound (IEP); euro (EUR)</NS0:currency>
+    <NS0:currencyCode>IEP; EUR</NS0:currencyCode>
+    <NS0:fiscalYear>calendar year</NS0:fiscalYear>
+    <NS0:mainTelephoneLines rdf:ID='A30436'>1590000</NS0:mainTelephoneLines>
+    <NS0:mobileTelephoneLines rdf:ID='A30438'>2000000</NS0:mobileTelephoneLines>
+    <NS0:telephoneSystemGeneralAssessment>modern digital system using cable and microwave radio relay</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>microwave radio relay</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>satellite earth station - 1 Intelsat (Atlantic Ocean)</NS0:telephoneSystemInternational>
+    <NS0:radios rdf:ID='A30443'>2550000</NS0:radios>
+    <NS0:televisions rdf:ID='A30445'>1820000</NS0:televisions>
+    <NS0:internetCountryCode>.ie</NS0:internetCountryCode>
+    <NS0:internetServiceProviders rdf:ID='A30448'>22</NS0:internetServiceProviders>
+    <NS0:internetUsers rdf:ID='A30450'>1000000</NS0:internetUsers>
+    <NS0:railwaysTotal>1947</NS0:railwaysTotal>
+    <NS0:highwaysTotal>92500</NS0:highwaysTotal>
+    <NS0:highwaysPaved rdf:ID='A30454'>87043</NS0:highwaysPaved>
+    <NS0:highwaysUnpaved rdf:ID='A30456'>5457</NS0:highwaysUnpaved>
+    <NS0:port rdf:resource='#A30459'/>
+    <NS0:port rdf:resource='#A30463'/>
+    <NS0:port rdf:resource='#A30467'/>
+    <NS0:port rdf:resource='#A30471'/>
+    <NS0:port rdf:resource='#A30475'/>
+    <NS0:port rdf:resource='#A30479'/>
+    <NS0:port rdf:resource='#A30483'/>
+    <NS0:port rdf:resource='#A30487'/>
+    <NS0:port rdf:resource='#A30491'/>
+    <NS0:airports rdf:ID='A30495'>44</NS0:airports>
+    <NS0:airportBreakdown rdf:resource='#A30498'/>
+    <NS0:airportBreakdown rdf:resource='#A30504'/>
+    <NS0:airportBreakdown rdf:resource='#A30511'/>
+    <NS0:airportBreakdown rdf:resource='#A30518'/>
+    <NS0:airportBreakdown rdf:resource='#A30525'/>
+    <NS0:airportBreakdown rdf:resource='#A30531'/>
+    <NS0:airportBreakdown rdf:resource='#A30538'/>
+    <NS0:militaryAge>17</NS0:militaryAge>
+    <NS0:malesOfMilitaryAge rdf:ID='A30545'>1004469</NS0:malesOfMilitaryAge>
+    <NS0:malesFitForMilitaryService rdf:ID='A30548'>809808</NS0:malesFitForMilitaryService>
+    <NS0:malesReachingMilitaryAgeAnnually rdf:ID='A30551'>32287</NS0:malesReachingMilitaryAgeAnnually>
+    <NS0:militaryExpenditures rdf:ID='A30554'>738000000</NS0:militaryExpenditures>
+    <NS0:militaryExpendituresPercentGDP rdf:ID='A30557'>0.75</NS0:militaryExpendituresPercentGDP>
+    <NS0:internationalDispute>Northern Ireland issue with the UK</NS0:internationalDispute>
+    <NS0:internationalDispute>disputes with Iceland, Denmark, and the UK over the Faroe Islands continental shelf boundary outside 200 NM</NS0:internationalDispute>
+    <NS0:illicitDrugs>transshipment point for and consumer of hashish from North Africa to the UK and Netherlands and of European-produced synthetic drugs</NS0:illicitDrugs>
+    <NS0:illicitDrugs>minor transshipment point for heroin and cocaine destined for Western Europe</NS0:illicitDrugs>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/ei-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/ei-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/ei-map.jpg</NS0:map>
+    <NS0:border rdf:resource='#A124640'/>
+    <NS0:exportPartner rdf:ID='A124649' rdf:resource='#A124645'/>
+    <NS0:importPartner rdf:resource='#A124651'/>
+    <NS0:importPartner rdf:resource='#A124656'/>
+    <NS0:importPartner rdf:ID='A124665' rdf:resource='#A124661'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30118'>
+    <NS0:note>Gaelic</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30182'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Limerick</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30344'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A29990'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Carrauntoohil</NS0:name>
+    <NS0:elevation>1041</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124665'>
+    <NS0:note>2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A30178'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Leitrim</NS0:name>
+  </rdf:Description>
+</rdf:RDF>

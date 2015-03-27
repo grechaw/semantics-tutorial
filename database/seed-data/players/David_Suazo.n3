@@ -1,0 +1,334 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:David_Suazo	owl:sameAs	dbpedia:David_Suazo .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:David_Suazo	owl:sameAs	dbpedia:David_Suazo .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q212756	owl:sameAs	dbpedia:David_Suazo .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:David_Suazo	owl:sameAs	dbpedia:David_Suazo .
+@prefix ns6:	<http://id.dbpedia.org/resource/> .
+ns6:David_Suazo	owl:sameAs	dbpedia:David_Suazo .
+@prefix ns7:	<http://it.dbpedia.org/resource/> .
+ns7:David_Suazo	owl:sameAs	dbpedia:David_Suazo .
+@prefix ns8:	<http://ja.dbpedia.org/resource/> .
+ns8:ダビド・スアソ	owl:sameAs	dbpedia:David_Suazo .
+@prefix ns9:	<http://ko.dbpedia.org/resource/> .
+ns9:다비드_수아소	owl:sameAs	dbpedia:David_Suazo .
+@prefix ns10:	<http://nl.dbpedia.org/resource/> .
+ns10:David_Suazo	owl:sameAs	dbpedia:David_Suazo .
+@prefix ns11:	<http://pl.dbpedia.org/resource/> .
+ns11:David_Suazo	owl:sameAs	dbpedia:David_Suazo .
+@prefix ns12:	<http://pt.dbpedia.org/resource/> .
+ns12:David_Suazo	owl:sameAs	dbpedia:David_Suazo .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns14:	<http://en.wikipedia.org/wiki/> .
+ns14:David_Suazo	foaf:primaryTopic	dbpedia:David_Suazo .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2003_CONCACAF_Gold_Cup_squads>	dbpprop:name	dbpedia:David_Suazo .
+<http://dbpedia.org/resource/2001_Copa_Am%C3%A9rica_squads>	dbpprop:name	dbpedia:David_Suazo .
+dbpedia:Football_for_Hope	dbpprop:name	dbpedia:David_Suazo .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Football_for_Hope	dbpedia-owl:currentMember	dbpedia:David_Suazo .
+<http://dbpedia.org/resource/Football_at_the_2000_Summer_Olympics_%E2%80%93_Men\u0027s_team_squads>	dbpprop:name	dbpedia:David_Suazo .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:David_Suazo	rdf:type	yago:PeopleFromSanPedroSula ,
+		<http://dbpedia.org/class/yago/S.L.BenficaFootballers> ,
+		yago:HonduranFootballers ,
+		yago:HondurasInternationalFootballers ,
+		yago:ClubDeportivoOlimpiaFootballers ,
+		foaf:Person ,
+		ns4:Q5 ,
+		<http://dbpedia.org/class/yago/LigaNacionalDeF%C3%BAtbolDeHondurasFootballers> ,
+		yago:NaturalisedCitizensOfItaly ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:David_Suazo	rdf:type	dul:Agent ,
+		dul:NaturalPerson ,
+		<http://dbpedia.org/class/yago/GenoaC.F.C.Players> ,
+		yago:SerieBFootballers ,
+		yago:CalcioCataniaPlayers ,
+		<http://dbpedia.org/class/yago/2003CONCACAFGoldCupPlayers> ,
+		<http://dbpedia.org/class/yago/2001CopaAm%C3%A9ricaPlayers> ,
+		yago:Citizen109923673 ,
+		yago:ExpatriateFootballersInItaly ,
+		yago:SerieAFootballers ,
+		yago:National109625401 ,
+		dbpedia-owl:Agent ,
+		yago:OlympicFootballersOfHonduras ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:Player110439851 ,
+		dbpedia-owl:Person ,
+		yago:HonduranExpatriateFootballers ,
+		yago:Athlete109820263 ,
+		yago:FootballPlayer110101634 ,
+		yago:Contestant109613191 ,
+		yago:ExpatriateFootballersInPortugal ,
+		yago:PrimeiraLigaPlayers ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:FootballersAtThe2000SummerOlympics ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:HonduranExpatriatesInItaly .
+@prefix ns20:	<http://schema.org/> .
+dbpedia:David_Suazo	rdf:type	ns20:Person ,
+		yago:PhysicalEntity100001930 ,
+		yago:Object100002684 ,
+		yago:Whole100003553 ,
+		yago:ItalianPeopleOfHonduranDescent ,
+		<http://dbpedia.org/class/yago/F.C.InternazionaleMilanoPlayers> ,
+		dbpedia-owl:Athlete ,
+		yago:CagliariCalcioPlayers ,
+		owl:Thing ,
+		ns4:Q215627 .
+@prefix ns21:	<http://yago-knowledge.org/resource/> .
+dbpedia:David_Suazo	owl:sameAs	ns21:David_Suazo ,
+		ns7:David_Suazo .
+@prefix ns22:	<http://wikidata.org/entity/> .
+dbpedia:David_Suazo	owl:sameAs	ns22:Q212756 ,
+		ns10:David_Suazo .
+@prefix ns23:	<http://mr.dbpedia.org/resource/> .
+dbpedia:David_Suazo	owl:sameAs	ns23:डेविड_सुआझो .
+@prefix ns24:	<http://fi.dbpedia.org/resource/> .
+dbpedia:David_Suazo	owl:sameAs	ns24:David_Suazo .
+@prefix ns25:	<http://hu.dbpedia.org/resource/> .
+dbpedia:David_Suazo	owl:sameAs	ns25:David_Suazo ,
+		ns9:다비드_수아소 .
+@prefix ns26:	<http://sr.dbpedia.org/resource/> .
+dbpedia:David_Suazo	owl:sameAs	ns26:Давид_Суазо .
+@prefix ns27:	<http://sc.dbpedia.org/resource/> .
+dbpedia:David_Suazo	owl:sameAs	ns27:David_Suazo .
+@prefix ns28:	<http://lt.dbpedia.org/resource/> .
+dbpedia:David_Suazo	owl:sameAs	ns28:David_Suazo .
+@prefix ns29:	<http://tr.dbpedia.org/resource/> .
+dbpedia:David_Suazo	owl:sameAs	ns29:David_Suazo ,
+		dbpedia:David_Suazo .
+@prefix ns30:	<http://hr.dbpedia.org/resource/> .
+dbpedia:David_Suazo	owl:sameAs	ns30:David_Suazo .
+@prefix ns31:	<http://simple.dbpedia.org/resource/> .
+dbpedia:David_Suazo	owl:sameAs	ns31:David_Suazo ,
+		ns12:David_Suazo ,
+		ns11:David_Suazo ,
+		ns1:David_Suazo ,
+		ns8:ダビド・スアソ .
+@prefix ns32:	<http://zh.dbpedia.org/resource/> .
+dbpedia:David_Suazo	owl:sameAs	ns32:大衛·蘇亞素 .
+@prefix ns33:	<http://uk.dbpedia.org/resource/> .
+dbpedia:David_Suazo	owl:sameAs	ns33:Давід_Суасо ,
+		<http://rdf.freebase.com/ns/m.043ftz> ,
+		ns5:David_Suazo .
+@prefix ns34:	<http://la.dbpedia.org/resource/> .
+dbpedia:David_Suazo	owl:sameAs	ns34:David_Suazo ,
+		ns3:David_Suazo .
+@prefix ns35:	<http://bg.dbpedia.org/resource/> .
+dbpedia:David_Suazo	owl:sameAs	ns35:Давид_Суасо .
+@prefix ns36:	<http://nn.dbpedia.org/resource/> .
+dbpedia:David_Suazo	owl:sameAs	ns36:David_Suazo .
+@prefix ns37:	<http://no.dbpedia.org/resource/> .
+dbpedia:David_Suazo	owl:sameAs	ns37:David_Suazo ,
+		ns4:Q212756 .
+@prefix ns38:	<http://sv.dbpedia.org/resource/> .
+dbpedia:David_Suazo	owl:sameAs	ns38:David_Suazo .
+@prefix ns39:	<http://ar.dbpedia.org/resource/> .
+dbpedia:David_Suazo	owl:sameAs	ns39:ديفد_سوازو ,
+		<http://ru.dbpedia.org/resource/\u0421\u0443\u0430\u0441\u043E,_\u0414\u0430\u0432\u0438\u0434> ,
+		ns6:David_Suazo .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:David_Suazo	rdfs:label	"\u5927\u885B\u00B7\u8607\u4E9E\u7D20"@zh ,
+		"David Suazo"@pt ,
+		"David Suazo"@it ,
+		"\u062F\u064A\u0641\u064A\u062F \u0633\u0648\u0627\u0632\u0648"@ar ,
+		"David Suazo"@pl ,
+		"David Suazo"@fr ,
+		"David Suazo"@nl ,
+		"David Suazo"@es ,
+		"David Suazo" ,
+		"\u0421\u0443\u0430\u0441\u043E, \u0414\u0430\u0432\u0438\u0434"@ru ,
+		"David Suazo"@de ,
+		"\u30C0\u30D3\u30C9\u30FB\u30B9\u30A2\u30BD"@ja .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:David_Suazo	dcterms:subject	category:Serie_A_footballers ,
+		category:Naturalised_citizens_of_Italy ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2001_Copa_Am%C3%A9rica_players> ,
+		category:Calcio_Catania_players ,
+		category:Serie_B_footballers ,
+		category:Inter_Milan_players ,
+		category:Italian_people_of_Honduran_descent ,
+		<http://dbpedia.org/resource/Category:Genoa_C.F.C._players> ,
+		category:Cagliari_Calcio_players ,
+		category:Honduran_expatriates_in_Italy ,
+		category:People_from_San_Pedro_Sula ,
+		category:Footballers_at_the_2000_Summer_Olympics ,
+		category:Honduran_footballers ,
+		<http://dbpedia.org/resource/Category:2003_CONCACAF_Gold_Cup_players> ,
+		<http://dbpedia.org/resource/Category:Liga_Nacional_de_F%C3%BAtbol_de_Honduras_footballers> ,
+		category:Olympic_footballers_of_Honduras ,
+		category:Honduran_people_of_African_descent ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Club_Deportivo_Olimpia_footballers ,
+		category:Honduran_expatriate_footballers ,
+		category:Honduras_international_footballers ,
+		<http://dbpedia.org/resource/Category:1979_births> ,
+		<http://dbpedia.org/resource/Category:S.L._Benfica_footballers> ,
+		category:Primeira_Liga_players ,
+		category:Expatriate_footballers_in_Portugal ,
+		category:Expatriate_footballers_in_Italy ,
+		category:Association_football_forwards ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/David_Suazo_Catania.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:David_Suazo	dc:description	"Honduran footballer" ,
+		"Honduran footballer" ;
+	foaf:givenName	"David" ;
+	foaf:name	"David Suazo" ,
+		"Suazo, David" ,
+		"\u00D3scar David Suazo Vel\u00E1zquez" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:David_Suazo	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/David_Suazo?oldid=606198796> ;
+	rdfs:comment	"\u00D3scar David Suazo Vel\u00E1zquez (San Pedro Sula, 5 november 1979) is een Hondurees betaald voetballer die bij voorkeur in de aanval speelt. Hij verruilde in 2007 Cagliari Calcio voor Inter Milan, dat hem gedurende het seizoen 2009-'10 verhuurde aan Genoa CFC. In maart 1999 debuteerde hij in het Hondurees nationaal elftal. Suazo heeft als bijnamen El Rey David (Koning David) en Pantera Nera (Zwarte Panter).Suazo speelde in eigen land van 1996 tot 1999 bij Club Deportivo Olimpia."@nl ,
+		"\u041E\u0301\u0441\u043A\u0430\u0440 \u0414\u0430\u0432\u0438\u0301\u0434 \u0421\u0443\u0430\u0301\u0441\u043E \u0412\u0435\u043B\u0430\u0301\u0441\u043A\u0435\u0441 (\u0438\u0441\u043F. \u00D3scar David Suazo Vel\u00E1squez; 5 \u043D\u043E\u044F\u0431\u0440\u044F 1979 \u0433\u043E\u0434\u0430, \u0421\u0430\u043D-\u041F\u0435\u0434\u0440\u043E-\u0421\u0443\u043B\u0430) \u2014 \u0433\u043E\u043D\u0434\u0443\u0440\u0430\u0441\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439. \u0418\u0433\u0440\u043E\u043A \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0413\u043E\u043D\u0434\u0443\u0440\u0430\u0441\u0430."@ru ,
+		"Carmelo \u00D3scar David Suazo Vel\u00E1squez (San Pedro Sula, 5 novembre 1979) \u00E8 un ex calciatore honduregno, di ruolo attaccante.Possiede il passaporto italiano, dopo essersi sposato con una cittadina italiana nel 2005.\u00C8 cugino di Maynor Suazo e Hendry Thomas, anch'essi calciatori professionisti.\u00C8 soprannominato La Pantera Nera."@it ,
+		"\u00D3scar David Suazo Vel\u00E1zquez (born 5 November 1979 in San Pedro Sula) is a Honduran retired football striker. Recently he was named the Assistant Coach of Cagliari Calcio, the club of his life and where he is the historic goal scorer. Suazo played more than 300 league games and scored over 100 league goals in the Italian league during a period of 13 years." ,
+		"\u0623\u0648\u0633\u0643\u0627\u0631 \u062F\u064A\u0641\u064A\u062F \u0633\u0648\u0627\u0632\u0648 \u0641\u064A\u0644\u0627\u0632\u0643\u0648\u064A\u0632 \u0648\u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0628\u0640 (\u062F\u064A\u0641\u064A\u062F \u0633\u0648\u0627\u0632), (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629:\u00D3scar David Suazo Vel\u00E1zquez) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0645\u0646 \u0627\u0644\u0647\u0646\u062F\u0648\u0631\u0627\u0633\u060C \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u064B\u0627 \u0645\u0639 \u0646\u0627\u062F\u064A \u0625\u0646\u062A\u0631 \u0645\u064A\u0644\u0627\u0646 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A.\u0627\u0627\u0641\u0628"@ar ,
+		"\u00D3scar David Suazo Vel\u00E1zquez (San Pedro Sula, 5 de novembro de 1979) \u00E9 um futebolista hondurenho que atua como atacante. Atualmente, joga pelo Catania."@pt ,
+		"\u00D3scar David Suazo Vel\u00E1squez (* 5. November 1979 in San Pedro Sula) ist ein ehemaliger honduranischer Fu\u00DFballspieler. Er spielte auf der Position des St\u00FCrmers und war Nationalspieler seines Landes. Er besitzt auch die Staatsangeh\u00F6rigkeit von Italien. Suazo gilt als einer der talentiertesten und erfolgreichsten honduranischen Fu\u00DFballspieler aller Zeiten. Er ist ein Cousin der gleichfalls als Fu\u00DFballspieler bekannten Maynor Suazo und Hendry Bernardo Thomas."@de ,
+		"David Suazo (San Pedro Sula, Cort\u00E9s, Honduras, 5 de noviembre de 1979),Es un ex-futbolista de nacionalidad hondure\u00F1a.Su primer equipo fue el Club Deportivo Olimpia (1998-1999). Despu\u00E9s, el Cagliari Calcio lo fich\u00F3 en el a\u00F1o 1999, convirti\u00E9ndose en una leyenda para los sardos por batir el r\u00E9cord de goles de \u00E9se equipo que antiguamente lo ten\u00EDa Gigi Riva con 22 goles y ayudar as\u00ED a que el club se mantuviera en primera divisi\u00F3n."@es ,
+		"\u00D3scar David Suazo Vel\u00E1zquez, plus couramment appel\u00E9 David Suazo, n\u00E9 le 5 novembre 1979 \u00E0 San Pedro Sula (Honduras), est un ancien footballeur international hondurien.Il \u00E9voluait au poste d'attaquant. Plusieurs membres de sa famille sont \u00E9galement footballeurs professionnels, dont ses deux fr\u00E8res Nicholas et Ruben, ainsi que ses cousins Maynor Suazo et Hendry Thomas."@fr ,
+		"\u5967\u65AF\u5361\u00B7\u5927\u885B\u00B7\u8607\u4E9E\u7D20\u00B7\u8C9D\u62C9\u65AF\u514B\u65AF\uFF08\u897F\u73ED\u7259\u8BED\uFF1A\u00D3scar David Suazo Vel\u00E1zquez\uFF0C1979\u5E7411\u67085\u65E5\uFF0D\uFF09\uFF0C\u7C21\u7A31\u5927\u885B\u00B7\u8607\u4E9E\u7D20\uFF08\u897F\u73ED\u7259\u8BED\uFF1ADavid Suazo\uFF09\uFF0C\u51FA\u751F\u5728\u8056\u4F69\u5FB7\u7F85\u8607\u62C9\uFF0C\u662F\u4E00\u540D\u6D2A\u90FD\u62C9\u65AF\u8DB3\u7403\u54E1\uFF0C\u53F8\u8077\u524D\u92D2\u3002\u73FE\u7531\u610F\u5927\u5229\u7403\u6703\u5361\u5766\u5C3C\u4E9E\u3002\u6B64\u5916\uFF0C\u8607\u4E9E\u7D20\u4EA6\u662F\u6D2A\u90FD\u62C9\u65AF\u570B\u5BB6\u8DB3\u7403\u968A\u7684\u4E00\u54E1\u3002\u8607\u4E9E\u7D20\u6709\u5169\u540D\u5144\u5F1F\u5C3C\u53E4\u62C9\u65AF\u00B7\u8607\u4E9E\u7D20\u548C\u6D1B\u8CD3\u00B7\u8607\u4E9E\u7D20\u3002\u7F8E\u7F85\u00B7\u8607\u4E9E\u7D20\u662F\u8607\u4E9E\u7D20\u7684\u8868\u5144\uFF0C\u6548\u529B\u97CB\u6839\u7684\u4EA8\u5FB7\u5229\u00B7\u6258\u9A6C\u65AF\u5247\u662F\u8607\u4E9E\u7D20\u7684\u8868\u5F1F\u3002"@zh ,
+		"David Suazo (ur. 5 listopada 1979 roku w San Pedro Sula) \u2013 honduraski pi\u0142karz wyst\u0119puj\u0105cy na pozycji napastnika."@pl ,
+		"\u30AA\u30B9\u30AB\u30EB\u30FB\u30C0\u30D3\u30C9\u30FB\u30B9\u30A2\u30BD\u30FB\u30D9\u30E9\u30B9\u30B1\u30B9\uFF08\u00D3scar David Suazo Vel\u00E1zquez, 1979\u5E7411\u67085\u65E5 - \uFF09\u306F\u3001\u30DB\u30F3\u30B8\u30E5\u30E9\u30B9\u30FB\u30B5\u30F3\u30FB\u30DA\u30C9\u30ED\u30FB\u30B9\u30FC\u30E9\u51FA\u8EAB\u306E\u5143\u540C\u56FD\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u73FE\u5F79\u6642\u4EE3\u306E\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9\u3002"@ja ;
+	foaf:surname	"Suazo" ;
+	foaf:isPrimaryTopicOf	ns14:David_Suazo .
+@prefix ns45:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:David_Suazo	dbpprop:hasPhotoCollection	ns45:David_Suazo ;
+	dbpprop:caption	"Suazo training for Catania in 2011" ;
+	dbpprop:name	"Suazo, David" ,
+		"David Suazo" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/David_Suazo_Catania.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u00D3scar David Suazo Vel\u00E1zquez, plus couramment appel\u00E9 David Suazo, n\u00E9 le 5 novembre 1979 \u00E0 San Pedro Sula (Honduras), est un ancien footballeur international hondurien.Il \u00E9voluait au poste d'attaquant. Plusieurs membres de sa famille sont \u00E9galement footballeurs professionnels, dont ses deux fr\u00E8res Nicholas et Ruben, ainsi que ses cousins Maynor Suazo et Hendry Thomas."@fr ,
+		"\u00D3scar David Suazo Vel\u00E1zquez (born 5 November 1979 in San Pedro Sula) is a Honduran retired football striker. Recently he was named the Assistant Coach of Cagliari Calcio, the club of his life and where he is the historic goal scorer. Suazo played more than 300 league games and scored over 100 league goals in the Italian league during a period of 13 years." ,
+		"\u30AA\u30B9\u30AB\u30EB\u30FB\u30C0\u30D3\u30C9\u30FB\u30B9\u30A2\u30BD\u30FB\u30D9\u30E9\u30B9\u30B1\u30B9\uFF08\u00D3scar David Suazo Vel\u00E1zquez, 1979\u5E7411\u67085\u65E5 - \uFF09\u306F\u3001\u30DB\u30F3\u30B8\u30E5\u30E9\u30B9\u30FB\u30B5\u30F3\u30FB\u30DA\u30C9\u30ED\u30FB\u30B9\u30FC\u30E9\u51FA\u8EAB\u306E\u5143\u540C\u56FD\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u73FE\u5F79\u6642\u4EE3\u306E\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9\u3002"@ja ,
+		"\u0623\u0648\u0633\u0643\u0627\u0631 \u062F\u064A\u0641\u064A\u062F \u0633\u0648\u0627\u0632\u0648 \u0641\u064A\u0644\u0627\u0632\u0643\u0648\u064A\u0632 \u0648\u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0628\u0640 (\u062F\u064A\u0641\u064A\u062F \u0633\u0648\u0627\u0632), (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629:\u00D3scar David Suazo Vel\u00E1zquez) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0645\u0646 \u0627\u0644\u0647\u0646\u062F\u0648\u0631\u0627\u0633\u060C \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u064B\u0627 \u0645\u0639 \u0646\u0627\u062F\u064A \u0625\u0646\u062A\u0631 \u0645\u064A\u0644\u0627\u0646 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A.\u0627\u0627\u0641\u0628"@ar ,
+		"Carmelo \u00D3scar David Suazo Vel\u00E1squez (San Pedro Sula, 5 novembre 1979) \u00E8 un ex calciatore honduregno, di ruolo attaccante.Possiede il passaporto italiano, dopo essersi sposato con una cittadina italiana nel 2005.\u00C8 cugino di Maynor Suazo e Hendry Thomas, anch'essi calciatori professionisti.\u00C8 soprannominato La Pantera Nera."@it ,
+		"\u5967\u65AF\u5361\u00B7\u5927\u885B\u00B7\u8607\u4E9E\u7D20\u00B7\u8C9D\u62C9\u65AF\u514B\u65AF\uFF08\u897F\u73ED\u7259\u8BED\uFF1A\u00D3scar David Suazo Vel\u00E1zquez\uFF0C1979\u5E7411\u67085\u65E5\uFF0D\uFF09\uFF0C\u7C21\u7A31\u5927\u885B\u00B7\u8607\u4E9E\u7D20\uFF08\u897F\u73ED\u7259\u8BED\uFF1ADavid Suazo\uFF09\uFF0C\u51FA\u751F\u5728\u8056\u4F69\u5FB7\u7F85\u8607\u62C9\uFF0C\u662F\u4E00\u540D\u6D2A\u90FD\u62C9\u65AF\u8DB3\u7403\u54E1\uFF0C\u53F8\u8077\u524D\u92D2\u3002\u73FE\u7531\u610F\u5927\u5229\u7403\u6703\u5361\u5766\u5C3C\u4E9E\u3002\u6B64\u5916\uFF0C\u8607\u4E9E\u7D20\u4EA6\u662F\u6D2A\u90FD\u62C9\u65AF\u570B\u5BB6\u8DB3\u7403\u968A\u7684\u4E00\u54E1\u3002\u8607\u4E9E\u7D20\u6709\u5169\u540D\u5144\u5F1F\u5C3C\u53E4\u62C9\u65AF\u00B7\u8607\u4E9E\u7D20\u548C\u6D1B\u8CD3\u00B7\u8607\u4E9E\u7D20\u3002\u7F8E\u7F85\u00B7\u8607\u4E9E\u7D20\u662F\u8607\u4E9E\u7D20\u7684\u8868\u5144\uFF0C\u6548\u529B\u97CB\u6839\u7684\u4EA8\u5FB7\u5229\u00B7\u6258\u9A6C\u65AF\u5247\u662F\u8607\u4E9E\u7D20\u7684\u8868\u5F1F\u3002"@zh ,
+		"David Suazo (San Pedro Sula, Cort\u00E9s, Honduras, 5 de noviembre de 1979),Es un ex-futbolista de nacionalidad hondure\u00F1a.Su primer equipo fue el Club Deportivo Olimpia (1998-1999). Despu\u00E9s, el Cagliari Calcio lo fich\u00F3 en el a\u00F1o 1999, convirti\u00E9ndose en una leyenda para los sardos por batir el r\u00E9cord de goles de \u00E9se equipo que antiguamente lo ten\u00EDa Gigi Riva con 22 goles y ayudar as\u00ED a que el club se mantuviera en primera divisi\u00F3n."@es ,
+		"\u00D3scar David Suazo Vel\u00E1zquez (San Pedro Sula, 5 november 1979) is een Hondurees betaald voetballer die bij voorkeur in de aanval speelt. Hij verruilde in 2007 Cagliari Calcio voor Inter Milan, dat hem gedurende het seizoen 2009-'10 verhuurde aan Genoa CFC. In maart 1999 debuteerde hij in het Hondurees nationaal elftal. Suazo heeft als bijnamen El Rey David (Koning David) en Pantera Nera (Zwarte Panter).Suazo speelde in eigen land van 1996 tot 1999 bij Club Deportivo Olimpia. Bij deze club won de aanvaller twee landstitels (1998, 1999), de Hondurese beker (1998) en de Supercopa (1997). Sinds 1999 staat hij onder contract bij Cagliari Calcio. In het seizoen 2005/2006 eindigde Suazo als derde op de topscorerslijst van de Serie A met 22 doelpunten. Alleen Luca Toni van AC Fiorentina met 31 goals en David Trezeguet van Juventus met 23 goals scoorden meer. In januari 2007 ontving Suazo de Oscar del Calcio voor beste buitenlander in de Serie A in 2006, samen met de Braziliaan Kak\u00E1 van AC Milan. In juni 2007 leek Suazo dichtbij een transfer naar Internazionale, maar door de leiding van deze club niet snel genoeg handelde leek AC Milan de aanvaller voor veertien miljoen euro over te kunnen nemen van Cagliari Calcio. Suazo bleek echter al een voorcontract te hebben getekend bij Internazionale voordat AC Milan het bod uitbracht, waardoor de Hondurees alsnog naar Internazionale vertrok.In augustus 2008 werd bekend dat Internazionale Suazo voor \u00E9\u00E9n seizoen verhuurde aan de Portugese topclub SL Benfica. In december 2009 werd bekend dat hij het seizoen 2009/2010 af zou maken bij Genoa CFC. De club nam Suazo op huurbasis over en bedwong een optie tot koop."@nl ,
+		"\u00D3scar David Suazo Vel\u00E1squez (* 5. November 1979 in San Pedro Sula) ist ein ehemaliger honduranischer Fu\u00DFballspieler. Er spielte auf der Position des St\u00FCrmers und war Nationalspieler seines Landes. Er besitzt auch die Staatsangeh\u00F6rigkeit von Italien. Suazo gilt als einer der talentiertesten und erfolgreichsten honduranischen Fu\u00DFballspieler aller Zeiten. Er ist ein Cousin der gleichfalls als Fu\u00DFballspieler bekannten Maynor Suazo und Hendry Bernardo Thomas. Seine Spitznamen sind Schwarzer Panther und King David."@de ,
+		"\u00D3scar David Suazo Vel\u00E1zquez (San Pedro Sula, 5 de novembro de 1979) \u00E9 um futebolista hondurenho que atua como atacante. Atualmente, joga pelo Catania."@pt ,
+		"David Suazo (ur. 5 listopada 1979 roku w San Pedro Sula) \u2013 honduraski pi\u0142karz wyst\u0119puj\u0105cy na pozycji napastnika."@pl ,
+		"\u041E\u0301\u0441\u043A\u0430\u0440 \u0414\u0430\u0432\u0438\u0301\u0434 \u0421\u0443\u0430\u0301\u0441\u043E \u0412\u0435\u043B\u0430\u0301\u0441\u043A\u0435\u0441 (\u0438\u0441\u043F. \u00D3scar David Suazo Vel\u00E1squez; 5 \u043D\u043E\u044F\u0431\u0440\u044F 1979 \u0433\u043E\u0434\u0430, \u0421\u0430\u043D-\u041F\u0435\u0434\u0440\u043E-\u0421\u0443\u043B\u0430) \u2014 \u0433\u043E\u043D\u0434\u0443\u0440\u0430\u0441\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439. \u0418\u0433\u0440\u043E\u043A \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0413\u043E\u043D\u0434\u0443\u0440\u0430\u0441\u0430."@ru ;
+	dbpedia-owl:wikiPageID	1071488 ;
+	dbpedia-owl:wikiPageRevisionID	606198796 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:David_Suazo	dbpprop:birthDate	"1979-11-05+02:00"^^xsd:date ;
+	dbpprop:birthPlace	dbpedia:Honduras ,
+		dbpedia:San_Pedro_Sula ;
+	dbpprop:dateOfBirth	"1979-11-05+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"San Salvador, El Salvador" ;
+	dbpprop:shortDescription	"Honduran footballer" ;
+	dbpedia-owl:birthDate	"1979-11-05+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:San_Salvador ,
+		dbpedia:El_Salvador ,
+		dbpedia:Honduras ,
+		dbpedia:San_Pedro_Sula ;
+	dbpedia-owl:birthYear	"1979+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	200 ;
+	dbpprop:goals	94 ,
+		8 ,
+		3 ,
+		0 ,
+		5 ;
+	dbpprop:bg	"blue" ;
+	dbpprop:caps	255 ,
+		10 ,
+		12 ,
+		6 ,
+		27 ,
+		16 ;
+	dbpprop:years	1999 ,
+		1997 ,
+		2010 ,
+		2011 ,
+		2008 ,
+		2007 ;
+	dbpprop:youthclubs	<http://dbpedia.org/resource/C.D._Marath%C3%B3n> ;
+	dbpedia-owl:careerStation	dbpedia:David_Suazo__4 ,
+		dbpedia:David_Suazo__3 ,
+		dbpedia:David_Suazo__7 ,
+		dbpedia:David_Suazo__5 ,
+		dbpedia:David_Suazo__6 ,
+		dbpedia:David_Suazo__1 ,
+		dbpedia:David_Suazo__2 ;
+	dbpprop:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:height	1.8200000000000000622 .
+@prefix ns47:	<http://dbpedia.org/datatype/> .
+@prefix ns48:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:David_Suazo	ns48:height	"182.0"^^ns47:centimetre ;
+	dbpprop:fullname	"\u00D3scar David Suazo Vel\u00E1zquez" ;
+	dbpprop:clubs	dbpedia:Cagliari_Calcio ,
+		dbpedia:Club_Deportivo_Olimpia ,
+		dbpedia:Calcio_Catania ,
+		"\u2192 Benfica" ,
+		"\u2192 Genoa" ,
+		dbpedia:Inter_Milan ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/C.D._Marath%C3%B3n> ,
+		dbpedia:Club_Deportivo_Olimpia ,
+		dbpedia:Calcio_Catania ,
+		dbpedia:Honduras_national_football_team ,
+		<http://dbpedia.org/resource/Genoa_C.F.C.> ,
+		<http://dbpedia.org/resource/S.L._Benfica> ,
+		dbpedia:Inter_Milan ,
+		dbpedia:Cagliari_Calcio .
+@prefix ns49:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:David_Suazo	dbpprop:wordnet_type	ns49:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Honduras squads" ;
+	dbpprop:pcupdate	"2012-07-05+02:00"^^xsd:date ;
+	dbpprop:fg	"White" ;
+	dbpprop:nationalcaps	57 ;
+	dbpprop:nationalgoals	17 ;
+	dbpprop:nationalteam	dbpedia:Honduras_national_football_team ;
+	dbpprop:nationalyears	1999 ;
+	dbpprop:ntupdate	"2012-07-05+02:00"^^xsd:date ;
+	dbpprop:totalcaps	327 ;
+	dbpprop:totalgoals	115 .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:David_Suazo .
+ns39:ديفد_سوازو	owl:sameAs	dbpedia:David_Suazo .
+ns35:Давид_Суасо	owl:sameAs	dbpedia:David_Suazo .
+ns24:David_Suazo	owl:sameAs	dbpedia:David_Suazo .
+ns30:David_Suazo	owl:sameAs	dbpedia:David_Suazo .
+ns25:David_Suazo	owl:sameAs	dbpedia:David_Suazo .
+ns34:David_Suazo	owl:sameAs	dbpedia:David_Suazo .
+ns28:David_Suazo	owl:sameAs	dbpedia:David_Suazo .
+ns23:डेविड_सुआझो	owl:sameAs	dbpedia:David_Suazo .
+ns36:David_Suazo	owl:sameAs	dbpedia:David_Suazo .
+ns37:David_Suazo	owl:sameAs	dbpedia:David_Suazo .
+<http://ru.dbpedia.org/resource/\u0421\u0443\u0430\u0441\u043E,_\u0414\u0430\u0432\u0438\u0434>	owl:sameAs	dbpedia:David_Suazo .
+ns27:David_Suazo	owl:sameAs	dbpedia:David_Suazo .
+ns31:David_Suazo	owl:sameAs	dbpedia:David_Suazo .
+ns26:Давид_Суазо	owl:sameAs	dbpedia:David_Suazo .
+ns38:David_Suazo	owl:sameAs	dbpedia:David_Suazo .
+ns29:David_Suazo	owl:sameAs	dbpedia:David_Suazo .
+ns33:Давід_Суасо	owl:sameAs	dbpedia:David_Suazo .
+ns32:大衛·蘇亞素	owl:sameAs	dbpedia:David_Suazo .
+dbpedia:Suazo	dbpedia-owl:wikiPageDisambiguates	dbpedia:David_Suazo .
+dbpedia:UNCAF_Nations_Cup_2003_squads	dbpprop:name	dbpedia:David_Suazo .
+<http://dbpedia.org/resource/1999_FIFA_World_Youth_Championship_squads>	dbpprop:name	dbpedia:David_Suazo .
+<http://dbpedia.org/resource/2008%E2%80%9309_F.C._Internazionale_Milano_season>	dbpprop:p	dbpedia:David_Suazo .
+<http://dbpedia.org/resource/2009%E2%80%9310_F.C._Internazionale_Milano_season>	dbpprop:p	dbpedia:David_Suazo .
+<http://dbpedia.org/resource/2007%E2%80%9308_F.C._Internazionale_Milano_season>	dbpprop:p	dbpedia:David_Suazo .
+<http://dbpedia.org/resource/2000_CONCACAF_Men\u0027s_Pre-Olympic_Tournament_squads>	dbpprop:name	dbpedia:David_Suazo .
+<http://dbpedia.org/resource/2006%E2%80%9307_Cagliari_Calcio_season>	dbpprop:leagueTopscorer	dbpedia:David_Suazo ;
+	dbpprop:seasonTopscorer	dbpedia:David_Suazo .
+<http://dbpedia.org/resource/2005%E2%80%9306_Cagliari_Calcio_season>	dbpprop:leagueTopscorer	dbpedia:David_Suazo ;
+	dbpprop:seasonTopscorer	dbpedia:David_Suazo .

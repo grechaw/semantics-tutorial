@@ -1,0 +1,424 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_du_Bangladesh_de_football	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Bangladeschische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q241670	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+@prefix ns5:	<http://cs.dbpedia.org/resource/> .
+ns5:Bangladéšská_fotbalová_reprezentace	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Selección_de_fútbol_de_Bangladés	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+@prefix ns7:	<http://id.dbpedia.org/resource/> .
+ns7:Tim_nasional_sepak_bola_Bangladesh	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Nazionale_di_calcio_del_Bangladesh	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+@prefix ns9:	<http://ja.dbpedia.org/resource/> .
+ns9:サッカーバングラデシュ代表	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+@prefix ns10:	<http://ko.dbpedia.org/resource/> .
+ns10:방글라데시_축구_국가대표팀	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+@prefix ns11:	<http://nl.dbpedia.org/resource/> .
+ns11:Bengalees_voetbalelftal	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+@prefix ns12:	<http://pl.dbpedia.org/resource/> .
+ns12:Reprezentacja_Bangladeszu_w_piłce_nożnej	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Robert_Rub%C4%8Di%C4%87>	dbpedia-owl:managerClub	dbpedia:Bangladesh_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Robert_Rub%C4%8Di%C4%87>	dbpprop:managerclubs	dbpedia:Bangladesh_national_football_team .
+dbpedia:Shakhawat_Hossain_Rony__1	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns16:	<http://en.wikipedia.org/wiki/> .
+ns16:Bangladesh_national_football_team	foaf:primaryTopic	dbpedia:Bangladesh_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Bangladesh_national_football_team	rdf:type	yago:FootballTeam108080025 ,
+		yago:NationalSportsTeamsOfBangladesh .
+@prefix ns19:	<http://schema.org/> .
+dbpedia:Bangladesh_national_football_team	rdf:type	ns19:Organization ,
+		yago:AsianNationalAssociationFootballTeams ,
+		owl:Thing .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Bangladesh_national_football_team	rdf:type	dul:SocialPerson ,
+		dul:Agent ,
+		ns19:SportsTeam ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ,
+		dbpedia-owl:Organisation ,
+		dbpedia-owl:Agent ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo .
+@prefix ns21:	<http://bn.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns21:বাংলাদেশ_জাতীয়_ফুটবল_দল ,
+		ns12:Reprezentacja_Bangladeszu_w_piłce_nożnej ,
+		<http://rdf.freebase.com/ns/m.04nqfp> .
+@prefix ns22:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns22:Bangladeş_Millî_Futbol_Takımı .
+@prefix ns23:	<http://et.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns23:Bangladeshi_jalgpallikoondis .
+@prefix ns24:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns24:Bangladeshin_jalkapallomaajoukkue ,
+		ns9:サッカーバングラデシュ代表 .
+@prefix ns25:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns25:Echipa_națională_de_fotbal_a_Bangladeshului .
+@prefix ns26:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns26:Bangladesh_national_football_team .
+@prefix ns27:	<http://lv.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns27:Bangladešas_futbola_izlase .
+@prefix ns28:	<http://he.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns28:נבחרת_בנגלדש_בכדורגל ,
+		ns11:Bengalees_voetbalelftal .
+@prefix ns29:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns29:Đội_tuyển_bóng_đá_quốc_gia_Bangladesh .
+@prefix ns30:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns30:Bangladeshs_herrlandslag_i_fotboll .
+@prefix ns31:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns31:Bangladešo_vyrų_futbolo_rinktinė .
+@prefix ns32:	<http://ms.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns32:Pasukan_bola_sepak_kebangsaan_Bangladesh ,
+		ns3:Bangladeschische_Fußballnationalmannschaft .
+@prefix ns33:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns33:تیم_ملی_فوتبال_بنگلادش ,
+		ns4:Q241670 ,
+		ns7:Tim_nasional_sepak_bola_Bangladesh .
+@prefix ns34:	<http://pt.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns34:Seleção_Bangladexiana_de_Futebol .
+@prefix ns35:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns35:Bangladesh_national_football_team .
+@prefix ns36:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns36:Bangladesi_labdarúgó-válogatott .
+@prefix ns37:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns37:बांगलादेश_फुटबॉल_संघ ,
+		ns34:Seleção_Bengali_de_Futebol .
+@prefix ns38:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns38:孟加拉國家足球隊 ,
+		ns8:Nazionale_di_calcio_del_Bangladesh ,
+		ns1:Équipe_du_Bangladesh_de_football ,
+		ns6:Selección_de_fútbol_de_Bangladés .
+@prefix ns39:	<http://wikidata.org/entity/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns39:Q241670 .
+@prefix ns40:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns40:Сборная_Бангладеш_по_футболу .
+@prefix ns41:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns41:منتخب_بنغلاديش_لكرة_القدم ,
+		ns5:Bangladéšská_fotbalová_reprezentace ,
+		ns10:방글라데시_축구_국가대표팀 .
+@prefix ns42:	<http://yago-knowledge.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns42:Bangladesh_national_football_team ,
+		dbpedia:Bangladesh_national_football_team .
+@prefix ns43:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns43:Збірна_Бангладеш_з_футболу .
+@prefix ns44:	<http://hr.dbpedia.org/resource/> .
+dbpedia:Bangladesh_national_football_team	owl:sameAs	ns44:Bangladeška_nogometna_reprezentacija .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Bangladesh_national_football_team	rdfs:label	"Sele\u00E7\u00E3o Bengali de Futebol"@pt ,
+		"Bangladeschische Fu\u00DFballnationalmannschaft"@de ,
+		"Bangladesh national football team" ,
+		"Selecci\u00F3n de f\u00FAtbol de Banglad\u00E9s"@es ,
+		"Nazionale di calcio del Bangladesh"@it ,
+		"\u30B5\u30C3\u30AB\u30FC\u30D0\u30F3\u30B0\u30E9\u30C7\u30B7\u30E5\u4EE3\u8868"@ja ,
+		"Bengalees voetbalelftal"@nl ,
+		"Reprezentacja Bangladeszu w pi\u0142ce no\u017Cnej"@pl ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0430\u043D\u0433\u043B\u0430\u0434\u0435\u0448 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"\u5B5F\u52A0\u62C9\u570B\u5BB6\u8DB3\u7403\u968A"@zh ,
+		"\u00C9quipe du Bangladesh de football"@fr ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0628\u0646\u063A\u0644\u0627\u062F\u064A\u0634 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Bangladesh_national_football_team	dcterms:subject	category:Bangladesh_national_football_team ,
+		category:National_sports_teams_of_Bangladesh ,
+		category:Asian_national_association_football_teams ;
+	foaf:homepage	<http://www.bffonline.com> ;
+	foaf:nick	"Bengal Tigers" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Bangladesh_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Bangladesh_national_football_team?oldid=606598371> ;
+	rdfs:comment	"A Sele\u00E7\u00E3o Bengali de Futebol ou Sele\u00E7\u00E3o de Futebol do Bangladesh (em bengali: \u09AC\u09BE\u0982\u09B2\u09BE\u09A6\u09C7\u09B6 \u099C\u09BE\u09A4\u09C0\u09AF\u09BC \u09AB\u09C1\u099F\u09AC\u09B2 \u09A6\u09B2) \u00E9 a sele\u00E7\u00E3o nacional do Bangladesh e \u00E9 controlada pela Federa\u00E7\u00E3o de Futebol do Bangladesh, pertencente \u00E0 Confedera\u00E7\u00E3o Asi\u00E1tica de Futebol. A competi\u00E7\u00E3o principal que essa sele\u00E7\u00E3o disputa s\u00E3o as Eliminat\u00F3rias para a Copa do Mundo da FIFA. A equipe foi eliminada no primeiro turno da sua \u00FAnica participa\u00E7\u00E3o na Copa da \u00C1sia em 1980, e foram campe\u00F5es da \u00C1sia do Sul, uma vez, em 2003."@pt ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0628\u0646\u063A\u0644\u0627\u062F\u064A\u0634 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 (\u0628\u0646\u063A\u0627\u0644\u064A\u0629:\u09AC\u09BE\u0982\u09B2\u09BE\u09A6\u09C7\u09B6 \u099C\u09BE\u09A4\u09C0\u09AF\u09BC \u09AB\u09C1\u099F\u09AC\u09B2 \u09A6\u09B2) \u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0644\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0628\u0646\u063A\u0644\u0627\u062F\u064A\u0634 \u0627\u0644\u0634\u0639\u0628\u064A\u0629 \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0628\u0646\u063A\u0644\u0627\u062F\u064A\u0634 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645. \u0648\u0647\u0648 \u0639\u0636\u0648 \u0641\u064A \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0622\u0633\u064A\u0648\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0648\u0644\u0645 \u064A\u062A\u0623\u0647\u0644 \u0644\u062D\u062F \u0627\u0644\u0622\u0646 \u0644\u0646\u0647\u0627\u0626\u064A\u0627\u062A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645. \u0634\u0627\u0631\u0643 \u0627\u0644\u0641\u0631\u064A\u0642 \u0645\u0631\u0629 \u0648\u0627\u062D\u062F\u0629 \u0641\u064A \u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0622\u0633\u064A\u0648\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0639\u0627\u0645 1980 \u0648\u062A\u0648\u062C \u0628\u0637\u0644\u0627 \u0645\u0631\u0629 \u0648\u0627\u062D\u062F\u0629 \u0628\u0637\u0648\u0644\u0629 \u0627\u062A\u062D\u0627\u062F \u062C\u0646\u0648\u0628 \u0622\u0633\u064A\u0627 \u0628\u0639\u062F \u0623\u0646 \u0647\u0632\u0645 \u0627\u0644\u0645\u0644\u062F\u064A\u0641 \u0641\u064A \u0627\u0644\u0646\u0647\u0627\u0626\u064A \u0645\u0646 \u062E\u0644\u0627\u0644 \u0631\u0643\u0644\u0627\u062A \u0627\u0644\u062A\u0631\u062C\u064A\u062D \u0643\u0645\u0633\u062A\u0636\u064A\u0641 \u0627\u0644\u0645\u0633\u0627\u0628\u0642\u0629 \u0641\u064A 2003."@ar ,
+		"Reprezentacja Bangladeszu w pi\u0142ce no\u017Cnej \u2013 azjatycki zesp\u00F3\u0142 narodowy graj\u0105cy pod egid\u0105 Bengalskiego Zwi\u0105zku Pi\u0142ki No\u017Cnej (Bangladesh Football Federation). Od 1974 roku nale\u017Cy do FIFA oraz AFC.Bangladesz sw\u00F3j pierwszy, inauguracyjny mecz rozegra\u0142 z reprezentacj\u0105 Malediw\u00F3w, remisuj\u0105c 2:2. W 7 lat p\u00F3\u017Aniej, reprezentacja zakwalifikowa\u0142a si\u0119 do Pucharu Azji, na kt\u00F3rych wyst\u0119powa\u0142a do tej tylko jeden raz, odpadaj\u0105c w pierwszej rundzie."@pl ,
+		"La selecci\u00F3n de f\u00FAtbol de Banglad\u00E9s (oficialmente Selecci\u00F3n de f\u00FAtbol de Bangladesh y en bengal\u00ED \u09AC\u09BE\u0982\u09B2\u09BE\u09A6\u09C7\u09B6 \u099C\u09BE\u09A4\u09C0\u09AF\u09BC \u09AB\u09C1\u099F\u09AC\u09B2 \u09A6\u09B2) es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Federaci\u00F3n de F\u00FAtbol de Banglad\u00E9s, perteneciente a la AFC."@es ,
+		"The Bangladesh national football team (Bengali: \u09AC\u09BE\u0982\u09B2\u09BE\u09A6\u09C7\u09B6 \u099C\u09BE\u09A4\u09C0\u09AF\u09BC \u09AB\u09C1\u099F\u09AC\u09B2 \u09A6\u09B2) is the national team of Bangladesh controlled by the Bangladesh Football Federation. It is a member of the Asian Football Confederation and has yet to qualify for the World Cup finals. They were dismissed in the first round of their only Asian Cup appearance to date in 1980, and have been South Asian champions once, defeating the Maldives in the final via penalties, as hosts in 2003." ,
+		"\u5B5F\u52A0\u62C9\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u5B5F\u52A0\u62C9\u570B\u5B98\u65B9\u7684\u7537\u5B50\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u5B5F\u52A0\u62C9\u8DB3\u7403\u7E3D\u6703\u8CA0\u8CAC\u7BA1\u8F44\uFF0C\u6210\u7ACB\u65BC1973\u5E74\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u4E9E\u6D32\u8DB3\u5354\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u5B5F\u52A0\u62C9\u5728\u570B\u969B\u8CFD\u4E8B\u4E26\u4E0D\u7A81\u51FA\uFF0C\u81F3\u4ECA\u5F9E\u672A\u51FA\u7DDA\u53C3\u8207\u4E16\u754C\u76C3\u8DB3\u7403\u8CFD\u6C7A\u8CFD\u9031\uFF0C\u4EA6\u53EA\u66FE\u7D93\u65BC1980\u5E74\u53C3\u52A0\u904E\u4E00\u5C46\u4E9E\u6D32\u76C3\u8DB3\u7403\u8CFD\u3002"@zh ,
+		"Het Bengalees voetbalelftal is een team van voetballers dat Bangladesh vertegenwoordigt bij internationale wedstrijden. De nationale voetbalbond werd in 1972 opgericht en sloot zich in 1974 bij de FIFA aan."@nl ,
+		"L'\u00E9quipe du Bangladesh de football (bengali : \u09AC\u09BE\u0982\u09B2\u09BE\u09A6\u09C7\u09B6 \u099C\u09BE\u09A4\u09C0\u09AF\u09BC \u09AB\u09C1\u099F\u09AC\u09B2 \u09A6\u09B2) dont les joueurs sont surnomm\u00E9s les Tigres du Bengale est une s\u00E9lection des meilleurs joueurs bangladais sous l'\u00E9gide de la F\u00E9d\u00E9ration du Bangladesh de football."@fr ,
+		"Die bangladeschische Fu\u00DFballnationalmannschaft ist die Nationalmannschaft des s\u00FCdasiatischen Staates Bangladesch.Bangladesch ist es bisher noch nicht gelungen, sich f\u00FCr eine Fu\u00DFball-Weltmeisterschaft zu qualifizieren. F\u00FCr die Fu\u00DFball-Asienmeisterschaft 1980 konnte Bangladesch sich qualifizieren, schloss die Vorrunde aber ohne Punktgewinn als Tabellenletzter ab."@de ,
+		"La nazionale di calcio del Bangladesh (\u09AC\u09BE\u0982\u09B2\u09BE\u09A6\u09C7\u09B6 \u099C\u09BE\u09A4\u09C0\u09AF\u09BC \u09AB\u09C1\u099F\u09AC\u09B2 \u09A6\u09B2) \u00E8 la rappresentativa calcistica dell'omonimo paese asiatico ed \u00E8 posta sotto l'egida della Bangladesh Football Federation.La squadra, fondata nel 1972 ed \u00E8 entrata a far parte della FIFA nel 1974, non ha mai ottenuto grandi soddisfazioni probabilmente anche per il fatto che il calcio in Bangladesh \u00E8 messo un po' in ombra dal cricket, lo sport nazionale."@it ,
+		"\u30B5\u30C3\u30AB\u30FC\u30D0\u30F3\u30B0\u30E9\u30C7\u30B7\u30E5\u4EE3\u8868\u306F\u3001\u30D0\u30F3\u30B0\u30E9\u30C7\u30B7\u30E5\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08BFF\uFF09\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002FIFA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u306B\u51FA\u5834\u3057\u305F\u3053\u3068\u304C\u306A\u3044\u304C\u30011980\u5E74\u306EAFC\u30A2\u30B8\u30A2\u30AB\u30C3\u30D7\u306B\u51FA\u5834\u3057\u305F\u3053\u3068\u304C\u3042\u308B\u3002\u5357\u30A2\u30B8\u30A2\u306E\u4E2D\u3067\u306F\u5F37\u8C6A\u306E\u90E8\u985E\u3060\u304C\u3001\u30AF\u30EA\u30B1\u30C3\u30C8\u306E\u5F71\u306B\u96A0\u308C\u3066\u3057\u307E\u3063\u3066\u3044\u308B\u3002"@ja ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0430\u043D\u0433\u043B\u0430\u0434\u0435\u0448\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0430\u043D\u0433\u043B\u0430\u0434\u0435\u0448\u0430, \u0443\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u043C\u0430\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0435\u0439 \u0411\u0430\u043D\u0433\u043B\u0430\u0434\u0435\u0448. \u042F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0447\u043B\u0435\u043D\u043E\u043C \u0410\u0437\u0438\u0430\u0442\u0441\u043A\u043E\u0439 \u043A\u043E\u043D\u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u0444\u0443\u0442\u0431\u043E\u043B\u0430. \u041E\u043D\u0430 \u043D\u0438\u043A\u043E\u0433\u0434\u0430 \u043D\u0435 \u0432\u044B\u0445\u043E\u0434\u0438\u043B\u0430 \u0432 \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043C\u0438\u0440\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u0412 1980 \u0433\u043E\u0434\u0443 \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0432\u044B\u0448\u043B\u0430 \u0432 1 \u0442\u0443\u0440 \u041A\u0443\u0431\u043A\u0430 \u0410\u0437\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u0438 \u0437\u0430\u0432\u043E\u0435\u0432\u0430\u043B\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0441\u043A\u0438\u0439 \u0442\u0438\u0442\u0443\u043B \u043D\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u042E\u0436\u043D\u043E\u0439 \u0410\u0437\u0438\u0438 \u0432 2003 \u0433\u043E\u0434\u0443. \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0431\u044B\u043B\u0430 \u0441\u043E\u0437\u0434\u0430\u043D\u0430 \u0432 1972 \u0433\u043E\u0434\u0443 (\u043F\u043E\u0441\u043B\u0435 \u043F\u043E\u043B\u0443\u0447\u0435\u043D\u0438\u044F \u043D\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043C\u043E\u0441\u0442\u0438 \u0411\u0430\u043D\u0433\u043B\u0430\u0434\u0435\u0448), \u0438 \u0432\u0441\u0442\u0443\u043F\u0438\u043B\u0430 \u0432 \u0424\u0418\u0424\u0410 \u0432 1974 \u0433\u043E\u0434\u0443."@ru ;
+	foaf:isPrimaryTopicOf	ns16:Bangladesh_national_football_team ;
+	dbpprop:club	dbpedia:Hellerup_IK ,
+		<http://dbpedia.org/resource/Mohammedan_Sporting_Club_(Dhaka)> ,
+		<http://dbpedia.org/resource/Abahani_Limited_(Dhaka)> ,
+		dbpedia:Sheikh_Russel_KC ,
+		dbpedia:Team_BJMC ,
+		dbpedia:Sheikh_Jamal_Dhanmondi_Club ;
+	dbpprop:captain	dbpedia:Mamunul_Islam .
+@prefix ns49:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Bangladesh_national_football_team	dbpprop:hasPhotoCollection	ns49:Bangladesh_national_football_team ;
+	dbpprop:name	"Raihan Hasan" ,
+		"Toklis Ahmed" ,
+		"Nasir Uddin Chowdhury" ,
+		dbpedia:Mohamed_Zahid_Hossain ,
+		dbpedia:Atiqur_Rahman_Meshu ,
+		"Omar Faruque Babu" ,
+		"Mobarak Hossain Bhuyan" ,
+		<http://dbpedia.org/resource/Captain_(association_football)> ,
+		"Mohammed Waly Faisal" ,
+		"Mamun Khan" ,
+		"Mazharul Haq Himel" ,
+		"Yeasin Khan" ,
+		"Shahidul Alam Sohel" ,
+		dbpedia:Jamal_Bhuyan ,
+		"Wahed Ahmed" ,
+		dbpedia:Mithun_Chowdhury_Mithun ,
+		dbpedia:Mamunul_Islam ,
+		"Sohel Rana" ,
+		dbpedia:Jahid_Hasan_Ameli ,
+		"Ashraf  Mohamed Linkon" ,
+		dbpedia:Shakhawat_Hossain_Rony ,
+		dbpedia:Mohammed_Ariful_Islam ,
+		dbpedia:Biplob_Bhattacharjee ;
+	dbpedia-owl:abstract	"Reprezentacja Bangladeszu w pi\u0142ce no\u017Cnej \u2013 azjatycki zesp\u00F3\u0142 narodowy graj\u0105cy pod egid\u0105 Bengalskiego Zwi\u0105zku Pi\u0142ki No\u017Cnej (Bangladesh Football Federation). Od 1974 roku nale\u017Cy do FIFA oraz AFC.Bangladesz sw\u00F3j pierwszy, inauguracyjny mecz rozegra\u0142 z reprezentacj\u0105 Malediw\u00F3w, remisuj\u0105c 2:2. W 7 lat p\u00F3\u017Aniej, reprezentacja zakwalifikowa\u0142a si\u0119 do Pucharu Azji, na kt\u00F3rych wyst\u0119powa\u0142a do tej tylko jeden raz, odpadaj\u0105c w pierwszej rundzie. Zesp\u00F3\u0142 nigdy w swojej historii nie awansowa\u0142 do fina\u0142\u00F3w mistrzostw \u015Bwiata."@pl ,
+		"\u30B5\u30C3\u30AB\u30FC\u30D0\u30F3\u30B0\u30E9\u30C7\u30B7\u30E5\u4EE3\u8868\u306F\u3001\u30D0\u30F3\u30B0\u30E9\u30C7\u30B7\u30E5\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08BFF\uFF09\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002FIFA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u306B\u51FA\u5834\u3057\u305F\u3053\u3068\u304C\u306A\u3044\u304C\u30011980\u5E74\u306EAFC\u30A2\u30B8\u30A2\u30AB\u30C3\u30D7\u306B\u51FA\u5834\u3057\u305F\u3053\u3068\u304C\u3042\u308B\u3002\u5357\u30A2\u30B8\u30A2\u306E\u4E2D\u3067\u306F\u5F37\u8C6A\u306E\u90E8\u985E\u3060\u304C\u3001\u30AF\u30EA\u30B1\u30C3\u30C8\u306E\u5F71\u306B\u96A0\u308C\u3066\u3057\u307E\u3063\u3066\u3044\u308B\u3002"@ja ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0628\u0646\u063A\u0644\u0627\u062F\u064A\u0634 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 (\u0628\u0646\u063A\u0627\u0644\u064A\u0629:\u09AC\u09BE\u0982\u09B2\u09BE\u09A6\u09C7\u09B6 \u099C\u09BE\u09A4\u09C0\u09AF\u09BC \u09AB\u09C1\u099F\u09AC\u09B2 \u09A6\u09B2) \u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0644\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0628\u0646\u063A\u0644\u0627\u062F\u064A\u0634 \u0627\u0644\u0634\u0639\u0628\u064A\u0629 \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0628\u0646\u063A\u0644\u0627\u062F\u064A\u0634 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645. \u0648\u0647\u0648 \u0639\u0636\u0648 \u0641\u064A \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0622\u0633\u064A\u0648\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0648\u0644\u0645 \u064A\u062A\u0623\u0647\u0644 \u0644\u062D\u062F \u0627\u0644\u0622\u0646 \u0644\u0646\u0647\u0627\u0626\u064A\u0627\u062A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645. \u0634\u0627\u0631\u0643 \u0627\u0644\u0641\u0631\u064A\u0642 \u0645\u0631\u0629 \u0648\u0627\u062D\u062F\u0629 \u0641\u064A \u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0622\u0633\u064A\u0648\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0639\u0627\u0645 1980 \u0648\u062A\u0648\u062C \u0628\u0637\u0644\u0627 \u0645\u0631\u0629 \u0648\u0627\u062D\u062F\u0629 \u0628\u0637\u0648\u0644\u0629 \u0627\u062A\u062D\u0627\u062F \u062C\u0646\u0648\u0628 \u0622\u0633\u064A\u0627 \u0628\u0639\u062F \u0623\u0646 \u0647\u0632\u0645 \u0627\u0644\u0645\u0644\u062F\u064A\u0641 \u0641\u064A \u0627\u0644\u0646\u0647\u0627\u0626\u064A \u0645\u0646 \u062E\u0644\u0627\u0644 \u0631\u0643\u0644\u0627\u062A \u0627\u0644\u062A\u0631\u062C\u064A\u062D \u0643\u0645\u0633\u062A\u0636\u064A\u0641 \u0627\u0644\u0645\u0633\u0627\u0628\u0642\u0629 \u0641\u064A 2003. \u0643\u0645\u0627 \u0647\u0648 \u0627\u0644\u062D\u0627\u0644 \u0641\u064A \u0623\u0645\u0627\u0643\u0646 \u0623\u062E\u0631\u0649 \u0641\u064A \u0634\u0628\u0647 \u0627\u0644\u0642\u0627\u0631\u0629\u060C \u0644\u0639\u0628 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0639\u0644\u0649 \u0645\u0633\u062A\u0648\u0649 \u0639\u0627\u0644 \u0641\u064A \u0628\u0646\u063A\u0644\u0627\u062F\u064A\u0634 \u0641\u064A \u0645\u0643\u0627\u0646 \u0645\u0627 \u0641\u064A \u0638\u0644 \u0627\u062E\u062A\u0628\u0627\u0631 \u0627\u0644\u0628\u0644\u0627\u062F \u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0643\u0631\u064A\u0643\u064A\u062A."@ar ,
+		"La nazionale di calcio del Bangladesh (\u09AC\u09BE\u0982\u09B2\u09BE\u09A6\u09C7\u09B6 \u099C\u09BE\u09A4\u09C0\u09AF\u09BC \u09AB\u09C1\u099F\u09AC\u09B2 \u09A6\u09B2) \u00E8 la rappresentativa calcistica dell'omonimo paese asiatico ed \u00E8 posta sotto l'egida della Bangladesh Football Federation.La squadra, fondata nel 1972 ed \u00E8 entrata a far parte della FIFA nel 1974, non ha mai ottenuto grandi soddisfazioni probabilmente anche per il fatto che il calcio in Bangladesh \u00E8 messo un po' in ombra dal cricket, lo sport nazionale. Ciononostante ultimamente la squadra sta ottenendo sempre pi\u00F9 sostenitori nel suo paese soprattutto grazie alla recente vittoria della South Asian Football Federation Cup nel 2003."@it ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0430\u043D\u0433\u043B\u0430\u0434\u0435\u0448\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0430\u043D\u0433\u043B\u0430\u0434\u0435\u0448\u0430, \u0443\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u043C\u0430\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0435\u0439 \u0411\u0430\u043D\u0433\u043B\u0430\u0434\u0435\u0448. \u042F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0447\u043B\u0435\u043D\u043E\u043C \u0410\u0437\u0438\u0430\u0442\u0441\u043A\u043E\u0439 \u043A\u043E\u043D\u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u0444\u0443\u0442\u0431\u043E\u043B\u0430. \u041E\u043D\u0430 \u043D\u0438\u043A\u043E\u0433\u0434\u0430 \u043D\u0435 \u0432\u044B\u0445\u043E\u0434\u0438\u043B\u0430 \u0432 \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043C\u0438\u0440\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u0412 1980 \u0433\u043E\u0434\u0443 \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0432\u044B\u0448\u043B\u0430 \u0432 1 \u0442\u0443\u0440 \u041A\u0443\u0431\u043A\u0430 \u0410\u0437\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u0438 \u0437\u0430\u0432\u043E\u0435\u0432\u0430\u043B\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0441\u043A\u0438\u0439 \u0442\u0438\u0442\u0443\u043B \u043D\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u042E\u0436\u043D\u043E\u0439 \u0410\u0437\u0438\u0438 \u0432 2003 \u0433\u043E\u0434\u0443. \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0431\u044B\u043B\u0430 \u0441\u043E\u0437\u0434\u0430\u043D\u0430 \u0432 1972 \u0433\u043E\u0434\u0443 (\u043F\u043E\u0441\u043B\u0435 \u043F\u043E\u043B\u0443\u0447\u0435\u043D\u0438\u044F \u043D\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043C\u043E\u0441\u0442\u0438 \u0411\u0430\u043D\u0433\u043B\u0430\u0434\u0435\u0448), \u0438 \u0432\u0441\u0442\u0443\u043F\u0438\u043B\u0430 \u0432 \u0424\u0418\u0424\u0410 \u0432 1974 \u0433\u043E\u0434\u0443."@ru ,
+		"The Bangladesh national football team (Bengali: \u09AC\u09BE\u0982\u09B2\u09BE\u09A6\u09C7\u09B6 \u099C\u09BE\u09A4\u09C0\u09AF\u09BC \u09AB\u09C1\u099F\u09AC\u09B2 \u09A6\u09B2) is the national team of Bangladesh controlled by the Bangladesh Football Federation. It is a member of the Asian Football Confederation and has yet to qualify for the World Cup finals. They were dismissed in the first round of their only Asian Cup appearance to date in 1980, and have been South Asian champions once, defeating the Maldives in the final via penalties, as hosts in 2003. As is the case elsewhere on the subcontinent, top-level football in Bangladesh is played somewhere in the shadow of the country's national cricket team." ,
+		"L'\u00E9quipe du Bangladesh de football (bengali : \u09AC\u09BE\u0982\u09B2\u09BE\u09A6\u09C7\u09B6 \u099C\u09BE\u09A4\u09C0\u09AF\u09BC \u09AB\u09C1\u099F\u09AC\u09B2 \u09A6\u09B2) dont les joueurs sont surnomm\u00E9s les Tigres du Bengale est une s\u00E9lection des meilleurs joueurs bangladais sous l'\u00E9gide de la F\u00E9d\u00E9ration du Bangladesh de football."@fr ,
+		"A Sele\u00E7\u00E3o Bengali de Futebol ou Sele\u00E7\u00E3o de Futebol do Bangladesh (em bengali: \u09AC\u09BE\u0982\u09B2\u09BE\u09A6\u09C7\u09B6 \u099C\u09BE\u09A4\u09C0\u09AF\u09BC \u09AB\u09C1\u099F\u09AC\u09B2 \u09A6\u09B2) \u00E9 a sele\u00E7\u00E3o nacional do Bangladesh e \u00E9 controlada pela Federa\u00E7\u00E3o de Futebol do Bangladesh, pertencente \u00E0 Confedera\u00E7\u00E3o Asi\u00E1tica de Futebol. A competi\u00E7\u00E3o principal que essa sele\u00E7\u00E3o disputa s\u00E3o as Eliminat\u00F3rias para a Copa do Mundo da FIFA. A equipe foi eliminada no primeiro turno da sua \u00FAnica participa\u00E7\u00E3o na Copa da \u00C1sia em 1980, e foram campe\u00F5es da \u00C1sia do Sul, uma vez, em 2003. \u00C0 semelhan\u00E7a do que acontece noutras partes do subcontinente, o n\u00EDvel de futebol em Bangladesh n\u00E3o \u00E9 dos melhores. A equipe foi fundada em 1972, tendo se juntado a FIFA em 1974.Para al\u00E9m das vit\u00F3rias contra a Indon\u00E9sia e a Tail\u00E2ndia, em seu primeiro ano disputando a qualifica\u00E7\u00E3o para a Copa do Mundo em 1986, o Bangladesh tem lutado para impor-se. A n\u00EDvel regional, que tamb\u00E9m se manteve na \"segunda gera\u00E7\u00E3o\", enquanto na \u00C1sia, a equipe est\u00E1 constantemente a tentar melhoras de qualidade em seu grupo. Durante a Millennium Super Cup de 2001, o Bangladesh passou pela fase inicial e chegou ao grupo de finalistas. No entanto, a associa\u00E7\u00E3o est\u00E1 atualmente a trabalhar lado a lado com o programa Asia Vision, que ir\u00E1 tentar a sua reestrutura\u00E7\u00E3o interna da Liga, bem como iniciar trabalhos com jovens para o esporte. Estas iniciativas est\u00E3o a chegar no momento certo para o futebol em Bangladesh.O futebol tem uma enorme continuidade no Bangladesh na qual foi exemplificado quando a equipe nacional fez hist\u00F3ria em sua vit\u00F3ria na Copa da Federa\u00E7\u00E3o de Futebol da \u00C1sia do Sul em 2003. Al\u00E9m disso, venceu a final com mais de 50000 espectadores de Maldivas apoiando a Sele\u00E7\u00E3o Local.Kazi Salahuddin \u00E9 o mais famoso jogador de futebol bengali, tendo jogado futebol profissional, em Hong Kong, o primeiro jogador de Bangladesh a conseguir fama fora do pa\u00EDs.Outro jogador famoso \u00E9 Chingla Mong Chowdhury Murruy. Ele \u00E9 uma personalidade famosa do futebol em Bangladesh. Murruy jogou antes da guerra de independ\u00EAncia de Bangladesh, realizada entre 1952-1969, onde ele era o capit\u00E3o do time do Paquist\u00E3o no campeonato. Ele treinou, foi conselheiro, e tamb\u00E9m recebeu o pr\u00EAmio nacional do futebol. Ele tamb\u00E9m lutou por seu pa\u00EDs, na guerra da liberta\u00E7\u00E3o, em 1971. O atual treinador da Sele\u00E7\u00E3o \u00E9 o neerland\u00EAs Lodewijk de Kruif."@pt ,
+		"La selecci\u00F3n de f\u00FAtbol de Banglad\u00E9s (oficialmente Selecci\u00F3n de f\u00FAtbol de Bangladesh y en bengal\u00ED \u09AC\u09BE\u0982\u09B2\u09BE\u09A6\u09C7\u09B6 \u099C\u09BE\u09A4\u09C0\u09AF\u09BC \u09AB\u09C1\u099F\u09AC\u09B2 \u09A6\u09B2) es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Federaci\u00F3n de F\u00FAtbol de Banglad\u00E9s, perteneciente a la AFC."@es ,
+		"\u5B5F\u52A0\u62C9\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u5B5F\u52A0\u62C9\u570B\u5B98\u65B9\u7684\u7537\u5B50\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u5B5F\u52A0\u62C9\u8DB3\u7403\u7E3D\u6703\u8CA0\u8CAC\u7BA1\u8F44\uFF0C\u6210\u7ACB\u65BC1973\u5E74\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u4E9E\u6D32\u8DB3\u5354\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u5B5F\u52A0\u62C9\u5728\u570B\u969B\u8CFD\u4E8B\u4E26\u4E0D\u7A81\u51FA\uFF0C\u81F3\u4ECA\u5F9E\u672A\u51FA\u7DDA\u53C3\u8207\u4E16\u754C\u76C3\u8DB3\u7403\u8CFD\u6C7A\u8CFD\u9031\uFF0C\u4EA6\u53EA\u66FE\u7D93\u65BC1980\u5E74\u53C3\u52A0\u904E\u4E00\u5C46\u4E9E\u6D32\u76C3\u8DB3\u7403\u8CFD\u3002"@zh ,
+		"Die bangladeschische Fu\u00DFballnationalmannschaft ist die Nationalmannschaft des s\u00FCdasiatischen Staates Bangladesch.Bangladesch ist es bisher noch nicht gelungen, sich f\u00FCr eine Fu\u00DFball-Weltmeisterschaft zu qualifizieren. F\u00FCr die Fu\u00DFball-Asienmeisterschaft 1980 konnte Bangladesch sich qualifizieren, schloss die Vorrunde aber ohne Punktgewinn als Tabellenletzter ab."@de ,
+		"Het Bengalees voetbalelftal is een team van voetballers dat Bangladesh vertegenwoordigt bij internationale wedstrijden. De nationale voetbalbond werd in 1972 opgericht en sloot zich in 1974 bij de FIFA aan."@nl ;
+	dbpedia-owl:wikiPageID	1268362 ;
+	dbpedia-owl:wikiPageRevisionID	606598371 ;
+	dbpprop:after	2005 ;
+	dbpprop:before	1999 ;
+	dbpprop:clubnat	"Denmark" ,
+		"Bangladesh" ;
+	dbpprop:goals	5 ,
+		2 ,
+		0 ,
+		1 ,
+		11 ;
+	dbpprop:caps	53 ,
+		33 ,
+		22 ,
+		16 ,
+		28 ,
+		29 ,
+		31 ,
+		24 ,
+		4 ,
+		5 ,
+		6 ,
+		1 ,
+		2 ,
+		3 ,
+		9 ,
+		10 ,
+		11 ;
+	dbpprop:years	2003 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Bangladesh_national_football_team	dbpprop:age	"1989-12-03+02:00"^^xsd:date ,
+		"1988-06-15+02:00"^^xsd:date ,
+		"1987-12-20+02:00"^^xsd:date ,
+		"1988-12-12+02:00"^^xsd:date ,
+		"1990-06-06+02:00"^^xsd:date ,
+		"1989-09-24+02:00"^^xsd:date ,
+		"1985-12-20+02:00"^^xsd:date ,
+		"1990-12-12+02:00"^^xsd:date ,
+		"1988-09-16+02:00"^^xsd:date ,
+		"1985-03-01+02:00"^^xsd:date ,
+		"1987-12-25+02:00"^^xsd:date ,
+		"1989-02-10+02:00"^^xsd:date ,
+		"1988-08-26+02:00"^^xsd:date ,
+		"1990-04-10+02:00"^^xsd:date ;
+	dbpprop:coach	"Lodewijk de Kruif" ;
+	dbpedia-owl:coach	dbpedia:Lodewijk_de_Kruif ;
+	dbpprop:patternSo	"_greentop" ,
+		"_redtop" ;
+	dbpprop:association	dbpedia:Bangladesh_Football_Federation ;
+	dbpprop:badgeSize	100 ;
+	dbpprop:body	"FF0000" ,
+		138808 ,
+		"White" ;
+	dbpprop:confederation	dbpedia:Asian_Football_Confederation ;
+	dbpprop:fifaRank	163 ;
+	dbpprop:fifaTrigramme	"BAN" ;
+	dbpprop:leftarm	138808 ,
+		"FF0000" ,
+		"White" ;
+	dbpprop:patternB	"_BAN13a" .
+@prefix ns51:	<http://dbpedia.org/datatype/> .
+dbpedia:Bangladesh_national_football_team	dbpprop:patternB	"46800.0"^^ns51:second ;
+	dbpprop:patternLa	"43200.0"^^ns51:second ,
+		"46800.0"^^ns51:second ;
+	dbpprop:patternRa	"43200.0"^^ns51:second ,
+		"46800.0"^^ns51:second ;
+	dbpprop:rightarm	138808 ,
+		"FF0000" ,
+		"White" ;
+	dbpprop:shorts	138808 ,
+		"FF0000" ,
+		"White" ;
+	dbpprop:socks	138808 ,
+		"FF0000" ,
+		"White" ;
+	dbpprop:no	1 ,
+		2 ,
+		3 ,
+		4 ,
+		5 ,
+		6 ,
+		7 ,
+		9 ,
+		10 ,
+		11 ,
+		12 ,
+		14 ,
+		15 ,
+		16 ,
+		17 ,
+		20 ,
+		21 ,
+		22 ,
+		25 ,
+		"-" ;
+	dbpprop:title	dbpedia:SAFF_Championship ,
+		1971 ;
+	dbpprop:pos	"DF" ,
+		"GK" ,
+		"MF" ,
+		"FW" ;
+	dbpprop:badge	"Bangladesh-football-federation-logo.PNG" ;
+	dbpprop:firstGame	"Bangladesh 2\u20132" ;
+	dbpprop:largestLoss	9 ;
+	dbpprop:largestWin	"Bangladesh 8\u20130" ;
+	dbpprop:regionalCupApps	1 ;
+	dbpprop:regionalCupBest	"Round 1; 1980" ;
+	dbpprop:regionalCupFirst	1980 ;
+	dbpprop:regionalName	dbpedia:AFC_Asian_Cup ;
+	dbpprop:eloMax	146 ;
+	dbpprop:eloMaxDate	1986 ;
+	dbpprop:eloMin	190 ;
+	dbpprop:eloMinDate	"--06-08+02:00"^^xsd:gMonthDay ;
+	dbpprop:eloRank	186 ;
+	dbpprop:fifaMax	110 ;
+	dbpprop:fifaMaxDate	"April 1996" ;
+	dbpprop:fifaMin	183 ;
+	dbpprop:fifaMinDate	"June 2008" ;
+	dbpprop:subConfederation	dbpedia:South_Asian_Football_Federation ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.fifa.com/associations/association=ban/index.html> ,
+		<http://www.bffonline.com> ;
+	dbpprop:homeStadium	dbpedia:Bangabandhu_National_Stadium ;
+	dbpedia-owl:stadium	dbpedia:Bangabandhu_National_Stadium ;
+	dbpprop:nickname	"Bengal Tigers" .
+<http://dbpedia.org/resource/Mark_Harrison_(footballer)>	dbpedia-owl:managerClub	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Bangladesh_national_football_team .
+dbpedia:Mohammed_Monwar_Hossain	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bangladesh_national_football_team .
+<http://dbpedia.org/resource/1990_in_Japanese_football>	dbpprop:team	dbpedia:Bangladesh_national_football_team .
+dbpedia:Nasirul_Islam_Nasir	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bangladesh_national_football_team .
+dbpedia:Mamun_Khan	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bangladesh_national_football_team .
+ns34:Seleção_Bangladexiana_de_Futebol	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns41:منتخب_بنغلاديش_لكرة_القدم	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns21:বাংলাদেশ_জাতীয়_ফুটবল_দল	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns23:Bangladeshi_jalgpallikoondis	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns33:تیم_ملی_فوتبال_بنگلادش	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns24:Bangladeshin_jalkapallomaajoukkue	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns28:נבחרת_בנגלדש_בכדורגל	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns26:Bangladesh_national_football_team	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns44:Bangladeška_nogometna_reprezentacija	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns36:Bangladesi_labdarúgó-válogatott	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns31:Bangladešo_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns27:Bangladešas_futbola_izlase	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns37:बांगलादेश_फुटबॉल_संघ	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns32:Pasukan_bola_sepak_kebangsaan_Bangladesh	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns25:Echipa_națională_de_fotbal_a_Bangladeshului	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns40:Сборная_Бангладеш_по_футболу	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns35:Bangladesh_national_football_team	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns30:Bangladeshs_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns22:Bangladeş_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns43:Збірна_Бангладеш_з_футболу	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns29:Đội_tuyển_bóng_đá_quốc_gia_Bangladesh	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+ns38:孟加拉國家足球隊	owl:sameAs	dbpedia:Bangladesh_national_football_team .
+dbpedia:Negeri_Sembilan_FA_season_2012	dbpprop:team	dbpedia:Bangladesh_national_football_team .
+dbpedia:Mamunul_Islam	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bangladesh_national_football_team .
+<http://dbpedia.org/resource/Aurel_%C8%9Aicleanu>	dbpprop:managerclubs	dbpedia:Bangladesh_national_football_team .
+dbpedia:Otto_Pfister	dbpprop:managerclubs	dbpedia:Bangladesh_national_football_team .
+dbpedia:Mohd_Mamun_Miah	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bangladesh_national_football_team .
+<http://dbpedia.org/resource/Zoran_%C4%90or%C4%91evi%C4%87>	dbpprop:managerclubs	dbpedia:Bangladesh_national_football_team .
+dbpedia:Nikola_Ilievski	dbpprop:managerclubs	dbpedia:Bangladesh_national_football_team .
+<http://dbpedia.org/resource/Andr%C3%A9s_Cruciani>	dbpprop:managerclubs	dbpedia:Bangladesh_national_football_team .
+dbpedia:Aminul_Hoque	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bangladesh_national_football_team .
+dbpedia:Lodewijk_de_Kruif	dbpedia-owl:managerClub	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Bangladesh_national_football_team ;
+	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+dbpedia:Mithun_Chowdhury_Mithun	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bangladesh_national_football_team .
+<http://dbpedia.org/resource/Gy%C3%B6rgy_Kott%C3%A1n>	dbpedia-owl:managerClub	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Bangladesh_national_football_team .
+<http://dbpedia.org/resource/Rezaul_Karim_(footballer)>	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bangladesh_national_football_team .
+dbpedia:Atiqur_Rahman_Meshu	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bangladesh_national_football_team .
+dbpedia:Jamal_Bhuyan	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bangladesh_national_football_team .
+dbpedia:Jahid_Hasan_Ameli	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bangladesh_national_football_team .
+dbpedia:Shakhawat_Hossain_Rony	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bangladesh_national_football_team .
+dbpedia:Mohammed_Ariful_Islam	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bangladesh_national_football_team .
+dbpedia:Biplob_Bhattacharjee	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bangladesh_national_football_team .
+dbpedia:Abdul_Baten_Mojumdar_Komol	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bangladesh_national_football_team .
+<http://dbpedia.org/resource/1975_in_Japanese_football>	dbpprop:team	dbpedia:Bangladesh_national_football_team .
+<http://dbpedia.org/resource/1986_in_Japanese_football>	dbpprop:team	dbpedia:Bangladesh_national_football_team .
+dbpedia:Mohamed_Zahid_Hossain	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bangladesh_national_football_team .
+dbpedia:Sheikh_Fazlul_Haque_Mani_Stadium	dbpedia-owl:tenant	dbpedia:Bangladesh_national_football_team .
+dbpedia:Bir_Sherestha_Shaheed_Shipahi_Mostafa_Kamal_Stadium	dbpedia-owl:tenant	dbpedia:Bangladesh_national_football_team .
+<http://dbpedia.org/resource/Cox%E2%80%99s_Bazar_Stadium>	dbpedia-owl:tenant	dbpedia:Bangladesh_national_football_team .
+<http://dbpedia.org/resource/1993_in_Japanese_football>	dbpprop:team	dbpedia:Bangladesh_national_football_team .
+dbpedia:Biplob_Bhattacharjee__1	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+dbpedia:Rajani_Kanta_Barman__1	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+dbpedia:Mithun_Chowdhury_Mithun__5	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+dbpedia:Mohammed_Ariful_Islam__1	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+dbpedia:Mamun_Khan__1	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+dbpedia:Mohd_Mamun_Miah__1	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+dbpedia:Nasirul_Islam_Nasir__2	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+<http://dbpedia.org/resource/Gy%C3%B6rgy_Kott%C3%A1n__3>	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+dbpedia:Abdul_Baten_Mojumdar_Komol__1	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+<http://dbpedia.org/resource/Mark_Harrison_(footballer)__5>	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+dbpedia:Aminul_Hoque__1	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+dbpedia:Atiqur_Rahman_Meshu__1	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+dbpedia:Mohammed_Monwar_Hossain__5	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+<http://dbpedia.org/resource/Robert_Rub%C4%8Di%C4%87__9>	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+dbpedia:Jamal_Bhuyan__1	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+dbpedia:Lodewijk_de_Kruif__3	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+dbpedia:Mohamed_Zahid_Hossain__3	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+<http://dbpedia.org/resource/Rezaul_Karim_(footballer)__1>	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+dbpedia:Mamunul_Islam__1	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+<http://dbpedia.org/resource/Dido_(footballer)__6>	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+<http://dbpedia.org/resource/M._A._Aziz_Stadium>	dbpprop:operator	dbpedia:Bangladesh_national_football_team .
+dbpedia:Rajani_Kanta_Barman	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bangladesh_national_football_team .
+<http://dbpedia.org/resource/Dido_(footballer)>	dbpedia-owl:managerClub	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Bangladesh_national_football_team .
+dbpedia:Jahid_Hasan_Ameli__7	dbpedia-owl:team	dbpedia:Bangladesh_national_football_team .
+dbpedia:Bangabandhu_National_Stadium	dbpprop:tenants	dbpedia:Bangladesh_national_football_team ;
+	dbpprop:operator	dbpedia:Bangladesh_national_football_team .

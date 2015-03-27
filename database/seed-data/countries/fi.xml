@@ -1,0 +1,829 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xml:base="http://www.daml.org/2001/12/factbook/fi">
+  <rdf:Description rdf:about='#A34759'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>914</NS0:minRunway>
+    <NS0:maxRunway>1523</NS0:maxRunway>
+    <NS0:count>6</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34595'>
+    <NS0:note>f.o.b., 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34373'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#small_Lapp-_and_Russian-speaking_minorities'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34753'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:maxRunway>913</NS0:maxRunway>
+    <NS0:count>10 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34584'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34367'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Swedish'/>
+    <NS0:percent>5.9</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34557'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#construction'/>
+    <NS0:percent>6</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34511'>
+    <NS0:year>1991</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34746'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>914</NS0:minRunway>
+    <NS0:maxRunway>1523</NS0:maxRunway>
+    <NS0:count>20</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34516'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34361'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Finnish'/>
+    <NS0:percent>93.4</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34552'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#transport_and_communications'/>
+    <NS0:percent>8</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34508'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#Province'>
+    <rdf:type rdf:resource='http://www.w3.org/2000/01/rdf-schema#Class'/>
+    <rdfs:subClassOf rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AdministrativeDivision'/>
+    <rdfs:label>Province</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34739'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>1524</NS0:minRunway>
+    <NS0:maxRunway>2437</NS0:maxRunway>
+    <NS0:count>10</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34356'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#other'/>
+    <NS0:percent>1</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34547'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#agriculture_and_forestry'/>
+    <NS0:percent>8</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34676'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34351'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#none'/>
+    <NS0:percent>9</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34542'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#business_services'/>
+    <NS0:percent>10</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123165'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#JA'/>
+    <NS0:percent>6</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34732'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>2438</NS0:minRunway>
+    <NS0:maxRunway>3047</NS0:maxRunway>
+    <NS0:count>26</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34562'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34538'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#insurance'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34346'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Greek_Orthodox'/>
+    <NS0:percent>1</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123160'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#RS'/>
+    <NS0:percent>7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34726'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>3048</NS0:minRunway>
+    <NS0:count>3</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34534'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#finance'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34500'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34497'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34341'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Evangelical_Lutheran'/>
+    <NS0:percent>89</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123155'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#US'/>
+    <NS0:percent>8</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34529'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#commerce'/>
+    <NS0:percent>14</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34719'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Varkaus</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34336'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Tatar'/>
+    <NS0:percent>0.02</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123150'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#JA'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123153'>
+    <NS0:note>1999</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34723'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34524'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#industry'/>
+    <NS0:percent>22</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34715'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Uusikaupunki</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34658'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34308'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123146'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#RS'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34331'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Roma'/>
+    <NS0:percent>0.12</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34711'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Turku</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34519'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#public_services'/>
+    <NS0:percent>32</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123141'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#US'/>
+    <NS0:percent>8</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34326'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Sami'/>
+    <NS0:percent>0.11</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34707'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Rauma</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123136'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#RS'/>
+    <NS0:distance>1313</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34321'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Swede'/>
+    <NS0:percent>6</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34703'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Pori</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34267'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34503'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34699'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Oulu</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34575'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34316'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Finn'/>
+    <NS0:percent>93</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123131'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#SW'/>
+    <NS0:distance>586</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34264'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>July 2001</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34695'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Loviisa</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34202'>
+    <NS0:note>excludes islands and coastal indentations</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123126'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#NO'/>
+    <NS0:distance>729</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34691'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Kotka</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34617'>
+    <NS0:note>f.o.b., 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34231'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34674'>
+    <NS0:note>including 444 km of expressways</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34687'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Kokkola</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34305'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34582'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34302'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:ratio>0.95</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34683'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Helsinki</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34679'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Hamina</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34297'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>65</NS0:minAge>
+    <NS0:ratio>0.63</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34291'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>15</NS0:minAge>
+    <NS0:maxAge>64</NS0:maxAge>
+    <NS0:ratio>1.02</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34285'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>14</NS0:maxAge>
+    <NS0:ratio>1.04</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34656'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34279'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>0</NS0:maxAge>
+    <NS0:ratio>1.03</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34776'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34665'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34513'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34779'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34378'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1980</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34647'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#grains'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34643'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#textile_yarn_and_fabrics'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34639'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#machinery'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34635'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#iron_and_steel'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34631'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#transport_equipment'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123169'>
+    <NS0:note>1999</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34627'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#chemicals'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34577'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34773'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34668'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34623'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#petroleum_and_petroleum_products'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34365'>
+    <NS0:note>official</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34619'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#foodstuffs'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34371'>
+    <NS0:note>official</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34228'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34613'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#pulp'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34609'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#paper'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34651'>
+    <NS0:note>December 1993</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#FI'>
+    <NS0:background>Ruled by Sweden from the 12th to the 19th centuries and by Russia from 1809, Finland finally won its independence in 1917. During World War II, it was able to successfully defend its freedom and fend off invasions by the Soviet Union and Germany. In the subsequent half century, the Finns have made a remarkable transformation from a farm/forest economy to a diversified modern industrial economy; per capita income is now on par with Western Europe. As a member of the European Union, Finland was the only Nordic state to join the euro system at its initiation in January 1999.</NS0:background>
+    <NS0:location>Northern Europe, bordering the Baltic Sea, Gulf of Bothnia, and Gulf of Finland, between Sweden and Russia</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A34191'/>
+    <NS0:mapReferences>Europe</NS0:mapReferences>
+    <NS0:totalArea>337030</NS0:totalArea>
+    <NS0:landArea>305470</NS0:landArea>
+    <NS0:waterArea>31560</NS0:waterArea>
+    <NS0:comparativeArea>slightly smaller than Montana</NS0:comparativeArea>
+    <NS0:landBoundaries>2628</NS0:landBoundaries>
+    <NS0:coastline rdf:ID='A34202'>1126</NS0:coastline>
+    <NS0:exclusiveFishingZone>12</NS0:exclusiveFishingZone>
+    <NS0:territorialSea rdf:ID='A34205'>12</NS0:territorialSea>
+    <NS0:climate>cold temperate; potentially subarctic, but comparatively mild because of moderating influence of the North Atlantic Current, Baltic Sea, and more than 60,000 lakes</NS0:climate>
+    <NS0:terrain>mostly low, flat to rolling plains interspersed with lakes and low hills</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A34209'/>
+    <NS0:highestPoint rdf:resource='#A34214'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#timber'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#copper'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#zinc'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#iron_ore'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#silver'/>
+    <NS0:arableLand>8</NS0:arableLand>
+    <NS0:permanentCrops>0</NS0:permanentCrops>
+    <NS0:permanentPastures>0</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>76</NS0:forestsAndWoodland>
+    <NS0:otherLandUse rdf:ID='A34228'>16</NS0:otherLandUse>
+    <NS0:irrigatedLand rdf:ID='A34231'>640</NS0:irrigatedLand>
+    <NS0:naturalHazard>NA</NS0:naturalHazard>
+    <NS0:environmentalIssue>air pollution from manufacturing and power plants contributing to acid rain</NS0:environmentalIssue>
+    <NS0:environmentalIssue>water pollution from industrial wastes, agricultural chemicals</NS0:environmentalIssue>
+    <NS0:environmentalIssue>habitat loss threatens wildlife populations</NS0:environmentalIssue>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution-Nitrogen_Oxides'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution-Sulphur_85'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution-Sulphur_94'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution-Volatile_Organic_Compounds'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Antarctic-Environmental_Protocol'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Antarctic-Marine_Living_Resources'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Antarctic_Treaty'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Biodiversity'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Climate_Change'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Desertification'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Endangered_Species'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Environmental_Modification'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Hazardous_Wastes'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Law_of_the_Sea'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Marine_Dumping'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Marine_Life_Conservation'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Nuclear_Test_Ban'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Ozone_Layer_Protection'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Ship_Pollution'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Tropical_Timber_83'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Tropical_Timber_94'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Wetlands'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Whaling'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution-Persistent_Organic_Pollutants'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Climate_Change-Kyoto_Protocol'/>
+    <NS0:population rdf:ID='A34264'>5175783</NS0:population>
+    <NS0:populationGrowthRate rdf:ID='A34267'>0.16</NS0:populationGrowthRate>
+    <NS0:birthRate rdf:ID='A34270'>10.69</NS0:birthRate>
+    <NS0:deathRate rdf:ID='A34273'>9.75</NS0:deathRate>
+    <NS0:netMigrationRate rdf:ID='A34276'>0.61</NS0:netMigrationRate>
+    <NS0:sexRatio rdf:resource='#A34279'/>
+    <NS0:sexRatio rdf:resource='#A34285'/>
+    <NS0:sexRatio rdf:resource='#A34291'/>
+    <NS0:sexRatio rdf:resource='#A34297'/>
+    <NS0:sexRatio rdf:ID='A34305' rdf:resource='#A34302'/>
+    <NS0:infantMortalityRate rdf:ID='A34308'>3.79</NS0:infantMortalityRate>
+    <NS0:totalFertilityRate rdf:ID='A34311'>1.7</NS0:totalFertilityRate>
+    <NS0:nationalityNoun>Finn(s)</NS0:nationalityNoun>
+    <NS0:nationalityAdjective>Finnish</NS0:nationalityAdjective>
+    <NS0:ethnicGroup rdf:resource='#A34316'/>
+    <NS0:ethnicGroup rdf:resource='#A34321'/>
+    <NS0:ethnicGroup rdf:resource='#A34326'/>
+    <NS0:ethnicGroup rdf:resource='#A34331'/>
+    <NS0:ethnicGroup rdf:resource='#A34336'/>
+    <NS0:religion rdf:resource='#A34341'/>
+    <NS0:religion rdf:resource='#A34346'/>
+    <NS0:religion rdf:resource='#A34351'/>
+    <NS0:religion rdf:resource='#A34356'/>
+    <NS0:language rdf:ID='A34365' rdf:resource='#A34361'/>
+    <NS0:language rdf:ID='A34371' rdf:resource='#A34367'/>
+    <NS0:language rdf:resource='#A34373'/>
+    <NS0:literacyDefinition>age 15 and over can read and write</NS0:literacyDefinition>
+    <NS0:literacyTotal rdf:ID='A34378'>100</NS0:literacyTotal>
+    <NS0:conventionalLongCountryName>Republic of Finland</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Finland</NS0:conventionalShortCountryName>
+    <NS0:localLongCountryName>Suomen Tasavalta</NS0:localLongCountryName>
+    <NS0:localShortCountryName>Suomi</NS0:localShortCountryName>
+    <NS0:governmentType rdf:resource='http://www.daml.org/2001/12/factbook/governmentTypes#republic'/>
+    <NS0:capital rdf:resource='#A34386'/>
+    <NS0:administrativeDivision rdf:resource='#A34393'/>
+    <NS0:administrativeDivision rdf:resource='#A34397'/>
+    <NS0:administrativeDivision rdf:resource='#A34401'/>
+    <NS0:administrativeDivision rdf:resource='#A34405'/>
+    <NS0:administrativeDivision rdf:resource='#A34409'/>
+    <NS0:administrativeDivision rdf:resource='#A34413'/>
+    <NS0:independence>6 December 1917 (from Russia)</NS0:independence>
+    <NS0:constitution>17 July 1919</NS0:constitution>
+    <NS0:legalSystem>civil law system based on Swedish law; Supreme Court may request legislation interpreting or modifying laws; accepts compulsory ICJ jurisdiction, with reservations</NS0:legalSystem>
+    <NS0:suffrage>18 years of age; universal</NS0:suffrage>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#AfDB'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#AsDB'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Australia_Group'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#BIS'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CBSS'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CCC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CE'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CERN'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#EAPC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#EBRD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ECE'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#EIB'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#EMU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ESA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#EU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#FAO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#G-_9'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IADB'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IAEA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IBRD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICAO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICFTU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICRM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IDA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IEA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFAD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFRCS'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IHO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ILO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IMF'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IMO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Inmarsat'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Intelsat'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Interpol'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IOC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IOM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ISO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ITU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NAM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NEA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NIB'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NSG'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OAS'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OECD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OPCW'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OSCE'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#PCA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#PFP'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UN'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNCTAD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNESCO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNFICYP'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNHCR'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNIDO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNIFIL'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNIKOM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNMEE'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNMIBH'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNMIK'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNMOGIP'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNMOP'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNTSO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UPU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WEU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WFTU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WHO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WIPO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WMO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WToO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WTrO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ZC'/>
+    <NS0:flagDescription>white with a blue cross that extends to the edges of the flag; the vertical part of the cross is shifted to the hoist side in the style of the Dannebrog (Danish flag)</NS0:flagDescription>
+    <NS0:economyOverview>Finland has a highly industrialized, largely free-market economy, with per capita output roughly that of the UK, France, Germany, and Italy. Its key economic sector is manufacturing - principally the wood, metals, engineering, telecommunications, and electronics industries. Trade is important, with exports equaling more than one-third of GDP. Except for timber and several minerals, Finland depends on imports of raw materials, energy, and some components for manufactured goods. Because of the climate, agricultural development is limited to maintaining self-sufficiency in basic products. Forestry, an important export earner, provides a secondary occupation for the rural population. Rapidly increasing integration with Western Europe - Finland was one of the 11 countries joining the euro monetary system (EMU) on 1 January 1999 - will dominate the economic picture over the next several years. Growth in 2001 will be bolstered by strong private consumption, yet may be 1 or 2 points lower than in 2000, largely because of a weakening in export demand.</NS0:economyOverview>
+    <NS0:grossDomesticProduct rdf:ID='A34497'>118300000000</NS0:grossDomesticProduct>
+    <NS0:grossDomesticProductRealGrowth rdf:ID='A34500'>5.6</NS0:grossDomesticProductRealGrowth>
+    <NS0:grossDomesticProductPerCapita rdf:ID='A34503'>22900</NS0:grossDomesticProductPerCapita>
+    <NS0:grossDomesticProductAgriculture>3.5</NS0:grossDomesticProductAgriculture>
+    <NS0:grossDomesticProductIndustry>29</NS0:grossDomesticProductIndustry>
+    <NS0:grossDomesticProductServices rdf:ID='A34508'>67.5</NS0:grossDomesticProductServices>
+    <NS0:householdIncomeLowest10Percent>4.2</NS0:householdIncomeLowest10Percent>
+    <NS0:householdIncomeHighest10Percent rdf:ID='A34511'>21.6</NS0:householdIncomeHighest10Percent>
+    <NS0:inflationRate rdf:ID='A34513'>3.4</NS0:inflationRate>
+    <NS0:laborForce rdf:ID='A34516'>2600000</NS0:laborForce>
+    <NS0:occupation rdf:resource='#A34519'/>
+    <NS0:occupation rdf:resource='#A34524'/>
+    <NS0:occupation rdf:resource='#A34529'/>
+    <NS0:occupation rdf:resource='#A34534'/>
+    <NS0:occupation rdf:resource='#A34538'/>
+    <NS0:occupation rdf:resource='#A34542'/>
+    <NS0:occupation rdf:resource='#A34547'/>
+    <NS0:occupation rdf:resource='#A34552'/>
+    <NS0:occupation rdf:resource='#A34557'/>
+    <NS0:unemploymentRate rdf:ID='A34562'>9.8</NS0:unemploymentRate>
+    <NS0:budgetRevenues>36100000000</NS0:budgetRevenues>
+    <NS0:budgetExpenditures>31000000000</NS0:budgetExpenditures>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#metal_products'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#shipbuilding'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#pulp_and_paper'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#copper_refining'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#foodstuffs'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#chemicals'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#textiles'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#clothing'/>
+    <NS0:industrialProductionGrowthRate rdf:ID='A34575'>7.5</NS0:industrialProductionGrowthRate>
+    <NS0:electricityProduction rdf:ID='A34577'>75792000000</NS0:electricityProduction>
+    <NS0:electricityProductionFossilFuel>41.88</NS0:electricityProductionFossilFuel>
+    <NS0:electricityProductionHydro>16.77</NS0:electricityProductionHydro>
+    <NS0:electricityProductionNuclear>28.82</NS0:electricityProductionNuclear>
+    <NS0:electricityProductionOther rdf:ID='A34582'>12.53</NS0:electricityProductionOther>
+    <NS0:electricityConsumption rdf:ID='A34584'>81611000000</NS0:electricityConsumption>
+    <NS0:electricityExports rdf:ID='A34586'>232000000</NS0:electricityExports>
+    <NS0:electricityImports rdf:ID='A34588'>11356000000</NS0:electricityImports>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#cereals'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#sugar_beets'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#potatoes'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#dairy_cattle'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#fish'/>
+    <NS0:exports rdf:ID='A34595'>44400000000</NS0:exports>
+    <NS0:exportsCommodity rdf:resource='#A34597'/>
+    <NS0:exportsCommodity rdf:resource='#A34601'/>
+    <NS0:exportsCommodity rdf:resource='#A34605'/>
+    <NS0:exportsCommodity rdf:resource='#A34609'/>
+    <NS0:exportsCommodity rdf:resource='#A34613'/>
+    <NS0:imports rdf:ID='A34617'>32700000000</NS0:imports>
+    <NS0:importsCommodity rdf:resource='#A34619'/>
+    <NS0:importsCommodity rdf:resource='#A34623'/>
+    <NS0:importsCommodity rdf:resource='#A34627'/>
+    <NS0:importsCommodity rdf:resource='#A34631'/>
+    <NS0:importsCommodity rdf:resource='#A34635'/>
+    <NS0:importsCommodity rdf:resource='#A34639'/>
+    <NS0:importsCommodity rdf:resource='#A34643'/>
+    <NS0:importsCommodity rdf:resource='#A34647'/>
+    <NS0:externalDebt rdf:ID='A34651'>30000000000</NS0:externalDebt>
+    <NS0:currency>markka (FIM); euro (EUR)</NS0:currency>
+    <NS0:currencyCode>FIM; EUR</NS0:currencyCode>
+    <NS0:fiscalYear>calendar year</NS0:fiscalYear>
+    <NS0:mainTelephoneLines rdf:ID='A34656'>2861000</NS0:mainTelephoneLines>
+    <NS0:mobileTelephoneLines rdf:ID='A34658'>2162574</NS0:mobileTelephoneLines>
+    <NS0:telephoneSystemGeneralAssessment>modern system with excellent service</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>cable, microwave radio relay, and an extensive cellular net provide domestic needs</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>1 submarine cable; satellite earth stations - access to Intelsat transmission service via a Swedish satellite earth station, 1 Inmarsat (Atlantic and Indian Ocean regions); note - Finland shares the Inmarsat earth station with the other Nordic countries (Denmark, Iceland, Norway, and Sweden)</NS0:telephoneSystemInternational>
+    <NS0:radios rdf:ID='A34663'>7700000</NS0:radios>
+    <NS0:televisions rdf:ID='A34665'>3200000</NS0:televisions>
+    <NS0:internetCountryCode>.fi</NS0:internetCountryCode>
+    <NS0:internetServiceProviders rdf:ID='A34668'>23</NS0:internetServiceProviders>
+    <NS0:internetUsers rdf:ID='A34670'>2270000</NS0:internetUsers>
+    <NS0:railwaysTotal>5865</NS0:railwaysTotal>
+    <NS0:highwaysTotal>77796</NS0:highwaysTotal>
+    <NS0:highwaysPaved rdf:ID='A34674'>49789</NS0:highwaysPaved>
+    <NS0:highwaysUnpaved rdf:ID='A34676'>28042</NS0:highwaysUnpaved>
+    <NS0:waterways>6675</NS0:waterways>
+    <NS0:port rdf:resource='#A34679'/>
+    <NS0:port rdf:resource='#A34683'/>
+    <NS0:port rdf:resource='#A34687'/>
+    <NS0:port rdf:resource='#A34691'/>
+    <NS0:port rdf:resource='#A34695'/>
+    <NS0:port rdf:resource='#A34699'/>
+    <NS0:port rdf:resource='#A34703'/>
+    <NS0:port rdf:resource='#A34707'/>
+    <NS0:port rdf:resource='#A34711'/>
+    <NS0:port rdf:resource='#A34715'/>
+    <NS0:port rdf:resource='#A34719'/>
+    <NS0:airports rdf:ID='A34723'>159</NS0:airports>
+    <NS0:airportBreakdown rdf:resource='#A34726'/>
+    <NS0:airportBreakdown rdf:resource='#A34732'/>
+    <NS0:airportBreakdown rdf:resource='#A34739'/>
+    <NS0:airportBreakdown rdf:resource='#A34746'/>
+    <NS0:airportBreakdown rdf:resource='#A34753'/>
+    <NS0:airportBreakdown rdf:resource='#A34759'/>
+    <NS0:airportBreakdown rdf:resource='#A34766'/>
+    <NS0:militaryAge>17</NS0:militaryAge>
+    <NS0:malesOfMilitaryAge rdf:ID='A34773'>1251700</NS0:malesOfMilitaryAge>
+    <NS0:malesFitForMilitaryService rdf:ID='A34776'>1033188</NS0:malesFitForMilitaryService>
+    <NS0:malesReachingMilitaryAgeAnnually rdf:ID='A34779'>33883</NS0:malesReachingMilitaryAgeAnnually>
+    <NS0:militaryExpenditures rdf:ID='A34782'>1800000000</NS0:militaryExpenditures>
+    <NS0:militaryExpendituresPercentGDP rdf:ID='A34784'>2</NS0:militaryExpendituresPercentGDP>
+    <NS0:internationalDispute>none</NS0:internationalDispute>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/fi-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/fi-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/fi-map.jpg</NS0:map>
+    <NS0:border rdf:resource='#A123126'/>
+    <NS0:border rdf:resource='#A123131'/>
+    <NS0:border rdf:resource='#A123136'/>
+    <NS0:exportPartner rdf:resource='#A123141'/>
+    <NS0:exportPartner rdf:resource='#A123146'/>
+    <NS0:exportPartner rdf:ID='A123153' rdf:resource='#A123150'/>
+    <NS0:importPartner rdf:resource='#A123155'/>
+    <NS0:importPartner rdf:resource='#A123160'/>
+    <NS0:importPartner rdf:ID='A123169' rdf:resource='#A123165'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34782'>
+    <NS0:note>FY98</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34605'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#metals;_timber'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34413'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Oulun Laani</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34205'>
+    <NS0:note>in the Gulf of Finland - 3 NM</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34601'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#chemicals'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34586'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34670'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34409'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Lappi</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34597'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#machinery_and_equipment'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34214'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Haltiatunturi</NS0:name>
+    <NS0:elevation>1328</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34405'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Lansi-Suomen Laani</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34401'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Ita-Suomen Laani</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34209'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Baltic Sea</NS0:name>
+    <NS0:elevation>0</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34784'>
+    <NS0:note>FY98</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34311'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34397'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Etela-Suomen Laani</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34276'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34393'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Aland</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34588'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34386'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CapitalCity'/>
+    <NS0:name>Helsinki</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34766'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:maxRunway>913</NS0:maxRunway>
+    <NS0:count>84 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34270'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34663'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34191'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>64.0</NS0:latitude>
+    <NS0:longitude>26.0</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A34273'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+</rdf:RDF>

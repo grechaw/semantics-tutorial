@@ -1,0 +1,273 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Víctor_Valdés	foaf:primaryTopic	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2003%E2%80%9304_FC_Barcelona_season>	dbpprop:name	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> ;
+	dbpprop:p	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2006%E2%80%9307_FC_Barcelona_season>	dbpprop:p	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2007%E2%80%9308_FC_Barcelona_season>	dbpprop:p	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:History_of_FC_Barcelona	dbpprop:gk	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2008%E2%80%9309_FC_Barcelona_season>	dbpprop:p	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2010%E2%80%9311_FC_Barcelona_season>	dbpprop:p	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2009%E2%80%9310_FC_Barcelona_season>	dbpprop:p	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+dbpedia:Spain_national_football_team	dbpprop:name	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/FC_Barcelona__V%C3%ADctor_Vald%C3%A9s__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2013_FIFA_Confederations_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2011_FIFA_Club_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2006_FIFA_Club_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns6:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s>	rdf:type	ns6:Q215627 ,
+		dbpedia-owl:SoccerPlayer .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s>	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s>	rdf:type	yago:SoccerPlayer110618342 ,
+		yago:SpainYouthInternationalFootballers ,
+		foaf:Person ,
+		yago:SpanishFootballers ,
+		yago:LaLigaFootballers ,
+		yago:FCBarcelonaFootballers ,
+		yago:CatalanFootballers .
+@prefix ns9:	<http://schema.org/> .
+<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s>	rdf:type	ns9:Person ,
+		yago:Whole100003553 ,
+		yago:Object100002684 ,
+		<http://dbpedia.org/class/yago/PeopleFromL\u0027HospitaletDeLlobregat> ,
+		yago:AssociationFootballGoalkeepers ,
+		yago:HockeyPlayer110179291 ,
+		yago:Goalkeeper110134001 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Contestant109613191 ,
+		yago:FootballPlayer110101634 ,
+		yago:Athlete109820263 ,
+		<http://dbpedia.org/class/yago/FCBarcelonaAtl%C3%A8ticFootballers> ,
+		dbpedia-owl:Athlete ,
+		yago:SpainInternationalFootballers ,
+		yago:Player110439851 ,
+		dbpedia-owl:Person ,
+		dbpedia-owl:Agent ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> .
+@prefix ns10:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s>	rdf:type	ns10:Athlete ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s>	rdf:type	dul:NaturalPerson ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		dul:Agent ,
+		ns6:Q5 ,
+		ns10:SoccerPlayer ,
+		yago:SpainUnder-21InternationalFootballers ;
+	owl:sameAs	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+@prefix ns12:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s>	owl:sameAs	ns12:Víctor_Valdés ,
+		<http://rdf.freebase.com/ns/m.07zp10> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s>	rdfs:label	"V\u00EDctor Vald\u00E9s"@de ,
+		"\u0412\u0430\u043B\u044C\u0434\u0435\u0441, \u0412\u0438\u043A\u0442\u043E\u0440"@ru ,
+		"V\u00EDctor Vald\u00E9s" ,
+		"\u0641\u064A\u0643\u062A\u0648\u0631 \u0641\u0627\u0644\u062F\u0632"@ar ,
+		"V\u00EDctor Vald\u00E9s"@nl ,
+		"V\u00EDctor Vald\u00E9s"@pl ,
+		"\u30D3\u30AF\u30C8\u30FC\u30EB\u30FB\u30D0\u30EB\u30C7\u30B9"@ja ,
+		"V\u00EDctor Vald\u00E9s"@pt ,
+		"V\u00EDctor Vald\u00E9s"@it ,
+		"\u57DF\u9640\u00B7\u83EF\u8FEA\u65AF"@zh ,
+		"V\u00EDctor Vald\u00E9s"@fr ,
+		"V\u00EDctor Vald\u00E9s"@es .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s>	dcterms:subject	category:UEFA_Euro_2012_players ,
+		category:Spain_under-21_international_footballers ,
+		category:FC_Barcelona_footballers ,
+		category:FIFA_World_Cup-winning_players ,
+		category:La_Liga_footballers ,
+		<http://dbpedia.org/resource/Category:1982_births> ,
+		category:Spanish_footballers ,
+		<http://dbpedia.org/resource/Category:People_from_L\u0027Hospitalet_de_Llobregat> ,
+		category:Spain_international_footballers ,
+		category:Catalan_footballers ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Living_people ,
+		category:Association_football_goalkeepers ,
+		category:UEFA_European_Championship-winning_players ,
+		category:Spain_youth_international_footballers ,
+		category:FC_Barcelona_C_footballers ,
+		<http://dbpedia.org/resource/Category:Segunda_Divisi%C3%B3n_B_footballers> ,
+		category:FC_Barcelona_B_footballers ,
+		<http://dbpedia.org/resource/Category:Tercera_Divisi%C3%B3n_footballers> ,
+		<http://dbpedia.org/resource/Category:2013_FIFA_Confederations_Cup_players> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/2012_2013_-_01_Victor_Vald\u00E9s.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s>	dc:description	"Spanish footballer" ,
+		"Spanish footballer" ;
+	foaf:givenName	"V\u00EDctor" ;
+	foaf:name	"V\u00EDctor Vald\u00E9s i Arribas" ,
+		"Vald\u00E9s, V\u00EDctor" ,
+		"V\u00EDctor Vald\u00E9s" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/V\u00EDctor_Vald\u00E9s?oldid=605883648> ;
+	rdfs:comment	"V\u00EDctor Vald\u00E9s Arribas (wym. [\u02C8biktor bal\u02C8des i a\u02C8ribas]; ur. 14 stycznia 1982 w L'Hospitalet de Llobregat, Hiszpania) \u2013 hiszpa\u0144ski bramkarz, pochodz\u0105cy z Katalonii, graj\u0105cy w FC Barcelona. Jest najbardziej utytu\u0142owanym bramkarzem w historii klubu. Wygra\u0142 6-krotnie La Liga, 3-krotnie Lig\u0119 Mistrz\u00F3w oraz raz Copa del Rey. Jest tak\u017Ce jedynym bramkarzem w historii , kt\u00F3ry wygra\u0142 Trofeo Zamora pi\u0119ciokrotnie."@pl ,
+		"\u0641\u0643\u062A\u0648\u0631 \u0641\u0627\u0644\u062F\u064A\u0632 \u0623\u0631\u064A\u0628\u0627\u0633\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 14 \u064A\u0646\u0627\u064A\u0631 1982 \u0627\u0644\u0630\u064A \u064A\u0639\u062F \u0645\u0646 \u0623\u0628\u0646\u0627\u0621 \u0627\u0644\u0646\u0627\u062F\u064A \u0627\u0644\u0643\u062A\u0644\u0648\u0646\u064A \u062D\u064A\u062B \u0648\u0644\u062F \u0641\u0627\u0644\u062F\u064A\u0633 \u0641\u064A \u0645\u0633\u062A\u0634\u0641\u0649 \u064A\u062F\u0639\u0649 L' Hospitalet de Llobregat \u0648\u064A\u062A\u0648\u0627\u062C\u062F \u0647\u0630\u0627 \u0627\u0644\u0645\u0634\u0641\u0649 \u0641\u064A \u0627\u0644\u0634\u0627\u0631\u0639 \u0627\u0644\u0623\u062D\u0645\u0631\u060C \u0648\u064A\u0639\u062F \u0647\u0630\u0627 \u0627\u0644\u0645\u0634\u0641\u0649 \u0642\u0631\u064A\u0628\u0627 \u0645\u0646 \u0627\u0644\u0643\u0627\u0645\u0628 \u0646\u0648 \u062D\u064A\u062B \u064A\u0628\u0639\u062F \u0639\u0646 \u0627\u0644\u0645\u0644\u0639\u0628 \u0628\u0636\u0639\u0629 \u0643\u064A\u0644\u0648\u0645\u062A\u0631\u0627\u062A \u062A\u0642\u0631\u064A\u0628\u0627\u060C \u0627\u0644\u062D\u0627\u0631\u0633 \u0627\u0644\u0643\u0627\u062A\u0644\u0648\u0646\u064A \u0644\u0645 \u064A\u0644\u0639\u0628 \u0644\u0627\u064A \u0645\u0646 \u0627\u0644\u0641\u0631\u0642 \u0642\u0628\u0644 \u0628\u0631\u0634\u0644\u0648\u0646\u0629 \u062D\u064A\u062B \u0627\u0646\u0647 \u0644\u0639\u0628 \u0641\u064A \u0628\u062F\u0627\u064A\u0629 \u0645\u0634\u0648\u0627\u0631\u0647 \u0645\u0639 \u0635\u063A\u0627\u0631 \u0628\u0631\u0634\u0644\u0648\u0646\u0629 \u0641\u064A \u0627\u0644\u0644\u0627\u0645\u064A\u0633\u064A\u0627 \u0648\u0638\u0644 \u0645\u0643\u0627\u0641\u062D\u0627 \u062D\u062A\u0649 \u062C\u0646\u0627 \u062B\u0645\u0627\u0631 \u0645\u0627 \u0641\u0639\u0644\u0647 \u0648\u0623\u0635\u0628\u062D \u0627\u0644\u062D\u0627\u0631\u0633 \u0627\u0644\u0623\u0648\u0644 \u0641\u064A \u0627\u0644\u0641\u0631\u064A\u0642 \u0627\u0644\u0643\u062A\u0644\u0648\u0646\u064A\u060C \u0641\u0627\u0644\u062F\u064A\u0633 \u0644\u0645 \u064A\u0643\u0646 \u0628\u0627\u0644\u0645\u0633\u062A\u0648\u0649 \u0627\u0644\u0630\u064A \u0647\u0648 \u0639\u0644\u064A\u0647 \u0627\u0644\u0622\u0646 \u0641\u0645\u0633\u062A\u0648\u0627\u0647 \u062A\u0637\u0648\u0631 \u0643\u062B\u064A\u0631\u0627 \u0641\u064A \u0627\u0644\u0641\u062A\u0631\u0629 \u0627\u0644\u0623\u062E\u064A\u0631\u0629 \u0648\u0647\u0630\u0627 \u0627\u0644\u062A\u0637\u0648\u0631 \u0643\u0627\u0646 \u0645\u0639 \u0645\u0631\u0648\u0631 \u0627\u0644\u0632\u0645\u0646 \u0648\u0644\u0642\u062F \u062D\u0627\u0632 \u0639\u0644\u0649 \u062C\u0627\u0626\u0632\u0629 \u0632\u0627\u0645\u0648\u0631\u0627 \u0644\u0640 \u0623\u0641\u0636\u0644 \u062D\u0627\u0631\u0633 \u0641\u064A \u0627\u0644\u0644\u064A\u063A\u0627 \u0645\u0648\u0633\u0645 2004/2005 \u0646\u0638\u0631\u0627 \u0644\u0628\u0631\u0627\u0639\u062A\u0647 \u0627\u0644\u0641\u0627\u0626\u0642\u0629 \u0641\u064A \u0627\u0644\u062A\u0635\u062F\u064A \u0644\u0644\u0643\u062B\u064A\u0631 \u0645\u0646 \u0627\u0644\u062A\u0633\u062F\u064A\u062F\u0627\u062A \u0627\u0644\u062E\u0637\u0631\u0629 \u0639\u0644\u0649 \u0645\u0631\u0645\u0627\u0647. "@ar ,
+		"V\u00EDctor Vald\u00E9s Arribas (* 14. Januar 1982 in L\u2019Hospitalet de Llobregat, Katalonien) ist ein spanischer Fu\u00DFballtorwart. Vald\u00E9s durchlief die Jugendakademie des FC Barcelona und spielt seit 2002 f\u00FCr die erste Mannschaft des Vereins."@de ,
+		"V\u00EDctor Vald\u00E9s (Hospitalet de Llobregat, Barcelona; 14 de enero de 1982) es un futbolista espa\u00F1ol. Es el portero titular del F\u00FAtbol Club Barcelona, club en el que se form\u00F3 en categor\u00EDas inferiores. Ostenta el r\u00E9cord junto a Antoni Ramallets, de lograr el Trofeo Zamora en cinco temporadas (cuatro de ellas consecutivas), al ser el portero menos goleado de la Primera Divisi\u00F3n de Espa\u00F1a."@es ,
+		"\u0412\u0438\u0301\u043A\u0442\u043E\u0440 \u0412\u0430\u043B\u044C\u0434\u0435\u0301\u0441 \u0410\u0440\u0440\u0438\u0301\u0431\u0430\u0441 (\u0438\u0441\u043F. V\u00EDctor Vald\u00E9s Arribas; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 14 \u044F\u043D\u0432\u0430\u0440\u044F 1982 \u0433\u043E\u0434\u0430 \u0432 \u041E\u0441\u043F\u0438\u0442\u0430\u043B\u0435\u0442-\u0434\u0435-\u041B\u044C\u043E\u0431\u0440\u0435\u0433\u0430\u0442\u0435, \u041A\u0430\u0442\u0430\u043B\u043E\u043D\u0438\u044F) \u2014 \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u0438\u0439 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u044B\u0439 \u0432\u0440\u0430\u0442\u0430\u0440\u044C, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0438\u0439 \u0437\u0430 \u00AB\u0411\u0430\u0440\u0441\u0435\u043B\u043E\u043D\u0443\u00BB. \u0420\u0435\u043A\u043E\u0440\u0434\u0441\u043C\u0435\u043D \u0441\u0440\u0435\u0434\u0438 \u0432\u0440\u0430\u0442\u0430\u0440\u0435\u0439 \u043F\u043E \u0447\u0438\u0441\u043B\u0443 \u043C\u0430\u0442\u0447\u0435\u0439 \u0437\u0430 \u00AB\u0411\u0430\u0440\u0441\u0435\u043B\u043E\u043D\u0443\u00BB."@ru ,
+		"V\u00EDctor Vald\u00E9s Arribas (L'Hospitalet de Llobregat, 14 gennaio 1982) \u00E8 un calciatore spagnolo, portiere del Barcellona e della Nazionale spagnola. Con i blaugrana ha vinto la Coppa del mondo per club nel 2009 e nel 2011, mentre con La Roja ha conquistato il Campionato mondiale nel 2010 e il Campionato europeo nel 2012."@it ,
+		"V\u00EDctor Vald\u00E9s i Arribas (Hospitalet de Llobregat, 14 de janeiro de 1982) \u00E9 um goleiro espanhol de futebol. Atualmente joga pelo o Barcelona.Estava no Bar\u00E7a desde os 10 anos de idade, mas nas categorias de base tamb\u00E9m foi porta-redes do Tenerife."@pt ,
+		"\u30D3\u30AF\u30C8\u30EB\u30FB\u30D0\u30EB\u30C7\u30B9\uFF08V\u00EDctor Vald\u00E9s Arribas, 1982\u5E741\u670814\u65E5 - \uFF09\u306F\u3001\u30B9\u30DA\u30A4\u30F3\u30FB\u30AB\u30BF\u30EB\u30FC\u30CB\u30E3\u5DDE\u30D0\u30EB\u30BB\u30ED\u30CA\u770C\u30ED\u30B9\u30D4\u30BF\u30EC\u30FC\u30C8\u30FB\u30C7\u30FB\u30EA\u30E7\u30D6\u30EC\u30AC\u30FC\u30C8\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30EA\u30FC\u30AC\u30FB\u30A8\u30B9\u30D1\u30CB\u30E7\u30FC\u30E9\u30FBFC\u30D0\u30EB\u30BB\u30ED\u30CA\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30B4\u30FC\u30EB\u30AD\u30FC\u30D1\u30FC\u3002"@ja ,
+		"V\u00EDctor Vald\u00E9s i Arribas, n\u00E9 le 14 janvier 1982 \u00E0 L'Hospitalet de Llobregat (Catalogne, Espagne), est un footballeur espagnol \u00E9voluant au poste de gardien de but au FC Barcelone. Il a remport\u00E9 \u00E0 cinq reprises le Troph\u00E9e Zamora de meilleur gardien du championnat d'Espagne."@fr ,
+		"V\u00EDctor Vald\u00E9s Arribas (L'Hospitalet de Llobregat, 14 januari 1982) is een Spaans profvoetballer. Hij is de eerste doelman van FC Barcelona."@nl ,
+		"V\u00EDctor Vald\u00E9s i Arribas (Spanish pronunciation: [\u02C8\u03B2iktor \u03B2al\u02C8des a\u02C8ribas]; born 14 January 1982) is a Spanish professional footballer who plays for FC Barcelona in La Liga, as a goalkeeper.He is regarded as one of the best goalkeepers in Barcelona's history, appeared in more than 500 official games for his club and win 21 major titles, notably six La Liga and three UEFA Champions League championships. Vald\u00E9s also has won the Zamora Trophy a record five times." ,
+		"\u57DF\u9640\u00B7\u83EF\u8FEA\u65AF\uFF08V\u00EDctor Vald\u00E9s Arribas\uFF0C1982\u5E741\u670814\u65E5\uFF0D\uFF09\uFF0C\u662F\u897F\u73ED\u7259\u5B88\u9580\u54E1\uFF0C\u6548\u529B\u897F\u7532\u73ED\u9738\u5DF4\u585E\u9686\u62FF\u3002\u57DF\u9640\u00B7\u83EF\u8FEA\u65AF\u4E43\u897F\u73ED\u7259\u52A0\u6CF0\u9686\u5C3C\u4E9E\u4EBA\uFF0C\u51FA\u8EAB\u81EA\u65BC\u5DF4\u585E\u7F85\u90A3\u9752\u8A13\u71DF\u62C9\u746A\u897F\u4E9E\u3002\u81EA2003\u5E74\u8377\u862D\u7C4D\u6559\u7DF4\u5217\u5361\u7279\u4E0A\u4EFB\u8D77\uFF0C\u57DF\u9640\u00B7\u83EF\u8FEA\u65AF\u4FBF\u6210\u70BA\u7403\u6703\u9996\u5E2D\u5B88\u9580\u54E1\uFF0C\u4E0A\u9663\u8D85\u904E\u4E09\u767E\u5834\uFF0C\u4ED6\u51FA\u5834\u6B21\u6578\u8D85\u8D8A\u524D\u8F29\u8607\u6BD4\u6C99\u5217\u7279\uFF0C\u662F\u5DF4\u585E\u7F85\u90A3\u53F2\u4E0A\u51FA\u5834\u6B21\u6578\u6700\u591A\u7684\u5B88\u9580\u54E1\u3002\u4ED6\u9664\u9023\u8D0F\u6578\u5C46\u897F\u7532\u806F\u8CFD\u51A0\u8ECD\u5916\uFF0C\u9084\u65BC2005-06\u5E74\u7403\u5B63\u8D0F\u5F97\u6B50\u806F\u51A0\u8ECD\u30022008-09\u5E74\u7403\u5B63\uFF0C\u5DF4\u585E\u9686\u62FF\u62FF\u5230\u7A7A\u524D\u7684\u516D\u51A0\u738B\uFF0C\u57DF\u9640\u00B7\u83EF\u8FEA\u65AF\u4F5C\u70BA\u4E3B\u529B\u5B88\u9580\u54E1\u767C\u63EE\u51FA\u8272\uFF0C\u529F\u4E0D\u53EF\u6C92\u3002\u96D6\u7136\u57DF\u9640\u00B7\u83EF\u8FEA\u65AF\u4E43\u5DF4\u585E\u7F85\u90A3\u6B63\u9078\u5B88\u95E8\u5458\uFF0C\u4F46\u897F\u73ED\u7259\u570B\u5BB6\u968A\u7684\u6B63\u9078\u570B\u9580\u4E00\u76F4\u662F\u5361\u65AF\u62FF\u65AF\uFF0C\u9664\u4E86\u53CB\u8ABC\u8CFD\u4EE5\u5916\u5DF4\u723E\u5FB7\u65AF\u4ECD\u66AB\u672A\u70BA\u897F\u73ED\u7259\u570B\u5BB6\u968A\u51FA\u6230\u4EFB\u4F55\u5927\u8CFD\uFF0C\u800C\u4ED6\u525B\u51FA\u9053\u6642\u7684\u5834\u4E0A\u8868\u73FE\u4EA6\u4E00\u76F4\u88AB\u8A55\u70BA\u5E73\u5E73\uFF0C\u4E26\u6642\u6709\u5931\u8AA4\u3002\u751A\u81F3\u6709\u5A92\u8A18\u8A8D\u70BA\u4ED6\u7684\u4F4E\u5931\u7403\u7387\u662F\u5DF4\u585E\u7F85\u90A3\u4E2D\u5F8C\u5834\u7684\u52AA\u529B\u9632\u5B88\u800C\u4E0D\u662F\u4ED6\u7684\u51FA\u8272\u767C\u63EE\u3002\u4E0D\u904E\u76EE\u524D\u5DF4\u723E\u5FB7\u65AF\u5DF2\u7D93\u8B8A\u5F97\u975E\u5E38\u7A69\u5065\u5E76\u6210\u9577\u70BA\u4E16\u754C\u9802\u7D1A\u5B88\u9580\u54E1\u3002\u57DF\u9640\u00B7\u83EF\u8FEA\u65AF\u76EE\u524D\u9084\u64D4\u4EFB\u52A0\u6CF0\u7F85\u5C3C\u4E9E\u806F\u968A\u968A\u9577\u4E00\u8077\u30022013\u5E745\u670831\u65E5\uFF0C\u57DF\u9640\u00B7\u83EF\u8FEA\u65AF\u5BA3\u4F48\u5C07\u6548\u529B\u81F32014\u5E746\u6708\u5408\u7D04\u7D50\u675F\u3002"@zh ;
+	foaf:surname	"Vald\u00E9s" ;
+	foaf:isPrimaryTopicOf	ns1:Víctor_Valdés .
+@prefix ns18:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s>	dbpprop:hasPhotoCollection	ns18:Víctor_Valdés ;
+	dbpprop:caption	"Vald\u00E9s playing for Barcelona in 2012" ;
+	dbpprop:name	"V\u00EDctor Vald\u00E9s" ,
+		"Vald\u00E9s, V\u00EDctor" .
+@prefix ns19:	<http://dbpedia.org/datatype/> .
+<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s>	dbpprop:width	"25.0"^^ns19:perCent ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/2012_2013_-_01_Victor_Vald\u00E9s.jpg?width=300> ;
+	dbpedia-owl:abstract	"V\u00EDctor Vald\u00E9s Arribas (L'Hospitalet de Llobregat, 14 gennaio 1982) \u00E8 un calciatore spagnolo, portiere del Barcellona e della Nazionale spagnola. Con i blaugrana ha vinto la Coppa del mondo per club nel 2009 e nel 2011, mentre con La Roja ha conquistato il Campionato mondiale nel 2010 e il Campionato europeo nel 2012."@it ,
+		"\u0412\u0438\u0301\u043A\u0442\u043E\u0440 \u0412\u0430\u043B\u044C\u0434\u0435\u0301\u0441 \u0410\u0440\u0440\u0438\u0301\u0431\u0430\u0441 (\u0438\u0441\u043F. V\u00EDctor Vald\u00E9s Arribas; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 14 \u044F\u043D\u0432\u0430\u0440\u044F 1982 \u0433\u043E\u0434\u0430 \u0432 \u041E\u0441\u043F\u0438\u0442\u0430\u043B\u0435\u0442-\u0434\u0435-\u041B\u044C\u043E\u0431\u0440\u0435\u0433\u0430\u0442\u0435, \u041A\u0430\u0442\u0430\u043B\u043E\u043D\u0438\u044F) \u2014 \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u0438\u0439 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u044B\u0439 \u0432\u0440\u0430\u0442\u0430\u0440\u044C, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0438\u0439 \u0437\u0430 \u00AB\u0411\u0430\u0440\u0441\u0435\u043B\u043E\u043D\u0443\u00BB. \u0420\u0435\u043A\u043E\u0440\u0434\u0441\u043C\u0435\u043D \u0441\u0440\u0435\u0434\u0438 \u0432\u0440\u0430\u0442\u0430\u0440\u0435\u0439 \u043F\u043E \u0447\u0438\u0441\u043B\u0443 \u043C\u0430\u0442\u0447\u0435\u0439 \u0437\u0430 \u00AB\u0411\u0430\u0440\u0441\u0435\u043B\u043E\u043D\u0443\u00BB."@ru ,
+		"\u57DF\u9640\u00B7\u83EF\u8FEA\u65AF\uFF08V\u00EDctor Vald\u00E9s Arribas\uFF0C1982\u5E741\u670814\u65E5\uFF0D\uFF09\uFF0C\u662F\u897F\u73ED\u7259\u5B88\u9580\u54E1\uFF0C\u6548\u529B\u897F\u7532\u73ED\u9738\u5DF4\u585E\u9686\u62FF\u3002\u57DF\u9640\u00B7\u83EF\u8FEA\u65AF\u4E43\u897F\u73ED\u7259\u52A0\u6CF0\u9686\u5C3C\u4E9E\u4EBA\uFF0C\u51FA\u8EAB\u81EA\u65BC\u5DF4\u585E\u7F85\u90A3\u9752\u8A13\u71DF\u62C9\u746A\u897F\u4E9E\u3002\u81EA2003\u5E74\u8377\u862D\u7C4D\u6559\u7DF4\u5217\u5361\u7279\u4E0A\u4EFB\u8D77\uFF0C\u57DF\u9640\u00B7\u83EF\u8FEA\u65AF\u4FBF\u6210\u70BA\u7403\u6703\u9996\u5E2D\u5B88\u9580\u54E1\uFF0C\u4E0A\u9663\u8D85\u904E\u4E09\u767E\u5834\uFF0C\u4ED6\u51FA\u5834\u6B21\u6578\u8D85\u8D8A\u524D\u8F29\u8607\u6BD4\u6C99\u5217\u7279\uFF0C\u662F\u5DF4\u585E\u7F85\u90A3\u53F2\u4E0A\u51FA\u5834\u6B21\u6578\u6700\u591A\u7684\u5B88\u9580\u54E1\u3002\u4ED6\u9664\u9023\u8D0F\u6578\u5C46\u897F\u7532\u806F\u8CFD\u51A0\u8ECD\u5916\uFF0C\u9084\u65BC2005-06\u5E74\u7403\u5B63\u8D0F\u5F97\u6B50\u806F\u51A0\u8ECD\u30022008-09\u5E74\u7403\u5B63\uFF0C\u5DF4\u585E\u9686\u62FF\u62FF\u5230\u7A7A\u524D\u7684\u516D\u51A0\u738B\uFF0C\u57DF\u9640\u00B7\u83EF\u8FEA\u65AF\u4F5C\u70BA\u4E3B\u529B\u5B88\u9580\u54E1\u767C\u63EE\u51FA\u8272\uFF0C\u529F\u4E0D\u53EF\u6C92\u3002\u96D6\u7136\u57DF\u9640\u00B7\u83EF\u8FEA\u65AF\u4E43\u5DF4\u585E\u7F85\u90A3\u6B63\u9078\u5B88\u95E8\u5458\uFF0C\u4F46\u897F\u73ED\u7259\u570B\u5BB6\u968A\u7684\u6B63\u9078\u570B\u9580\u4E00\u76F4\u662F\u5361\u65AF\u62FF\u65AF\uFF0C\u9664\u4E86\u53CB\u8ABC\u8CFD\u4EE5\u5916\u5DF4\u723E\u5FB7\u65AF\u4ECD\u66AB\u672A\u70BA\u897F\u73ED\u7259\u570B\u5BB6\u968A\u51FA\u6230\u4EFB\u4F55\u5927\u8CFD\uFF0C\u800C\u4ED6\u525B\u51FA\u9053\u6642\u7684\u5834\u4E0A\u8868\u73FE\u4EA6\u4E00\u76F4\u88AB\u8A55\u70BA\u5E73\u5E73\uFF0C\u4E26\u6642\u6709\u5931\u8AA4\u3002\u751A\u81F3\u6709\u5A92\u8A18\u8A8D\u70BA\u4ED6\u7684\u4F4E\u5931\u7403\u7387\u662F\u5DF4\u585E\u7F85\u90A3\u4E2D\u5F8C\u5834\u7684\u52AA\u529B\u9632\u5B88\u800C\u4E0D\u662F\u4ED6\u7684\u51FA\u8272\u767C\u63EE\u3002\u4E0D\u904E\u76EE\u524D\u5DF4\u723E\u5FB7\u65AF\u5DF2\u7D93\u8B8A\u5F97\u975E\u5E38\u7A69\u5065\u5E76\u6210\u9577\u70BA\u4E16\u754C\u9802\u7D1A\u5B88\u9580\u54E1\u3002\u57DF\u9640\u00B7\u83EF\u8FEA\u65AF\u76EE\u524D\u9084\u64D4\u4EFB\u52A0\u6CF0\u7F85\u5C3C\u4E9E\u806F\u968A\u968A\u9577\u4E00\u8077\u30022013\u5E745\u670831\u65E5\uFF0C\u57DF\u9640\u00B7\u83EF\u8FEA\u65AF\u5BA3\u4F48\u5C07\u6548\u529B\u81F32014\u5E746\u6708\u5408\u7D04\u7D50\u675F\u3002"@zh ,
+		"V\u00EDctor Vald\u00E9s Arribas (wym. [\u02C8biktor bal\u02C8des i a\u02C8ribas]; ur. 14 stycznia 1982 w L'Hospitalet de Llobregat, Hiszpania) \u2013 hiszpa\u0144ski bramkarz, pochodz\u0105cy z Katalonii, graj\u0105cy w FC Barcelona. Jest najbardziej utytu\u0142owanym bramkarzem w historii klubu. Wygra\u0142 6-krotnie La Liga, 3-krotnie Lig\u0119 Mistrz\u00F3w oraz raz Copa del Rey. Jest tak\u017Ce jedynym bramkarzem w historii , kt\u00F3ry wygra\u0142 Trofeo Zamora pi\u0119ciokrotnie."@pl ,
+		"V\u00EDctor Vald\u00E9s Arribas (L'Hospitalet de Llobregat, 14 januari 1982) is een Spaans profvoetballer. Hij is de eerste doelman van FC Barcelona."@nl ,
+		"V\u00EDctor Vald\u00E9s i Arribas (Hospitalet de Llobregat, 14 de janeiro de 1982) \u00E9 um goleiro espanhol de futebol. Atualmente joga pelo o Barcelona.Estava no Bar\u00E7a desde os 10 anos de idade, mas nas categorias de base tamb\u00E9m foi porta-redes do Tenerife. Ao conquistar a titularidade na grande estrela da Espanha, foi bem notado, reconhecido pelas boas actua\u00E7\u00F5es, foi convocado para defender n\u00E3o s\u00F3 a Sele\u00E7\u00E3o Espanhola como uma que est\u00E1 dentro de seu pa\u00EDs, a Catalunha, foi o n\u00FAmero 1 nesta equipa.Iniciou a carreira profissional em 2000 pelo Barcelona, clube que o revelou. \u00C9 considerado o sucessor de Santi Ca\u00F1izares, do qual \u00E9 admirador confesso. Goleiro muito \u00E1gil de condi\u00E7\u00F5es f\u00EDsicas impressionantes. Destaca se por sua capacidade de mando e lideran\u00E7a em campo, apesar de sua juventude. Domina os diferentes aspectos do jogo dos goleiros tanto no jogo a\u00E9reo como no mano a mano. Desde agosto de 2011, V\u00EDctor Vald\u00E9s \u00E9 o novo atleta da marca brasileira de artigos Penalty.Se trata de um goleiro de qualidade incontestada e que apesar de sua juventude acumula muita experi\u00EAncia. Goleiro titular, ganhou seis vezes a La Liga (2004\u201305, 2005\u201306, 2008\u201309, 2009\u201310, 2010-11), tr\u00EAs Liga dos Campe\u00F5es da UEFA (2005\u201306, 2008\u201309, 2010-11), tr\u00EAs Supercopas da Espanha (2005, 2006 e 2009) uma Copa do Rei (2008-09) e duas Copas da Catalunha (2004 e 2005).Individualmente, foi o ganhador do Trof\u00E9u Zamora nas temporadas 2004-05, 2008-09, 2009-10 e 2010-11, pr\u00EAmio concedido ao goleiro menos vazado da Liga. Recebeu sua primeira convoca\u00E7\u00E3o para a Sele\u00E7\u00E3o Espanhola no dia 10 de maio de 2010, para a Copa do Mundo, realizada na \u00C1frica do Sul. Vald\u00E9s foi reserva durante todo o torneio, mas p\u00F4de fazer parte do elenco campe\u00E3o do mundo."@pt ,
+		"V\u00EDctor Vald\u00E9s i Arribas, n\u00E9 le 14 janvier 1982 \u00E0 L'Hospitalet de Llobregat (Catalogne, Espagne), est un footballeur espagnol \u00E9voluant au poste de gardien de but au FC Barcelone. Il a remport\u00E9 \u00E0 cinq reprises le Troph\u00E9e Zamora de meilleur gardien du championnat d'Espagne. En 2009, Victor Vald\u00E9s obtient avec Barcelone un sextupl\u00E9 in\u00E9dit dans l'histoire du football : Ligue des champions, championnat d'Espagne, Coupe du Roi, Supercoupe d'Europe, Supercoupe d'Espagne et Coupe du monde des clubs.Avec 500 matchs, il est le gardien de but ayant disput\u00E9 le plus de matchs sous le maillot du FC Barcelone et il est le quatri\u00E8me joueur \u00E0 avoir jou\u00E9 le plus de matchs sous le maillot blaugrana apr\u00E8s Xavi, Carles Puyol et Migueli."@fr ,
+		"V\u00EDctor Vald\u00E9s (Hospitalet de Llobregat, Barcelona; 14 de enero de 1982) es un futbolista espa\u00F1ol. Es el portero titular del F\u00FAtbol Club Barcelona, club en el que se form\u00F3 en categor\u00EDas inferiores. Ostenta el r\u00E9cord junto a Antoni Ramallets, de lograr el Trofeo Zamora en cinco temporadas (cuatro de ellas consecutivas), al ser el portero menos goleado de la Primera Divisi\u00F3n de Espa\u00F1a. Es internacional absoluto con la selecci\u00F3n espa\u00F1ola desde 2010, y con ella se ha proclamado campe\u00F3n del Mundo en 2010 y campe\u00F3n de Europa en 2012."@es ,
+		"V\u00EDctor Vald\u00E9s i Arribas (Spanish pronunciation: [\u02C8\u03B2iktor \u03B2al\u02C8des a\u02C8ribas]; born 14 January 1982) is a Spanish professional footballer who plays for FC Barcelona in La Liga, as a goalkeeper.He is regarded as one of the best goalkeepers in Barcelona's history, appeared in more than 500 official games for his club and win 21 major titles, notably six La Liga and three UEFA Champions League championships. Vald\u00E9s also has won the Zamora Trophy a record five times. He currently holds the club records as goalkeeper with most appearances in the league and in official competition, breaking Andoni Zubizarreta's records during the 2011\u201312 season." ,
+		"\u30D3\u30AF\u30C8\u30EB\u30FB\u30D0\u30EB\u30C7\u30B9\uFF08V\u00EDctor Vald\u00E9s Arribas, 1982\u5E741\u670814\u65E5 - \uFF09\u306F\u3001\u30B9\u30DA\u30A4\u30F3\u30FB\u30AB\u30BF\u30EB\u30FC\u30CB\u30E3\u5DDE\u30D0\u30EB\u30BB\u30ED\u30CA\u770C\u30ED\u30B9\u30D4\u30BF\u30EC\u30FC\u30C8\u30FB\u30C7\u30FB\u30EA\u30E7\u30D6\u30EC\u30AC\u30FC\u30C8\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30EA\u30FC\u30AC\u30FB\u30A8\u30B9\u30D1\u30CB\u30E7\u30FC\u30E9\u30FBFC\u30D0\u30EB\u30BB\u30ED\u30CA\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30B4\u30FC\u30EB\u30AD\u30FC\u30D1\u30FC\u3002"@ja ,
+		"V\u00EDctor Vald\u00E9s Arribas (* 14. Januar 1982 in L\u2019Hospitalet de Llobregat, Katalonien) ist ein spanischer Fu\u00DFballtorwart. Vald\u00E9s durchlief die Jugendakademie des FC Barcelona und spielt seit 2002 f\u00FCr die erste Mannschaft des Vereins."@de ,
+		"\u0641\u0643\u062A\u0648\u0631 \u0641\u0627\u0644\u062F\u064A\u0632 \u0623\u0631\u064A\u0628\u0627\u0633\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 14 \u064A\u0646\u0627\u064A\u0631 1982 \u0627\u0644\u0630\u064A \u064A\u0639\u062F \u0645\u0646 \u0623\u0628\u0646\u0627\u0621 \u0627\u0644\u0646\u0627\u062F\u064A \u0627\u0644\u0643\u062A\u0644\u0648\u0646\u064A \u062D\u064A\u062B \u0648\u0644\u062F \u0641\u0627\u0644\u062F\u064A\u0633 \u0641\u064A \u0645\u0633\u062A\u0634\u0641\u0649 \u064A\u062F\u0639\u0649 L' Hospitalet de Llobregat \u0648\u064A\u062A\u0648\u0627\u062C\u062F \u0647\u0630\u0627 \u0627\u0644\u0645\u0634\u0641\u0649 \u0641\u064A \u0627\u0644\u0634\u0627\u0631\u0639 \u0627\u0644\u0623\u062D\u0645\u0631\u060C \u0648\u064A\u0639\u062F \u0647\u0630\u0627 \u0627\u0644\u0645\u0634\u0641\u0649 \u0642\u0631\u064A\u0628\u0627 \u0645\u0646 \u0627\u0644\u0643\u0627\u0645\u0628 \u0646\u0648 \u062D\u064A\u062B \u064A\u0628\u0639\u062F \u0639\u0646 \u0627\u0644\u0645\u0644\u0639\u0628 \u0628\u0636\u0639\u0629 \u0643\u064A\u0644\u0648\u0645\u062A\u0631\u0627\u062A \u062A\u0642\u0631\u064A\u0628\u0627\u060C \u0627\u0644\u062D\u0627\u0631\u0633 \u0627\u0644\u0643\u0627\u062A\u0644\u0648\u0646\u064A \u0644\u0645 \u064A\u0644\u0639\u0628 \u0644\u0627\u064A \u0645\u0646 \u0627\u0644\u0641\u0631\u0642 \u0642\u0628\u0644 \u0628\u0631\u0634\u0644\u0648\u0646\u0629 \u062D\u064A\u062B \u0627\u0646\u0647 \u0644\u0639\u0628 \u0641\u064A \u0628\u062F\u0627\u064A\u0629 \u0645\u0634\u0648\u0627\u0631\u0647 \u0645\u0639 \u0635\u063A\u0627\u0631 \u0628\u0631\u0634\u0644\u0648\u0646\u0629 \u0641\u064A \u0627\u0644\u0644\u0627\u0645\u064A\u0633\u064A\u0627 \u0648\u0638\u0644 \u0645\u0643\u0627\u0641\u062D\u0627 \u062D\u062A\u0649 \u062C\u0646\u0627 \u062B\u0645\u0627\u0631 \u0645\u0627 \u0641\u0639\u0644\u0647 \u0648\u0623\u0635\u0628\u062D \u0627\u0644\u062D\u0627\u0631\u0633 \u0627\u0644\u0623\u0648\u0644 \u0641\u064A \u0627\u0644\u0641\u0631\u064A\u0642 \u0627\u0644\u0643\u062A\u0644\u0648\u0646\u064A\u060C \u0641\u0627\u0644\u062F\u064A\u0633 \u0644\u0645 \u064A\u0643\u0646 \u0628\u0627\u0644\u0645\u0633\u062A\u0648\u0649 \u0627\u0644\u0630\u064A \u0647\u0648 \u0639\u0644\u064A\u0647 \u0627\u0644\u0622\u0646 \u0641\u0645\u0633\u062A\u0648\u0627\u0647 \u062A\u0637\u0648\u0631 \u0643\u062B\u064A\u0631\u0627 \u0641\u064A \u0627\u0644\u0641\u062A\u0631\u0629 \u0627\u0644\u0623\u062E\u064A\u0631\u0629 \u0648\u0647\u0630\u0627 \u0627\u0644\u062A\u0637\u0648\u0631 \u0643\u0627\u0646 \u0645\u0639 \u0645\u0631\u0648\u0631 \u0627\u0644\u0632\u0645\u0646 \u0648\u0644\u0642\u062F \u062D\u0627\u0632 \u0639\u0644\u0649 \u062C\u0627\u0626\u0632\u0629 \u0632\u0627\u0645\u0648\u0631\u0627 \u0644\u0640 \u0623\u0641\u0636\u0644 \u062D\u0627\u0631\u0633 \u0641\u064A \u0627\u0644\u0644\u064A\u063A\u0627 \u0645\u0648\u0633\u0645 2004/2005 \u0646\u0638\u0631\u0627 \u0644\u0628\u0631\u0627\u0639\u062A\u0647 \u0627\u0644\u0641\u0627\u0626\u0642\u0629 \u0641\u064A \u0627\u0644\u062A\u0635\u062F\u064A \u0644\u0644\u0643\u062B\u064A\u0631 \u0645\u0646 \u0627\u0644\u062A\u0633\u062F\u064A\u062F\u0627\u062A \u0627\u0644\u062E\u0637\u0631\u0629 \u0639\u0644\u0649 \u0645\u0631\u0645\u0627\u0647. \u0648\u0647\u0648 \u0623\u062D\u062F \u0623\u0647\u0645 \u0627\u0644\u0646\u062C\u0648\u0645 \u0627\u0644\u0630\u064A\u0646 \u0633\u0627\u0647\u0645\u0648\u0627 \u0641\u064A \u062D\u0635\u0648\u0644 \u0646\u0627\u062F\u064A \u0628\u0631\u0634\u0644\u0648\u0646\u0629 \u0639\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u062F\u0648\u0631\u064A \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 \u0641\u064A \u0645\u0648\u0633\u0645 2006/2007 \u0639\u0644\u0649 \u0627\u0644\u0646\u0627\u062F\u064A \u0627\u0644\u0644\u0646\u062F\u0646\u064A \u0627\u0644\u0623\u0631\u0633\u0646\u0627\u0644 \u0648\u0643\u0627\u0646 \u0641\u0627\u0644\u062F\u0632 \u0631\u063A\u0645 \u062A\u0644\u0642\u064A\u0647 \u0647\u062F\u0641 \u0623\u0644\u0627 \u0623\u0646\u0647 \u0645\u0646\u0639 \u0646\u062C\u0648\u0645 \u0627\u0644\u0623\u0631\u0633\u0646\u0627\u0644 \u0648\u062E\u0627\u0635\u0629 \u062A\u064A\u0631\u064A \u0647\u0646\u0631\u064A \u0645\u0646 \u0647\u0632 \u0634\u0628\u0627\u0643\u0647 \u0645\u0631\u0629 \u0622\u062E\u0631 \u0646\u0638\u0631\u0627 \u0644\u0644\u0639\u062F\u064A\u062F \u0645\u0646 \u0627\u0644\u0645\u0648\u0627\u062C\u0647\u0627\u062A \u0627\u0644\u0645\u0628\u0627\u0634\u0631\u0629 \u0645\u0639 \u0647\u0646\u0631\u064A \u0648\u0627\u0644\u062A\u0641\u0648\u0642 \u0639\u0644\u064A\u0647. \u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0628\u0631\u0634\u0644\u0648\u0646\u0629 \u0641\u064A \u0639\u0627\u0645 2002\u060C \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0627\u0644\u0641\u0631\u064A\u0642 \u062D\u062A\u0649 \u0627\u0644\u0622\u0646.\u0634\u0627\u0631\u0643 \u0641\u0643\u062A\u0648\u0631 \u0642\u0628\u0644 \u0627\u0644\u0627\u0646\u0636\u0645\u0627\u0645 \u0644\u0644\u0641\u0631\u064A\u0642 \u0627\u0644\u0623\u0648\u0644 \u0628\u0646\u0627\u062F\u064A \u0628\u0631\u0634\u0644\u0648\u0646\u0629\u060C \u0634\u0627\u0631\u0643 \u0641\u064A \u0641\u0631\u064A\u0642 \u0627\u0644\u0634\u0628\u0627\u0628 \u0644\u0646\u0627\u062F\u064A \u0628\u0631\u0634\u0644\u0648\u0646\u0629\u060C \u0648\u0627\u0644\u0644\u0627\u0639\u0628 \u0645\u0633\u062A\u0645\u0631 \u0628\u0639\u0642\u062F \u0645\u0639 \u0646\u0627\u062F\u064A \u0628\u0631\u0634\u0644\u0648\u0646\u0629 \u062D\u062A\u0649 \u0639\u0627\u0645 2010. \u0623\u0635\u064A\u0628 \u0628\u0642\u0637\u0639 \u0641\u064A \u0627\u0644\u0631\u0628\u0627\u0637 \u0627\u0644\u0635\u0644\u064A\u0628\u064A \u0641\u064A 26/3/2014 \u0633\u064A\u063A\u064A\u0628 \u0639\u0646 \u0627\u0644\u0643\u0631\u0629 \u0633\u062A\u0629 \u0623\u0634\u0647\u0631 \u064B\u0633\u064A\u063A\u064A\u0628 \u0639\u0646 \u0643\u0627\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0662\u0660\u0661\u0664 \u0641\u064A \u0627\u0644\u0628\u0631\u0627\u0632\u064A\u0644"@ar ;
+	dbpedia-owl:wikiPageID	2715536 ;
+	dbpedia-owl:wikiPageRevisionID	605883648 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s>	dbpprop:birthDate	"1982-01-14+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"L'Hospitalet de Llobregat, Spain" ;
+	dbpprop:dateOfBirth	"1982-01-14+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"L'Hospitalet de Llobregat, Spain" ;
+	dbpprop:shortDescription	"Spanish footballer" ;
+	dbpedia-owl:birthDate	"1982-01-14+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	<http://dbpedia.org/resource/L\u0027Hospitalet_de_Llobregat> ,
+		dbpedia:Spain_national_football_team ;
+	dbpedia-owl:birthYear	"1982+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	200 ;
+	dbpprop:goals	0 ;
+	dbpprop:bg	"Gold" ,
+		"0.0"^^ns19:second ;
+	dbpprop:caps	16 ,
+		0 ,
+		77 ,
+		387 ;
+	dbpprop:years	2002 ,
+		2000 ,
+		2014 ;
+	dbpprop:youthclubs	dbpedia:CD_Tenerife ,
+		dbpedia:FC_Barcelona ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s__10> ,
+		<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s__1> ,
+		<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s__2> ,
+		<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s__4> ,
+		<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s__5> ,
+		<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s__7> ,
+		<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s__8> ,
+		<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s__9> ,
+		<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s__6> ,
+		<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s__3> ;
+	dbpprop:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbpedia-owl:height	1.8300000000000000711 .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s>	ns21:height	"183.0"^^ns19:centimetre ;
+	dbpprop:currentclub	dbpedia:FC_Barcelona ;
+	dbpprop:clubnumber	1 ;
+	dbpprop:fullname	"V\u00EDctor Vald\u00E9s i Arribas" ;
+	dbpprop:clubs	dbpedia:FC_Barcelona ,
+		dbpedia:FC_Barcelona_C ,
+		dbpedia:FC_Barcelona_B ,
+		dbpedia:AS_Monaco_FC ;
+	dbpedia-owl:team	dbpedia:FC_Barcelona ,
+		dbpedia:Spain_national_under-20_football_team ,
+		dbpedia:Spain_national_under-19_football_team ,
+		dbpedia:FC_Barcelona_C ,
+		dbpedia:FC_Barcelona_B ,
+		dbpedia:AS_Monaco_FC ,
+		dbpedia:Spain_national_under-18_football_team ,
+		dbpedia:CD_Tenerife .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Spain squads" ,
+		"Awards" ;
+	dbpprop:pcupdate	"--03-27+02:00"^^xsd:gMonthDay ;
+	dbpprop:youthyears	1992 ,
+		1995 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.fifa.com/worldcup/archive/southafrica2010/players/player=217839/index.html> ,
+		<http://www.bdfutbol.com/en/j/j2595.html> .
+@prefix ns23:	<http://www.fcbarcelona.com/football/first-team/staff/players/v-valdes/> .
+<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s>	dbpedia-owl:wikiPageExternalLink	ns23:biography ,
+		<http://www.bdfutbol.com/en/p/j2595.html?cat=SEL> ;
+	dbpprop:bordercolor	"Black" ;
+	dbpprop:fg	"#fbea0e" ,
+		"Black" ;
+	dbpprop:nationalcaps	11 ,
+		20 ,
+		3 ,
+		1 ,
+		12 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:Spain_national_under-20_football_team ,
+		dbpedia:Catalonia_national_football_team ,
+		dbpedia:Spain_national_under-19_football_team ,
+		dbpedia:Spain_national_under-21_football_team ,
+		dbpedia:Spain_national_under-18_football_team ,
+		dbpedia:Spain_national_football_team ;
+	dbpprop:nationalyears	2010 ,
+		2000 ,
+		2001 ,
+		2002 ;
+	dbpedia-owl:number	1 ;
+	dbpprop:ntupdate	"--09-11+02:00"^^xsd:gMonthDay ;
+	dbpprop:align	"left" ;
+	dbpprop:quote	"\"For me, the three best goalkeepers in the world are Casillas, Buffon, and Valdes.\"" ,
+		"\"For me, Valdes is the best in the world. When Barca need calm, he transmits that. He also has great capacity and handling.\"" ;
+	dbpprop:source	"Bodo Illgner, February 2013" ,
+		"Jos\u00E9 Luis Chilavert, February 2012" .
+dbpedia:UEFA_Euro_2012_squads	dbpprop:name	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+dbpedia:Víctor_Valdés	owl:sameAs	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2001%E2%80%9302_FC_Barcelona_season__V%C3%ADctor_Vald%C3%A9s__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2002%E2%80%9303_FC_Barcelona_season__V%C3%ADctor_Vald%C3%A9s__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2003%E2%80%9304_FC_Barcelona_season__V%C3%ADctor_Vald%C3%A9s__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2004%E2%80%9305_FC_Barcelona_season__V%C3%ADctor_Vald%C3%A9s__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2005%E2%80%9306_FC_Barcelona_season__V%C3%ADctor_Vald%C3%A9s__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s_Arribas>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/V._Vald%C3%A9s>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/V._Valdes>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/Victor_Vald%C3%A9s>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+dbpedia:Victor_Valdes	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+dbpedia:Victor_Valdes_Arribas	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+dbpedia:Victor_valdez	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2011%E2%80%9312_La_Liga>	dbpprop:bestGoalkeeper	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+dbpedia:Catalonia_national_football_team	dbpprop:name	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+dbpedia:FC_Barcelona	dbpprop:gk	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> ;
+	dbpprop:name	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2001%E2%80%9302_FC_Barcelona_season>	dbpprop:name	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2002%E2%80%9303_FC_Barcelona_season>	dbpprop:name	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2011%E2%80%9312_FC_Barcelona_season>	dbpprop:p	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2012%E2%80%9313_FC_Barcelona_season>	dbpprop:p	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2013%E2%80%9314_FC_Barcelona_season>	dbpprop:p	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2004%E2%80%9305_FC_Barcelona_season>	dbpprop:name	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2005%E2%80%9306_FC_Barcelona_season>	dbpprop:name	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .
+<http://dbpedia.org/resource/2009_FIFA_Club_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/V%C3%ADctor_Vald%C3%A9s> .

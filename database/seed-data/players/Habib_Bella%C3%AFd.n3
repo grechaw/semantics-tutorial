@@ -1,0 +1,259 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Habib_Bellaïd	foaf:primaryTopic	<http://dbpedia.org/resource/Habib_Bella%C3%AFd> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:MC_Alger	dbpprop:name	<http://dbpedia.org/resource/Habib_Bella%C3%AFd> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Habib_Bella%C3%AFd>	rdf:type	yago:FrenchPeopleOfAlgerianDescent ,
+		yago:RCStrasbourgPlayers ,
+		yago:FranceYouthInternationalFootballers ,
+		yago:AlgerianFootballers ,
+		yago:AlgeriaInternationalFootballers ,
+		yago:AlgerianExpatriateFootballers ,
+		yago:USBoulognePlayers .
+@prefix ns6:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Habib_Bella%C3%AFd>	rdf:type	ns6:Q215627 ,
+		<http://dbpedia.org/class/yago/2.Fu%C3%9Fball-BundesligaPlayers> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Habib_Bella%C3%AFd>	rdf:type	owl:Thing ,
+		yago:Ligue2Players ,
+		yago:Whole100003553 .
+@prefix ns8:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Habib_Bella%C3%AFd>	rdf:type	ns8:Athlete ,
+		yago:INFClairefontainePlayers ,
+		yago:PeopleFromBobigny ,
+		yago:Object100002684 .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Habib_Bella%C3%AFd>	rdf:type	dbpedia-owl:SoccerPlayer .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Habib_Bella%C3%AFd>	rdf:type	dul:NaturalPerson ,
+		<http://dbpedia.org/class/yago/Fu%C3%9Fball-BundesligaPlayers> ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> .
+@prefix ns11:	<http://schema.org/> .
+<http://dbpedia.org/resource/Habib_Bella%C3%AFd>	rdf:type	ns11:Person ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		dul:Agent ,
+		yago:Ligue1Players ,
+		ns6:Q5 ,
+		dbpedia-owl:Athlete ,
+		yago:AssociationFootballDefenders ,
+		dbpedia-owl:Person ,
+		dbpedia-owl:Agent ,
+		foaf:Person ,
+		yago:EintrachtFrankfurtPlayers ,
+		yago:ExpatriateFootballersInGermany ,
+		yago:Preserver110466918 ,
+		yago:FranceUnder-21InternationalFootballers ,
+		yago:FrenchPeopleOfArabDescent ,
+		yago:Defender109614684 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:FootballPlayer110101634 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:Athlete109820263 ,
+		yago:FrenchPeopleOfTunisianDescent ,
+		yago:Player110439851 ,
+		yago:AlgerianExpatriatesInGermany ,
+		ns8:SoccerPlayer ,
+		yago:CSSedanArdennesPlayers ,
+		yago:Contestant109613191 ,
+		yago:PhysicalEntity100001930 .
+@prefix ns12:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Habib_Bella%C3%AFd>	owl:sameAs	ns12:Habib_Bellaïd ,
+		<http://dbpedia.org/resource/Habib_Bella%C3%AFd> ,
+		<http://rdf.freebase.com/ns/m.026ls21> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Habib_Bella%C3%AFd>	rdfs:label	"\u0411\u0435\u043B\u043B\u0430\u0438\u0434, \u0425\u0430\u0431\u0438\u0431"@ru ,
+		"\u54C8\u6BD4\u00B7\u6BD4\u9023\u7279"@zh ,
+		"Habib Bella\u00EFd"@fr ,
+		"Habib Bella\u00EFd"@de ,
+		"Habib Bella\u00EFd"@pt ,
+		"Habib Bella\u00EFd" ,
+		"Habib Bella\u00EFd"@pl ,
+		"\u30A2\u30D3\u30D6\u30FB\u30D9\u30E9\u30A4\u30C9"@ja ,
+		"Habib Bella\u00EFd"@nl ,
+		"Habib Bella\u00EFd"@it ,
+		"\u062D\u0628\u064A\u0628 \u0628\u0644\u0639\u064A\u062F"@ar ,
+		"Habib Bella\u00EFd"@es .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Habib_Bella%C3%AFd>	dcterms:subject	category:Algeria_international_footballers ,
+		category:Algerian_expatriate_footballers ,
+		category:French_people_of_Tunisian_descent ,
+		category:INF_Clairefontaine_players ,
+		category:France_youth_international_footballers ,
+		category:Ligue_2_players ,
+		category:US_Boulogne_players ,
+		category:Algerian_people_of_Tunisian_descent ,
+		category:Algerian_expatriates_in_Germany ,
+		category:People_from_Bobigny ,
+		category:Ligue_1_players ,
+		category:RC_Strasbourg_players ,
+		category:CS_Sedan_Ardennes_players ,
+		category:Association_football_defenders ,
+		category:Living_people ,
+		category:Expatriate_footballers_in_Germany ,
+		category:Bundesliga_players ,
+		category:Eintracht_Frankfurt_players ,
+		<http://dbpedia.org/resource/Category:2._Bundesliga_players> ,
+		<http://dbpedia.org/resource/Category:1986_births> ,
+		category:Algerian_footballers ,
+		category:France_under-21_international_footballers ,
+		category:French_people_of_Algerian_descent ,
+		category:MC_Alger_players ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Habib_Bella%C3%AFd>	dc:description	"Algerian footballer" ,
+		"Algerian footballer" ;
+	foaf:givenName	"Habib" ;
+	foaf:name	"Habib Bella\u00EFd" ,
+		"Habib Mohamed Bella\u00EFd" ,
+		"Bella\u00EFd, Habib" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Habib_Bella%C3%AFd>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Habib_Bella\u00EFd?oldid=563834022> ;
+	rdfs:comment	"Habib Mohamed Bella\u00EFd (Bobigny, 28 marzo 1986) \u00E8 un calciatore francese naturalizzato algerino, difensore del Sedan."@it ,
+		"\u54C8\u6BD4\u00B7\u7A46\u7F55\u9ED8\u5FB7\u00B7\u6BD4\u9023\u7279\uFF08Habib Mohamed Bella\u00EFd\uFF0C1986\u5E743\u670828\u65E5\uFF0D\uFF09\u51FA\u751F\u65BC\u6CD5\u570B\u6CE2\u6BD4\u5C3C\uFF0C\u963F\u723E\u53CA\u5229\u4E9E\u7C4D\u7A81\u5C3C\u897F\u4E9E\u88D4\u8DB3\u7403\u54E1\uFF0C\u53F8\u8077\u5F8C\u885B\uFF0C\u73FE\u6548\u529B\u5FB7\u7532\u7403\u6703\u6CD5\u862D\u514B\u798F\u3002"@zh ,
+		"Habib Mohamed Bella\u00EFd (born 28 March 1986) is an Algerian footballer who plays for Algerian Ligue Professionnelle 1 side MC Alger as a centre back.An Algerian international, Bella\u00EFd was part of the Algeria squad at the 2010 FIFA World Cup in South Africa. As of June 2013, he has one cap." ,
+		"|\u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F = |- style=\"background:#eeeeff;\"| 2001\u20142002 | \u0424\u043B\u0430\u0433 \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u044F (\u0434\u043E 16 \u043B\u0435\u0442)| 15 (1)|-|- style=\"background:#f0f8ff;\"| 2002\u20142003 | \u0424\u043B\u0430\u0433 \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u044F (\u0434\u043E 17 \u043B\u0435\u0442)| 14 (0)|-|- style=\"background:#eeeeff;\"| 2003\u20142004 | \u0424\u043B\u0430\u0433 \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u044F (\u0434\u043E 18 \u043B\u0435\u0442)| 4 (0)|-|- style=\"background:#f0f8ff;\"| 2004\u20142005 | \u0424\u043B\u0430\u0433 \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u044F (\u0434\u043E 19 \u043B\u0435\u0442)| 2 (0)|-|- style=\"background:#eeeeff;\"| 2006\u20142008 | \u0424\u043B\u0430\u0433 \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u044F (\u0434\u043E 21 \u0433\u043E\u0434\u0430)| 16 (2)|-|- style=\"background:#f0f8ff;\"| 2010 | \u0424\u043B\u0430\u0433 \u0410\u043B\u0436\u0438\u0440\u0430 \u0410\u043B\u0436\u0438\u0440| 1 (0)|-|\u043E\u0431\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u0445 \u043E \u043A\u043B\u0443\u0431\u0435 = 6 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 2011|\u043E\u0431\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u0445 \u043E \u0441\u0431\u043E\u0440\u043D\u043E\u0439 = 6 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 2011}}\u0425\u0430\u0431\u0438\u0431 \u041C\u043E\u0445\u0430\u043C\u0435\u0434 \u0411\u0435\u043B\u043B\u0430\u0438\u0434 (\u0430\u0440\u0430\u0431. "@ru ,
+		"\u30A2\u30D3\u30FB\u30D9\u30E9\u30A4\uFF08Habib Bella\u00EFd, 1986\u5E743\u670828\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u30FB\u30BB\u30FC\u30CC\uFF1D\u30B5\u30F3\uFF1D\u30C9\u30CB\u770C\u30DC\u30D3\u30CB\u30FC\u51FA\u8EAB\u306E\u30A2\u30EB\u30B8\u30A7\u30EA\u30A2\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002\u30C1\u30E5\u30CB\u30B8\u30A2\u3001\u30A2\u30EB\u30B8\u30A7\u30EA\u30A2\u306B\u30EB\u30FC\u30C4\u3092\u6301\u3064\u3002"@ja ,
+		"Habib Mohamed Bella\u00EFd (Bobigny, 28 maart 1986) is een Algerijns-Frans professioneel voetballer die momenteel als centraal verdediger actief is voor MC Alger."@nl ,
+		"Habib Mohamed Bella\u00EFd - em \u00E1rabe, \u062D\u0628\u064A\u0628 \u0645\u062D\u0645\u062F \u0628\u0644\u0639\u064A\u062F (Bobigny, 28 de mar\u00E7o de 1986) - \u00E9 um futebolista franc\u00EAs que atua como defensor. De origem argelina, atua no Eintracht Frankfurt."@pt ,
+		"Habib Bella\u00EFd (nacido el 28 de marzo de 1986 en Bobigny, Francia) es un futbolista franc\u00E9s, de origen tunecino. pero de nacionalidad argelina que juega como defensa en el Eintracht Frankfurt de la 2. Bundesliga."@es ,
+		"Habib Bella\u00EFd (ur. 28 marca 1986 w Bobigny) \u2013 algierski pi\u0142karz wyst\u0119puj\u0105cy na pozycji obro\u0144cy w CS Sedan."@pl ,
+		"Habib Bella\u00EFd est un footballeur alg\u00E9rien poss\u00E9dant \u00E9galement la nationalit\u00E9 fran\u00E7aise et tunisienne n\u00E9 le 28 mars 1986 \u00E0 Bobigny. Il \u00E9volue au poste de d\u00E9fenseur central au MC Alger."@fr ,
+		"Habib Mohamed Bella\u00EFd (arabisch \u200F\u062D\u0628\u064A\u0628 \u0628\u0644\u0639\u064A\u062F\u200E, DMG \u1E24ab\u012Bb Bil\u02BFaid; * 28. M\u00E4rz 1986 in Bobigny) ist ein franz\u00F6sisch-algerischer Fu\u00DFballspieler."@de ,
+		"\u062D\u0628\u064A\u0628 \u0645\u062D\u0645\u062F \u0628\u0644\u0639\u064A\u062F (\u0645\u0648\u0627\u0644\u064A\u062F 28 \u0645\u0627\u0631\u0633 1986 \u0641\u064A \u0628\u0648\u0628\u064A\u0646\u064A\u064A - \u0641\u0631\u0646\u0633\u0627) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u062C\u0632\u0627\u0626\u0631\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0633\u064A\u062F\u0627\u0646 \u0641\u064A \u0627\u0644\u062F\u0648\u0631\u064A \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u062B\u0627\u0646\u064A\u0629 \u0645\u0646\u0630 2010 \u0641\u064A \u0645\u0631\u0643\u0632 \u0642\u0644\u0628 \u0627\u0644\u062F\u0641\u0627\u0639.\u0648\u0644\u062F \u0644\u0623\u0628 \u062A\u0648\u0646\u0633\u064A \u0648\u0623\u0645 \u062C\u0632\u0627\u0626\u0631\u064A\u0629.\u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u062C\u0632\u0627\u0626\u0631 \u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u062C\u0632\u0627\u0626\u0631"@ar ;
+	foaf:surname	"Bella\u00EFd" ;
+	foaf:isPrimaryTopicOf	ns1:Habib_Bellaïd .
+@prefix ns18:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Habib_Bella%C3%AFd>	dbpprop:hasPhotoCollection	ns18:Habib_Bellaïd ;
+	dbpprop:name	"Habib Bella\u00EFd" ,
+		"Bella\u00EFd, Habib" ;
+	dbpedia-owl:abstract	"Habib Mohamed Bella\u00EFd (arabisch \u200F\u062D\u0628\u064A\u0628 \u0628\u0644\u0639\u064A\u062F\u200E, DMG \u1E24ab\u012Bb Bil\u02BFaid; * 28. M\u00E4rz 1986 in Bobigny) ist ein franz\u00F6sisch-algerischer Fu\u00DFballspieler."@de ,
+		"Habib Mohamed Bella\u00EFd - em \u00E1rabe, \u062D\u0628\u064A\u0628 \u0645\u062D\u0645\u062F \u0628\u0644\u0639\u064A\u062F (Bobigny, 28 de mar\u00E7o de 1986) - \u00E9 um futebolista franc\u00EAs que atua como defensor. De origem argelina, atua no Eintracht Frankfurt."@pt ,
+		"\u54C8\u6BD4\u00B7\u7A46\u7F55\u9ED8\u5FB7\u00B7\u6BD4\u9023\u7279\uFF08Habib Mohamed Bella\u00EFd\uFF0C1986\u5E743\u670828\u65E5\uFF0D\uFF09\u51FA\u751F\u65BC\u6CD5\u570B\u6CE2\u6BD4\u5C3C\uFF0C\u963F\u723E\u53CA\u5229\u4E9E\u7C4D\u7A81\u5C3C\u897F\u4E9E\u88D4\u8DB3\u7403\u54E1\uFF0C\u53F8\u8077\u5F8C\u885B\uFF0C\u73FE\u6548\u529B\u5FB7\u7532\u7403\u6703\u6CD5\u862D\u514B\u798F\u3002"@zh ,
+		"\u062D\u0628\u064A\u0628 \u0645\u062D\u0645\u062F \u0628\u0644\u0639\u064A\u062F (\u0645\u0648\u0627\u0644\u064A\u062F 28 \u0645\u0627\u0631\u0633 1986 \u0641\u064A \u0628\u0648\u0628\u064A\u0646\u064A\u064A - \u0641\u0631\u0646\u0633\u0627) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u062C\u0632\u0627\u0626\u0631\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0633\u064A\u062F\u0627\u0646 \u0641\u064A \u0627\u0644\u062F\u0648\u0631\u064A \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u062B\u0627\u0646\u064A\u0629 \u0645\u0646\u0630 2010 \u0641\u064A \u0645\u0631\u0643\u0632 \u0642\u0644\u0628 \u0627\u0644\u062F\u0641\u0627\u0639.\u0648\u0644\u062F \u0644\u0623\u0628 \u062A\u0648\u0646\u0633\u064A \u0648\u0623\u0645 \u062C\u0632\u0627\u0626\u0631\u064A\u0629.\u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u062C\u0632\u0627\u0626\u0631 \u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u062C\u0632\u0627\u0626\u0631"@ar ,
+		"Habib Mohamed Bella\u00EFd (born 28 March 1986) is an Algerian footballer who plays for Algerian Ligue Professionnelle 1 side MC Alger as a centre back.An Algerian international, Bella\u00EFd was part of the Algeria squad at the 2010 FIFA World Cup in South Africa. As of June 2013, he has one cap." ,
+		"|\u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F = |- style=\"background:#eeeeff;\"| 2001\u20142002 | \u0424\u043B\u0430\u0433 \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u044F (\u0434\u043E 16 \u043B\u0435\u0442)| 15 (1)|-|- style=\"background:#f0f8ff;\"| 2002\u20142003 | \u0424\u043B\u0430\u0433 \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u044F (\u0434\u043E 17 \u043B\u0435\u0442)| 14 (0)|-|- style=\"background:#eeeeff;\"| 2003\u20142004 | \u0424\u043B\u0430\u0433 \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u044F (\u0434\u043E 18 \u043B\u0435\u0442)| 4 (0)|-|- style=\"background:#f0f8ff;\"| 2004\u20142005 | \u0424\u043B\u0430\u0433 \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u044F (\u0434\u043E 19 \u043B\u0435\u0442)| 2 (0)|-|- style=\"background:#eeeeff;\"| 2006\u20142008 | \u0424\u043B\u0430\u0433 \u0424\u0440\u0430\u043D\u0446\u0438\u0438 \u0424\u0440\u0430\u043D\u0446\u0438\u044F (\u0434\u043E 21 \u0433\u043E\u0434\u0430)| 16 (2)|-|- style=\"background:#f0f8ff;\"| 2010 | \u0424\u043B\u0430\u0433 \u0410\u043B\u0436\u0438\u0440\u0430 \u0410\u043B\u0436\u0438\u0440| 1 (0)|-|\u043E\u0431\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u0445 \u043E \u043A\u043B\u0443\u0431\u0435 = 6 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 2011|\u043E\u0431\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435 \u0434\u0430\u043D\u043D\u044B\u0445 \u043E \u0441\u0431\u043E\u0440\u043D\u043E\u0439 = 6 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 2011}}\u0425\u0430\u0431\u0438\u0431 \u041C\u043E\u0445\u0430\u043C\u0435\u0434 \u0411\u0435\u043B\u043B\u0430\u0438\u0434 (\u0430\u0440\u0430\u0431. \u062D\u0628\u064A\u0628 \u0628\u0644\u0639\u064A\u062F\u200E\u200E, \u0444\u0440. Habib Mohamed Bella\u00EFd; 28 \u043C\u0430\u0440\u0442\u0430 1986, \u0411\u043E\u0431\u0438\u043D\u044C\u0438, \u0424\u0440\u0430\u043D\u0446\u0438\u044F) \u2014 \u0430\u043B\u0436\u0438\u0440\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0438\u0439 \u0437\u0430 \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439 \u043A\u043B\u0443\u0431 \u00AB\u0410\u0439\u043D\u0442\u0440\u0430\u0445\u0442\u00BB \u0438 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0443\u044E \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u0410\u043B\u0436\u0438\u0440\u0430. \u0411\u0435\u043B\u043B\u0430\u0438\u0434 \u043E\u0431\u044B\u0447\u043D\u043E \u0438\u0433\u0440\u0430\u0435\u0442 \u043D\u0430 \u043F\u043E\u0437\u0438\u0446\u0438\u0438 \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u043E\u0433\u043E \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A\u0430."@ru ,
+		"\u30A2\u30D3\u30FB\u30D9\u30E9\u30A4\uFF08Habib Bella\u00EFd, 1986\u5E743\u670828\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u30FB\u30BB\u30FC\u30CC\uFF1D\u30B5\u30F3\uFF1D\u30C9\u30CB\u770C\u30DC\u30D3\u30CB\u30FC\u51FA\u8EAB\u306E\u30A2\u30EB\u30B8\u30A7\u30EA\u30A2\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002\u30C1\u30E5\u30CB\u30B8\u30A2\u3001\u30A2\u30EB\u30B8\u30A7\u30EA\u30A2\u306B\u30EB\u30FC\u30C4\u3092\u6301\u3064\u3002"@ja ,
+		"Habib Bella\u00EFd est un footballeur alg\u00E9rien poss\u00E9dant \u00E9galement la nationalit\u00E9 fran\u00E7aise et tunisienne n\u00E9 le 28 mars 1986 \u00E0 Bobigny. Il \u00E9volue au poste de d\u00E9fenseur central au MC Alger."@fr ,
+		"Habib Mohamed Bella\u00EFd (Bobigny, 28 maart 1986) is een Algerijns-Frans professioneel voetballer die momenteel als centraal verdediger actief is voor MC Alger."@nl ,
+		"Habib Mohamed Bella\u00EFd (Bobigny, 28 marzo 1986) \u00E8 un calciatore francese naturalizzato algerino, difensore del Sedan."@it ,
+		"Habib Bella\u00EFd (nacido el 28 de marzo de 1986 en Bobigny, Francia) es un futbolista franc\u00E9s, de origen tunecino. pero de nacionalidad argelina que juega como defensa en el Eintracht Frankfurt de la 2. Bundesliga."@es ,
+		"Habib Bella\u00EFd (ur. 28 marca 1986 w Bobigny) \u2013 algierski pi\u0142karz wyst\u0119puj\u0105cy na pozycji obro\u0144cy w CS Sedan."@pl ;
+	dbpedia-owl:wikiPageID	7966716 ;
+	dbpedia-owl:wikiPageRevisionID	563834022 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Habib_Bella%C3%AFd>	dbpprop:birthDate	"1986-03-28+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Bobigny, France" ;
+	dbpprop:dateOfBirth	"1986-03-28+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Bobigny, France" ;
+	dbpprop:shortDescription	"Algerian footballer" ;
+	dbpedia-owl:birthDate	"1986-03-28+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Bobigny ;
+	dbpedia-owl:birthYear	"1986+02:00"^^xsd:gYear ;
+	dbpprop:goals	2 ,
+		0 ;
+	dbpprop:caps	22 ,
+		23 ,
+		28 ,
+		0 ,
+		13 ,
+		9 ,
+		78 ;
+	dbpprop:years	2005 ,
+		2010 ,
+		2008 ,
+		2009 ,
+		2012 ,
+		2013 ;
+	dbpprop:youthclubs	dbpedia:RC_Strasbourg ,
+		dbpedia:Clairefontaine ,
+		<http://dbpedia.org/resource/Red_Star_F.C.> ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Habib_Bella%C3%AFd__7> ,
+		<http://dbpedia.org/resource/Habib_Bella%C3%AFd__12> ,
+		<http://dbpedia.org/resource/Habib_Bella%C3%AFd__6> ,
+		<http://dbpedia.org/resource/Habib_Bella%C3%AFd__5> ,
+		<http://dbpedia.org/resource/Habib_Bella%C3%AFd__4> ,
+		<http://dbpedia.org/resource/Habib_Bella%C3%AFd__11> ,
+		<http://dbpedia.org/resource/Habib_Bella%C3%AFd__10> ,
+		<http://dbpedia.org/resource/Habib_Bella%C3%AFd__2> ,
+		<http://dbpedia.org/resource/Habib_Bella%C3%AFd__1> ,
+		<http://dbpedia.org/resource/Habib_Bella%C3%AFd__3> ,
+		<http://dbpedia.org/resource/Habib_Bella%C3%AFd__13> ,
+		<http://dbpedia.org/resource/Habib_Bella%C3%AFd__9> ,
+		<http://dbpedia.org/resource/Habib_Bella%C3%AFd__8> ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.8899999999999999023 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Habib_Bella%C3%AFd>	ns21:height	"189.0"^^ns20:centimetre ;
+	dbpprop:currentclub	dbpedia:MC_Alger ;
+	dbpprop:clubnumber	"TBA" ;
+	dbpprop:fullname	"Habib Mohamed Bella\u00EFd" ;
+	dbpprop:clubs	dbpedia:MC_Alger ,
+		"\u2192 Boulogne" ,
+		dbpedia:Eintracht_Frankfurt ,
+		dbpedia:CS_Sedan_Ardennes ,
+		"\u2192 Sedan" ,
+		dbpedia:RC_Strasbourg ,
+		"\u2192 Strasbourg" ;
+	dbpedia-owl:team	dbpedia:MC_Alger ,
+		dbpedia:Clairefontaine ,
+		dbpedia:Eintracht_Frankfurt ,
+		dbpedia:France_national_under-17_football_team ,
+		dbpedia:France_national_under-18_football_team ,
+		dbpedia:France_national_under-16_football_team ,
+		dbpedia:CS_Sedan_Ardennes ,
+		dbpedia:RC_Strasbourg ,
+		dbpedia:US_Boulogne ,
+		<http://dbpedia.org/resource/Red_Star_F.C.> .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Habib_Bella%C3%AFd>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:youthyears	1994 ,
+		1999 ,
+		2002 ;
+	dbpprop:clubUpdate	"--06-19+02:00"^^xsd:gMonthDay ;
+	dbpprop:nationalteamUpdate	"--06-19+02:00"^^xsd:gMonthDay ;
+	dbpprop:nationalcaps	4 ,
+		2 ,
+		1 ,
+		14 ,
+		15 ,
+		16 ;
+	dbpprop:nationalgoals	0 ,
+		1 ,
+		2 ;
+	dbpprop:nationalteam	dbpedia:France_national_football_team ,
+		dbpedia:France_national_under-19_football_team ,
+		dbpedia:Algeria_national_football_team ,
+		dbpedia:France_national_under-17_football_team ,
+		dbpedia:France_national_under-18_football_team ,
+		dbpedia:France_national_under-16_football_team ;
+	dbpprop:nationalyears	2010 ,
+		2004 ,
+		2006 ,
+		2001 ,
+		2002 ,
+		2003 .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Habib_Bella%C3%AFd> .
+dbpedia:List_of_German_football_transfers_summer_2008	dbpprop:name	<http://dbpedia.org/resource/Habib_Bella%C3%AFd> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Habib_Bella%C3%AFd> .
+<http://dbpedia.org/resource/List_of_German_football_transfers_winter_2009%E2%80%9310>	dbpprop:name	<http://dbpedia.org/resource/Habib_Bella%C3%AFd> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Habib_Bella%C3%AFd> .
+dbpedia:List_of_German_football_transfers_summer_2010	dbpprop:name	<http://dbpedia.org/resource/Habib_Bella%C3%AFd> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Habib_Bella%C3%AFd> .
+dbpedia:Habib_Bellaïd	owl:sameAs	<http://dbpedia.org/resource/Habib_Bella%C3%AFd> .
+<http://dbpedia.org/resource/MC_Alger__Habib_Bella%C3%AFd__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Habib_Bella%C3%AFd> .
+dbpedia:Habib_Bellaid	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Habib_Bella%C3%AFd> .
+dbpedia:List_of_German_football_transfers_summer_2009	dbpprop:name	<http://dbpedia.org/resource/Habib_Bella%C3%AFd> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Habib_Bella%C3%AFd> .

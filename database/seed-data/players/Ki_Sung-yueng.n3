@@ -1,0 +1,277 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Ki_Sung-yueng	foaf:primaryTopic	dbpedia:Ki_Sung-yueng .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Ki_Sung-Yueng	dbpedia-owl:wikiPageRedirects	dbpedia:Ki_Sung-yueng .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2007_FIFA_U-20_World_Cup_squads>	dbpprop:name	dbpedia:Ki_Sung-yueng .
+dbpedia:South_Korea_national_football_team	dbpprop:name	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/2006_FC_Seoul_season>	dbpprop:name	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/2007_FC_Seoul_season>	dbpprop:name	dbpedia:Ki_Sung-yueng ;
+	dbpprop:text	dbpedia:Ki_Sung-yueng ;
+	dbpprop:p	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Ki_Sung-yueng .
+dbpedia:South_Korea_at_the_2012_Summer_Olympics	dbpprop:r6c	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/2009_FC_Seoul_season>	dbpprop:name	dbpedia:Ki_Sung-yueng ;
+	dbpprop:text	dbpedia:Ki_Sung-yueng ;
+	dbpprop:p	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/2008_FC_Seoul_season>	dbpprop:name	dbpedia:Ki_Sung-yueng ;
+	dbpprop:text	dbpedia:Ki_Sung-yueng ;
+	dbpprop:p	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/2009_South_Korea_national_football_team_season>	dbpprop:away8player	dbpedia:Ki_Sung-yueng ;
+	dbpprop:home8player	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/Sunderland_A.F.C.>	dbpprop:name	dbpedia:Ki_Sung-yueng .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbpedia:Ki_Sung-yueng	rdf:type	dbpedia-owl:SoccerPlayer ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Person .
+@prefix ns6:	<http://schema.org/> .
+dbpedia:Ki_Sung-yueng	rdf:type	ns6:Person .
+@prefix ns7:	<http://wikidata.dbpedia.org/resource/> .
+dbpedia:Ki_Sung-yueng	rdf:type	ns7:Q5 ,
+		foaf:Person .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Ki_Sung-yueng	rdf:type	dul:Agent ,
+		dul:NaturalPerson ,
+		ns7:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbpedia:Ki_Sung-yueng	rdf:type	owl:Thing ,
+		dbpedia-owl:Athlete .
+@prefix ns10:	<http://pl.dbpedia.org/resource/> .
+dbpedia:Ki_Sung-yueng	owl:sameAs	ns10:Ki_Sung-yong .
+@prefix ns11:	<http://ko.dbpedia.org/resource/> .
+dbpedia:Ki_Sung-yueng	owl:sameAs	ns11:기성용 .
+@prefix ns12:	<http://id.dbpedia.org/resource/> .
+dbpedia:Ki_Sung-yueng	owl:sameAs	ns12:Ki_Sung-Yueng .
+@prefix ns13:	<http://ja.dbpedia.org/resource/> .
+dbpedia:Ki_Sung-yueng	owl:sameAs	ns13:奇誠庸 .
+@prefix ns14:	<http://fr.dbpedia.org/resource/> .
+dbpedia:Ki_Sung-yueng	owl:sameAs	ns14:Ki_Sung-yueng .
+@prefix ns15:	<http://de.dbpedia.org/resource/> .
+dbpedia:Ki_Sung-yueng	owl:sameAs	ns15:Ki_Sung-yong ,
+		ns7:Q313083 .
+@prefix ns16:	<http://nl.dbpedia.org/resource/> .
+dbpedia:Ki_Sung-yueng	owl:sameAs	ns16:Ki_Sung-yong .
+@prefix ns17:	<http://it.dbpedia.org/resource/> .
+dbpedia:Ki_Sung-yueng	owl:sameAs	ns17:Ki_Sung-Yueng ,
+		dbpedia:Ki_Sung-yueng .
+@prefix ns18:	<http://wikidata.org/entity/> .
+dbpedia:Ki_Sung-yueng	owl:sameAs	ns18:Q313083 .
+@prefix ns19:	<http://pt.dbpedia.org/resource/> .
+dbpedia:Ki_Sung-yueng	owl:sameAs	ns19:Ki_Sung-Yueng .
+@prefix ns20:	<http://es.dbpedia.org/resource/> .
+dbpedia:Ki_Sung-yueng	owl:sameAs	ns20:Ki_Sung-Yong ,
+		<http://rdf.freebase.com/ns/m.02zbjhq> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Ki_Sung-yueng	rdfs:label	"\u0643\u064A \u0633\u0648\u0646\u063A-\u064A\u0648\u064A\u0646\u063A"@ar ,
+		"Ki Sung-yueng"@fr ,
+		"Ki Sung-Yueng"@it ,
+		"Ki Sung-yong"@de ,
+		"Ki Sung-yueng" ,
+		"\u5947\u8AA0\u5EB8"@ja ,
+		"Ki Sung-yong"@pl ,
+		"Ki Sung-Yong"@es ,
+		"Ki Sung-Yueng"@pt ,
+		"\u5947\u8BDA\u5EB8"@zh ,
+		"\u041A\u0438 \u0421\u043E\u043D \u0401\u043D"@ru ,
+		"Ki Sung-yong"@nl .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Ki_Sung-yueng	dcterms:subject	category:Expatriate_footballers_in_England ,
+		category:Expatriate_footballers_in_Wales ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:Swansea_City_A.F.C._players> ,
+		category:Footballers_at_the_2008_Summer_Olympics ,
+		category:FC_Seoul_players ,
+		category:Olympic_medalists_in_football ,
+		category:South_Korean_expatriate_footballers ,
+		category:Medalists_at_the_2012_Summer_Olympics ,
+		category:Footballers_at_the_2012_Summer_Olympics ,
+		category:South_Korean_footballers ,
+		<http://dbpedia.org/resource/Category:Celtic_F.C._players> ,
+		category:South_Korean_expatriates_in_the_United_Kingdom ,
+		category:South_Korean_expatriates_in_Scotland ,
+		category:South_Korea_international_footballers ,
+		category:South_Korean_Christians ,
+		category:Scottish_Premier_League_players ,
+		category:Expatriate_footballers_in_Scotland ,
+		<http://dbpedia.org/resource/Category:Sunderland_A.F.C._players> ,
+		category:Asian_Young_Footballer_of_the_Year_winners ,
+		category:South_Korean_expatriates_in_Wales ,
+		category:South_Korean_emigrants_to_Australia ,
+		<http://dbpedia.org/resource/Category:1989_births> ,
+		<http://dbpedia.org/resource/Category:2011_AFC_Asian_Cup_players> ,
+		category:Olympic_bronze_medalists_for_South_Korea ,
+		category:Olympic_footballers_of_South_Korea ,
+		category:People_from_Gwangju ,
+		category:K_League_players ,
+		category:Premier_League_players ,
+		category:Association_football_midfielders ,
+		category:South_Korean_expatriates_in_England ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Ki_Sung-Yueng_from_acrofan.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Ki_Sung-yueng	dc:description	"South Korean footballer" ,
+		"South Korean footballer" ;
+	foaf:givenName	"Sung-Yueng" ;
+	foaf:name	"Sung-Yueng Ki" ,
+		"Ki, Sung-Yueng" ,
+		"(\uAE30\uC131\uC6A9)" ,
+		"Ki Sung-Yueng" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Ki_Sung-yueng	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Ki_Sung-yueng?oldid=605018557> ;
+	rdfs:comment	"\u5947 \u8AA0\u5EB8\uFF08\u30AD\u30FB\u30BD\u30F3\u30E8\u30F3\u3001\uAE30\uC131\uC6A9\u30011989\u5E741\u670824\u65E5 - \uFF09\u306F\u3001\u97D3\u56FD\u51FA\u8EAB\u306E\u540C\u56FD\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002"@ja ,
+		"Ki Sung-Yueng (Korean: \uAE30\uC131\uC6A9, Korean pronunciation: [ki s\u02B0\u028C\u014Bjo\u014B]; born 24 January 1989) is a South Korean professional footballer who currently plays as a central midfielder for Premier League club Sunderland, on loan from Swansea City, and the South Korea national team.Ki is known for his vision, technique, long-range passing and shooting, along with his good set-pieces." ,
+		"Ki Sung-Yueng (ur. 24 stycznia 1989 w Kwangju, Korea Po\u0142udniowa) - pi\u0142karz po\u0142udniowokorea\u0144ski graj\u0105cy na pozycji pomocnika w Sunderland, do kt\u00F3rego jest wypo\u017Cyczony z Swansea City."@pl ,
+		"Ki Sung-yueng, n\u00E9 le 24 janvier 1989 \u00E0 Gwangju, est un footballeur international sud-cor\u00E9en qui \u00E9volue au poste de milieu de terrain \u00E0 Sunderland pr\u00EAt\u00E9 par Swansea City."@fr ,
+		"\u0643\u064A \u0633\u0648\u0646\u063A \u064A\u0648\u0646\u063A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Ki Sung-Yong) (\u0645\u0648\u0627\u0644\u064A\u062F 24 \u064A\u0646\u0627\u064A\u0631 1989 \u0641\u064A \u063A\u0648\u0627\u0646\u063A\u062C\u0648) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0648\u0631\u064A \u062C\u0646\u0648\u0628\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0641\u064A \u0646\u0627\u062F\u064A \u0633\u0648\u0627\u0646\u0632\u064A \u0633\u064A\u062A\u064A \u0627\u0644\u0648\u064A\u0644\u0632\u064A ."@ar ,
+		"Ki Sung-Yueng, noto anche come Ki Sung-Yong e David Ki (hang\u016Dl \uAE30\uC131\uC6A9?</span>; Gwangju, 24 gennaio 1989), \u00E8 un calciatore sudcoreano, centrocampista del Sunderland, in prestito dallo Swansea, e della Nazionale sudcoreana."@it ,
+		"\u5947\u8BDA\u5EB8\uFF08\u671D\u9BAE\u8A9E\uFF1A\uAE30\uC131\uC6A9\uFF0C1989\u5E741\u670824\u65E5\uFF0D\uFF09\uFF0C\u97E9\u56FD\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u53F8\u8077\u4E2D\u5834\u3002\u4ED6\u548C\u674E\u9752\u9F99\u90FD\u66FE\u6548\u529B\u4E8EFC\u9996\u5C14\uFF0C\u4E24\u4EBA\u88AB\u7403\u8FF7\u5408\u79F0\u4E3A\u9996\u5C14\u201C\u53CC\u9F99\u201D\uFF0C\u66FE\u5C31\u8B80\u65BC\u4EAC\u757F\u5927\u5B78\u793E\u6703\u9AD4\u80B2\u5B78\u7CFB\u3002\u73FE\u6642\u4EE5\u501F\u7528\u8EAB\u4EFD\u6548\u529B\u82F1\u8D85\u7403\u6703\u6851\u5FB7\u5170\u3002"@zh ,
+		"Ki Sung-yong (* 24. Januar 1989 in Gwangju) ist ein s\u00FCdkoreanischer Fu\u00DFballspieler."@de ,
+		"Ki Sung-Yong (en coreano: \uAE30\uC131\uC6A9, nacido el 24 de enero de 1989 en Gwangju, Corea del Sur), tambi\u00E9n conocido como Kirrard, David Ki o Ki Sung-Yueng, es un futbolista profesional surcoreano que actualmente juega como centrocampista para el Sunderland AFC de la Premier League de Inglaterra."@es ,
+		"Ki Sung-yong (Gwangju, 24 januari 1989) is een Zuid-Koreaans betaald voetballer die bij voorkeur op het middenveld speelt. Hij werd in 2009 verkozen tot 'Aziatisch Talent van het jaar'. Hij heeft een contract dat hem van augustus 2012 tot aan de zomer van 2017 verbindt aan Swansea City AFC."@nl ,
+		"\u041A\u0438 \u0421\u043E\u043D \u0401\u043D (\u043A\u043E\u0440. \uAE30\uC131\uC6A9?, \u5947\u8AA0\u5EB8?; 24 \u044F\u043D\u0432\u0430\u0440\u044F 1989, \u041A\u0432\u0430\u043D\u0434\u0436\u0443, \u042E\u0436\u043D\u0430\u044F \u041A\u043E\u0440\u0435\u044F) \u2014 \u044E\u0436\u043D\u043E\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442. \u0418\u0433\u0440\u043E\u043A \u0432\u0430\u043B\u043B\u0438\u0439\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0421\u0443\u043E\u043D\u0441\u0438 \u0421\u0438\u0442\u0438\u00BB \u0438 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0441\u0432\u043E\u0435\u0439 \u0441\u0442\u0440\u0430\u043D\u044B. \u0412 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u043D\u0430 \u043F\u0440\u0430\u0432\u0430\u0445 \u0430\u0440\u0435\u043D\u0434\u044B \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u0437\u0430 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u00AB\u0421\u0430\u043D\u0434\u0435\u0440\u043B\u0435\u043D\u0434\u00BB \u043D\u0430 \u043F\u043E\u0437\u0438\u0446\u0438\u0438 \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u043E\u0433\u043E \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A\u0430.\u041A\u0438 \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u043F\u0435\u0440\u0441\u043F\u0435\u043A\u0442\u0438\u0432\u043D\u044B\u0445 \u0430\u0437\u0438\u0430\u0442\u0441\u043A\u0438\u0445 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442\u043E\u0432 \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0441\u0442\u0438."@ru ,
+		"Ki Sung-Yeung (coreano: \uAE30\uC131\uC6A9; Gwangju, 24 de janeiro de 1989) \u00E9 um futebolista sul-coreano que atua como volante e atualmente defende o Sunderland."@pt ;
+	foaf:surname	"Ki" ;
+	foaf:isPrimaryTopicOf	ns1:Ki_Sung-yueng ;
+	dbpprop:name	"Ki Sung-Yueng" ,
+		"Ki, Sung-Yueng" ,
+		"(\uAE30\uC131\uC6A9)" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Ki_Sung-Yueng_from_acrofan.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u5947 \u8AA0\u5EB8\uFF08\u30AD\u30FB\u30BD\u30F3\u30E8\u30F3\u3001\uAE30\uC131\uC6A9\u30011989\u5E741\u670824\u65E5 - \uFF09\u306F\u3001\u97D3\u56FD\u51FA\u8EAB\u306E\u540C\u56FD\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002"@ja ,
+		"Ki Sung-yong (Gwangju, 24 januari 1989) is een Zuid-Koreaans betaald voetballer die bij voorkeur op het middenveld speelt. Hij werd in 2009 verkozen tot 'Aziatisch Talent van het jaar'. Hij heeft een contract dat hem van augustus 2012 tot aan de zomer van 2017 verbindt aan Swansea City AFC. In september 2004 debuteerde hij in het Zuid-Koreaans voetbalelftalDe 1,87 meter lange Ki Sung-yong maakte sinds seizoen 2006 van de K-League deel uit van FC Seoul en debuteerde op 5 september 2008 tegen Jordani\u00EB in de Zuid-Koreaanse nationale ploeg. Daarvoor was hij basisspeler in alle vier de wedstrijden van Zuid-Korea op het WK 2010. Ki Sung-yong maakte voor zijn debuut in het nationale team ook deel uit van de nationale selectie tot 20 jaar (2006-08) en die tot 23 jaar (2007-08).Tijdens het grootste gedeelte van zijn jeugd voetbalde Ki Sung-yong voor het Australische John Paul College in Brisbane, in het kader van het opleidingsproject Brain Sport Program (BSP). Hij droeg samen met land- en voormalig teamgenoot bij Seoul Lee Chung-yong de bijnaam Ssang Yong (Double Dragon)."@nl ,
+		"Ki Sung-Yueng (Korean: \uAE30\uC131\uC6A9, Korean pronunciation: [ki s\u02B0\u028C\u014Bjo\u014B]; born 24 January 1989) is a South Korean professional footballer who currently plays as a central midfielder for Premier League club Sunderland, on loan from Swansea City, and the South Korea national team.Ki is known for his vision, technique, long-range passing and shooting, along with his good set-pieces." ,
+		"\u041A\u0438 \u0421\u043E\u043D \u0401\u043D (\u043A\u043E\u0440. \uAE30\uC131\uC6A9?, \u5947\u8AA0\u5EB8?; 24 \u044F\u043D\u0432\u0430\u0440\u044F 1989, \u041A\u0432\u0430\u043D\u0434\u0436\u0443, \u042E\u0436\u043D\u0430\u044F \u041A\u043E\u0440\u0435\u044F) \u2014 \u044E\u0436\u043D\u043E\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442. \u0418\u0433\u0440\u043E\u043A \u0432\u0430\u043B\u043B\u0438\u0439\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0421\u0443\u043E\u043D\u0441\u0438 \u0421\u0438\u0442\u0438\u00BB \u0438 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0441\u0432\u043E\u0435\u0439 \u0441\u0442\u0440\u0430\u043D\u044B. \u0412 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u043D\u0430 \u043F\u0440\u0430\u0432\u0430\u0445 \u0430\u0440\u0435\u043D\u0434\u044B \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u0437\u0430 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u00AB\u0421\u0430\u043D\u0434\u0435\u0440\u043B\u0435\u043D\u0434\u00BB \u043D\u0430 \u043F\u043E\u0437\u0438\u0446\u0438\u0438 \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u043E\u0433\u043E \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A\u0430.\u041A\u0438 \u0441\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u043F\u0435\u0440\u0441\u043F\u0435\u043A\u0442\u0438\u0432\u043D\u044B\u0445 \u0430\u0437\u0438\u0430\u0442\u0441\u043A\u0438\u0445 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442\u043E\u0432 \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0441\u0442\u0438. \u0421\u0438\u043B\u044C\u043D\u044B\u043C\u0438 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0430\u043C\u0438 \u0421\u043E\u043D \u0401\u043D\u0430, \u043A\u0430\u043A \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442\u0430, \u044F\u0432\u043B\u044F\u044E\u0442\u0441\u044F \u043E\u0442\u043B\u0438\u0447\u043D\u043E\u0435 \u0432\u0438\u0434\u0435\u043D\u0438\u0435 \u043F\u043E\u043B\u044F, \u0442\u043E\u0447\u043D\u044B\u0439 \u0438 \u0441\u0438\u043B\u044C\u043D\u044B\u0439 \u0443\u0434\u0430\u0440, \u0443\u043C\u0435\u043B\u044B\u0439 \u0434\u0440\u0438\u0431\u043B\u0438\u043D\u0433, \u0437\u0430 \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043E\u0442 \u0431\u043E\u043B\u0435\u043B\u044C\u0449\u0438\u043A\u043E\u0432 \u0438 \u0441\u043F\u0435\u0446\u0438\u0430\u043B\u0438\u0441\u0442\u043E\u0432 \u043E\u043D \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u043F\u0440\u043E\u0437\u0432\u0438\u0449\u0435 \u00AB\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438\u0439 \u0421\u0442\u0438\u0432\u0435\u043D \u0414\u0436\u0435\u0440\u0440\u0430\u0440\u0434\u00BB. 22 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 2009 \u0433\u043E\u0434\u0430 \u041A\u0438 \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u043E\u0442 \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u043E\u0433\u043E \u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442-\u0440\u0435\u0441\u0443\u0440\u0441\u0430 \u00ABSky Sports\u00BB \u0441\u043A\u0430\u0443\u0442\u0441\u043A\u0438\u0439 \u0440\u0435\u0439\u0442\u0438\u043D\u0433 62/80, \u0447\u0442\u043E \u0441\u0434\u0435\u043B\u0430\u043B\u043E \u043A\u043E\u0440\u0435\u0439\u0446\u0430 \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u043B\u0430\u043A\u043E\u043C\u044B\u0445 \u043A\u0443\u0441\u043A\u043E\u0432 \u043D\u0430 \u043C\u0438\u0440\u043E\u0432\u043E\u043C \u0442\u0440\u0430\u043D\u0441\u0444\u0435\u0440\u043D\u043E\u043C \u0440\u044B\u043D\u043A\u0435.\u0421 2008 \u0433\u043E\u0434\u0430 \u0421\u043E\u043D \u0401\u043D \u0437\u0430\u0449\u0438\u0449\u0430\u0435\u0442 \u0446\u0432\u0435\u0442\u0430 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u042E\u0436\u043D\u043E\u0439 \u041A\u043E\u0440\u0435\u0438, \u043F\u0440\u043E\u0432\u0451\u043B \u0437\u0430 \u043D\u0435\u0451 57 \u043C\u0430\u0442\u0447\u0435\u0439, \u0437\u0430\u0431\u0438\u043B \u043F\u044F\u0442\u044C \u043C\u044F\u0447\u0435\u0439. \u0412 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u00AB\u0430\u0437\u0438\u0430\u0442\u0441\u043A\u0438\u0445 \u0442\u0438\u0433\u0440\u043E\u0432\u00BB \u041A\u0438 \u043F\u0440\u0438\u043D\u044F\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u043C\u0438\u0440\u0430 2010, \u041A\u0443\u0431\u043A\u0435 \u0410\u0437\u0438\u0438 2011 \u0433\u043E\u0434\u0430 \u0438 \u041E\u043B\u0438\u043C\u043F\u0438\u0439\u0441\u043A\u0438\u0445 \u0438\u0433\u0440\u0430\u0445 2008 \u0438 2012."@ru ,
+		"Ki Sung-Yueng (ur. 24 stycznia 1989 w Kwangju, Korea Po\u0142udniowa) - pi\u0142karz po\u0142udniowokorea\u0144ski graj\u0105cy na pozycji pomocnika w Sunderland, do kt\u00F3rego jest wypo\u017Cyczony z Swansea City."@pl ,
+		"\u5947\u8BDA\u5EB8\uFF08\u671D\u9BAE\u8A9E\uFF1A\uAE30\uC131\uC6A9\uFF0C1989\u5E741\u670824\u65E5\uFF0D\uFF09\uFF0C\u97E9\u56FD\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u53F8\u8077\u4E2D\u5834\u3002\u4ED6\u548C\u674E\u9752\u9F99\u90FD\u66FE\u6548\u529B\u4E8EFC\u9996\u5C14\uFF0C\u4E24\u4EBA\u88AB\u7403\u8FF7\u5408\u79F0\u4E3A\u9996\u5C14\u201C\u53CC\u9F99\u201D\uFF0C\u66FE\u5C31\u8B80\u65BC\u4EAC\u757F\u5927\u5B78\u793E\u6703\u9AD4\u80B2\u5B78\u7CFB\u3002\u73FE\u6642\u4EE5\u501F\u7528\u8EAB\u4EFD\u6548\u529B\u82F1\u8D85\u7403\u6703\u6851\u5FB7\u5170\u3002"@zh ,
+		"\u0643\u064A \u0633\u0648\u0646\u063A \u064A\u0648\u0646\u063A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Ki Sung-Yong) (\u0645\u0648\u0627\u0644\u064A\u062F 24 \u064A\u0646\u0627\u064A\u0631 1989 \u0641\u064A \u063A\u0648\u0627\u0646\u063A\u062C\u0648) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0648\u0631\u064A \u062C\u0646\u0648\u0628\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0641\u064A \u0646\u0627\u062F\u064A \u0633\u0648\u0627\u0646\u0632\u064A \u0633\u064A\u062A\u064A \u0627\u0644\u0648\u064A\u0644\u0632\u064A ."@ar ,
+		"Ki Sung-Yong (en coreano: \uAE30\uC131\uC6A9, nacido el 24 de enero de 1989 en Gwangju, Corea del Sur), tambi\u00E9n conocido como Kirrard, David Ki o Ki Sung-Yueng, es un futbolista profesional surcoreano que actualmente juega como centrocampista para el Sunderland AFC de la Premier League de Inglaterra. Conocido por su visi\u00F3n de juego y t\u00E9cnica, as\u00ED como por la precisi\u00F3n en jugadas a bal\u00F3n parado y pases, lo ha llevado a ser considerado como una de las mejores promesas del f\u00FAtbol de Corea del Sur junto con el ex del FC Seoul y compa\u00F1ero de selecci\u00F3n, Lee Chung-Yong. Ambos jugadores son cari\u00F1osamente conocidos como \uC30D\uC6A9 (\u53CC\u9F99) \"Ssang Yong (Doble Drag\u00F3n)\". Su forma de jugar le ha valido el sobrenombre de \"Gerrard coreano\".[cita requerida]"@es ,
+		"Ki Sung-Yueng, noto anche come Ki Sung-Yong e David Ki (hang\u016Dl \uAE30\uC131\uC6A9?</span>; Gwangju, 24 gennaio 1989), \u00E8 un calciatore sudcoreano, centrocampista del Sunderland, in prestito dallo Swansea, e della Nazionale sudcoreana."@it ,
+		"Ki Sung-Yeung (coreano: \uAE30\uC131\uC6A9; Gwangju, 24 de janeiro de 1989) \u00E9 um futebolista sul-coreano que atua como volante e atualmente defende o Sunderland."@pt ,
+		"Ki Sung-yong (* 24. Januar 1989 in Gwangju) ist ein s\u00FCdkoreanischer Fu\u00DFballspieler."@de ,
+		"Ki Sung-yueng, n\u00E9 le 24 janvier 1989 \u00E0 Gwangju, est un footballeur international sud-cor\u00E9en qui \u00E9volue au poste de milieu de terrain \u00E0 Sunderland pr\u00EAt\u00E9 par Swansea City."@fr ;
+	dbpedia-owl:wikiPageID	13182410 ;
+	dbpedia-owl:wikiPageRevisionID	605018557 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Ki_Sung-yueng	dbpprop:birthDate	"1989-01-24+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Gwangju, South Korea" ;
+	dbpprop:dateOfBirth	"1989-01-24+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Gwangju, South Korea" ;
+	dbpprop:shortDescription	"South Korean footballer" ;
+	dbpedia-owl:birthDate	"1989-01-24+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Gwangju ,
+		dbpedia:South_Korea_national_football_team ;
+	dbpedia-owl:birthYear	"1989+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	250 ;
+	dbpprop:goals	9 ,
+		7 ,
+		3 ,
+		0 ;
+	dbpprop:bg	"gold" ,
+		"#C21E2B" ;
+	dbpprop:caps	30 ,
+		27 ,
+		64 ,
+		66 ;
+	dbpprop:years	2009 ,
+		2012 ,
+		2013 ,
+		2006 ;
+	dbpprop:youthclubs	<http://dbpedia.org/resource/John_Paul_College_(Brisbane)> ,
+		"Kumho High School" ;
+	dbpedia-owl:careerStation	dbpedia:Ki_Sung-yueng__3 ,
+		dbpedia:Ki_Sung-yueng__1 ,
+		dbpedia:Ki_Sung-yueng__2 ,
+		dbpedia:Ki_Sung-yueng__7 ,
+		dbpedia:Ki_Sung-yueng__6 ,
+		dbpedia:Ki_Sung-yueng__8 ,
+		dbpedia:Ki_Sung-yueng__4 ,
+		dbpedia:Ki_Sung-yueng__9 ,
+		dbpedia:Ki_Sung-yueng__5 ;
+	dbpprop:position	dbpedia:Midfielder ;
+	dbpedia-owl:position	dbpedia:Midfielder ;
+	dbpedia-owl:height	1.8700000000000001066 .
+@prefix ns27:	<http://dbpedia.org/datatype/> .
+@prefix ns28:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Ki_Sung-yueng	ns28:height	"187.0"^^ns27:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/Sunderland_A.F.C.> ;
+	dbpprop:clubnumber	4 ;
+	dbpprop:fullname	"Ki Sung-Yueng" ;
+	dbpprop:clubs	"\u2192 Sunderland" ,
+		<http://dbpedia.org/resource/Swansea_City_A.F.C.> ,
+		dbpedia:FC_Seoul ,
+		<http://dbpedia.org/resource/Celtic_F.C.> ;
+	dbpedia-owl:team	dbpedia:South_Korea_national_under-20_football_team ,
+		dbpedia:South_Korea_national_under-17_football_team ,
+		dbpedia:South_Korea_national_under-23_football_team ,
+		<http://dbpedia.org/resource/John_Paul_College_(Brisbane)> ,
+		<http://dbpedia.org/resource/Swansea_City_A.F.C.> ,
+		<http://dbpedia.org/resource/Sunderland_A.F.C.> ,
+		<http://dbpedia.org/resource/Celtic_F.C.> ,
+		dbpedia:FC_Seoul ;
+	dbpprop:title	"Awards" ,
+		"South Korea squads" ;
+	dbpprop:youthyears	2005 ,
+		2001 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.fifa.com/worldcup/archive/southafrica2010/players/player=268406/index.html> ,
+		<http://www.kfa.or.kr/koreateam/km_player_content.asp?k_unique=&k_team_type=10&p_unique=200742161443&p_gbn=P&l_gbn=A> ,
+		<http://www.celticfc.net/player.php?id=31> ,
+		<http://soccernet.espn.go.com/player/_/id/122608/ki-sung-yueng?cc=3436> ;
+	dbpprop:rr	"Gi Seong-yong" ;
+	dbpprop:hangul	"\uAE30\uC131\uC6A9" ;
+	dbpprop:mr	"Ki S\u014Fng'yong" ;
+	dbpprop:clubUpdate	"2014-04-12+02:00"^^xsd:date ;
+	dbpprop:nationalteamUpdate	"2014-03-05+02:00"^^xsd:date ;
+	dbpprop:bordercolor	"#2E20BF" ;
+	dbpprop:fg	"navy" ,
+		"White" ;
+	dbpprop:nationalcaps	21 ,
+		16 ,
+		6 ,
+		56 ;
+	dbpprop:nationalgoals	1 ,
+		2 ,
+		3 ,
+		5 ;
+	dbpprop:nationalteam	dbpedia:South_Korea_national_under-20_football_team ,
+		dbpedia:South_Korea_national_under-17_football_team ,
+		dbpedia:South_Korea_national_football_team ,
+		dbpedia:South_Korea_national_under-23_football_team ;
+	dbpprop:nationalyears	2005 ,
+		2006 ,
+		2007 ,
+		2008 ;
+	dbpedia-owl:number	4 ;
+	dbpprop:hanja	"\u5947\u8AA0\u5EB8" ;
+	dbpedia-owl:alias	"\uAE30\uC131\uC6A9 (Korean)" ;
+	dbpprop:alternativeNames	"\uAE30\uC131\uC6A9" .
+<http://dbpedia.org/resource/2008_South_Korea_national_football_team_season>	dbpprop:away8player	dbpedia:Ki_Sung-yueng ;
+	dbpprop:away6player	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/Swansea_City_A.F.C.__Ki_Sung-Yueng__1>	dbpedia-owl:currentMember	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/Swansea_City_A.F.C.>	dbpprop:name	dbpedia:Ki_Sung-yueng ;
+	dbpprop:text	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/2006_FC_Seoul_season__Ki_Sung-Yueng__1>	dbpedia-owl:currentMember	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/2007_FC_Seoul_season__Ki_Sung-Yueng__1>	dbpedia-owl:currentMember	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/2008_FC_Seoul_season__Ki_Sung-Yueng__1>	dbpedia-owl:currentMember	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/2009_FC_Seoul_season__Ki_Sung-Yong__1>	dbpedia-owl:currentMember	dbpedia:Ki_Sung-yueng .
+dbpedia:David_Ki	dbpedia-owl:wikiPageRedirects	dbpedia:Ki_Sung-yueng .
+dbpedia:Ki_Sung-Yeung	dbpedia-owl:wikiPageRedirects	dbpedia:Ki_Sung-yueng .
+dbpedia:Ki_Sung-Yong	dbpedia-owl:wikiPageRedirects	dbpedia:Ki_Sung-yueng .
+dbpedia:Ki_Sung-yong	dbpedia-owl:wikiPageRedirects	dbpedia:Ki_Sung-yueng .
+dbpedia:Ki_Sung_Yueng	dbpedia-owl:wikiPageRedirects	dbpedia:Ki_Sung-yueng .
+dbpedia:Ki_sung_yong	dbpedia-owl:wikiPageRedirects	dbpedia:Ki_Sung-yueng .
+dbpedia:Sung-Yeung_Ki	dbpedia-owl:wikiPageRedirects	dbpedia:Ki_Sung-yueng .
+dbpedia:Sung-Yong_Ki	dbpedia-owl:wikiPageRedirects	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/2011%E2%80%9312_Celtic_F.C._season>	dbpprop:text	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/2013%E2%80%9314_Sunderland_A.F.C._season>	dbpprop:name	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/2012%E2%80%9313_Swansea_City_A.F.C._season>	dbpprop:p	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/2010_South_Korea_national_football_team_season>	dbpprop:away7player	dbpedia:Ki_Sung-yueng .
+dbpedia:Han_Hye-jin	dbpedia-owl:spouse	dbpedia:Ki_Sung-yueng ;
+	dbpprop:spouse	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/2011_Scottish_Cup_Final>	dbpprop:manOfTheMatch1a	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/2011_AFC_Asian_Cup_squads>	dbpprop:name	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/Buriram_United_F.C.>	dbpprop:name	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/2013%E2%80%9314_Sunderland_A.F.C._season__Ki_Sung-Yueng__1>	dbpedia-owl:currentMember	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/Sunderland_A.F.C.__Ki_Sung-Yueng__1>	dbpedia-owl:currentMember	dbpedia:Ki_Sung-yueng .
+<http://dbpedia.org/resource/Buriram_United_F.C.__Ki_Sung-Yueng__1>	dbpedia-owl:currentMember	dbpedia:Ki_Sung-yueng .

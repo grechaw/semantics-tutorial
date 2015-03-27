@@ -1,0 +1,255 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Miguel_Pinto	owl:sameAs	dbpedia:Miguel_Pinto .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Miguel_Pinto	owl:sameAs	dbpedia:Miguel_Pinto .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q368631	owl:sameAs	dbpedia:Miguel_Pinto .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Miguel_Pinto	owl:sameAs	dbpedia:Miguel_Pinto .
+@prefix ns6:	<http://it.dbpedia.org/resource/> .
+ns6:Miguel_Pinto	owl:sameAs	dbpedia:Miguel_Pinto .
+@prefix ns7:	<http://ko.dbpedia.org/resource/> .
+ns7:미겔_핀토	owl:sameAs	dbpedia:Miguel_Pinto .
+@prefix ns8:	<http://nl.dbpedia.org/resource/> .
+ns8:Miguel_Pinto	owl:sameAs	dbpedia:Miguel_Pinto .
+@prefix ns9:	<http://pl.dbpedia.org/resource/> .
+ns9:Miguel_Pinto	owl:sameAs	dbpedia:Miguel_Pinto .
+@prefix ns10:	<http://pt.dbpedia.org/resource/> .
+ns10:Miguel_Pinto	owl:sameAs	dbpedia:Miguel_Pinto .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2003_South_American_Youth_Championship_squads>	dbpprop:name	dbpedia:Miguel_Pinto .
+<http://dbpedia.org/resource/2011_Copa_Am%C3%A9rica_squads>	dbpprop:name	dbpedia:Miguel_Pinto .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns13:	<http://en.wikipedia.org/wiki/> .
+ns13:Miguel_Pinto	foaf:primaryTopic	dbpedia:Miguel_Pinto .
+dbpedia:Correcaminos_UAT	dbpprop:name	dbpedia:Miguel_Pinto .
+dbpedia:Chile_national_football_team	dbpprop:name	dbpedia:Miguel_Pinto .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Miguel_Pinto .
+@prefix ns14:	<http://ar.dbpedia.org/resource/> .
+ns14:ميغيل_بينتو	owl:sameAs	dbpedia:Miguel_Pinto .
+@prefix ns15:	<http://fi.dbpedia.org/resource/> .
+ns15:Miguel_Pinto	owl:sameAs	dbpedia:Miguel_Pinto .
+@prefix ns16:	<http://mr.dbpedia.org/resource/> .
+ns16:मिगेल_पिंटो	owl:sameAs	dbpedia:Miguel_Pinto .
+@prefix ns17:	<http://no.dbpedia.org/resource/> .
+ns17:Miguel_Pinto	owl:sameAs	dbpedia:Miguel_Pinto .
+<http://ru.dbpedia.org/resource/\u041F\u0438\u043D\u0442\u043E,_\u041C\u0438\u0433\u0435\u043B\u044C>	owl:sameAs	dbpedia:Miguel_Pinto .
+@prefix ns18:	<http://sv.dbpedia.org/resource/> .
+ns18:Miguel_Pinto	owl:sameAs	dbpedia:Miguel_Pinto .
+@prefix ns19:	<http://zh.dbpedia.org/resource/> .
+ns19:米基爾·賓度	owl:sameAs	dbpedia:Miguel_Pinto .
+<http://dbpedia.org/resource/2010%E2%80%9311_Club_Atlas_season>	dbpprop:name	dbpedia:Miguel_Pinto .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Club_Atlas_season>	dbpedia-owl:currentMember	dbpedia:Miguel_Pinto .
+dbpedia:Correcaminos_UAT__Miguel_Pinto__1	dbpedia-owl:currentMember	dbpedia:Miguel_Pinto .
+<http://dbpedia.org/resource/2004_CONMEBOL_Men_Pre-Olympic_Tournament_squads>	dbpprop:name	dbpedia:Miguel_Pinto .
+<http://dbpedia.org/resource/2008_South_Korea_national_football_team_season>	dbpprop:away1player	dbpedia:Miguel_Pinto .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbpedia:Miguel_Pinto	rdf:type	dbpedia-owl:Agent ,
+		foaf:Person ,
+		dbpedia-owl:Person ,
+		<http://dbpedia.org/class/yago/PrimeraDivisi%C3%B3nDeM%C3%A9xicoPlayers> ,
+		dbpedia-owl:SoccerPlayer .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Miguel_Pinto	rdf:type	yago:SoccerPlayer110618342 ,
+		ns4:Q215627 ,
+		owl:Thing ,
+		yago:ChileanFootballers ,
+		<http://dbpedia.org/class/yago/ChileanPrimeraDivisi%C3%B3nPlayers> ,
+		yago:ChileInternationalFootballers ,
+		yago:ChileanExpatriateFootballers ,
+		yago:UniversidadDeChilePlayers ,
+		yago:PhysicalEntity100001930 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Miguel_Pinto	rdf:type	dul:NaturalPerson ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		ns4:Q5 ,
+		dul:Agent ,
+		yago:Whole100003553 ,
+		<http://dbpedia.org/class/yago/2011CopaAm%C3%A9ricaPlayers> ,
+		yago:Object100002684 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:Athlete109820263 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:FootballPlayer110101634 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:AssociationFootballGoalkeepers .
+@prefix ns24:	<http://schema.org/> .
+dbpedia:Miguel_Pinto	rdf:type	ns24:Person ,
+		yago:Player110439851 ,
+		yago:HockeyPlayer110179291 ,
+		yago:Goalkeeper110134001 ,
+		yago:ExpatriateFootballersInMexico ,
+		yago:Contestant109613191 ,
+		dbpedia-owl:Athlete ,
+		<http://dbpedia.org/class/yago/F.C.AtlasPlayers> ;
+	owl:sameAs	ns6:Miguel_Pinto ,
+		ns8:Miguel_Pinto ,
+		ns5:Miguel_Pinto ,
+		ns18:Miguel_Pinto ,
+		dbpedia:Miguel_Pinto ,
+		ns15:Miguel_Pinto ,
+		ns7:미겔_핀토 .
+@prefix ns25:	<http://wikidata.org/entity/> .
+dbpedia:Miguel_Pinto	owl:sameAs	ns25:Q368631 ,
+		ns14:ميغيل_بينتو ,
+		<http://ru.dbpedia.org/resource/\u041F\u0438\u043D\u0442\u043E,_\u041C\u0438\u0433\u0435\u043B\u044C> ,
+		ns9:Miguel_Pinto ,
+		ns1:Miguel_Pinto ,
+		<http://rdf.freebase.com/ns/m.026d3zp> ,
+		ns19:米基爾·賓度 ,
+		ns3:Miguel_Pinto ,
+		ns17:Miguel_Pinto ,
+		ns10:Miguel_Pinto .
+@prefix ns26:	<http://yago-knowledge.org/resource/> .
+dbpedia:Miguel_Pinto	owl:sameAs	ns26:Miguel_Pinto ,
+		ns16:मिगेल_पिंटो ,
+		ns4:Q368631 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Miguel_Pinto	rdfs:label	"Miguel Pinto"@nl ,
+		"\u7C73\u57FA\u723E\u00B7\u8CD3\u5EA6"@zh ,
+		"Miguel Pinto" ,
+		"Miguel Pinto"@it ,
+		"\u041F\u0438\u043D\u0442\u043E, \u041C\u0438\u0433\u0435\u043B\u044C"@ru ,
+		"Miguel Pinto"@pl ,
+		"Miguel Pinto"@es ,
+		"Miguel Pinto"@de ,
+		"Miguel Pinto"@pt ,
+		"Miguel Pinto"@fr ,
+		"\u0645\u064A\u063A\u064A\u0644 \u0628\u064A\u0646\u062A\u0648"@ar .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+dbpedia:Miguel_Pinto	dcterms:subject	<http://dbpedia.org/resource/Category:1983_births> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Miguel_Pinto	dcterms:subject	category:Chile_international_footballers ,
+		<http://dbpedia.org/resource/Category:Chilean_Primera_Divisi%C3%B3n_players> ,
+		category:Chilean_expatriate_footballers ,
+		category:Twin_sportspeople ,
+		category:Expatriate_footballers_in_Mexico ,
+		category:Chilean_footballers ,
+		<http://dbpedia.org/resource/Category:2011_Copa_Am%C3%A9rica_players> ,
+		category:Liga_MX_footballers ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Twin_people_from_Chile ,
+		category:Association_football_goalkeepers ,
+		category:Universidad_de_Chile_players ,
+		category:Correcaminos_UAT_footballers ,
+		category:Club_Atlas_footballers ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Miguel_Pinto.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Miguel_Pinto	dc:description	"Chilean footballer" ,
+		"Chilean footballer" ;
+	foaf:givenName	"Miguel \u00C1ngel" ;
+	foaf:name	"Pinto Jerez, Miguel \u00C1ngel" ,
+		"Miguel Pinto" ,
+		"Miguel \u00C1ngel Pinto Jerez" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Miguel_Pinto	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Miguel_Pinto?oldid=594740469> ;
+	rdfs:comment	"Miguel \u00C1ngel Pinto Jerez (Santiago, 4 de julho de 1983) \u00E9 um futebolista chileno. Joga pelo Universidad de Chile, no qual ele \u00E9 o capit\u00E3o. Fez sua estreia profissional em 2002, e \u00E9 o primeiro goleiro da equipe desde o in\u00EDcio de 2006."@pt ,
+		"\u041C\u0438\u0433\u0435\u0301\u043B\u044C \u0410\u0301\u043D\u0445\u0435\u043B\u044C \u041F\u0438\u0301\u043D\u0442\u043E \u0425\u0435\u0301\u0440\u0435\u0441 (\u0438\u0441\u043F. Miguel \u00C1ngel Pinto Jerez; 4 \u0438\u044E\u043B\u044F 1983, \u0421\u0430\u043D\u0442\u044C\u044F\u0433\u043E, \u0427\u0438\u043B\u0438) \u2014 \u0447\u0438\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432\u0440\u0430\u0442\u0430\u0440\u044C \u043A\u043B\u0443\u0431\u0430 \u00AB\u0410\u0442\u043B\u0430\u0441\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0427\u0438\u043B\u0438."@ru ,
+		"Miguel \u00C1ngel Pinto J\u00E9rez (Santiago del Cile, 4 luglio 1983) \u00E8 un calciatore cileno, di ruolo portiere del Correcaminos in prestito dall'Atlas e della Nazionale di calcio del Cile.\u00C8 ritenuto uno dei migliori portieri del continente sudamericano."@it ,
+		"\u7C73\u57FA\u723E\u00B7\u5B89\u7956\u00B7\u8CD3\u5EA6\u00B7\u8B1D\u96F7\u65AF\uFF08\u897F\u73ED\u7259\u8BED\uFF1AMiguel \u00C1ngel Pinto Jerez\uFF0C1983\u5E747\u67084\u65E5\uFF0D\uFF09\u51FA\u751F\u65BC\u667A\u5229\u8056\u5730\u7259\u54E5\uFF0C\u667A\u5229\u8DB3\u7403\u54E1\uFF0C\u53F8\u8077\u5B88\u9580\u54E1\uFF0C\u73FE\u6548\u529B\u667A\u5229\u7403\u6703\u667A\u5229\u5927\u5B78\uFF0C\u4E26\u64D4\u4EFB\u7403\u968A\u968A\u9577\u3002\u8CD3\u5EA6\u65BC2002\u5E74\u9996\u6B21\u51FA\u6230\u8077\u696D\u8CFD\uFF0C\u5171\u65BC2006\u5E74\u5E74\u521D\u59CB\u70BA\u667A\u5229\u5927\u5B78\u6B63\u9078\u9580\u5C07\u3002"@zh ,
+		"Miguel \u00C1ngel Pinto Jerez (born July 4, 1983 in Santiago, Chile) is a Chilean football goalkeeper who plays for Mexican club Correcaminos of the Ascenso MX." ,
+		"Miguel \u00C1ngel Pinto Larra\u00EDn (n\u00E9 le 4 juillet 1983 \u00E0 Santiago du Chili) est un joueur de football chilien, qui joue en tant que gardien de but.Pinto est connu pour concevoir ses propres designs sur ses maillots de gardien, \u00E0 l'instar de l'ancien gardien Jos\u00E9 Luis Chilavert. Pinto incorpore r\u00E9guli\u00E8rement un lion ou un hibou sur ses maillots, qui est la mascotte de l'Universidad de Chile. Il a un fr\u00E8re jumeau nomm\u00E9 Juan Francisco et est surnomm\u00E9 Miguelito ou encore Criptonita (kryptonite)."@fr ,
+		"Miguel \u00C1ngel Pinto Jerez (* 4. Juli 1983 in Santiago de Chile) ist ein chilenischer Fu\u00DFballtorwart, der bei CF Universidad de Chile in der chilenischen Primera Divisi\u00F3n unter Vertrag steht."@de ,
+		"Miguel \u00C1ngel Pinto Jerez (Santiago, Chile, 4 de julio de 1983) es un futbolista chileno que juega de arquero en el Correcaminos UAT del Ascenso MX de M\u00E9xico. Adem\u00E1s es internacional con la Selecci\u00F3n de f\u00FAtbol de Chile. Fue elegido el Mejor Arquero de Sudam\u00E9rica en el 2009."@es ,
+		"Miguel Pinto (Santiago, 4 juli 1983) is een Chileens profvoetballer, die sinds 2010 op huurbasis als doelman speelt bij het Mexicaanse Atlas Guadalajara. Hij staat onder contract bij de club waar hij in 2002 zijn debuut maakte in het profvoetbal, Universidad de Chile."@nl ,
+		"\u0645\u064A\u063A\u064A\u0644 \u0623\u0646\u062C\u064A\u0644 \u0628\u064A\u0646\u062A\u0648 \u062E\u064A\u0631\u064A\u0632 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: Miguel \u00C1ngel Pinto Jerez) (\u0645\u0648\u0627\u0644\u064A\u062F 4 \u064A\u0648\u0644\u064A\u0648 1983 \u0641\u064A \u0633\u0627\u0646\u062A\u064A\u0627\u063A\u0648) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u062A\u0634\u064A\u0644\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u064A\u0648\u0646\u064A\u0641\u0631\u0633\u064A\u062F\u0627\u062F \u062F\u064A \u062A\u0634\u064A\u0644\u064A \u0627\u0644\u062A\u0634\u064A\u0644\u064A ."@ar ,
+		"Miguel \u00C1ngel Pinto J\u00E9rez (ur. 4 lipca 1983 w Santiago) \u2013 chilijski pi\u0142karz pochodzenia hiszpa\u0144skiego wyst\u0119puj\u0105cy na pozycji bramkarza, obecnie zawodnik meksyka\u0144skiego Atlasu."@pl ;
+	foaf:surname	"Pinto Jerez" ;
+	foaf:isPrimaryTopicOf	ns13:Miguel_Pinto .
+@prefix ns32:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Miguel_Pinto	dbpprop:hasPhotoCollection	ns32:Miguel_Pinto ;
+	dbpprop:name	"Pinto Jerez, Miguel \u00C1ngel" ,
+		"Miguel Pinto" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Miguel_Pinto.jpg?width=300> ;
+	dbpedia-owl:abstract	"Miguel \u00C1ngel Pinto Jerez (Santiago, 4 de julho de 1983) \u00E9 um futebolista chileno. Joga pelo Universidad de Chile, no qual ele \u00E9 o capit\u00E3o. Fez sua estreia profissional em 2002, e \u00E9 o primeiro goleiro da equipe desde o in\u00EDcio de 2006."@pt ,
+		"Miguel Pinto (Santiago, 4 juli 1983) is een Chileens profvoetballer, die sinds 2010 op huurbasis als doelman speelt bij het Mexicaanse Atlas Guadalajara. Hij staat onder contract bij de club waar hij in 2002 zijn debuut maakte in het profvoetbal, Universidad de Chile."@nl ,
+		"\u0645\u064A\u063A\u064A\u0644 \u0623\u0646\u062C\u064A\u0644 \u0628\u064A\u0646\u062A\u0648 \u062E\u064A\u0631\u064A\u0632 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: Miguel \u00C1ngel Pinto Jerez) (\u0645\u0648\u0627\u0644\u064A\u062F 4 \u064A\u0648\u0644\u064A\u0648 1983 \u0641\u064A \u0633\u0627\u0646\u062A\u064A\u0627\u063A\u0648) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u062A\u0634\u064A\u0644\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u064A\u0648\u0646\u064A\u0641\u0631\u0633\u064A\u062F\u0627\u062F \u062F\u064A \u062A\u0634\u064A\u0644\u064A \u0627\u0644\u062A\u0634\u064A\u0644\u064A ."@ar ,
+		"Miguel \u00C1ngel Pinto Jerez (born July 4, 1983 in Santiago, Chile) is a Chilean football goalkeeper who plays for Mexican club Correcaminos of the Ascenso MX." ,
+		"Miguel \u00C1ngel Pinto Jerez (Santiago, Chile, 4 de julio de 1983) es un futbolista chileno que juega de arquero en el Correcaminos UAT del Ascenso MX de M\u00E9xico. Adem\u00E1s es internacional con la Selecci\u00F3n de f\u00FAtbol de Chile. Fue elegido el Mejor Arquero de Sudam\u00E9rica en el 2009."@es ,
+		"Miguel \u00C1ngel Pinto J\u00E9rez (Santiago del Cile, 4 luglio 1983) \u00E8 un calciatore cileno, di ruolo portiere del Correcaminos in prestito dall'Atlas e della Nazionale di calcio del Cile.\u00C8 ritenuto uno dei migliori portieri del continente sudamericano."@it ,
+		"\u7C73\u57FA\u723E\u00B7\u5B89\u7956\u00B7\u8CD3\u5EA6\u00B7\u8B1D\u96F7\u65AF\uFF08\u897F\u73ED\u7259\u8BED\uFF1AMiguel \u00C1ngel Pinto Jerez\uFF0C1983\u5E747\u67084\u65E5\uFF0D\uFF09\u51FA\u751F\u65BC\u667A\u5229\u8056\u5730\u7259\u54E5\uFF0C\u667A\u5229\u8DB3\u7403\u54E1\uFF0C\u53F8\u8077\u5B88\u9580\u54E1\uFF0C\u73FE\u6548\u529B\u667A\u5229\u7403\u6703\u667A\u5229\u5927\u5B78\uFF0C\u4E26\u64D4\u4EFB\u7403\u968A\u968A\u9577\u3002\u8CD3\u5EA6\u65BC2002\u5E74\u9996\u6B21\u51FA\u6230\u8077\u696D\u8CFD\uFF0C\u5171\u65BC2006\u5E74\u5E74\u521D\u59CB\u70BA\u667A\u5229\u5927\u5B78\u6B63\u9078\u9580\u5C07\u3002"@zh ,
+		"Miguel \u00C1ngel Pinto Larra\u00EDn (n\u00E9 le 4 juillet 1983 \u00E0 Santiago du Chili) est un joueur de football chilien, qui joue en tant que gardien de but.Pinto est connu pour concevoir ses propres designs sur ses maillots de gardien, \u00E0 l'instar de l'ancien gardien Jos\u00E9 Luis Chilavert. Pinto incorpore r\u00E9guli\u00E8rement un lion ou un hibou sur ses maillots, qui est la mascotte de l'Universidad de Chile. Il a un fr\u00E8re jumeau nomm\u00E9 Juan Francisco et est surnomm\u00E9 Miguelito ou encore Criptonita (kryptonite)."@fr ,
+		"\u041C\u0438\u0433\u0435\u0301\u043B\u044C \u0410\u0301\u043D\u0445\u0435\u043B\u044C \u041F\u0438\u0301\u043D\u0442\u043E \u0425\u0435\u0301\u0440\u0435\u0441 (\u0438\u0441\u043F. Miguel \u00C1ngel Pinto Jerez; 4 \u0438\u044E\u043B\u044F 1983, \u0421\u0430\u043D\u0442\u044C\u044F\u0433\u043E, \u0427\u0438\u043B\u0438) \u2014 \u0447\u0438\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432\u0440\u0430\u0442\u0430\u0440\u044C \u043A\u043B\u0443\u0431\u0430 \u00AB\u0410\u0442\u043B\u0430\u0441\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0427\u0438\u043B\u0438."@ru ,
+		"Miguel \u00C1ngel Pinto Jerez (* 4. Juli 1983 in Santiago de Chile) ist ein chilenischer Fu\u00DFballtorwart, der bei CF Universidad de Chile in der chilenischen Primera Divisi\u00F3n unter Vertrag steht."@de ,
+		"Miguel \u00C1ngel Pinto J\u00E9rez (ur. 4 lipca 1983 w Santiago) \u2013 chilijski pi\u0142karz pochodzenia hiszpa\u0144skiego wyst\u0119puj\u0105cy na pozycji bramkarza, obecnie zawodnik meksyka\u0144skiego Atlasu."@pl ;
+	dbpedia-owl:wikiPageID	7790675 ;
+	dbpedia-owl:wikiPageRevisionID	594740469 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Miguel_Pinto	dbpprop:birthDate	"1983-07-04+02:00"^^xsd:date ;
+	dbpprop:birthPlace	dbpedia:Santiago ,
+		dbpedia:Chile ;
+	dbpprop:dateOfBirth	"1983-07-04+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	dbpedia:Santiago ,
+		dbpedia:Chile ;
+	dbpprop:shortDescription	"Chilean footballer" ;
+	dbpedia-owl:birthDate	"1983-07-04+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Santiago ,
+		dbpedia:Chile ;
+	dbpedia-owl:birthYear	"1983+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	200 ;
+	dbpprop:goals	0 ;
+	dbpprop:bg	"red" ;
+	dbpprop:caps	81 ,
+		17 ,
+		4 ,
+		218 ;
+	dbpprop:years	2011 ,
+		2014 ,
+		2002 ;
+	dbpprop:youthclubs	dbpedia:Club_Universidad_de_Chile ;
+	dbpedia-owl:careerStation	dbpedia:Miguel_Pinto__2 ,
+		dbpedia:Miguel_Pinto__1 ,
+		dbpedia:Miguel_Pinto__4 ,
+		dbpedia:Miguel_Pinto__3 ,
+		dbpedia:Miguel_Pinto__5 ;
+	dbpprop:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbpedia-owl:height	1.8300000000000000711 .
+@prefix ns34:	<http://dbpedia.org/datatype/> .
+@prefix ns35:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Miguel_Pinto	ns35:height	"183.0"^^ns34:centimetre ;
+	dbpprop:currentclub	dbpedia:Correcaminos_UAT ;
+	dbpprop:clubnumber	16 ;
+	dbpprop:fullname	"Miguel \u00C1ngel Pinto Jerez" ;
+	dbpprop:clubs	"\u2192 Atlas" ,
+		dbpedia:Club_Atlas ,
+		dbpedia:Club_Universidad_de_Chile ,
+		dbpedia:Correcaminos_UAT ;
+	dbpedia-owl:team	dbpedia:Club_Atlas ,
+		dbpedia:Club_Universidad_de_Chile ,
+		dbpedia:Correcaminos_UAT ,
+		dbpedia:Chile_national_football_team .
+@prefix ns36:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Miguel_Pinto	dbpprop:wordnet_type	ns36:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Chile squads" ;
+	dbpprop:pcupdate	"2014-02-04+02:00"^^xsd:date ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.transfermarkt.co.uk/en/miguel-pinto/profil/spieler_40431.html> ;
+	dbpprop:bordercolor	"gray" ;
+	dbpprop:fg	"white" ;
+	dbpprop:nationalcaps	21 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:Chile_national_football_team ;
+	dbpprop:nationalyears	2006 ;
+	dbpedia-owl:number	16 ;
+	dbpprop:ntupdate	"2012-06-10+02:00"^^xsd:date .
+<http://dbpedia.org/resource/2012%E2%80%9313_Club_Atlas_season>	dbpprop:name	dbpedia:Miguel_Pinto .
+<http://dbpedia.org/resource/2011%E2%80%9312_Club_Atlas_season>	dbpprop:name	dbpedia:Miguel_Pinto .
+<http://dbpedia.org/resource/2012%E2%80%9313_Club_Atlas_season__Miguel_Pinto__1>	dbpedia-owl:currentMember	dbpedia:Miguel_Pinto .
+<http://dbpedia.org/resource/2012%E2%80%9313_Club_Atlas_season__Miguel_Pinto__2>	dbpedia-owl:currentMember	dbpedia:Miguel_Pinto .
+<http://dbpedia.org/resource/List_of_Mexican_football_transfers_winter_2013%E2%80%9314>	dbpprop:name	dbpedia:Miguel_Pinto ;
+	dbpedia-owl:currentMember	dbpedia:Miguel_Pinto .
+<http://dbpedia.org/resource/List_of_Mexican_Football_Transfers_Winter_2011%E2%80%9312>	dbpprop:name	dbpedia:Miguel_Pinto ;
+	dbpedia-owl:currentMember	dbpedia:Miguel_Pinto .
+<http://dbpedia.org/resource/2011%E2%80%9312_Club_Atlas_season__Miguel_Pinto__1>	dbpedia-owl:currentMember	dbpedia:Miguel_Pinto .
+<http://dbpedia.org/resource/2011%E2%80%9312_Club_Atlas_season__Miguel_Pinto__2>	dbpedia-owl:currentMember	dbpedia:Miguel_Pinto .
+dbpedia:Team_rosters_for_the_2001_South_American_Youth_Championship	dbpprop:name	dbpedia:Miguel_Pinto .
+dbpedia:List_of_Mexican_football_transfers_winter_2010	dbpprop:name	dbpedia:Miguel_Pinto ;
+	dbpedia-owl:currentMember	dbpedia:Miguel_Pinto .

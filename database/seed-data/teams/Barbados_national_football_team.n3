@@ -1,0 +1,373 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_de_la_Barbade_de_football	owl:sameAs	dbpedia:Barbados_national_football_team .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Barbadische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Barbados_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q497659	owl:sameAs	dbpedia:Barbados_national_football_team .
+@prefix ns5:	<http://cs.dbpedia.org/resource/> .
+ns5:Barbadoská_fotbalová_reprezentace	owl:sameAs	dbpedia:Barbados_national_football_team .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Selección_de_fútbol_de_Barbados	owl:sameAs	dbpedia:Barbados_national_football_team .
+@prefix ns7:	<http://it.dbpedia.org/resource/> .
+ns7:Nazionale_di_calcio_di_Barbados	owl:sameAs	dbpedia:Barbados_national_football_team .
+@prefix ns8:	<http://ja.dbpedia.org/resource/> .
+ns8:サッカーバルバドス代表	owl:sameAs	dbpedia:Barbados_national_football_team .
+@prefix ns9:	<http://ko.dbpedia.org/resource/> .
+ns9:바베이도스_축구_국가대표팀	owl:sameAs	dbpedia:Barbados_national_football_team .
+@prefix ns10:	<http://nl.dbpedia.org/resource/> .
+ns10:Barbadiaans_voetbalelftal	owl:sameAs	dbpedia:Barbados_national_football_team .
+@prefix ns11:	<http://pl.dbpedia.org/resource/> .
+ns11:Reprezentacja_Barbadosu_w_piłce_nożnej	owl:sameAs	dbpedia:Barbados_national_football_team .
+@prefix ns12:	<http://pt.dbpedia.org/resource/> .
+ns12:Seleção_Barbadense_de_Futebol	owl:sameAs	dbpedia:Barbados_national_football_team .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Louis_Moss	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Louis_Moss	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Mark_McCammon__16	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns16:	<http://en.wikipedia.org/wiki/> .
+ns16:Barbados_national_football_team	foaf:primaryTopic	dbpedia:Barbados_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Barbados_national_football_team	rdf:type	yago:FootballTeam108080025 ,
+		yago:CaribbeanNationalAssociationFootballTeams ,
+		yago:YagoLegalActorGeo ,
+		dbpedia-owl:Agent ,
+		yago:YagoLegalActor ,
+		yago:YagoPermanentlyLocatedEntity ,
+		owl:Thing ,
+		dbpedia-owl:Organisation ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam .
+@prefix ns19:	<http://schema.org/> .
+dbpedia:Barbados_national_football_team	rdf:type	ns19:Organization ,
+		ns19:SportsTeam .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Barbados_national_football_team	rdf:type	dul:Agent ,
+		yago:NationalSportsTeamsOfBarbados ,
+		dul:SocialPerson .
+@prefix ns21:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Barbados_national_football_team	owl:sameAs	ns21:Echipa_națională_de_fotbal_a_Barbadosului ,
+		ns7:Nazionale_di_calcio_di_Barbados ,
+		<http://rdf.freebase.com/ns/m.041dbv> .
+@prefix ns22:	<http://hr.dbpedia.org/resource/> .
+dbpedia:Barbados_national_football_team	owl:sameAs	ns22:Barbadoska_nogometna_reprezentacija .
+@prefix ns23:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Barbados_national_football_team	owl:sameAs	ns23:Barbados_Millî_Futbol_Takımı .
+@prefix ns24:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Barbados_national_football_team	owl:sameAs	ns24:تیم_ملی_فوتبال_باربادوس .
+@prefix ns25:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Barbados_national_football_team	owl:sameAs	ns25:बार्बाडोस_फुटबॉल_संघ ,
+		ns8:サッカーバルバドス代表 .
+@prefix ns26:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Barbados_national_football_team	owl:sameAs	ns26:巴巴多斯國家足球隊 .
+@prefix ns27:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Barbados_national_football_team	owl:sameAs	ns27:Barbados_national_football_team ,
+		ns6:Selección_de_fútbol_de_Barbados ,
+		ns4:Q497659 .
+@prefix ns28:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Barbados_national_football_team	owl:sameAs	ns28:Đội_tuyển_bóng_đá_quốc_gia_Barbados .
+@prefix ns29:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Barbados_national_football_team	owl:sameAs	ns29:Barbadoksen_jalkapallomaajoukkue .
+@prefix ns30:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Barbados_national_football_team	owl:sameAs	ns30:منتخب_بربادوس_لكرة_القدم ,
+		ns11:Reprezentacja_Barbadosu_w_piłce_nożnej ,
+		ns10:Barbadiaans_voetbalelftal .
+@prefix ns31:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Barbados_national_football_team	owl:sameAs	ns31:Barbadosi_labdarúgó-válogatott ,
+		dbpedia:Barbados_national_football_team .
+@prefix ns32:	<http://yago-knowledge.org/resource/> .
+dbpedia:Barbados_national_football_team	owl:sameAs	ns32:Barbados_national_football_team ,
+		ns3:Barbadische_Fußballnationalmannschaft ,
+		ns5:Barbadoská_fotbalová_reprezentace .
+@prefix ns33:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Barbados_national_football_team	owl:sameAs	ns33:Збірна_Барбадосу_з_футболу .
+@prefix ns34:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Barbados_national_football_team	owl:sameAs	ns34:Сборная_Барбадоса_по_футболу .
+@prefix ns35:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Barbados_national_football_team	owl:sameAs	ns35:Barbados_herrlandslag_i_fotboll .
+@prefix ns36:	<http://he.dbpedia.org/resource/> .
+dbpedia:Barbados_national_football_team	owl:sameAs	ns36:נבחרת_ברבדוס_בכדורגל ,
+		ns9:바베이도스_축구_국가대표팀 .
+@prefix ns37:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Barbados_national_football_team	owl:sameAs	ns37:Barbados_national_football_team ,
+		ns1:Équipe_de_la_Barbade_de_football .
+@prefix ns38:	<http://wikidata.org/entity/> .
+dbpedia:Barbados_national_football_team	owl:sameAs	ns38:Q497659 ,
+		ns12:Seleção_Barbadense_de_Futebol .
+@prefix ns39:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Barbados_national_football_team	owl:sameAs	ns39:Barbadoso_vyrų_futbolo_rinktinė .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Barbados_national_football_team	rdfs:label	"Barbadische Fu\u00DFballnationalmannschaft"@de ,
+		"Reprezentacja Barbadosu w pi\u0142ce no\u017Cnej"@pl ,
+		"Sele\u00E7\u00E3o Barbadense de Futebol"@pt ,
+		"\u00C9quipe de la Barbade de football"@fr ,
+		"Barbadiaans voetbalelftal"@nl ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0430\u0440\u0431\u0430\u0434\u043E\u0441\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"Selecci\u00F3n de f\u00FAtbol de Barbados"@es ,
+		"\u5DF4\u5DF4\u591A\u65AF\u570B\u5BB6\u8DB3\u7403\u968A"@zh ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0628\u0631\u0628\u0627\u062F\u0648\u0633 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"Nazionale di calcio di Barbados"@it ,
+		"\u30B5\u30C3\u30AB\u30FC\u30D0\u30EB\u30D0\u30C9\u30B9\u4EE3\u8868"@ja ,
+		"Barbados national football team" .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Barbados_national_football_team	dcterms:subject	category:National_sports_teams_of_Barbados ,
+		category:Caribbean_national_association_football_teams ,
+		category:Barbados_national_football_team ;
+	foaf:name	"Barbados" ;
+	foaf:nick	"Bajan Tridents" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Barbados_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Barbados_national_football_team?oldid=604324989> ;
+	rdfs:comment	"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0430\u0440\u0431\u0430\u0434\u043E\u0441\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u0411\u0430\u0440\u0431\u0430\u0434\u043E\u0441 \u0432 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0430\u0445 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u0442\u0441\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0435\u0439 \u0411\u0430\u0440\u0431\u0430\u0434\u043E\u0441\u0430.\u0420\u044F\u0434 \u0441\u0438\u043B\u044C\u043D\u0435\u0439\u0448\u0438\u0445 \u0438\u0433\u0440\u043E\u043A\u043E\u0432 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0440\u043E\u0434\u0438\u043B\u0438\u0441\u044C \u0438 \u0432\u044B\u0440\u043E\u0441\u043B\u0438 \u0432 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438 \u0438 \u0431\u044B\u043B\u0438 \u043F\u0440\u0438\u0432\u043B\u0435\u0447\u0435\u043D\u044B \u0432 \u0441\u043E\u0441\u0442\u0430\u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0411\u0430\u0440\u0431\u0430\u0434\u043E\u0441\u0430 \u0443\u0436\u0435 \u0441\u043E\u0441\u0442\u043E\u044F\u0432\u0448\u0438\u043C\u0438\u0441\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u0430\u043C\u0438, \u043D\u0430\u043F\u0440\u0438\u043C\u0435\u0440, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u00AB\u0423\u0438\u0433\u0430\u043D \u0410\u0442\u043B\u0435\u0442\u0438\u043A\u00BB \u042D\u043C\u043C\u0435\u0440\u0441\u043E\u043D \u0411\u043E\u0439\u0441 \u0438\u043B\u0438 \u0430\u0442\u0430\u043A\u0443\u044E\u0449\u0438\u0439 \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u041F\u043E\u043B \u0418\u0444\u0438\u043B\u043B, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0432\u0448\u0438\u0439 \u0437\u0430 \u00AB\u041C\u0438\u043B\u043B\u0443\u043E\u043B\u043B\u00BB \u0438 \u00AB\u0428\u0435\u0444\u0444\u0438\u043B\u0434 \u042E\u043D\u0430\u0439\u0442\u0435\u0434\u00BB."@ru ,
+		"\u30B5\u30C3\u30AB\u30FC\u30D0\u30EB\u30D0\u30C9\u30B9\u4EE3\u8868\uFF08Barbados national football team\uFF09\u306F\u3001\u30D0\u30EB\u30D0\u30C9\u30B9\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u306B\u3088\u308A\u69CB\u6210\u3055\u308C\u308B\u30D0\u30EB\u30D0\u30C9\u30B9\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"A Sele\u00E7\u00E3o Barbadense de Futebol, apelidada de Os Bajans, representa Barbados nas competi\u00E7\u00F5es internacionais de futebol. Nunca se classificou para uma competi\u00E7\u00E3o importante, por\u00E9m esteve pr\u00F3ximo de se classificar para a Copa Ouro em 2005. Em 2001, surpreendeu chegando \u00E0s semifinais das eliminat\u00F3rias para a Copa 2002."@pt ,
+		"Reprezentacja Barbadosu w pi\u0142ce no\u017Cnej jest narodow\u0105 dru\u017Cyn\u0105 Barbadosu i jest kontrolowana przez Zwi\u0105zek Pi\u0142karski Barbadosu (Barbados Football Association). Federacja zosta\u0142a za\u0142o\u017Cona w 1910. Od 1968 jest cz\u0142onkiem FIFA i CONCACAF. Jest to jedna z najs\u0142abszych dru\u017Cyn Karaib\u00F3w. Nigdy nie awansowa\u0142a do fina\u0142\u00F3w Mistrzostw \u015Awiata ani do Z\u0142otego Pucharu CONCACAF.Obecnie w Federacji CONCACAF, Barbados zajmuje 24. miejsce stan na (19 grudnia 2013)."@pl ,
+		"L'\u00E9quipe de Barbade de football est une s\u00E9lection des meilleurs joueurs barbadiens sous l'\u00E9gide de la F\u00E9d\u00E9ration de la Barbade de football."@fr ,
+		"La Selecci\u00F3n de f\u00FAtbol de Barbados es el representativo nacional de este pa\u00EDs. Es controlada por el Asociaci\u00F3n de F\u00FAtbol de Barbados, perteneciente a la Concacaf, a la FIFA y a la CFU."@es ,
+		"Het Barbadiaans voetbalelftal is een team van voetballers die Barbados vertegenwoordigen bij internationale wedstrijden, zoals de (kwalificatie)wedstrijden voor het WK en de Caribbean Cup.De Barbados Football Association werd in 1910 opgericht en is aangesloten bij de Cara\u00EFbische Voetbal Unie (CFU), de CONCACAF en de FIFA (sinds 1968)."@nl ,
+		"The Barbados national football team, nicknamed Bajan Pride, is the national association football team of Barbados and is controlled by the Barbados Football Association. It has never qualified for a major international tournament. It came close to qualifying for the 2005 CONCACAF Gold Cup as it hosted the Caribbean Cup finals that acted as Gold Cup qualifiers, but finished fourth of the four teams. In 2001, it surprised many by making the semifinal round of the 2002 World Cup Qualifiers." ,
+		"\u5DF4\u5DF4\u591A\u65AF\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u5DF4\u5DF4\u591A\u65AF\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u5DF4\u5DF4\u591A\u65AF\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u4E2D\u5317\u7F8E\u6D32\u53CA\u52A0\u52D2\u6BD4\u6D77\u8DB3\u7403\u5354\u6703\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u5DF4\u5DF4\u591A\u65AF\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4EFB\u4F55\u570B\u969B\u5927\u8CFD\u7684\u6C7A\u8CFD\u9031\uFF0C\u7121\u8AD6\u5728\u4E16\u754C\u76C3\u53CA\u7F8E\u6D32\u91D1\u76C3\u5916\u570D\u8CFD\u968E\u6BB5\u5F9E\u672A\u53D6\u5F97\u904E\u51FA\u7DDA\u8CC7\u683C\u3002"@zh ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0628\u0631\u0628\u0627\u062F\u0648\u0633 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0627\u0644\u0645\u0644\u0642\u0628 \u0628\u0641\u062E\u0631 \u0628\u0627\u064A\u0627\u0646 \u0648\u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0641\u064A \u0628\u0631\u0628\u0627\u062F\u0648\u0633 \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0628\u0631\u0628\u0627\u062F\u0648\u0633 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0647 \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u0623\u0641\u0636\u0644 \u0627\u0646\u062C\u0627\u0632 \u062D\u0642\u0642\u0647 \u0641\u064A \u0627\u0644\u0627\u0642\u062A\u0631\u0627\u0628 \u0643\u062B\u064A\u0631\u0627\u064B \u0645\u0646 \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0627\u0644\u0643\u0623\u0633 \u0627\u0644\u0630\u0647\u0628\u064A\u0629 2005 . \u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"Die Barbadische Fu\u00DFballnationalmannschaft ist die Fu\u00DFballnationalmannschaft des karibischen Inselstaates Barbados. Bisher ist es der Mannschaft noch nicht gelungen, sich f\u00FCr den CONCACAF Gold Cup oder die Fu\u00DFball-Weltmeisterschaft zu qualifizieren."@de ,
+		"La Nazionale di calcio di Barbados \u00E8 la rappresentativa nazionale calcistica dell'omonima isola caraibica, posta sotto l'egida della Barbados Football Association ed affiliata alla CONCACAF.La squadra non ha mai raggiunto la qualificazione per i pi\u00F9 prestigiosi tornei internazionali.Nell'ambito del ranking FIFA \u00E8 arrivata ad occupare la 93\u00AA posizione diverse volte, nel giugno 2000, febbraio e ottobre 2003 e nell'ottobre 2007. Attualmente occupa la 168\u00AA piazza."@it ;
+	foaf:isPrimaryTopicOf	ns16:Barbados_national_football_team ;
+	dbpprop:club	<http://dbpedia.org/resource/Ballinamallard_United_F.C.> ,
+		dbpedia:Barbados_Defence_Force_Sports_Program ,
+		dbpedia:Pride_of_Gall_Hill_FC ,
+		dbpedia:Paradise_SC ,
+		dbpedia:Weymouth_Wales ,
+		"Rendezvous FC" ;
+	dbpprop:captain	dbpedia:Emmerson_Boyce .
+@prefix ns44:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Barbados_national_football_team	dbpprop:hasPhotoCollection	ns44:Barbados_national_football_team ;
+	dbpprop:name	dbpedia:Alvin_Rouse ,
+		"Akeene Browne" ,
+		"Renaldo Bailey" ,
+		"Ricardio Morris" ,
+		"Andre Bourne" ,
+		"Zico Phillips" ,
+		"Barbados" ,
+		dbpedia:Romelle_Burgess ,
+		"Teriq Highland" ,
+		"Armando Lashley" ,
+		"Chai Lloyd" ,
+		"Bentley Springer" ,
+		dbpedia:Ramar_Miller ,
+		dbpedia:Ramario_Harewood ,
+		dbpedia:Ramuel_Miller ,
+		dbpedia:Rashida_Williams ,
+		dbpedia:Jamal_Chandler ,
+		dbpedia:Jabarry_Chandler ,
+		dbpedia:Jason_Boxhill ,
+		dbpedia:Raheim_Sargeant ,
+		dbpedia:Mario_Harte ,
+		"Kerry Holder" ,
+		dbpedia:Diquan_Adamson ,
+		"Carl Joseph" ;
+	dbpedia-owl:abstract	"Het Barbadiaans voetbalelftal is een team van voetballers die Barbados vertegenwoordigen bij internationale wedstrijden, zoals de (kwalificatie)wedstrijden voor het WK en de Caribbean Cup.De Barbados Football Association werd in 1910 opgericht en is aangesloten bij de Cara\u00EFbische Voetbal Unie (CFU), de CONCACAF en de FIFA (sinds 1968). Het Barbadiaans voetbalelftal behaalde in oktober 2009 met de 92e plaats de hoogste positie op de FIFA-wereldranglijst, in juni 2012 werd met de 178e plaats de laagste positie bereikt."@nl ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0628\u0631\u0628\u0627\u062F\u0648\u0633 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0627\u0644\u0645\u0644\u0642\u0628 \u0628\u0641\u062E\u0631 \u0628\u0627\u064A\u0627\u0646 \u0648\u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0641\u064A \u0628\u0631\u0628\u0627\u062F\u0648\u0633 \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0628\u0631\u0628\u0627\u062F\u0648\u0633 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0647 \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u0623\u0641\u0636\u0644 \u0627\u0646\u062C\u0627\u0632 \u062D\u0642\u0642\u0647 \u0641\u064A \u0627\u0644\u0627\u0642\u062A\u0631\u0627\u0628 \u0643\u062B\u064A\u0631\u0627\u064B \u0645\u0646 \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0627\u0644\u0643\u0623\u0633 \u0627\u0644\u0630\u0647\u0628\u064A\u0629 2005 . \u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"The Barbados national football team, nicknamed Bajan Pride, is the national association football team of Barbados and is controlled by the Barbados Football Association. It has never qualified for a major international tournament. It came close to qualifying for the 2005 CONCACAF Gold Cup as it hosted the Caribbean Cup finals that acted as Gold Cup qualifiers, but finished fourth of the four teams. In 2001, it surprised many by making the semifinal round of the 2002 World Cup Qualifiers. In the first game of this round, they pulled off a shock 2\u20131 win over Costa Rica, but lost their five remaining games. In 2004, Barbados gained a shock 1\u20131 draw at home to Northern Ireland." ,
+		"La Selecci\u00F3n de f\u00FAtbol de Barbados es el representativo nacional de este pa\u00EDs. Es controlada por el Asociaci\u00F3n de F\u00FAtbol de Barbados, perteneciente a la Concacaf, a la FIFA y a la CFU."@es ,
+		"\u5DF4\u5DF4\u591A\u65AF\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u5DF4\u5DF4\u591A\u65AF\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u5DF4\u5DF4\u591A\u65AF\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u4E2D\u5317\u7F8E\u6D32\u53CA\u52A0\u52D2\u6BD4\u6D77\u8DB3\u7403\u5354\u6703\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u5DF4\u5DF4\u591A\u65AF\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4EFB\u4F55\u570B\u969B\u5927\u8CFD\u7684\u6C7A\u8CFD\u9031\uFF0C\u7121\u8AD6\u5728\u4E16\u754C\u76C3\u53CA\u7F8E\u6D32\u91D1\u76C3\u5916\u570D\u8CFD\u968E\u6BB5\u5F9E\u672A\u53D6\u5F97\u904E\u51FA\u7DDA\u8CC7\u683C\u3002"@zh ,
+		"Die Barbadische Fu\u00DFballnationalmannschaft ist die Fu\u00DFballnationalmannschaft des karibischen Inselstaates Barbados. Bisher ist es der Mannschaft noch nicht gelungen, sich f\u00FCr den CONCACAF Gold Cup oder die Fu\u00DFball-Weltmeisterschaft zu qualifizieren."@de ,
+		"Reprezentacja Barbadosu w pi\u0142ce no\u017Cnej jest narodow\u0105 dru\u017Cyn\u0105 Barbadosu i jest kontrolowana przez Zwi\u0105zek Pi\u0142karski Barbadosu (Barbados Football Association). Federacja zosta\u0142a za\u0142o\u017Cona w 1910. Od 1968 jest cz\u0142onkiem FIFA i CONCACAF. Jest to jedna z najs\u0142abszych dru\u017Cyn Karaib\u00F3w. Nigdy nie awansowa\u0142a do fina\u0142\u00F3w Mistrzostw \u015Awiata ani do Z\u0142otego Pucharu CONCACAF.Obecnie w Federacji CONCACAF, Barbados zajmuje 24. miejsce stan na (19 grudnia 2013)."@pl ,
+		"L'\u00E9quipe de Barbade de football est une s\u00E9lection des meilleurs joueurs barbadiens sous l'\u00E9gide de la F\u00E9d\u00E9ration de la Barbade de football."@fr ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0430\u0440\u0431\u0430\u0434\u043E\u0441\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u0411\u0430\u0440\u0431\u0430\u0434\u043E\u0441 \u0432 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0430\u0445 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u0442\u0441\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0435\u0439 \u0411\u0430\u0440\u0431\u0430\u0434\u043E\u0441\u0430.\u0420\u044F\u0434 \u0441\u0438\u043B\u044C\u043D\u0435\u0439\u0448\u0438\u0445 \u0438\u0433\u0440\u043E\u043A\u043E\u0432 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0440\u043E\u0434\u0438\u043B\u0438\u0441\u044C \u0438 \u0432\u044B\u0440\u043E\u0441\u043B\u0438 \u0432 \u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u0438 \u0438 \u0431\u044B\u043B\u0438 \u043F\u0440\u0438\u0432\u043B\u0435\u0447\u0435\u043D\u044B \u0432 \u0441\u043E\u0441\u0442\u0430\u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0411\u0430\u0440\u0431\u0430\u0434\u043E\u0441\u0430 \u0443\u0436\u0435 \u0441\u043E\u0441\u0442\u043E\u044F\u0432\u0448\u0438\u043C\u0438\u0441\u044F \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u0430\u043C\u0438, \u043D\u0430\u043F\u0440\u0438\u043C\u0435\u0440, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u00AB\u0423\u0438\u0433\u0430\u043D \u0410\u0442\u043B\u0435\u0442\u0438\u043A\u00BB \u042D\u043C\u043C\u0435\u0440\u0441\u043E\u043D \u0411\u043E\u0439\u0441 \u0438\u043B\u0438 \u0430\u0442\u0430\u043A\u0443\u044E\u0449\u0438\u0439 \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u041F\u043E\u043B \u0418\u0444\u0438\u043B\u043B, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0432\u0448\u0438\u0439 \u0437\u0430 \u00AB\u041C\u0438\u043B\u043B\u0443\u043E\u043B\u043B\u00BB \u0438 \u00AB\u0428\u0435\u0444\u0444\u0438\u043B\u0434 \u042E\u043D\u0430\u0439\u0442\u0435\u0434\u00BB. \u0411\u043E\u043B\u044C\u0448\u0430\u044F \u0447\u0430\u0441\u0442\u044C \u0438\u0433\u0440\u043E\u043A\u043E\u0432 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u0432 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u043C \u043F\u0435\u0440\u0432\u0435\u043D\u0441\u0442\u0432\u0435."@ru ,
+		"\u30B5\u30C3\u30AB\u30FC\u30D0\u30EB\u30D0\u30C9\u30B9\u4EE3\u8868\uFF08Barbados national football team\uFF09\u306F\u3001\u30D0\u30EB\u30D0\u30C9\u30B9\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u306B\u3088\u308A\u69CB\u6210\u3055\u308C\u308B\u30D0\u30EB\u30D0\u30C9\u30B9\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"La Nazionale di calcio di Barbados \u00E8 la rappresentativa nazionale calcistica dell'omonima isola caraibica, posta sotto l'egida della Barbados Football Association ed affiliata alla CONCACAF.La squadra non ha mai raggiunto la qualificazione per i pi\u00F9 prestigiosi tornei internazionali.Nell'ambito del ranking FIFA \u00E8 arrivata ad occupare la 93\u00AA posizione diverse volte, nel giugno 2000, febbraio e ottobre 2003 e nell'ottobre 2007. Attualmente occupa la 168\u00AA piazza."@it ,
+		"A Sele\u00E7\u00E3o Barbadense de Futebol, apelidada de Os Bajans, representa Barbados nas competi\u00E7\u00F5es internacionais de futebol. Nunca se classificou para uma competi\u00E7\u00E3o importante, por\u00E9m esteve pr\u00F3ximo de se classificar para a Copa Ouro em 2005. Em 2001, surpreendeu chegando \u00E0s semifinais das eliminat\u00F3rias para a Copa 2002."@pt ;
+	dbpedia-owl:wikiPageID	1047708 ;
+	dbpedia-owl:wikiPageRevisionID	604324989 ;
+	dbpprop:clubnat	"BRB" ,
+		"NIR" ;
+	dbpprop:goals	8 ,
+		0 ,
+		1 ;
+	dbpprop:caps	10 ,
+		13 ,
+		15 ,
+		0 ,
+		1 ,
+		4 ,
+		7 ,
+		28 ,
+		29 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Barbados_national_football_team	dbpprop:age	"1988-08-30+02:00"^^xsd:date ,
+		"1983-10-31+02:00"^^xsd:date ,
+		"1989-03-06+02:00"^^xsd:date ,
+		"1982-03-14+02:00"^^xsd:date ,
+		"1983-05-21+02:00"^^xsd:date ,
+		"1989-11-26+02:00"^^xsd:date ,
+		"1982-04-11+02:00"^^xsd:date ,
+		"1994-02-10+02:00"^^xsd:date ,
+		"1992-06-09+02:00"^^xsd:date ,
+		"1979-11-19+02:00"^^xsd:date ,
+		"1982-08-13+02:00"^^xsd:date ,
+		"1988-09-20+02:00"^^xsd:date ,
+		"1994-04-11+02:00"^^xsd:date ,
+		"1994-08-17+02:00"^^xsd:date ,
+		"1996-03-14+02:00"^^xsd:date ,
+		"1991-11-08+02:00"^^xsd:date ,
+		"1980-01-28+02:00"^^xsd:date ,
+		"1996-07-05+02:00"^^xsd:date ;
+	dbpprop:coach	dbpedia:Colin_Forde ;
+	dbpprop:patternSh	"_Barbados11Away" ,
+		"_Barbados11Home" ;
+	dbpedia-owl:coach	dbpedia:Colin_Forde ;
+	dbpprop:patternSo	"_Barbados11Away" ,
+		"_Barbados11Home" ;
+	dbpprop:association	dbpedia:Barbados_Football_Association ;
+	dbpprop:body	0 ,
+		"gold" ;
+	dbpprop:confederation	dbpedia:CONCACAF ;
+	dbpprop:fifaRank	173 ;
+	dbpprop:fifaTrigramme	"BRB" ;
+	dbpprop:leftarm	0 ,
+		"gold" ;
+	dbpprop:patternB	"_Barbados11Away" ,
+		"_Barbados11Home" ;
+	dbpprop:patternLa	"_Barbados11Away" ,
+		"_Barbados11Home" ;
+	dbpprop:patternRa	"_Barbados11Away" ,
+		"_Barbados11Home" ;
+	dbpprop:rightarm	0 ,
+		"gold" ;
+	dbpprop:shorts	0 ,
+		"gold" ;
+	dbpprop:socks	0 ,
+		"gold" ;
+	dbpprop:pos	"FW" ,
+		"GK" ,
+		"MF" ,
+		"DF" ;
+	dbpprop:badge	"Barbados FA.png" ;
+	dbpprop:firstGame	"Barbados 3\u20132" ;
+	dbpprop:largestLoss	9 ;
+	dbpprop:largestWin	"Barbados 7\u20131" ;
+	dbpprop:regionalName	dbpedia:CONCACAF_Gold_Cup ;
+	dbpprop:eloMax	106 ;
+	dbpprop:eloMaxDate	"2000-07-16+02:00"^^xsd:date ;
+	dbpprop:eloMin	166 ;
+	dbpprop:eloMinDate	"2011-11-14+02:00"^^xsd:date ;
+	dbpprop:eloRank	163 ;
+	dbpprop:fifaMax	92 ;
+	dbpprop:fifaMaxDate	"October 2009" ;
+	dbpprop:fifaMin	178 ;
+	dbpprop:fifaMinDate	"June 2012" ;
+	dbpprop:subConfederation	"CFU" ;
+	dbpedia-owl:wikiPageExternalLink	<http://bps.gov.bb/index.php?ZZZ=1_1055_10_0_0_&YYY=21_59> ,
+		<http://www.fifa.com/associations/association=brb/index.html> ;
+	dbpprop:homeStadium	dbpedia:Barbados_National_Stadium ;
+	dbpedia-owl:stadium	dbpedia:Barbados_National_Stadium ;
+	dbpprop:nickname	"Bajan Tridents" .
+dbpedia:Jon_Nurse	dbpedia-owl:birthPlace	dbpedia:Barbados_national_football_team ;
+	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Alvin_Rouse	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Mark_McCammon	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Matt_Joseph	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+ns30:منتخب_بربادوس_لكرة_القدم	owl:sameAs	dbpedia:Barbados_national_football_team .
+ns24:تیم_ملی_فوتبال_باربادوس	owl:sameAs	dbpedia:Barbados_national_football_team .
+ns29:Barbadoksen_jalkapallomaajoukkue	owl:sameAs	dbpedia:Barbados_national_football_team .
+ns36:נבחרת_ברבדוס_בכדורגל	owl:sameAs	dbpedia:Barbados_national_football_team .
+ns37:Barbados_national_football_team	owl:sameAs	dbpedia:Barbados_national_football_team .
+ns22:Barbadoska_nogometna_reprezentacija	owl:sameAs	dbpedia:Barbados_national_football_team .
+ns31:Barbadosi_labdarúgó-válogatott	owl:sameAs	dbpedia:Barbados_national_football_team .
+ns39:Barbadoso_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Barbados_national_football_team .
+ns25:बार्बाडोस_फुटबॉल_संघ	owl:sameAs	dbpedia:Barbados_national_football_team .
+ns21:Echipa_națională_de_fotbal_a_Barbadosului	owl:sameAs	dbpedia:Barbados_national_football_team .
+ns34:Сборная_Барбадоса_по_футболу	owl:sameAs	dbpedia:Barbados_national_football_team .
+ns27:Barbados_national_football_team	owl:sameAs	dbpedia:Barbados_national_football_team .
+ns35:Barbados_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Barbados_national_football_team .
+ns23:Barbados_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Barbados_national_football_team .
+ns33:Збірна_Барбадосу_з_футболу	owl:sameAs	dbpedia:Barbados_national_football_team .
+ns28:Đội_tuyển_bóng_đá_quốc_gia_Barbados	owl:sameAs	dbpedia:Barbados_national_football_team .
+ns26:巴巴多斯國家足球隊	owl:sameAs	dbpedia:Barbados_national_football_team .
+dbpedia:Paul_Ifill__6	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+<http://dbpedia.org/resource/Michael_Gilkes_(footballer)>	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Eric_Lavine	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Romell_Brathwaite	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Elvis_Defreitas	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+<http://dbpedia.org/resource/Neil_Harvey_(footballer)>	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Madalitso_Mkoloma	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+<http://dbpedia.org/resource/Barbados_4%E2%80%932_Grenada_(1994_Caribbean_Cup_qualification)>	dbpprop:team	dbpedia:Barbados_national_football_team ;
+	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpedia-owl:city	dbpedia:Barbados_national_football_team .
+dbpedia:Daryl_Ferguson	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Louis_Moss__5	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+dbpedia:Louie_Soares__13	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+dbpedia:Jon_Nurse__8	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+dbpedia:Wayne_Sobers	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+<http://dbpedia.org/resource/John_Parris_(footballer)>	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Kadeem_Atkins	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Jonathan_Forte	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Gus_Hurdle	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Paul_Ifill	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Norman_Forde	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Romelle_Burgess	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Dwight_James	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Keith_Griffith	dbpedia-owl:managerClub	dbpedia:Barbados_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Barbados_national_football_team ;
+	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Miles_Jones	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Horace_Stoute	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Emmerson_Boyce	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Dwayne_Mars	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+<http://dbpedia.org/resource/John_Parris_(footballer)__1>	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+dbpedia:Daryl_Ferguson__6	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+dbpedia:Daryl_Ferguson__5	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+dbpedia:Miles_Jones__10	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+dbpedia:Louie_Soares	dbpedia-owl:team	dbpedia:Barbados_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Barbados_national_football_team .
+dbpedia:Alvin_Rouse__9	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+dbpedia:Elvis_Defreitas__3	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+dbpedia:Romell_Brathwaite__1	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+dbpedia:Dwayne_Mars__2	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+dbpedia:Norman_Forde__1	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+dbpedia:Dwight_James__1	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+<http://dbpedia.org/resource/Neil_Harvey_(footballer)__6>	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+dbpedia:Gus_Hurdle__16	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+dbpedia:Kadeem_Atkins__1	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+dbpedia:Romelle_Burgess__4	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+dbpedia:Eric_Lavine__5	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+dbpedia:Emmerson_Boyce__6	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+dbpedia:Madalitso_Mkoloma__1	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+<http://dbpedia.org/resource/Michael_Gilkes_(footballer)__9>	dbpedia-owl:team	dbpedia:Barbados_national_football_team .
+dbpedia:Bajan_Pride	dbpedia-owl:wikiPageRedirects	dbpedia:Barbados_national_football_team .
+dbpedia:Barbados_football	dbpedia-owl:wikiPageRedirects	dbpedia:Barbados_national_football_team .
+dbpedia:Barbados_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Barbados_national_football_team .
+dbpedia:Matt_Joseph__8	dbpedia-owl:team	dbpedia:Barbados_national_football_team .

@@ -1,0 +1,269 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Shakira	dbpedia-owl:partner	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:History_of_FC_Barcelona	dbpprop:lcb	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+dbpedia:Gerard	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns4:	<http://en.wikipedia.org/wiki/> .
+ns4:Gerard_Piqué	foaf:primaryTopic	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+<http://dbpedia.org/resource/2007_FIFA_U-20_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+<http://dbpedia.org/resource/2010_FIFA_Ballon_d\u0027Or>	dbpprop:rcb	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+<http://dbpedia.org/resource/2008%E2%80%9309_FC_Barcelona_season>	dbpprop:p	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+<http://dbpedia.org/resource/2010%E2%80%9311_FC_Barcelona_season>	dbpprop:p	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+<http://dbpedia.org/resource/2009%E2%80%9310_FC_Barcelona_season>	dbpprop:p	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+dbpedia:Spain_national_football_team	dbpprop:name	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+<http://dbpedia.org/resource/FC_Barcelona__Gerard_Piqu%C3%A9__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+dbpedia:Al_Islah_Al_Bourj_Al_Shimaly	dbpprop:name	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+<http://dbpedia.org/resource/2013_FIFA_Confederations_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+<http://dbpedia.org/resource/2011_FIFA_Club_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Gerard_Piqu%C3%A9>	rdf:type	yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:CatalanFootballers ,
+		yago:FootballPlayer110101634 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Gerard_Piqu%C3%A9>	rdf:type	dul:NaturalPerson ,
+		yago:SpainInternationalFootballers ,
+		yago:Athlete109820263 ,
+		yago:ExpatriateFootballersInEngland ,
+		dul:Agent .
+@prefix ns8:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Gerard_Piqu%C3%A9>	rdf:type	ns8:Q5 ,
+		yago:Player110439851 ,
+		yago:AssociationFootballDefenders ,
+		yago:SpanishFootballers ,
+		<http://dbpedia.org/class/yago/ManchesterUnitedF.C.Players> ,
+		yago:SpanishExpatriateFootballers ,
+		yago:LaLigaFootballers ,
+		yago:PremierLeaguePlayers ,
+		yago:PeopleFromBarcelona ,
+		yago:FCBarcelonaFootballers ,
+		yago:SpainUnder-21InternationalFootballers ,
+		yago:Contestant109613191 .
+@prefix ns9:	<http://schema.org/> .
+<http://dbpedia.org/resource/Gerard_Piqu%C3%A9>	rdf:type	ns9:Person ,
+		yago:SpainYouthInternationalFootballers ,
+		yago:Whole100003553 ,
+		yago:Object100002684 ,
+		dbpedia-owl:Athlete ,
+		yago:PhysicalEntity100001930 ,
+		<http://dbpedia.org/class/yago/2009FIFAConfederationsCupPlayers> ,
+		dbpedia-owl:Person ,
+		ns8:Q215627 ,
+		dbpedia-owl:SoccerPlayer .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Gerard_Piqu%C3%A9>	rdf:type	owl:Thing ,
+		yago:Preserver110466918 ,
+		dbpedia-owl:Agent ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:RealZaragozaFootballers ,
+		yago:Defender109614684 .
+@prefix ns11:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Gerard_Piqu%C3%A9>	rdf:type	ns11:SoccerPlayer ,
+		foaf:Person ,
+		yago:YagoLegalActor ,
+		ns11:Athlete ,
+		yago:LivingPeople .
+@prefix ns12:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Gerard_Piqu%C3%A9>	owl:sameAs	ns12:Gerard_Piqué ,
+		<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> ,
+		<http://rdf.freebase.com/ns/m.055kq6> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Gerard_Piqu%C3%A9>	rdfs:label	"Gerard Piqu\u00E9"@pl ,
+		"Gerard Piqu\u00E9"@fr ,
+		"\u062C\u064A\u0631\u0627\u0631\u062F \u0628\u064A\u0643\u064A"@ar ,
+		"\u041F\u0438\u043A\u0435, \u0416\u0435\u0440\u0430\u0440"@ru ,
+		"Gerard Piqu\u00E9"@nl ,
+		"\u30B8\u30A7\u30E9\u30FC\u30EB\u30FB\u30D4\u30B1"@ja ,
+		"Gerard Piqu\u00E9"@pt ,
+		"Gerard Piqu\u00E9"@it ,
+		"Gerard Piqu\u00E9"@es ,
+		"Gerard Piqu\u00E9"@de ,
+		"\u8D6B\u62C9\u5FB7\u00B7\u76AE\u514B"@zh ,
+		"Gerard Piqu\u00E9" .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Gerard_Piqu%C3%A9>	dcterms:subject	category:Spain_youth_international_footballers ,
+		<http://dbpedia.org/resource/Category:1987_births> ,
+		category:Spanish_expatriate_sportspeople_in_the_United_Kingdom ,
+		category:Premier_League_players ,
+		category:Spain_under-21_international_footballers ,
+		<http://dbpedia.org/resource/Category:Manchester_United_F.C._players> ,
+		category:Living_people ,
+		category:Spain_international_footballers ,
+		category:Spanish_expatriate_footballers ,
+		<http://dbpedia.org/resource/Category:2013_FIFA_Confederations_Cup_players> ,
+		category:Spanish_expatriates_in_England ,
+		category:Spanish_footballers ,
+		category:Association_football_defenders ,
+		category:FC_Barcelona_footballers ,
+		category:FIFA_World_Cup-winning_players ,
+		category:La_Liga_footballers ,
+		category:Catalan_footballers ,
+		category:Real_Zaragoza_footballers ,
+		category:Sportspeople_from_Barcelona ,
+		category:UEFA_European_Championship-winning_players ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Expatriate_footballers_in_England ,
+		category:UEFA_Euro_2012_players ,
+		<http://dbpedia.org/resource/Category:2009_FIFA_Confederations_Cup_players> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Gerard_Piqu\u00E9_Euro_2012_vs_France_01.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Gerard_Piqu%C3%A9>	dc:description	"Spanish footballer" ,
+		"Spanish footballer" ;
+	foaf:givenName	"Gerard" ;
+	foaf:name	"Gerard Piqu\u00E9" ,
+		"Piqu\u00E9 Bernabeu, Gerard" ,
+		"Gerard Piqu\u00E9 Bernabeu" ,
+		"Gerard Piqu\u00E9 i Bernabeu" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Gerard_Piqu%C3%A9>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Gerard_Piqu\u00E9?oldid=604721256> ;
+	rdfs:comment	"Gerard Piqu\u00E9 i Bernabeu n\u00E9 le 2 f\u00E9vrier 1987 \u00E0 Barcelone (Catalogne, Espagne) est un footballeur international espagnol.Il \u00E9volue au sein du FC Barcelone depuis 2008 au poste de d\u00E9fenseur central."@fr ,
+		"Gerard Piqu\u00E9 i Bernabeu (Catalan: [\u0292\u0259\u02C8\u027Ear pi\u02C8ke j \u03B2\u0259rn\u0259\u02C8\u03B2ew], Spanish: [\u029De\u02C8\u027Ear pi\u02C8ke i \u03B2erna\u02C8\u03B2eu]; born 2 February 1987) is a Spanish professional footballer who plays as a centre-back for FC Barcelona.A product of Bar\u00E7a's cantera, La Masia, he initially left the club for Manchester United in 2004, where he remained for four years, before returning to Bar\u00E7a under Pep Guardiola's leadership, helping the club become the first ever to complete a Sextuple." ,
+		"Gerard Piqu\u00E9 Bernabeu (katalo\u0144ska wymowa [\u0292\u0259\u02C8\u027Ear pi\u02C8ke]; ur. 2 lutego 1987 w Barcelonie) \u2013 hiszpa\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji \u015Brodkowego obro\u0144cy. Mistrz \u015Awiata '10 z RPA. Od sezonu 2008/2009 zawodnik FC Barcelony.Karier\u0119 zaczyna\u0142 w m\u0142odzie\u017C\u00F3wce FC Barcelona, sk\u0105d w lutym 2004 roku trafi\u0142 do Manchesteru United."@pl ,
+		"\u0416\u0435\u0440\u0430\u0301\u0440 \u041F\u0438\u043A\u0435\u0301 -\u0438-\u0411\u0435\u0440\u043D\u0430\u0431\u0435\u0301\u0443 (\u043A\u0430\u0442. Gerard Piqu\u00E9 i Bernab\u00E9u; \u0440\u043E\u0434. 2 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1987, \u0411\u0430\u0440\u0441\u0435\u043B\u043E\u043D\u0430) \u2014 \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u00AB\u0411\u0430\u0440\u0441\u0435\u043B\u043E\u043D\u044B\u00BB \u0438 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0418\u0441\u043F\u0430\u043D\u0438\u0438. \u0427\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0418\u0441\u043F\u0430\u043D\u0438\u0438 (\u0427\u041C-2010)."@ru ,
+		"Gerard Piqu\u00E9 i Bernabeu [ katal.: \u0292\u0259\u02C8\u027Ear pi\u02C8ke j \u03B2\u0259rn\u0259\u02C8\u03B2ew, span. \u029De\u02C8\u027Ear pi\u02C8ke i \u03B2erna\u02C8\u03B2eu] (* 2. Februar 1987 in Barcelona, Katalonien) ist ein spanischer Fu\u00DFballspieler, der seit 2008 beim FC Barcelona unter Vertrag steht."@de ,
+		"\u062C\u064A\u0631\u0627\u0631\u062F \u0628\u064A\u0643\u064A \u0628\u0631\u0646\u0627\u0628\u064A\u0648 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: Gerard Piqu\u00E9 i Bernabeu) (\u0648\u064F\u0644\u062F \u0641\u064A 2 \u0641\u0628\u0631\u0627\u064A\u0631 1987) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0625\u0633\u0628\u0627\u0646\u064A \u064A\u0644\u0639\u0628 \u0641\u064A \u0646\u0627\u062F\u064A \u0628\u0631\u0634\u0644\u0648\u0646\u0629 \u0628\u0645\u0631\u0643\u0632 \u0627\u0644\u062F\u0641\u0627\u0639\u060C \u0648\u064A\u0644\u0639\u0628 \u0645\u0639 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0623\u0633\u0628\u0627\u0646\u064A \u0628\u0646\u0641\u0633 \u0627\u0644\u0645\u0631\u0643\u0632.\u0646\u0634\u0623 \u0628\u064A\u0643\u064A \u0641\u064A \u0635\u0641\u0648\u0641 \u0623\u0646\u062F\u064A\u0629 \u0627\u0644\u0634\u0628\u0627\u0628 \u0627\u0644\u062A\u0627\u0628\u0639\u0629 \u0644\u0646\u0627\u062F\u064A \u0628\u0631\u0634\u0644\u0648\u0646\u0629 \u0648\u0641\u064A 2004 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0645\u0627\u0646\u0634\u0633\u062A\u0631 \u064A\u0648\u0646\u0627\u064A\u062A\u062F\u060C \u0648\u062A\u0645\u062A \u0625\u0639\u0627\u0631\u062A\u0647 \u0641\u064A 2006 \u0625\u0644\u0649 \u0631\u064A\u0627\u0644 \u0633\u0631\u0642\u0633\u0637\u0629 \u0644\u0633\u0646\u0629 \u0648\u0627\u062D\u062F\u0629\u060C \u0642\u0628\u0644 \u0623\u0646 \u064A\u0639\u0648\u062F \u0641\u064A 2008 \u0625\u0644\u0649 \u0628\u0631\u0634\u0644\u0648\u0646\u0629."@ar ,
+		"\u8D6B\u62C9\u5FB7\u00B7\u76AE\u514B\u00B7\u4F2F\u7EB3\u4E4C\uFF08Gerard Piqu\u00E9 Bernabeu\uFF0C1987\u5E742\u67082\u65E5\uFF0D\uFF09\u751F\u4E8E\u5DF4\u585E\u7F57\u90A3\uFF0C\u897F\u73ED\u7259\u804C\u4E1A\u8DB3\u7403\u8FD0\u52A8\u5458\u30022004\u5E747\u67081\u65E5\uFF0C\u82F1\u8D85\u66FC\u8054\u961F\u4ECE\u5DF4\u585E\u7F57\u90A3\u5F15\u8FDB\u76AE\u514B\u3002\u4ED6\u9996\u6B21\u4EE3\u8868\u66FC\u8054\u961F\u57282004\u5E7410\u670826\u65E5\u5BF9\u9635\u514B\u9C81\u7684\u676F\u8D5B\u4E2D\u51FA\u573A\u3002\u4ED6\u4E5F\u66FE\u662F\u897F\u73ED\u7259U17\u548CU19\u7684\u6210\u5458\u3002\u76AE\u514B\u662F\u7E7C\u4FDD\u7F85\u00B7\u8607\u6C99\u548C\u8FEA\u897F\u91CC\u5F8C\u9996\u4F4D\u9023\u7E8C\u5730\u70BA\u5169\u9593\u7403\u6703\u596A\u5F97\u6B50\u6D32\u806F\u8CFD\u51A0\u8ECD\u76C3\u7684\u7403\u54E1\u3002\u4ED6\u4E8E2007-2008\u6B50\u6D32\u806F\u8CFD\u51A0\u8ECD\u76C3\u70BA\u66FC\u806F\u596A\u6A19\uFF0C\u800C\u540E\u57282008-2009\u6B50\u6D32\u806F\u8CFD\u51A0\u8ECD\u76C3\u70BA\u6BCD\u968A\u65BC\u6C7A\u8CFD\u5834\u4E0A\u64CA\u6557\u66FC\u806F\uFF0C\u9023\u7E8C\u5169\u5E74\u6210\u70BA\u51A0\u8ECD\u968A\u6210\u54E1\u3002"@zh ,
+		"Gerard Piqu\u00E9 Bernab\u00E9u (Barcelona, 2 februari 1987) is een Spaans betaald voetballer die als verdediger speelt. Hij verruilde in mei 2008 Manchester United FC voor FC Barcelona, waar hij in februari 2010 zijn contract tussentijds verlengde tot aan de zomer van 2015. In februari 2009 debuteerde hij in het Spaans voetbalelftal, waarmee hij een jaar later het WK 2010 won."@nl ,
+		"\u30B8\u30A7\u30E9\u30FC\u30EB\u30FB\u30D4\u30B1\u30FB\u30D9\u30EB\u30CA\u30D9\u30A6\uFF08Gerard Piqu\u00E9 Bernab\u00E9u, 1987\u5E742\u67082\u65E5 - \uFF09\u306F\u3001\u30B9\u30DA\u30A4\u30F3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30B9\u30DA\u30A4\u30F3\u4EE3\u8868\u3067\u3042\u308B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002\u7956\u7236\u306F\u304B\u3064\u3066FC\u30D0\u30EB\u30BB\u30ED\u30CA\u306E\u526F\u4F1A\u9577\u3092\u52D9\u3081\u305F\u30A2\u30DE\u30C9\u30FC\u30EB\u30FB\u30D9\u30EB\u30CA\u30D9\u30A6\u3067\u3001\u59BB\u306F\u30B3\u30ED\u30F3\u30D3\u30A2\u4EBA\u6B4C\u624B\u30B7\u30E3\u30AD\u30FC\u30E9\u3002"@ja ,
+		"Gerard Piqu\u00E9 i Bernab\u00E9u (Barcelona 2 de fevereiro de 1987) \u00E9 um futebolista espanhol que atua como zagueiro. Atualmente, joga no Barcelona.Piqu\u00E9 foi convocado para a sele\u00E7\u00E3o espanhola para a Copa do Mundo de 2010. Em que sua sele\u00E7\u00E3o foi campe\u00E3o contra a Holanda vencendo o jogo por 1 a 0 na prorroga\u00E7\u00E3o. com gol de Iniesta.Ele participou da Euro de 2012.E sua sele\u00E7\u00E3o foi campe\u00E3o contra a It\u00E1lia vencendo o jogo por 4 a 0."@pt ,
+		"Gerard Piqu\u00E9 Bernab\u00E9u (Barcellona, 2 febbraio 1987) \u00E8 un calciatore spagnolo, difensore del Barcellona e della Nazionale spagnola, con le quali ha vinto rispettivamente il campionato mondiale per club nel 2009 e nel 2011 e per nazionali nel 2010."@it ;
+	foaf:surname	"Piqu\u00E9 Bernabeu" ;
+	foaf:isPrimaryTopicOf	ns4:Gerard_Piqué .
+@prefix ns18:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Gerard_Piqu%C3%A9>	dbpprop:hasPhotoCollection	ns18:Gerard_Piqué ;
+	dbpprop:caption	"Gerard Piqu\u00E9 playing for Spain at Euro 2012" ;
+	dbpprop:name	"Piqu\u00E9 Bernabeu, Gerard" ,
+		"Gerard Piqu\u00E9" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Gerard_Piqu\u00E9_Euro_2012_vs_France_01.jpg?width=300> ;
+	dbpedia-owl:abstract	"Gerard Piqu\u00E9 i Bernabeu [ katal.: \u0292\u0259\u02C8\u027Ear pi\u02C8ke j \u03B2\u0259rn\u0259\u02C8\u03B2ew, span. \u029De\u02C8\u027Ear pi\u02C8ke i \u03B2erna\u02C8\u03B2eu] (* 2. Februar 1987 in Barcelona, Katalonien) ist ein spanischer Fu\u00DFballspieler, der seit 2008 beim FC Barcelona unter Vertrag steht."@de ,
+		"\u30B8\u30A7\u30E9\u30FC\u30EB\u30FB\u30D4\u30B1\u30FB\u30D9\u30EB\u30CA\u30D9\u30A6\uFF08Gerard Piqu\u00E9 Bernab\u00E9u, 1987\u5E742\u67082\u65E5 - \uFF09\u306F\u3001\u30B9\u30DA\u30A4\u30F3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30B9\u30DA\u30A4\u30F3\u4EE3\u8868\u3067\u3042\u308B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002\u7956\u7236\u306F\u304B\u3064\u3066FC\u30D0\u30EB\u30BB\u30ED\u30CA\u306E\u526F\u4F1A\u9577\u3092\u52D9\u3081\u305F\u30A2\u30DE\u30C9\u30FC\u30EB\u30FB\u30D9\u30EB\u30CA\u30D9\u30A6\u3067\u3001\u59BB\u306F\u30B3\u30ED\u30F3\u30D3\u30A2\u4EBA\u6B4C\u624B\u30B7\u30E3\u30AD\u30FC\u30E9\u3002"@ja ,
+		"Gerard Piqu\u00E9 i Bernab\u00E9u (Barcelona 2 de fevereiro de 1987) \u00E9 um futebolista espanhol que atua como zagueiro. Atualmente, joga no Barcelona.Piqu\u00E9 foi convocado para a sele\u00E7\u00E3o espanhola para a Copa do Mundo de 2010. Em que sua sele\u00E7\u00E3o foi campe\u00E3o contra a Holanda vencendo o jogo por 1 a 0 na prorroga\u00E7\u00E3o. com gol de Iniesta.Ele participou da Euro de 2012.E sua sele\u00E7\u00E3o foi campe\u00E3o contra a It\u00E1lia vencendo o jogo por 4 a 0."@pt ,
+		"Gerard Piqu\u00E9 Bernabeu (katalo\u0144ska wymowa [\u0292\u0259\u02C8\u027Ear pi\u02C8ke]; ur. 2 lutego 1987 w Barcelonie) \u2013 hiszpa\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji \u015Brodkowego obro\u0144cy. Mistrz \u015Awiata '10 z RPA. Od sezonu 2008/2009 zawodnik FC Barcelony.Karier\u0119 zaczyna\u0142 w m\u0142odzie\u017C\u00F3wce FC Barcelona, sk\u0105d w lutym 2004 roku trafi\u0142 do Manchesteru United. Od pocz\u0105tku uznawany by\u0142 za utalentowanego obro\u0144c\u0119.Sw\u00F3j debiut w barwach ekipy z Old Trafford zaliczy\u0142 w pa\u017Adzierniku 2004 roku w wygranym 3:1 meczu z Sunderlandem, wchodz\u0105c na boisko z \u0142awki rezerwowych. Po raz pierwszy w wyj\u015Bciowym sk\u0142adzie wyszed\u0142 29 marca 2006 roku przeciwko West Hamowi United, rozpoczynaj\u0105c mecz na prawej obronie, gdzie zast\u0119powa\u0142 Gary'ego Neville'a.Jednak na pocz\u0105tku sezonu 2006/2007 Sir Alex Ferguson zdecydowa\u0142 si\u0119 go wypo\u017Cyczy\u0107 do klubu z jego ojczyzny, Realu Saragossa, aby umo\u017Cliwi\u0107 mu cz\u0119stsze wyst\u0119py w podstawowej jedenastce. Hiszpan by\u0142 obok braci (Gabriela i Diego) Milito jednym z lepszych pi\u0142karzy swojej ekipy, kt\u00F3ra zaj\u0119\u0142a w tabeli Primera Divisi\u00F3n 6. miejsce, premiowane startem w Pucharze UEFA w kolejnym sezonie.Pique nie dane jednak by\u0142o wyst\u0105pi\u0107 w tych rozgrywkach, gdy\u017C w lipcu 2007 roku musia\u0142 wr\u00F3ci\u0107 do Manchesteru. W sezonie 2007/2008 by\u0142 tylko graczem rezerwowym i wyst\u0105pi\u0142 w zaledwie 9 meczach (z czego 5 w podstawowej jedenastce), dlatego jego wk\u0142ad w wygranie rozgrywek Premier League i Ligi Mistrz\u00F3w by\u0142 niewielki."@pl ,
+		"Gerard Piqu\u00E9 Bernab\u00E9u (Barcelona, 2 februari 1987) is een Spaans betaald voetballer die als verdediger speelt. Hij verruilde in mei 2008 Manchester United FC voor FC Barcelona, waar hij in februari 2010 zijn contract tussentijds verlengde tot aan de zomer van 2015. In februari 2009 debuteerde hij in het Spaans voetbalelftal, waarmee hij een jaar later het WK 2010 won."@nl ,
+		"\u0416\u0435\u0440\u0430\u0301\u0440 \u041F\u0438\u043A\u0435\u0301 -\u0438-\u0411\u0435\u0440\u043D\u0430\u0431\u0435\u0301\u0443 (\u043A\u0430\u0442. Gerard Piqu\u00E9 i Bernab\u00E9u; \u0440\u043E\u0434. 2 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1987, \u0411\u0430\u0440\u0441\u0435\u043B\u043E\u043D\u0430) \u2014 \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u00AB\u0411\u0430\u0440\u0441\u0435\u043B\u043E\u043D\u044B\u00BB \u0438 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0418\u0441\u043F\u0430\u043D\u0438\u0438. \u0427\u0435\u043C\u043F\u0438\u043E\u043D \u043C\u0438\u0440\u0430 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0418\u0441\u043F\u0430\u043D\u0438\u0438 (\u0427\u041C-2010)."@ru ,
+		"Gerard Piqu\u00E9 i Bernabeu n\u00E9 le 2 f\u00E9vrier 1987 \u00E0 Barcelone (Catalogne, Espagne) est un footballeur international espagnol.Il \u00E9volue au sein du FC Barcelone depuis 2008 au poste de d\u00E9fenseur central. Il a d\u00E9but\u00E9 avec l'\u00E9quipe d'Espagne en 2009.En 2009, Gerard Piqu\u00E9 a obtenu avec son club un sextupl\u00E9 in\u00E9dit dans l'histoire du football : Ligue des champions, championnat d'Espagne, Coupe du Roi, Supercoupe d'Europe, Supercoupe d'Espagne et Coupe du monde des clubs.Le 11 juillet 2010, il remporte la Coupe du monde avec l'Espagne 1-0 contre les Pays-Bas, puis le 1er juillet 2012 le Championnat d'Europe 4-0 contre l'Italie en finale."@fr ,
+		"Gerard Piqu\u00E9 Bernab\u00E9u (Barcellona, 2 febbraio 1987) \u00E8 un calciatore spagnolo, difensore del Barcellona e della Nazionale spagnola, con le quali ha vinto rispettivamente il campionato mondiale per club nel 2009 e nel 2011 e per nazionali nel 2010."@it ,
+		"Gerard Piqu\u00E9 i Bernabeu (Catalan: [\u0292\u0259\u02C8\u027Ear pi\u02C8ke j \u03B2\u0259rn\u0259\u02C8\u03B2ew], Spanish: [\u029De\u02C8\u027Ear pi\u02C8ke i \u03B2erna\u02C8\u03B2eu]; born 2 February 1987) is a Spanish professional footballer who plays as a centre-back for FC Barcelona.A product of Bar\u00E7a's cantera, La Masia, he initially left the club for Manchester United in 2004, where he remained for four years, before returning to Bar\u00E7a under Pep Guardiola's leadership, helping the club become the first ever to complete a Sextuple. Piqu\u00E9 is one of four players to have won the UEFA Champions League two years in a row with different teams, the others being Marcel Desailly, Paulo Sousa and Samuel Eto'o.Piqu\u00E9 has also represented Spain, making his debut on 11 February 2009. He played an integral role in the Spain team that won the 2010 FIFA World Cup and UEFA Euro 2012." ,
+		"\u8D6B\u62C9\u5FB7\u00B7\u76AE\u514B\u00B7\u4F2F\u7EB3\u4E4C\uFF08Gerard Piqu\u00E9 Bernabeu\uFF0C1987\u5E742\u67082\u65E5\uFF0D\uFF09\u751F\u4E8E\u5DF4\u585E\u7F57\u90A3\uFF0C\u897F\u73ED\u7259\u804C\u4E1A\u8DB3\u7403\u8FD0\u52A8\u5458\u30022004\u5E747\u67081\u65E5\uFF0C\u82F1\u8D85\u66FC\u8054\u961F\u4ECE\u5DF4\u585E\u7F57\u90A3\u5F15\u8FDB\u76AE\u514B\u3002\u4ED6\u9996\u6B21\u4EE3\u8868\u66FC\u8054\u961F\u57282004\u5E7410\u670826\u65E5\u5BF9\u9635\u514B\u9C81\u7684\u676F\u8D5B\u4E2D\u51FA\u573A\u3002\u4ED6\u4E5F\u66FE\u662F\u897F\u73ED\u7259U17\u548CU19\u7684\u6210\u5458\u3002\u76AE\u514B\u662F\u7E7C\u4FDD\u7F85\u00B7\u8607\u6C99\u548C\u8FEA\u897F\u91CC\u5F8C\u9996\u4F4D\u9023\u7E8C\u5730\u70BA\u5169\u9593\u7403\u6703\u596A\u5F97\u6B50\u6D32\u806F\u8CFD\u51A0\u8ECD\u76C3\u7684\u7403\u54E1\u3002\u4ED6\u4E8E2007-2008\u6B50\u6D32\u806F\u8CFD\u51A0\u8ECD\u76C3\u70BA\u66FC\u806F\u596A\u6A19\uFF0C\u800C\u540E\u57282008-2009\u6B50\u6D32\u806F\u8CFD\u51A0\u8ECD\u76C3\u70BA\u6BCD\u968A\u65BC\u6C7A\u8CFD\u5834\u4E0A\u64CA\u6557\u66FC\u806F\uFF0C\u9023\u7E8C\u5169\u5E74\u6210\u70BA\u51A0\u8ECD\u968A\u6210\u54E1\u3002"@zh ,
+		"\u062C\u064A\u0631\u0627\u0631\u062F \u0628\u064A\u0643\u064A \u0628\u0631\u0646\u0627\u0628\u064A\u0648 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: Gerard Piqu\u00E9 i Bernabeu) (\u0648\u064F\u0644\u062F \u0641\u064A 2 \u0641\u0628\u0631\u0627\u064A\u0631 1987) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0625\u0633\u0628\u0627\u0646\u064A \u064A\u0644\u0639\u0628 \u0641\u064A \u0646\u0627\u062F\u064A \u0628\u0631\u0634\u0644\u0648\u0646\u0629 \u0628\u0645\u0631\u0643\u0632 \u0627\u0644\u062F\u0641\u0627\u0639\u060C \u0648\u064A\u0644\u0639\u0628 \u0645\u0639 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0623\u0633\u0628\u0627\u0646\u064A \u0628\u0646\u0641\u0633 \u0627\u0644\u0645\u0631\u0643\u0632.\u0646\u0634\u0623 \u0628\u064A\u0643\u064A \u0641\u064A \u0635\u0641\u0648\u0641 \u0623\u0646\u062F\u064A\u0629 \u0627\u0644\u0634\u0628\u0627\u0628 \u0627\u0644\u062A\u0627\u0628\u0639\u0629 \u0644\u0646\u0627\u062F\u064A \u0628\u0631\u0634\u0644\u0648\u0646\u0629 \u0648\u0641\u064A 2004 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0645\u0627\u0646\u0634\u0633\u062A\u0631 \u064A\u0648\u0646\u0627\u064A\u062A\u062F\u060C \u0648\u062A\u0645\u062A \u0625\u0639\u0627\u0631\u062A\u0647 \u0641\u064A 2006 \u0625\u0644\u0649 \u0631\u064A\u0627\u0644 \u0633\u0631\u0642\u0633\u0637\u0629 \u0644\u0633\u0646\u0629 \u0648\u0627\u062D\u062F\u0629\u060C \u0642\u0628\u0644 \u0623\u0646 \u064A\u0639\u0648\u062F \u0641\u064A 2008 \u0625\u0644\u0649 \u0628\u0631\u0634\u0644\u0648\u0646\u0629. \u0641\u064A \u0623\u0648\u0644 \u0645\u0648\u0627\u0633\u0645\u0647 \u0645\u0639 \u0628\u0631\u0634\u0644\u0648\u0646\u0629 \u0641\u0627\u0632 \u0628\u062C\u0645\u064A\u0639 \u0627\u0644\u0628\u0637\u0648\u0644\u0627\u062A \u0627\u0644\u062A\u064A \u0634\u0627\u0631\u0643 \u0628\u0647\u0627 \u0645\u0639 \u0646\u0627\u062F\u064A\u0647 \u0648\u0639\u062F\u062F\u0647\u0627 6 \u0628\u0637\u0648\u0644\u0627\u062A\u060C \u0648\u064A\u0639\u062F \u0648\u0627\u062D\u062F\u064B\u0627 \u0645\u0646 \u0623\u0631\u0628\u0639\u0629 \u0644\u0627\u0639\u0628\u064A\u0646 \u0641\u0627\u0632\u0648\u0627 \u0628\u062F\u0648\u0631\u064A \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 \u0639\u0627\u0645\u064A\u0646 \u0639\u0644\u0649 \u0627\u0644\u062A\u0648\u0627\u0644\u064A \u0645\u0639 \u0641\u0631\u0642 \u0645\u062E\u062A\u0644\u0641\u0629\u060C \u0645\u0639 \u0643\u0644\u064D \u0645\u0646 \u0645\u0627\u0631\u0633\u064A\u0644 \u062F\u064A\u0633\u0627\u064A\u064A\u0647\u060C \u0648\u0628\u0627\u0648\u0644\u0648 \u0633\u0648\u0632\u0627 \u0648\u0627\u0644\u0643\u0627\u0645\u064A\u0631\u0648\u0646\u064A \u0635\u0627\u0645\u0648\u064A\u0644 \u0625\u064A\u062A\u0648.\u0643\u0627\u0646\u062A \u0623\u0648\u0644 \u0645\u0628\u0627\u0631\u0627\u0629 \u0644\u0647 \u0645\u0639 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0623\u0633\u0628\u0627\u0646\u064A \u0641\u064A 11 \u0641\u0628\u0631\u0627\u064A\u0631 2009\u060C \u0648\u0633\u0627\u0647\u0645 \u0641\u064A \u0641\u0648\u0632 \u0645\u0646\u062A\u062E\u0628\u0647 \u0628\u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 2010\u060C \u0648\u0623\u0645\u0645 \u0623\u0648\u0631\u0648\u0628\u0627 2008\u060C \u06482012."@ar ;
+	dbpedia-owl:wikiPageID	1491798 ;
+	dbpedia-owl:wikiPageRevisionID	604721256 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Gerard_Piqu%C3%A9>	dbpprop:birthDate	"1987-02-02+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Barcelona, Spain" ;
+	dbpprop:dateOfBirth	"1987-02-02+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Barcelona, Spain" ;
+	dbpprop:shortDescription	"Spanish footballer" ;
+	dbpedia-owl:birthDate	"1987-02-02+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Spain_national_football_team ,
+		dbpedia:Barcelona ;
+	dbpedia-owl:birthYear	"1987+02:00"^^xsd:gYear ;
+	dbpedia-owl:viafId	"169126987" ;
+	dbpprop:imageSize	250 ;
+	dbpprop:goals	2 ,
+		0 ,
+		12 ;
+	dbpprop:bg	"#DB000D" ,
+		"gold" ;
+	dbpprop:caps	22 ,
+		12 ,
+		163 ;
+	dbpprop:years	2006 ,
+		2004 ,
+		2008 ;
+	dbpprop:youthclubs	<http://dbpedia.org/resource/Manchester_United_F.C.> ,
+		dbpedia:FC_Barcelona ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9__2> ,
+		<http://dbpedia.org/resource/Gerard_Piqu%C3%A9__8> ,
+		<http://dbpedia.org/resource/Gerard_Piqu%C3%A9__4> ,
+		<http://dbpedia.org/resource/Gerard_Piqu%C3%A9__6> ,
+		<http://dbpedia.org/resource/Gerard_Piqu%C3%A9__7> ,
+		<http://dbpedia.org/resource/Gerard_Piqu%C3%A9__1> ,
+		<http://dbpedia.org/resource/Gerard_Piqu%C3%A9__5> ,
+		<http://dbpedia.org/resource/Gerard_Piqu%C3%A9__3> ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.9199999999999999289 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Gerard_Piqu%C3%A9>	ns21:height	"192.0"^^ns20:centimetre ;
+	dbpprop:currentclub	dbpedia:FC_Barcelona ;
+	dbpprop:clubnumber	3 ;
+	dbpprop:fullname	"Gerard Piqu\u00E9 i Bernabeu" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/Manchester_United_F.C.> ,
+		dbpedia:FC_Barcelona ,
+		"\u2192 Zaragoza" ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/Manchester_United_F.C.> ,
+		dbpedia:FC_Barcelona ,
+		dbpedia:Real_Zaragoza ,
+		dbpedia:Spain_national_under-19_football_team ,
+		dbpedia:Spain_national_under-17_football_team ,
+		dbpedia:Spain_national_under-16_football_team .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Gerard_Piqu%C3%A9>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Spain squads" ,
+		"Awards" ;
+	dbpprop:pcupdate	"2014-03-29+02:00"^^xsd:date ;
+	dbpprop:youthyears	1997 ,
+		2004 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.bdfutbol.com/en/p/j944.html?cat=SEL> ,
+		<http://www.fifa.com/worldcup/archive/southafrica2010/players/player=216973/index.html> .
+@prefix ns23:	<http://www.fcbarcelona.com/football/first-team/staff/players/pique/> .
+<http://dbpedia.org/resource/Gerard_Piqu%C3%A9>	dbpedia-owl:wikiPageExternalLink	ns23:biography ,
+		<http://soccernet.espn.go.com/players/profile?id=45931&cc=5739> ,
+		<http://www.stretfordend.co.uk/playermenu/pique.html> ,
+		<http://www.bdfutbol.com/en/j/j944.html> ;
+	dbpprop:bordercolor	"Black" ;
+	dbpprop:fg	"navy" ,
+		"#FBEA0E" ;
+	dbpprop:nationalcaps	7 ,
+		5 ,
+		12 ,
+		8 ,
+		59 ;
+	dbpprop:nationalgoals	0 ,
+		1 ,
+		2 ,
+		3 ,
+		4 ;
+	dbpprop:nationalteam	dbpedia:Spain_national_football_team ,
+		dbpedia:Catalonia_national_football_team ,
+		dbpedia:Spain_national_under-19_football_team ,
+		dbpedia:Spain_national_under-17_football_team ,
+		dbpedia:Spain_national_under-20_football_team ,
+		dbpedia:Spain_national_under-21_football_team ,
+		dbpedia:Spain_national_under-16_football_team ;
+	dbpprop:nationalyears	2009 ,
+		2004 ,
+		2006 ,
+		2007 ,
+		2002 ;
+	dbpedia-owl:number	3 ;
+	dbpprop:ntupdate	"2013-12-30+02:00"^^xsd:date .
+<http://dbpedia.org/resource/2009_FIFA_Confederations_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+dbpedia:UEFA_Euro_2012_squads	dbpprop:name	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+dbpedia:History_of_the_Spain_national_football_team	dbpprop:rcb	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+dbpedia:Catalonia_national_football_team	dbpprop:name	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+dbpedia:FC_Barcelona	dbpprop:name	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> ;
+	dbpprop:lcb	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+<http://dbpedia.org/resource/2011%E2%80%9312_FC_Barcelona_season>	dbpprop:p	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+<http://dbpedia.org/resource/2012%E2%80%9313_FC_Barcelona_season>	dbpprop:p	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+<http://dbpedia.org/resource/2013%E2%80%9314_FC_Barcelona_season>	dbpprop:p	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+<http://dbpedia.org/resource/2009_FIFA_Club_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+dbpedia:Gerard_Piqué	owl:sameAs	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+<http://dbpedia.org/resource/Gerard_Piqu%C3%A9_Bernab%C3%A9u>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+<http://dbpedia.org/resource/Gerard_Piqu%C3%A9_Bernabeu>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+dbpedia:Gerard_Pique	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+dbpedia:Gerard_Pique_Bernabeu	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .
+<http://dbpedia.org/resource/Pique_(footballer)>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Gerard_Piqu%C3%A9> .

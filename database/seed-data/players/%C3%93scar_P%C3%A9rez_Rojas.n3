@@ -1,0 +1,261 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Óscar_Pérez_Rojas	foaf:primaryTopic	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas>	rdf:type	<http://dbpedia.org/class/yago/1999CopaAm%C3%A9ricaPlayers> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas>	rdf:type	yago:Person100007846 ,
+		<http://dbpedia.org/class/yago/1999FIFAConfederationsCupPlayers> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas>	rdf:type	owl:Thing ,
+		yago:PeopleFromMexicoCity ,
+		yago:YagoLegalActor ,
+		yago:ClubNecaxaFootballers ,
+		yago:LivingPeople ,
+		<http://dbpedia.org/class/yago/2003CONCACAFGoldCupPlayers> ,
+		<http://dbpedia.org/class/yago/2004CopaAm%C3%A9ricaPlayers> ,
+		yago:Athlete109820263 ,
+		yago:FootballPlayer110101634 .
+@prefix ns5:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas>	rdf:type	ns5:SoccerPlayer ,
+		yago:Player110439851 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas>	rdf:type	dul:NaturalPerson ,
+		yago:MexicanFootballers ,
+		yago:Contestant109613191 .
+@prefix ns7:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas>	rdf:type	ns7:Q5 ,
+		foaf:Person ,
+		dul:Agent ,
+		yago:AssociationFootballGoalkeepersWhoHaveScored ,
+		<http://dbpedia.org/class/yago/1998FIFAWorldCupPlayers> ,
+		<http://dbpedia.org/class/yago/2002FIFAWorldCupPlayers> ,
+		<http://dbpedia.org/class/yago/1997FIFAConfederationsCupPlayers> ,
+		yago:PhysicalEntity100001930 .
+@prefix ns8:	<http://schema.org/> .
+<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas>	rdf:type	ns8:Person ,
+		yago:Whole100003553 ,
+		yago:Object100002684 .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas>	rdf:type	dbpedia-owl:SoccerPlayer ,
+		yago:SoccerPlayer110618342 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Person ,
+		yago:SanLuisFootballers ,
+		yago:AssociationFootballGoalkeepers ,
+		yago:JaguaresDeChiapasFootballers ,
+		yago:CruzAzulFootballers ,
+		<http://dbpedia.org/class/yago/PrimeraDivisi%C3%B3nDeM%C3%A9xicoPlayers> ,
+		yago:HockeyPlayer110179291 ,
+		yago:MexicoInternationalFootballers ,
+		yago:Goalkeeper110134001 ,
+		yago:CausalAgent100007347 ,
+		<http://dbpedia.org/class/yago/1995CopaAm%C3%A9ricaPlayers> ,
+		yago:LivingThing100004258 ,
+		<http://dbpedia.org/class/yago/1998CONCACAFGoldCupPlayers> ,
+		yago:TigresDeLaUANLFootballers ,
+		dbpedia-owl:Athlete ,
+		<http://dbpedia.org/class/yago/2000CONCACAFGoldCupPlayers> ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		ns7:Q215627 ,
+		<http://dbpedia.org/class/yago/2001CopaAm%C3%A9ricaPlayers> ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.0dfh94> ,
+		<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+@prefix ns10:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas>	owl:sameAs	ns10:Óscar_Pérez_Rojas .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas>	rdfs:label	"\u00D3scar P\u00E9rez"@de ,
+		"\u30AA\u30B9\u30AB\u30EB\u30FB\u30DA\u30EC\u30B9\u30FB\u30ED\u30CF\u30B9"@ja ,
+		"\u00D3scar P\u00E9rez Rojas"@it ,
+		"Oscar P\u00E9rez Rojas"@es ,
+		"\u5965\u65AF\u5361\u00B7\u4F69\u96F7\u65AF\u00B7\u7F57\u54C8\u65AF"@zh ,
+		"\u0623\u0648\u0633\u0643\u0627\u0631 \u0628\u064A\u0631\u064A\u0632 \u0631\u0648\u062E\u0627\u0633"@ar ,
+		"\u00D3scar P\u00E9rez Rojas"@pl ,
+		"\u00D3scar P\u00E9rez Rojas" ,
+		"\u00D3scar P\u00E9rez Rojas"@pt ,
+		"\u00D3scar P\u00E9rez"@fr ,
+		"\u041F\u0435\u0440\u0435\u0441 \u0420\u043E\u0445\u0430\u0441, \u041E\u0441\u043A\u0430\u0440"@ru .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas>	dcterms:subject	category:CONCACAF_Gold_Cup-winning_players ,
+		<http://dbpedia.org/resource/Category:2001_Copa_Am%C3%A9rica_players> ,
+		category:Jaguares_de_Chiapas_footballers ,
+		category:Club_Necaxa_footballers ,
+		<http://dbpedia.org/resource/Category:C.F._Pachuca_footballers> ,
+		<http://dbpedia.org/resource/Category:San_Luis_F.C._footballers> ,
+		<http://dbpedia.org/resource/Category:2000_CONCACAF_Gold_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:FIFA_Confederations_Cup-winning_players ,
+		<http://dbpedia.org/resource/Category:1998_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2002_FIFA_World_Cup_players> ,
+		category:Sportspeople_from_Mexico_City ,
+		category:Tigres_UANL_footballers ,
+		<http://dbpedia.org/resource/Category:1999_FIFA_Confederations_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2003_CONCACAF_Gold_Cup_players> ,
+		<http://dbpedia.org/resource/Category:1998_CONCACAF_Gold_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2009_CONCACAF_Gold_Cup_players> ,
+		category:Cruz_Azul_footballers ,
+		<http://dbpedia.org/resource/Category:1999_Copa_Am%C3%A9rica_players> ,
+		<http://dbpedia.org/resource/Category:1995_Copa_Am%C3%A9rica_players> ,
+		<http://dbpedia.org/resource/Category:2004_Copa_Am%C3%A9rica_players> ,
+		category:Mexico_international_footballers ,
+		category:Living_people ,
+		category:Association_football_goalkeepers_who_have_scored ,
+		category:Liga_MX_footballers ,
+		category:Mexican_footballers ,
+		<http://dbpedia.org/resource/Category:1997_FIFA_Confederations_Cup_players> ,
+		category:Association_football_goalkeepers ,
+		<http://dbpedia.org/resource/Category:1973_births> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/\u00D3scar_P\u00E9rez_Rojas.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas>	dc:description	"Mexican footballer" ,
+		"Mexican footballer" ;
+	foaf:givenName	"\u00D3scar" ;
+	foaf:name	"\u00D3scar P\u00E9rez Rojas" ,
+		"P\u00E9rez Rojas, \u00D3scar" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/\u00D3scar_P\u00E9rez_Rojas?oldid=601912295> ;
+	rdfs:comment	"Oscar P\u00E9rez Rojas (mejor conocido como \u00ABEl Conejo P\u00E9rez\u00BB o simplemente como \u00ABEl Conejo\u00BB) es un futbolista mexicano, naci\u00F3 en Ciudad de M\u00E9xico, M\u00E9xico, el 1 de febrero de 1973)."@es ,
+		"\u041E\u0301\u0441\u043A\u0430\u0440 \u041F\u0435\u0301\u0440\u0435\u0441 \u0420\u043E\u0301\u0445\u0430\u0441 (\u0438\u0441\u043F. \u00D3scar P\u00E9rez Rojas; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 1 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1973 \u0433\u043E\u0434\u0430 \u0432 \u041C\u0435\u0445\u0438\u043A\u043E, \u041C\u0435\u043A\u0441\u0438\u043A\u0430) \u2014 \u043C\u0435\u043A\u0441\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432\u0440\u0430\u0442\u0430\u0440\u044C. \u0417\u0430\u0449\u0438\u0449\u0430\u043B \u0432\u043E\u0440\u043E\u0442\u0430 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041C\u0435\u043A\u0441\u0438\u043A\u0438. \u0412\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u0437\u0430 \u043C\u0435\u043A\u0441\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u043A\u043B\u0443\u0431 \u00AB\u041F\u0430\u0447\u0443\u043A\u0430\u00BB."@ru ,
+		"\u5965\u65AF\u5361\u201C\u5384\u5C14\u00B7\u79D1\u5185\u970D\u201D\u4F69\u96F7\u65AF\u00B7\u7F57\u54C8\u65AF (\u897F\u73ED\u7259\u8BED\uFF1A\u00D3scar \"El Conejo\" P\u00E9rez Rojas1973\u5E742\u67081\u65E5\uFF0D)\u662F\u4E00\u540D\u58A8\u897F\u54E5\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u66FE\u7ECF\u6548\u529B\u58A8\u897F\u54E5\u8DB3\u7403\u7532\u7EA7\u8054\u8D5B\u7403\u961F\u84DD\u5341\u5B57\u8FBE20\u5E74\u3002"@zh ,
+		"\u00D3scar P\u00E9rez Rojas (n\u00E9 le 1er f\u00E9vrier 1973 \u00E0 Mexico) est un footballeur mexicain. Il joue au poste de gardien de but \u00E0 CF Pachuca et en \u00E9quipe du Mexique. Gardien de petite taille (1,71m), il est surnomm\u00E9 \u00AB El Conejo \u00BB (le lapin)."@fr ,
+		"\u00D3scar P\u00E9rez Rojas, ou simplesmente \u00D3scar \"El Conejo\" P\u00E9rez (Cidade do M\u00E9xico, 1 de Fevereiro de 1973), \u00E9 um futebolista mexicano que atua como goleiro. Atualmente, joga pelo San Luis."@pt ,
+		"\u0623\u0648\u0633\u0643\u0627\u0631 \u0628\u064A\u0631\u064A\u0632 \u0631\u0648\u062E\u0627\u0633 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: \u00D3scar P\u00E9rez Rojas) (\u0645\u0648\u0627\u0644\u064A\u062F 1 \u0641\u0628\u0631\u0627\u064A\u0631 1973 \u0641\u064A \u0645\u0643\u0633\u064A\u0643\u0648) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0645\u0643\u0633\u064A\u0643\u064A \u0645\u0646 \u062F\u0648\u0646 \u0646\u0627\u062F\u064A \u062D\u0627\u0644\u064A\u0627 ."@ar ,
+		"\u00D3scar \"El Conejo (The Rabbit)\" P\u00E9rez Rojas (born 1 February 1973 in Mexico City) is a Mexican football goalkeeper who currently plays for the Mexican team Pachuca of the Liga MX.He has been capped 54 times for the Mexican national team since 1997. He played four games at the 2002 FIFA World Cup and 2010 FIFA World Cup, and was selected for the 1998 FIFA World Cup but never played. He lives in Staten Island with his girlfriend." ,
+		"\u00D3scar \"Conejo\" P\u00E9rez Rojas (ur. 1 lutego 1973 w mie\u015Bcie Meksyk) \u2013 meksyka\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji bramkarza, obecnie zawodnik San Luis."@pl ,
+		"\u00D3scar P\u00E9rez Rojas (* 1. Februar 1973 in Mexiko-Stadt) ist ein mexikanischer Fu\u00DFballtorwart und spielt derzeit in seiner Heimat beim mexikanischen Erstligisten Necaxa.Oscar Perez ist mexikanischer Nationalspieler und nahm f\u00FCr sein Land an den Fu\u00DFball-Weltmeisterschaften 1998 und 2002 teil. Nachdem er 1998 in Frankreich nur Ersatzkeeper hinter Jorge Campos war, bestritt er 2002 in Japan/S\u00FCdkorea alle Spiele f\u00FCr sein Heimatland in voller L\u00E4nge."@de ,
+		"\u00D3scar P\u00E9rez Rojas (Citt\u00E0 del Messico, 1\u00BA febbraio 1973) \u00E8 un calciatore messicano, portiere del San Luis."@it ,
+		"\u30AA\u30B9\u30AB\u30EB\u30FB\u30DA\u30EC\u30B9\u30FB\u30ED\u30CF\u30B9\uFF08\u00D3scar P\u00E9rez Rojas, 1973\u5E742\u67081\u65E5 - \uFF09\u306F\u3001\u30E1\u30AD\u30B7\u30B3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u5143\u30E1\u30AD\u30B7\u30B3\u4EE3\u8868\u3002CF\u30D1\u30C1\u30E5\u30FC\u30AB\u6240\u5C5E\u3002\u8EAB\u9577169cm\u3068\u5C0F\u67C4\u306AGK\u3002"@ja ;
+	foaf:surname	"P\u00E9rez Rojas" ;
+	foaf:isPrimaryTopicOf	ns1:Óscar_Pérez_Rojas .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix ns17:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas>	dbpprop:hasPhotoCollection	ns17:Óscar_Pérez_Rojas ;
+	dbpprop:caption	"P\u00E9rez playing for San Luis in 2011" ;
+	dbpprop:name	"\u00D3scar P\u00E9rez Rojas" ,
+		"P\u00E9rez Rojas, \u00D3scar" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/\u00D3scar_P\u00E9rez_Rojas.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u041E\u0301\u0441\u043A\u0430\u0440 \u041F\u0435\u0301\u0440\u0435\u0441 \u0420\u043E\u0301\u0445\u0430\u0441 (\u0438\u0441\u043F. \u00D3scar P\u00E9rez Rojas; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 1 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1973 \u0433\u043E\u0434\u0430 \u0432 \u041C\u0435\u0445\u0438\u043A\u043E, \u041C\u0435\u043A\u0441\u0438\u043A\u0430) \u2014 \u043C\u0435\u043A\u0441\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432\u0440\u0430\u0442\u0430\u0440\u044C. \u0417\u0430\u0449\u0438\u0449\u0430\u043B \u0432\u043E\u0440\u043E\u0442\u0430 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041C\u0435\u043A\u0441\u0438\u043A\u0438. \u0412\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u0437\u0430 \u043C\u0435\u043A\u0441\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u043A\u043B\u0443\u0431 \u00AB\u041F\u0430\u0447\u0443\u043A\u0430\u00BB."@ru ,
+		"\u00D3scar P\u00E9rez Rojas (n\u00E9 le 1er f\u00E9vrier 1973 \u00E0 Mexico) est un footballeur mexicain. Il joue au poste de gardien de but \u00E0 CF Pachuca et en \u00E9quipe du Mexique. Gardien de petite taille (1,71m), il est surnomm\u00E9 \u00AB El Conejo \u00BB (le lapin)."@fr ,
+		"Oscar P\u00E9rez Rojas (mejor conocido como \u00ABEl Conejo P\u00E9rez\u00BB o simplemente como \u00ABEl Conejo\u00BB) es un futbolista mexicano, naci\u00F3 en Ciudad de M\u00E9xico, M\u00E9xico, el 1 de febrero de 1973). Su actual equipo es el Club de F\u00FAtbol Pachuca de la Primera Divisi\u00F3n de M\u00E9xico.Su formaci\u00F3n fue en la cantera del Cruz Azul, culminando en su debut en el primer equipo, donde jug\u00F3 la mayor parte de su carrera, esto es debido a que el conjunto de la M\u00E1quina es el equipo de sus amores y aparte es el equipo con el que se siente mas identificado, ya que el conejo fue sin duda un \u00EDdolo y referente en la M\u00E1quina al grado de dejar huella y ser una leyenda en toda la historia de la instituci\u00F3n de Cruz Azul, posteriormente fue vendido a Tigres UANL pero para el final de su temporada se lesion\u00F3, eso y la contrataci\u00F3n del portero Cirilo Saucedo proveniente del Club de F\u00FAtbol Indios, donde tuvo destacada temporada, provocaron su salida del equipo felino, para fichar con los Jaguares de Chiapas, equipo en el cual jugo 2 temporadas para despu\u00E9s firmar un contrato con el club: San Luis. A partir del apertura 2013 jugar\u00E1 en Pachuca.Pero no toda su carrera fue a nivel de clubes ya que ha tenido m\u00FAltiples apariciones con la Selecci\u00F3n de M\u00E9xico, las m\u00E1s importantes han sido en Copas Mundiales. En Francia 1998 donde acudi\u00F3 como tercer portero. Pero en Corea Jap\u00F3n 2002 fue como titular.Parec\u00EDa que para 2010 tendr\u00EDa que jugar con clubes, pero fue llamado por Javier Aguirre para algunos juegos de eliminatoria y fue incluido en la lista definitiva para el mundial de Sud\u00E1frica 2010 donde en todos los juegos fue titular y referente de la Selecci\u00F3n Mexicana, asi opacando y mandando a la banca a Guillermo ochoa en el mundial de Sud\u00E1frica 2010.Fue titular en los partidos amistosos ante Inglaterra e Italia, el t\u00E9cnico Javier Aguirre ten\u00EDa que decidir entre sus 3 porteros, pero al final se decidi\u00F3 por poner a su hombre de confianza, sin duda siendo el elegido Oscar El \"conejo\" P\u00E9rez. La presi\u00F3n fue enorme ya que M\u00E9xico jug\u00F3 con Sud\u00E1frica en el juego inaugural. Oscar logr\u00F3 mantener su arco limpio durante m\u00E1s de 60 minutos pero el sudafricano Siphiwe Tshabalala, logr\u00F3 anotar con un disparo lejano que venci\u00F3 a Oscar P\u00E9rez. Siempre se caracteriz\u00F3 por su incre\u00EDble resorte \u2013del que proviene su apodo- con el que puede incluso tocar el travesa\u00F1o con un pie, adem\u00E1s de su velocidad en el \u00E1rea y su tranquilidad en momentos dif\u00EDciles. A pesar de sus 40 a\u00F1os mantiene muchas de esas cualidades f\u00EDsicas intactas, adem\u00E1s de la experiencia acumulada en 18 temporadas de carrera profesional. Para el Torneo Apertura 2010 Oscar P\u00E9rez se convierte en refuerzo del Club Necaxa. En 2013 se convierte en nuevo refuerzo del Club de F\u00FAtbol Pachuca donde sin duda llego para ser referente y el Capit\u00E1n del equipo."@es ,
+		"\u00D3scar P\u00E9rez Rojas (Citt\u00E0 del Messico, 1\u00BA febbraio 1973) \u00E8 un calciatore messicano, portiere del San Luis."@it ,
+		"\u00D3scar \"El Conejo (The Rabbit)\" P\u00E9rez Rojas (born 1 February 1973 in Mexico City) is a Mexican football goalkeeper who currently plays for the Mexican team Pachuca of the Liga MX.He has been capped 54 times for the Mexican national team since 1997. He played four games at the 2002 FIFA World Cup and 2010 FIFA World Cup, and was selected for the 1998 FIFA World Cup but never played. He lives in Staten Island with his girlfriend." ,
+		"\u0623\u0648\u0633\u0643\u0627\u0631 \u0628\u064A\u0631\u064A\u0632 \u0631\u0648\u062E\u0627\u0633 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: \u00D3scar P\u00E9rez Rojas) (\u0645\u0648\u0627\u0644\u064A\u062F 1 \u0641\u0628\u0631\u0627\u064A\u0631 1973 \u0641\u064A \u0645\u0643\u0633\u064A\u0643\u0648) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0645\u0643\u0633\u064A\u0643\u064A \u0645\u0646 \u062F\u0648\u0646 \u0646\u0627\u062F\u064A \u062D\u0627\u0644\u064A\u0627 ."@ar ,
+		"\u00D3scar P\u00E9rez Rojas, ou simplesmente \u00D3scar \"El Conejo\" P\u00E9rez (Cidade do M\u00E9xico, 1 de Fevereiro de 1973), \u00E9 um futebolista mexicano que atua como goleiro. Atualmente, joga pelo San Luis."@pt ,
+		"\u00D3scar P\u00E9rez Rojas (* 1. Februar 1973 in Mexiko-Stadt) ist ein mexikanischer Fu\u00DFballtorwart und spielt derzeit in seiner Heimat beim mexikanischen Erstligisten Necaxa.Oscar Perez ist mexikanischer Nationalspieler und nahm f\u00FCr sein Land an den Fu\u00DFball-Weltmeisterschaften 1998 und 2002 teil. Nachdem er 1998 in Frankreich nur Ersatzkeeper hinter Jorge Campos war, bestritt er 2002 in Japan/S\u00FCdkorea alle Spiele f\u00FCr sein Heimatland in voller L\u00E4nge. Nach der Weltmeisterschaft 2002 wurde er jedoch von Oswaldo S\u00E1nchez verdr\u00E4ngt, der auch 2005 beim Confederations Cup in Deutschland alle Spiele absolvierte.Obwohl Perez nur 1,72 m gro\u00DF ist, gl\u00E4nzte er, vor allem w\u00E4hrend der Qualifikation zur WM 2002, mit einer vorbildlichen Strafraumbeherrschung und gutem Stellungsspiel. Er z\u00E4hlt nach wie vor zu den st\u00E4rksten Torh\u00FCtern Mexikos.Seit seinem Deb\u00FCt in einem Spiel gegen Brasilien (2:3) am 16. Dezember 1997 im Rahmen des Konf\u00F6derationen-Pokals absolvierte er 53 L\u00E4nderspiele f\u00FCr die mexikanische Auswahl. Beim Er\u00F6ffnungsspiel (1:1) der Fu\u00DFball-Weltmeisterschaft 2010 gegen den Gastgeber S\u00FCdafrika stand P\u00E9rez in der Startelf der mexikanischen Auswahl. Kurz vor der WM 2010 in S\u00FCdafrika, bekam Oscar Perez \u00FCberraschend den Vorzug vor der etatm\u00E4\u00DFigen Nummer Eins Guillermo Ochoa."@de ,
+		"\u5965\u65AF\u5361\u201C\u5384\u5C14\u00B7\u79D1\u5185\u970D\u201D\u4F69\u96F7\u65AF\u00B7\u7F57\u54C8\u65AF (\u897F\u73ED\u7259\u8BED\uFF1A\u00D3scar \"El Conejo\" P\u00E9rez Rojas1973\u5E742\u67081\u65E5\uFF0D)\u662F\u4E00\u540D\u58A8\u897F\u54E5\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u66FE\u7ECF\u6548\u529B\u58A8\u897F\u54E5\u8DB3\u7403\u7532\u7EA7\u8054\u8D5B\u7403\u961F\u84DD\u5341\u5B57\u8FBE20\u5E74\u3002"@zh ,
+		"\u00D3scar \"Conejo\" P\u00E9rez Rojas (ur. 1 lutego 1973 w mie\u015Bcie Meksyk) \u2013 meksyka\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji bramkarza, obecnie zawodnik San Luis."@pl ,
+		"\u30AA\u30B9\u30AB\u30EB\u30FB\u30DA\u30EC\u30B9\u30FB\u30ED\u30CF\u30B9\uFF08\u00D3scar P\u00E9rez Rojas, 1973\u5E742\u67081\u65E5 - \uFF09\u306F\u3001\u30E1\u30AD\u30B7\u30B3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u5143\u30E1\u30AD\u30B7\u30B3\u4EE3\u8868\u3002CF\u30D1\u30C1\u30E5\u30FC\u30AB\u6240\u5C5E\u3002\u8EAB\u9577169cm\u3068\u5C0F\u67C4\u306AGK\u3002"@ja ;
+	dbpedia-owl:wikiPageID	5321972 ;
+	dbpedia-owl:wikiPageRevisionID	601912295 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas>	dbpprop:birthDate	"1973-02-01+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Mexico City, Mexico" ;
+	dbpprop:dateOfBirth	"1973-02-01+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Mexico City, Mexico" ;
+	dbpprop:shortDescription	"Mexican footballer" ;
+	dbpedia-owl:birthDate	"1973-02-01+02:00"^^xsd:date .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas>	dbpedia-owl:birthPlace	dbpedia:Mexico_national_football_team ,
+		dbpedia:Mexico_City ;
+	dbpedia-owl:birthYear	"1973+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	230 ;
+	dbpprop:goals	0 ,
+		1 ;
+	dbpprop:bg	"#016549" ;
+	dbpprop:caps	416 ,
+		30 ,
+		62 ,
+		34 ;
+	dbpprop:years	2013 ,
+		1991 ,
+		2010 ,
+		2011 ,
+		2008 ,
+		2009 ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas__7> ,
+		<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas__2> ,
+		<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas__6> ,
+		<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas__5> ,
+		<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas__1> ,
+		<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas__3> ,
+		<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas__8> ,
+		<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas__4> ;
+	dbpprop:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbpedia-owl:height	1.6999999999999999556 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas>	ns21:height	"170.0"^^ns20:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/C.F._Pachuca> ;
+	dbpprop:clubnumber	21 ;
+	dbpprop:fullname	"\u00D3scar P\u00E9rez Rojas" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/C.F._Pachuca> ,
+		dbpedia:Club_Necaxa ,
+		<http://dbpedia.org/resource/Chiapas_F.C.> ,
+		<http://dbpedia.org/resource/San_Luis_F.C.> ,
+		dbpedia:Tigres_UANL ,
+		dbpedia:Cruz_Azul ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/C.F._Pachuca> ,
+		dbpedia:Mexico_national_football_team ,
+		dbpedia:Cruz_Azul ,
+		dbpedia:Mexico_national_under-23_football_team ,
+		dbpedia:Club_Necaxa ,
+		<http://dbpedia.org/resource/Chiapas_F.C.> ,
+		<http://dbpedia.org/resource/San_Luis_F.C.> ,
+		dbpedia:Tigres_UANL .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Mexico squads" ;
+	dbpprop:pcupdate	"2013-04-29+02:00"^^xsd:date ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.transfermarkt.co.uk/en/scar-perez/profil/spieler_29560.html> ;
+	dbpprop:bordercolor	"#CE1126" ;
+	dbpprop:fg	"White" ;
+	dbpprop:nationalcaps	56 ,
+		3 ;
+	dbpprop:nationalgoals	0 ,
+		1 ;
+	dbpprop:nationalteam	dbpedia:Mexico_national_football_team ,
+		dbpedia:Mexico_national_under-23_football_team ;
+	dbpprop:nationalyears	1997 ,
+		1995 ;
+	dbpedia-owl:number	21 .
+<http://dbpedia.org/resource/C.F._Pachuca>	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+dbpedia:Cruz_Azul	dbpprop:gk	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+dbpedia:Óscar_Pérez_Rojas	owl:sameAs	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/P%C3%A9rez>	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+dbpedia:Rojas	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/2009_CONCACAF_Gold_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/1999_Korea_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/1995_Copa_Am%C3%A9rica_squads>	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/2012%E2%80%9313_San_Luis_F.C._season>	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/2003_CONCACAF_Gold_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/1999_FIFA_Confederations_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/2001_Copa_Am%C3%A9rica_squads>	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+dbpedia:List_of_Mexican_football_transfers_summer_2009	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/2004_Copa_Am%C3%A9rica_squads>	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/2000_CONCACAF_Gold_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+dbpedia:List_of_Mexican_football_transfers_summer_2010	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/2011%E2%80%9312_San_Luis_F.C._season>	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Club_Necaxa_season>	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+dbpedia:List_of_Mexican_football_transfers_summer_2011	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/C.F._Pachuca__%C3%93scar_P%C3%A9rez__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/2012%E2%80%9313_San_Luis_F.C._season__%C3%93scar_P%C3%A9rez__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/2012%E2%80%9313_San_Luis_F.C._season__%C3%93scar_P%C3%A9rez__2>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/2011%E2%80%9312_San_Luis_F.C._season__%C3%93scar_P%C3%A9rez__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/2011%E2%80%9312_San_Luis_F.C._season__%C3%93scar_P%C3%A9rez__2>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+dbpedia:El_Conejo_Perez	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+dbpedia:Oscar_Perez_Rojas	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+dbpedia:List_of_Mexican_football_transfers_summer_2013	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/1999_Copa_Am%C3%A9rica_squads>	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/1998_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/2002_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .
+<http://dbpedia.org/resource/1997_FIFA_Confederations_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/%C3%93scar_P%C3%A9rez_Rojas> .

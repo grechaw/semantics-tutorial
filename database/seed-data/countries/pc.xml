@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xml:base="http://www.daml.org/2001/12/factbook/pc">
+  <rdf:Description rdf:about='#A81174'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>July 2001</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81259'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#sugar'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81165'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Pawala Valley Ridge</NS0:name>
+    <NS0:elevation>347</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81255'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#flour'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81160'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Pacific Ocean</NS0:name>
+    <NS0:elevation>0</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81205'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CapitalCity'/>
+    <NS0:name>Adamstown</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81251'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#building_materials'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81177'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81247'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#machinery'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81273'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81243'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#fuel_oil'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81196'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Pitcairnese'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81239'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#stamps'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81145'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>-25.066666666666666</NS0:latitude>
+    <NS0:longitude>-130.1</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81191'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#English'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81194'>
+    <NS0:note>official</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81235'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#curios'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81186'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Seventh-Day_Adventist'/>
+    <NS0:percent>100</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81279'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Bounty Bay</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81231'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#vegetables'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81182'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#descendants_of_the_Bounty_mutineers_and_their_Tahitian_wives'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81199'>
+    <NS0:note>mixture of an 18th century English dialect and a Tahitian dialect</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81227'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#fruits'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#PC'>
+    <NS0:background>Pitcairn Island was discovered in 1767 by the British and settled in 1790 by the Bounty mutineers and their Tahitian companions. Pitcairn was the first Pacific island to become a British colony (in 1838) and today remains the last vestige of that empire in the South Pacific. Outmigration, primarily to New Zealand, has thinned the population from a peak of 233 in 1937 to about 50 today.</NS0:background>
+    <NS0:location>Oceania, islands in the South Pacific Ocean, about one-half of the way from Peru to New Zealand</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A81145'/>
+    <NS0:mapReferences>Oceania</NS0:mapReferences>
+    <NS0:totalArea>47</NS0:totalArea>
+    <NS0:landArea>47</NS0:landArea>
+    <NS0:waterArea>0</NS0:waterArea>
+    <NS0:comparativeArea>about 0.3 times the size of Washington, DC</NS0:comparativeArea>
+    <NS0:coastline>51</NS0:coastline>
+    <NS0:exclusiveEconomicZone>200</NS0:exclusiveEconomicZone>
+    <NS0:territorialSea>3</NS0:territorialSea>
+    <NS0:climate>tropical, hot, humid; modified by southeast trade winds; rainy season (November to March)</NS0:climate>
+    <NS0:terrain>rugged volcanic formation; rocky coastline with cliffs</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A81160'/>
+    <NS0:highestPoint rdf:resource='#A81165'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#miro_trees'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#fish'/>
+    <NS0:naturalHazard>typhoons</NS0:naturalHazard>
+    <NS0:environmentalIssue>deforestation</NS0:environmentalIssue>
+    <NS0:population rdf:ID='A81174'>47</NS0:population>
+    <NS0:populationGrowthRate rdf:ID='A81177'>-2.08</NS0:populationGrowthRate>
+    <NS0:nationalityNoun>Pitcairn Islander(s)</NS0:nationalityNoun>
+    <NS0:nationalityAdjective>Pitcairn Islander</NS0:nationalityAdjective>
+    <NS0:ethnicGroup rdf:resource='#A81182'/>
+    <NS0:religion rdf:resource='#A81186'/>
+    <NS0:language rdf:ID='A81194' rdf:resource='#A81191'/>
+    <NS0:language rdf:ID='A81199' rdf:resource='#A81196'/>
+    <NS0:conventionalLongCountryName>Pitcairn, Henderson, Ducie, and Oeno Islands</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Pitcairn Islands</NS0:conventionalShortCountryName>
+    <NS0:dependencyStatus>overseas territory of the UK</NS0:dependencyStatus>
+    <NS0:governmentType rdf:resource='http://www.daml.org/2001/12/factbook/governmentTypes#NA'/>
+    <NS0:capital rdf:resource='#A81205'/>
+    <NS0:independence>none (overseas territory of the UK)</NS0:independence>
+    <NS0:constitution>1838; reformed 1904 with additional reforms in 1940; further refined by the Local Government Ordinance of 1964</NS0:constitution>
+    <NS0:legalSystem>local island by-laws</NS0:legalSystem>
+    <NS0:suffrage>18 years of age; universal with three years residency</NS0:suffrage>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#SPC'/>
+    <NS0:flagDescription>blue with the flag of the UK in the upper hoist-side quadrant and the Pitcairn Islander coat of arms centered on the outer half of the flag; the coat of arms is yellow, green, and light blue with a shield featuring a yellow anchor</NS0:flagDescription>
+    <NS0:economyOverview>The inhabitants of this tiny economy exist on fishing, subsistence farming, handicrafts, and postage stamps. The fertile soil of the valleys produces a wide variety of fruits and vegetables, including citrus, sugarcane, watermelons, bananas, yams, and beans. Bartering is an important part of the economy. The major sources of revenue are the sale of postage stamps to collectors and the sale of handicrafts to passing ships.</NS0:economyOverview>
+    <NS0:occupation rdf:resource='#A81216'/>
+    <NS0:budgetRevenues>729884</NS0:budgetRevenues>
+    <NS0:budgetExpenditures>878119</NS0:budgetExpenditures>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#postage_stamps'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#handicrafts'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#wide_variety_of_fruits_and_vegetables'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#goats'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#chickens'/>
+    <NS0:exportsCommodity rdf:resource='#A81227'/>
+    <NS0:exportsCommodity rdf:resource='#A81231'/>
+    <NS0:exportsCommodity rdf:resource='#A81235'/>
+    <NS0:exportsCommodity rdf:resource='#A81239'/>
+    <NS0:importsCommodity rdf:resource='#A81243'/>
+    <NS0:importsCommodity rdf:resource='#A81247'/>
+    <NS0:importsCommodity rdf:resource='#A81251'/>
+    <NS0:importsCommodity rdf:resource='#A81255'/>
+    <NS0:importsCommodity rdf:resource='#A81259'/>
+    <NS0:importsCommodity rdf:resource='#A81263'/>
+    <NS0:currency>New Zealand dollar (NZD)</NS0:currency>
+    <NS0:currencyCode>NZD</NS0:currencyCode>
+    <NS0:fiscalYear>1 April - 31 March</NS0:fiscalYear>
+    <NS0:telephoneSystemGeneralAssessment>only party line telephone service is available for this small, closely related community</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>party line service only</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>radiotelephone</NS0:telephoneSystemInternational>
+    <NS0:televisionBroadcastStations rdf:ID='A81273'>0</NS0:televisionBroadcastStations>
+    <NS0:internetCountryCode>.pn</NS0:internetCountryCode>
+    <NS0:highwaysTotal>6.4</NS0:highwaysTotal>
+    <NS0:highwaysPaved>0</NS0:highwaysPaved>
+    <NS0:highwaysUnpaved>6.4</NS0:highwaysUnpaved>
+    <NS0:port rdf:resource='#A81279'/>
+    <NS0:internationalDispute>none</NS0:internationalDispute>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/pc-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/pc-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/pc-map.jpg</NS0:map>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81216'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#no_business_community_in_the_usual_sense;_some_public_works;_subsistence_farming_and_fishing'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A81263'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#other_foodstuffs'/>
+  </rdf:Description>
+</rdf:RDF>

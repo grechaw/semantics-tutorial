@@ -1,0 +1,974 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xml:base="http://www.daml.org/2001/12/factbook/mo">
+  <rdf:Description rdf:about='#A68939'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Ifrane</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68935'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Guelmim</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#Wilaya'>
+    <rdf:type rdf:resource='http://www.w3.org/2000/01/rdf-schema#Class'/>
+    <rdfs:subClassOf rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AdministrativeDivision'/>
+    <rdfs:label>Wilaya</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68861'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1995</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69316'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>2438</NS0:minRunway>
+    <NS0:maxRunway>3047</NS0:maxRunway>
+    <NS0:count>1</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68931'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Figuig</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68927'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Fes</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69310'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:maxRunway>913</NS0:maxRunway>
+    <NS0:count>1 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68923'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Essaouira</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69236'>
+    <NS0:note>including 327 km of expressways</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69210'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69227'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69303'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>914</NS0:minRunway>
+    <NS0:maxRunway>1523</NS0:maxRunway>
+    <NS0:count>1</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68733'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68919'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Er Rachidia</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68761'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68915'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>El Kelaa des Srarhna</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69296'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>1524</NS0:minRunway>
+    <NS0:maxRunway>2437</NS0:maxRunway>
+    <NS0:count>9</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69112'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68911'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>El Jadida</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#MO'>
+    <NS0:background>Morocco&apos;s long struggle for independence from France ended in 1956. The internationalized city of Tangier was turned over to the new country that same year. Morocco virtually annexed Western Sahara during the late 1970s, but final resolution on the status of the territory remains unresolved. Gradual political reforms in the 1990s resulted in the establishment of a bicameral legislature in 1997.</NS0:background>
+    <NS0:location>Northern Africa, bordering the North Atlantic Ocean and the Mediterranean Sea, between Algeria and Western Sahara</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A68692'/>
+    <NS0:mapReferences>Africa</NS0:mapReferences>
+    <NS0:totalArea>446550</NS0:totalArea>
+    <NS0:landArea>446300</NS0:landArea>
+    <NS0:waterArea>250</NS0:waterArea>
+    <NS0:comparativeArea>slightly larger than California</NS0:comparativeArea>
+    <NS0:landBoundaries>2017.9</NS0:landBoundaries>
+    <NS0:coastline>1835</NS0:coastline>
+    <NS0:contiguousZone>24</NS0:contiguousZone>
+    <NS0:exclusiveEconomicZone>200</NS0:exclusiveEconomicZone>
+    <NS0:territorialSea>12</NS0:territorialSea>
+    <NS0:climate>Mediterranean, becoming more extreme in the interior</NS0:climate>
+    <NS0:terrain>northern coast and interior are mountainous with large areas of bordering plateaus, intermontane valleys, and rich coastal plains</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A68709'/>
+    <NS0:highestPoint rdf:resource='#A68714'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#phosphates'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#iron_ore'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#manganese'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#lead'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#zinc'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#fish'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#salt'/>
+    <NS0:arableLand>21</NS0:arableLand>
+    <NS0:permanentCrops>1</NS0:permanentCrops>
+    <NS0:permanentPastures>47</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>20</NS0:forestsAndWoodland>
+    <NS0:otherLandUse rdf:ID='A68730'>11</NS0:otherLandUse>
+    <NS0:irrigatedLand rdf:ID='A68733'>12580</NS0:irrigatedLand>
+    <NS0:naturalHazard>northern mountains geologically unstable and subject to earthquakes</NS0:naturalHazard>
+    <NS0:naturalHazard>periodic droughts</NS0:naturalHazard>
+    <NS0:environmentalIssue>land degradation/desertification</NS0:environmentalIssue>
+    <NS0:environmentalIssue>water supplies contaminated by raw sewage</NS0:environmentalIssue>
+    <NS0:environmentalIssue>siltation of reservoirs</NS0:environmentalIssue>
+    <NS0:environmentalIssue>oil pollution of coastal waters</NS0:environmentalIssue>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Biodiversity'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Climate_Change'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Desertification'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Endangered_Species'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Hazardous_Wastes'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Marine_Dumping'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Nuclear_Test_Ban'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Ozone_Layer_Protection'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Ship_Pollution'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Wetlands'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Whaling'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Environmental_Modification'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Law_of_the_Sea'/>
+    <NS0:population rdf:ID='A68755'>30645305</NS0:population>
+    <NS0:populationGrowthRate rdf:ID='A68758'>1.71</NS0:populationGrowthRate>
+    <NS0:birthRate rdf:ID='A68761'>24.16</NS0:birthRate>
+    <NS0:deathRate rdf:ID='A68764'>5.94</NS0:deathRate>
+    <NS0:netMigrationRate rdf:ID='A68767'>-1.15</NS0:netMigrationRate>
+    <NS0:sexRatio rdf:resource='#A68770'/>
+    <NS0:sexRatio rdf:resource='#A68776'/>
+    <NS0:sexRatio rdf:resource='#A68782'/>
+    <NS0:sexRatio rdf:resource='#A68788'/>
+    <NS0:sexRatio rdf:ID='A68796' rdf:resource='#A68793'/>
+    <NS0:infantMortalityRate rdf:ID='A68799'>48.11</NS0:infantMortalityRate>
+    <NS0:totalFertilityRate rdf:ID='A68802'>3.05</NS0:totalFertilityRate>
+    <NS0:nationalityNoun>Moroccan(s)</NS0:nationalityNoun>
+    <NS0:nationalityAdjective>Moroccan</NS0:nationalityAdjective>
+    <NS0:ethnicGroup rdf:resource='#A68807'/>
+    <NS0:ethnicGroup rdf:resource='#A68812'/>
+    <NS0:ethnicGroup rdf:resource='#A68817'/>
+    <NS0:religion rdf:resource='#A68822'/>
+    <NS0:religion rdf:resource='#A68827'/>
+    <NS0:religion rdf:resource='#A68832'/>
+    <NS0:language rdf:ID='A68840' rdf:resource='#A68837'/>
+    <NS0:language rdf:resource='#A68842'/>
+    <NS0:language rdf:resource='#A68846'/>
+    <NS0:language rdf:resource='#A68850'/>
+    <NS0:language rdf:resource='#A68854'/>
+    <NS0:literacyDefinition>age 15 and over can read and write</NS0:literacyDefinition>
+    <NS0:literacyTotal>43.7</NS0:literacyTotal>
+    <NS0:literacyMale>56.6</NS0:literacyMale>
+    <NS0:literacyFemale rdf:ID='A68861'>31</NS0:literacyFemale>
+    <NS0:conventionalLongCountryName>Kingdom of Morocco</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Morocco</NS0:conventionalShortCountryName>
+    <NS0:localLongCountryName>Al Mamlakah al Maghribiyah</NS0:localLongCountryName>
+    <NS0:localShortCountryName>Al Maghrib</NS0:localShortCountryName>
+    <NS0:governmentType rdf:resource='http://www.daml.org/2001/12/factbook/governmentTypes#constitutional_monarchy'/>
+    <NS0:capital rdf:resource='#A68869'/>
+    <NS0:administrativeDivision rdf:resource='#A68879'/>
+    <NS0:administrativeDivision rdf:resource='#A68883'/>
+    <NS0:administrativeDivision rdf:resource='#A68887'/>
+    <NS0:administrativeDivision rdf:resource='#A68891'/>
+    <NS0:administrativeDivision rdf:resource='#A68895'/>
+    <NS0:administrativeDivision rdf:resource='#A68899'/>
+    <NS0:administrativeDivision rdf:resource='#A68903'/>
+    <NS0:administrativeDivision rdf:resource='#A68907'/>
+    <NS0:administrativeDivision rdf:resource='#A68911'/>
+    <NS0:administrativeDivision rdf:resource='#A68915'/>
+    <NS0:administrativeDivision rdf:resource='#A68919'/>
+    <NS0:administrativeDivision rdf:resource='#A68923'/>
+    <NS0:administrativeDivision rdf:resource='#A68927'/>
+    <NS0:administrativeDivision rdf:resource='#A68931'/>
+    <NS0:administrativeDivision rdf:resource='#A68935'/>
+    <NS0:administrativeDivision rdf:resource='#A68939'/>
+    <NS0:administrativeDivision rdf:resource='#A68943'/>
+    <NS0:administrativeDivision rdf:resource='#A68947'/>
+    <NS0:administrativeDivision rdf:resource='#A68951'/>
+    <NS0:administrativeDivision rdf:resource='#A68955'/>
+    <NS0:administrativeDivision rdf:resource='#A68959'/>
+    <NS0:administrativeDivision rdf:resource='#A68963'/>
+    <NS0:administrativeDivision rdf:resource='#A68967'/>
+    <NS0:administrativeDivision rdf:resource='#A68971'/>
+    <NS0:administrativeDivision rdf:resource='#A68975'/>
+    <NS0:administrativeDivision rdf:resource='#A68979'/>
+    <NS0:administrativeDivision rdf:resource='#A68983'/>
+    <NS0:administrativeDivision rdf:resource='#A68987'/>
+    <NS0:administrativeDivision rdf:resource='#A68991'/>
+    <NS0:administrativeDivision rdf:resource='#A68995'/>
+    <NS0:administrativeDivision rdf:resource='#A68999'/>
+    <NS0:administrativeDivision rdf:resource='#A69003'/>
+    <NS0:administrativeDivision rdf:resource='#A69007'/>
+    <NS0:administrativeDivision rdf:resource='#A69011'/>
+    <NS0:administrativeDivision rdf:resource='#A69015'/>
+    <NS0:administrativeDivision rdf:resource='#A69019'/>
+    <NS0:administrativeDivision rdf:resource='#A69023'/>
+    <NS0:administrativeDivision rdf:resource='#A69027'/>
+    <NS0:administrativeDivision rdf:resource='#A69031'/>
+    <NS0:independence>2 March 1956 (from France)</NS0:independence>
+    <NS0:constitution>10 March 1972, revised 4 September 1992, amended (to create bicameral legislature) September 1996</NS0:constitution>
+    <NS0:legalSystem>based on Islamic law and French and Spanish civil law system; judicial review of legislative acts in Constitutional Chamber of Supreme Court</NS0:legalSystem>
+    <NS0:suffrage>21 years of age; universal</NS0:suffrage>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ABEDA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ACCT'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#AfDB'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#AFESD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#AL'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#AMF'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#AMU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CCC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#EBRD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ECA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#FAO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#G-77'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IAEA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IBRD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICAO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICFTU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICRM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IDA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IDB'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFAD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFRCS'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IHO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ILO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IMF'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IMO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Intelsat'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Interpol'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IOC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IOM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ISO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ITU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#MONUC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NAM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OAS'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OIC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OPCW'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OSCE'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UN'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNCTAD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNESCO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNHCR'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNIDO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UPU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WCL'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WHO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WIPO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WMO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WToO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WTrO'/>
+    <NS0:flagDescription>red with a green pentacle (five-pointed, linear star) known as Solomon&apos;s seal in the center of the flag; green is the traditional color of Islam</NS0:flagDescription>
+    <NS0:economyOverview>Morocco faces the problems typical of developing countries - restraining government spending, reducing constraints on private activity and foreign trade, and achieving sustainable economic growth. Following structural adjustment programs supported by the IMF, World Bank, and the Paris Club, the dirham is now fully convertible for current account transactions, and reforms of the financial sector have been implemented. Drought conditions depressed activity in the key agricultural sector and contributed to a stagnant economy in 1999 and 2000. During that time, however, Morocco reported large foreign exchange inflows from the sale of a mobile telephone license and partial privatization of the state-owned telecommunications company. Favorable rainfalls have led Morocco to predict a growth of 1% for 2001. Formidable long-term challenges include: servicing the external debt; preparing the economy for freer trade with the EU; and improving education and attracting foreign investment to boost living standards and job prospects for Morocco&apos;s youthful population.</NS0:economyOverview>
+    <NS0:grossDomesticProduct rdf:ID='A69092'>105000000000</NS0:grossDomesticProduct>
+    <NS0:grossDomesticProductRealGrowth rdf:ID='A69095'>0.8</NS0:grossDomesticProductRealGrowth>
+    <NS0:grossDomesticProductPerCapita rdf:ID='A69098'>3500</NS0:grossDomesticProductPerCapita>
+    <NS0:grossDomesticProductAgriculture>15</NS0:grossDomesticProductAgriculture>
+    <NS0:grossDomesticProductIndustry>33</NS0:grossDomesticProductIndustry>
+    <NS0:grossDomesticProductServices rdf:ID='A69103'>52</NS0:grossDomesticProductServices>
+    <NS0:populationBelowPovertyLine rdf:ID='A69106'>19</NS0:populationBelowPovertyLine>
+    <NS0:householdIncomeLowest10Percent>2.6</NS0:householdIncomeLowest10Percent>
+    <NS0:householdIncomeHighest10Percent rdf:ID='A69110'>30.9</NS0:householdIncomeHighest10Percent>
+    <NS0:inflationRate rdf:ID='A69112'>2</NS0:inflationRate>
+    <NS0:laborForce rdf:ID='A69115'>11000000</NS0:laborForce>
+    <NS0:occupation rdf:resource='#A69118'/>
+    <NS0:occupation rdf:resource='#A69123'/>
+    <NS0:occupation rdf:ID='A69132' rdf:resource='#A69128'/>
+    <NS0:unemploymentRate rdf:ID='A69135'>23</NS0:unemploymentRate>
+    <NS0:budgetRevenues>9600000000</NS0:budgetRevenues>
+    <NS0:budgetExpenditures>8600000000</NS0:budgetExpenditures>
+    <NS0:budgetCapitalExpenditures rdf:ID='A69140'>2100000000</NS0:budgetCapitalExpenditures>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#phosphate_rock_mining_and_processing'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#food_processing'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#leather_goods'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#textiles'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#construction'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#tourism'/>
+    <NS0:industrialProductionGrowthRate rdf:ID='A69149'>0.5</NS0:industrialProductionGrowthRate>
+    <NS0:electricityProduction rdf:ID='A69152'>13695000000</NS0:electricityProduction>
+    <NS0:electricityProductionFossilFuel>89.19</NS0:electricityProductionFossilFuel>
+    <NS0:electricityProductionHydro>10.81</NS0:electricityProductionHydro>
+    <NS0:electricityProductionNuclear>0</NS0:electricityProductionNuclear>
+    <NS0:electricityProductionOther rdf:ID='A69157'>0</NS0:electricityProductionOther>
+    <NS0:electricityConsumption rdf:ID='A69159'>13441000000</NS0:electricityConsumption>
+    <NS0:electricityExports rdf:ID='A69161'>0</NS0:electricityExports>
+    <NS0:electricityImports rdf:ID='A69163'>705000000</NS0:electricityImports>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#barley'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#wheat'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#citrus'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#wine'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#vegetables'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#olives'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#livestock'/>
+    <NS0:exports rdf:ID='A69172'>7600000000</NS0:exports>
+    <NS0:exportsCommodity rdf:resource='#A69175'/>
+    <NS0:exportsCommodity rdf:resource='#A69179'/>
+    <NS0:exportsCommodity rdf:resource='#A69183'/>
+    <NS0:imports rdf:ID='A69187'>12200000000</NS0:imports>
+    <NS0:importsCommodity rdf:resource='#A69190'/>
+    <NS0:importsCommodity rdf:resource='#A69194'/>
+    <NS0:importsCommodity rdf:resource='#A69198'/>
+    <NS0:importsCommodity rdf:resource='#A69202'/>
+    <NS0:importsCommodity rdf:resource='#A69206'/>
+    <NS0:externalDebt rdf:ID='A69210'>18400000000</NS0:externalDebt>
+    <NS0:economicAidRecipient rdf:ID='A69213'>565600000</NS0:economicAidRecipient>
+    <NS0:currency>Moroccan dirham (MAD)</NS0:currency>
+    <NS0:currencyCode>MAD</NS0:currencyCode>
+    <NS0:fiscalYear>calendar year</NS0:fiscalYear>
+    <NS0:mainTelephoneLines rdf:ID='A69218'>1391000</NS0:mainTelephoneLines>
+    <NS0:mobileTelephoneLines rdf:ID='A69220'>116645</NS0:mobileTelephoneLines>
+    <NS0:telephoneSystemGeneralAssessment>modern system with all important capabilities; however density is low with only 4.6 main lines available for each 100 persons</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>good system composed of open-wire lines, cables, and microwave radio relay links; Internet available but expensive; principal switching centers are Casablanca and Rabat; national network nearly 100% digital using fiber-optic links; improved rural service employs microwave radio relay</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>7 submarine cables; satellite earth stations - 2 Intelsat (Atlantic Ocean) and 1 Arabsat; microwave radio relay to Gibraltar, Spain, and Western Sahara; coaxial cable and microwave radio relay to Algeria; participant in Medarabtel; fiber-optic cable link from Agadir to Algeria and Tunisia (1998)</NS0:telephoneSystemInternational>
+    <NS0:radios rdf:ID='A69225'>6640000</NS0:radios>
+    <NS0:televisions rdf:ID='A69227'>3100000</NS0:televisions>
+    <NS0:internetCountryCode>.ma</NS0:internetCountryCode>
+    <NS0:internetServiceProviders rdf:ID='A69230'>8</NS0:internetServiceProviders>
+    <NS0:internetUsers rdf:ID='A69232'>120000</NS0:internetUsers>
+    <NS0:railwaysTotal>1907</NS0:railwaysTotal>
+    <NS0:highwaysTotal>57847</NS0:highwaysTotal>
+    <NS0:highwaysPaved rdf:ID='A69236'>30254</NS0:highwaysPaved>
+    <NS0:highwaysUnpaved rdf:ID='A69238'>27593</NS0:highwaysUnpaved>
+    <NS0:port rdf:resource='#A69240'/>
+    <NS0:port rdf:resource='#A69244'/>
+    <NS0:port rdf:resource='#A69248'/>
+    <NS0:port rdf:resource='#A69252'/>
+    <NS0:port rdf:resource='#A69256'/>
+    <NS0:port rdf:resource='#A69260'/>
+    <NS0:port rdf:resource='#A69264'/>
+    <NS0:port rdf:resource='#A69268'/>
+    <NS0:port rdf:resource='#A69272'/>
+    <NS0:port rdf:resource='#A69276'/>
+    <NS0:airports rdf:ID='A69280'>69</NS0:airports>
+    <NS0:airportBreakdown rdf:resource='#A69283'/>
+    <NS0:airportBreakdown rdf:resource='#A69289'/>
+    <NS0:airportBreakdown rdf:resource='#A69296'/>
+    <NS0:airportBreakdown rdf:resource='#A69303'/>
+    <NS0:airportBreakdown rdf:resource='#A69310'/>
+    <NS0:airportBreakdown rdf:resource='#A69316'/>
+    <NS0:airportBreakdown rdf:resource='#A69323'/>
+    <NS0:airportBreakdown rdf:resource='#A69330'/>
+    <NS0:airportBreakdown rdf:resource='#A69337'/>
+    <NS0:heliports rdf:ID='A69343'>1</NS0:heliports>
+    <NS0:militaryAge>18</NS0:militaryAge>
+    <NS0:malesOfMilitaryAge rdf:ID='A69347'>8182073</NS0:malesOfMilitaryAge>
+    <NS0:malesFitForMilitaryService rdf:ID='A69350'>5160374</NS0:malesFitForMilitaryService>
+    <NS0:malesReachingMilitaryAgeAnnually rdf:ID='A69353'>348380</NS0:malesReachingMilitaryAgeAnnually>
+    <NS0:militaryExpenditures rdf:ID='A69356'>1400000000</NS0:militaryExpenditures>
+    <NS0:militaryExpendituresPercentGDP rdf:ID='A69358'>4</NS0:militaryExpendituresPercentGDP>
+    <NS0:internationalDispute>claims and administers Western Sahara, but sovereignty is unresolved and the UN is attempting to hold a referendum on the issue</NS0:internationalDispute>
+    <NS0:internationalDispute>the UN-administered cease-fire has been in effect since September 1991</NS0:internationalDispute>
+    <NS0:internationalDispute>Spain controls five places of sovereignty on and off the coast of Morocco - the coastal enclaves of Ceuta and Melilla which Morocco contests, as well as the islands of Penon de Alhucemas, Penon de Velez de la Gomera, and Islas Chafarinas</NS0:internationalDispute>
+    <NS0:illicitDrugs>illicit producer of hashish</NS0:illicitDrugs>
+    <NS0:illicitDrugs>trafficking on the increase for both domestic and international drug markets</NS0:illicitDrugs>
+    <NS0:illicitDrugs>shipments of hashish mostly directed to Western Europe</NS0:illicitDrugs>
+    <NS0:illicitDrugs>transit point for cocaine from South America destined for Western Europe</NS0:illicitDrugs>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/mo-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/mo-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/mo-map.jpg</NS0:map>
+    <NS0:border rdf:resource='#A126859'/>
+    <NS0:border rdf:resource='#A126864'/>
+    <NS0:border rdf:ID='A126873' rdf:resource='#A126869'/>
+    <NS0:border rdf:ID='A126879' rdf:resource='#A126875'/>
+    <NS0:exportPartner rdf:resource='#A126881'/>
+    <NS0:exportPartner rdf:resource='#A126886'/>
+    <NS0:exportPartner rdf:resource='#A126891'/>
+    <NS0:exportPartner rdf:resource='#A126896'/>
+    <NS0:exportPartner rdf:ID='A126905' rdf:resource='#A126901'/>
+    <NS0:importPartner rdf:resource='#A126907'/>
+    <NS0:importPartner rdf:resource='#A126912'/>
+    <NS0:importPartner rdf:resource='#A126917'/>
+    <NS0:importPartner rdf:resource='#A126922'/>
+    <NS0:importPartner rdf:ID='A126931' rdf:resource='#A126927'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68907'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Chaouen</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69289'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>2438</NS0:minRunway>
+    <NS0:maxRunway>3047</NS0:maxRunway>
+    <NS0:count>5</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69157'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68903'>
+    <rdf:type rdf:resource='#Wilaya'/>
+    <NS0:name>Casablanca</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68730'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69283'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>3048</NS0:minRunway>
+    <NS0:count>10</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68899'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Boulemane</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69161'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68895'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Ben Slimane</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69276'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Tangier; also Spanish-controlled Ceuta and Melilla</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69232'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69110'>
+    <NS0:note>1998-99</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68891'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Beni Mellal</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69152'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69272'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Safi</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68887'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Azilal</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69103'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126879'>
+    <NS0:note>Melilla</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69268'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Rabat</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68883'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Al Hoceima</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69350'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69264'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Nador</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126873'>
+    <NS0:note>Ceuta</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68879'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Agadir</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69260'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Mohammedia</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69256'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Kenitra</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68869'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CapitalCity'/>
+    <NS0:name>Rabat</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69252'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>El Jorf Lasfar</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69343'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69248'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Casablanca</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69244'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>El Jadida</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69240'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Agadir</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68854'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#diplomacy'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68850'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#government'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68846'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#French_often_the_language_of_business'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69187'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>f.o.b., 1999</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68842'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Berber_dialects'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68837'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Arabic'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69230'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69238'>
+    <NS0:year>1998</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69225'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68832'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Jewish'/>
+    <NS0:percent>0.2</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68827'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Christian'/>
+    <NS0:percent>1.1</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69206'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#fuel'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68822'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Muslim'/>
+    <NS0:percent>98.7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69202'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#consumer_goods'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69163'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68817'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Jewish'/>
+    <NS0:percent>0.2</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69095'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69198'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#food_and_beverages'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68812'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#other'/>
+    <NS0:percent>0.7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69194'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#machinery_and_equipment'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68807'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Arab-Berber'/>
+    <NS0:percent>99.1</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69190'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#semiprocessed_goods'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69353'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126931'>
+    <NS0:note>1999</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69183'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#minerals'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69179'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#food_and_beverages'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68793'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:ratio>1</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69175'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#phosphates_and_fertilizers'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68788'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>65</NS0:minAge>
+    <NS0:ratio>0.82</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68802'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126905'>
+    <NS0:note>1999</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68782'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>15</NS0:minAge>
+    <NS0:maxAge>64</NS0:maxAge>
+    <NS0:ratio>0.99</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69098'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69358'>
+    <NS0:note>FY99/00</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68776'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>14</NS0:maxAge>
+    <NS0:ratio>1.04</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68770'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>0</NS0:maxAge>
+    <NS0:ratio>1.05</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69092'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69140'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69356'>
+    <NS0:note>FY99/00</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69106'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68764'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69128'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#industry'/>
+    <NS0:percent>15</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69123'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#services'/>
+    <NS0:percent>35</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69118'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#agriculture'/>
+    <NS0:percent>50</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69280'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68714'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Jbel Toubkal</NS0:name>
+    <NS0:elevation>4165</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68796'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69213'>
+    <NS0:year>1995</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126927'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#UK'/>
+    <NS0:percent>6</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69132'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68709'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Sebkha Tah</NS0:name>
+    <NS0:elevation>-55</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126922'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#GM'/>
+    <NS0:percent>6</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68755'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>July 2001</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126917'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#IT'/>
+    <NS0:percent>7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69218'>
+    <NS0:year>1998</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126912'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#SP'/>
+    <NS0:percent>12</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68692'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>32.0</NS0:latitude>
+    <NS0:longitude>-5.0</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126907'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#FR'/>
+    <NS0:percent>32</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126901'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#US'/>
+    <NS0:percent>5</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#Province'>
+    <rdf:type rdf:resource='http://www.w3.org/2000/01/rdf-schema#Class'/>
+    <rdfs:subClassOf rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AdministrativeDivision'/>
+    <rdfs:label>Province</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69135'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126896'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#GM'/>
+    <NS0:percent>7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126891'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#UK'/>
+    <NS0:percent>8</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126886'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#SP'/>
+    <NS0:percent>9</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126881'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#FR'/>
+    <NS0:percent>35</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69347'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126875'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#SP'/>
+    <NS0:distance>9.6</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69149'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126869'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#SP'/>
+    <NS0:distance>6.3</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126864'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#WI'/>
+    <NS0:distance>443</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69031'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Tiznit</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69027'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Tetouan</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126859'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#AG'/>
+    <NS0:distance>1559</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69172'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>f.o.b., 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69023'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Taza</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69159'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69019'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Tata</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68840'>
+    <NS0:note>official</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69015'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Taroudannt</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69011'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Taounate</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69007'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Tan-Tan</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69003'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Tanger</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68999'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Sidi Kacem</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69115'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68995'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Settat</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68991'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Safi</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68987'>
+    <rdf:type rdf:resource='#Wilaya'/>
+    <NS0:name>Rabat-Sale</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69220'>
+    <NS0:year>1998</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68983'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Oujda</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68979'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Ouarzazate</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68975'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Nador</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68758'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68971'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Meknes</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68967'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Marrakech</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68963'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Larache</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68959'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Laayoune</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68799'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68955'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Khouribga</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69337'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:maxRunway>913</NS0:maxRunway>
+    <NS0:count>11 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68951'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Khenifra</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68947'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Khemisset</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69330'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>914</NS0:minRunway>
+    <NS0:maxRunway>1523</NS0:maxRunway>
+    <NS0:count>20</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68767'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A68943'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Kenitra</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A69323'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>1524</NS0:minRunway>
+    <NS0:maxRunway>2437</NS0:maxRunway>
+    <NS0:count>11</NS0:count>
+  </rdf:Description>
+</rdf:RDF>

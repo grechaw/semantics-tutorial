@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xml:base="http://www.daml.org/2001/12/factbook/io">
+  <rdf:Description rdf:about='#A49703'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A49699'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Diego Garcia</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A49697'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A49649'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>-6.0</NS0:latitude>
+    <NS0:longitude>71.5</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A49669'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>unnamed location on Diego Garcia</NS0:name>
+    <NS0:elevation>15</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#IO'>
+    <NS0:background>Established as a territory of the UK in 1965, a number of the British Indian Ocean Territory (BIOT) islands were transferred to the Seychelles when it attained independence in 1976. Subsequently, BIOT has consisted only of the six main island groups comprising the Chagos Archipelago. The largest and most southerly of the islands, Diego Garcia, contains a joint UK-US naval support facility. All of the remaining islands are uninhabited. Former agricultural workers, earlier resident in the islands, were relocated primarily to Mauritius but also to the Seychelles, between 1967 and 1973. In 2000, a British High Court ruling invalidated the local immigration order which had excluded them from the archipelago, but upheld the special military status of Diego Garcia.</NS0:background>
+    <NS0:location>Southern Asia, archipelago in the Indian Ocean, about one-half the way from Africa to Indonesia</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A49649'/>
+    <NS0:mapReferences>World</NS0:mapReferences>
+    <NS0:totalArea>60</NS0:totalArea>
+    <NS0:landArea>60</NS0:landArea>
+    <NS0:waterArea>0</NS0:waterArea>
+    <NS0:comparativeArea>about 0.3 times the size of Washington, DC</NS0:comparativeArea>
+    <NS0:coastline>698</NS0:coastline>
+    <NS0:exclusiveFishingZone>200</NS0:exclusiveFishingZone>
+    <NS0:territorialSea>3</NS0:territorialSea>
+    <NS0:climate>tropical marine; hot, humid, moderated by trade winds</NS0:climate>
+    <NS0:terrain>flat and low (most areas do not exceed four meters in elevation)</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A49664'/>
+    <NS0:highestPoint rdf:resource='#A49669'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#coconuts'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#fish'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#sugarcane'/>
+    <NS0:arableLand>0</NS0:arableLand>
+    <NS0:permanentCrops>0</NS0:permanentCrops>
+    <NS0:permanentPastures>0</NS0:permanentPastures>
+    <NS0:irrigatedLand rdf:ID='A49680'>0</NS0:irrigatedLand>
+    <NS0:naturalHazard>NA</NS0:naturalHazard>
+    <NS0:environmentalIssue>NA</NS0:environmentalIssue>
+    <NS0:conventionalLongCountryName>British Indian Ocean Territory</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>none</NS0:conventionalShortCountryName>
+    <NS0:countryAbbreviation>BIOT</NS0:countryAbbreviation>
+    <NS0:dependencyStatus>overseas territory of the UK; administered by a commissioner, resident in the Foreign and Commonwealth Office in London</NS0:dependencyStatus>
+    <NS0:legalSystem>the laws of the UK, where applicable, apply</NS0:legalSystem>
+    <NS0:flagDescription>white with six blue wavy horizontal stripes; the flag of the UK is in the upper hoist-side quadrant; the striped section bears a palm tree and yellow crown centered on the outer half of the flag</NS0:flagDescription>
+    <NS0:economyOverview>All economic activity is concentrated on the largest island of Diego Garcia, where joint UK-US defense facilities are located. Construction projects and various services needed to support the military installations are done by military and contract employees from the UK, Mauritius, the Philippines, and the US. There are no industrial or agricultural activities on the islands. When the Ilois return, they plan to reestablish sugarcane production and fishing.</NS0:economyOverview>
+    <NS0:telephoneSystemGeneralAssessment>separate facilities for military and public needs are available</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>all commercial telephone services are available, including connection to the Internet</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>international telephone service is carried by satellite (2000)</NS0:telephoneSystemInternational>
+    <NS0:televisionBroadcastStations rdf:ID='A49694'>1</NS0:televisionBroadcastStations>
+    <NS0:internetCountryCode>.io</NS0:internetCountryCode>
+    <NS0:internetServiceProviders rdf:ID='A49697'>1</NS0:internetServiceProviders>
+    <NS0:port rdf:resource='#A49699'/>
+    <NS0:airports rdf:ID='A49703'>1</NS0:airports>
+    <NS0:airportBreakdown rdf:resource='#A49706'/>
+    <NS0:internationalDispute>the Chagos Archipelago is claimed by Mauritius and Seychelles</NS0:internationalDispute>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/io-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/io-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/io-map.jpg</NS0:map>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A49694'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A49664'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Indian Ocean</NS0:name>
+    <NS0:elevation>0</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A49706'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>3048</NS0:minRunway>
+    <NS0:count>1 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A49680'>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+</rdf:RDF>

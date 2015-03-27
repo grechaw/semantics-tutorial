@@ -1,0 +1,393 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_du_Vanuatu_de_football	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+@prefix ns3:	<http://ko.dbpedia.org/resource/> .
+ns3:바누아투_축구_국가대표팀	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+@prefix ns4:	<http://pt.dbpedia.org/resource/> .
+ns4:Seleção_Vanuatuense_de_Futebol	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+@prefix ns5:	<http://de.dbpedia.org/resource/> .
+ns5:Vanuatuische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+@prefix ns6:	<http://wikidata.dbpedia.org/resource/> .
+ns6:Q328318	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+@prefix ns7:	<http://cs.dbpedia.org/resource/> .
+ns7:Fotbalová_reprezentace_Vanuatu	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+@prefix ns8:	<http://es.dbpedia.org/resource/> .
+ns8:Selección_de_fútbol_de_Vanuatu	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+@prefix ns9:	<http://it.dbpedia.org/resource/> .
+ns9:Nazionale_di_calcio_di_Vanuatu	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+@prefix ns10:	<http://ja.dbpedia.org/resource/> .
+ns10:サッカーバヌアツ代表	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+@prefix ns11:	<http://nl.dbpedia.org/resource/> .
+ns11:Vanuatuaans_voetbalelftal	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+@prefix ns12:	<http://pl.dbpedia.org/resource/> .
+ns12:Reprezentacja_Vanuatu_w_piłce_nożnej	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Geoffrey_Gete	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Geoffrey_Gete	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns16:	<http://en.wikipedia.org/wiki/> .
+ns16:Vanuatu_national_football_team	foaf:primaryTopic	dbpedia:Vanuatu_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Vanuatu_national_football_team	rdf:type	yago:YagoPermanentlyLocatedEntity ,
+		owl:Thing ,
+		yago:FootballTeam108080025 .
+@prefix ns19:	<http://schema.org/> .
+dbpedia:Vanuatu_national_football_team	rdf:type	ns19:Organization .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Vanuatu_national_football_team	rdf:type	dul:SocialPerson ,
+		ns19:SportsTeam ,
+		dul:Agent ,
+		yago:YagoLegalActorGeo ,
+		yago:YagoLegalActor ,
+		yago:NationalSportsTeamsOfVanuatu ,
+		dbpedia-owl:Organisation ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		dbpedia-owl:Agent ,
+		yago:OceanianNationalAssociationFootballTeams ;
+	owl:sameAs	ns11:Vanuatuaans_voetbalelftal ,
+		ns7:Fotbalová_reprezentace_Vanuatu .
+@prefix ns21:	<http://ca.dbpedia.org/resource/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns21:Selecció_de_futbol_de_Vanuatu ,
+		ns3:바누아투_축구_국가대표팀 .
+@prefix ns22:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns22:Echipa_națională_de_fotbal_a_Vanuatului ,
+		<http://rdf.freebase.com/ns/m.0472gv> .
+@prefix ns23:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns23:منتخب_فانواتو_لكرة_القدم .
+@prefix ns24:	<http://yago-knowledge.org/resource/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns24:Vanuatu_national_football_team .
+@prefix ns25:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns25:تیم_ملی_فوتبال_وانواتو .
+@prefix ns26:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns26:Vanuatu_Millî_Futbol_Takımı .
+@prefix ns27:	<http://id.dbpedia.org/resource/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns27:Tim_nasional_sepak_bola_Vanuatu ,
+		ns6:Q328318 .
+@prefix ns28:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns28:Vanuatus_herrlandslag_i_fotboll .
+@prefix ns29:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns29:Vanuatu_national_football_team .
+@prefix ns30:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns30:Vanuatui_labdarúgó-válogatott .
+@prefix ns31:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns31:Збірна_Вануату_з_футболу .
+@prefix ns32:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns32:Vanuatu_vyrų_futbolo_rinktinė .
+@prefix ns33:	<http://hr.dbpedia.org/resource/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns33:Vanuatska_nogometna_reprezentacija .
+@prefix ns34:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns34:Vanuatu_national_football_team ,
+		dbpedia:Vanuatu_national_football_team ,
+		ns10:サッカーバヌアツ代表 ,
+		ns4:Seleção_Vanuatuense_de_Futebol ,
+		ns12:Reprezentacja_Vanuatu_w_piłce_nożnej ,
+		ns1:Équipe_du_Vanuatu_de_football ,
+		ns8:Selección_de_fútbol_de_Vanuatu .
+@prefix ns35:	<http://he.dbpedia.org/resource/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns35:נבחרת_ונואטו_בכדורגל .
+@prefix ns36:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns36:Сборная_Вануату_по_футболу .
+@prefix ns37:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns37:Đội_tuyển_bóng_đá_quốc_gia_Vanuatu .
+@prefix ns38:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns38:Vanuatun_jalkapallomaajoukkue .
+@prefix ns39:	<http://no.dbpedia.org/resource/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns39:Vanuatus_herrelandslag_i_fotball .
+@prefix ns40:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns40:瓦努阿圖國家足球隊 .
+@prefix ns41:	<http://wikidata.org/entity/> .
+dbpedia:Vanuatu_national_football_team	owl:sameAs	ns41:Q328318 ,
+		ns9:Nazionale_di_calcio_di_Vanuatu ,
+		ns5:Vanuatuische_Fußballnationalmannschaft .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Vanuatu_national_football_team	rdfs:label	"Vanuatuische Fu\u00DFballnationalmannschaft"@de ,
+		"Vanuatuaans voetbalelftal"@nl ,
+		"\u00C9quipe du Vanuatu de football"@fr ,
+		"Vanuatu national football team" ,
+		"Nazionale di calcio di Vanuatu"@it ,
+		"\u74E6\u52AA\u963F\u5716\u570B\u5BB6\u8DB3\u7403\u968A"@zh ,
+		"Sele\u00E7\u00E3o Vanuatuense de Futebol"@pt ,
+		"\u30B5\u30C3\u30AB\u30FC\u30D0\u30CC\u30A2\u30C4\u4EE3\u8868"@ja ,
+		"Reprezentacja Vanuatu w pi\u0142ce no\u017Cnej"@pl ,
+		"Selecci\u00F3n de f\u00FAtbol de Vanuatu"@es ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0412\u0430\u043D\u0443\u0430\u0442\u0443 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0641\u0627\u0646\u0648\u0627\u062A\u0648 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Vanuatu_national_football_team	dcterms:subject	category:Vanuatu_national_football_team ,
+		category:National_sports_teams_of_Vanuatu ,
+		category:Oceanian_national_association_football_teams ;
+	foaf:homepage	<http://www.vanuafoot.vu/> ;
+	foaf:name	"Vanuatu" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Vanuatu_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Vanuatu_national_football_team?oldid=604608318> ;
+	rdfs:comment	"Het Vanuatuaans voetbalelftal is een team van voetballers dat Vanuatu vertegenwoordigt bij internationale wedstrijden, zoals het WK en de OFC Nations Cup. Tot de onafhankelijkheid van Vanuatu speelde de ploeg onder de naam Nieuwe Hebriden."@nl ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0641\u0627\u0646\u0648\u0627\u062A\u0648 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0648\u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0641\u064A \u0641\u0627\u0646\u0648\u0627\u062A\u0648 \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0641\u0627\u0646\u0648\u0627\u062A\u0648 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0647 \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 . \u0623\u0641\u0636\u0644 \u0627\u0646\u062C\u0627\u0632 \u062D\u0642\u0642\u0647 \u0647\u0648 \u0627\u062D\u062A\u0644\u0627\u0644 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0631\u0627\u0628\u0639 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0623\u0648\u0642\u064A\u0627\u0646\u0648\u0633\u064A\u0627 \u0644\u0644\u0645\u0646\u062A\u062E\u0628\u0627\u062A 3 \u0645\u0631\u0627\u062A \u0641\u064A 1973 \u060C 2000 \u060C \u06482002."@ar ,
+		"La nazionale di calcio di Vanuatu \u00E8 posta sotto l'egida della Federazione calcistica di Vanuatu. Un tempo era conosciuta come Nazionale di calcio delle Nuove Ebridi prima che le Nuove Ebridi diventassero Repubblica di Vanuatu nel 1980.Fin\u00EC al quarto posto della Coppa d'Oceania nel 1973, nel 2000 e nel 2002."@it ,
+		"A Sele\u00E7\u00E3o Vanuatuana de Futebol representa Vanuatu nas competi\u00E7\u00F5es oficiais de futebol da FIFA. Participa das eliminat\u00F3rias da OFC. A entidade organizadora do futebol do pa\u00EDs, Federa\u00E7\u00E3o de Vanuatu de Futebol, foi fundada em 1934, mas s\u00F3 foi afiliada \u00E0 FIFA em 1988."@pt ,
+		"Die vanuatuische Fu\u00DFballnationalmannschaft ist das Auswahlteam des pazifischen Inselstaates Vanuatu.Vanuatu ist seit 1988 Mitglied des Weltfu\u00DFballverbandes FIFA sowie des Regionalverbandes OFC. Somit nimmt man an den Qualifikationsspielen zu Fu\u00DFball-Weltmeisterschaften sowie zum OFC-Nations-Cup teil.Bereits als Nationalmannschaft der Neuen Hebriden, wie Vanuatu vor seiner Unabh\u00E4ngigkeit 1980 hie\u00DF, erreichte man 1973 beim OFC-Nationen-Pokal einen vierten Platz."@de ,
+		"La selecci\u00F3n de f\u00FAtbol de Vanuatu es el equipo representativo de dicho pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Federaci\u00F3n de F\u00FAtbol de Vanuatu, perteneciente a la OFC y a la FIFA.Bajo el nombre de las Nuevas H\u00E9bridas logr\u00F3 el cuarto puesto en la Copa de las Naciones de la OFC 1973 y una medalla de plata y otra de bronce en los Juegos del Pac\u00EDfico."@es ,
+		"Reprezentacja Vanuatu w pi\u0142ce no\u017Cnej cz\u0142onkiem FIFA jest od 1988, ale swe mecze rozgrywa\u0142a ju\u017C trzydzie\u015Bci lat wcze\u015Bniej (do chwili uzyskania niepodleg\u0142o\u015Bci w 1980 jako reprezentacja Nowych Hebryd\u00F3w). W Pucharze Narod\u00F3w Oceanii trzykrotnie zajmowa\u0142a czwarte miejsce, do Mistrzostw \u015Awiata nie zdo\u0142a\u0142a si\u0119 jak dot\u0105d zakwalifikowa\u0107."@pl ,
+		"L'\u00E9quipe du Vanuatu de football est une s\u00E9lection des meilleurs joueurs de football vanuatais sous l'\u00E9gide de la F\u00E9d\u00E9ration du Vanuatu de football. Le Vanuatu joue en g\u00E9n\u00E9ral ses matches au Stade Korman \u00E0 Port Vila, nomm\u00E9 d'apr\u00E8s Maxime Carlot Korman, homme politique vanuatais."@fr ,
+		"The Vanuatu national football team is the national team of Vanuatu and is controlled by the Vanuatu Football Federation." ,
+		"\u30B5\u30C3\u30AB\u30FC\u30D0\u30CC\u30A2\u30C4\u4EE3\u8868\u306F\u3001\u30D0\u30CC\u30A2\u30C4\u30B5\u30C3\u30AB\u30FC\u9023\u76DF(VFF)\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u30021980\u5E74\u306E\u72EC\u7ACB\u4EE5\u524D\u306F\u30B5\u30C3\u30AB\u30FC\u30CB\u30E5\u30FC\u30D8\u30D6\u30EA\u30C7\u30A3\u30FC\u30BA\u4EE3\u8868\u3068\u3057\u3066\u77E5\u3089\u308C\u3066\u3044\u305F\u3002OFC\u30CD\u30A4\u30B7\u30E7\u30F3\u30BA\u30AB\u30C3\u30D7\u306B7\u56DE\u51FA\u5834\u3057\u30014\u4F4D\u304C4\u5EA6\u3042\u308B\u3002\u7279\u306B2004\u5E74\u306F\u3001\u5F37\u8C6A\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9\u30924-2\u3067\u4E0B\u3057\u5927\u5065\u95D8\u3092\u898B\u305B\u305F\u3002"@ja ,
+		"\u041D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0412\u0430\u043D\u0443\u0430\u0442\u0443 \u2014 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0412\u0430\u043D\u0443\u0430\u0442\u0443. \u0423\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0435\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0430 \u0412\u0430\u043D\u0443\u0430\u0442\u0443. \u0412\u0430\u043D\u0443\u0430\u0442\u0443 \u0432\u043E\u0448\u043B\u0430 \u0432 \u0424\u0418\u0424\u0410 \u0438 \u041E\u0424\u041A \u0432 1988 \u0433\u043E\u0434\u0443. \u0412 \u0440\u0435\u0439\u0442\u0438\u043D\u0433\u0435 \u0424\u0418\u0424\u0410 \u043F\u043E \u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u044E \u043D\u0430 20 \u0438\u044E\u043D\u044F 2013 \u0433\u043E\u0434\u0430 \u0437\u0430\u043D\u0438\u043C\u0430\u0435\u0442 191-\u044E \u043F\u043E\u0437\u0438\u0446\u0438\u044E."@ru ,
+		"\u842C\u90A3\u675C\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u842C\u90A3\u675C\u7684\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u4E26\u7531\u74E6\u52AA\u963F\u5716\u8DB3\u7403\u7E3D\u6703\u6240\u7BA1\u8F44\u3002\u65BC1980\u5E74\u524D\uFF0C\u842C\u90A3\u675C\u570B\u5BB6\u8DB3\u7403\u968A\u65BC1980\u5E74\u524D\u7A31\u70BA\u65B0\u8D6B\u5E03\u91CC\u5E95\u7FA4\u5CF6\u570B\u5BB6\u8DB3\u7403\u968A\u3002\u76F4\u81F3\u73FE\u5728\uFF0C\u5169\u8005\u5171\u53C3\u8207\u904E8\u6B21\u7684\u5927\u6D0B\u6D32\u570B\u5BB6\u76C3\uFF0C\u7576\u4E2D\u51714\u6B21\u53D6\u5F97\u6BBF\u8ECD\u3002"@zh ;
+	foaf:isPrimaryTopicOf	ns16:Vanuatu_national_football_team ;
+	dbpprop:club	dbpedia:Wairarapa_United ,
+		dbpedia:PRK_Hekari_United ,
+		<http://dbpedia.org/resource/Tafea_F.C.> ,
+		<http://dbpedia.org/resource/Amicale_F.C.> ,
+		dbpedia:Erakor_Golden_Star ,
+		<http://dbpedia.org/resource/Tupuji_Imere_F.C.> ;
+	dbpprop:captain	dbpedia:Jean_Robert_Yelou .
+@prefix ns46:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Vanuatu_national_football_team	dbpprop:hasPhotoCollection	ns46:Vanuatu_national_football_team ;
+	dbpprop:name	dbpedia:Roddy_Lenga ,
+		dbpedia:Selwyn_Sese_Ala ,
+		dbpedia:Alphonse_Bongnaim ,
+		dbpedia:Robert_Tasso ,
+		dbpedia:Jean_Nako_Naprapol ,
+		dbpedia:Barry_Mansale ,
+		dbpedia:Nemani_Roqara ,
+		dbpedia:Seiloni_Iaruel ,
+		dbpedia:Seule_Soromon ,
+		dbpedia:Joseph_Namariau ,
+		dbpedia:Jean_Robert_Yelou ,
+		dbpedia:Jean_Kaltack ,
+		dbpedia:Malon_Kaltanak ,
+		dbpedia:Michel_Kaltack ,
+		dbpedia:Ernest_Bong ,
+		dbpedia:Chikau_Mansale ,
+		dbpedia:Freddy_Vava ,
+		dbpedia:Derek_Malas ,
+		dbpedia:Brian_Kaltack ,
+		dbpedia:Dominique_Fred ,
+		<http://dbpedia.org/resource/Fran%C3%A7ois_Sakama> ,
+		"Vanuatu" ,
+		dbpedia:Silas_Namatak ,
+		dbpedia:Kevin_Shem ;
+	dbpedia-owl:abstract	"Reprezentacja Vanuatu w pi\u0142ce no\u017Cnej cz\u0142onkiem FIFA jest od 1988, ale swe mecze rozgrywa\u0142a ju\u017C trzydzie\u015Bci lat wcze\u015Bniej (do chwili uzyskania niepodleg\u0142o\u015Bci w 1980 jako reprezentacja Nowych Hebryd\u00F3w). W Pucharze Narod\u00F3w Oceanii trzykrotnie zajmowa\u0142a czwarte miejsce, do Mistrzostw \u015Awiata nie zdo\u0142a\u0142a si\u0119 jak dot\u0105d zakwalifikowa\u0107."@pl ,
+		"A Sele\u00E7\u00E3o Vanuatuana de Futebol representa Vanuatu nas competi\u00E7\u00F5es oficiais de futebol da FIFA. Participa das eliminat\u00F3rias da OFC. A entidade organizadora do futebol do pa\u00EDs, Federa\u00E7\u00E3o de Vanuatu de Futebol, foi fundada em 1934, mas s\u00F3 foi afiliada \u00E0 FIFA em 1988."@pt ,
+		"\u842C\u90A3\u675C\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u842C\u90A3\u675C\u7684\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u4E26\u7531\u74E6\u52AA\u963F\u5716\u8DB3\u7403\u7E3D\u6703\u6240\u7BA1\u8F44\u3002\u65BC1980\u5E74\u524D\uFF0C\u842C\u90A3\u675C\u570B\u5BB6\u8DB3\u7403\u968A\u65BC1980\u5E74\u524D\u7A31\u70BA\u65B0\u8D6B\u5E03\u91CC\u5E95\u7FA4\u5CF6\u570B\u5BB6\u8DB3\u7403\u968A\u3002\u76F4\u81F3\u73FE\u5728\uFF0C\u5169\u8005\u5171\u53C3\u8207\u904E8\u6B21\u7684\u5927\u6D0B\u6D32\u570B\u5BB6\u76C3\uFF0C\u7576\u4E2D\u51714\u6B21\u53D6\u5F97\u6BBF\u8ECD\u3002"@zh ,
+		"The Vanuatu national football team is the national team of Vanuatu and is controlled by the Vanuatu Football Federation." ,
+		"La selecci\u00F3n de f\u00FAtbol de Vanuatu es el equipo representativo de dicho pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Federaci\u00F3n de F\u00FAtbol de Vanuatu, perteneciente a la OFC y a la FIFA.Bajo el nombre de las Nuevas H\u00E9bridas logr\u00F3 el cuarto puesto en la Copa de las Naciones de la OFC 1973 y una medalla de plata y otra de bronce en los Juegos del Pac\u00EDfico. Desde 1980, a\u00F1o en el que se cre\u00F3 la Rep\u00FAblica de Vanuatu y la selecci\u00F3n comenz\u00F3 a jugar bajo el nombre que posee actualmente, gan\u00F3 la Copa Melanesia de 1992 y fue cuarto en el m\u00E1ximo torneo de selecciones oce\u00E1nicas tres veces."@es ,
+		"\u30B5\u30C3\u30AB\u30FC\u30D0\u30CC\u30A2\u30C4\u4EE3\u8868\u306F\u3001\u30D0\u30CC\u30A2\u30C4\u30B5\u30C3\u30AB\u30FC\u9023\u76DF(VFF)\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u30021980\u5E74\u306E\u72EC\u7ACB\u4EE5\u524D\u306F\u30B5\u30C3\u30AB\u30FC\u30CB\u30E5\u30FC\u30D8\u30D6\u30EA\u30C7\u30A3\u30FC\u30BA\u4EE3\u8868\u3068\u3057\u3066\u77E5\u3089\u308C\u3066\u3044\u305F\u3002OFC\u30CD\u30A4\u30B7\u30E7\u30F3\u30BA\u30AB\u30C3\u30D7\u306B7\u56DE\u51FA\u5834\u3057\u30014\u4F4D\u304C4\u5EA6\u3042\u308B\u3002\u7279\u306B2004\u5E74\u306F\u3001\u5F37\u8C6A\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9\u30924-2\u3067\u4E0B\u3057\u5927\u5065\u95D8\u3092\u898B\u305B\u305F\u3002"@ja ,
+		"Het Vanuatuaans voetbalelftal is een team van voetballers dat Vanuatu vertegenwoordigt bij internationale wedstrijden, zoals het WK en de OFC Nations Cup. Tot de onafhankelijkheid van Vanuatu speelde de ploeg onder de naam Nieuwe Hebriden."@nl ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0641\u0627\u0646\u0648\u0627\u062A\u0648 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0648\u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0641\u064A \u0641\u0627\u0646\u0648\u0627\u062A\u0648 \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0641\u0627\u0646\u0648\u0627\u062A\u0648 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0647 \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 . \u0623\u0641\u0636\u0644 \u0627\u0646\u062C\u0627\u0632 \u062D\u0642\u0642\u0647 \u0647\u0648 \u0627\u062D\u062A\u0644\u0627\u0644 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0631\u0627\u0628\u0639 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0623\u0648\u0642\u064A\u0627\u0646\u0648\u0633\u064A\u0627 \u0644\u0644\u0645\u0646\u062A\u062E\u0628\u0627\u062A 3 \u0645\u0631\u0627\u062A \u0641\u064A 1973 \u060C 2000 \u060C \u06482002."@ar ,
+		"Die vanuatuische Fu\u00DFballnationalmannschaft ist das Auswahlteam des pazifischen Inselstaates Vanuatu.Vanuatu ist seit 1988 Mitglied des Weltfu\u00DFballverbandes FIFA sowie des Regionalverbandes OFC. Somit nimmt man an den Qualifikationsspielen zu Fu\u00DFball-Weltmeisterschaften sowie zum OFC-Nations-Cup teil.Bereits als Nationalmannschaft der Neuen Hebriden, wie Vanuatu vor seiner Unabh\u00E4ngigkeit 1980 hie\u00DF, erreichte man 1973 beim OFC-Nationen-Pokal einen vierten Platz. Vierte Pl\u00E4tze erreichte man auch 2000, 2002 und 2008.F\u00FCr eine Sensation sorgte die Nationalmannschaft Vanuatus bei der Qualifikation zur Fu\u00DFball-Weltmeisterschaft 2006 in Deutschland, als man Neuseeland mit 4:2 besiegte. Neuseeland wurde dadurch hinter Australien und den Salomonen nur Dritter der Qualifikationsgruppe und verpasste somit das Entscheidungsspiel um die Teilnahme an der Weltmeisterschaft."@de ,
+		"L'\u00E9quipe du Vanuatu de football est une s\u00E9lection des meilleurs joueurs de football vanuatais sous l'\u00E9gide de la F\u00E9d\u00E9ration du Vanuatu de football. Le Vanuatu joue en g\u00E9n\u00E9ral ses matches au Stade Korman \u00E0 Port Vila, nomm\u00E9 d'apr\u00E8s Maxime Carlot Korman, homme politique vanuatais."@fr ,
+		"\u041D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0412\u0430\u043D\u0443\u0430\u0442\u0443 \u2014 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0412\u0430\u043D\u0443\u0430\u0442\u0443. \u0423\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0435\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0430 \u0412\u0430\u043D\u0443\u0430\u0442\u0443. \u0412\u0430\u043D\u0443\u0430\u0442\u0443 \u0432\u043E\u0448\u043B\u0430 \u0432 \u0424\u0418\u0424\u0410 \u0438 \u041E\u0424\u041A \u0432 1988 \u0433\u043E\u0434\u0443. \u0412 \u0440\u0435\u0439\u0442\u0438\u043D\u0433\u0435 \u0424\u0418\u0424\u0410 \u043F\u043E \u043F\u043E\u043B\u043E\u0436\u0435\u043D\u0438\u044E \u043D\u0430 20 \u0438\u044E\u043D\u044F 2013 \u0433\u043E\u0434\u0430 \u0437\u0430\u043D\u0438\u043C\u0430\u0435\u0442 191-\u044E \u043F\u043E\u0437\u0438\u0446\u0438\u044E."@ru ,
+		"La nazionale di calcio di Vanuatu \u00E8 posta sotto l'egida della Federazione calcistica di Vanuatu. Un tempo era conosciuta come Nazionale di calcio delle Nuove Ebridi prima che le Nuove Ebridi diventassero Repubblica di Vanuatu nel 1980.Fin\u00EC al quarto posto della Coppa d'Oceania nel 1973, nel 2000 e nel 2002. Nell'edizione del 2004, Vanuatu sconfisse la Nuova Zelanda 4-2, facendo perdere a quest'ultima la finale della Coppa OFC e, di conseguenza, la possibilit\u00E0 di qualificarsi ai Mondiali di calcio del 2006. Tra i suoi calciatori celebri vi \u00E8 anche Roger Joe.Attualmente occupa la 191\u00AA posizione nel Ranking mondiale FIFA."@it ;
+	dbpedia-owl:wikiPageID	1112727 ;
+	dbpedia-owl:wikiPageRevisionID	604608318 ;
+	dbpprop:topScorer	dbpedia:Richard_Iwai ;
+	dbpprop:clubnat	"NZL" ,
+		"PNG" ,
+		"VAN" ;
+	dbpprop:goals	10 ,
+		9 ,
+		2 ,
+		0 ,
+		1 ,
+		6 ,
+		4 ,
+		5 ;
+	dbpprop:caps	24 ,
+		8 ,
+		11 ,
+		12 ,
+		15 ,
+		0 ,
+		1 ,
+		2 ,
+		4 ,
+		7 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Vanuatu_national_football_team	dbpprop:age	"1980-07-20+02:00"^^xsd:date ,
+		"1990-12-08+02:00"^^xsd:date ,
+		"1993-12-05+02:00"^^xsd:date ,
+		"1984-08-14+02:00"^^xsd:date ,
+		"1993-06-09+02:00"^^xsd:date ,
+		"1992-10-21+02:00"^^xsd:date ,
+		"1986-08-14+02:00"^^xsd:date ,
+		"1993-09-30+02:00"^^xsd:date ,
+		"1984-02-29+02:00"^^xsd:date ,
+		"1987-12-12+02:00"^^xsd:date ,
+		"1983-12-10+02:00"^^xsd:date ,
+		"1994-08-19+02:00"^^xsd:date ,
+		"1982-11-25+02:00"^^xsd:date ,
+		"1990-11-12+02:00"^^xsd:date ,
+		"1995-11-01+02:00"^^xsd:date ,
+		"1985-08-22+02:00"^^xsd:date ,
+		"1990-04-22+02:00"^^xsd:date ,
+		"1989-12-18+02:00"^^xsd:date ,
+		"1988-01-12+02:00"^^xsd:date ,
+		"1995-04-17+02:00"^^xsd:date ,
+		"1983-01-13+02:00"^^xsd:date ,
+		"1991-01-28+02:00"^^xsd:date ,
+		"1983-09-25+02:00"^^xsd:date ;
+	dbpprop:coach	dbpedia:Percy_Avock ;
+	dbpprop:patternSh	"_manutd1011a" ;
+	dbpedia-owl:coach	dbpedia:Percy_Avock ;
+	dbpprop:patternSo	"_band_black" ;
+	dbpprop:association	dbpedia:Vanuatu_Football_Federation ;
+	dbpprop:body	"FFD700" ,
+		8000 ;
+	dbpprop:confederation	"OFC" ;
+	dbpprop:fifaRank	1811 ;
+	dbpprop:fifaTrigramme	"VAN" ;
+	dbpprop:leftarm	0 ,
+		8000 ;
+	dbpprop:rightarm	0 ,
+		8000 ;
+	dbpprop:shorts	0 ;
+	dbpprop:socks	0 ,
+		"FFD700" ;
+	dbpprop:no	12 ,
+		13 ,
+		15 ,
+		8 ,
+		9 ,
+		10 ,
+		11 ,
+		4 ,
+		5 ,
+		6 ,
+		7 ,
+		1 ,
+		2 ,
+		20 ,
+		21 ,
+		22 ,
+		23 ,
+		16 ,
+		17 ,
+		18 ,
+		19 ;
+	dbpprop:pos	"DF" ,
+		"GK" ,
+		"FW" ,
+		"MF" ;
+	dbpprop:badge	"Vanuatu Football Federation Logo.svg" ;
+	dbpprop:largestLoss	9 ;
+	dbpprop:largestWin	"Vanuatu 18\u20130" ;
+	dbpprop:regionalCupApps	7 ;
+	dbpprop:regionalCupBest	"Fourth place, 1973, 2000, 2002, 2008" ;
+	dbpprop:regionalCupFirst	1973 ;
+	dbpprop:regionalName	dbpedia:OFC_Nations_Cup ;
+	dbpprop:eloMax	129 ;
+	dbpprop:eloMaxDate	"2004-06-02+02:00"^^xsd:date ;
+	dbpprop:eloMin	183 ;
+	dbpprop:eloMinDate	"November 1993" ;
+	dbpprop:eloRank	149 ;
+	dbpprop:fifaMax	131 ;
+	dbpprop:fifaMaxDate	"October 2007" ;
+	dbpprop:fifaMin	191 ;
+	dbpprop:fifaMinDate	"June 2013" ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.fifa.com/associations/association=van/index.html> ,
+		<http://www.oceaniafootball.com/index.cgi?sID=21&intArticleID=336&det=1> ,
+		<http://www.vanuafoot.vu/> ,
+		<http://vanuafoot.blogspot.com/> ,
+		<http://vfffoot.over-blog.com/> ;
+	dbpprop:homeStadium	dbpedia:Korman_Stadium ;
+	dbpedia-owl:stadium	dbpedia:Korman_Stadium .
+dbpedia:Moise_Poida	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+dbpedia:Seiloni_Iaruel	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+dbpedia:Kensi_Tangis	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+dbpedia:Joseph_Namariau	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+<http://dbpedia.org/resource/Paul_Young_(Vanuatuan_footballer)>	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+dbpedia:Richard_Iwai__7	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Etienne_Mermer	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Richard_Iwai	dbpedia-owl:birthPlace	dbpedia:Vanuatu_national_football_team ;
+	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+ns23:منتخب_فانواتو_لكرة_القدم	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+ns21:Selecció_de_futbol_de_Vanuatu	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+ns25:تیم_ملی_فوتبال_وانواتو	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+ns38:Vanuatun_jalkapallomaajoukkue	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+ns35:נבחרת_ונואטו_בכדורגל	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+ns29:Vanuatu_national_football_team	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+ns33:Vanuatska_nogometna_reprezentacija	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+ns30:Vanuatui_labdarúgó-válogatott	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+ns32:Vanuatu_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+ns39:Vanuatus_herrelandslag_i_fotball	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+ns22:Echipa_națională_de_fotbal_a_Vanuatului	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+ns36:Сборная_Вануату_по_футболу	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+ns34:Vanuatu_national_football_team	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+ns28:Vanuatus_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+ns26:Vanuatu_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+ns31:Збірна_Вануату_з_футболу	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+ns37:Đội_tuyển_bóng_đá_quốc_gia_Vanuatu	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+ns40:瓦努阿圖國家足球隊	owl:sameAs	dbpedia:Vanuatu_national_football_team .
+dbpedia:Roger_Joe	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+dbpedia:Michel_Kaltack__1	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Roger_Joe__3	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Kensi_Tangis__1	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Brian_Kaltack	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+dbpedia:Michel_Kaltack	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+dbpedia:Brian_Kaltack__1	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Jean_Robert_Yelou__1	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Alphonse_Bongnaim__1	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Ernest_Bong__1	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Geoffrey_Gete__1	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Kevin_Shem__3	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Dominique_Fred__2	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Silas_Namatak__2	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Moise_Poida__1	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Selwyn_Sese_Ala__1	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Chikau_Mansale__1	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+<http://dbpedia.org/resource/Paul_Young_(Vanuatuan_footballer)__1>	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Robert_Tasso__2	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Robert_Tom__1	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Seimata_Chilia__7	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Joseph_Namariau__1	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Lucien_Hinge__3	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:New_Hebrides_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Vanuatu_national_football_team .
+<http://dbpedia.org/resource/Fran%C3%A7ois_Sakama__1>	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Chikau_Mansale	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+dbpedia:Jean_Robert_Yelou	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+dbpedia:Robert_Tasso	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+dbpedia:Lucien_Hinge	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+dbpedia:Roddy_Lenga	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+dbpedia:Ernest_Bong	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+dbpedia:Selwyn_Sese_Ala	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+dbpedia:Alphonse_Bongnaim	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+dbpedia:Jean_Kaltack	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+dbpedia:Robert_Tom	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+dbpedia:Dominique_Fred	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+dbpedia:Silas_Namatak	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+<http://dbpedia.org/resource/Fran%C3%A7ois_Sakama>	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+dbpedia:Kevin_Shem	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Vanuatu_national_football_team .
+dbpedia:Seimata_Chilia	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .
+dbpedia:Roddy_Lenga__2	dbpedia-owl:team	dbpedia:Vanuatu_national_football_team .

@@ -1,0 +1,311 @@
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/1999_Korea_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/1999_FIFA_Confederations_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/1997_Copa_Am%C3%A9rica_squads>	dbpprop:name	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns2:	<http://en.wikipedia.org/wiki/> .
+ns2:Cuauhtémoc_Blanco	foaf:primaryTopic	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/2007_Copa_Am%C3%A9rica_squads>	dbpprop:name	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco>	rdf:type	yago:MexicanExpatriateFootballers ,
+		yago:Object100002684 ,
+		yago:Whole100003553 ,
+		yago:Contestant109613191 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco>	rdf:type	owl:Thing .
+@prefix ns6:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco>	rdf:type	ns6:Q215627 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:FootballersAtThe1996SummerOlympics .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco>	rdf:type	dbpedia-owl:Athlete ,
+		yago:LaLigaFootballers ,
+		yago:ExpatriateFootballersInSpain .
+@prefix ns8:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco>	rdf:type	ns8:SoccerPlayer ,
+		yago:OlympicFootballersOfMexico ,
+		<http://dbpedia.org/class/yago/1998FIFAWorldCupPlayers> ,
+		<http://dbpedia.org/class/yago/2002FIFAWorldCupPlayers> ,
+		<http://dbpedia.org/class/yago/1997FIFAConfederationsCupPlayers> ,
+		yago:MexicoInternationalFootballers .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco>	rdf:type	dul:NaturalPerson ,
+		<http://dbpedia.org/class/yago/PrimeraDivisi%C3%B3nDeM%C3%A9xicoPlayers> ,
+		ns6:Q5 ,
+		<http://dbpedia.org/class/yago/1998CONCACAFGoldCupPlayers> ,
+		foaf:Person ,
+		<http://dbpedia.org/class/yago/1996CONCACAFGoldCupPlayers> ,
+		yago:CDVeracruzPlayers ,
+		yago:ClubNecaxaFootballers ,
+		dbpedia-owl:Agent ,
+		yago:SoccerPlayer110618342 ,
+		<http://dbpedia.org/class/yago/1999CopaAm%C3%A9ricaPlayers> ,
+		dul:Agent ,
+		<http://dbpedia.org/class/yago/1999FIFAConfederationsCupPlayers> ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:MexicanExpatriatesInTheUnitedStates ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		dbpedia-owl:Person ,
+		yago:ExpatriateSoccerPlayersInTheUnitedStates ,
+		yago:Absentee109757653 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		<http://dbpedia.org/class/yago/2007CONCACAFGoldCupPlayers> ,
+		yago:DoradosDeSinaloaPlayers ,
+		<http://dbpedia.org/class/yago/2007CopaAm%C3%A9ricaPlayers> ,
+		yago:MexicanFootballers ,
+		<http://dbpedia.org/class/yago/ClubAm%C3%A9ricaFootballers> ,
+		yago:Athlete109820263 ,
+		yago:ChicagoFireSoccerClubPlayers ,
+		yago:FootballPlayer110101634 ,
+		yago:Player110439851 ,
+		yago:SantosLagunaFootballers ,
+		yago:RealValladolidFootballers ,
+		<http://dbpedia.org/class/yago/1997CopaAm%C3%A9ricaPlayers> ,
+		ns8:Athlete .
+@prefix ns10:	<http://schema.org/> .
+<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco>	rdf:type	ns10:Person ;
+	owl:sameAs	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> ,
+		<http://rdf.freebase.com/ns/m.0397ph> .
+@prefix ns11:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco>	owl:sameAs	ns11:Cuauhtémoc_Blanco .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco>	rdfs:label	"\u5EAB\u5967\u7279\u83AB\u514B\u00B7\u767D\u862D\u9AD8"@zh ,
+		"Cuauht\u00E9moc Blanco" ,
+		"Cuauht\u00E9moc Blanco"@nl ,
+		"Cuauht\u00E9moc Blanco"@pl ,
+		"\u30AF\u30A2\u30A6\u30C6\u30E2\u30AF\u30FB\u30D6\u30E9\u30F3\u30B3"@ja ,
+		"Cuauht\u00E9moc Blanco"@pt ,
+		"Cuauht\u00E9moc Blanco"@it ,
+		"Cuauht\u00E9moc Blanco"@es ,
+		"Cuauht\u00E9moc Blanco"@de ,
+		"Cuauht\u00E9moc Blanco"@fr ,
+		"\u0411\u043B\u0430\u043D\u043A\u043E, \u041A\u0443\u0430\u0443\u0442\u0435\u043C\u043E\u043A"@ru ,
+		"\u0643\u0648\u0627\u0648\u062A\u064A\u0645\u0648\u0643 \u0628\u0644\u0627\u0646\u0643\u0648"@ar .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco>	dcterms:subject	category:Major_League_Soccer_All-Stars ,
+		category:Major_League_Soccer_players ,
+		category:Mexican_expatriate_footballers ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:1995_King_Fahd_Cup_players> ,
+		category:Dorados_de_Sinaloa_footballers ,
+		category:CONCACAF_Gold_Cup-winning_players ,
+		category:Club_Necaxa_footballers ,
+		<http://dbpedia.org/resource/Category:1998_CONCACAF_Gold_Cup_players> ,
+		category:Footballers_at_the_1996_Summer_Olympics ,
+		<http://dbpedia.org/resource/Category:1999_Copa_Am%C3%A9rica_players> ,
+		category:Sportspeople_from_Mexico_City ,
+		<http://dbpedia.org/resource/Category:1997_FIFA_Confederations_Cup_players> ,
+		<http://dbpedia.org/resource/Category:1999_FIFA_Confederations_Cup_players> ,
+		category:Mexico_international_footballers ,
+		category:Lobos_de_la_BUAP_footballers ,
+		category:La_Liga_footballers ,
+		category:Expatriate_footballers_in_Spain ,
+		category:Real_Valladolid_footballers ,
+		category:Mexican_expatriates_in_the_United_States ,
+		<http://dbpedia.org/resource/Category:1996_CONCACAF_Gold_Cup_players> ,
+		<http://dbpedia.org/resource/Category:Club_Am%C3%A9rica_footballers> ,
+		category:Mexican_footballers ,
+		category:Tiburones_Rojos_de_Veracruz_footballers ,
+		category:FIFA_Century_Club ,
+		<http://dbpedia.org/resource/Category:2007_Copa_Am%C3%A9rica_players> ,
+		<http://dbpedia.org/resource/Category:1998_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2002_FIFA_World_Cup_players> ,
+		category:Expatriate_soccer_players_in_the_United_States ,
+		category:FIFA_Confederations_Cup-winning_players ,
+		<http://dbpedia.org/resource/Category:Designated_Players_(MLS)> ,
+		category:Chicago_Fire_Soccer_Club_players ,
+		<http://dbpedia.org/resource/Category:1997_Copa_Am%C3%A9rica_players> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Irapuato_FC_footballers ,
+		category:Olympic_footballers_of_Mexico ,
+		<http://dbpedia.org/resource/Category:2007_CONCACAF_Gold_Cup_players> ,
+		<http://dbpedia.org/resource/Category:1973_births> ,
+		category:Club_Santos_Laguna_footballers ,
+		category:Liga_MX_footballers ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Cuauht\u00E9moc_Blanco-Dorados.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco>	dc:description	"Mexican footballer" ,
+		"Mexican footballer" ;
+	foaf:givenName	"Cuauht\u00E9moc" ;
+	foaf:name	"Cuauht\u00E9moc Blanco Bravo" ,
+		"Cuauht\u00E9moc Blanco" ,
+		"Blanco, Cuauht\u00E9moc" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Cuauht\u00E9moc_Blanco?oldid=606783812> ;
+	rdfs:comment	"Cuauht\u00E9moc Bravo Blanco (Mexico-Stad, 17 januari 1973) is een Mexicaans betaald voetballer die bij voorkeur centraal in de aanval speelt. Hij tekende in juli 2010 een contract bij Irapuato FC, de zevende club in zijn loopbaan. In februari 1995 debuteerde hij in het Mexicaans voetbalelftal, waarvoor hij daarna meer dan 115 interlands speelde."@nl ,
+		"\u5EAB\u5967\u7279\u83AB\u514B\u00B7\u767D\u862D\u9AD8\uFF08Cuauht\u00E9moc Blanco Bravo\uFF09\uFF0C1973\u5E741\u670817\u65E5\u751F\u4E8E\u58A8\u897F\u54E5\u57CE\uFF0C\u58A8\u897F\u54E5\u804C\u4E1A\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u4ED6\u66FE\u51FA\u5E2D\u5305\u62EC1998\u5E74\u30012002\u5E74\u53CA2010\u5E743\u5C46\u4E16\u754C\u76C3\u6C7A\u8CFD\u9031\u3002"@zh ,
+		"Cuauht\u00E9moc Blanco Bravo (n\u00E9 le 17 janvier 1973 \u00E0 Mexico) est un footballeur mexicain jouant pour le CD Irapuato. Il a \u00E9volu\u00E9 principalement en Am\u00E9rique latine dans le championnat du Mexique avec le Club America et aux \u00C9tats-Unis avec le club de Chicago Fire."@fr ,
+		"\u30AF\u30A2\u30A6\u30C6\u30E2\u30AF\u30FB\u30D6\u30E9\u30F3\u30B3\u30FB\u30D6\u30E9\u30DC\uFF08Cuauhtemoc Blanco Bravo, 1973\u5E741\u670817\u65E5 - \uFF09\u306F\u3001\u30E1\u30AD\u30B7\u30B3\u30FB\u30E1\u30AD\u30B7\u30B3\u30B7\u30C6\u30A3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3067\u3042\u308B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FFW\uFF08\u30BB\u30AB\u30F3\u30C9\u30C8\u30C3\u30D7\uFF09\u3002\u30A2\u30B9\u30C6\u30AB\u6700\u5F8C\u306E\u738B\u306E\u30AF\u30A2\u30A6\u30C6\u30E2\u30C3\u30AF\u306B\u3061\u306A\u3093\u3067\u540D\u4ED8\u3051\u3089\u308C\u305F\u3002"@ja ,
+		"Cuauht\u00E9moc Blanco Bravo (ur. 17 stycznia 1973) \u2013 meksyka\u0144ski pi\u0142karz, zawodnik drugoligowego meksyka\u0144skiego klubu Dorados de Sinaloa.Wcze\u015Bniej wyst\u0119powa\u0142 w Necaxa, Real Valladolid, CD Veracruz, Club de F\u00FAtbol Am\u00E9rica oraz ameryka\u0144skim Chicago Fire.W reprezentacji narodowej swojego kraju rozegra\u0142 119 spotka\u0144 i strzeli\u0142 39 goli. Uczestniczy\u0142 w mistrzostwach \u015Bwiata we Francji w 1998, mistrzostwach \u015Bwiata w Korei i Japonii w 2002 oraz w mistrzostwach \u015Bwiata w RPA w 2010."@pl ,
+		"Cuauht\u00E9moc Blanco Bravo (Citt\u00E0 del Messico, 17 gennaio 1973) \u00E8 un calciatore messicano, attaccante dei Dorados.Soprannominato nel 2007 dai tifosi del Chicago Fire The King (in italiano Il Re), \u00E8 considerato uno dei migliori giocatori nella storia del calcio messicano."@it ,
+		"Cuauht\u00E9moc Blanco Bravo (17 de enero de 1973, Ciudad de M\u00E9xico, M\u00E9xico) es un futbolista mexicano. Juega de delantero y su actual equipo es el Lobos de la BUAP de la Liga de Ascenso."@es ,
+		"Cuauht\u00E9moc Blanco Bravo (Spanish pronunciation: [kwau\u02C8temok \u02C8\u03B2la\u014Bko]; born 17 January 1973) is a Mexican professional footballer who currently plays for Lobos de la BUAP in the Ascenso MX.Known for his charismatic personality on the field, playing most of his career as a deep-lying forward and his last years as an attacking midfielder." ,
+		"Cuauht\u00E9moc \"Temo\" Blanco Bravo (Cidade do M\u00E9xico, 17 de janeiro de 1973) \u00E9 um futebolista mexicano que atua como atacante e meia. Atualmente, joga pelo Lobos de la BUAP."@pt ,
+		"\u0643\u0648\u0627\u062A\u064A\u0645\u0648\u0643 \u0628\u0644\u0627\u0646\u0643\u0648\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0645\u0643\u0633\u064A\u0643\u064A \u0648\u0644\u062F \u0641\u064A 17 \u064A\u0646\u0627\u064A\u0631 \u0645\u0646 \u0627\u0644\u0639\u0627\u0645 1973.\u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0646\u0627\u062F\u064A \u0623\u0645\u064A\u0631\u0643\u0627 \u0627\u0644\u0645\u0643\u0633\u064A\u0643\u064A \u0648\u0647\u0648 \u0642\u0627\u0626\u062F \u0627\u0644\u0641\u0631\u064A\u0642. \u0645\u062B\u0644 \u0627\u0644\u0644\u0627\u0639\u0628 \u0627\u0644\u0639\u062F\u064A\u062F \u0645\u0646 \u0627\u0644\u0623\u0646\u062F\u064A\u0629 \u0643\u0646\u064A\u0643\u0627\u0643\u0633\u0627 \u0648\u0641\u064A\u0631\u0627\u0643\u0631\u0648\u0632 \u0641\u064A \u0627\u0644\u0645\u0643\u0633\u064A\u0643 \u0648\u0628\u0644\u062F \u0627\u0644\u0648\u0644\u064A\u062F \u0641\u064A \u0625\u0633\u0628\u0627\u0646\u064A\u0627.\u0644\u0647\u0630\u0627 \u0627\u0644\u0644\u0627\u0639\u0628 \u0623\u0633\u0644\u0648\u0628 \u0645\u0645\u064A\u0632 \u0641\u064A \u0627\u0644\u0627\u062D\u062A\u0641\u0627\u0638 \u0641\u064A \u0627\u0644\u0643\u0631\u0629 \u062D\u064A\u062B \u064A\u0633\u062A\u0646\u062F \u0639\u0644\u0649 \u0643\u062A\u0641\u064A \u0627\u0644\u0645\u062F\u0627\u0641\u0639\u064A\u0646 \u0648\u064A\u0628\u062F\u0627 \u0628\u0627\u0644\u0631\u0643\u0636 \u0648 \u0642\u062F \u0646\u0632\u0644\u062A \u0644\u0639\u0628\u0629 \u0643\u0631\u0629 \u0642\u062F\u0629 \u0642\u062F\u0645 \u062A\u0639\u062A\u0645\u062F \u0647\u0630\u0627 \u0627\u0644\u0623\u0633\u0644\u0648\u0628."@ar ,
+		"Cuauht\u00E9moc \u201ETemo\u201C Blanco Bravo (* 17. Januar 1973 in Mexiko-Stadt) ist ein mexikanischer Fu\u00DFballspieler."@de ,
+		"\u041A\u0443\u0430\u0443\u0442\u0435\u0301\u043C\u043E\u043A \u0411\u043B\u0430\u0301\u043D\u043A\u043E \u0411\u0440\u0430\u0301\u0432\u043E (\u0438\u0441\u043F. Cuauht\u00E9moc Blanco Bravo; 17 \u044F\u043D\u0432\u0430\u0440\u044F 1973, \u0422\u0435\u043F\u0438\u0442\u043E, \u041C\u0435\u0445\u0438\u043A\u043E) \u2014 \u043C\u0435\u043A\u0441\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432 \u0434\u0430\u043D\u043D\u043E\u0435 \u0432\u0440\u0435\u043C\u044F \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0438\u0439 \u0437\u0430 \u043C\u0435\u043A\u0441\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u043A\u043B\u0443\u0431 \u00AB\u041B\u043E\u0431\u043E\u0441 \u0411\u0423\u0410\u041F\u00BB. \u041C\u043E\u0436\u0435\u0442 \u0438\u0433\u0440\u0430\u0442\u044C \u043D\u0430 \u043F\u043E\u0437\u0438\u0446\u0438\u0438 \u043A\u0430\u043A \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0435\u0433\u043E, \u0442\u0430\u043A \u0438 \u0430\u0442\u0430\u043A\u0443\u044E\u0449\u0435\u0433\u043E \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A\u0430. \u0418\u0433\u0440\u043E\u043A \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041C\u0435\u043A\u0441\u0438\u043A\u0438. \u041D\u0430 \u043A\u043B\u0443\u0431\u043D\u043E\u043C \u0443\u0440\u043E\u0432\u043D\u0435 \u043D\u0430\u0438\u0431\u043E\u043B\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u043F\u043E \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u044F\u043C \u0437\u0430 \u00AB\u0410\u043C\u0435\u0440\u0438\u043A\u0443\u00BB (\u041C\u0435\u0445\u0438\u043A\u043E), \u0447\u0435\u0441\u0442\u044C \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u0437\u0430\u0449\u0438\u0449\u0430\u043B \u043F\u043E\u0447\u0442\u0438 15 \u043B\u0435\u0442. \u041E\u0434\u0438\u043D \u0438\u0437 \u043B\u0443\u0447\u0448\u0438\u0445 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442\u043E\u0432 \u041C\u0435\u043A\u0441\u0438\u043A\u0438 1990-\u0445 \u2014 2000-\u0445 \u0433\u043E\u0434\u043E\u0432."@ru ;
+	foaf:surname	"Blanco" ;
+	foaf:isPrimaryTopicOf	ns2:Cuauhtémoc_Blanco .
+@prefix ns17:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco>	dbpprop:hasPhotoCollection	ns17:Cuauhtémoc_Blanco ;
+	dbpprop:caption	"Blanco with Dorados de Sinaloa in 2012" ;
+	dbpprop:name	"Blanco, Cuauht\u00E9moc" ,
+		"Cuauht\u00E9moc Blanco" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Cuauht\u00E9moc_Blanco-Dorados.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u0643\u0648\u0627\u062A\u064A\u0645\u0648\u0643 \u0628\u0644\u0627\u0646\u0643\u0648\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0645\u0643\u0633\u064A\u0643\u064A \u0648\u0644\u062F \u0641\u064A 17 \u064A\u0646\u0627\u064A\u0631 \u0645\u0646 \u0627\u0644\u0639\u0627\u0645 1973.\u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0646\u0627\u062F\u064A \u0623\u0645\u064A\u0631\u0643\u0627 \u0627\u0644\u0645\u0643\u0633\u064A\u0643\u064A \u0648\u0647\u0648 \u0642\u0627\u0626\u062F \u0627\u0644\u0641\u0631\u064A\u0642. \u0645\u062B\u0644 \u0627\u0644\u0644\u0627\u0639\u0628 \u0627\u0644\u0639\u062F\u064A\u062F \u0645\u0646 \u0627\u0644\u0623\u0646\u062F\u064A\u0629 \u0643\u0646\u064A\u0643\u0627\u0643\u0633\u0627 \u0648\u0641\u064A\u0631\u0627\u0643\u0631\u0648\u0632 \u0641\u064A \u0627\u0644\u0645\u0643\u0633\u064A\u0643 \u0648\u0628\u0644\u062F \u0627\u0644\u0648\u0644\u064A\u062F \u0641\u064A \u0625\u0633\u0628\u0627\u0646\u064A\u0627.\u0644\u0647\u0630\u0627 \u0627\u0644\u0644\u0627\u0639\u0628 \u0623\u0633\u0644\u0648\u0628 \u0645\u0645\u064A\u0632 \u0641\u064A \u0627\u0644\u0627\u062D\u062A\u0641\u0627\u0638 \u0641\u064A \u0627\u0644\u0643\u0631\u0629 \u062D\u064A\u062B \u064A\u0633\u062A\u0646\u062F \u0639\u0644\u0649 \u0643\u062A\u0641\u064A \u0627\u0644\u0645\u062F\u0627\u0641\u0639\u064A\u0646 \u0648\u064A\u0628\u062F\u0627 \u0628\u0627\u0644\u0631\u0643\u0636 \u0648 \u0642\u062F \u0646\u0632\u0644\u062A \u0644\u0639\u0628\u0629 \u0643\u0631\u0629 \u0642\u062F\u0629 \u0642\u062F\u0645 \u062A\u0639\u062A\u0645\u062F \u0647\u0630\u0627 \u0627\u0644\u0623\u0633\u0644\u0648\u0628."@ar ,
+		"\u30AF\u30A2\u30A6\u30C6\u30E2\u30AF\u30FB\u30D6\u30E9\u30F3\u30B3\u30FB\u30D6\u30E9\u30DC\uFF08Cuauhtemoc Blanco Bravo, 1973\u5E741\u670817\u65E5 - \uFF09\u306F\u3001\u30E1\u30AD\u30B7\u30B3\u30FB\u30E1\u30AD\u30B7\u30B3\u30B7\u30C6\u30A3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3067\u3042\u308B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FFW\uFF08\u30BB\u30AB\u30F3\u30C9\u30C8\u30C3\u30D7\uFF09\u3002\u30A2\u30B9\u30C6\u30AB\u6700\u5F8C\u306E\u738B\u306E\u30AF\u30A2\u30A6\u30C6\u30E2\u30C3\u30AF\u306B\u3061\u306A\u3093\u3067\u540D\u4ED8\u3051\u3089\u308C\u305F\u3002"@ja ,
+		"Cuauht\u00E9moc Blanco Bravo (Citt\u00E0 del Messico, 17 gennaio 1973) \u00E8 un calciatore messicano, attaccante dei Dorados.Soprannominato nel 2007 dai tifosi del Chicago Fire The King (in italiano Il Re), \u00E8 considerato uno dei migliori giocatori nella storia del calcio messicano."@it ,
+		"\u041A\u0443\u0430\u0443\u0442\u0435\u0301\u043C\u043E\u043A \u0411\u043B\u0430\u0301\u043D\u043A\u043E \u0411\u0440\u0430\u0301\u0432\u043E (\u0438\u0441\u043F. Cuauht\u00E9moc Blanco Bravo; 17 \u044F\u043D\u0432\u0430\u0440\u044F 1973, \u0422\u0435\u043F\u0438\u0442\u043E, \u041C\u0435\u0445\u0438\u043A\u043E) \u2014 \u043C\u0435\u043A\u0441\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432 \u0434\u0430\u043D\u043D\u043E\u0435 \u0432\u0440\u0435\u043C\u044F \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0438\u0439 \u0437\u0430 \u043C\u0435\u043A\u0441\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u043A\u043B\u0443\u0431 \u00AB\u041B\u043E\u0431\u043E\u0441 \u0411\u0423\u0410\u041F\u00BB. \u041C\u043E\u0436\u0435\u0442 \u0438\u0433\u0440\u0430\u0442\u044C \u043D\u0430 \u043F\u043E\u0437\u0438\u0446\u0438\u0438 \u043A\u0430\u043A \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0435\u0433\u043E, \u0442\u0430\u043A \u0438 \u0430\u0442\u0430\u043A\u0443\u044E\u0449\u0435\u0433\u043E \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A\u0430. \u0418\u0433\u0440\u043E\u043A \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041C\u0435\u043A\u0441\u0438\u043A\u0438. \u041D\u0430 \u043A\u043B\u0443\u0431\u043D\u043E\u043C \u0443\u0440\u043E\u0432\u043D\u0435 \u043D\u0430\u0438\u0431\u043E\u043B\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u043F\u043E \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u044F\u043C \u0437\u0430 \u00AB\u0410\u043C\u0435\u0440\u0438\u043A\u0443\u00BB (\u041C\u0435\u0445\u0438\u043A\u043E), \u0447\u0435\u0441\u0442\u044C \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u0437\u0430\u0449\u0438\u0449\u0430\u043B \u043F\u043E\u0447\u0442\u0438 15 \u043B\u0435\u0442. \u041E\u0434\u0438\u043D \u0438\u0437 \u043B\u0443\u0447\u0448\u0438\u0445 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442\u043E\u0432 \u041C\u0435\u043A\u0441\u0438\u043A\u0438 1990-\u0445 \u2014 2000-\u0445 \u0433\u043E\u0434\u043E\u0432."@ru ,
+		"Cuauht\u00E9moc Blanco Bravo (n\u00E9 le 17 janvier 1973 \u00E0 Mexico) est un footballeur mexicain jouant pour le CD Irapuato. Il a \u00E9volu\u00E9 principalement en Am\u00E9rique latine dans le championnat du Mexique avec le Club America et aux \u00C9tats-Unis avec le club de Chicago Fire. Il est connu pour avoir effectu\u00E9 en match officiel le coup du crapaud (consistant \u00E0 passer ses adversaires en coin\u00E7ant le ballon entre ses jambes), lors de la coupe du monde 1998 en France, contre l'\u00C9quipe de Cor\u00E9e du Sud de football.Il est l'un des joueurs le plus de fois s\u00E9lectionn\u00E9 en \u00E9quipe nationale du Mexique avec 119 apparitions et a particip\u00E9 \u00E0 3 coupes du monde, celles de 1998/2002/2010.Connu pour sa personnalit\u00E9 charismatique et agressive sur le terrain, il a jou\u00E9 la plupart du temps comme attaquant et ses derni\u00E8res ann\u00E9es en tant que milieu offensif. Il est largement consid\u00E9r\u00E9 comme l'un des plus grands joueurs et l'un des plus talentueux du Mexique au cours des deux derni\u00E8res d\u00E9cennies.Blanco est le seul joueur de football mexicain \u00E0 avoir gagn\u00E9 un prix dans une comp\u00E9tition de la FIFA d'envergure internationale, comme il a remport\u00E9 le Ballon d'Argent et le Soulier d'Or pendant la Coupe des conf\u00E9d\u00E9rations de 1999. Il a \u00E9t\u00E9 nomm\u00E9 le joueur par excellence de la division mexicaine Premi\u00E8re ligue \u00E0 cinq reprises."@fr ,
+		"Cuauht\u00E9moc Blanco Bravo (Spanish pronunciation: [kwau\u02C8temok \u02C8\u03B2la\u014Bko]; born 17 January 1973) is a Mexican professional footballer who currently plays for Lobos de la BUAP in the Ascenso MX.Known for his charismatic personality on the field, playing most of his career as a deep-lying forward and his last years as an attacking midfielder. He is widely considered as the most talented and influential Mexican player of his generation.Blanco is the only Mexican football player with an award in a major international FIFA competition, as he won the Silver Ball and the Silver Shoe awards in the 1999 FIFA Confederations Cup. He has been awarded the MVP of the Mexican First League Division five times.He is tied with Ronaldinho as the all-time leading Confederations Cup goalscorer. Blanco is the second leading goal scorer for the Mexican national football team and his debut team Club Am\u00E9rica; he is also Mexico's second top scorer in both the FIFA World Cup and the Copa Libertadores tournament." ,
+		"Cuauht\u00E9moc Blanco Bravo (17 de enero de 1973, Ciudad de M\u00E9xico, M\u00E9xico) es un futbolista mexicano. Juega de delantero y su actual equipo es el Lobos de la BUAP de la Liga de Ascenso."@es ,
+		"Cuauht\u00E9moc \u201ETemo\u201C Blanco Bravo (* 17. Januar 1973 in Mexiko-Stadt) ist ein mexikanischer Fu\u00DFballspieler."@de ,
+		"Cuauht\u00E9moc Blanco Bravo (ur. 17 stycznia 1973) \u2013 meksyka\u0144ski pi\u0142karz, zawodnik drugoligowego meksyka\u0144skiego klubu Dorados de Sinaloa.Wcze\u015Bniej wyst\u0119powa\u0142 w Necaxa, Real Valladolid, CD Veracruz, Club de F\u00FAtbol Am\u00E9rica oraz ameryka\u0144skim Chicago Fire.W reprezentacji narodowej swojego kraju rozegra\u0142 119 spotka\u0144 i strzeli\u0142 39 goli. Uczestniczy\u0142 w mistrzostwach \u015Bwiata we Francji w 1998, mistrzostwach \u015Bwiata w Korei i Japonii w 2002 oraz w mistrzostwach \u015Bwiata w RPA w 2010. Z powodu konfliktu z argenty\u0144skim trenerem reprezentacji Meksyku Ricardo La Volpe nie pojecha\u0142 na mundial do Niemiec. W 2009 roku funkcj\u0119 selekcjonera przej\u0105\u0142 Javier Aguirre i od razu powo\u0142a\u0142 Blanco.Napastnik odwdzi\u0119czy\u0142 si\u0119 selekcjonerowi i strzeli\u0142 gola wyr\u00F3wnuj\u0105cego na 1:1 w meczu z Salwadorem, ale ko\u0144cowy wynik wyni\u00F3s\u0142 1:2."@pl ,
+		"Cuauht\u00E9moc Bravo Blanco (Mexico-Stad, 17 januari 1973) is een Mexicaans betaald voetballer die bij voorkeur centraal in de aanval speelt. Hij tekende in juli 2010 een contract bij Irapuato FC, de zevende club in zijn loopbaan. In februari 1995 debuteerde hij in het Mexicaans voetbalelftal, waarvoor hij daarna meer dan 115 interlands speelde."@nl ,
+		"Cuauht\u00E9moc \"Temo\" Blanco Bravo (Cidade do M\u00E9xico, 17 de janeiro de 1973) \u00E9 um futebolista mexicano que atua como atacante e meia. Atualmente, joga pelo Lobos de la BUAP."@pt ,
+		"\u5EAB\u5967\u7279\u83AB\u514B\u00B7\u767D\u862D\u9AD8\uFF08Cuauht\u00E9moc Blanco Bravo\uFF09\uFF0C1973\u5E741\u670817\u65E5\u751F\u4E8E\u58A8\u897F\u54E5\u57CE\uFF0C\u58A8\u897F\u54E5\u804C\u4E1A\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u4ED6\u66FE\u51FA\u5E2D\u5305\u62EC1998\u5E74\u30012002\u5E74\u53CA2010\u5E743\u5C46\u4E16\u754C\u76C3\u6C7A\u8CFD\u9031\u3002"@zh ;
+	dbpedia-owl:wikiPageID	761865 ;
+	dbpedia-owl:wikiPageRevisionID	606783812 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco>	dbpprop:birthDate	"1973-01-17+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Mexico City, Mexico" ;
+	dbpprop:dateOfBirth	"1973-01-17+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Mexico City, Mexico" ;
+	dbpprop:shortDescription	"Mexican footballer" ;
+	dbpedia-owl:birthDate	"1973-01-17+02:00"^^xsd:date .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco>	dbpedia-owl:birthPlace	dbpedia:Mexico_national_football_team ,
+		dbpedia:Mexico_City ;
+	dbpedia-owl:birthYear	"1973+02:00"^^xsd:gYear ;
+	dbpedia-owl:viafId	"78253007" ;
+	dbpprop:imageSize	200 ;
+	dbpprop:goals	13696 ,
+		1256969 ,
+		16 ,
+		9 ,
+		14 ,
+		3 ,
+		1 ,
+		5 ;
+	dbpprop:bg	"gold" ,
+		"#016549" ;
+	dbpprop:caps	62 ,
+		333 ,
+		40 ,
+		47 ,
+		28 ,
+		23 ,
+		14 ,
+		15 ,
+		4 ;
+	dbpprop:years	1997 ,
+		1992 ,
+		2012 ,
+		2013 ,
+		2010 ,
+		2008 ,
+		2007 ,
+		2004 ,
+		2000 ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco__8> ,
+		<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco__9> ,
+		<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco__4> ,
+		<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco__5> ,
+		<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco__6> ,
+		<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco__7> ,
+		<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco__10> ,
+		<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco__11> ,
+		<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco__2> ,
+		<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco__3> ,
+		<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco__1> ;
+	dbpprop:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:height	1.7653000000000000913 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco>	ns21:height	"176.53"^^ns20:centimetre ;
+	dbpprop:currentclub	"BUAP69696969" ;
+	dbpprop:clubnumber	10 ;
+	dbpprop:fullname	"Cuauht\u00E9moc Blanco Bravo" ;
+	dbpprop:clubs	dbpedia:Tiburones_Rojos_de_Veracruz ,
+		dbpedia:Lobos_de_la_BUAP ,
+		dbpedia:Dorados_de_Sinaloa ,
+		"\u2192 Veracruz" ,
+		dbpedia:Chicago_Fire_Soccer_Club ,
+		"\u2192 Necaxa" ,
+		<http://dbpedia.org/resource/Club_Am%C3%A9rica> ,
+		"\u2192 Real Valladolid" ,
+		dbpedia:Irapuato_FC ,
+		"\u2192 Santos Laguna" ;
+	dbpedia-owl:team	dbpedia:Tiburones_Rojos_de_Veracruz ,
+		dbpedia:Real_Valladolid ,
+		dbpedia:Lobos_de_la_BUAP ,
+		dbpedia:Dorados_de_Sinaloa ,
+		dbpedia:Club_Necaxa ,
+		dbpedia:Mexico_national_football_team ,
+		dbpedia:Club_Santos_Laguna ,
+		dbpedia:Chicago_Fire_Soccer_Club ,
+		<http://dbpedia.org/resource/Club_Am%C3%A9rica> ,
+		dbpedia:Irapuato_FC .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Awards" ,
+		"Mexico squads" ;
+	dbpprop:pcupdate	"2014-02-02+02:00"^^xsd:date ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.femexfut.org.mx/portalv2/secciones.aspx?s=2274&ep=938&dd=1> ;
+	dbpprop:bordercolor	"#CE1126" ;
+	dbpprop:fg	"White" ,
+		"navy" ;
+	dbpprop:nationalcaps	119 ;
+	dbpprop:nationalgoals	39 ;
+	dbpprop:nationalteam	dbpedia:Mexico_national_football_team ;
+	dbpprop:nationalyears	1995 ;
+	dbpedia-owl:number	10 ;
+	dbpedia-owl:alias	"Bravo, Cuauht\u00E9moc Blanco" ;
+	dbpprop:alternativeNames	"Bravo, Cuauht\u00E9moc Blanco" .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/2007_CONCACAF_Gold_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+dbpedia:Lobos_de_la_BUAP	dbpprop:name	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+dbpedia:Cuauhtémoc_Blanco	owl:sameAs	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/Cuauht%C3%A9moc_(disambiguation)>	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+dbpedia:Major_League_Soccer_All-Star_Game	dbpprop:mvp	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/2006_FIFA_Club_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/1996_CONCACAF_Gold_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_statistics>	dbpprop:oldestScorerPlayer	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/2009_MLS_All-Star_Game__Cuauht%C3%A9moc_Blanco__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/Lobos_de_la_BUAP__Cuauht%C3%A9moc_Blanco__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/2009_Chicago_Fire_season__Cuauht%C3%A9moc_Blanco__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/2008_MLS_All-Star_Game__Cuauht%C3%A9moc_Blanco__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/2008_Chicago_Fire_season__Cuauht%C3%A9moc_Blanco__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/2010_Chicago_Fire_season__Cuauht%C3%A9moc_Blanco__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+dbpedia:Blanco_Bounce	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/Cuauht%C3%A9minha>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+dbpedia:Cuauhteminha	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+dbpedia:Cuauhtemoc_Blanco	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+dbpedia:Cuautemoc_Blanco	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+dbpedia:The_Blanco_Bounce	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/The_Cuauht%C3%A9minha>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+dbpedia:The_Cuauhteminha	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/Cuauhtemi%C3%B1a>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/1995_King_Fahd_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/2009_MLS_All-Star_Game>	dbpprop:name	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/1999_Copa_Am%C3%A9rica_squads>	dbpprop:name	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/1998_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/2002_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/1997_FIFA_Confederations_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/Football_at_the_1996_Summer_Olympics_%E2%80%93_Men\u0027s_team_squads>	dbpprop:name	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+dbpedia:Irapuato_FC	dbpprop:ss	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/2009_Chicago_Fire_season>	dbpprop:name	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/2010_Chicago_Fire_season>	dbpprop:name	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .
+<http://dbpedia.org/resource/2008_MLS_All-Star_Game>	dbpprop:manOfTheMatch1a	<http://dbpedia.org/resource/Cuauht%C3%A9moc_Blanco> .

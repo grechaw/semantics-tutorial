@@ -1,0 +1,189 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/St%C3%A9phane_Grichting>	rdf:type	owl:Thing .
+@prefix ns2:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Grichting>	rdf:type	ns2:Q215627 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Grichting>	rdf:type	yago:Contestant109613191 .
+@prefix ns4:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Grichting>	rdf:type	ns4:Athlete ,
+		yago:FCSionPlayers .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Grichting>	rdf:type	dbpedia-owl:Athlete ,
+		yago:SwissFootballers ,
+		yago:Athlete109820263 .
+@prefix ns6:	<http://schema.org/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Grichting>	rdf:type	ns6:Person ,
+		yago:FootballPlayer110101634 ,
+		<http://dbpedia.org/class/yago/2006FIFAWorldCupPlayers> ,
+		yago:SwissSuperLeaguePlayers ,
+		yago:SwitzerlandInternationalFootballers ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:Player110439851 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/St%C3%A9phane_Grichting>	rdf:type	dul:NaturalPerson ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		dbpedia-owl:Agent ,
+		yago:YagoLegalActor ,
+		ns2:Q5 ,
+		yago:LivingPeople ,
+		yago:Ligue1Players ,
+		dbpedia-owl:Person ,
+		dul:Agent ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Grichting>	rdf:type	foaf:Person ,
+		yago:Object100002684 ,
+		yago:Whole100003553 ,
+		yago:UEFAEuro2008Players ,
+		yago:AJAuxerrePlayers ,
+		ns4:SoccerPlayer ,
+		yago:PhysicalEntity100001930 .
+@prefix ns9:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Grichting>	owl:sameAs	ns9:Stéphane_Grichting ,
+		<http://rdf.freebase.com/ns/m.0dd85m> ,
+		<http://dbpedia.org/resource/St%C3%A9phane_Grichting> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/St%C3%A9phane_Grichting>	rdfs:label	"St\u00E9phane Grichting"@pl ,
+		"St\u00E9phane Grichting"@pt ,
+		"\u53F2\u63D0\u82AC\u5C3C\u00B7\u57FA\u6CBB\u4EAD"@zh ,
+		"St\u00E9phane Grichting" ,
+		"St\u00E9phane Grichting"@es ,
+		"\u0413\u0440\u0438\u0445\u0442\u0438\u043D\u0433, \u0421\u0442\u0435\u0444\u0430\u043D"@ru ,
+		"St\u00E9phane Grichting"@nl ,
+		"St\u00E9phane Grichting"@it ,
+		"\u0633\u062A\u064A\u0641\u0627\u0646 \u063A\u0631\u064A\u062A\u0634\u0646\u063A"@ar ,
+		"St\u00E9phane Grichting"@fr ,
+		"St\u00E9phane Grichting"@de ,
+		"\u30B7\u30E5\u30C6\u30D5\u30A1\u30F3\u30FB\u30B0\u30EA\u30D2\u30C6\u30A3\u30F3\u30B0"@ja .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Grichting>	dcterms:subject	<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/St%C3%A9phane_Grichting>	dcterms:subject	category:Swiss_Super_League_players ,
+		category:Switzerland_international_footballers ,
+		category:FC_Sion_players ,
+		category:Swiss_footballers ,
+		<http://dbpedia.org/resource/Category:1979_births> ,
+		category:Living_people ,
+		category:UEFA_Euro_2008_players ,
+		category:Ligue_1_players ,
+		category:AJ_Auxerre_players ,
+		<http://dbpedia.org/resource/Category:Grasshopper_Club_Z%C3%BCrich_players> ,
+		<http://dbpedia.org/resource/Category:2006_FIFA_World_Cup_players> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/St\u00E9phane_Grichting.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Grichting>	dc:description	"Swiss footballer" ,
+		"Swiss footballer" ;
+	foaf:givenName	"St\u00E9phane" ;
+	foaf:name	"Grichting, St\u00E9phane" ,
+		"St\u00E9phane Grichting" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/St%C3%A9phane_Grichting>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/St\u00E9phane_Grichting?oldid=603582740> ;
+	rdfs:comment	"\u0633\u062A\u064A\u0641\u0627\u0646 \u063A\u0631\u064A\u062A\u0634\u0646\u063A (\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629: St\u00E9phane Grichting)\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 30 \u0645\u0627\u0631\u0633 1979 \u0641\u064A \u0633\u064A\u064A\u0631 \u0641\u064A \u0633\u0648\u064A\u0633\u0631\u0627 \u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0633\u0648\u064A\u0633\u0631\u064A.\u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0623\u0648\u0643\u0633\u064A\u0631 \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0645\u0646\u0630 \u0639\u0627\u0645 2002.\u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0633\u0648\u064A\u0633\u0631\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2004."@ar ,
+		"St\u00E9phane Grichting (Sierre, Suiza, 30 de marzo de 1979), es un futbolista suizo. Juega de defensa por el AJ Auxerre y por la Selecci\u00F3n de f\u00FAtbol de Suiza."@es ,
+		"\u53F2\u8FEA\u6BD4\u5B89\u5C3C\u00B7\u57FA\u6CBB\u4EAD\uFF08\u82F1\u8BED\uFF1ASt\u00E9phane Grichting\uFF0C1979\u5E743\u670830\u65E5\uFF0D\uFF09\uFF0C\u662F\u4E00\u540D\u745E\u58EB\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u53F8\u804C\u5F8C\u885B\uFF0C\u76EE\u524D\u6548\u529B\u6CD5\u7532\u7403\u961F\u6B50\u585E\u723E\u3002\u4ED6\u76EE\u524D12\u6B21\u4EE3\u8868\u570B\u5BB6\u968A\u51FA\u8CFD\uFF0C\u51FA\u5E2D\u904E2006\u5E74\u4E16\u754C\u676F\u3002\u4ED6\u4EA6\u662F\u745E\u58EB2004\u5E74\u6B50\u570B\u76C3\u6210\u54E1\u4E4B\u4E00\uFF0C\u4F46\u7531\u65BC\u50B7\u60A3\u9000\u51FA\u3002\u5728\u745E\u58EB\u65BC2006\u5E74\u4E16\u754C\u676F\u9810\u9078\u8CFD\u5C0D\u571F\u8033\u5176\u5F8C\uFF0C\u4ED6\u5728\u6253\u9B25\u4E2D\u53D7\u50B7\u3002"@zh ,
+		"St\u00E9phane Grichting, n\u00E9 le 30 mars 1979 \u00E0 Sierre, est un footballeur international suisse \u00E9voluant au poste de d\u00E9fenseur au Grasshopper Zurich."@fr ,
+		"St\u00E9phane Grichting (Sierre, 30 marzo 1979) \u00E8 un calciatore svizzero, difensore del Grasshoppers."@it ,
+		"St\u00E9phane Grichting (born 30 March 1979 in Sierre) is a Swiss football defender who plays for Grasshopper.He currently has 36 caps for the Swiss national team, and was called up to the 2006 FIFA World Cup and 2010 FIFA World Cup squads. He was in the squad for the 2004 European Football Championship, but pulled out due to injury.After Switzerland beat Turkey in the deciding qualifier to 2006 FIFA World Cup, he was injured in the riots that occurred after the match." ,
+		"\u0421\u0442\u0435\u0444\u0430\u0301\u043D \u0413\u0440\u0438\u0301\u0445\u0442\u0438\u043D\u0433 (\u0444\u0440. \u0438 \u043D\u0435\u043C. St\u00E9phane Grichting, 30 \u043C\u0430\u0440\u0442\u0430 1979, \u0421\u0438\u0435\u0440\u0440, \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044F) \u2014 \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0413\u0440\u0430\u0441\u0441\u0445\u043E\u043F\u043F\u0435\u0440\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u0438."@ru ,
+		"St\u00E9phane Grichting (ur. 30 marca 1979 w Sierre) pi\u0142karz szwajcarski graj\u0105cy na pozycji \u015Brodkowego obro\u0144cy. Mierzy 184 cm wzrostu, wa\u017Cy 80 kg."@pl ,
+		"St\u00E9phane Grichting (Sierre, 30 maart 1979) is een Zwitsers betaald voetballer die bij voorkeur als verdediger speelt. Hij stapte voorafgaand aan seizoen 2002/03 na zes jaar FC Sion over naar AJ Auxerre. In 2012 keerde hij terug naar zijn vaderland en sloot zich aan bij Grasshopper-Club Z\u00FCrich. In april 2004 debuteerde hij in het Zwitsers voetbalelftal, waarvoor hij daarna meer dan 35 interlands speelde."@nl ,
+		"St\u00E9phane Grichting (* 30. M\u00E4rz 1979 in Sierre) ist ein Schweizer Fussballspieler."@de ,
+		"\u30B7\u30E5\u30C6\u30D5\u30A1\u30F3\u30FB\u30B0\u30EA\u30D2\u30C6\u30A3\u30F3\u30B0\uFF08St\u00E9phane Grichting , 1979\u5E743\u670830\u65E5 - \uFF09\u306F\u3001\u30B9\u30A4\u30B9\u30FB\u30F4\u30A1\u30EC\u30FC\u5DDE\u30FB\u30B7\u30A8\u30EC\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002\u30B0\u30EA\u30B7\u30E5\u30BF\u30F3\u3068\u3082\u8868\u8A18\u3055\u308C\u308B\u3002"@ja ,
+		"St\u00E9phane Grichting (nascido em 30 de Mar\u00E7o de 1979 em Sierre) \u00E9 um futebolista su\u00ED\u00E7o que atua como zagueiro. Atualmente, joga pelo Grasshopper Club."@pt ;
+	foaf:surname	"Grichting" .
+@prefix ns15:	<http://en.wikipedia.org/wiki/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Grichting>	foaf:isPrimaryTopicOf	ns15:Stéphane_Grichting .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix ns17:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Grichting>	dbpprop:hasPhotoCollection	ns17:Stéphane_Grichting ;
+	dbpprop:name	"St\u00E9phane Grichting" ,
+		"Grichting, St\u00E9phane" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/St\u00E9phane_Grichting.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u53F2\u8FEA\u6BD4\u5B89\u5C3C\u00B7\u57FA\u6CBB\u4EAD\uFF08\u82F1\u8BED\uFF1ASt\u00E9phane Grichting\uFF0C1979\u5E743\u670830\u65E5\uFF0D\uFF09\uFF0C\u662F\u4E00\u540D\u745E\u58EB\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u53F8\u804C\u5F8C\u885B\uFF0C\u76EE\u524D\u6548\u529B\u6CD5\u7532\u7403\u961F\u6B50\u585E\u723E\u3002\u4ED6\u76EE\u524D12\u6B21\u4EE3\u8868\u570B\u5BB6\u968A\u51FA\u8CFD\uFF0C\u51FA\u5E2D\u904E2006\u5E74\u4E16\u754C\u676F\u3002\u4ED6\u4EA6\u662F\u745E\u58EB2004\u5E74\u6B50\u570B\u76C3\u6210\u54E1\u4E4B\u4E00\uFF0C\u4F46\u7531\u65BC\u50B7\u60A3\u9000\u51FA\u3002\u5728\u745E\u58EB\u65BC2006\u5E74\u4E16\u754C\u676F\u9810\u9078\u8CFD\u5C0D\u571F\u8033\u5176\u5F8C\uFF0C\u4ED6\u5728\u6253\u9B25\u4E2D\u53D7\u50B7\u3002"@zh ,
+		"\u0421\u0442\u0435\u0444\u0430\u0301\u043D \u0413\u0440\u0438\u0301\u0445\u0442\u0438\u043D\u0433 (\u0444\u0440. \u0438 \u043D\u0435\u043C. St\u00E9phane Grichting, 30 \u043C\u0430\u0440\u0442\u0430 1979, \u0421\u0438\u0435\u0440\u0440, \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044F) \u2014 \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0413\u0440\u0430\u0441\u0441\u0445\u043E\u043F\u043F\u0435\u0440\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0428\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u0438."@ru ,
+		"St\u00E9phane Grichting (Sierre, 30 maart 1979) is een Zwitsers betaald voetballer die bij voorkeur als verdediger speelt. Hij stapte voorafgaand aan seizoen 2002/03 na zes jaar FC Sion over naar AJ Auxerre. In 2012 keerde hij terug naar zijn vaderland en sloot zich aan bij Grasshopper-Club Z\u00FCrich. In april 2004 debuteerde hij in het Zwitsers voetbalelftal, waarvoor hij daarna meer dan 35 interlands speelde."@nl ,
+		"St\u00E9phane Grichting (Sierre, Suiza, 30 de marzo de 1979), es un futbolista suizo. Juega de defensa por el AJ Auxerre y por la Selecci\u00F3n de f\u00FAtbol de Suiza."@es ,
+		"St\u00E9phane Grichting (* 30. M\u00E4rz 1979 in Sierre) ist ein Schweizer Fussballspieler."@de ,
+		"\u0633\u062A\u064A\u0641\u0627\u0646 \u063A\u0631\u064A\u062A\u0634\u0646\u063A (\u0628\u0627\u0644\u0641\u0631\u0646\u0633\u064A\u0629: St\u00E9phane Grichting)\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 30 \u0645\u0627\u0631\u0633 1979 \u0641\u064A \u0633\u064A\u064A\u0631 \u0641\u064A \u0633\u0648\u064A\u0633\u0631\u0627 \u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0633\u0648\u064A\u0633\u0631\u064A.\u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0623\u0648\u0643\u0633\u064A\u0631 \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0645\u0646\u0630 \u0639\u0627\u0645 2002.\u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0633\u0648\u064A\u0633\u0631\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2004."@ar ,
+		"St\u00E9phane Grichting (born 30 March 1979 in Sierre) is a Swiss football defender who plays for Grasshopper.He currently has 36 caps for the Swiss national team, and was called up to the 2006 FIFA World Cup and 2010 FIFA World Cup squads. He was in the squad for the 2004 European Football Championship, but pulled out due to injury.After Switzerland beat Turkey in the deciding qualifier to 2006 FIFA World Cup, he was injured in the riots that occurred after the match." ,
+		"St\u00E9phane Grichting (nascido em 30 de Mar\u00E7o de 1979 em Sierre) \u00E9 um futebolista su\u00ED\u00E7o que atua como zagueiro. Atualmente, joga pelo Grasshopper Club."@pt ,
+		"St\u00E9phane Grichting (ur. 30 marca 1979 w Sierre) pi\u0142karz szwajcarski graj\u0105cy na pozycji \u015Brodkowego obro\u0144cy. Mierzy 184 cm wzrostu, wa\u017Cy 80 kg."@pl ,
+		"St\u00E9phane Grichting (Sierre, 30 marzo 1979) \u00E8 un calciatore svizzero, difensore del Grasshoppers."@it ,
+		"\u30B7\u30E5\u30C6\u30D5\u30A1\u30F3\u30FB\u30B0\u30EA\u30D2\u30C6\u30A3\u30F3\u30B0\uFF08St\u00E9phane Grichting , 1979\u5E743\u670830\u65E5 - \uFF09\u306F\u3001\u30B9\u30A4\u30B9\u30FB\u30F4\u30A1\u30EC\u30FC\u5DDE\u30FB\u30B7\u30A8\u30EC\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002\u30B0\u30EA\u30B7\u30E5\u30BF\u30F3\u3068\u3082\u8868\u8A18\u3055\u308C\u308B\u3002"@ja ,
+		"St\u00E9phane Grichting, n\u00E9 le 30 mars 1979 \u00E0 Sierre, est un footballeur international suisse \u00E9voluant au poste de d\u00E9fenseur au Grasshopper Zurich."@fr ;
+	dbpedia-owl:wikiPageID	5298825 ;
+	dbpedia-owl:wikiPageRevisionID	603582740 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/St%C3%A9phane_Grichting>	dbpprop:birthDate	"1979-03-30+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Sierre, Switzerland" ;
+	dbpprop:dateOfBirth	"1979-03-30+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Sierre, Switzerland" ;
+	dbpprop:shortDescription	"Swiss footballer" ;
+	dbpedia-owl:birthDate	"1979-03-30+02:00"^^xsd:date .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Grichting>	dbpedia-owl:birthPlace	dbpedia:Sierre ,
+		dbpedia:Switzerland_national_football_team ;
+	dbpedia-owl:birthYear	"1979+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	150 ;
+	dbpprop:goals	0 ,
+		1 ,
+		5 ;
+	dbpprop:bg	"#d81e05" ;
+	dbpprop:id	"grichting-stephane" ;
+	dbpprop:caps	250 ,
+		124 ,
+		58 ;
+	dbpprop:years	1996 ,
+		2012 ,
+		2002 ;
+	dbpprop:youthclubs	dbpedia:FC_Sion ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/St%C3%A9phane_Grichting__2> ,
+		<http://dbpedia.org/resource/St%C3%A9phane_Grichting__5> ,
+		<http://dbpedia.org/resource/St%C3%A9phane_Grichting__1> ,
+		<http://dbpedia.org/resource/St%C3%A9phane_Grichting__4> ,
+		<http://dbpedia.org/resource/St%C3%A9phane_Grichting__3> ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.8700000000000001066 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Grichting>	ns21:height	"187.0"^^ns20:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/Grasshopper_Club_Z%C3%BCrich> ;
+	dbpprop:clubnumber	3 ;
+	dbpprop:fullname	"St\u00E9phane Grichting" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/Grasshopper_Club_Z%C3%BCrich> ,
+		dbpedia:FC_Sion ,
+		dbpedia:AJ_Auxerre ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/Grasshopper_Club_Z%C3%BCrich> ,
+		dbpedia:FC_Sion ,
+		dbpedia:AJ_Auxerre ,
+		dbpedia:Switzerland_national_football_team .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/St%C3%A9phane_Grichting>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Switzerland Squads" ;
+	dbpprop:pcupdate	"2014-04-10+02:00"^^xsd:date ;
+	dbpprop:youthyears	1993 ;
+	dbpprop:fg	"white" ;
+	dbpprop:nationalcaps	45 ;
+	dbpprop:nationalgoals	1 ;
+	dbpprop:nationalteam	dbpedia:Switzerland_national_football_team ;
+	dbpprop:nationalyears	2004 ;
+	dbpedia-owl:number	3 ;
+	dbpprop:ntupdate	"2011-06-06+02:00"^^xsd:date .
+<http://dbpedia.org/resource/Grasshopper_Club_Z%C3%BCrich__St%C3%A9phane_Grichting__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/St%C3%A9phane_Grichting> .
+ns15:Stéphane_Grichting	foaf:primaryTopic	<http://dbpedia.org/resource/St%C3%A9phane_Grichting> .
+<http://dbpedia.org/resource/2002%E2%80%9303_AJ_Auxerre_season>	dbpprop:name	<http://dbpedia.org/resource/St%C3%A9phane_Grichting> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/St%C3%A9phane_Grichting> .
+dbpedia:UEFA_Euro_2008_squads	dbpprop:name	<http://dbpedia.org/resource/St%C3%A9phane_Grichting> .
+<http://dbpedia.org/resource/Grasshopper_Club_Z%C3%BCrich>	dbpprop:name	<http://dbpedia.org/resource/St%C3%A9phane_Grichting> .
+<http://dbpedia.org/resource/2006_South_Korea_national_football_team_season>	dbpprop:home18player	<http://dbpedia.org/resource/St%C3%A9phane_Grichting> .
+dbpedia:Stéphane_Grichting	owl:sameAs	<http://dbpedia.org/resource/St%C3%A9phane_Grichting> .
+<http://dbpedia.org/resource/2002%E2%80%9303_AJ_Auxerre_season__St%C3%A9phane_Grichting__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/St%C3%A9phane_Grichting> .
+dbpedia:Stephane_Grichting	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/St%C3%A9phane_Grichting> .
+<http://dbpedia.org/resource/2006_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/St%C3%A9phane_Grichting> .
+<http://dbpedia.org/resource/St%C3%A9phane>	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/St%C3%A9phane_Grichting> .

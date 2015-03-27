@@ -1,0 +1,394 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q191138	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+@prefix ns6:	<http://eu.dbpedia.org/resource/> .
+ns6:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+@prefix ns7:	<http://id.dbpedia.org/resource/> .
+ns7:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+@prefix ns9:	<http://ja.dbpedia.org/resource/> .
+ns9:中村俊輔	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+@prefix ns10:	<http://ko.dbpedia.org/resource/> .
+ns10:나카무라_슌스케	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+@prefix ns11:	<http://nl.dbpedia.org/resource/> .
+ns11:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+@prefix ns12:	<http://pl.dbpedia.org/resource/> .
+ns12:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+@prefix ns13:	<http://pt.dbpedia.org/resource/> .
+ns13:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Yokohama_F._Marinos>	dbpprop:name	dbpedia:Shunsuke_Nakamura .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns16:	<http://en.wikipedia.org/wiki/> .
+ns16:Shunsuke_Nakamura	foaf:primaryTopic	dbpedia:Shunsuke_Nakamura .
+<http://dbpedia.org/resource/2003_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Shunsuke_Nakamura .
+<http://dbpedia.org/resource/Football_at_the_2000_Summer_Olympics_%E2%80%93_Men\u0027s_team_squads>	dbpprop:name	dbpedia:Shunsuke_Nakamura .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Shunsuke_Nakamura	rdf:type	yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		ns4:Q215627 ,
+		yago:Organism100004475 ,
+		<http://dbpedia.org/class/yago/2004AFCAsianCupPlayers> ,
+		yago:Person100007846 .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Shunsuke_Nakamura	rdf:type	dbpedia-owl:Athlete ,
+		owl:Thing ,
+		yago:SerieAFootballers ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:LaLigaFootballers .
+@prefix ns20:	<http://umbel.org/umbel/rc/> .
+dbpedia:Shunsuke_Nakamura	rdf:type	ns20:SoccerPlayer ,
+		yago:JapaneseExpatriatesInTheUnitedKingdom ,
+		yago:OlympicFootballersOfJapan ,
+		yago:ExpatriateFootballersInSpain ,
+		yago:ExpatriateFootballersInItaly .
+@prefix ns21:	<http://schema.org/> .
+dbpedia:Shunsuke_Nakamura	rdf:type	ns21:Person ,
+		foaf:Person ,
+		yago:Contestant109613191 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Shunsuke_Nakamura	rdf:type	dul:NaturalPerson ,
+		<http://dbpedia.org/class/yago/2007AFCAsianCupPlayers> ,
+		ns4:Q5 ,
+		dul:Agent ,
+		yago:JapanInternationalFootballers ,
+		dbpedia-owl:SoccerPlayer ,
+		<http://dbpedia.org/class/yago/2006FIFAWorldCupPlayers> ,
+		yago:JapaneseFootballers ,
+		<http://dbpedia.org/class/yago/J.LeagueDivision1Players> ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		yago:FootballersAtThe2000SummerOlympics ,
+		<http://dbpedia.org/class/yago/2003FIFAConfederationsCupPlayers> ,
+		<http://dbpedia.org/class/yago/2000AFCAsianCupPlayers> ,
+		yago:RegginaCalcioPlayers ,
+		yago:RCDEspanyolFootballers ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Person ,
+		<http://dbpedia.org/class/yago/CelticF.C.Players> ,
+		yago:ExpatriateFootballersInScotland ,
+		yago:ScottishPremierLeaguePlayers ,
+		yago:JapaneseExpatriateFootballers ,
+		yago:Whole100003553 ,
+		yago:Object100002684 ,
+		yago:Athlete109820263 ,
+		yago:PhysicalEntity100001930 ,
+		yago:FootballPlayer110101634 ,
+		<http://dbpedia.org/class/yago/2005FIFAConfederationsCupPlayers> ,
+		yago:Player110439851 ,
+		<http://dbpedia.org/class/yago/YokohamaF.MarinosPlayers> .
+@prefix ns23:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns23:Nakamura_Shunsuke ,
+		ns13:Shunsuke_Nakamura .
+@prefix ns24:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns24:شونسوکی_ناکامورا ,
+		ns10:나카무라_슌스케 .
+@prefix ns25:	<http://he.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns25:שונסוקה_נקמורה ,
+		ns12:Shunsuke_Nakamura .
+@prefix ns26:	<http://ga.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns26:Shunsuke_Nakamura ,
+		ns3:Shunsuke_Nakamura .
+@prefix ns27:	<http://hr.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns27:Shunsuke_Nakamura .
+@prefix ns28:	<http://yago-knowledge.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns28:Shunsuke_Nakamura .
+@prefix ns29:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns29:شونسوكي_ناكامورا .
+@prefix ns30:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns30:Накамура_Сюнсуке ,
+		ns6:Shunsuke_Nakamura .
+@prefix ns31:	<http://ms.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns31:Shunsuke_Nakamura ,
+		ns8:Shunsuke_Nakamura ,
+		dbpedia:Shunsuke_Nakamura ,
+		ns5:Shunsuke_Nakamura .
+@prefix ns32:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns32:Nakamura_Sunszuke ,
+		ns7:Shunsuke_Nakamura .
+@prefix ns33:	<http://et.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns33:Shunsuke_Nakamura .
+@prefix ns34:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns34:Shunsuke_Nakamura .
+@prefix ns35:	<http://wikidata.org/entity/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns35:Q191138 .
+@prefix ns36:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns36:Shunsuke_Nakamura .
+@prefix ns37:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns37:Shunsuke_Nakamura .
+@prefix ns38:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns38:Nakamura ,
+		ns11:Shunsuke_Nakamura .
+@prefix ns39:	<http://no.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns39:Shunsuke_Nakamura ,
+		<http://rdf.freebase.com/ns/m.045jzr> ,
+		<http://ru.dbpedia.org/resource/\u041D\u0430\u043A\u0430\u043C\u0443\u0440\u0430,_\u0421\u044E\u043D\u0441\u0443\u043A\u044D> .
+@prefix ns40:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns40:Shunsuke_Nakamura .
+@prefix ns41:	<http://tl.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns41:Shunsuke_Nakamura .
+@prefix ns42:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns42:中村俊輔 .
+@prefix ns43:	<http://da.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns43:Shunsuke_Nakamura .
+@prefix ns44:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns44:Shunsuke_Nakamura .
+@prefix ns45:	<http://mn.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns45:Накамүра_Шүнсүкэ .
+@prefix ns46:	<http://ca.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns46:Shunsuke_Nakamura .
+@prefix ns47:	<http://la.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns47:Shunsuke_Nakamura .
+@prefix ns48:	<http://sl.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns48:Šunsuke_Nakamura ,
+		ns9:中村俊輔 .
+@prefix ns49:	<http://zh_yue.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns49:中村俊輔 .
+@prefix ns50:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns50:शुन्सुके_नाकामुरा ,
+		ns1:Shunsuke_Nakamura .
+@prefix ns51:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns51:Šunsuke_Nakamura ,
+		ns4:Q191138 .
+@prefix ns52:	<http://th.dbpedia.org/resource/> .
+dbpedia:Shunsuke_Nakamura	owl:sameAs	ns52:ชุนซุเกะ_นะกะมุระ .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Shunsuke_Nakamura	rdfs:label	"Shunsuke Nakamura"@fr ,
+		"Shunsuke Nakamura"@es ,
+		"Shunsuke Nakamura"@pl ,
+		"Shunsuke Nakamura" ,
+		"\u4E2D\u6751\u4FCA\u8F14"@zh ,
+		"\u041D\u0430\u043A\u0430\u043C\u0443\u0440\u0430, \u0421\u044E\u043D\u0441\u0443\u043A\u044D"@ru ,
+		"Shunsuke Nakamura"@pt ,
+		"Shunsuke Nakamura"@it ,
+		"Shunsuke Nakamura"@de ,
+		"\u0634\u0648\u0646\u0633\u0648\u0643\u064A \u0646\u0627\u0643\u0627\u0645\u0648\u0631\u0627"@ar ,
+		"\u4E2D\u6751\u4FCA\u8F14"@ja ,
+		"Shunsuke Nakamura"@nl .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Shunsuke_Nakamura	dcterms:subject	category:Footballers_at_the_2000_Summer_Olympics ,
+		category:AFC_Asian_Cup-winning_players ,
+		<http://dbpedia.org/resource/Category:Yokohama_F._Marinos_players> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2005_FIFA_Confederations_Cup_players> ,
+		category:Japan_international_footballers ,
+		category:Reggina_Calcio_players ,
+		category:Sportspeople_from_Yokohama ,
+		category:Japan_youth_international_footballers ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2000_AFC_Asian_Cup_players> ,
+		category:Japanese_expatriates_in_the_United_Kingdom ,
+		<http://dbpedia.org/resource/Category:2003_FIFA_Confederations_Cup_players> ,
+		category:Olympic_footballers_of_Japan ,
+		category:Association_football_midfielders ,
+		category:RCD_Espanyol_footballers ,
+		category:Japanese_expatriate_footballers ,
+		category:Serie_A_footballers ,
+		category:Association_football_people_from_Kanagawa_Prefecture ,
+		category:Expatriate_footballers_in_Spain ,
+		<http://dbpedia.org/resource/Category:1978_births> ,
+		category:La_Liga_footballers ,
+		category:Japanese_footballers ,
+		<http://dbpedia.org/resource/Category:J._League_Division_1_players> ,
+		category:Expatriate_footballers_in_Italy ,
+		category:Scottish_Premier_League_players ,
+		category:Expatriate_footballers_in_Scotland ,
+		<http://dbpedia.org/resource/Category:Celtic_F.C._players> ,
+		<http://dbpedia.org/resource/Category:2004_AFC_Asian_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2007_AFC_Asian_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2006_FIFA_World_Cup_players> ;
+	foaf:homepage	<http://www.shunsuke.com/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Shunsuke2_20080622.png> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Shunsuke_Nakamura	dc:description	"Footballer" ,
+		"Footballer" ;
+	foaf:givenName	"Shunsuke" ;
+	foaf:name	"Shunsuke Nakamura" ,
+		"Nakamura, Shunsuke" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Shunsuke_Nakamura	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Shunsuke_Nakamura?oldid=605501619> ;
+	rdfs:comment	"\u0421\u044E\u043D\u0441\u0443\u043A\u044D \u041D\u0430\u043A\u0430\u043C\u0443\u0440\u0430 (\u044F\u043F. \u4E2D\u6751\u4FCA\u8F14 ; \u0430\u043D\u0433\u043B. Shunsuke Nakamura; 24 \u0438\u044E\u043D\u044F 1978, \u0419\u043E\u043A\u043E\u0433\u0430\u043C\u0430) \u2014 \u044F\u043F\u043E\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u0437\u0430 \u043A\u043B\u0443\u0431 \u00AB\u0419\u043E\u043A\u043E\u0433\u0430\u043C\u0430 \u0424. \u041C\u0430\u0440\u0438\u043D\u043E\u0441\u00BB, \u0431\u044B\u0432\u0448\u0438\u0439 \u0438\u0433\u0440\u043E\u043A \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u042F\u043F\u043E\u043D\u0438\u0438.\u041E\u0431\u043B\u0430\u0434\u0430\u0442\u0435\u043B\u044C \u043A\u0443\u0431\u043A\u0430 \u0410\u0437\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 2000 \u0438 2004 \u0433\u043E\u0434\u043E\u0432. \u041B\u0443\u0447\u0448\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442 \u043A\u0443\u0431\u043A\u0430 \u0410\u0437\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 2004 \u0433\u043E\u0434\u0430. \u0427\u0435\u043C\u043F\u0438\u043E\u043D \u0428\u043E\u0442\u043B\u0430\u043D\u0434\u0438\u0438 2007 \u0438 2008 \u0433\u043E\u0434\u043E\u0432. \u041E\u0431\u043B\u0430\u0434\u0430\u0442\u0435\u043B\u044C \u043A\u0443\u0431\u043A\u0430 \u0428\u043E\u0442\u043B\u0430\u043D\u0434\u0438\u0438 2007 \u0433\u043E\u0434\u0430. \u041B\u0443\u0447\u0448\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442 \u0428\u043E\u0442\u043B\u0430\u043D\u0434\u0438\u0438 2007 \u0433\u043E\u0434\u0430 \u043F\u043E \u0432\u0435\u0440\u0441\u0438\u0438 \u0438\u0433\u0440\u043E\u043A\u043E\u0432.\u041D\u0430\u043A\u0430\u043C\u0443\u0440\u0430 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u0445\u043E\u0440\u043E\u0448\u0438\u043C \u0434\u0440\u0438\u0431\u043B\u0438\u043D\u0433\u043E\u043C \u0438 \u043C\u0430\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E\u043C \u0438\u0441\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u044F \u0448\u0442\u0440\u0430\u0444\u043D\u044B\u0445 \u0443\u0434\u0430\u0440\u043E\u0432."@ru ,
+		"Shunsuke Nakamura (\u4E2D\u6751 \u4FCA\u8F14, Nakamura Shunsuke, born 24 June 1978) is a Japanese professional footballer who plays as an attacking midfielder for Yokohama F. Marinos in J. League Division 1.He is the first and only player to have been twice named J. League Most Valuable Player, receiving the award in 2000 and 2013." ,
+		"\u4E2D\u6751 \u4FCA\u8F14\uFF08\u306A\u304B\u3080\u3089 \u3057\u3085\u3093\u3059\u3051\u30011978\u5E746\u670824\u65E5 - \uFF09\u306F\u3001\u795E\u5948\u5DDD\u770C\u6A2A\u6D5C\u5E02\u6238\u585A\u533A\u51FA\u8EAB\u306E\u65E5\u672C\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3067\u3042\u308B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\u3002J1\u3001\u6A2A\u6D5CF\u30FB\u30DE\u30EA\u30CE\u30B9\u6240\u5C5E\u3002\u5143\u65E5\u672C\u4EE3\u8868\u30022000\u5E74\u30682013\u5E74\u306BJ\u30EA\u30FC\u30B0MVP\u3092\u7372\u5F97\u3057\u3066\u3044\u308B\u3001J\u30EA\u30FC\u30B0\u53F2\u4E0A\u521D\u306EMVP\u8907\u6570\u56DE\u53D7\u8CDE\u8005\u3002\u307B\u304B\u306B\u30A2\u30B8\u30A2\u30AB\u30C3\u30D72004MVP\u30012006-07\u30B9\u30B3\u30C6\u30A3\u30C3\u30B7\u30E5\u30FB\u30D7\u30EC\u30DF\u30A2\u30EA\u30FC\u30B0MVP\u306A\u3069\u306E\u53D7\u8CDE\u6B74\u304C\u3042\u308B\u3002"@ja ,
+		"\u4E2D\u6751\u4FCA\u8F14\uFF08\u51FA\u751F\u65BC\u65E5\u672C\u6A6B\u6FF1\uFF0C1978\u5E746\u670824\u65E5\uFF0D\uFF09\u662F\u4E00\u4F4D\u65E5\u672C\u8077\u696D\u8DB3\u7403\u54E1\uFF0C\u73FE\u6B63\u6548\u529BJ.League\u7403\u6703\u6A6B\u6FF1\u6C34\u624B\uFF0C\u53F8\u8077\u4E2D\u5834\u7684\u4ED6\uFF0C\u57282004\u5E74\u4E9E\u6D32\u676F\u6210\u70BA\u5F97\u7968\u6700\u9AD8\u7684\u6700\u6709\u50F9\u503C\u7403\u54E1\u3002\u4E2D\u6751\u4FCA\u8F14\u6700\u6709\u540D\u7684\u662F\u4ED6\u63A5\u8FD1\u5B8C\u7F8E\u7684\u9577\u50B3\u53CA\u6B7B\u7403\uFF0C\u4ED6\u7D93\u5E38\u5728\u968A\u4E2D\u64D4\u4EFB\u4E00\u500B\u6307\u63EE\u5B98\u89D2\u8272\uFF0C\u8D77\u521D\u53EA\u662F\u6392\u5728\u773E\u524D\u92D2\u4E4B\u5F8C\uFF0C\u968F\u7740\u73B0\u4EE3\u8DB3\u7403\u7684\u4E0D\u65AD\u53D1\u5C55\u572806\u5E74\u5DF2\u7ECF\u6362\u5230\u53F3\u4E2D\u573A\u4F4D\u7F6E\uFF0C\u4E2D\u6751\u6709\u8D85\u4E00\u6D41\u7684\u4E00\u5BF9\u4E00\u6643\u52A8\u548C\u4E0D\u6B7B\u7403\uFF0C\u62FF\u7403\u548C\u5C04\u95E8\u517C\u5907\uFF0C\u540C\u65F6\u5305\u529E\u5168\u90E8\u5B9A\u4F4D\u7403\u3002"@zh ,
+		"Shunsuke Nakamura (jap. \u4E2D\u6751 \u4FCA\u8F14 Nakamura Shunsuke; * 24. Juni 1978 in Yokohama) ist ein japanischer Fu\u00DFballspieler."@de ,
+		"\u0634\u0648\u0646\u0633\u0648\u0643\u064A \u0646\u0627\u0643\u0627\u0645\u0648\u0631\u0627 (\u0628\u0627\u0644\u064A\u0627\u0628\u0627\u0646\u064A\u0629: \u4E2D\u6751 \u4FCA\u8F14)\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 24 \u064A\u0648\u0646\u064A\u0648 1978 \u0641\u064A \u064A\u0648\u0643\u0648\u0647\u0627\u0645\u0627\u060C \u0645\u062D\u0627\u0641\u0638\u0629 \u0643\u0627\u0646\u0627\u063A\u0627\u0648\u0627\u060C \u0627\u0644\u064A\u0627\u0628\u0627\u0646\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u064A\u0627\u0628\u0627\u0646\u064A\u060C \u0648\u064A\u0644\u0639\u0628 \u0641\u064A (\u0646\u0627\u062F\u064A \u064A\u0648\u0643\u0648\u0647\u0627\u0645\u0627 \u0645\u0627\u0631\u064A\u0646\u0648\u0633 \u0627\u0644\u064A\u0627\u0628\u0627\u0646\u064A) \u0648\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u064A\u0627\u0628\u0627\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645\u060C \u0648\u0647\u0648 \u0623\u062D\u062F \u0623\u0646\u062C\u062D \u0627\u0644\u0644\u0627\u0639\u0628\u064A\u0646 \u0627\u0644\u0622\u0633\u064A\u0648\u064A\u064A\u0646 \u0641\u064A \u0623\u0648\u0631\u0648\u0628\u0627\u060C \u0648\u0642\u062F \u0641\u0627\u0632 \u0628\u0643\u0623\u0633 \u0622\u0633\u064A\u0627 2000 \u0648\u0643\u0623\u0633 \u0622\u0633\u064A\u0627 2004.\u0628\u062F\u0623 \u0646\u0627\u0643\u0627\u0645\u0648\u0631\u0627 \u0644\u0639\u0628 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0639 \u0646\u0627\u062F\u064A \u064A\u0648\u0643\u0648\u0647\u0627\u0645\u0627 \u0623\u0641 \u0645\u0627\u0631\u064A\u0646\u0648\u0633 \u0641\u064A \u0639\u0627\u0645 1997\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 176 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 45 \u0647\u062F\u0641\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2002 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0631\u064A\u062C\u064A\u0646\u0627 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u060C \u0648\u0644\u0639\u0628 \u0644\u0647\u0645 \u0644\u0645\u062F\u0629 3 \u0645\u0648\u0627\u0633\u0645\u060C \u0648\u0634\u0627\u0631\u0643 \u0641\u064A 81 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 11 \u0647\u062F\u0641\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2005 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0633\u064A\u0644\u062A\u0643 \u0627\u0644\u0627\u0633\u0643\u062A\u0644\u0646\u062F\u064A\u060C \u0648\u0641\u064A \u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u0623\u0648\u0644 \u0645\u0639 \u0627\u0644\u0646\u0627\u062F\u064A\u060C \u0633\u0627\u0639\u062F \u0646\u0627\u0643\u0627\u0645\u0648\u0631\u0627 \u0627\u0644\u0646\u0627\u062F\u064A \u0639\u0644\u0649 \u0627\u0644\u0641\u0648\u0632 \u0628\u0644\u0642\u0628 \u0627\u0644\u062F\u0648\u0631\u064A \u0627\u0644\u0625\u0633\u0643\u062A\u0644\u0646\u062F\u064A \u0627\u0644\u0645\u0645\u062A\u0627\u0632 \u0648\u0643\u0623\u0633 \u0627\u0644\u062F\u0648\u0631\u064A \u0627\u0644\u0625\u0633\u0643\u062A\u0644\u0646\u062F\u064A. "@ar ,
+		"Shunsuke Nakamura (\u4E2D\u6751 \u4FCA\u8F14 Nakamura Shunsuke, nacido el 24 de junio de 1978 en Yokohama, Prefectura de Kanagawa, Jap\u00F3n) es un futbolista profesional japon\u00E9s Es uno de los jugadores m\u00E1s destacados de Asia y uno de los jugadores asi\u00E1ticos m\u00E1s exitosos en Europa, y el 13 de diciembre de 2006 se convirti\u00F3 en el primer jugador japon\u00E9s en anotar un gol en la UEFA Champions League y el segundo jugador asi\u00E1tico en hacerlo. Juega en la posici\u00F3n de mediocampista. Es capit\u00E1n de ambos equipos el Yokohama F."@es ,
+		"Shunsuke Nakamura (\u4E2D\u6751 \u4FCA\u8F14, Nakamura Shunsuke ; Yokohama, 24 juni 1978) is een Japans betaald voetballer die bij voorkeur op het middenveld speelt. Hij tekende in februari 2010 een contract bij Yokohama F. Marinos, dat hem van RCD Espanyol overnam. In februari 1998 debuteerde Nakamura voor het Japans voetbalelftal, waarvoor hij 98 wedstrijden speelde en daarin 24 keer scoorde."@nl ,
+		"Shunsuke Nakamura (jap. \u4E2D\u6751\u4FCA\u8F14, Nakamura Shunsuke, ur. 24 czerwca 1978 w Jokohamie) \u2013 japo\u0144ski pi\u0142karz. Obecnie gra w Yokohama F. Marinos.Jest lewono\u017Cnym pomocnikiem i najcz\u0119\u015Bciej gra na lewej stronie pomocy lub w \u015Brodku boiska. Zdoby\u0142 tytu\u0142 najbardziej warto\u015Bciowego gracza Azji w 2004 roku. W swoim pierwszym sezonie w barwach Celtiku, wywalczy\u0142 wraz z dru\u017Cyn\u0105 mistrzostwo Szkocji i Puchar Ligi. Zdoby\u0142 tak\u017Ce pierwsze miejsce w plebiscycie na najlepszego gracza graj\u0105cego w lidze szkockiej."@pl ,
+		"Shunsuke Nakamura (\u4E2D\u6751\u4FCA\u8F14, Nakamura Shunsuke), n\u00E9 le 24 juin 1978 \u00E0 Yokohama (Japon), est un footballeur international japonais."@fr ,
+		"Shunsuke Nakamura (\u4E2D\u6751 \u4FCA\u8F14, Nakamura Shunsuke?) (Yokohama, 24 giugno 1978) \u00E8 un calciatore giapponese, centrocampista del Yokohama F. Marinos.\u00C8 stato il primo giocatore giapponese a segnare in Champions League ed il secondo a parteciparvi. Dopo gli inizi nel paese natio ha giocato in Italia con la Reggina, dove in tre anni ha collezionato 81 presenze e 11 gol. Nell'estate del 2005 viene ceduto agli scozzesi del Celtic."@it ,
+		"Shunsuke Nakamura (\u4E2D\u6751\u4FCA\u8F14 Nakamura Shunsuke; Nascido em 24 de Junho de 1978) \u00E9 um futebolista japon\u00EAs que atua como meia. Atualmente, joga pelo Yokohama F\u00B7Marinos, equipe a qual \u00E9 capit\u00E3o e camisa 10."@pt ;
+	foaf:surname	"Nakamura" ;
+	foaf:isPrimaryTopicOf	ns16:Shunsuke_Nakamura .
+@prefix ns58:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Shunsuke_Nakamura	dbpprop:hasPhotoCollection	ns58:Shunsuke_Nakamura ;
+	dbpprop:caption	"Nakamura playing for Japan in 2008" ;
+	dbpprop:name	"Shunsuke Nakamura" ,
+		"Nakamura, Shunsuke" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Shunsuke2_20080622.png?width=300> ;
+	dbpedia-owl:abstract	"Shunsuke Nakamura (\u4E2D\u6751 \u4FCA\u8F14 Nakamura Shunsuke, nacido el 24 de junio de 1978 en Yokohama, Prefectura de Kanagawa, Jap\u00F3n) es un futbolista profesional japon\u00E9s Es uno de los jugadores m\u00E1s destacados de Asia y uno de los jugadores asi\u00E1ticos m\u00E1s exitosos en Europa, y el 13 de diciembre de 2006 se convirti\u00F3 en el primer jugador japon\u00E9s en anotar un gol en la UEFA Champions League y el segundo jugador asi\u00E1tico en hacerlo. Juega en la posici\u00F3n de mediocampista. Es capit\u00E1n de ambos equipos el Yokohama F. Marinos y de la Selecci\u00F3n de f\u00FAtbol Japonesa. Tambi\u00E9n ha sido reconocido por su habilidad especial en los tiros libres. El Asteroide 29986 Shunsuke ha sido nombrado en su honor."@es ,
+		"Shunsuke Nakamura (\u4E2D\u6751\u4FCA\u8F14 Nakamura Shunsuke; Nascido em 24 de Junho de 1978) \u00E9 um futebolista japon\u00EAs que atua como meia. Atualmente, joga pelo Yokohama F\u00B7Marinos, equipe a qual \u00E9 capit\u00E3o e camisa 10."@pt ,
+		"Shunsuke Nakamura (jap. \u4E2D\u6751 \u4FCA\u8F14 Nakamura Shunsuke; * 24. Juni 1978 in Yokohama) ist ein japanischer Fu\u00DFballspieler."@de ,
+		"Shunsuke Nakamura (\u4E2D\u6751 \u4FCA\u8F14, Nakamura Shunsuke ; Yokohama, 24 juni 1978) is een Japans betaald voetballer die bij voorkeur op het middenveld speelt. Hij tekende in februari 2010 een contract bij Yokohama F. Marinos, dat hem van RCD Espanyol overnam. In februari 1998 debuteerde Nakamura voor het Japans voetbalelftal, waarvoor hij 98 wedstrijden speelde en daarin 24 keer scoorde. Hij maakte in juli 2010 bekend dat hij niet meer beschikbaar was voor interlands.Nakamura speelde eerder in eigen land al voor Yokohama F. Marinos. Daarna speelde hij van 2002 tot 2005 voor het Italiaanse Reggina Calcio en van 2005 tot 2009 voor het Schotse Celtic Glasgow."@nl ,
+		"\u4E2D\u6751 \u4FCA\u8F14\uFF08\u306A\u304B\u3080\u3089 \u3057\u3085\u3093\u3059\u3051\u30011978\u5E746\u670824\u65E5 - \uFF09\u306F\u3001\u795E\u5948\u5DDD\u770C\u6A2A\u6D5C\u5E02\u6238\u585A\u533A\u51FA\u8EAB\u306E\u65E5\u672C\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3067\u3042\u308B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\u3002J1\u3001\u6A2A\u6D5CF\u30FB\u30DE\u30EA\u30CE\u30B9\u6240\u5C5E\u3002\u5143\u65E5\u672C\u4EE3\u8868\u30022000\u5E74\u30682013\u5E74\u306BJ\u30EA\u30FC\u30B0MVP\u3092\u7372\u5F97\u3057\u3066\u3044\u308B\u3001J\u30EA\u30FC\u30B0\u53F2\u4E0A\u521D\u306EMVP\u8907\u6570\u56DE\u53D7\u8CDE\u8005\u3002\u307B\u304B\u306B\u30A2\u30B8\u30A2\u30AB\u30C3\u30D72004MVP\u30012006-07\u30B9\u30B3\u30C6\u30A3\u30C3\u30B7\u30E5\u30FB\u30D7\u30EC\u30DF\u30A2\u30EA\u30FC\u30B0MVP\u306A\u3069\u306E\u53D7\u8CDE\u6B74\u304C\u3042\u308B\u3002"@ja ,
+		"Shunsuke Nakamura (jap. \u4E2D\u6751\u4FCA\u8F14, Nakamura Shunsuke, ur. 24 czerwca 1978 w Jokohamie) \u2013 japo\u0144ski pi\u0142karz. Obecnie gra w Yokohama F. Marinos.Jest lewono\u017Cnym pomocnikiem i najcz\u0119\u015Bciej gra na lewej stronie pomocy lub w \u015Brodku boiska. Zdoby\u0142 tytu\u0142 najbardziej warto\u015Bciowego gracza Azji w 2004 roku. W swoim pierwszym sezonie w barwach Celtiku, wywalczy\u0142 wraz z dru\u017Cyn\u0105 mistrzostwo Szkocji i Puchar Ligi. Zdoby\u0142 tak\u017Ce pierwsze miejsce w plebiscycie na najlepszego gracza graj\u0105cego w lidze szkockiej. 13 wrze\u015Bnia 2006 roku, zdoby\u0142 pierwsz\u0105 bramk\u0119 strzelon\u0105 przez Japo\u0144czyka w rozgrywkach Ligi Mistrz\u00F3w w meczu z Manchesterem United.Wyst\u0105pi\u0142 w M\u0142odzie\u017Cowych Mistrzostwach \u015Awiata w 1997 r. oraz na Letnich Igrzyskach Olimpijskich w 2000 r., jako zawodnik japo\u0144skiej dru\u017Cyny do lat 23.Wygra\u0142 ze swoj\u0105 reprezentacj\u0105 Puchar Azji w 2000 i 2004 r. i zosta\u0142 wybrany najlepszym zawodnikiem tego drugiego turnieju. Nakamura, zanim przeni\u00F3s\u0142 si\u0119 do Espanyolu 23 czerwca 2009 r., wyst\u0119powa\u0142 w japo\u0144skim klubie Yokohama Marinos, we w\u0142oskiej Regginie Calcio i szkockim Celticu. 26 lutego 2010 r. za kwot\u0119 1.500.000 \u20AC przeni\u00F3s\u0142 si\u0119 do Yokohama F. MarinosW reprezentacji zagra\u0142 98 razy i zdoby\u0142 24 bramki. Po Mistrzostwach \u015Awiata w 2010 roku definitywnie zako\u0144czy\u0142 karier\u0119 reprezentacyjn\u0105."@pl ,
+		"Shunsuke Nakamura (\u4E2D\u6751 \u4FCA\u8F14, Nakamura Shunsuke, born 24 June 1978) is a Japanese professional footballer who plays as an attacking midfielder for Yokohama F. Marinos in J. League Division 1.He is the first and only player to have been twice named J. League Most Valuable Player, receiving the award in 2000 and 2013. He is well known for his vision, touch, and free kick-taking abilities; Steve Perryman once remarked that Nakamura \"could open a tin of beans with his left foot\".His former clubs include Espanyol, Celtic, and Reggina. During his time at Celtic, he became one of the most prominent Asian players to have played in Europe; he was nominated for the 2007 Ballon d'Or, was named SPFA Players' Player of the Year and SFWA Footballer of the Year in 2007, and became the first Japanese player to score in the UEFA Champions League. His team accomplishments at Celtic include winning the Scottish Premier League in 2006, 2007, and 2008, the Scottish League Cup in 2006 and 2009, and the Scottish Cup in 2007.Nakamura has 98 caps and 24 goals for the Japanese national football team, including appearances in the FIFA World Cup finals in 2006 and 2010 and winning the AFC Asian Cup in 2000 and 2004; he was named Most Valuable Player in the 2004 competition. He also appeared in the 1997 FIFA World Youth Championship as a member of the Japanese Under-20 team and the 2000 Summer Olympics as a member of the Japanese Under-23 team.Asteroid 29986 Shunsuke is also named in his honour." ,
+		"\u4E2D\u6751\u4FCA\u8F14\uFF08\u51FA\u751F\u65BC\u65E5\u672C\u6A6B\u6FF1\uFF0C1978\u5E746\u670824\u65E5\uFF0D\uFF09\u662F\u4E00\u4F4D\u65E5\u672C\u8077\u696D\u8DB3\u7403\u54E1\uFF0C\u73FE\u6B63\u6548\u529BJ.League\u7403\u6703\u6A6B\u6FF1\u6C34\u624B\uFF0C\u53F8\u8077\u4E2D\u5834\u7684\u4ED6\uFF0C\u57282004\u5E74\u4E9E\u6D32\u676F\u6210\u70BA\u5F97\u7968\u6700\u9AD8\u7684\u6700\u6709\u50F9\u503C\u7403\u54E1\u3002\u4E2D\u6751\u4FCA\u8F14\u6700\u6709\u540D\u7684\u662F\u4ED6\u63A5\u8FD1\u5B8C\u7F8E\u7684\u9577\u50B3\u53CA\u6B7B\u7403\uFF0C\u4ED6\u7D93\u5E38\u5728\u968A\u4E2D\u64D4\u4EFB\u4E00\u500B\u6307\u63EE\u5B98\u89D2\u8272\uFF0C\u8D77\u521D\u53EA\u662F\u6392\u5728\u773E\u524D\u92D2\u4E4B\u5F8C\uFF0C\u968F\u7740\u73B0\u4EE3\u8DB3\u7403\u7684\u4E0D\u65AD\u53D1\u5C55\u572806\u5E74\u5DF2\u7ECF\u6362\u5230\u53F3\u4E2D\u573A\u4F4D\u7F6E\uFF0C\u4E2D\u6751\u6709\u8D85\u4E00\u6D41\u7684\u4E00\u5BF9\u4E00\u6643\u52A8\u548C\u4E0D\u6B7B\u7403\uFF0C\u62FF\u7403\u548C\u5C04\u95E8\u517C\u5907\uFF0C\u540C\u65F6\u5305\u529E\u5168\u90E8\u5B9A\u4F4D\u7403\u3002"@zh ,
+		"Shunsuke Nakamura (\u4E2D\u6751 \u4FCA\u8F14, Nakamura Shunsuke?) (Yokohama, 24 giugno 1978) \u00E8 un calciatore giapponese, centrocampista del Yokohama F. Marinos.\u00C8 stato il primo giocatore giapponese a segnare in Champions League ed il secondo a parteciparvi. Dopo gli inizi nel paese natio ha giocato in Italia con la Reggina, dove in tre anni ha collezionato 81 presenze e 11 gol. Nell'estate del 2005 viene ceduto agli scozzesi del Celtic. Nella sua prima stagione al Celtic, Nakamura ha aiutato il club a vincere la Scottish Premier League e la Scottish League Cup. Dopo quattro stagioni con i biancoverdi, firma un contratto biennale con l'Espanyol. I suoi contributi alla nazionale giapponese sono invece rappresentati dai 24 gol segnati.Ha vinto la Coppa d'Asia nel 2000 e nel 2004 con la Nazionale giapponese, ed \u00E8 stato nominato MVP dell'edizione 2004. Ha pure partecipato al Mondiale Under-20 1997 e alla XXVIII Olimpiade come membro della Nazionale Under-23 giapponese."@it ,
+		"Shunsuke Nakamura (\u4E2D\u6751\u4FCA\u8F14, Nakamura Shunsuke), n\u00E9 le 24 juin 1978 \u00E0 Yokohama (Japon), est un footballeur international japonais."@fr ,
+		"\u0421\u044E\u043D\u0441\u0443\u043A\u044D \u041D\u0430\u043A\u0430\u043C\u0443\u0440\u0430 (\u044F\u043F. \u4E2D\u6751\u4FCA\u8F14 ; \u0430\u043D\u0433\u043B. Shunsuke Nakamura; 24 \u0438\u044E\u043D\u044F 1978, \u0419\u043E\u043A\u043E\u0433\u0430\u043C\u0430) \u2014 \u044F\u043F\u043E\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u0437\u0430 \u043A\u043B\u0443\u0431 \u00AB\u0419\u043E\u043A\u043E\u0433\u0430\u043C\u0430 \u0424. \u041C\u0430\u0440\u0438\u043D\u043E\u0441\u00BB, \u0431\u044B\u0432\u0448\u0438\u0439 \u0438\u0433\u0440\u043E\u043A \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u042F\u043F\u043E\u043D\u0438\u0438.\u041E\u0431\u043B\u0430\u0434\u0430\u0442\u0435\u043B\u044C \u043A\u0443\u0431\u043A\u0430 \u0410\u0437\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 2000 \u0438 2004 \u0433\u043E\u0434\u043E\u0432. \u041B\u0443\u0447\u0448\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442 \u043A\u0443\u0431\u043A\u0430 \u0410\u0437\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 2004 \u0433\u043E\u0434\u0430. \u0427\u0435\u043C\u043F\u0438\u043E\u043D \u0428\u043E\u0442\u043B\u0430\u043D\u0434\u0438\u0438 2007 \u0438 2008 \u0433\u043E\u0434\u043E\u0432. \u041E\u0431\u043B\u0430\u0434\u0430\u0442\u0435\u043B\u044C \u043A\u0443\u0431\u043A\u0430 \u0428\u043E\u0442\u043B\u0430\u043D\u0434\u0438\u0438 2007 \u0433\u043E\u0434\u0430. \u041B\u0443\u0447\u0448\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442 \u0428\u043E\u0442\u043B\u0430\u043D\u0434\u0438\u0438 2007 \u0433\u043E\u0434\u0430 \u043F\u043E \u0432\u0435\u0440\u0441\u0438\u0438 \u0438\u0433\u0440\u043E\u043A\u043E\u0432.\u041D\u0430\u043A\u0430\u043C\u0443\u0440\u0430 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043D \u0445\u043E\u0440\u043E\u0448\u0438\u043C \u0434\u0440\u0438\u0431\u043B\u0438\u043D\u0433\u043E\u043C \u0438 \u043C\u0430\u0441\u0442\u0435\u0440\u0441\u0442\u0432\u043E\u043C \u0438\u0441\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u044F \u0448\u0442\u0440\u0430\u0444\u043D\u044B\u0445 \u0443\u0434\u0430\u0440\u043E\u0432. \u0421\u0430\u043C\u044B\u0439 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u0433\u043E\u043B \u2014 \u0432 \u0432\u043E\u0440\u043E\u0442\u0430 \u00AB\u041C\u0430\u043D\u0447\u0435\u0441\u0442\u0435\u0440 \u042E\u043D\u0430\u0439\u0442\u0435\u0434\u00BB \u0432 \u041B\u0438\u0433\u0435 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u043E\u0432 \u0441\u0435\u0437\u043E\u043D\u0430 2006/2007.\u041F\u043E \u043E\u043A\u043E\u043D\u0447\u0430\u043D\u0438\u0438 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 2010 \u043E\u0431\u044A\u044F\u0432\u0438\u043B \u043E \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043D\u0438\u0438 \u0441\u0432\u043E\u0438\u0445 \u0432\u044B\u0441\u0442\u0443\u043F\u043B\u0435\u043D\u0438\u0439 \u0432 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u0435 \u042F\u043F\u043E\u043D\u0438\u0438."@ru ,
+		"\u0634\u0648\u0646\u0633\u0648\u0643\u064A \u0646\u0627\u0643\u0627\u0645\u0648\u0631\u0627 (\u0628\u0627\u0644\u064A\u0627\u0628\u0627\u0646\u064A\u0629: \u4E2D\u6751 \u4FCA\u8F14)\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 24 \u064A\u0648\u0646\u064A\u0648 1978 \u0641\u064A \u064A\u0648\u0643\u0648\u0647\u0627\u0645\u0627\u060C \u0645\u062D\u0627\u0641\u0638\u0629 \u0643\u0627\u0646\u0627\u063A\u0627\u0648\u0627\u060C \u0627\u0644\u064A\u0627\u0628\u0627\u0646\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u064A\u0627\u0628\u0627\u0646\u064A\u060C \u0648\u064A\u0644\u0639\u0628 \u0641\u064A (\u0646\u0627\u062F\u064A \u064A\u0648\u0643\u0648\u0647\u0627\u0645\u0627 \u0645\u0627\u0631\u064A\u0646\u0648\u0633 \u0627\u0644\u064A\u0627\u0628\u0627\u0646\u064A) \u0648\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u064A\u0627\u0628\u0627\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645\u060C \u0648\u0647\u0648 \u0623\u062D\u062F \u0623\u0646\u062C\u062D \u0627\u0644\u0644\u0627\u0639\u0628\u064A\u0646 \u0627\u0644\u0622\u0633\u064A\u0648\u064A\u064A\u0646 \u0641\u064A \u0623\u0648\u0631\u0648\u0628\u0627\u060C \u0648\u0642\u062F \u0641\u0627\u0632 \u0628\u0643\u0623\u0633 \u0622\u0633\u064A\u0627 2000 \u0648\u0643\u0623\u0633 \u0622\u0633\u064A\u0627 2004.\u0628\u062F\u0623 \u0646\u0627\u0643\u0627\u0645\u0648\u0631\u0627 \u0644\u0639\u0628 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0639 \u0646\u0627\u062F\u064A \u064A\u0648\u0643\u0648\u0647\u0627\u0645\u0627 \u0623\u0641 \u0645\u0627\u0631\u064A\u0646\u0648\u0633 \u0641\u064A \u0639\u0627\u0645 1997\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 176 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 45 \u0647\u062F\u0641\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2002 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0631\u064A\u062C\u064A\u0646\u0627 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u060C \u0648\u0644\u0639\u0628 \u0644\u0647\u0645 \u0644\u0645\u062F\u0629 3 \u0645\u0648\u0627\u0633\u0645\u060C \u0648\u0634\u0627\u0631\u0643 \u0641\u064A 81 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 11 \u0647\u062F\u0641\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2005 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0633\u064A\u0644\u062A\u0643 \u0627\u0644\u0627\u0633\u0643\u062A\u0644\u0646\u062F\u064A\u060C \u0648\u0641\u064A \u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u0623\u0648\u0644 \u0645\u0639 \u0627\u0644\u0646\u0627\u062F\u064A\u060C \u0633\u0627\u0639\u062F \u0646\u0627\u0643\u0627\u0645\u0648\u0631\u0627 \u0627\u0644\u0646\u0627\u062F\u064A \u0639\u0644\u0649 \u0627\u0644\u0641\u0648\u0632 \u0628\u0644\u0642\u0628 \u0627\u0644\u062F\u0648\u0631\u064A \u0627\u0644\u0625\u0633\u0643\u062A\u0644\u0646\u062F\u064A \u0627\u0644\u0645\u0645\u062A\u0627\u0632 \u0648\u0643\u0623\u0633 \u0627\u0644\u062F\u0648\u0631\u064A \u0627\u0644\u0625\u0633\u0643\u062A\u0644\u0646\u062F\u064A. \u0648\u0641\u064A \u0639\u0627\u0645 2009 \u0627\u0646\u062A\u0642\u0644 \u0644\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0625\u0633\u0628\u0627\u0646\u064A\u0648\u0644\u060C \u0648\u0639\u0627\u062F \u0641\u064A \u0639\u0627\u0645 2010 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u064A\u0648\u0643\u0648\u0647\u0627\u0645\u0627 \u0645\u0627\u0631\u064A\u0646\u0648\u0633.\u0648 \u0644\u0645 \u064A\u0634\u0627\u0631\u0643 \u0646\u0627\u0643\u0627\u0645\u0648\u0631\u0627 \u0641\u064A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 2002\u060C \u0648\u0644\u0643\u0646\u0647 \u0634\u0627\u0631\u0643 \u0641\u064A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 2006 \u0648 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 2010 .\u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u064A\u0627\u0628\u0627\u0646 \u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u064A\u0627\u0628\u0627\u0646"@ar ;
+	dbpedia-owl:wikiPageID	1094987 ;
+	dbpedia-owl:wikiPageRevisionID	605501619 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Shunsuke_Nakamura	dbpprop:birthDate	"1978-06-24+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Yokohama, Japan" ;
+	dbpprop:dateOfBirth	"1978-06-24+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	dbpedia:Yokohama ,
+		dbpedia:Japan ;
+	dbpprop:shortDescription	"Footballer" ;
+	dbpedia-owl:birthDate	"1978-06-24+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Japan_national_football_team ,
+		dbpedia:Yokohama ,
+		dbpedia:Japan ;
+	dbpedia-owl:birthYear	"1978+02:00"^^xsd:gYear ;
+	dbpedia-owl:viafId	"101455776" ;
+	dbpprop:imageSize	200 ;
+	dbpprop:goals	33 ,
+		29 ,
+		24 ,
+		16 ,
+		0 ;
+	dbpprop:bg	"#0202FF" ,
+		"gold" ;
+	dbpprop:id	20825 ;
+	dbpprop:caps	148 ,
+		128 ,
+		114 ,
+		81 ,
+		12 ;
+	dbpprop:years	1997 ,
+		2010 ,
+		2009 ,
+		2002 ,
+		2005 ;
+	dbpprop:youthclubs	"T\u014Dk\u014D Gakuen High School" ,
+		"Nissan Junior Youth" ;
+	dbpedia-owl:careerStation	dbpedia:Shunsuke_Nakamura__5 ,
+		dbpedia:Shunsuke_Nakamura__3 ,
+		dbpedia:Shunsuke_Nakamura__7 ,
+		dbpedia:Shunsuke_Nakamura__1 ,
+		dbpedia:Shunsuke_Nakamura__2 ,
+		dbpedia:Shunsuke_Nakamura__4 ,
+		dbpedia:Shunsuke_Nakamura__8 ,
+		dbpedia:Shunsuke_Nakamura__9 ,
+		dbpedia:Shunsuke_Nakamura__10 ,
+		dbpedia:Shunsuke_Nakamura__6 ;
+	dbpprop:position	dbpedia:Midfielder ;
+	dbpedia-owl:position	dbpedia:Midfielder ;
+	dbpedia-owl:height	1.7800000000000000266 .
+@prefix ns60:	<http://dbpedia.org/datatype/> .
+@prefix ns61:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Shunsuke_Nakamura	ns61:height	"178.0"^^ns60:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/Yokohama_F._Marinos> ;
+	dbpprop:clubnumber	10 ;
+	dbpprop:fullname	"Shunsuke Nakamura" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/Yokohama_F._Marinos> ,
+		<http://dbpedia.org/resource/Celtic_F.C.> ,
+		dbpedia:RCD_Espanyol ,
+		dbpedia:Reggina_Calcio ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/Yokohama_F._Marinos> ,
+		dbpedia:Japan_national_football_team ,
+		<http://dbpedia.org/resource/Celtic_F.C.> ,
+		dbpedia:RCD_Espanyol ,
+		dbpedia:Japan_national_under-20_football_team ,
+		dbpedia:Reggina_Calcio ,
+		dbpedia:Japan_national_under-23_football_team .
+@prefix ns62:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Shunsuke_Nakamura	dbpprop:wordnet_type	ns62:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Japan Squad" ,
+		"Awards" ;
+	dbpprop:pcupdate	"2013-10-28+02:00"^^xsd:date ;
+	dbpprop:youthyears	1995 ,
+		1986 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.transfermarkt.co.uk/en/shunsuke-nakamura/profil/spieler_6069.html> ,
+		<http://www.shunsuke.com/> ,
+		<http://www.celticfc.net/home/players/playerInfo/sNakamura.aspx> ;
+	dbpprop:fg	"#FFFFFF" ,
+		"navy" ;
+	dbpprop:nationalcaps	4 ,
+		5 ,
+		98 ;
+	dbpprop:nationalgoals	24 ,
+		0 ,
+		1 ;
+	dbpprop:nationalteam	dbpedia:Japan_national_under-20_football_team ,
+		dbpedia:Japan_national_football_team ,
+		dbpedia:Japan_national_under-23_football_team ;
+	dbpprop:nationalyears	2000 ,
+		1997 ;
+	dbpedia-owl:number	10 ;
+	dbpprop:ntupdate	"2010-07-01+02:00"^^xsd:date .
+<http://dbpedia.org/resource/2004_AFC_Asian_Cup_Final>	dbpprop:manOfTheMatch1a	dbpedia:Shunsuke_Nakamura .
+ns29:شونسوكي_ناكامورا	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns46:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns43:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns33:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns24:شونسوکی_ناکامورا	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns37:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns26:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns25:שונסוקה_נקמורה	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns36:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns27:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns32:Nakamura_Sunszuke	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns47:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns51:Šunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns45:Накамүра_Шүнсүкэ	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns50:शुन्सुके_नाकामुरा	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns31:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns39:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns38:Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+<http://ru.dbpedia.org/resource/\u041D\u0430\u043A\u0430\u043C\u0443\u0440\u0430,_\u0421\u044E\u043D\u0441\u0443\u043A\u044D>	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns44:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns48:Šunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns40:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns52:ชุนซุเกะ_นะกะมุระ	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns41:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns34:Shunsuke_Nakamura	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns30:Накамура_Сюнсуке	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns23:Nakamura_Shunsuke	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns42:中村俊輔	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+ns49:中村俊輔	owl:sameAs	dbpedia:Shunsuke_Nakamura .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Shunsuke_Nakamura .
+<http://dbpedia.org/resource/2007_South_Korea_national_football_team_season>	dbpprop:away8player	dbpedia:Shunsuke_Nakamura .
+<http://dbpedia.org/resource/29986_Shunsuke>	dbpprop:namedAfter	dbpedia:Shunsuke_Nakamura .
+<http://dbpedia.org/resource/2005_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Shunsuke_Nakamura .
+<http://dbpedia.org/resource/1997_Yokohama_Marinos_season>	dbpprop:name	dbpedia:Shunsuke_Nakamura .
+<http://dbpedia.org/resource/2011_Yokohama_F._Marinos_season>	dbpprop:name	dbpedia:Shunsuke_Nakamura .
+<http://dbpedia.org/resource/2007_AFC_Asian_Cup_squads>	dbpprop:name	dbpedia:Shunsuke_Nakamura .
+<http://dbpedia.org/resource/2000_Lunar_New_Year_Cup>	dbpprop:name	dbpedia:Shunsuke_Nakamura .
+<http://dbpedia.org/resource/2006_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Shunsuke_Nakamura .
+<http://dbpedia.org/resource/2000_AFC_Asian_Cup_squads>	dbpprop:name	dbpedia:Shunsuke_Nakamura .
+dbpedia:Naka	dbpedia-owl:wikiPageDisambiguates	dbpedia:Shunsuke_Nakamura .
+<http://dbpedia.org/resource/2004_AFC_Asian_Cup_squads>	dbpprop:name	dbpedia:Shunsuke_Nakamura .
+<http://dbpedia.org/resource/Yokohama_F._Marinos__hunsuke_Nakamura__1>	dbpedia-owl:currentMember	dbpedia:Shunsuke_Nakamura .
+dbpedia:Shunsuke	dbpedia-owl:wikiPageDisambiguates	dbpedia:Shunsuke_Nakamura .
+<http://dbpedia.org/resource/1997_Yokohama_Marinos_season__Shunsuke_Nakamura__1>	dbpedia-owl:currentMember	dbpedia:Shunsuke_Nakamura .
+<http://dbpedia.org/resource/2011_Yokohama_F._Marinos_season__Shunsuke_Nakamura__1>	dbpedia-owl:currentMember	dbpedia:Shunsuke_Nakamura .
+dbpedia:Nakamura_Shunsuke	dbpedia-owl:wikiPageRedirects	dbpedia:Shunsuke_Nakamura .
+dbpedia:Nakaumura	dbpedia-owl:wikiPageRedirects	dbpedia:Shunsuke_Nakamura .

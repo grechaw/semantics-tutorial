@@ -1,0 +1,358 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Antar_Yahia	owl:sameAs	dbpedia:Antar_Yahia .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Anthar_Yahia	owl:sameAs	dbpedia:Antar_Yahia .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q346635	owl:sameAs	dbpedia:Antar_Yahia .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Antar_Yahia	owl:sameAs	dbpedia:Antar_Yahia .
+@prefix ns6:	<http://id.dbpedia.org/resource/> .
+ns6:Antar_Yahia	owl:sameAs	dbpedia:Antar_Yahia .
+@prefix ns7:	<http://it.dbpedia.org/resource/> .
+ns7:Antar_Yahia	owl:sameAs	dbpedia:Antar_Yahia .
+@prefix ns8:	<http://ja.dbpedia.org/resource/> .
+ns8:アンター・ヤヒア	owl:sameAs	dbpedia:Antar_Yahia .
+@prefix ns9:	<http://ko.dbpedia.org/resource/> .
+ns9:안타르_야히아	owl:sameAs	dbpedia:Antar_Yahia .
+@prefix ns10:	<http://pl.dbpedia.org/resource/> .
+ns10:Anthar_Yahia	owl:sameAs	dbpedia:Antar_Yahia .
+@prefix ns11:	<http://pt.dbpedia.org/resource/> .
+ns11:Antar_Yahia	owl:sameAs	dbpedia:Antar_Yahia .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns13:	<http://en.wikipedia.org/wiki/> .
+ns13:Antar_Yahia	foaf:primaryTopic	dbpedia:Antar_Yahia .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2004_African_Cup_of_Nations_squads>	dbpprop:name	dbpedia:Antar_Yahia .
+<http://dbpedia.org/resource/2010_Africa_Cup_of_Nations_squads>	dbpprop:name	dbpedia:Antar_Yahia .
+<http://dbpedia.org/resource/2011%E2%80%9312_Al-Nassr_season>	dbpprop:p	dbpedia:Antar_Yahia .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Antar_Yahia	rdf:type	yago:Player110439851 ,
+		yago:AlgerianExpatriatesInSaudiArabia ,
+		yago:FootballPlayer110101634 ,
+		yago:YagoLegalActor .
+@prefix ns17:	<http://schema.org/> .
+dbpedia:Antar_Yahia	rdf:type	ns17:Person ,
+		yago:LivingPeople ,
+		yago:AlgerianExpatriatesInGermany .
+@prefix ns18:	<http://umbel.org/umbel/rc/> .
+dbpedia:Antar_Yahia	rdf:type	ns18:Athlete ,
+		yago:CausalAgent100007347 ,
+		<http://dbpedia.org/class/yago/2.Fu%C3%9Fball-BundesligaPlayers> ,
+		yago:LivingThing100004258 ,
+		yago:Athlete109820263 ,
+		yago:ExpatriateFootballersInItaly ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:PeopleFromMulhouse ,
+		yago:ExpatriateFootballersInGermany ,
+		yago:SCBastiaPlayers ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		foaf:Person ,
+		yago:Ligue1Players .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Antar_Yahia	rdf:type	dul:Agent ,
+		ns4:Q5 ,
+		yago:OGCNicePlayers ,
+		yago:AlgerianExpatriatesInItaly ,
+		yago:ChaouiPeople ,
+		dul:NaturalPerson .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Antar_Yahia	rdf:type	dbpedia-owl:Person ,
+		yago:Al-NassrFCPlayers ,
+		<http://dbpedia.org/class/yago/F.C.InternazionaleMilanoPlayers> ,
+		dbpedia-owl:Agent ,
+		<http://dbpedia.org/class/yago/Fu%C3%9Fball-BundesligaPlayers> ,
+		yago:ExpatriateFootballersInSaudiArabia ,
+		yago:VfLBochumPlayers ,
+		yago:Whole100003553 ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:Object100002684 ,
+		dbpedia-owl:Athlete ,
+		ns4:Q215627 ,
+		owl:Thing ,
+		<http://dbpedia.org/class/yago/FCSochaux-Montb%C3%A9liardPlayers> ,
+		yago:PhysicalEntity100001930 ,
+		yago:FranceYouthInternationalFootballers ,
+		yago:AlgeriaUnder-23InternationalFootballers ,
+		<http://dbpedia.org/class/yago/1.FCKaiserslauternPlayers> ,
+		ns18:SoccerPlayer ,
+		yago:Contestant109613191 ,
+		yago:FrenchPeopleOfAlgerianDescent ,
+		yago:AlgerianFootballers ,
+		yago:AlgeriaInternationalFootballers ,
+		yago:VfLBochumIIPlayers ,
+		yago:AlgerianExpatriateFootballers ;
+	owl:sameAs	ns6:Antar_Yahia ,
+		ns4:Q346635 ,
+		ns7:Antar_Yahia .
+@prefix ns21:	<http://nl.dbpedia.org/resource/> .
+dbpedia:Antar_Yahia	owl:sameAs	ns21:Anthar_Yahia ,
+		ns3:Anthar_Yahia .
+@prefix ns22:	<http://ca.dbpedia.org/resource/> .
+dbpedia:Antar_Yahia	owl:sameAs	ns22:Antar_Yahia ,
+		ns5:Antar_Yahia .
+@prefix ns23:	<http://nn.dbpedia.org/resource/> .
+dbpedia:Antar_Yahia	owl:sameAs	ns23:Antar_Yahia ,
+		<http://rdf.freebase.com/ns/m.05l8bq> ,
+		<http://ru.dbpedia.org/resource/\u042F\u0445\u044C\u044F,_\u0410\u043D\u0442\u0430\u0440> ,
+		dbpedia:Antar_Yahia .
+@prefix ns24:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Antar_Yahia	owl:sameAs	ns24:Antar_Yahia .
+@prefix ns25:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Antar_Yahia	owl:sameAs	ns25:अंतर_याहिया ,
+		<http://uk.dbpedia.org/resource/\u0410\u043D\u0442\u0430\u0440_\u042F\u0445\u0027\u044F> ,
+		ns9:안타르_야히아 .
+@prefix ns26:	<http://no.dbpedia.org/resource/> .
+dbpedia:Antar_Yahia	owl:sameAs	ns26:Anthar_Yahia ,
+		ns1:Antar_Yahia .
+@prefix ns27:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Antar_Yahia	owl:sameAs	ns27:Anthar_Yahia ,
+		ns11:Antar_Yahia .
+@prefix ns28:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Antar_Yahia	owl:sameAs	ns28:عنتر_يحيى ,
+		ns8:アンター・ヤヒア .
+@prefix ns29:	<http://yago-knowledge.org/resource/> .
+dbpedia:Antar_Yahia	owl:sameAs	ns29:Antar_Yahia .
+@prefix ns30:	<http://wikidata.org/entity/> .
+dbpedia:Antar_Yahia	owl:sameAs	ns30:Q346635 .
+@prefix ns31:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Antar_Yahia	owl:sameAs	ns31:Antar_Yahia ,
+		ns10:Anthar_Yahia .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Antar_Yahia	rdfs:label	"Antar Yahia"@it ,
+		"\u30A2\u30F3\u30BF\u30FC\u30FB\u30E4\u30D2\u30A2"@ja ,
+		"Antar Yahia"@pt ,
+		"\u042F\u0445\u044C\u044F, \u0410\u043D\u0442\u0430\u0440"@ru ,
+		"Anthar Yahia"@nl ,
+		"Antar Yahia" ,
+		"Antar Yahia"@fr ,
+		"Anthar Yahia"@de ,
+		"\u0639\u0646\u062A\u0631 \u064A\u062D\u064A\u0649"@ar ,
+		"Antar Yahia"@es ,
+		"Anthar Yahia"@pl .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+dbpedia:Antar_Yahia	dcterms:subject	<http://dbpedia.org/resource/Category:2004_African_Cup_of_Nations_players> ,
+		<http://dbpedia.org/resource/Category:2010_Africa_Cup_of_Nations_players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Antar_Yahia	dcterms:subject	category:France_youth_international_footballers ,
+		category:Algeria_under-23_international_footballers ,
+		category:Living_people ,
+		category:Algeria_youth_international_footballers ,
+		<http://dbpedia.org/resource/Category:1._FC_Kaiserslautern_players> ,
+		category:Inter_Milan_players ,
+		category:Expatriate_footballers_in_Germany ,
+		category:Algerian_expatriates_in_Saudi_Arabia ,
+		category:VfL_Bochum_II_players ,
+		category:Algerian_expatriates_in_Italy ,
+		category:People_from_Mulhouse ,
+		category:Chaoui_people ,
+		category:Al-Nassr_FC_players ,
+		category:VfL_Bochum_players ,
+		<http://dbpedia.org/resource/Category:FC_Sochaux-Montb%C3%A9liard_players> ,
+		category:Algerian_Muslims ,
+		category:French_people_of_Algerian_descent ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Algeria_international_footballers ,
+		category:Algerian_expatriate_footballers ,
+		category:Algerian_expatriates_in_Greece ,
+		category:OGC_Nice_players ,
+		category:Expatriate_footballers_in_Saudi_Arabia ,
+		category:Algerian_expatriates_in_Tunisia ,
+		category:SC_Bastia_players ,
+		<http://dbpedia.org/resource/Category:1982_births> ,
+		category:Algerian_expatriates_in_Germany ,
+		category:Ligue_1_players ,
+		category:Algerian_footballers ,
+		category:Expatriate_footballers_in_Tunisia ,
+		category:Bundesliga_players ,
+		<http://dbpedia.org/resource/Category:Esp%C3%A9rance_Sportive_de_Tunis_players> ,
+		<http://dbpedia.org/resource/Category:2._Bundesliga_players> ,
+		category:Expatriate_footballers_in_Greece ,
+		category:Expatriate_footballers_in_Italy ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Antar_Yahia.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Antar_Yahia	dc:description	"Algerian footballer" ,
+		"Algerian footballer" ;
+	foaf:givenName	"Antar" ;
+	foaf:name	"Antar Yahia" ,
+		"Yahia, Antar" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Antar_Yahia	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Antar_Yahia?oldid=603138545> ;
+	rdfs:comment	"\u0410\u043D\u0442\u0430\u0301\u0440 \u042F\u0445\u044C\u044F\u0301 (\u0444\u0440. Antar Yahia, \u0430\u0440\u0430\u0431. \u0639\u0646\u062A\u0631 \u064A\u062D\u064A\u0649\u200E\u200E; 21 \u043C\u0430\u0440\u0442\u0430 1982, \u041C\u044E\u043B\u0443\u0437) \u2014 \u0444\u0440\u0430\u043D\u043A\u043E-\u0430\u043B\u0436\u0438\u0440\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A. \u0418\u0433\u0440\u043E\u043A \u043D\u0435\u043C\u0435\u0446\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u041A\u0430\u0439\u0437\u0435\u0440\u0441\u043B\u0430\u0443\u0442\u0435\u0440\u043D\u00BB."@ru ,
+		"Anthar Yahia (Mulhouse, 28 maart 1982) is een Algerijns professioneel voetballer die momenteel als centraal verdediger actief is voor Platanias FC."@nl ,
+		"Antar Yahia (arabo: \uFECB\uFEE8\uFE98\uFEAE \u064A\u062D\u064A\u0649\u200E; Mulhouse, 21 marzo 1982) \u00E8 un calciatore francese naturalizzato algerino, difensore del Esp\u00E9rance Sportive de Tunis e della Nazionale algerina."@it ,
+		"\u0639\u0646\u062A\u0631 \u064A\u062D\u064A\u0649 (21 \u0645\u0627\u0631\u0633 1982) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u062C\u0632\u0627\u0626\u0631\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627\u064B \u0628\u0627\u0644\u062A\u0631\u062C\u064A \u0627\u0644\u0631\u064A\u0627\u0636\u064A \u0627\u0644\u062A\u0648\u0646\u0633\u064A \u0641\u064A \u062F\u0648\u0631\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0627\u0644\u062A\u0648\u0646\u0633\u064A.\u0628\u062F\u0623 \u0639\u0646\u062A\u0631 \u062D\u064A\u0627\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0628\u0627\u0644\u0644\u0639\u0628 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0644\u0644\u0634\u0628\u0627\u0628 \u0641\u064A \u0628\u0644\u0641\u0648\u0631 \u0642\u0628\u0644 \u0623\u0646 \u064A\u0646\u0636\u0645 \u0625\u0644\u0649 \u0627\u0644\u0645\u062F\u0631\u0633\u0629 \u0627\u0644\u062F\u0627\u062E\u0644\u064A\u0629 \u0644\u0646\u0627\u062F\u064A \u0633\u0648\u0634\u0648 \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0641\u064A \u0627\u0644\u0631\u0627\u0628\u0639\u0629 \u0639\u0634\u0631 \u0645\u0646 \u0639\u0645\u0631\u0647. \u0628\u062D\u0644\u0648\u0644 \u0639\u0627\u0645 2000 \u0648\u0628\u0639\u0645\u0631 \u0627\u0644\u062B\u0627\u0645\u0646\u0629 \u0639\u0634\u0631 \u0623\u0631\u0627\u062F \u0639\u0646\u062A\u0631 \u0623\u0646 \u064A\u0648\u0642\u0639 \u0639\u0642\u062F\u0627\u064B \u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0627\u064B, \u0648\u0644\u0643\u0646 \u0631\u063A\u0628\u062A\u0647 \u0642\u0648\u0628\u0644\u062A \u0628\u0627\u0644\u0631\u0641\u0636 \u0645\u0646 \u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u0626\u0648\u0644\u064A\u0646 \u0641\u064A \u0623\u0643\u0627\u062F\u064A\u0645\u064A\u0629 \u0633\u0648\u0634\u0648 \u0641\u064A \u0630\u0644\u0643 \u0627\u0644\u0648\u0642\u062A. \u0642\u0631\u0631 \u0639\u0646\u062A\u0631 \u062A\u0631\u0643 \u0633\u0648\u0634\u0648 \u0648\u0627\u0644\u0627\u0646\u062A\u0642\u0627\u0644 \u0625\u0644\u0649 \u0623\u0643\u0627\u062F\u064A\u0645\u064A\u0629 \u0627\u0644\u0627\u0646\u062A\u0631 \u0644\u0644\u0634\u0628\u0627\u0628."@ar ,
+		"\u30A2\u30F3\u30BF\u30EB\u30FB\u30E4\u30D2\u30A2\uFF08\u30A2\u30E9\u30D3\u30A2\u8A9E: \u0639\u0646\u062A\u0631 \u064A\u062D\u064A\u0649\u200E\u3001Antar Yahia\u30011982\u5E743\u67089\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u30FB\u30AA\u30FC\uFF1D\u30E9\u30F3\u770C\u30DF\u30E5\u30EB\u30FC\u30BA\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FDF\u3002FIFA\u304C\u6539\u6B63\u3057\u305F\u56FD\u7C4D\u5909\u66F4\u30EB\u30FC\u30EB\u3067\u6700\u521D\u306B\u4EE3\u8868\u3092\u5909\u66F4\u3057\u305F\u9078\u624B\u3067\u3042\u308B\u3002\u30BB\u30C3\u30C8\u30D7\u30EC\u30FC\u304B\u3089\u6642\u6298\u5F97\u70B9\u3059\u308B\u3082\u3001\u5B88\u5099\u3067\u306E\u30B9\u30D4\u30FC\u30C9\u4E0D\u8DB3\u3067\u5EA6\u3005\u30D4\u30F3\u30C1\u3092\u62DB\u304F\u4E8B\u3082\u3042\u308B\u3002\u30BB\u30F3\u30BF\u30FC\u30D0\u30C3\u30AF\u3060\u3051\u3067\u306A\u304F\u30B5\u30A4\u30C9\u30D0\u30C3\u30AF\u3068\u3057\u3066\u3082\u30D7\u30EC\u30FC\u53EF\u80FD\u3002"@ja ,
+		"Antar Yahia (Mulhouse, Francia, 21 de marzo de 1982) es un futbolista nacido franc\u00E9s de ascendencia argelina. Juega de defensa central y su actual equipo es el Esp\u00E9rance Sportive de Tunis. Es el capit\u00E1n de la selecci\u00F3n de f\u00FAtbol de Argelia."@es ,
+		"Anthar Yahia (ur. 21 marca 1982 w Miluzie), wzrost: 185 cm, waga: 78 kg, algierski pi\u0142karz, wyst\u0119puje na pozycji obro\u0144cy. Posiada r\u00F3wnie\u017C obywatelstwo francuskie."@pl ,
+		"Antar Yahia (Arabic: \u0639\u0646\u062A\u0631 \u064A\u062D\u064A\u0649\u200E, born 21 March 1982) is an Algerian professional footballer who currently plays for Platanias in the Superleague Greece.Yahia began playing football for the Racing Club de Belfort youth team before joining the Sochaux youth academy at the age of fourteen. However in 2000, at the age of eighteen Yahia wanted to sign a professional contract, but his wish was denied by the then Sochaux leaders." ,
+		"Antar Yahia, n\u00E9 le 21 mars 1982 \u00E0 Mulhouse en Alsace, est un footballeur alg\u00E9rien d'origine Chaoui (Sedrata dans la wilaya de Souk-Ahras) qui jouait dans l'\u00E9quipe nationale d'Alg\u00E9rie. Actuellement il \u00E9volue au Platanias FC au poste de d\u00E9fenseur."@fr ,
+		"Anthar Yahia (arabisch \u200F\u0639\u0646\u062A\u0631 \u064A\u062D\u064A\u0649\u200E, DMG \u02BFAntar Ya\u1E25y\u0101, Vorname auch: Anther und Antar; * 21. M\u00E4rz 1982 in M\u00FClhausen, Frankreich) ist ein algerisch-franz\u00F6sischer Fu\u00DFballspieler."@de ,
+		"Antar Yahia - em \u00E1rabe: \u0639\u0646\u062A\u0631 \u064A\u062D\u064A\u0649\u200E - (Mulhouse, 21 de mar\u00E7o de 1982) - \u00E9 um futebolista franco-argelino. Defende atualmente a equipe alem\u00E3 do VfL Bochum. Fez o gol que classificou a sua sele\u00E7\u00E3o para a Copa do Mundo de 2010 contra o Egito."@pt ;
+	foaf:surname	"Yahia" ;
+	foaf:isPrimaryTopicOf	ns13:Antar_Yahia .
+@prefix ns37:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Antar_Yahia	dbpprop:hasPhotoCollection	ns37:Antar_Yahia ;
+	dbpprop:name	"Yahia, Antar" ,
+		"Antar Yahia" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Antar_Yahia.jpg?width=300> ;
+	dbpedia-owl:abstract	"Antar Yahia (Mulhouse, Francia, 21 de marzo de 1982) es un futbolista nacido franc\u00E9s de ascendencia argelina. Juega de defensa central y su actual equipo es el Esp\u00E9rance Sportive de Tunis. Es el capit\u00E1n de la selecci\u00F3n de f\u00FAtbol de Argelia."@es ,
+		"\u0410\u043D\u0442\u0430\u0301\u0440 \u042F\u0445\u044C\u044F\u0301 (\u0444\u0440. Antar Yahia, \u0430\u0440\u0430\u0431. \u0639\u0646\u062A\u0631 \u064A\u062D\u064A\u0649\u200E\u200E; 21 \u043C\u0430\u0440\u0442\u0430 1982, \u041C\u044E\u043B\u0443\u0437) \u2014 \u0444\u0440\u0430\u043D\u043A\u043E-\u0430\u043B\u0436\u0438\u0440\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A. \u0418\u0433\u0440\u043E\u043A \u043D\u0435\u043C\u0435\u0446\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u041A\u0430\u0439\u0437\u0435\u0440\u0441\u043B\u0430\u0443\u0442\u0435\u0440\u043D\u00BB."@ru ,
+		"Antar Yahia (arabo: \uFECB\uFEE8\uFE98\uFEAE \u064A\u062D\u064A\u0649\u200E; Mulhouse, 21 marzo 1982) \u00E8 un calciatore francese naturalizzato algerino, difensore del Esp\u00E9rance Sportive de Tunis e della Nazionale algerina."@it ,
+		"Antar Yahia, n\u00E9 le 21 mars 1982 \u00E0 Mulhouse en Alsace, est un footballeur alg\u00E9rien d'origine Chaoui (Sedrata dans la wilaya de Souk-Ahras) qui jouait dans l'\u00E9quipe nationale d'Alg\u00E9rie. Actuellement il \u00E9volue au Platanias FC au poste de d\u00E9fenseur."@fr ,
+		"Anthar Yahia (ur. 21 marca 1982 w Miluzie), wzrost: 185 cm, waga: 78 kg, algierski pi\u0142karz, wyst\u0119puje na pozycji obro\u0144cy. Posiada r\u00F3wnie\u017C obywatelstwo francuskie."@pl ,
+		"Antar Yahia - em \u00E1rabe: \u0639\u0646\u062A\u0631 \u064A\u062D\u064A\u0649\u200E - (Mulhouse, 21 de mar\u00E7o de 1982) - \u00E9 um futebolista franco-argelino. Defende atualmente a equipe alem\u00E3 do VfL Bochum. Fez o gol que classificou a sua sele\u00E7\u00E3o para a Copa do Mundo de 2010 contra o Egito."@pt ,
+		"Anthar Yahia (arabisch \u200F\u0639\u0646\u062A\u0631 \u064A\u062D\u064A\u0649\u200E, DMG \u02BFAntar Ya\u1E25y\u0101, Vorname auch: Anther und Antar; * 21. M\u00E4rz 1982 in M\u00FClhausen, Frankreich) ist ein algerisch-franz\u00F6sischer Fu\u00DFballspieler."@de ,
+		"\u0639\u0646\u062A\u0631 \u064A\u062D\u064A\u0649 (21 \u0645\u0627\u0631\u0633 1982) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u062C\u0632\u0627\u0626\u0631\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627\u064B \u0628\u0627\u0644\u062A\u0631\u062C\u064A \u0627\u0644\u0631\u064A\u0627\u0636\u064A \u0627\u0644\u062A\u0648\u0646\u0633\u064A \u0641\u064A \u062F\u0648\u0631\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0627\u0644\u062A\u0648\u0646\u0633\u064A.\u0628\u062F\u0623 \u0639\u0646\u062A\u0631 \u062D\u064A\u0627\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0628\u0627\u0644\u0644\u0639\u0628 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u0633\u0628\u0627\u0642\u0627\u062A \u0644\u0644\u0634\u0628\u0627\u0628 \u0641\u064A \u0628\u0644\u0641\u0648\u0631 \u0642\u0628\u0644 \u0623\u0646 \u064A\u0646\u0636\u0645 \u0625\u0644\u0649 \u0627\u0644\u0645\u062F\u0631\u0633\u0629 \u0627\u0644\u062F\u0627\u062E\u0644\u064A\u0629 \u0644\u0646\u0627\u062F\u064A \u0633\u0648\u0634\u0648 \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0641\u064A \u0627\u0644\u0631\u0627\u0628\u0639\u0629 \u0639\u0634\u0631 \u0645\u0646 \u0639\u0645\u0631\u0647. \u0628\u062D\u0644\u0648\u0644 \u0639\u0627\u0645 2000 \u0648\u0628\u0639\u0645\u0631 \u0627\u0644\u062B\u0627\u0645\u0646\u0629 \u0639\u0634\u0631 \u0623\u0631\u0627\u062F \u0639\u0646\u062A\u0631 \u0623\u0646 \u064A\u0648\u0642\u0639 \u0639\u0642\u062F\u0627\u064B \u0627\u062D\u062A\u0631\u0627\u0641\u064A\u0627\u064B, \u0648\u0644\u0643\u0646 \u0631\u063A\u0628\u062A\u0647 \u0642\u0648\u0628\u0644\u062A \u0628\u0627\u0644\u0631\u0641\u0636 \u0645\u0646 \u0642\u0628\u0644 \u0627\u0644\u0645\u0633\u0626\u0648\u0644\u064A\u0646 \u0641\u064A \u0623\u0643\u0627\u062F\u064A\u0645\u064A\u0629 \u0633\u0648\u0634\u0648 \u0641\u064A \u0630\u0644\u0643 \u0627\u0644\u0648\u0642\u062A. \u0642\u0631\u0631 \u0639\u0646\u062A\u0631 \u062A\u0631\u0643 \u0633\u0648\u0634\u0648 \u0648\u0627\u0644\u0627\u0646\u062A\u0642\u0627\u0644 \u0625\u0644\u0649 \u0623\u0643\u0627\u062F\u064A\u0645\u064A\u0629 \u0627\u0644\u0627\u0646\u062A\u0631 \u0644\u0644\u0634\u0628\u0627\u0628. \u0648\u0628\u0639\u062F \u0623\u0646 \u0641\u0634\u0644 \u0641\u064A \u0627\u0644\u0648\u0635\u0648\u0644 \u0625\u0644\u0649 \u0627\u0644\u0641\u0631\u064A\u0642 \u0627\u0644\u0623\u0648\u0644 \u0623\u0639\u064A\u0631 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0628\u0627\u0633\u062A\u064A\u0627, \u0648\u0641\u064A 16 \u064A\u0646\u0627\u064A\u0631 2002 \u0643\u0627\u0646 \u0623\u0648\u0644 \u0638\u0647\u0648\u0631 \u0644\u0647 \u0641\u064A \u0627\u0644\u062A\u0634\u0643\u064A\u0644\u0629 \u0643\u0623\u0633\u0627\u0633\u064A. \u0648\u0628\u0639\u062F \u0641\u062A\u0631\u0629 \u0625\u0639\u0627\u0631\u0629 \u0645\u0645\u062A\u0627\u0632\u0629 \u0642\u0631\u0631 \u0627\u0644\u0646\u0627\u062F\u064A \u0627\u0644\u062A\u0648\u0642\u064A\u0639 \u0645\u0639\u0647 \u0631\u0633\u0645\u064A\u0627\u064B.\u0644\u0639\u0628 \u0639\u0646\u062A\u0631 \u0633\u0627\u0628\u0642\u0627\u064B \u0641\u064A \u0645\u0646\u062A\u062E\u0628 \u0641\u0631\u0646\u0633\u0627 \u0644\u0644\u0634\u0628\u0627\u0628 \u062A\u062D\u062A \u0633\u0646 16 \u064818 \u0633\u0646\u0629 \u0644\u0641\u062A\u0631\u0629 \u0648\u062C\u064A\u0632\u0629 \u0645\u0646 \u0627\u0644\u0632\u0645\u0646. \u0648\u0643\u0627\u0646 \u0639\u0646\u062A\u0631 \u0623\u0648\u0644 \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0627\u0633\u062A\u0641\u0627\u062F \u0645\u0646 \u0627\u0644\u062A\u0639\u062F\u064A\u0644 \u0627\u0644\u0630\u064A \u0623\u062C\u0631\u0627\u0647 \u0641\u064A\u0641\u0627 \u0641\u064A \u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u0623\u0647\u0644\u064A\u0629 \u0627\u0644\u062F\u0648\u0644\u064A\u0629 \u0641\u064A \u0639\u0627\u0645 2004, \u0627\u0644\u0642\u0627\u0646\u0648\u0646 \u0627\u0644\u062C\u062F\u064A\u062F \u0623\u062C\u0627\u0632 \u0644\u0644\u0627\u0639\u0628\u064A \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0625\u0645\u0643\u0627\u0646\u064A\u0629 \u062A\u0645\u062B\u064A\u0644 \u0645\u0646\u062A\u062E\u0628 \u0645\u0639\u064A\u0646 \u0641\u064A \u0645\u0631\u062D\u0644\u0629 \u0627\u0644\u0634\u0628\u0627\u0628 \u0648\u0627\u062E\u062A\u064A\u0627\u0631 \u0645\u0646\u062A\u062E\u0628 \u0622\u062E\u0631 \u0643\u0645\u0646\u062A\u062E\u0628 \u0623\u0648\u0644. \u0628\u0639\u062F\u0647\u0627 \u0642\u0627\u0645 \u0639\u0646\u062A\u0631 \u0628\u062A\u063A\u064A\u064A\u0631 \u0623\u0647\u0644\u064A\u062A\u0647 \u0627\u0644\u062F\u0648\u0644\u064A\u0629 \u0625\u0644\u0649 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u062C\u0632\u0627\u0626\u0631\u064A. \u062B\u0645 \u0627\u0633\u062A\u062F\u0639\u064A \u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u062C\u0632\u0627\u0626\u0631 \u062A\u062D\u062A \u0633\u0646 23 \u0639\u0627\u0645\u0627\u064B, \u0648\u0641\u064A 2 \u064A\u0646\u0627\u064A\u0631 2004 \u0633\u062C\u0644 \u0639\u0646\u062A\u0631 \u0623\u0648\u0644 \u0623\u0647\u062F\u0627\u0641\u0647 \u0645\u0639 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u062C\u0632\u0627\u0626\u0631\u064A \u0639\u0644\u0649 \u0645\u0646\u062A\u062E\u0628 \u063A\u0627\u0646\u0627 \u0636\u0645\u0646 \u0627\u0644\u062A\u0635\u0641\u064A\u0627\u062A \u0627\u0644\u0645\u0624\u0647\u0644\u0629 \u0644\u062F\u0648\u0631\u0629 \u0627\u0644\u0623\u0644\u0639\u0627\u0628 \u0627\u0644\u0627\u0648\u0644\u0645\u0628\u064A\u0629.[\u0661] \u0648\u0628\u0639\u062F \u0628\u0636\u0639\u0629 \u0623\u064A\u0627\u0645 \u0627\u0633\u062A\u062F\u0639\u064A \u0625\u0644\u0649 \u0645\u0639\u0633\u0643\u0631 \u062A\u062F\u0631\u064A\u0628\u064A \u0639\u0642\u062F \u0641\u064A \u0627\u0644\u062C\u0632\u0627\u0626\u0631 \u0636\u0645\u0646 \u0625\u0637\u0627\u0631 \u0627\u0644\u062A\u062D\u0636\u064A\u0631 \u0644\u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0641\u0631\u064A\u0642\u064A\u0629 2004.\u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0644\u0644\u062C\u0632\u0627\u0626\u0631\u064A\u064A\u0646, \u064A\u0639\u062A\u0628\u0631 \u0639\u0646\u062A\u0631 \u0628\u0637\u0644\u0627\u064B \u0648\u0637\u0646\u064A\u0627\u064B \u0628\u0633\u0628\u0628 \u062A\u0633\u062C\u064A\u0644\u0647 \u0644\u0644\u0647\u062F\u0641 \u0627\u0644\u0630\u064A \u0623\u0647\u0644 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u062C\u0632\u0627\u0626\u0631 \u0644\u0646\u0647\u0627\u0626\u064A\u0627\u062A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 2010 \u0628\u0639\u062F \u0627\u0646\u0642\u0637\u0627\u0639 \u062F\u0627\u0645 24 \u0639\u0627\u0645\u0627\u064B.\u0634\u0627\u0631\u0643 \u0639\u0646\u062A\u0631 \u0641\u064A \u0628\u0637\u0648\u0644\u062A\u064A\u0646 \u0642\u0627\u0631\u064A\u062A\u064A\u0646, \u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0641\u0631\u064A\u0642\u064A\u0629 2004 \u0648\u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0641\u0631\u064A\u0642\u064A\u0629 2010, \u0648\u0634\u0627\u0631\u0643 \u0623\u064A\u0636\u0627\u064B \u0641\u064A \u0646\u0647\u0627\u0626\u064A\u0627\u062A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 2010 \u0628\u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A\u0627.\u0631\u0635\u064A\u062F \u0639\u0646\u062A\u0631 \u062F\u0648\u0644\u064A\u0627\u064B \u0647\u0648 53 \u0645\u0628\u0627\u0631\u0627\u0629 \u062F\u0648\u0644\u064A\u0629 \u0631\u0633\u0645\u064A\u0629, \u0648\u0633\u062A\u0629 \u0623\u0647\u062F\u0627\u0641. \u062D\u0645\u0644 \u0639\u0646\u062A\u0631 \u0634\u0627\u0631\u0629 \u0627\u0644\u0643\u0627\u0628\u062A\u0646\u064A\u0629 \u0641\u064A \u0646\u0647\u0627\u0626\u064A\u0627\u062A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 2010 \u0628\u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A\u0627 \u0648\u062D\u062A\u0649 \u0627\u0639\u062A\u0632\u0627\u0644\u0647 \u0627\u0644\u0644\u0639\u0628 \u062F\u0648\u0644\u064A\u0627\u064B \u0641\u064A 1 \u0645\u0627\u064A\u0648 2012.[\u0662]"@ar ,
+		"Antar Yahia (Arabic: \u0639\u0646\u062A\u0631 \u064A\u062D\u064A\u0649\u200E, born 21 March 1982) is an Algerian professional footballer who currently plays for Platanias in the Superleague Greece.Yahia began playing football for the Racing Club de Belfort youth team before joining the Sochaux youth academy at the age of fourteen. However in 2000, at the age of eighteen Yahia wanted to sign a professional contract, but his wish was denied by the then Sochaux leaders. He decided to leave Sochaux opting to join Internazionale's youth academy, having failed to break into the senior squad line-up, he was loaned to Bastia, in which he made his senior debut on 16 January 2002. Having had a successful loan spell Bastia signed him permanently.Yahia is a former French youth international having earned caps for both the under-16 and under-18 youth teams for a brief period of time. Yahia was the first footballer to profit from the 2004 change in FIFA eligibility rules as he had played as a French youth international. After his switch of national allegiance he was called up to the Algeria Under-23 side, scoring on his debut in a 1\u20130 win against Ghana in an Olympic Games qualifier on 2 January 2004. A few days later he was called up to a training camp held in Algiers in preparation of the 2004 African Nations Cup. At international level, Yahia played for the Algeria national team prior to his retirement from international football on 1 May 2012. He is considered to be a national hero by many Algerians, as he was the scorer of the goal that put them into their first World Cup finals since 1986, at the expense of bitter rivals Egypt. He struck in the fortieth minute of the play-off by scoring a Marco van Basten-esque goal. Whilst representing Algeria, he participated in two continental tournaments 2004 Africa Cup of Nations and the 2010 Africa Cup of Nations, the latter in which Algeria finished fourth, and the 2010 World Cup in South Africa. Overall he had participated in fifty-three official games for the Algerian national team, in which he had scored six goals. He captained the Algeria national football team during the 2010 World Cup in South Africa, holding the position from June 2010 to May 2012." ,
+		"\u30A2\u30F3\u30BF\u30EB\u30FB\u30E4\u30D2\u30A2\uFF08\u30A2\u30E9\u30D3\u30A2\u8A9E: \u0639\u0646\u062A\u0631 \u064A\u062D\u064A\u0649\u200E\u3001Antar Yahia\u30011982\u5E743\u67089\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u30FB\u30AA\u30FC\uFF1D\u30E9\u30F3\u770C\u30DF\u30E5\u30EB\u30FC\u30BA\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FDF\u3002FIFA\u304C\u6539\u6B63\u3057\u305F\u56FD\u7C4D\u5909\u66F4\u30EB\u30FC\u30EB\u3067\u6700\u521D\u306B\u4EE3\u8868\u3092\u5909\u66F4\u3057\u305F\u9078\u624B\u3067\u3042\u308B\u3002\u30BB\u30C3\u30C8\u30D7\u30EC\u30FC\u304B\u3089\u6642\u6298\u5F97\u70B9\u3059\u308B\u3082\u3001\u5B88\u5099\u3067\u306E\u30B9\u30D4\u30FC\u30C9\u4E0D\u8DB3\u3067\u5EA6\u3005\u30D4\u30F3\u30C1\u3092\u62DB\u304F\u4E8B\u3082\u3042\u308B\u3002\u30BB\u30F3\u30BF\u30FC\u30D0\u30C3\u30AF\u3060\u3051\u3067\u306A\u304F\u30B5\u30A4\u30C9\u30D0\u30C3\u30AF\u3068\u3057\u3066\u3082\u30D7\u30EC\u30FC\u53EF\u80FD\u3002"@ja ,
+		"Anthar Yahia (Mulhouse, 28 maart 1982) is een Algerijns professioneel voetballer die momenteel als centraal verdediger actief is voor Platanias FC."@nl ;
+	dbpedia-owl:wikiPageID	1658421 ;
+	dbpedia-owl:wikiPageRevisionID	603138545 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Antar_Yahia	dbpprop:birthDate	"1982-03-28+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Mulhouse, France" ;
+	dbpprop:dateOfBirth	"1982-03-21+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Mulhouse, France" ;
+	dbpprop:shortDescription	"Algerian footballer" ;
+	dbpedia-owl:birthDate	"1982-03-21+02:00"^^xsd:date ,
+		"1982-03-28+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Mulhouse ;
+	dbpedia-owl:birthYear	"1982+02:00"^^xsd:gYear ;
+	dbpprop:last	"Yahia" ;
+	dbpprop:goals	6 ,
+		2 ,
+		0 ,
+		1 ;
+	dbpprop:bg	"white" ;
+	dbpprop:caps	6 ,
+		0 ,
+		12 ,
+		13 ,
+		11 ,
+		16 ,
+		30 ,
+		103 ,
+		72 ;
+	dbpprop:years	2002 ,
+		2000 ,
+		2001 ,
+		2006 ,
+		2007 ,
+		2005 ,
+		2011 ,
+		2014 ,
+		2012 ,
+		2013 ;
+	dbpprop:youthclubs	"Racing Club de Belfort" ,
+		<http://dbpedia.org/resource/FC_Sochaux-Montb%C3%A9liard> ,
+		dbpedia:Inter_Milan ;
+	dbpedia-owl:careerStation	dbpedia:Antar_Yahia__13 ,
+		dbpedia:Antar_Yahia__10 ,
+		dbpedia:Antar_Yahia__11 ,
+		dbpedia:Antar_Yahia__12 ,
+		dbpedia:Antar_Yahia__5 ,
+		dbpedia:Antar_Yahia__6 ,
+		dbpedia:Antar_Yahia__7 ,
+		dbpedia:Antar_Yahia__2 ,
+		dbpedia:Antar_Yahia__14 ,
+		dbpedia:Antar_Yahia__1 ,
+		dbpedia:Antar_Yahia__15 ,
+		dbpedia:Antar_Yahia__8 ,
+		dbpedia:Antar_Yahia__3 ,
+		dbpedia:Antar_Yahia__4 ,
+		dbpedia:Antar_Yahia__16 ,
+		dbpedia:Antar_Yahia__9 ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.8400000000000000799 .
+@prefix ns39:	<http://dbpedia.org/datatype/> .
+@prefix ns40:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Antar_Yahia	ns40:height	"184.0"^^ns39:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/Platanias_F.C.> ;
+	dbpprop:fullname	"Antar Yahia" ;
+	dbpprop:clubs	"\u2192 VfL Bochum" ,
+		1 ,
+		<http://dbpedia.org/resource/Esp%C3%A9rance_de_Tunis> ,
+		"\u2192 SC Bastia" ,
+		dbpedia:VfL_Bochum ,
+		dbpedia:Al_Nassr_FC ,
+		<http://dbpedia.org/resource/Platanias_F.C.> ,
+		dbpedia:SC_Bastia ,
+		dbpedia:OGC_Nice ,
+		dbpedia:Inter_Milan ;
+	dbpedia-owl:team	dbpedia:France_national_under-16_football_team ,
+		<http://dbpedia.org/resource/Esp%C3%A9rance_de_Tunis> ,
+		<http://dbpedia.org/resource/FC_Sochaux-Montb%C3%A9liard> ,
+		dbpedia:France_national_under-18_football_team ,
+		<http://dbpedia.org/resource/1._FC_Kaiserslautern> ,
+		dbpedia:VfL_Bochum ,
+		dbpedia:Al_Nassr_FC ,
+		<http://dbpedia.org/resource/Platanias_F.C.> ,
+		dbpedia:SC_Bastia ,
+		dbpedia:Algeria_national_under-23_football_team ,
+		dbpedia:OGC_Nice ,
+		dbpedia:Inter_Milan .
+@prefix ns41:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Antar_Yahia	dbpprop:wordnet_type	ns41:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Algeria squads" ;
+	dbpprop:pcupdate	"--01-28+02:00"^^xsd:gMonthDay ;
+	dbpprop:youthyears	2000 ,
+		1993 ,
+		1996 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.lfp.fr/joueur/index.asp?no_joueur=102572> ,
+		<http://www.lfp.fr/> ,
+		<http://vflbochum.de/webcache/spielervisi_en_1890_14.htm> ,
+		<http://vflbochum.de/> ;
+	dbpprop:fg	"green" ;
+	dbpprop:nationalcaps	2 ,
+		1 ,
+		53 ;
+	dbpprop:nationalgoals	0 ,
+		1 ,
+		6 ;
+	dbpprop:nationalteam	dbpedia:France_national_under-16_football_team ,
+		dbpedia:France_national_under-18_football_team ,
+		dbpedia:Algeria_national_football_team ,
+		dbpedia:Algeria_national_under-23_football_team ;
+	dbpprop:nationalyears	2004 ,
+		2000 ,
+		1998 ;
+	dbpprop:ntupdate	"--05-09+02:00"^^xsd:gMonthDay ;
+	dbpprop:first	"Antar" .
+ns28:عنتر_يحيى	owl:sameAs	dbpedia:Antar_Yahia .
+ns22:Antar_Yahia	owl:sameAs	dbpedia:Antar_Yahia .
+ns31:Antar_Yahia	owl:sameAs	dbpedia:Antar_Yahia .
+ns27:Anthar_Yahia	owl:sameAs	dbpedia:Antar_Yahia .
+ns25:अंतर_याहिया	owl:sameAs	dbpedia:Antar_Yahia .
+ns23:Antar_Yahia	owl:sameAs	dbpedia:Antar_Yahia .
+ns26:Anthar_Yahia	owl:sameAs	dbpedia:Antar_Yahia .
+<http://ru.dbpedia.org/resource/\u042F\u0445\u044C\u044F,_\u0410\u043D\u0442\u0430\u0440>	owl:sameAs	dbpedia:Antar_Yahia .
+ns24:Antar_Yahia	owl:sameAs	dbpedia:Antar_Yahia .
+<http://uk.dbpedia.org/resource/\u0410\u043D\u0442\u0430\u0440_\u042F\u0445\u0027\u044F>	owl:sameAs	dbpedia:Antar_Yahia .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Antar_Yahia .
+dbpedia:List_of_German_football_transfers_summer_2007	dbpprop:name	dbpedia:Antar_Yahia ;
+	dbpedia-owl:currentMember	dbpedia:Antar_Yahia .
+<http://dbpedia.org/resource/2011%E2%80%9312_VfL_Bochum_season>	dbpprop:name	dbpedia:Antar_Yahia .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_disciplinary_record>	dbpprop:latestRedPlayer	dbpedia:Antar_Yahia ;
+	dbpprop:mostRedsPlayerPlayer	dbpedia:Antar_Yahia .
+<http://dbpedia.org/resource/2000%E2%80%9301_F.C._Internazionale_Milano_season>	dbpprop:name	dbpedia:Antar_Yahia .
+<http://dbpedia.org/resource/List_of_German_football_transfers_winter_2012%E2%80%9313>	dbpprop:name	dbpedia:Antar_Yahia ;
+	dbpedia-owl:currentMember	dbpedia:Antar_Yahia .
+<http://dbpedia.org/resource/List_of_German_football_transfers_winter_2011%E2%80%9312>	dbpprop:name	dbpedia:Antar_Yahia ;
+	dbpedia-owl:currentMember	dbpedia:Antar_Yahia .
+<http://dbpedia.org/resource/Platanias_F.C.>	dbpprop:name	dbpedia:Antar_Yahia .
+<http://dbpedia.org/resource/2000%E2%80%9301_F.C._Internazionale_Milano_season__Anthar_Yahia__1>	dbpedia-owl:currentMember	dbpedia:Antar_Yahia .
+<http://dbpedia.org/resource/2011%E2%80%9312_VfL_Bochum_season__Antar_Yahia__1>	dbpedia-owl:currentMember	dbpedia:Antar_Yahia .
+dbpedia:Antar_Yahya	dbpedia-owl:wikiPageRedirects	dbpedia:Antar_Yahia .
+dbpedia:Anthar_Yahia	dbpedia-owl:wikiPageRedirects	dbpedia:Antar_Yahia .
+dbpedia:Anther_Yahia	dbpedia-owl:wikiPageRedirects	dbpedia:Antar_Yahia .
+dbpedia:Yahia	dbpedia-owl:wikiPageRedirects	dbpedia:Antar_Yahia .
+<http://dbpedia.org/resource/Platanias_F.C.__Antar_Yahia__1>	dbpedia-owl:currentMember	dbpedia:Antar_Yahia .

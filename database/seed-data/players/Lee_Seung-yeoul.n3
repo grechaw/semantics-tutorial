@@ -1,0 +1,241 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Jeonbuk_Hyundai_Motors__Lee_Seung-Yeoul__1	dbpedia-owl:currentMember	dbpedia:Lee_Seung-yeoul .
+<http://dbpedia.org/resource/2008_FC_Seoul_season__Lee_Seung-Yeoul__1>	dbpedia-owl:currentMember	dbpedia:Lee_Seung-yeoul .
+<http://dbpedia.org/resource/2009_FC_Seoul_season__Lee_Seung-Yeoul__1>	dbpedia-owl:currentMember	dbpedia:Lee_Seung-yeoul .
+<http://dbpedia.org/resource/2012_Ulsan_Hyundai_FC_season__Lee_Seung-Yeoul__1>	dbpedia-owl:currentMember	dbpedia:Lee_Seung-yeoul .
+<http://dbpedia.org/resource/2012_Ulsan_Hyundai_FC_season__Lee_Seung-Yeoul__2>	dbpedia-owl:currentMember	dbpedia:Lee_Seung-yeoul .
+dbpedia:Lee_Seung-ryul	dbpedia-owl:wikiPageRedirects	dbpedia:Lee_Seung-yeoul .
+dbpedia:Seung-Ryul_Lee	dbpedia-owl:wikiPageRedirects	dbpedia:Lee_Seung-yeoul .
+dbpedia:Seung-ryul_Lee	dbpedia-owl:wikiPageRedirects	dbpedia:Lee_Seung-yeoul .
+dbpedia:Lee_Seung-Yeoul	dbpedia-owl:wikiPageRedirects	dbpedia:Lee_Seung-yeoul .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2011_FC_Seoul_season>	dbpprop:name	dbpedia:Lee_Seung-yeoul ;
+	dbpprop:p	dbpedia:Lee_Seung-yeoul .
+<http://dbpedia.org/resource/List_of_South_Korean_football_transfers_winter_2011%E2%80%9312>	dbpprop:name	dbpedia:Lee_Seung-yeoul ;
+	dbpedia-owl:currentMember	dbpedia:Lee_Seung-yeoul .
+<http://dbpedia.org/resource/List_of_South_Korean_football_transfers_winter_2013%E2%80%9314>	dbpprop:name	dbpedia:Lee_Seung-yeoul ;
+	dbpedia-owl:currentMember	dbpedia:Lee_Seung-yeoul .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Lee_Seung-yeoul .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns4:	<http://en.wikipedia.org/wiki/> .
+ns4:Lee_Seung-yeoul	foaf:primaryTopic	dbpedia:Lee_Seung-yeoul .
+<http://dbpedia.org/resource/2010_East_Asian_Football_Championship_Final_squads>	dbpprop:name	dbpedia:Lee_Seung-yeoul .
+<http://dbpedia.org/resource/2012_FIFA_Club_World_Cup_squads>	dbpprop:name	dbpedia:Lee_Seung-yeoul ;
+	dbpedia-owl:currentMember	dbpedia:Lee_Seung-yeoul .
+<http://dbpedia.org/resource/2009_FC_Seoul_season>	dbpprop:name	dbpedia:Lee_Seung-yeoul ;
+	dbpprop:p	dbpedia:Lee_Seung-yeoul .
+<http://dbpedia.org/resource/2008_FC_Seoul_season>	dbpprop:name	dbpedia:Lee_Seung-yeoul ;
+	dbpprop:text	dbpedia:Lee_Seung-yeoul ;
+	dbpprop:p	dbpedia:Lee_Seung-yeoul .
+<http://dbpedia.org/resource/2010_FC_Seoul_season__Lee_Seung-Yeoul__1>	dbpedia-owl:currentMember	dbpedia:Lee_Seung-yeoul .
+<http://dbpedia.org/resource/2011_FC_Seoul_season__Lee_Seung-Yeoul__1>	dbpedia-owl:currentMember	dbpedia:Lee_Seung-yeoul .
+dbpedia:Jeonbuk_Hyundai_Motors	dbpprop:name	dbpedia:Lee_Seung-yeoul .
+<http://dbpedia.org/resource/2010_FC_Seoul_season>	dbpprop:name	dbpedia:Lee_Seung-yeoul ;
+	dbpprop:text	dbpedia:Lee_Seung-yeoul ;
+	dbpprop:p	dbpedia:Lee_Seung-yeoul .
+<http://dbpedia.org/resource/List_of_South_Korean_football_transfers_winter_2012%E2%80%9313>	dbpprop:name	dbpedia:Lee_Seung-yeoul ;
+	dbpedia-owl:currentMember	dbpedia:Lee_Seung-yeoul .
+<http://dbpedia.org/resource/2012_Ulsan_Hyundai_FC_season>	dbpprop:name	dbpedia:Lee_Seung-yeoul .
+<http://dbpedia.org/resource/2010_South_Korea_national_football_team_season>	dbpprop:home11player	dbpedia:Lee_Seung-yeoul .
+<http://dbpedia.org/resource/2009_FIFA_U-20_World_Cup_squads>	dbpprop:name	dbpedia:Lee_Seung-yeoul .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Lee_Seung-yeoul	rdf:type	dul:Agent .
+@prefix ns7:	<http://wikidata.dbpedia.org/resource/> .
+dbpedia:Lee_Seung-yeoul	rdf:type	ns7:Q5 ,
+		dbpedia-owl:SoccerPlayer .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbpedia:Lee_Seung-yeoul	rdf:type	owl:Thing ,
+		ns7:Q215627 ,
+		dbpedia-owl:Person ,
+		dbpedia-owl:Agent ,
+		foaf:Person ,
+		dbpedia-owl:Athlete .
+@prefix ns9:	<http://schema.org/> .
+dbpedia:Lee_Seung-yeoul	rdf:type	ns9:Person ,
+		dul:NaturalPerson .
+@prefix ns10:	<http://pl.dbpedia.org/resource/> .
+dbpedia:Lee_Seung-yeoul	owl:sameAs	ns10:Lee_Seung-ryul ,
+		ns7:Q462537 ,
+		<http://rdf.freebase.com/ns/m.04f2_zn> .
+@prefix ns11:	<http://de.dbpedia.org/resource/> .
+dbpedia:Lee_Seung-yeoul	owl:sameAs	ns11:Lee_Seung-ryul .
+@prefix ns12:	<http://wikidata.org/entity/> .
+dbpedia:Lee_Seung-yeoul	owl:sameAs	ns12:Q462537 .
+@prefix ns13:	<http://pt.dbpedia.org/resource/> .
+dbpedia:Lee_Seung-yeoul	owl:sameAs	ns13:Lee_Seung-Yeoul .
+@prefix ns14:	<http://es.dbpedia.org/resource/> .
+dbpedia:Lee_Seung-yeoul	owl:sameAs	ns14:Lee_Seung-Yeoul .
+@prefix ns15:	<http://it.dbpedia.org/resource/> .
+dbpedia:Lee_Seung-yeoul	owl:sameAs	ns15:Lee_Seung-Yeoul .
+@prefix ns16:	<http://fr.dbpedia.org/resource/> .
+dbpedia:Lee_Seung-yeoul	owl:sameAs	ns16:Lee_Seung-yeoul ,
+		dbpedia:Lee_Seung-yeoul .
+@prefix ns17:	<http://nl.dbpedia.org/resource/> .
+dbpedia:Lee_Seung-yeoul	owl:sameAs	ns17:Lee_Seung-Yeoul ,
+		<http://ko.dbpedia.org/resource/\uC774\uC2B9\uB82C_(1989\uB144)> .
+@prefix ns18:	<http://ja.dbpedia.org/resource/> .
+dbpedia:Lee_Seung-yeoul	owl:sameAs	ns18:李昇烈 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Lee_Seung-yeoul	rdfs:label	"Lee Seung-ryul"@de ,
+		"\u041B\u0438 \u0421\u044B\u043D \u0420\u0451\u043B\u044C"@ru ,
+		"Lee Seung-yeoul"@fr ,
+		"Lee Seung-Yeoul"@nl ,
+		"Lee Seung-ryul"@pl ,
+		"Lee Seung-Yeoul"@es ,
+		"\u674E\u6607\u70C8"@ja ,
+		"\u674E\u6607\u70C8"@zh ,
+		"\u0644\u064A \u0633\u064A\u0648\u0646\u063A \u0631\u064A\u0648\u0644"@ar ,
+		"Lee Seung-Yeoul"@it ,
+		"Lee Seung-yeoul" ,
+		"Lee Seung-Yeoul"@pt .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Lee_Seung-yeoul	dcterms:subject	category:FC_Seoul_players ,
+		<http://dbpedia.org/resource/Category:J._League_Division_1_players> ,
+		category:Gamba_Osaka_players ,
+		category:Expatriate_footballers_in_Japan ,
+		category:South_Korean_expatriates_in_Japan ,
+		category:People_from_Gyeonggi_Province ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:South_Korea_international_footballers ,
+		category:South_Korean_expatriate_footballers ,
+		category:Jeonbuk_Hyundai_Motors_players ,
+		category:Living_people ,
+		category:Ulsan_Hyundai_FC_players ,
+		<http://dbpedia.org/resource/Category:1989_births> ,
+		category:K_League_players ,
+		category:K_League_Classic_players ,
+		category:South_Korean_footballers ,
+		category:Seongnam_FC_players ,
+		category:Association_football_forwards .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Lee_Seung-yeoul	dc:description	"South Korean association footballer" ,
+		"South Korean association footballer" ;
+	foaf:givenName	"Seung-Ryul" ;
+	foaf:name	"(\uC774\uC2B9\uB82C)" ,
+		"Lee Seung-Yeoul" ,
+		"Seung-Ryul Lee" ,
+		"Lee, Seung-Ryul" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Lee_Seung-yeoul	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Lee_Seung-yeoul?oldid=603170197> ;
+	rdfs:comment	"\u674E \u6607\u70C8\uFF08\u30A4\u30FB\u30B9\u30F3\u30CB\u30E7\u30EB\u3001\uC774\uC2B9\uB82C\u30011989\u5E743\u67086\u65E5 - \uFF09\u306F\u3001\u5927\u97D3\u6C11\u56FD\u5BCC\u5DDD\u5E02\u51FA\u8EAB\u3001\u540C\u56FD\u4EE3\u8868\u306E\u30D7\u30ED\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002K\u30EA\u30FC\u30B0\u30FB\u57CE\u5357\u4E00\u548C\u5929\u99AC\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9\u3002"@ja ,
+		"Lee Seung-yeoul, Hangul \uC774\uC2B9\uB82C (ur. 6 marca 1989 w Bucheon) \u2013 po\u0142udniowokorea\u0144ski pi\u0142karz graj\u0105cy na pozycji napastnika. Obecnie zawodnik klubu FC Seul."@pl ,
+		"Lee Seung-Yeoul (Bucheon, 6 maart 1989) is een Zuid-Koreaans voetballer."@nl ,
+		"\u041B\u0438 \u0421\u044B\u043D \u0420\u0451\u043B\u044C (\u043A\u043E\u0440. \uC774\uC2B9\uB82C?, \u674E\u6607\u70C8?; 6 \u043C\u0430\u0440\u0442\u0430 1989, \u041F\u0443\u0447\u0445\u043E\u043D, \u041A\u0451\u043D\u0433\u0438\u0434\u043E, \u042E\u0436\u043D\u0430\u044F \u041A\u043E\u0440\u0435\u044F) \u2014 \u044E\u0436\u043D\u043E\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439 \u044F\u043F\u043E\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0413\u0430\u043C\u0431\u0430 \u041E\u0441\u0430\u043A\u0430\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u042E\u0436\u043D\u043E\u0439 \u041A\u043E\u0440\u0435\u0438."@ru ,
+		"Lee Seung-Yeoul, scritto anche Lee Seung-Ryul (hang\u016Dl \uC774\uC2B9\uB82C?</span>; Bucheon, 6 marzo 1989), \u00E8 un calciatore sudcoreano, attaccante del Seoul e della Nazionale sudcoreana."@it ,
+		"Lee Seung-Ryul (Hangul: \uC774\uC2B9\uB82C, Hanja: \u674E\u6607\u70C8; born 6 March 1989) is a South Korean football winger, who plays for Jeonbuk Hyundai Motors in K League Classic. He started playing football in Shin-gal High School. He is often known as one of the brightest prospects displaying attacking style in the national team. He was considered to be the newer generation of Korean footballers that will make up the national team squad in the future until his form started to fall." ,
+		"Lee Seoung-Yeoul (en coreano: \uC774\uC2B9\uB82C; nacido en Bucheon, Corea del Sur, el 6 de marzo de 1989) es un futbolista surcoreano que juega como extremo para el Seongnam Ilhwa Chunma de la K League Challenge."@es ,
+		"\u674E\u6607\u70C8\uFF081989\u5E743\u67086\u65E5\uFF0D\uFF09\uFF0C\u51FA\u751F\u4E8E\u97E9\u56FD\u4EAC\u757F\u9053\u5BCC\u5DDD\u5E02\uFF0C\u662F\u4E00\u4F4D\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u73B0\u6548\u529B\u4E8EK\u8054\u8D5B\u7403\u961FFC\u9996\u5C14\uFF0C\u4ED6\u662F\u97E9\u56FD\u56FD\u5BB6\u961F\u7684\u6210\u5458\u3002"@zh ,
+		"Lee Seung-ryul (* 6. M\u00E4rz 1989 in Bucheon, S\u00FCdkorea) ist ein s\u00FCdkoreanischer Fu\u00DFballspieler, der auf der Position St\u00FCrmer spielt."@de ,
+		"Lee Seung-Yeoul (Hangul: \uC774\uC2B9\uB82C, Hanja: \u674E\u6607\u70C8), n\u00E9 le 6 mars 1989 \u00E0 Bucheon, est un footballeur international sud-cor\u00E9en de 182 cm pour 71 kg, \u00E9voluant aussi bien au poste d'attaquant que celui d'ailier gauche."@fr ,
+		"Lee Seung-Yeoul (Bucheon, 6 de mar\u00E7o de 1989) \u00E9 um futebolista profissional sul-coreano, atualmente joga Gamba Osaka."@pt ,
+		"\u0644\u064A \u0633\u064A\u0648\u0646\u063A \u0631\u064A\u0648\u0644 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Lee Seung-Ryul) (\u0645\u0648\u0627\u0644\u064A\u062F 6 \u0645\u0627\u0631\u0633 1989 \u0641\u064A \u0628\u0648\u062A\u0634\u064A\u0648\u0646) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0648\u0631\u064A \u062C\u0646\u0648\u0628\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0641\u064A \u0646\u0627\u062F\u064A \u0633\u064A\u0624\u0648\u0644 \u0627\u0644\u0643\u0648\u0631\u064A \u0627\u0644\u062C\u0646\u0648\u0628\u064A ."@ar ;
+	foaf:surname	"Lee" ;
+	foaf:isPrimaryTopicOf	ns4:Lee_Seung-yeoul ;
+	dbpprop:name	"(\uC774\uC2B9\uB82C)" ,
+		"Lee Seung-Yeoul" ,
+		"Lee, Seung-Ryul" ;
+	dbpedia-owl:abstract	"\u674E\u6607\u70C8\uFF081989\u5E743\u67086\u65E5\uFF0D\uFF09\uFF0C\u51FA\u751F\u4E8E\u97E9\u56FD\u4EAC\u757F\u9053\u5BCC\u5DDD\u5E02\uFF0C\u662F\u4E00\u4F4D\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u73B0\u6548\u529B\u4E8EK\u8054\u8D5B\u7403\u961FFC\u9996\u5C14\uFF0C\u4ED6\u662F\u97E9\u56FD\u56FD\u5BB6\u961F\u7684\u6210\u5458\u3002"@zh ,
+		"Lee Seung-Yeoul (Bucheon, 6 de mar\u00E7o de 1989) \u00E9 um futebolista profissional sul-coreano, atualmente joga Gamba Osaka."@pt ,
+		"Lee Seung-yeoul, Hangul \uC774\uC2B9\uB82C (ur. 6 marca 1989 w Bucheon) \u2013 po\u0142udniowokorea\u0144ski pi\u0142karz graj\u0105cy na pozycji napastnika. Obecnie zawodnik klubu FC Seul."@pl ,
+		"Lee Seung-Yeoul, scritto anche Lee Seung-Ryul (hang\u016Dl \uC774\uC2B9\uB82C?</span>; Bucheon, 6 marzo 1989), \u00E8 un calciatore sudcoreano, attaccante del Seoul e della Nazionale sudcoreana."@it ,
+		"Lee Seung-Yeoul (Hangul: \uC774\uC2B9\uB82C, Hanja: \u674E\u6607\u70C8), n\u00E9 le 6 mars 1989 \u00E0 Bucheon, est un footballeur international sud-cor\u00E9en de 182 cm pour 71 kg, \u00E9voluant aussi bien au poste d'attaquant que celui d'ailier gauche."@fr ,
+		"Lee Seung-ryul (* 6. M\u00E4rz 1989 in Bucheon, S\u00FCdkorea) ist ein s\u00FCdkoreanischer Fu\u00DFballspieler, der auf der Position St\u00FCrmer spielt."@de ,
+		"Lee Seoung-Yeoul (en coreano: \uC774\uC2B9\uB82C; nacido en Bucheon, Corea del Sur, el 6 de marzo de 1989) es un futbolista surcoreano que juega como extremo para el Seongnam Ilhwa Chunma de la K League Challenge."@es ,
+		"\u674E \u6607\u70C8\uFF08\u30A4\u30FB\u30B9\u30F3\u30CB\u30E7\u30EB\u3001\uC774\uC2B9\uB82C\u30011989\u5E743\u67086\u65E5 - \uFF09\u306F\u3001\u5927\u97D3\u6C11\u56FD\u5BCC\u5DDD\u5E02\u51FA\u8EAB\u3001\u540C\u56FD\u4EE3\u8868\u306E\u30D7\u30ED\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002K\u30EA\u30FC\u30B0\u30FB\u57CE\u5357\u4E00\u548C\u5929\u99AC\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9\u3002"@ja ,
+		"\u041B\u0438 \u0421\u044B\u043D \u0420\u0451\u043B\u044C (\u043A\u043E\u0440. \uC774\uC2B9\uB82C?, \u674E\u6607\u70C8?; 6 \u043C\u0430\u0440\u0442\u0430 1989, \u041F\u0443\u0447\u0445\u043E\u043D, \u041A\u0451\u043D\u0433\u0438\u0434\u043E, \u042E\u0436\u043D\u0430\u044F \u041A\u043E\u0440\u0435\u044F) \u2014 \u044E\u0436\u043D\u043E\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439 \u044F\u043F\u043E\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0413\u0430\u043C\u0431\u0430 \u041E\u0441\u0430\u043A\u0430\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u042E\u0436\u043D\u043E\u0439 \u041A\u043E\u0440\u0435\u0438."@ru ,
+		"Lee Seung-Yeoul (Bucheon, 6 maart 1989) is een Zuid-Koreaans voetballer."@nl ,
+		"\u0644\u064A \u0633\u064A\u0648\u0646\u063A \u0631\u064A\u0648\u0644 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Lee Seung-Ryul) (\u0645\u0648\u0627\u0644\u064A\u062F 6 \u0645\u0627\u0631\u0633 1989 \u0641\u064A \u0628\u0648\u062A\u0634\u064A\u0648\u0646) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0648\u0631\u064A \u062C\u0646\u0648\u0628\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0641\u064A \u0646\u0627\u062F\u064A \u0633\u064A\u0624\u0648\u0644 \u0627\u0644\u0643\u0648\u0631\u064A \u0627\u0644\u062C\u0646\u0648\u0628\u064A ."@ar ,
+		"Lee Seung-Ryul (Hangul: \uC774\uC2B9\uB82C, Hanja: \u674E\u6607\u70C8; born 6 March 1989) is a South Korean football winger, who plays for Jeonbuk Hyundai Motors in K League Classic. He started playing football in Shin-gal High School. He is often known as one of the brightest prospects displaying attacking style in the national team. He was considered to be the newer generation of Korean footballers that will make up the national team squad in the future until his form started to fall." ;
+	dbpedia-owl:wikiPageID	18364345 ;
+	dbpedia-owl:wikiPageRevisionID	603170197 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Lee_Seung-yeoul	dbpprop:birthDate	"1989-03-06+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Bucheon, Gyeonggi, South Korea" ;
+	dbpprop:dateOfBirth	"1989-03-06+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Bucheon, Gyeonggi, South Korea" ;
+	dbpprop:shortDescription	"South Korean association footballer" ;
+	dbpedia-owl:birthDate	"1989-03-06+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Gyeonggi_Province ,
+		dbpedia:Bucheon ,
+		dbpedia:South_Korea_national_football_team ;
+	dbpedia-owl:birthYear	"1989+02:00"^^xsd:gYear ;
+	dbpprop:after	"Kim Young-Hoo" ;
+	dbpprop:before	"Ha Tae-Goon" ;
+	dbpprop:goals	16 ,
+		2 ,
+		3 ,
+		0 ;
+	dbpprop:caps	23 ,
+		0 ,
+		8 ,
+		14 ,
+		82 ;
+	dbpprop:years	2014 ,
+		2012 ,
+		2013 ,
+		2008 ;
+	dbpprop:youthclubs	"Shingal High School" ;
+	dbpedia-owl:careerStation	dbpedia:Lee_Seung-yeoul__2 ,
+		dbpedia:Lee_Seung-yeoul__1 ,
+		dbpedia:Lee_Seung-yeoul__7 ,
+		dbpedia:Lee_Seung-yeoul__9 ,
+		dbpedia:Lee_Seung-yeoul__8 ,
+		dbpedia:Lee_Seung-yeoul__3 ,
+		dbpedia:Lee_Seung-yeoul__5 ,
+		dbpedia:Lee_Seung-yeoul__6 ,
+		dbpedia:Lee_Seung-yeoul__4 ;
+	dbpprop:position	<http://dbpedia.org/resource/Forward_(association_football)> ,
+		dbpedia:Midfielder ;
+	dbpedia-owl:position	dbpedia:Midfielder ,
+		<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:height	1.8200000000000000622 .
+@prefix ns25:	<http://dbpedia.org/datatype/> .
+@prefix ns26:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Lee_Seung-yeoul	ns26:height	"182.0"^^ns25:centimetre ;
+	dbpprop:currentclub	dbpedia:Jeonbuk_Hyundai_Motors ;
+	dbpprop:clubnumber	14 ;
+	dbpprop:fullname	"Lee Seung-Yeoul" ;
+	dbpprop:clubs	"\u2192 Ulsan Hyundai" ,
+		dbpedia:Jeonbuk_Hyundai_Motors ,
+		dbpedia:FC_Seoul ,
+		dbpedia:Gamba_Osaka ,
+		dbpedia:Seongnam_FC ;
+	dbpedia-owl:team	dbpedia:South_Korea_national_football_team ,
+		dbpedia:Jeonbuk_Hyundai_Motors ,
+		dbpedia:FC_Seoul ,
+		dbpedia:Gamba_Osaka ,
+		dbpedia:South_Korea_national_under-23_football_team ,
+		dbpedia:Ulsan_Hyundai_FC ,
+		dbpedia:Seongnam_FC ,
+		dbpedia:South_Korea_national_under-20_football_team ;
+	dbpprop:title	dbpedia:K_League_Young_Player_Award ;
+	dbpprop:pcupdate	"2014-01-06+02:00"^^xsd:date ;
+	dbpprop:youthyears	2005 ;
+	dbpprop:nationalcaps	3 ,
+		6 ,
+		10 ;
+	dbpprop:nationalgoals	0 ,
+		1 ,
+		3 ;
+	dbpprop:nationalteam	dbpedia:South_Korea_national_football_team ,
+		dbpedia:South_Korea_national_under-23_football_team ,
+		dbpedia:South_Korea_national_under-20_football_team ;
+	dbpprop:nationalyears	2009 ,
+		2010 ,
+		2007 ;
+	dbpedia-owl:number	14 ;
+	dbpedia-owl:alias	"\uC774\uC2B9\uB82C (Hangul), \u674E\u6607\u70C8 (Hanja)" ;
+	dbpprop:alternativeNames	"\uC774\uC2B9\uB82C , \u674E\u6607\u70C8" ;
+	dbpprop:ntupdate	"2011-08-15+02:00"^^xsd:date .
+dbpedia:Lee_Seung-Ryul	dbpedia-owl:wikiPageRedirects	dbpedia:Lee_Seung-yeoul .
+<http://dbpedia.org/resource/List_of_Japanese_football_transfers_winter_2012%E2%80%9313>	dbpprop:name	dbpedia:Lee_Seung-yeoul ;
+	dbpedia-owl:currentMember	dbpedia:Lee_Seung-yeoul .
+<http://dbpedia.org/resource/List_of_Japanese_football_transfers_winter_2011%E2%80%9312>	dbpprop:name	dbpedia:Lee_Seung-yeoul ;
+	dbpedia-owl:currentMember	dbpedia:Lee_Seung-yeoul .
+dbpedia:List_of_Japanese_football_transfers_summer_2012	dbpprop:name	dbpedia:Lee_Seung-yeoul ;
+	dbpedia-owl:currentMember	dbpedia:Lee_Seung-yeoul .
+dbpedia:List_of_South_Korean_football_transfers_summer_2012	dbpprop:name	dbpedia:Lee_Seung-yeoul ;
+	dbpedia-owl:currentMember	dbpedia:Lee_Seung-yeoul .

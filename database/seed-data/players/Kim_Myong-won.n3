@@ -1,0 +1,145 @@
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Kim_Myong-won .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns3:	<http://en.wikipedia.org/wiki/> .
+ns3:Kim_Myong-won	foaf:primaryTopic	dbpedia:Kim_Myong-won .
+<http://dbpedia.org/resource/2008_East_Asian_Football_Championship_Final_squads>	dbpprop:name	dbpedia:Kim_Myong-won .
+<http://dbpedia.org/resource/2008_South_Korea_national_football_team_season>	dbpprop:home15player	dbpedia:Kim_Myong-won .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:FC_Ulaanbaatar__Kim_Myong-Won__1	dbpedia-owl:currentMember	dbpedia:Kim_Myong-won .
+dbpedia:Kim_Myong-Won	dbpedia-owl:wikiPageRedirects	dbpedia:Kim_Myong-won .
+dbpedia:FC_Ulaanbaatar	dbpprop:name	dbpedia:Kim_Myong-won .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbpedia:Kim_Myong-won	rdf:type	dbpedia-owl:Agent ,
+		dbpedia-owl:Person .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Kim_Myong-won	rdf:type	dul:NaturalPerson ,
+		dbpedia-owl:Athlete .
+@prefix ns7:	<http://wikidata.dbpedia.org/resource/> .
+dbpedia:Kim_Myong-won	rdf:type	ns7:Q5 .
+@prefix ns8:	<http://schema.org/> .
+dbpedia:Kim_Myong-won	rdf:type	ns8:Person ,
+		dbpedia-owl:SoccerPlayer ,
+		dul:Agent ,
+		foaf:Person ,
+		ns7:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbpedia:Kim_Myong-won	rdf:type	owl:Thing ;
+	owl:sameAs	dbpedia:Kim_Myong-won .
+@prefix ns10:	<http://it.dbpedia.org/resource/> .
+dbpedia:Kim_Myong-won	owl:sameAs	ns10:Kim_Myong-Won .
+@prefix ns11:	<http://fr.dbpedia.org/resource/> .
+dbpedia:Kim_Myong-won	owl:sameAs	ns11:Kim_Myong-won .
+@prefix ns12:	<http://wikidata.org/entity/> .
+dbpedia:Kim_Myong-won	owl:sameAs	ns12:Q369019 ,
+		ns7:Q369019 .
+@prefix ns13:	<http://pl.dbpedia.org/resource/> .
+dbpedia:Kim_Myong-won	owl:sameAs	ns13:Kim_Myong-won .
+@prefix ns14:	<http://pt.dbpedia.org/resource/> .
+dbpedia:Kim_Myong-won	owl:sameAs	ns14:Kim_Myong-Won .
+@prefix ns15:	<http://es.dbpedia.org/resource/> .
+dbpedia:Kim_Myong-won	owl:sameAs	ns15:Kim_Myong-won .
+@prefix ns16:	<http://de.dbpedia.org/resource/> .
+dbpedia:Kim_Myong-won	owl:sameAs	ns16:Kim_Myong-won .
+@prefix ns17:	<http://ja.dbpedia.org/resource/> .
+dbpedia:Kim_Myong-won	owl:sameAs	ns17:金明元 ,
+		<http://ko.dbpedia.org/resource/\uAE40\uBA85\uC6D0_(\uCD95\uAD6C_\uC120\uC218)> ,
+		<http://rdf.freebase.com/ns/m.07m4b22> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Kim_Myong-won	rdfs:label	"\u041A\u0438\u043C \u041C\u0451\u043D \u0412\u043E\u043D"@ru ,
+		"Kim Myong-won" ,
+		"Kim Myong-Won"@pt ,
+		"Kim Myong-won"@de ,
+		"Kim Myong-Won"@it ,
+		"Kim Myong-won"@pl ,
+		"Kim Myong-won"@es ,
+		"Kim Myong-won"@fr ,
+		"\u91D1\u660E\u5143"@zh ,
+		"\u91D1\u660E\u5143"@ja .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Kim_Myong-won	dcterms:subject	category:North_Korea_international_footballers ,
+		<http://dbpedia.org/resource/Category:1983_births> ,
+		category:Association_football_goalkeepers ,
+		category:Living_people ,
+		category:Association_football_forwards ,
+		category:FC_Ulaanbaatar_players ,
+		category:North_Korean_footballers ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Kim_Myong-won	dc:description	"North Korean footballer" ,
+		"North Korean footballer" ;
+	foaf:givenName	"Myong-Won; \u91D1\u660E\u5143; \uAE40\uBA85\uC6D0; \u041A\u0438\u043C \u041C\u044C\u043E\u043D\u0433 \u0412\u043E\u043D" ;
+	foaf:name	"Kim, Myong-Won; \u91D1\u660E\u5143; \uAE40\uBA85\uC6D0; \u041A\u0438\u043C \u041C\u044C\u043E\u043D\u0433 \u0412\u043E\u043D" ,
+		"Kim Myong-Won" ,
+		"Myong-Won; \u91D1\u660E\u5143; \uAE40\uBA85\uC6D0; \u041A\u0438\u043C \u041C\u044C\u043E\u043D\u0433 \u0412\u043E\u043D Kim" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Kim_Myong-won	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Kim_Myong-won?oldid=601317915> ;
+	rdfs:comment	"\u041A\u0438\u043C \u041C\u0451\u043D \u0412\u043E\u043D (\u0440\u043E\u0434\u0438\u043B\u0441\u044F 15 \u0438\u044E\u043B\u044F 1983 \u0433\u043E\u0434) \u2014 \u0441\u0435\u0432\u0435\u0440\u043E\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439. \u0412\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u0437\u0430 \u043A\u043B\u0443\u0431 \u00AB\u0410\u043C\u043D\u043E\u043A\u043A\u0430\u043D\u00BB \u0438\u0437 \u0421\u0435\u0432\u0435\u0440\u043E\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u043E\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u043B\u0438\u0433\u0438.\u041F\u0440\u043E\u0432\u0451\u043B 9 \u043C\u0430\u0442\u0447\u0435\u0439 \u0437\u0430 \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u0421\u0435\u0432\u0435\u0440\u043D\u043E\u0439 \u041A\u043E\u0440\u0435\u0438 \u0438 \u0431\u044B\u043B \u0432\u043A\u043B\u044E\u0447\u0451\u043D \u0432 \u0437\u0430\u044F\u0432\u043A\u0443 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u043D\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043C\u0438\u0440\u0430 2010 \u0433\u043E\u0434\u0430. \u041E\u043D \u0441\u044B\u0433\u0440\u0430\u043B 3 \u043C\u0430\u0442\u0447\u0430 \u0432 \u043E\u0442\u0431\u043E\u0440\u043E\u0447\u043D\u043E\u043C \u0442\u0443\u0440\u043D\u0438\u0440\u0435 \u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0443 \u043C\u0438\u0440\u0430 \u043D\u0430 \u043F\u043E\u0437\u0438\u0446\u0438\u0438 \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0435\u0433\u043E. \u041E\u0434\u043D\u0430\u043A\u043E \u043E\u043D \u0431\u044B\u043B \u0432\u043A\u043B\u044E\u0447\u0451\u043D \u0432 \u0437\u0430\u044F\u0432\u043A\u0443 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0432 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u043E\u0434\u043D\u043E\u0433\u043E \u0438\u0437 \u0442\u0440\u0451\u0445 \u0432\u0440\u0430\u0442\u0430\u0440\u0435\u0439."@ru ,
+		"Kim Myong-Won (Pyongyang, 15 de julho de 1983), \u00E9 um futebolista Norte-Coreano que atua como atacante. Atualmente, joga pelo Ulaanbaatar. Disputou a Copa do Mundo de 2010 representado seu pa\u00EDs.== Refer\u00EAncias =="@pt ,
+		"Kim Myong-won (ur. 15 lipca 1983) \u2013 p\u00F3\u0142nocnokorea\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji napastnika w klubie Amrokgang."@pl ,
+		"Kim Myong-Won (hang\u016Dl \uAE40\uBA85\uC6D0?</span>; Pyongyang, 15 luglio 1983) \u00E8 un calciatore nordcoreano, attaccante dell'Amrokgang e della Nazionale nordcoreana.Anche se attaccante di ruolo, viene inserito nella rosa della Nazionale nordcoreana per la Coppa del Mondo 2010 come terzo portiere, essendo obbligatorio per regolamento indicare tre portieri a disposizione."@it ,
+		"Kim Myong-won (* 15. Juli 1983 in Pj\u00F6ngjang) ist ein nordkoreanischer Fu\u00DFballspieler."@de ,
+		"Kim Myong-Won (Hanja: \u91D1\u660E\u5143,Korean: \uAE40\uBA85\uC6D0: born 15 July 1983) is a North Korean international footballer, who plays as a striker for FC Ulaanbaatar in the Mongolia Premier League. Known for his blazing speed, he's known in North Korea as The Chariot." ,
+		"\u91D1 \u660E\u5143\uFF08\u30AD\u30E0\u30FB\u30DF\u30E7\u30F3\u30A6\u30A9\u30F3\u3001Myong-Won KIM\u30011983\u5E747\u670815\u65E5 - \uFF09\u306F\u3001\u671D\u9BAE\u6C11\u4E3B\u4E3B\u7FA9\u4EBA\u6C11\u5171\u548C\u56FD\u30FB\u5E73\u58CC\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FFW\u3002"@ja ,
+		"\u91D1\u660E\u5143\uFF08\u671D\u9C9C\u8BED: \uAE40\uBA85\uC6D0\uFF1B\u8499\u53E4\u8BED: \u041A\u0438\u043C \u041C\u044C\u043E\u043D\u0433 \u0412\u043E\u043D\uFF1B\u82F1\u8BED: Kim Myong-Won\uFF1B1983\u5E747\u670815\u65E5\uFF0D\uFF09\uFF0C\u671D\u9BAE\u8077\u4E1A\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u66FE\u7D93\u6548\u529B\u65BC\u671D\u9BAE\u8DB3\u7403\u806F\u8CFD\u7403\u6703\u9D28\u7DA0\u6C5F\u9AD4\u80B2\u5718\uFF0C\u73FE\u5728\u6548\u529B\u65BC\u8499\u53E4\u8DB3\u7403\u8D85\u7D1A\u806F\u8CFD\u7403\u6703FC\u70CF\u862D\u5DF4\u6258\uFF0C\u4ED6\u540C\u65F6\u4E5F\u662F\u671D\u9BAE\u56FD\u5BB6\u8DB3\u7403\u968A\u53CA\u671D\u9BAE\u570B\u5BB6\u5967\u904B\u8DB3\u7403\u968A\u6210\u54E1\u3002\u4ED6\u662F\u672C\u6765\u662F\u4E00\u540D\u524D\u950B\uFF0C\u4F46\u662F2010\u5E74\u5357\u975E\u4E16\u754C\u676F\u65F6\u671D\u9C9C\u961F\u6559\u7EC3\u4E3A\u4E86\u63D0\u9AD8\u653B\u51FB\u529B\uFF0C\u5728\u62A5\u540D\u65F6\u628A\u91D1\u660E\u5143\u5217\u4E3A\u540D\u5355\u4E2D\u4E09\u4F4D\u5B88\u9580\u54E1\u4E4B\u4E00\u3002"@zh ,
+		"Kim Myong-won (cor\u00E9en : \uAE40\uBA85\uC6D0), n\u00E9 le 15 juillet 1983 \u00E0 Pyongyang, est un footballeur international nord-cor\u00E9en. Il \u00E9volue de 2002 \u00E0 2011 au Amrokgang SG dans le championnat national nord-cor\u00E9en au poste d'attaquant."@fr ;
+	foaf:surname	"Kim" ;
+	foaf:isPrimaryTopicOf	ns3:Kim_Myong-won ;
+	dbpprop:name	"Kim, Myong-Won; \u91D1\u660E\u5143; \uAE40\uBA85\uC6D0; \u041A\u0438\u043C \u041C\u044C\u043E\u043D\u0433 \u0412\u043E\u043D" ,
+		"Kim Myong-Won" ;
+	dbpedia-owl:abstract	"\u91D1\u660E\u5143\uFF08\u671D\u9C9C\u8BED: \uAE40\uBA85\uC6D0\uFF1B\u8499\u53E4\u8BED: \u041A\u0438\u043C \u041C\u044C\u043E\u043D\u0433 \u0412\u043E\u043D\uFF1B\u82F1\u8BED: Kim Myong-Won\uFF1B1983\u5E747\u670815\u65E5\uFF0D\uFF09\uFF0C\u671D\u9BAE\u8077\u4E1A\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u66FE\u7D93\u6548\u529B\u65BC\u671D\u9BAE\u8DB3\u7403\u806F\u8CFD\u7403\u6703\u9D28\u7DA0\u6C5F\u9AD4\u80B2\u5718\uFF0C\u73FE\u5728\u6548\u529B\u65BC\u8499\u53E4\u8DB3\u7403\u8D85\u7D1A\u806F\u8CFD\u7403\u6703FC\u70CF\u862D\u5DF4\u6258\uFF0C\u4ED6\u540C\u65F6\u4E5F\u662F\u671D\u9BAE\u56FD\u5BB6\u8DB3\u7403\u968A\u53CA\u671D\u9BAE\u570B\u5BB6\u5967\u904B\u8DB3\u7403\u968A\u6210\u54E1\u3002\u4ED6\u662F\u672C\u6765\u662F\u4E00\u540D\u524D\u950B\uFF0C\u4F46\u662F2010\u5E74\u5357\u975E\u4E16\u754C\u676F\u65F6\u671D\u9C9C\u961F\u6559\u7EC3\u4E3A\u4E86\u63D0\u9AD8\u653B\u51FB\u529B\uFF0C\u5728\u62A5\u540D\u65F6\u628A\u91D1\u660E\u5143\u5217\u4E3A\u540D\u5355\u4E2D\u4E09\u4F4D\u5B88\u9580\u54E1\u4E4B\u4E00\u3002"@zh ,
+		"Kim Myong-Won (Hanja: \u91D1\u660E\u5143,Korean: \uAE40\uBA85\uC6D0: born 15 July 1983) is a North Korean international footballer, who plays as a striker for FC Ulaanbaatar in the Mongolia Premier League. Known for his blazing speed, he's known in North Korea as The Chariot." ,
+		"Kim Myong-won (cor\u00E9en : \uAE40\uBA85\uC6D0), n\u00E9 le 15 juillet 1983 \u00E0 Pyongyang, est un footballeur international nord-cor\u00E9en. Il \u00E9volue de 2002 \u00E0 2011 au Amrokgang SG dans le championnat national nord-cor\u00E9en au poste d'attaquant."@fr ,
+		"Kim Myong-Won (Pyongyang, 15 de julho de 1983), \u00E9 um futebolista Norte-Coreano que atua como atacante. Atualmente, joga pelo Ulaanbaatar. Disputou a Copa do Mundo de 2010 representado seu pa\u00EDs.== Refer\u00EAncias =="@pt ,
+		"Kim Myong-won (* 15. Juli 1983 in Pj\u00F6ngjang) ist ein nordkoreanischer Fu\u00DFballspieler."@de ,
+		"Kim Myong-won (ur. 15 lipca 1983) \u2013 p\u00F3\u0142nocnokorea\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji napastnika w klubie Amrokgang."@pl ,
+		"Kim Myong-Won (hang\u016Dl \uAE40\uBA85\uC6D0?</span>; Pyongyang, 15 luglio 1983) \u00E8 un calciatore nordcoreano, attaccante dell'Amrokgang e della Nazionale nordcoreana.Anche se attaccante di ruolo, viene inserito nella rosa della Nazionale nordcoreana per la Coppa del Mondo 2010 come terzo portiere, essendo obbligatorio per regolamento indicare tre portieri a disposizione. Il 3 giugno 2010, un comunicato della FIFA chiarisce che il giocatore non potr\u00E0 essere schierato come giocatore di movimento, essendo stato iscritto alla competizione come portiere."@it ,
+		"\u91D1 \u660E\u5143\uFF08\u30AD\u30E0\u30FB\u30DF\u30E7\u30F3\u30A6\u30A9\u30F3\u3001Myong-Won KIM\u30011983\u5E747\u670815\u65E5 - \uFF09\u306F\u3001\u671D\u9BAE\u6C11\u4E3B\u4E3B\u7FA9\u4EBA\u6C11\u5171\u548C\u56FD\u30FB\u5E73\u58CC\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FFW\u3002"@ja ,
+		"\u041A\u0438\u043C \u041C\u0451\u043D \u0412\u043E\u043D (\u0440\u043E\u0434\u0438\u043B\u0441\u044F 15 \u0438\u044E\u043B\u044F 1983 \u0433\u043E\u0434) \u2014 \u0441\u0435\u0432\u0435\u0440\u043E\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439. \u0412\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u0437\u0430 \u043A\u043B\u0443\u0431 \u00AB\u0410\u043C\u043D\u043E\u043A\u043A\u0430\u043D\u00BB \u0438\u0437 \u0421\u0435\u0432\u0435\u0440\u043E\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u043E\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u043B\u0438\u0433\u0438.\u041F\u0440\u043E\u0432\u0451\u043B 9 \u043C\u0430\u0442\u0447\u0435\u0439 \u0437\u0430 \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u0421\u0435\u0432\u0435\u0440\u043D\u043E\u0439 \u041A\u043E\u0440\u0435\u0438 \u0438 \u0431\u044B\u043B \u0432\u043A\u043B\u044E\u0447\u0451\u043D \u0432 \u0437\u0430\u044F\u0432\u043A\u0443 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u043D\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043C\u0438\u0440\u0430 2010 \u0433\u043E\u0434\u0430. \u041E\u043D \u0441\u044B\u0433\u0440\u0430\u043B 3 \u043C\u0430\u0442\u0447\u0430 \u0432 \u043E\u0442\u0431\u043E\u0440\u043E\u0447\u043D\u043E\u043C \u0442\u0443\u0440\u043D\u0438\u0440\u0435 \u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0443 \u043C\u0438\u0440\u0430 \u043D\u0430 \u043F\u043E\u0437\u0438\u0446\u0438\u0438 \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0435\u0433\u043E. \u041E\u0434\u043D\u0430\u043A\u043E \u043E\u043D \u0431\u044B\u043B \u0432\u043A\u043B\u044E\u0447\u0451\u043D \u0432 \u0437\u0430\u044F\u0432\u043A\u0443 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0432 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u043E\u0434\u043D\u043E\u0433\u043E \u0438\u0437 \u0442\u0440\u0451\u0445 \u0432\u0440\u0430\u0442\u0430\u0440\u0435\u0439. \u0413\u043B\u0430\u0432\u043D\u044B\u0439 \u0442\u0440\u0435\u043D\u0435\u0440 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u041D\u0414\u0420 \u041A\u0438\u043C \u0427\u043E\u043D \u0425\u043E\u043D \u043F\u043E\u0448\u0451\u043B \u043D\u0430 \u044D\u0442\u043E\u0442 \u0448\u0430\u0433 \u0434\u043B\u044F \u0443\u0441\u0438\u043B\u0435\u043D\u0438\u044F \u0430\u0442\u0430\u043A\u0443\u044E\u0449\u0438\u0445 \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u043E\u0441\u0442\u0435\u0439 \u0441\u0432\u043E\u0435\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u044B. \u041E\u0434\u043D\u0430\u043A\u043E \u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0435 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043B\u0438 \u0424\u0418\u0424\u0410 \u0432\u044B\u0441\u0442\u0443\u043F\u0438\u043B\u0438 \u0441 \u0437\u0430\u044F\u0432\u043B\u0435\u043D\u0438\u0435\u043C, \u0447\u0442\u043E \u041A\u0438\u043C \u0441\u043C\u043E\u0436\u0435\u0442 \u0441\u044B\u0433\u0440\u0430\u0442\u044C \u043D\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u043C\u0438\u0440\u0430 \u043B\u0438\u0448\u044C \u043D\u0430 \u043F\u043E\u0437\u0438\u0446\u0438\u0438 \u0432\u0440\u0430\u0442\u0430\u0440\u044F, \u0442\u0430\u043A \u043A\u0430\u043A \u0431\u044B\u043B \u0437\u0430\u044F\u0432\u043B\u0435\u043D \u043D\u0430 \u044D\u0442\u043E\u0439 \u043F\u043E\u0437\u0438\u0446\u0438\u0438, \u0438 \u043D\u0435 \u0441\u043C\u043E\u0436\u0435\u0442 \u0432\u044B\u0439\u0442\u0438 \u043D\u0430 \u043F\u043E\u043B\u0435 \u0432 \u043A\u0430\u0447\u0435\u0441\u0442\u0432\u0435 \u043F\u043E\u043B\u0435\u0432\u043E\u0433\u043E \u0438\u0433\u0440\u043E\u043A\u0430."@ru ;
+	dbpedia-owl:wikiPageID	27511272 ;
+	dbpedia-owl:wikiPageRevisionID	601317915 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Kim_Myong-won	dbpprop:birthDate	"1983-07-15+02:00"^^xsd:date ;
+	dbpprop:birthPlace	dbpedia:Pyongyang ,
+		dbpedia:North_Korea ;
+	dbpprop:dateOfBirth	"1983-07-15+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	dbpedia:Pyongyang ,
+		dbpedia:North_Korea ;
+	dbpprop:shortDescription	"North Korean footballer" ;
+	dbpedia-owl:birthDate	"1983-07-15+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Pyongyang ,
+		dbpedia:North_Korea ;
+	dbpedia-owl:birthYear	"1983+02:00"^^xsd:gYear ;
+	dbpprop:goals	98 ,
+		0 ;
+	dbpprop:id	54758 ;
+	dbpprop:caps	3 ,
+		112 ;
+	dbpprop:years	2011 ,
+		2003 ;
+	dbpedia-owl:careerStation	dbpedia:Kim_Myong-won__3 ,
+		dbpedia:Kim_Myong-won__1 ,
+		dbpedia:Kim_Myong-won__2 ;
+	dbpprop:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:height	1.8000000000000000444 .
+@prefix ns24:	<http://dbpedia.org/datatype/> .
+@prefix ns25:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Kim_Myong-won	ns25:height	"180.0"^^ns24:centimetre ;
+	dbpprop:currentclub	dbpedia:FC_Ulaanbaatar ;
+	dbpprop:clubnumber	7 ;
+	dbpprop:fullname	"Kim Myong-Won" ;
+	dbpprop:clubs	dbpedia:FC_Ulaanbaatar ,
+		dbpedia:Amnokkang_Sports_Club ;
+	dbpedia-owl:team	dbpedia:North_Korea_national_football_team ,
+		dbpedia:FC_Ulaanbaatar ,
+		dbpedia:Amnokkang_Sports_Club ;
+	dbpprop:clubUpdate	"2012-05-05+02:00"^^xsd:date ;
+	dbpprop:nationalteamUpdate	"2012-05-05+02:00"^^xsd:date ;
+	dbpprop:nationalcaps	9 ;
+	dbpprop:nationalgoals	1 ;
+	dbpprop:nationalteam	dbpedia:North_Korea_national_football_team ;
+	dbpprop:nationalyears	2003 ;
+	dbpedia-owl:number	7 .

@@ -1,0 +1,829 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xml:base="http://www.daml.org/2001/12/factbook/ez">
+  <rdf:Description rdf:about='#A33231'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#other'/>
+    <NS0:percent>13.4</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33157'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33226'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Orthodox'/>
+    <NS0:percent>3</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33415'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#services'/>
+    <NS0:percent>55</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33498'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33221'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Protestant'/>
+    <NS0:percent>4.6</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33410'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#industry'/>
+    <NS0:percent>40</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33216'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Roman_Catholic'/>
+    <NS0:percent>39.2</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33405'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#agriculture'/>
+    <NS0:percent>5</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33160'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33211'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#atheist'/>
+    <NS0:percent>39.8</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122404'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#FR'/>
+    <NS0:percent>5.4</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33588'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:maxRunway>913</NS0:maxRunway>
+    <NS0:count>42 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33205'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#other'/>
+    <NS0:percent>0.5</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33604'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33598'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122399'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#IT'/>
+    <NS0:percent>5.9</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33601'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33200'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Hungarian'/>
+    <NS0:percent>0.2</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33581'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>914</NS0:minRunway>
+    <NS0:maxRunway>1523</NS0:maxRunway>
+    <NS0:count>28</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122394'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#AU'/>
+    <NS0:percent>6.2</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33195'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Roma'/>
+    <NS0:percent>0.3</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33434'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122389'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#LO'/>
+    <NS0:percent>6.7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33574'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>1524</NS0:minRunway>
+    <NS0:maxRunway>2437</NS0:maxRunway>
+    <NS0:count>1</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33190'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Silesian'/>
+    <NS0:percent>0.4</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33419'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122384'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#GM'/>
+    <NS0:percent>37.5</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33060'>
+    <NS0:note>landlocked</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33568'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:maxRunway>913</NS0:maxRunway>
+    <NS0:count>16 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33185'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#German'/>
+    <NS0:percent>0.5</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122378'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#FR'/>
+    <NS0:percent>4</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33241'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33122'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33180'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Polish'/>
+    <NS0:percent>0.6</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33561'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>914</NS0:minRunway>
+    <NS0:maxRunway>1523</NS0:maxRunway>
+    <NS0:count>1</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122373'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#PL'/>
+    <NS0:percent>5.6</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33386'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33175'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Slovak'/>
+    <NS0:percent>3.1</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33554'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>1524</NS0:minRunway>
+    <NS0:maxRunway>2437</NS0:maxRunway>
+    <NS0:count>14</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122368'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#AU'/>
+    <NS0:percent>6.6</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33113'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>July 2001</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33170'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Moravian'/>
+    <NS0:percent>13.2</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#Region'>
+    <rdf:type rdf:resource='http://www.w3.org/2000/01/rdf-schema#Class'/>
+    <rdfs:subClassOf rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AdministrativeDivision'/>
+    <rdfs:label>Region</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33500'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33609'>
+    <NS0:note>FY01</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33125'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33443'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122363'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#LO'/>
+    <NS0:percent>8.4</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33165'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Czech'/>
+    <NS0:percent>81.2</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33547'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>2438</NS0:minRunway>
+    <NS0:maxRunway>3047</NS0:maxRunway>
+    <NS0:count>10</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33475'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122358'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#GM'/>
+    <NS0:percent>43</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33541'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>3048</NS0:minRunway>
+    <NS0:count>2</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33432'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122353'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#LO'/>
+    <NS0:distance>215</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33477'>
+    <NS0:note>f.o.b., 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33534'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Usti nad Labem</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122348'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#PL'/>
+    <NS0:distance>658</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33151'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:ratio>0.95</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33530'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Prague</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122343'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#GM'/>
+    <NS0:distance>646</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33146'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>65</NS0:minAge>
+    <NS0:ratio>0.63</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33526'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Decin</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33399'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122338'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#AU'/>
+    <NS0:distance>362</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33140'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>15</NS0:minAge>
+    <NS0:maxAge>64</NS0:maxAge>
+    <NS0:ratio>1</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33134'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>14</NS0:maxAge>
+    <NS0:ratio>1.05</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122408'>
+    <NS0:note>1999</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122382'>
+    <NS0:note>1999</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33128'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>0</NS0:maxAge>
+    <NS0:ratio>1.06</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33507'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33209'>
+    <NS0:year>1991</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33402'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33311'>
+    <rdf:type rdf:resource='#Region'/>
+    <NS0:name>Zlinsky</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33307'>
+    <rdf:type rdf:resource='#Region'/>
+    <NS0:name>Ustecky</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33116'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33445'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33494'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#raw_materials_and_fuels'/>
+    <NS0:percent>10</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33119'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33303'>
+    <rdf:type rdf:resource='#Region'/>
+    <NS0:name>Stredocesky</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33154'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33299'>
+    <rdf:type rdf:resource='#CapitalCity'/>
+    <NS0:name>Praha</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33489'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#chemicals'/>
+    <NS0:percent>12</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#CapitalCity'>
+    <rdf:type rdf:resource='http://www.w3.org/2000/01/rdf-schema#Class'/>
+    <rdfs:subClassOf rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AdministrativeDivision'/>
+    <rdfs:label>CapitalCity</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33295'>
+    <rdf:type rdf:resource='#Region'/>
+    <NS0:name>Plzensky</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33484'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#other_manufactured_goods'/>
+    <NS0:percent>33</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33291'>
+    <rdf:type rdf:resource='#Region'/>
+    <NS0:name>Pardubicky</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33479'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#machinery_and_transport_equipment'/>
+    <NS0:percent>42</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33287'>
+    <rdf:type rdf:resource='#Region'/>
+    <NS0:name>Ostravsky</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33521'>
+    <NS0:note>including 499 km of expressways</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33283'>
+    <rdf:type rdf:resource='#Region'/>
+    <NS0:name>Olomoucky</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33471'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#raw_materials_and_fuel'/>
+    <NS0:percent>7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33279'>
+    <rdf:type rdf:resource='#Region'/>
+    <NS0:name>Liberecky</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33466'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#chemicals'/>
+    <NS0:percent>7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33454'>
+    <NS0:note>f.o.b., 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33439'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33275'>
+    <rdf:type rdf:resource='#Region'/>
+    <NS0:name>Kralovehradecky</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33538'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33271'>
+    <rdf:type rdf:resource='#Region'/>
+    <NS0:name>Karlovarsky</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33461'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#other_manufactured_goods'/>
+    <NS0:percent>40</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33397'>
+    <NS0:year>1996</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33267'>
+    <rdf:type rdf:resource='#Region'/>
+    <NS0:name>Jihlavsky</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33456'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#machinery_and_transport_equipment'/>
+    <NS0:percent>44</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33394'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33594'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33263'>
+    <rdf:type rdf:resource='#Region'/>
+    <NS0:name>Budejovicky</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33084'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33523'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33069'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Snezka</NS0:name>
+    <NS0:elevation>1602</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33259'>
+    <rdf:type rdf:resource='#Region'/>
+    <NS0:name>Brnensky</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33389'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#EZ'>
+    <NS0:background>After World War II, Czechoslovakia fell within the Soviet sphere of influence. In 1968, an invasion by Warsaw Pact troops ended the efforts of the country&apos;s leaders to liberalize party rule and create &quot;socialism with a human face.&quot; Anti-Soviet demonstrations the following year ushered in a period of harsh repression. With the collapse of Soviet authority in 1989, Czechoslovakia regained its freedom through a peaceful &quot;Velvet Revolution.&quot; On 1 January 1993, the country underwent a &quot;velvet divorce&quot; into its two national components, the Czech Republic and Slovakia. Now a member of NATO, the Czech Republic has moved toward integration in world markets, a development that poses both opportunities and risks.</NS0:background>
+    <NS0:location>Central Europe, southeast of Germany</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A33049'/>
+    <NS0:mapReferences>Europe</NS0:mapReferences>
+    <NS0:totalArea>78866</NS0:totalArea>
+    <NS0:landArea>77276</NS0:landArea>
+    <NS0:waterArea>1590</NS0:waterArea>
+    <NS0:comparativeArea>slightly smaller than South Carolina</NS0:comparativeArea>
+    <NS0:landBoundaries>1881</NS0:landBoundaries>
+    <NS0:coastline rdf:ID='A33060'>0</NS0:coastline>
+    <NS0:climate>temperate; cool summers; cold, cloudy, humid winters</NS0:climate>
+    <NS0:terrain>Bohemia in the west consists of rolling plains, hills, and plateaus surrounded by low mountains; Moravia in the east consists of very hilly country</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A33064'/>
+    <NS0:highestPoint rdf:resource='#A33069'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#hard_coal'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#soft_coal'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#kaolin'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#clay'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#graphite'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#timber'/>
+    <NS0:arableLand>41</NS0:arableLand>
+    <NS0:permanentCrops>2</NS0:permanentCrops>
+    <NS0:permanentPastures>11</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>34</NS0:forestsAndWoodland>
+    <NS0:otherLandUse rdf:ID='A33084'>12</NS0:otherLandUse>
+    <NS0:irrigatedLand rdf:ID='A33087'>240</NS0:irrigatedLand>
+    <NS0:naturalHazard>flooding</NS0:naturalHazard>
+    <NS0:environmentalIssue>air and water pollution in areas of northwest Bohemia and in northern Moravia around Ostrava present health risks</NS0:environmentalIssue>
+    <NS0:environmentalIssue>acid rain damaging forests</NS0:environmentalIssue>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution-Nitrogen_Oxides'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution-Sulphur_85'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution-Sulphur_94'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution-Volatile_Organic_Compounds'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Antarctic_Treaty'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Biodiversity'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Climate_Change'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Desertification'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Endangered_Species'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Environmental_Modification'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Hazardous_Wastes'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Law_of_the_Sea'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Nuclear_Test_Ban'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Ozone_Layer_Protection'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Ship_Pollution'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Wetlands'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution-Persistent_Organic_Pollutants'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Antarctic-Environmental_Protocol'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Climate_Change-Kyoto_Protocol'/>
+    <NS0:population rdf:ID='A33113'>10264212</NS0:population>
+    <NS0:populationGrowthRate rdf:ID='A33116'>-0.07</NS0:populationGrowthRate>
+    <NS0:birthRate rdf:ID='A33119'>9.11</NS0:birthRate>
+    <NS0:deathRate rdf:ID='A33122'>10.81</NS0:deathRate>
+    <NS0:netMigrationRate rdf:ID='A33125'>0.96</NS0:netMigrationRate>
+    <NS0:sexRatio rdf:resource='#A33128'/>
+    <NS0:sexRatio rdf:resource='#A33134'/>
+    <NS0:sexRatio rdf:resource='#A33140'/>
+    <NS0:sexRatio rdf:resource='#A33146'/>
+    <NS0:sexRatio rdf:ID='A33154' rdf:resource='#A33151'/>
+    <NS0:infantMortalityRate rdf:ID='A33157'>5.55</NS0:infantMortalityRate>
+    <NS0:totalFertilityRate rdf:ID='A33160'>1.18</NS0:totalFertilityRate>
+    <NS0:nationalityNoun>Czech(s)</NS0:nationalityNoun>
+    <NS0:nationalityAdjective>Czech</NS0:nationalityAdjective>
+    <NS0:ethnicGroup rdf:resource='#A33165'/>
+    <NS0:ethnicGroup rdf:resource='#A33170'/>
+    <NS0:ethnicGroup rdf:resource='#A33175'/>
+    <NS0:ethnicGroup rdf:resource='#A33180'/>
+    <NS0:ethnicGroup rdf:resource='#A33185'/>
+    <NS0:ethnicGroup rdf:resource='#A33190'/>
+    <NS0:ethnicGroup rdf:resource='#A33195'/>
+    <NS0:ethnicGroup rdf:resource='#A33200'/>
+    <NS0:ethnicGroup rdf:ID='A33209' rdf:resource='#A33205'/>
+    <NS0:religion rdf:resource='#A33211'/>
+    <NS0:religion rdf:resource='#A33216'/>
+    <NS0:religion rdf:resource='#A33221'/>
+    <NS0:religion rdf:resource='#A33226'/>
+    <NS0:religion rdf:resource='#A33231'/>
+    <NS0:language rdf:resource='#A33236'/>
+    <NS0:literacyDefinition>NA</NS0:literacyDefinition>
+    <NS0:literacyTotal rdf:ID='A33241'>99.9</NS0:literacyTotal>
+    <NS0:conventionalLongCountryName>Czech Republic</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Czech Republic</NS0:conventionalShortCountryName>
+    <NS0:localLongCountryName>Ceska Republika</NS0:localLongCountryName>
+    <NS0:localShortCountryName>Ceska Republika</NS0:localShortCountryName>
+    <NS0:governmentType rdf:resource='http://www.daml.org/2001/12/factbook/governmentTypes#parliamentary_democracy'/>
+    <NS0:capital rdf:resource='#A33249'/>
+    <NS0:administrativeDivision rdf:resource='#A33259'/>
+    <NS0:administrativeDivision rdf:resource='#A33263'/>
+    <NS0:administrativeDivision rdf:resource='#A33267'/>
+    <NS0:administrativeDivision rdf:resource='#A33271'/>
+    <NS0:administrativeDivision rdf:resource='#A33275'/>
+    <NS0:administrativeDivision rdf:resource='#A33279'/>
+    <NS0:administrativeDivision rdf:resource='#A33283'/>
+    <NS0:administrativeDivision rdf:resource='#A33287'/>
+    <NS0:administrativeDivision rdf:resource='#A33291'/>
+    <NS0:administrativeDivision rdf:resource='#A33295'/>
+    <NS0:administrativeDivision rdf:resource='#A33299'/>
+    <NS0:administrativeDivision rdf:resource='#A33303'/>
+    <NS0:administrativeDivision rdf:resource='#A33307'/>
+    <NS0:administrativeDivision rdf:resource='#A33311'/>
+    <NS0:independence>1 January 1993 (Czechoslovakia split into the Czech Republic and Slovakia)</NS0:independence>
+    <NS0:constitution>ratified 16 December 1992; effective 1 January 1993</NS0:constitution>
+    <NS0:legalSystem>civil law system based on Austro-Hungarian codes; has not accepted compulsory ICJ jurisdiction; legal code modified to bring it in line with Organization on Security and Cooperation in Europe (OSCE) obligations and to expunge Marxist-Leninist legal theory</NS0:legalSystem>
+    <NS0:suffrage>18 years of age; universal</NS0:suffrage>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ACCT'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Australia_Group'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#BIS'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CCC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CE'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CEI'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CERN'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#EAPC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#EBRD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ECE'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#EU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#FAO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IAEA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IBRD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICAO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICFTU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICRM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IDA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IEA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFRCS'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ILO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IMF'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IMO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Inmarsat'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Intelsat'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Interpol'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IOC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IOM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ISO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ITU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#MONUC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NATO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NEA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NSG'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OAS'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OECD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OPCW'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OSCE'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#PCA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#PFP'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UN'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNCTAD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNESCO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNIDO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNMEE'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNMIBH'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNMIK'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNMOP'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNMOT'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNOMIG'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UPU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WCL'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WEU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WFTU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WHO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WIPO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WMO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WToO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WTrO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ZC'/>
+    <NS0:flagDescription>two equal horizontal bands of white (top) and red with a blue isosceles triangle based on the hoist side (identical to the flag of the former Czechoslovakia)</NS0:flagDescription>
+    <NS0:economyOverview>Basically one of the most stable and prosperous of the post-Communist states, the Czech Republic has been recovering from recession since mid-1999. The economy grew about 2.5% in 2000 and should achieve somewhat higher growth in 2001. Growth is led by exports to the EU, especially Germany, and foreign investment, while domestic demand is reviving. Uncomfortably high fiscal and current account deficits could be future problems. Unemployment is down to 8.7% as job creation continues in the rebounding economy; inflation is up to 3.8% but still moderate. The EU put the Czech Republic just behind Poland and Hungary in preparations for accession, which will give further impetus and direction to structural reform. Moves to complete banking, telecommunications and energy privatization will add to foreign investment, while intensified restructuring among large enterprises and banks and improvements in the financial sector should strengthen output growth.</NS0:economyOverview>
+    <NS0:grossDomesticProduct rdf:ID='A33383'>132400000000</NS0:grossDomesticProduct>
+    <NS0:grossDomesticProductRealGrowth rdf:ID='A33386'>2.5</NS0:grossDomesticProductRealGrowth>
+    <NS0:grossDomesticProductPerCapita rdf:ID='A33389'>12900</NS0:grossDomesticProductPerCapita>
+    <NS0:grossDomesticProductAgriculture>3.7</NS0:grossDomesticProductAgriculture>
+    <NS0:grossDomesticProductIndustry>41.8</NS0:grossDomesticProductIndustry>
+    <NS0:grossDomesticProductServices rdf:ID='A33394'>54.5</NS0:grossDomesticProductServices>
+    <NS0:householdIncomeLowest10Percent>4.3</NS0:householdIncomeLowest10Percent>
+    <NS0:householdIncomeHighest10Percent rdf:ID='A33397'>22.4</NS0:householdIncomeHighest10Percent>
+    <NS0:inflationRate rdf:ID='A33399'>3.8</NS0:inflationRate>
+    <NS0:laborForce rdf:ID='A33402'>5203000</NS0:laborForce>
+    <NS0:occupation rdf:resource='#A33405'/>
+    <NS0:occupation rdf:resource='#A33410'/>
+    <NS0:occupation rdf:ID='A33419' rdf:resource='#A33415'/>
+    <NS0:unemploymentRate rdf:ID='A33422'>8.7</NS0:unemploymentRate>
+    <NS0:budgetRevenues>16700000000</NS0:budgetRevenues>
+    <NS0:budgetExpenditures>18000000000</NS0:budgetExpenditures>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#metallurgy'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#machinery_and_equipment'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#motor_vehicles'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#glass'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#armaments'/>
+    <NS0:industrialProductionGrowthRate rdf:ID='A33432'>7.6</NS0:industrialProductionGrowthRate>
+    <NS0:electricityProduction rdf:ID='A33434'>67641999999</NS0:electricityProduction>
+    <NS0:electricityProductionFossilFuel>77.8</NS0:electricityProductionFossilFuel>
+    <NS0:electricityProductionHydro>3.43</NS0:electricityProductionHydro>
+    <NS0:electricityProductionNuclear>18.77</NS0:electricityProductionNuclear>
+    <NS0:electricityProductionOther rdf:ID='A33439'>0</NS0:electricityProductionOther>
+    <NS0:electricityConsumption rdf:ID='A33441'>52898000000</NS0:electricityConsumption>
+    <NS0:electricityExports rdf:ID='A33443'>18744000000</NS0:electricityExports>
+    <NS0:electricityImports rdf:ID='A33445'>8735000000</NS0:electricityImports>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#wheat'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#potatoes'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#sugar_beets'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#hops'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#fruit'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#pigs'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#poultry'/>
+    <NS0:exports rdf:ID='A33454'>28300000000</NS0:exports>
+    <NS0:exportsCommodity rdf:resource='#A33456'/>
+    <NS0:exportsCommodity rdf:resource='#A33461'/>
+    <NS0:exportsCommodity rdf:resource='#A33466'/>
+    <NS0:exportsCommodity rdf:ID='A33475' rdf:resource='#A33471'/>
+    <NS0:imports rdf:ID='A33477'>31400000000</NS0:imports>
+    <NS0:importsCommodity rdf:resource='#A33479'/>
+    <NS0:importsCommodity rdf:resource='#A33484'/>
+    <NS0:importsCommodity rdf:resource='#A33489'/>
+    <NS0:importsCommodity rdf:ID='A33498' rdf:resource='#A33494'/>
+    <NS0:externalDebt rdf:ID='A33500'>21300000000</NS0:externalDebt>
+    <NS0:currency>Czech koruna (CZK)</NS0:currency>
+    <NS0:currencyCode>CZK</NS0:currencyCode>
+    <NS0:fiscalYear>calendar year</NS0:fiscalYear>
+    <NS0:mainTelephoneLines rdf:ID='A33505'>3869000</NS0:mainTelephoneLines>
+    <NS0:mobileTelephoneLines rdf:ID='A33507'>4346000</NS0:mobileTelephoneLines>
+    <NS0:telephoneSystemGeneralAssessment>privatization and modernization of the Czech telecommunication system got a late start but is advancing steadily; growth in the use of mobile cellular telephones is particularly vigorous</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>86% of exchanges now digital; existing copper subscriber systems now being enhanced with Asymmetric Digital Subscriber Line (ADSL) equipment to accommodate Internet and other digital signals; trunk systems include fiber-optic cable and microwave radio relay</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>satellite earth stations - 2 Intersputnik (Atlantic and Indian Ocean regions), 1 Intelsat, 1 Eutelsat, 1 Inmarsat, 1 Globalstar</NS0:telephoneSystemInternational>
+    <NS0:radios rdf:ID='A33512'>3159134</NS0:radios>
+    <NS0:televisions rdf:ID='A33514'>3405834</NS0:televisions>
+    <NS0:internetCountryCode>.cz</NS0:internetCountryCode>
+    <NS0:internetUsers rdf:ID='A33517'>900000</NS0:internetUsers>
+    <NS0:railwaysTotal>9444</NS0:railwaysTotal>
+    <NS0:highwaysTotal>55432</NS0:highwaysTotal>
+    <NS0:highwaysPaved rdf:ID='A33521'>55432</NS0:highwaysPaved>
+    <NS0:highwaysUnpaved rdf:ID='A33523'>0</NS0:highwaysUnpaved>
+    <NS0:waterways>303</NS0:waterways>
+    <NS0:port rdf:resource='#A33526'/>
+    <NS0:port rdf:resource='#A33530'/>
+    <NS0:port rdf:resource='#A33534'/>
+    <NS0:airports rdf:ID='A33538'>114</NS0:airports>
+    <NS0:airportBreakdown rdf:resource='#A33541'/>
+    <NS0:airportBreakdown rdf:resource='#A33547'/>
+    <NS0:airportBreakdown rdf:resource='#A33554'/>
+    <NS0:airportBreakdown rdf:resource='#A33561'/>
+    <NS0:airportBreakdown rdf:resource='#A33568'/>
+    <NS0:airportBreakdown rdf:resource='#A33574'/>
+    <NS0:airportBreakdown rdf:resource='#A33581'/>
+    <NS0:airportBreakdown rdf:resource='#A33588'/>
+    <NS0:heliports rdf:ID='A33594'>1</NS0:heliports>
+    <NS0:militaryAge>18</NS0:militaryAge>
+    <NS0:malesOfMilitaryAge rdf:ID='A33598'>2653456</NS0:malesOfMilitaryAge>
+    <NS0:malesFitForMilitaryService rdf:ID='A33601'>2024070</NS0:malesFitForMilitaryService>
+    <NS0:malesReachingMilitaryAgeAnnually rdf:ID='A33604'>69393</NS0:malesReachingMilitaryAgeAnnually>
+    <NS0:militaryExpenditures rdf:ID='A33607'>1200000000</NS0:militaryExpenditures>
+    <NS0:militaryExpendituresPercentGDP rdf:ID='A33609'>2.2</NS0:militaryExpendituresPercentGDP>
+    <NS0:internationalDispute>Liechtenstein&apos;s royal family claims restitution for 1,600 sq km of land in the Czech Republic confiscated in 1918</NS0:internationalDispute>
+    <NS0:internationalDispute>individual Sudeten German claims for restitution of property confiscated in connection with their expulsion after World War II</NS0:internationalDispute>
+    <NS0:internationalDispute>Austria has minor dispute with Czech Republic over nuclear power plants and post-World War II treatment of German-speaking minorities</NS0:internationalDispute>
+    <NS0:illicitDrugs>major transshipment point for Southwest Asian heroin and minor transit point for Latin American cocaine to Western Europe</NS0:illicitDrugs>
+    <NS0:illicitDrugs>domestic consumption - especially of locally produced synthetic drugs - on the rise</NS0:illicitDrugs>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/ez-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/ez-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/ez-map.jpg</NS0:map>
+    <NS0:border rdf:resource='#A122338'/>
+    <NS0:border rdf:resource='#A122343'/>
+    <NS0:border rdf:resource='#A122348'/>
+    <NS0:border rdf:resource='#A122353'/>
+    <NS0:exportPartner rdf:resource='#A122358'/>
+    <NS0:exportPartner rdf:resource='#A122363'/>
+    <NS0:exportPartner rdf:resource='#A122368'/>
+    <NS0:exportPartner rdf:resource='#A122373'/>
+    <NS0:exportPartner rdf:ID='A122382' rdf:resource='#A122378'/>
+    <NS0:importPartner rdf:resource='#A122384'/>
+    <NS0:importPartner rdf:resource='#A122389'/>
+    <NS0:importPartner rdf:resource='#A122394'/>
+    <NS0:importPartner rdf:resource='#A122399'/>
+    <NS0:importPartner rdf:ID='A122408' rdf:resource='#A122404'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33422'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33064'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Elbe River</NS0:name>
+    <NS0:elevation>115</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33517'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33249'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CapitalCity'/>
+    <NS0:name>Prague</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33514'>
+    <NS0:note>December 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33505'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33087'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33049'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>49.75</NS0:latitude>
+    <NS0:longitude>15.5</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33383'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33607'>
+    <NS0:note>FY01</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33512'>
+    <NS0:note>December 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33236'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Czech'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33441'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+</rdf:RDF>

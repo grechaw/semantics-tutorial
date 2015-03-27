@@ -1,0 +1,444 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_du_Népal_de_football	owl:sameAs	dbpedia:Nepal_national_football_team .
+@prefix ns3:	<http://ko.dbpedia.org/resource/> .
+ns3:네팔_축구_국가대표팀	owl:sameAs	dbpedia:Nepal_national_football_team .
+@prefix ns4:	<http://pt.dbpedia.org/resource/> .
+ns4:Seleção_Nepalesa_de_Futebol	owl:sameAs	dbpedia:Nepal_national_football_team .
+@prefix ns5:	<http://de.dbpedia.org/resource/> .
+ns5:Nepalesische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Nepal_national_football_team .
+@prefix ns6:	<http://wikidata.dbpedia.org/resource/> .
+ns6:Q330971	owl:sameAs	dbpedia:Nepal_national_football_team .
+@prefix ns7:	<http://cs.dbpedia.org/resource/> .
+ns7:Nepálská_fotbalová_reprezentace	owl:sameAs	dbpedia:Nepal_national_football_team .
+@prefix ns8:	<http://es.dbpedia.org/resource/> .
+ns8:Selección_de_fútbol_de_Nepal	owl:sameAs	dbpedia:Nepal_national_football_team .
+@prefix ns9:	<http://id.dbpedia.org/resource/> .
+ns9:Tim_nasional_sepak_bola_Nepal	owl:sameAs	dbpedia:Nepal_national_football_team .
+@prefix ns10:	<http://it.dbpedia.org/resource/> .
+ns10:Nazionale_di_calcio_del_Nepal	owl:sameAs	dbpedia:Nepal_national_football_team .
+@prefix ns11:	<http://ja.dbpedia.org/resource/> .
+ns11:サッカーネパール代表	owl:sameAs	dbpedia:Nepal_national_football_team .
+@prefix ns12:	<http://nl.dbpedia.org/resource/> .
+ns12:Nepalees_voetbalelftal	owl:sameAs	dbpedia:Nepal_national_football_team .
+@prefix ns13:	<http://pl.dbpedia.org/resource/> .
+ns13:Reprezentacja_Nepalu_w_piłce_nożnej	owl:sameAs	dbpedia:Nepal_national_football_team .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Graham_Roberts	dbpedia-owl:managerClub	dbpedia:Nepal_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Graham_Roberts	dbpprop:managerclubs	dbpedia:Nepal_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Nepal_national_football_team	rdf:type	yago:YagoLegalActorGeo ,
+		owl:Thing ,
+		yago:YagoLegalActor .
+@prefix ns18:	<http://schema.org/> .
+dbpedia:Nepal_national_football_team	rdf:type	ns18:Organization ,
+		ns18:SportsTeam .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Nepal_national_football_team	rdf:type	dul:Agent ,
+		dul:SocialPerson ,
+		yago:NationalSportsTeamsOfNepal ,
+		yago:AsianNationalAssociationFootballTeams ,
+		yago:FootballTeam108080025 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Organisation ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 .
+@prefix ns20:	<http://ms.dbpedia.org/resource/> .
+dbpedia:Nepal_national_football_team	owl:sameAs	ns20:Pasukan_bola_sepak_kebangsaan_Nepal ,
+		dbpedia:Nepal_national_football_team ,
+		ns12:Nepalees_voetbalelftal .
+@prefix ns21:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Nepal_national_football_team	owl:sameAs	ns21:تیم_ملی_فوتبال_نپال .
+@prefix ns22:	<http://ne.dbpedia.org/resource/> .
+dbpedia:Nepal_national_football_team	owl:sameAs	ns22:नेपाल_राष्ट्रीय_फुटबल_टोली ,
+		ns11:サッカーネパール代表 ,
+		<http://rdf.freebase.com/ns/m.04pk80> .
+@prefix ns23:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Nepal_national_football_team	owl:sameAs	ns23:Nepal_national_football_team .
+@prefix ns24:	<http://yago-knowledge.org/resource/> .
+dbpedia:Nepal_national_football_team	owl:sameAs	ns24:Nepal_national_football_team ,
+		ns5:Nepalesische_Fußballnationalmannschaft .
+@prefix ns25:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Nepal_national_football_team	owl:sameAs	ns25:Nepal_national_football_team .
+@prefix ns26:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Nepal_national_football_team	owl:sameAs	ns26:منتخب_نيبال_لكرة_القدم .
+@prefix ns27:	<http://he.dbpedia.org/resource/> .
+dbpedia:Nepal_national_football_team	owl:sameAs	ns27:נבחרת_נפאל_בכדורגל ,
+		ns6:Q330971 .
+@prefix ns28:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Nepal_national_football_team	owl:sameAs	ns28:Nepáli_labdarúgó-válogatott .
+@prefix ns29:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Nepal_national_football_team	owl:sameAs	ns29:尼泊爾國家足球隊 .
+@prefix ns30:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Nepal_national_football_team	owl:sameAs	ns30:Echipa_națională_de_fotbal_a_Nepalului ,
+		ns3:네팔_축구_국가대표팀 ,
+		ns9:Tim_nasional_sepak_bola_Nepal ,
+		ns7:Nepálská_fotbalová_reprezentace .
+@prefix ns31:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Nepal_national_football_team	owl:sameAs	ns31:Сборная_Непала_по_футболу .
+@prefix ns32:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Nepal_national_football_team	owl:sameAs	ns32:Nepals_herrlandslag_i_fotboll .
+@prefix ns33:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Nepal_national_football_team	owl:sameAs	ns33:Nepalin_jalkapallomaajoukkue .
+@prefix ns34:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Nepal_national_football_team	owl:sameAs	ns34:Nepal_Millî_Futbol_Takımı ,
+		ns13:Reprezentacja_Nepalu_w_piłce_nożnej ,
+		ns10:Nazionale_di_calcio_del_Nepal .
+@prefix ns35:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Nepal_national_football_team	owl:sameAs	ns35:Đội_tuyển_bóng_đá_quốc_gia_Nepal .
+@prefix ns36:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Nepal_national_football_team	owl:sameAs	ns36:Nepalo_vyrų_futbolo_rinktinė ,
+		ns8:Selección_de_fútbol_de_Nepal ,
+		ns4:Seleção_Nepalesa_de_Futebol .
+@prefix ns37:	<http://wikidata.org/entity/> .
+dbpedia:Nepal_national_football_team	owl:sameAs	ns37:Q330971 ,
+		ns1:Équipe_du_Népal_de_football .
+@prefix ns38:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Nepal_national_football_team	owl:sameAs	ns38:Збірна_Непалу_з_футболу .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Nepal_national_football_team	rdfs:label	"Nazionale di calcio del Nepal"@it ,
+		"Reprezentacja Nepalu w pi\u0142ce no\u017Cnej"@pl ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0646\u064A\u0628\u0627\u0644 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"\u00C9quipe du N\u00E9pal de football"@fr ,
+		"Nepalesische Fu\u00DFballnationalmannschaft"@de ,
+		"Selecci\u00F3n de f\u00FAtbol de Nepal"@es ,
+		"Nepalees voetbalelftal"@nl ,
+		"Sele\u00E7\u00E3o Nepalesa de Futebol"@pt ,
+		"\u30B5\u30C3\u30AB\u30FC\u30CD\u30D1\u30FC\u30EB\u4EE3\u8868"@ja ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u041D\u0435\u043F\u0430\u043B\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"Nepal national football team" ,
+		"\u5C3C\u6CCA\u723E\u570B\u5BB6\u8DB3\u7403\u968A"@zh .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Nepal_national_football_team	dcterms:subject	category:Football_in_Nepal ,
+		category:Nepal_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbpedia:Nepal_national_football_team	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Dasarath_Rangasala_Stadium.jpg> ;
+	foaf:name	"(\u0928\u0947\u092A\u093E\u0932 \u0930\u093E\u0937\u094D\u091F\u094D\u0930\u0940\u092F \u092B\u0942\u091F\u094D\u092C\u0932 \u091F\u093F\u092E)" ,
+		"Nepal" ;
+	foaf:nick	"The Gorkhalis" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Nepal_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Nepal_national_football_team?oldid=604015812> ;
+	rdfs:comment	"L'\u00E9quipe du N\u00E9pal de football est une s\u00E9lection des meilleurs joueurs n\u00E9palais sous l'\u00E9gide de la F\u00E9d\u00E9ration du N\u00E9pal de football. Son stade pour les rencontres officielles est le Stade Dasarath Rangasala situ\u00E9 \u00E0 Katmandou."@fr ,
+		"Die Nepalesische Fu\u00DFballnationalmannschaft ist die Nationalmannschaft des asiatischen Staates Nepal.Nepal ist es bisher noch nicht gelungen, sich f\u00FCr eine Fu\u00DFball-Weltmeisterschaft oder f\u00FCr die Asienmeisterschaften zu qualifizieren."@de ,
+		"The Nepal national football team is the national team of Nepal and is controlled by the All Nepal Football Association. A member of the Asian Football Confederation (AFC), the Nepalese football team play their home games at Dasarath Rangasala Stadium located at Tripureswhor in Kathmandu. The All Nepal Football Association is the governing body of football in Nepal. It is responsible for the Nepal national football team as well as club competitions." ,
+		"\u5C3C\u6CCA\u723E\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u5C3C\u6CCA\u723E\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u5C3C\u6CCA\u723E\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u4E9E\u6D32\u8DB3\u5354\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u5C3C\u6CCA\u723E\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4EFB\u4F55\u570B\u969B\u5927\u8CFD\u7684\u6C7A\u8CFD\u9031\uFF0C\u7121\u8AD6\u5728\u4E16\u754C\u76C3\u53CA\u4E9E\u6D32\u76C3\u5916\u570D\u8CFD\u968E\u6BB5\u5F9E\u672A\u53D6\u5F97\u904E\u51FA\u7DDA\u8CC7\u683C\u3002"@zh ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0646\u064A\u0628\u0627\u0644 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0644\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0646\u064A\u0628\u0627\u0644"@ar ,
+		"A Sele\u00E7\u00E3o Nepalesa de Futebol representa o Nepal nas competi\u00E7\u00F5es de futebol da FIFA. A equipe \u00E9 controlada pela All Nepal Football Association, fundada em 1951 e filiada \u00E0 FIFA em 1972. Ainda sem express\u00E3o no continente asi\u00E1tico, nunca disputou a fase final da Copa da \u00C1sia.Manda seus jogos no Dashrath Stadium."@pt ,
+		"\u30B5\u30C3\u30AB\u30FC\u30CD\u30D1\u30FC\u30EB\u4EE3\u8868\u306F\u3001\u30CD\u30D1\u30FC\u30EB\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\uFF08ANFA\uFF09\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30CD\u30D1\u30FC\u30EB\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"La nazionale di calcio nepalese \u00E8 la rappresentativa calcistica del Nepal ed \u00E8 posta sotto l'egida della All Nepal Football Association. \u00C8 uno dei membri pi\u00F9 deboli affiliati all'AFC e alla FIFA. Gioca le sue partite al Rangasala Football Stadium."@it ,
+		"\u0421\u0431\u043E\u0301\u0440\u043D\u0430\u044F \u041D\u0435\u043F\u0430\u0301\u043B\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u0301\u043B\u0443 \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u041D\u0435\u043F\u0430\u043B \u043D\u0430 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0430\u0445 \u0438 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430\u0445. \u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u0442\u0441\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0435\u0439 \u041D\u0435\u043F\u0430\u043B\u0430. \u042F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u043E\u0439 \u0438\u0437 \u0441\u043B\u0430\u0431\u0435\u0439\u0448\u0438\u0445 \u0441\u0431\u043E\u0440\u043D\u044B\u0445 \u043F\u043B\u0430\u043D\u0435\u0442\u044B. \u041D\u0430\u0438\u0432\u044B\u0441\u0448\u0435\u0433\u043E \u0443\u0441\u043F\u0435\u0445\u0430 \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0434\u043E\u0431\u0438\u043B\u0430\u0441\u044C \u0432 1993 \u0433\u043E\u0434\u0443, \u0437\u0430\u0432\u043E\u0435\u0432\u0430\u0432 \u0431\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0435 \u043C\u0435\u0434\u0430\u043B\u0438 \u0432 \u0440\u043E\u0437\u044B\u0433\u0440\u044B\u0448\u0435 \u043A\u0443\u0431\u043A\u0430 \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u042E\u0436\u043D\u043E\u0439 \u0410\u0437\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u041F\u0440\u043E\u0432\u043E\u0434\u0438\u0442 \u0441\u0432\u043E\u0438 \u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u043C\u0430\u0442\u0447\u0438 \u043D\u0430 \u0441\u0442\u0430\u0434\u0438\u043E\u043D\u0435 \u00AB\u0414\u0430\u0441\u0430\u0440\u0430\u0442\u0445 \u0420\u0430\u043D\u0433\u0430\u0441\u0430\u043B\u0430\u00BB."@ru ,
+		"Het Nepalese voetbalelftal is een team van voetballers dat Nepal vertegenwoordigt bij internationale wedstrijden."@nl ,
+		"Reprezentacja Nepalu w pi\u0142ce no\u017Cnej \u2013 zesp\u00F3\u0142 graj\u0105cy pod egid\u0105 Nepalskiego Zwi\u0105zku Pi\u0142ki No\u017Cnej (All Nepal Football Association)Sw\u00F3j pierwszy, inauguracyjny mecz dru\u017Cyna narodowa Nepalu rozegra\u0142a z Chinami przegrywaj\u0105c 2:6. Swoje najwi\u0119ksze zwyci\u0119stwo Nepal odnotowa\u0142 w roku 1999 gromi\u0105c dru\u017Cyn\u0119 Bhutanu 7:0. Zesp\u00F3\u0142 nigdy w swojej historii nie awansowa\u0142 do Pucharu Azji, ani do fina\u0142\u00F3w Mistrzostw \u015Awiata."@pl ,
+		"La Selecci\u00F3n de f\u00FAtbol de Nepal es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Federaci\u00F3n de F\u00FAtbol de Nepal, perteneciente a la AFC. A pesar de que es una de las selecciones m\u00E1s d\u00E9biles, en Nepal el f\u00FAtbol es el deporte m\u00E1s popular."@es .
+@prefix ns44:	<http://en.wikipedia.org/wiki/> .
+dbpedia:Nepal_national_football_team	foaf:isPrimaryTopicOf	ns44:Nepal_national_football_team ;
+	dbpprop:club	dbpedia:Nepal_Army_Club ,
+		dbpedia:Nepal_Police_Club ,
+		dbpedia:Manang_Marshyangdi_Club ,
+		dbpedia:Three_Star_Club ,
+		"ANFA Academy" ,
+		dbpedia:Machhindra_Football_Club ,
+		dbpedia:Boys_Union_Club ,
+		dbpedia:Persija_Jakarta ;
+	dbpprop:captain	dbpedia:Sagar_Thapa .
+@prefix ns45:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Nepal_national_football_team	dbpprop:hasPhotoCollection	ns45:Nepal_national_football_team ;
+	dbpprop:name	dbpedia:Sandip_Rai ,
+		"Nepal" ,
+		dbpedia:Anil_Gurung ,
+		"(\u0928\u0947\u092A\u093E\u0932 \u0930\u093E\u0937\u094D\u091F\u094D\u0930\u0940\u092F \u092B\u0942\u091F\u094D\u092C\u0932 \u091F\u093F\u092E)" ,
+		dbpedia:Raju_Tamang ,
+		dbpedia:Kiran_Chemjong ,
+		dbpedia:Jitendra_Karki ,
+		dbpedia:Bishal_Shrestha ,
+		dbpedia:Bimal_Magar ,
+		dbpedia:Rohit_Chand ,
+		dbpedia:Rabin_Shrestha ,
+		dbpedia:Bhola_Silwal ,
+		dbpedia:Sujal_Shrestha ,
+		dbpedia:Biraj_Maharjan ,
+		dbpedia:Ritesh_Thapa ,
+		dbpedia:Bharat_Khawas ,
+		dbpedia:Jagjit_Shrestha ,
+		dbpedia:Sagar_Thapa ,
+		dbpedia:Santosh_Sahukhala ,
+		dbpedia:Ju_Manu_Rai ,
+		dbpedia:Sabindra_Shrestha ,
+		dbpedia:Ashim_Jung_Karki ,
+		dbpedia:Prakash_Budhathoki ,
+		dbpedia:Bikram_Lama ,
+		dbpedia:Shiva_Shrestha ,
+		dbpedia:Karna_Limbu ,
+		dbpedia:Tanka_Basnet ,
+		dbpedia:Deepak_Rai ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Dasarath_Rangasala_Stadium.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u0421\u0431\u043E\u0301\u0440\u043D\u0430\u044F \u041D\u0435\u043F\u0430\u0301\u043B\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u0301\u043B\u0443 \u2014 \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u043A\u043E\u0442\u043E\u0440\u0430\u044F \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u041D\u0435\u043F\u0430\u043B \u043D\u0430 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0430\u0445 \u0438 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430\u0445. \u041A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u0442\u0441\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0435\u0439 \u041D\u0435\u043F\u0430\u043B\u0430. \u042F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u043E\u0439 \u0438\u0437 \u0441\u043B\u0430\u0431\u0435\u0439\u0448\u0438\u0445 \u0441\u0431\u043E\u0440\u043D\u044B\u0445 \u043F\u043B\u0430\u043D\u0435\u0442\u044B. \u041D\u0430\u0438\u0432\u044B\u0441\u0448\u0435\u0433\u043E \u0443\u0441\u043F\u0435\u0445\u0430 \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0434\u043E\u0431\u0438\u043B\u0430\u0441\u044C \u0432 1993 \u0433\u043E\u0434\u0443, \u0437\u0430\u0432\u043E\u0435\u0432\u0430\u0432 \u0431\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0435 \u043C\u0435\u0434\u0430\u043B\u0438 \u0432 \u0440\u043E\u0437\u044B\u0433\u0440\u044B\u0448\u0435 \u043A\u0443\u0431\u043A\u0430 \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u042E\u0436\u043D\u043E\u0439 \u0410\u0437\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u041F\u0440\u043E\u0432\u043E\u0434\u0438\u0442 \u0441\u0432\u043E\u0438 \u0434\u043E\u043C\u0430\u0448\u043D\u0438\u0435 \u043C\u0430\u0442\u0447\u0438 \u043D\u0430 \u0441\u0442\u0430\u0434\u0438\u043E\u043D\u0435 \u00AB\u0414\u0430\u0441\u0430\u0440\u0430\u0442\u0445 \u0420\u0430\u043D\u0433\u0430\u0441\u0430\u043B\u0430\u00BB."@ru ,
+		"\u5C3C\u6CCA\u723E\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u5C3C\u6CCA\u723E\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u5C3C\u6CCA\u723E\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u4E9E\u6D32\u8DB3\u5354\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u5C3C\u6CCA\u723E\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4EFB\u4F55\u570B\u969B\u5927\u8CFD\u7684\u6C7A\u8CFD\u9031\uFF0C\u7121\u8AD6\u5728\u4E16\u754C\u76C3\u53CA\u4E9E\u6D32\u76C3\u5916\u570D\u8CFD\u968E\u6BB5\u5F9E\u672A\u53D6\u5F97\u904E\u51FA\u7DDA\u8CC7\u683C\u3002"@zh ,
+		"Het Nepalese voetbalelftal is een team van voetballers dat Nepal vertegenwoordigt bij internationale wedstrijden."@nl ,
+		"Die Nepalesische Fu\u00DFballnationalmannschaft ist die Nationalmannschaft des asiatischen Staates Nepal.Nepal ist es bisher noch nicht gelungen, sich f\u00FCr eine Fu\u00DFball-Weltmeisterschaft oder f\u00FCr die Asienmeisterschaften zu qualifizieren."@de ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0646\u064A\u0628\u0627\u0644 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0644\u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0646\u064A\u0628\u0627\u0644"@ar ,
+		"La nazionale di calcio nepalese \u00E8 la rappresentativa calcistica del Nepal ed \u00E8 posta sotto l'egida della All Nepal Football Association. \u00C8 uno dei membri pi\u00F9 deboli affiliati all'AFC e alla FIFA. Gioca le sue partite al Rangasala Football Stadium."@it ,
+		"Reprezentacja Nepalu w pi\u0142ce no\u017Cnej \u2013 zesp\u00F3\u0142 graj\u0105cy pod egid\u0105 Nepalskiego Zwi\u0105zku Pi\u0142ki No\u017Cnej (All Nepal Football Association)Sw\u00F3j pierwszy, inauguracyjny mecz dru\u017Cyna narodowa Nepalu rozegra\u0142a z Chinami przegrywaj\u0105c 2:6. Swoje najwi\u0119ksze zwyci\u0119stwo Nepal odnotowa\u0142 w roku 1999 gromi\u0105c dru\u017Cyn\u0119 Bhutanu 7:0. Zesp\u00F3\u0142 nigdy w swojej historii nie awansowa\u0142 do Pucharu Azji, ani do fina\u0142\u00F3w Mistrzostw \u015Awiata."@pl ,
+		"\u30B5\u30C3\u30AB\u30FC\u30CD\u30D1\u30FC\u30EB\u4EE3\u8868\u306F\u3001\u30CD\u30D1\u30FC\u30EB\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\uFF08ANFA\uFF09\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30CD\u30D1\u30FC\u30EB\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"The Nepal national football team is the national team of Nepal and is controlled by the All Nepal Football Association. A member of the Asian Football Confederation (AFC), the Nepalese football team play their home games at Dasarath Rangasala Stadium located at Tripureswhor in Kathmandu. The All Nepal Football Association is the governing body of football in Nepal. It is responsible for the Nepal national football team as well as club competitions. The organization was founded in 1951 as the All Nepal Football Association and became affiliated with FIFA in 1970. The present President of ANFA is Ganesh Thapa Who is also the Deputy Chairman of AFC.The current coach is Jack Stefanowski who was appointed on January 7, 2013." ,
+		"La Selecci\u00F3n de f\u00FAtbol de Nepal es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Federaci\u00F3n de F\u00FAtbol de Nepal, perteneciente a la AFC. A pesar de que es una de las selecciones m\u00E1s d\u00E9biles, en Nepal el f\u00FAtbol es el deporte m\u00E1s popular."@es ,
+		"A Sele\u00E7\u00E3o Nepalesa de Futebol representa o Nepal nas competi\u00E7\u00F5es de futebol da FIFA. A equipe \u00E9 controlada pela All Nepal Football Association, fundada em 1951 e filiada \u00E0 FIFA em 1972. Ainda sem express\u00E3o no continente asi\u00E1tico, nunca disputou a fase final da Copa da \u00C1sia.Manda seus jogos no Dashrath Stadium."@pt ,
+		"L'\u00E9quipe du N\u00E9pal de football est une s\u00E9lection des meilleurs joueurs n\u00E9palais sous l'\u00E9gide de la F\u00E9d\u00E9ration du N\u00E9pal de football. Son stade pour les rencontres officielles est le Stade Dasarath Rangasala situ\u00E9 \u00E0 Katmandou."@fr ;
+	dbpedia-owl:wikiPageID	1277975 ;
+	dbpedia-owl:wikiPageRevisionID	604015812 ;
+	dbpprop:latest	2013 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Nepal_national_football_team	dbpprop:latest	"--11-19+02:00"^^xsd:gMonthDay ,
+		"--03-25+02:00"^^xsd:gMonthDay ;
+	dbpprop:clubnat	"IDN" ,
+		"NEP" ;
+	dbpprop:goals	"-" ,
+		11 ,
+		8 ,
+		9 ,
+		2 ,
+		3 ,
+		0 ,
+		1 ;
+	dbpprop:caps	12 ,
+		13 ,
+		4 ,
+		1 ,
+		2 ,
+		29 ,
+		25 ,
+		26 ,
+		27 ,
+		21 ,
+		16 ,
+		19 ,
+		40 ,
+		38 ,
+		35 ,
+		50 ,
+		"-" ;
+	dbpprop:age	"1993-02-04+02:00"^^xsd:date ,
+		"1988-01-10+02:00"^^xsd:date ,
+		"1992-08-10+02:00"^^xsd:date ,
+		"1992-03-01+02:00"^^xsd:date ,
+		"1990-01-05+02:00"^^xsd:date ,
+		"1991-05-17+02:00"^^xsd:date ,
+		"1984-01-19+02:00"^^xsd:date ,
+		"1990-11-15+02:00"^^xsd:date ,
+		"1987-01-04+02:00"^^xsd:date ,
+		"1998-01-26+02:00"^^xsd:date ,
+		"1988-09-23+02:00"^^xsd:date ,
+		"1992-08-09+02:00"^^xsd:date ,
+		"1985-10-27+02:00"^^xsd:date ,
+		"1990-03-20+02:00"^^xsd:date ,
+		"1990-12-12+02:00"^^xsd:date ,
+		"1989-04-14+02:00"^^xsd:date ,
+		"1992-04-16+02:00"^^xsd:date ,
+		"1989-08-29+02:00"^^xsd:date ,
+		"1986-02-04+02:00"^^xsd:date ,
+		"1983-03-01+02:00"^^xsd:date ;
+	dbpprop:asstManager	dbpedia:Upendra_Man_Singh ;
+	dbpprop:coach	dbpedia:Raju_Kaji_Shakya ;
+	dbpedia-owl:coach	dbpedia:Raju_Kaji_Shakya ;
+	dbpprop:association	dbpedia:All_Nepal_Football_Association ;
+	dbpprop:badgeSize	175 ;
+	dbpprop:body	262 ,
+		"EF5435" ;
+	dbpprop:confederation	dbpedia:Asian_Football_Confederation ;
+	dbpprop:fifaRank	1591 ;
+	dbpprop:fifaTrigramme	"NEP" ;
+	dbpprop:leftarm	262 ,
+		"EF5435" ;
+	dbpprop:patternB	"_whitecollar" ,
+		"_redcollar" ;
+	dbpprop:patternLa	"_whitesmalllower" ,
+		"_white stripes2" ;
+	dbpprop:patternRa	"_whitesmalllower" ,
+		"_white stripes2" ;
+	dbpprop:rightarm	262 ,
+		"EF5435" ;
+	dbpprop:shorts	262 ,
+		"EF5435" ;
+	dbpprop:socks	262 ,
+		"EF5435" ;
+	dbpprop:no	"-" ,
+		32 ,
+		25 ,
+		28 ,
+		16 ,
+		17 ,
+		19 ,
+		20 ,
+		21 ,
+		8 ,
+		9 ,
+		10 ,
+		11 ,
+		12 ,
+		13 ,
+		14 ,
+		15 ,
+		2 ,
+		3 ,
+		4 ;
+	dbpprop:pos	"DF" ,
+		"FW" ,
+		"GK" ,
+		"MF" ;
+	dbpprop:badge	"All Nepal Football Association.jpg" ;
+	dbpprop:firstGame	6 ;
+	dbpprop:largestLoss	16 ;
+	dbpprop:largestWin	12 ;
+	dbpprop:eloMax	171 ;
+	dbpprop:eloMaxDate	"1987-11-23+02:00"^^xsd:date ;
+	dbpprop:eloMin	210 ;
+	dbpprop:eloMinDate	"1999-05-01+02:00"^^xsd:date ;
+	dbpprop:eloRank	1961 ;
+	dbpprop:fifaMax	124 ;
+	dbpprop:fifaMaxDate	"December 1993" ;
+	dbpprop:fifaMin	170 ;
+	dbpprop:fifaMinDate	"November 2007" ;
+	dbpprop:subConfederation	dbpedia:South_Asian_Football_Federation ;
+	dbpprop:homeStadium	dbpedia:Dasarath_Rangasala_Stadium ;
+	dbpedia-owl:stadium	dbpedia:Dasarath_Rangasala_Stadium ;
+	dbpprop:nickname	"The Gorkhalis" .
+dbpedia:Graham_Roberts__18	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Rohit_Chand	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+ns44:Nepal_national_football_team	foaf:primaryTopic	dbpedia:Nepal_national_football_team .
+dbpedia:Rudi_Gutendorf	dbpprop:managerclubs	dbpedia:Nepal_national_football_team .
+dbpedia:Dasarath_Rangasala_Stadium	dbpprop:tenants	dbpedia:Nepal_national_football_team ;
+	dbpedia-owl:tenant	dbpedia:Nepal_national_football_team .
+dbpedia:Hari_Khadka	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Raju_Tamang	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Deepak_Bhusal	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Kiran_Chemjong	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Sagar_Thapa	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Chetan_Ghimire	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+ns31:Сборная_Непала_по_футболу	owl:sameAs	dbpedia:Nepal_national_football_team .
+ns26:منتخب_نيبال_لكرة_القدم	owl:sameAs	dbpedia:Nepal_national_football_team .
+ns21:تیم_ملی_فوتبال_نپال	owl:sameAs	dbpedia:Nepal_national_football_team .
+ns33:Nepalin_jalkapallomaajoukkue	owl:sameAs	dbpedia:Nepal_national_football_team .
+ns27:נבחרת_נפאל_בכדורגל	owl:sameAs	dbpedia:Nepal_national_football_team .
+ns23:Nepal_national_football_team	owl:sameAs	dbpedia:Nepal_national_football_team .
+ns28:Nepáli_labdarúgó-válogatott	owl:sameAs	dbpedia:Nepal_national_football_team .
+ns36:Nepalo_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Nepal_national_football_team .
+ns20:Pasukan_bola_sepak_kebangsaan_Nepal	owl:sameAs	dbpedia:Nepal_national_football_team .
+ns22:नेपाल_राष्ट्रीय_फुटबल_टोली	owl:sameAs	dbpedia:Nepal_national_football_team .
+ns30:Echipa_națională_de_fotbal_a_Nepalului	owl:sameAs	dbpedia:Nepal_national_football_team .
+ns25:Nepal_national_football_team	owl:sameAs	dbpedia:Nepal_national_football_team .
+ns32:Nepals_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Nepal_national_football_team .
+ns34:Nepal_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Nepal_national_football_team .
+ns38:Збірна_Непалу_з_футболу	owl:sameAs	dbpedia:Nepal_national_football_team .
+ns35:Đội_tuyển_bóng_đá_quốc_gia_Nepal	owl:sameAs	dbpedia:Nepal_national_football_team .
+ns29:尼泊爾國家足球隊	owl:sameAs	dbpedia:Nepal_national_football_team .
+dbpedia:Thomas_Flath	dbpedia-owl:managerClub	dbpedia:Nepal_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Nepal_national_football_team .
+dbpedia:Anil_Gurung	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Nirajan_Khadka	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Joe_Kinnear	dbpedia-owl:managerClub	dbpedia:Nepal_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Nepal_national_football_team .
+dbpedia:Santosh_Sahukhala	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Ju_Manu_Rai	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Stephen_Constantine	dbpedia-owl:managerClub	dbpedia:Nepal_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Nepal_national_football_team .
+dbpedia:Sujal_Shrestha	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Bharat_Khawas	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Bikash_Malla	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Bijaya_Gurung	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Jagjit_Shrestha	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Ritesh_Thapa	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Biraj_Maharjan	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Bikash_Singh_Chhetri	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Rabin_Shrestha	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Bhola_Silwal	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Bikash_Singh_Chhetri__1	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+<http://dbpedia.org/resource/1986_in_Japanese_football>	dbpprop:team	dbpedia:Nepal_national_football_team .
+dbpedia:Ju_Manu_Rai__7	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Rabin_Shrestha__3	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Raju_Tamang__1	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Jitendra_Karki__1	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Kiran_Chemjong__1	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Nirajan_Khadka__1	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Sujal_Shrestha__1	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Thomas_Flath__10	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Deepak_Bhusal__1	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Ganesh_Lawati__1	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Stephen_Constantine__4	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Jagjit_Shrestha__1	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Sagar_Thapa__1	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Ritesh_Thapa__1	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Sabindra_Shrestha__1	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Anil_Gurung__7	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Bimal_Magar__1	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Joe_Kinnear__7	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Santosh_Sahukhala__7	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+<http://dbpedia.org/resource/Tashi_Tsering_(footballer)__1>	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Sandip_Rai__1	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Tanka_Basnet__1	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Hari_Khadka__11	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Nepal_national_football_team_results	dbpedia-owl:wikiPageRedirects	dbpedia:Nepal_national_football_team .
+<http://dbpedia.org/resource/1987_in_Japanese_football>	dbpprop:team	dbpedia:Nepal_national_football_team .
+<http://dbpedia.org/resource/1997_in_Japanese_football>	dbpprop:team	dbpedia:Nepal_national_football_team .
+dbpedia:Bharat_Khawas__2	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Biraj_Maharjan__1	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Bikash_Malla__1	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+<http://dbpedia.org/resource/Tashi_Tsering_(footballer)>	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Rupesh_KC	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Sandip_Rai	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Bimal_Magar	dbpedia-owl:birthPlace	dbpedia:Nepal_national_football_team ;
+	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Sabindra_Shrestha	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Amar_Dongol	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Jitendra_Karki	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Bikesh_Kuthu	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Tanka_Basnet	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Bijaya_Dhimal	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Bijaya_Gurung__1	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Ganesh_Lawati	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Rajendra_Rawal	dbpedia-owl:team	dbpedia:Nepal_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Nepal_national_football_team .
+dbpedia:Bhola_Silwal__1	dbpedia-owl:team	dbpedia:Nepal_national_football_team .
+dbpedia:Rohit_Chand__7	dbpedia-owl:team	dbpedia:Nepal_national_football_team .

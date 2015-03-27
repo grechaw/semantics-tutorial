@@ -1,0 +1,202 @@
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Al_Rayyan_SC	dbpprop:name	dbpedia:Cho_Yong-hyung .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Cho_Yong-hyung .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns3:	<http://en.wikipedia.org/wiki/> .
+ns3:Cho_Yong-hyung	foaf:primaryTopic	dbpedia:Cho_Yong-hyung .
+<http://dbpedia.org/resource/2010_East_Asian_Football_Championship_Final_squads>	dbpprop:name	dbpedia:Cho_Yong-hyung .
+dbpedia:Syria_national_football_team_results_2009	dbpprop:away2player	dbpedia:Cho_Yong-hyung .
+<http://dbpedia.org/resource/2009_South_Korea_national_football_team_season>	dbpprop:away4player	dbpedia:Cho_Yong-hyung ;
+	dbpprop:home2player	dbpedia:Cho_Yong-hyung ;
+	dbpprop:away3player	dbpedia:Cho_Yong-hyung ;
+	dbpprop:home3player	dbpedia:Cho_Yong-hyung ;
+	dbpprop:away2player	dbpedia:Cho_Yong-hyung .
+<http://dbpedia.org/resource/2008_East_Asian_Football_Championship_Final_squads>	dbpprop:name	dbpedia:Cho_Yong-hyung .
+<http://dbpedia.org/resource/2008_South_Korea_national_football_team_season>	dbpprop:home2player	dbpedia:Cho_Yong-hyung ;
+	dbpprop:away13player	dbpedia:Cho_Yong-hyung ;
+	dbpprop:away3player	dbpedia:Cho_Yong-hyung ;
+	dbpprop:away2player	dbpedia:Cho_Yong-hyung .
+<http://dbpedia.org/resource/2010_South_Korea_national_football_team_season>	dbpprop:away4player	dbpedia:Cho_Yong-hyung ;
+	dbpprop:away3player	dbpedia:Cho_Yong-hyung ;
+	dbpprop:home3player	dbpedia:Cho_Yong-hyung .
+<http://dbpedia.org/resource/2011_AFC_Asian_Cup_squads>	dbpprop:name	dbpedia:Cho_Yong-hyung .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbpedia:Cho_Yong-hyung	rdf:type	owl:Thing .
+@prefix ns6:	<http://wikidata.dbpedia.org/resource/> .
+dbpedia:Cho_Yong-hyung	rdf:type	ns6:Q215627 .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Cho_Yong-hyung	rdf:type	dbpedia-owl:Agent ,
+		dbpedia-owl:Person ,
+		foaf:Person ,
+		dbpedia-owl:Athlete .
+@prefix ns8:	<http://schema.org/> .
+dbpedia:Cho_Yong-hyung	rdf:type	ns8:Person ,
+		ns6:Q5 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Cho_Yong-hyung	rdf:type	dul:Agent ,
+		dul:NaturalPerson ,
+		dbpedia-owl:SoccerPlayer ;
+	owl:sameAs	dbpedia:Cho_Yong-hyung .
+@prefix ns10:	<http://wikidata.org/entity/> .
+dbpedia:Cho_Yong-hyung	owl:sameAs	ns10:Q370552 .
+@prefix ns11:	<http://it.dbpedia.org/resource/> .
+dbpedia:Cho_Yong-hyung	owl:sameAs	ns11:Cho_Yong-Hyung .
+@prefix ns12:	<http://pl.dbpedia.org/resource/> .
+dbpedia:Cho_Yong-hyung	owl:sameAs	ns12:Cho_Yong-hyung .
+@prefix ns13:	<http://ko.dbpedia.org/resource/> .
+dbpedia:Cho_Yong-hyung	owl:sameAs	ns13:조용형 ,
+		ns6:Q370552 .
+@prefix ns14:	<http://ja.dbpedia.org/resource/> .
+dbpedia:Cho_Yong-hyung	owl:sameAs	ns14:趙容亨 .
+@prefix ns15:	<http://fr.dbpedia.org/resource/> .
+dbpedia:Cho_Yong-hyung	owl:sameAs	ns15:Cho_Yong-hyung .
+@prefix ns16:	<http://es.dbpedia.org/resource/> .
+dbpedia:Cho_Yong-hyung	owl:sameAs	ns16:Cho_Yong-Hyung .
+@prefix ns17:	<http://de.dbpedia.org/resource/> .
+dbpedia:Cho_Yong-hyung	owl:sameAs	ns17:Cho_Yong-hyung ,
+		<http://rdf.freebase.com/ns/m.04q1vlw> .
+@prefix ns18:	<http://pt.dbpedia.org/resource/> .
+dbpedia:Cho_Yong-hyung	owl:sameAs	ns18:Cho_Yong-Hyung .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Cho_Yong-hyung	rdfs:label	"\u8D75\u5BB9\u4EA8"@zh ,
+		"\u8D99\u5BB9\u4EA8"@ja ,
+		"Cho Yong-Hyung"@es ,
+		"Cho Yong-hyung"@fr ,
+		"\u0427\u043E \u0401\u043D \u0425\u0451\u043D"@ru ,
+		"Cho Yong-Hyung"@it ,
+		"Cho Yong-hyung"@de ,
+		"Cho Yong-Hyung"@pt ,
+		"Cho Yong-hyung"@pl ,
+		"Cho Yong-hyung" ,
+		"\u062A\u0634\u0648 \u064A\u0648\u0646\u063A \u0647\u064A\u0648\u0646\u063A"@ar .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Cho_Yong-hyung	dcterms:subject	category:South_Korea_international_footballers ,
+		category:People_from_Incheon ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:South_Korean_expatriate_footballers ,
+		category:Gyeongnam_FC_players ,
+		category:Jeju_United_FC_players ,
+		category:K_League_players ,
+		category:Living_people ,
+		category:Qatar_Stars_League_players ,
+		category:Al_Rayyan_SC_players ,
+		category:Expatriate_footballers_in_Qatar ,
+		category:South_Korean_footballers ,
+		category:South_Korean_expatriates_in_Qatar ,
+		category:Association_football_defenders ,
+		<http://dbpedia.org/resource/Category:2011_AFC_Asian_Cup_players> ,
+		<http://dbpedia.org/resource/Category:1983_births> ,
+		category:Seongnam_FC_players ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Cho_Yong-Hyung_(by_Doha_Stadium_Plus).jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Cho_Yong-hyung	dc:description	"South Korean footballer" ,
+		"South Korean footballer" ;
+	foaf:givenName	"Yong-Hyung" ;
+	foaf:name	"Yong-Hyung Cho" ,
+		"Cho Yong-Hyung" ,
+		"Cho, Yong-Hyung" ,
+		"(\uC870\uC6A9\uD615)" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Cho_Yong-hyung	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Cho_Yong-hyung?oldid=605411982> ;
+	rdfs:comment	"Cho Yong-Hyung (Incheon, 3 de novembro de 1983) \u00E9 um futebolista profissional sul-coreano, milita no Jeju United."@pt ,
+		"\u062A\u0634\u0648 \u064A\u0648\u0646\u063A \u0647\u064A\u0648\u0646\u063A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Cho Yong-Hyung) (\u0645\u0648\u0627\u0644\u064A\u062F 3 \u0646\u0648\u0641\u0645\u0628\u0631 1983 \u0641\u064A \u0625\u0646\u062A\u0634\u064A\u0648\u0646) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0648\u0631\u064A \u062C\u0646\u0648\u0628\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0641\u064A \u0646\u0627\u062F\u064A \u062C\u064A\u062C\u0648 \u064A\u0648\u0646\u0627\u064A\u062A\u062F \u0627\u0644\u0643\u0648\u0631\u064A \u0627\u0644\u062C\u0646\u0648\u0628\u064A ."@ar ,
+		"Cho Yong-Hyung (hang\u016Dl \uC870\uC6A9\uD615?</span>; Incheon, 3 novembre 1983) \u00E8 un calciatore sudcoreano, difensore dello Al-Rayyan e della Nazionale sudcoreana."@it ,
+		"Cho Yong-hyung, Hangul \uC870\uC6A9\uD615 (ur. 3 listopada 1983 w Inch'\u014Fn) \u2013 po\u0142udniowokorea\u0144ski pi\u0142karz graj\u0105cy na pozycji obro\u0144cy. Obecnie zawodnik katarskiego klubu Al-Rajjan."@pl ,
+		"Cho Yong-hyung (n\u00E9 le 3 novembre 1983 \u00E0 Incheon) est un footballeur international sud-cor\u00E9en qui joue \u00E0 Al-Rayyan SC au Qatar."@fr ,
+		"\u8D75\u5BB9\u4EA8\uFF081983\u5E7411\u67083\u65E5\uFF0D\uFF09\uFF0C\u51FA\u751F\u4E8E\u97E9\u56FD\u4EC1\u5DDD\u5E7F\u57DF\u5E02\uFF0C\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u73B0\u6548\u529B\u4E8EK\u8054\u8D5B\u7403\u961F\u6D4E\u5DDE\u8054\uFF0C\u4ED6\u662F\u97E9\u56FD\u56FD\u5BB6\u961F\u7684\u6210\u5458\u3002"@zh ,
+		"Cho Yong-Hyung (en coreano: \uC870\uC6A9\uD615, nacido el 3 de noviembre de 1983 en Incheon, Corea del Sur) es un futbolista surcoreano que juega como defensor o volante defensivo para el Al Rayyan SC de la Primera Divisi\u00F3n de Catar."@es ,
+		"Cho Yong-Hyung (Hangul: \uC870\uC6A9\uD615, born 3 November 1983) is a South Korean footballer who plays for Al Rayyan SC in Qatar. He is known for his versatility as he can play as a full-back on either side of the pitch, as well as a centre back and a defensive midfielder.Cho Yong-Hyung is praised in the K-League for his positional sense and steadiness under pressure." ,
+		"\u8D99 \u5BB9\u4EA8\uFF08\u30C1\u30E7\u30FB\u30E8\u30F3\u30D2\u30E7\u30F3, 1983\u5E7411\u67083\u65E5 - \uFF09\u306F\u3001\u5927\u97D3\u6C11\u56FD\u30FB\u4EC1\u5DDD\u5E83\u57DF\u5E02\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u4E3B\u306B\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\uFF08DF\uFF09\u3002"@ja ,
+		"\u0427\u043E \u0401\u043D \u0425\u0451\u043D (\u043A\u043E\u0440. \uC870\uC6A9\uD615?, \u8D99\u5BB9\u4EA8?; 3 \u043D\u043E\u044F\u0431\u0440\u044F 1983, \u0418\u043D\u0447\u0445\u043E\u043D, \u042E\u0436\u043D\u0430\u044F \u041A\u043E\u0440\u0435\u044F) \u2014 \u044E\u0436\u043D\u043E\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0410\u043B\u044C-\u0420\u0430\u0439\u044F\u043D\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u042E\u0436\u043D\u043E\u0439 \u041A\u043E\u0440\u0435\u0438. \u0411\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0439 \u043F\u0440\u0438\u0437\u0451\u0440 \u041A\u0443\u0431\u043A\u0430 \u0410\u0437\u0438\u0438 2011 \u0433\u043E\u0434\u0430."@ru ,
+		"Cho Yong-hyung (* 3. November 1983 in Incheon) ist ein s\u00FCdkoreanischer Fu\u00DFballspieler."@de ;
+	foaf:surname	"Cho" ;
+	foaf:isPrimaryTopicOf	ns3:Cho_Yong-hyung ;
+	dbpprop:name	"(\uC870\uC6A9\uD615)" ,
+		"Cho Yong-Hyung" ,
+		"Cho, Yong-Hyung" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Cho_Yong-Hyung_(by_Doha_Stadium_Plus).jpg?width=300> ;
+	dbpedia-owl:abstract	"\u8D99 \u5BB9\u4EA8\uFF08\u30C1\u30E7\u30FB\u30E8\u30F3\u30D2\u30E7\u30F3, 1983\u5E7411\u67083\u65E5 - \uFF09\u306F\u3001\u5927\u97D3\u6C11\u56FD\u30FB\u4EC1\u5DDD\u5E83\u57DF\u5E02\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u4E3B\u306B\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\uFF08DF\uFF09\u3002"@ja ,
+		"\u8D75\u5BB9\u4EA8\uFF081983\u5E7411\u67083\u65E5\uFF0D\uFF09\uFF0C\u51FA\u751F\u4E8E\u97E9\u56FD\u4EC1\u5DDD\u5E7F\u57DF\u5E02\uFF0C\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u73B0\u6548\u529B\u4E8EK\u8054\u8D5B\u7403\u961F\u6D4E\u5DDE\u8054\uFF0C\u4ED6\u662F\u97E9\u56FD\u56FD\u5BB6\u961F\u7684\u6210\u5458\u3002"@zh ,
+		"Cho Yong-Hyung (Incheon, 3 de novembro de 1983) \u00E9 um futebolista profissional sul-coreano, milita no Jeju United."@pt ,
+		"Cho Yong-hyung (n\u00E9 le 3 novembre 1983 \u00E0 Incheon) est un footballeur international sud-cor\u00E9en qui joue \u00E0 Al-Rayyan SC au Qatar."@fr ,
+		"Cho Yong-Hyung (en coreano: \uC870\uC6A9\uD615, nacido el 3 de noviembre de 1983 en Incheon, Corea del Sur) es un futbolista surcoreano que juega como defensor o volante defensivo para el Al Rayyan SC de la Primera Divisi\u00F3n de Catar."@es ,
+		"Cho Yong-Hyung (Hangul: \uC870\uC6A9\uD615, born 3 November 1983) is a South Korean footballer who plays for Al Rayyan SC in Qatar. He is known for his versatility as he can play as a full-back on either side of the pitch, as well as a centre back and a defensive midfielder.Cho Yong-Hyung is praised in the K-League for his positional sense and steadiness under pressure. Throughout South Korea, Cho has already become regarded as the successor to Hong Myung-Bo, South Korea\u2019s legendary center half who took part in four FIFA World Cups." ,
+		"\u0427\u043E \u0401\u043D \u0425\u0451\u043D (\u043A\u043E\u0440. \uC870\uC6A9\uD615?, \u8D99\u5BB9\u4EA8?; 3 \u043D\u043E\u044F\u0431\u0440\u044F 1983, \u0418\u043D\u0447\u0445\u043E\u043D, \u042E\u0436\u043D\u0430\u044F \u041A\u043E\u0440\u0435\u044F) \u2014 \u044E\u0436\u043D\u043E\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0410\u043B\u044C-\u0420\u0430\u0439\u044F\u043D\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u042E\u0436\u043D\u043E\u0439 \u041A\u043E\u0440\u0435\u0438. \u0411\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0439 \u043F\u0440\u0438\u0437\u0451\u0440 \u041A\u0443\u0431\u043A\u0430 \u0410\u0437\u0438\u0438 2011 \u0433\u043E\u0434\u0430."@ru ,
+		"\u062A\u0634\u0648 \u064A\u0648\u0646\u063A \u0647\u064A\u0648\u0646\u063A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Cho Yong-Hyung) (\u0645\u0648\u0627\u0644\u064A\u062F 3 \u0646\u0648\u0641\u0645\u0628\u0631 1983 \u0641\u064A \u0625\u0646\u062A\u0634\u064A\u0648\u0646) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0648\u0631\u064A \u062C\u0646\u0648\u0628\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0641\u064A \u0646\u0627\u062F\u064A \u062C\u064A\u062C\u0648 \u064A\u0648\u0646\u0627\u064A\u062A\u062F \u0627\u0644\u0643\u0648\u0631\u064A \u0627\u0644\u062C\u0646\u0648\u0628\u064A ."@ar ,
+		"Cho Yong-Hyung (hang\u016Dl \uC870\uC6A9\uD615?</span>; Incheon, 3 novembre 1983) \u00E8 un calciatore sudcoreano, difensore dello Al-Rayyan e della Nazionale sudcoreana."@it ,
+		"Cho Yong-hyung (* 3. November 1983 in Incheon) ist ein s\u00FCdkoreanischer Fu\u00DFballspieler."@de ,
+		"Cho Yong-hyung, Hangul \uC870\uC6A9\uD615 (ur. 3 listopada 1983 w Inch'\u014Fn) \u2013 po\u0142udniowokorea\u0144ski pi\u0142karz graj\u0105cy na pozycji obro\u0144cy. Obecnie zawodnik katarskiego klubu Al-Rajjan."@pl ;
+	dbpedia-owl:wikiPageID	19790064 ;
+	dbpedia-owl:wikiPageRevisionID	605411982 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Cho_Yong-hyung	dbpprop:birthDate	"1983-11-03+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Incheon, South Korea" ;
+	dbpprop:dateOfBirth	"1983-11-03+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Incheon, South Korea" ;
+	dbpprop:shortDescription	"South Korean footballer" ;
+	dbpedia-owl:birthDate	"1983-11-03+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Incheon ,
+		dbpedia:South_Korea_national_football_team ;
+	dbpedia-owl:birthYear	"1983+02:00"^^xsd:gYear ;
+	dbpprop:goals	2 ,
+		0 ,
+		1 ;
+	dbpprop:bg	"#F02A18" ,
+		"gold" ;
+	dbpprop:caps	47 ,
+		57 ,
+		0 ,
+		18 ,
+		69 ;
+	dbpprop:years	2010 ,
+		2008 ,
+		2007 ,
+		2005 ;
+	dbpedia-owl:careerStation	dbpedia:Cho_Yong-hyung__2 ,
+		dbpedia:Cho_Yong-hyung__1 ,
+		dbpedia:Cho_Yong-hyung__3 ,
+		dbpedia:Cho_Yong-hyung__5 ,
+		dbpedia:Cho_Yong-hyung__4 ,
+		dbpedia:Cho_Yong-hyung__6 ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.8200000000000000622 .
+@prefix ns25:	<http://dbpedia.org/datatype/> .
+@prefix ns26:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Cho_Yong-hyung	ns26:height	"182.0"^^ns25:centimetre ;
+	dbpprop:currentclub	dbpedia:Al_Rayyan_SC ;
+	dbpprop:clubnumber	13 ;
+	dbpprop:fullname	"Cho Yong-Hyung" ;
+	dbpprop:clubs	dbpedia:Gyeongnam_FC ,
+		dbpedia:Seongnam_FC ,
+		dbpedia:Al_Rayyan_SC ,
+		dbpedia:Jeju_United_FC ;
+	dbpedia-owl:team	dbpedia:South_Korea_national_football_team ,
+		dbpedia:Gyeongnam_FC ,
+		dbpedia:Seongnam_FC ,
+		dbpedia:Al_Rayyan_SC ,
+		dbpedia:Jeju_United_FC ;
+	dbpprop:title	"South Korea Squads" ,
+		"Awards" ;
+	dbpprop:pcupdate	"2011-02-23+02:00"^^xsd:date ;
+	dbpedia-owl:wikiPageExternalLink	<http://kleague.com/record/record_player.aspx?team_id=K02&player_id=2005008> ,
+		<http://www.fifa.com/worldfootball/statisticsandrecords/players/player=237771/index.html> ,
+		<http://www.kfa.or.kr/koreateam/fb_amatch_contents.asp?p_unique=20061117121522> ;
+	dbpprop:rr	"Jo Yong-hyeong" ;
+	dbpprop:hangul	"\uC870\uC6A9\uD615" ;
+	dbpprop:mr	"Cho Yonghy\u014Fng" ;
+	dbpprop:fg	"navy" ,
+		"White" ;
+	dbpprop:nationalcaps	42 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:South_Korea_national_football_team ;
+	dbpprop:nationalyears	2008 ;
+	dbpedia-owl:number	13 ;
+	dbpprop:hanja	"\u8D99\u5BB9\u4EA8" ;
+	dbpprop:ntupdate	"2012-05-31+02:00"^^xsd:date .
+<http://dbpedia.org/resource/Kim_Eun-jung_(footballer)>	dbpprop:before	dbpedia:Cho_Yong-hyung .
+dbpedia:Cho_Yong-Hyung	dbpedia-owl:wikiPageRedirects	dbpedia:Cho_Yong-hyung .
+dbpedia:Al_Rayyan_SC__ho_Yong-Hyung__1	dbpedia-owl:currentMember	dbpedia:Cho_Yong-hyung .

@@ -1,0 +1,227 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://pl.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Souleymanou_Hamidou	owl:sameAs	dbpedia:Souleymanou_Hamidou .
+@prefix ns3:	<http://fr.dbpedia.org/resource/> .
+ns3:Souleymanou_Hamidou	owl:sameAs	dbpedia:Souleymanou_Hamidou .
+@prefix ns4:	<http://de.dbpedia.org/resource/> .
+ns4:Souleymanou_Hamidou	owl:sameAs	dbpedia:Souleymanou_Hamidou .
+@prefix ns5:	<http://wikidata.dbpedia.org/resource/> .
+ns5:Q381182	owl:sameAs	dbpedia:Souleymanou_Hamidou .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Souleymanou_Hamidou	owl:sameAs	dbpedia:Souleymanou_Hamidou .
+@prefix ns7:	<http://it.dbpedia.org/resource/> .
+ns7:Souleymanou_Hamidou	owl:sameAs	dbpedia:Souleymanou_Hamidou .
+@prefix ns8:	<http://nl.dbpedia.org/resource/> .
+ns8:Souleymanou_Hamidou	owl:sameAs	dbpedia:Souleymanou_Hamidou .
+@prefix ns9:	<http://pt.dbpedia.org/resource/> .
+ns9:Souleymanou_Hamidou	owl:sameAs	dbpedia:Souleymanou_Hamidou .
+@prefix ns10:	<http://ar.dbpedia.org/resource/> .
+ns10:سليمانو_حميدو	owl:sameAs	dbpedia:Souleymanou_Hamidou .
+@prefix ns11:	<http://fi.dbpedia.org/resource/> .
+ns11:Souleymanou_Hamidou	owl:sameAs	dbpedia:Souleymanou_Hamidou .
+@prefix ns12:	<http://mr.dbpedia.org/resource/> .
+ns12:सूलेमानू_हमिदू	owl:sameAs	dbpedia:Souleymanou_Hamidou .
+@prefix ns13:	<http://nn.dbpedia.org/resource/> .
+ns13:Souleymanou_Hamidou	owl:sameAs	dbpedia:Souleymanou_Hamidou .
+@prefix ns14:	<http://no.dbpedia.org/resource/> .
+ns14:Souleymanou_Hamidou	owl:sameAs	dbpedia:Souleymanou_Hamidou .
+<http://ru.dbpedia.org/resource/\u0425\u0430\u043C\u0438\u0434\u0443,_\u0421\u0443\u043B\u0435\u0439\u043C\u0430\u043D\u0443>	owl:sameAs	dbpedia:Souleymanou_Hamidou .
+@prefix ns15:	<http://sv.dbpedia.org/resource/> .
+ns15:Souleymanou_Hamidou	owl:sameAs	dbpedia:Souleymanou_Hamidou .
+@prefix ns16:	<http://tr.dbpedia.org/resource/> .
+ns16:Souleymanou_Hamidou	owl:sameAs	dbpedia:Souleymanou_Hamidou .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_Africa_Cup_of_Nations_squads>	dbpprop:name	dbpedia:Souleymanou_Hamidou .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns19:	<http://en.wikipedia.org/wiki/> .
+ns19:Souleymanou_Hamidou	foaf:primaryTopic	dbpedia:Souleymanou_Hamidou .
+<http://dbpedia.org/resource/2000_African_Cup_of_Nations_squads>	dbpprop:name	dbpedia:Souleymanou_Hamidou .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Souleymanou_Hamidou .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Souleymanou_Hamidou	rdf:type	yago:CameroonianFootballers ,
+		yago:Contestant109613191 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:Whole100003553 ,
+		foaf:Person ,
+		yago:Object100002684 ,
+		yago:DenizlisporFootballers ,
+		yago:KayserisporFootballers ,
+		yago:PhysicalEntity100001930 .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Souleymanou_Hamidou	rdf:type	dbpedia-owl:SoccerPlayer ,
+		yago:ExpatriateFootballersInTurkey ,
+		<http://dbpedia.org/class/yago/%C3%87aykurRizesporFootballers> ,
+		yago:CameroonInternationalFootballers ,
+		yago:CameroonianExpatriateFootballers ,
+		<http://dbpedia.org/class/yago/S%C3%BCperLigPlayers> ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		ns5:Q215627 ,
+		owl:Thing .
+@prefix ns23:	<http://schema.org/> .
+dbpedia:Souleymanou_Hamidou	rdf:type	ns23:Person ,
+		dbpedia-owl:Person ,
+		yago:Player110439851 ,
+		yago:CotonsportGarouaPlayers ,
+		dbpedia-owl:Agent ,
+		yago:FootballPlayer110101634 ,
+		dbpedia-owl:Athlete ,
+		yago:Athlete109820263 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Souleymanou_Hamidou	rdf:type	dul:Agent ,
+		ns5:Q5 ,
+		dul:NaturalPerson ;
+	owl:sameAs	ns16:Souleymanou_Hamidou ,
+		ns3:Souleymanou_Hamidou ,
+		dbpedia:Souleymanou_Hamidou ,
+		ns10:سليمانو_حميدو ,
+		ns4:Souleymanou_Hamidou ,
+		ns11:Souleymanou_Hamidou ,
+		ns7:Souleymanou_Hamidou .
+@prefix ns25:	<http://yago-knowledge.org/resource/> .
+dbpedia:Souleymanou_Hamidou	owl:sameAs	ns25:Souleymanou_Hamidou ,
+		ns15:Souleymanou_Hamidou ,
+		ns1:Souleymanou_Hamidou ,
+		ns12:सूलेमानू_हमिदू ,
+		ns8:Souleymanou_Hamidou ,
+		ns5:Q381182 ,
+		ns9:Souleymanou_Hamidou .
+@prefix ns26:	<http://wikidata.org/entity/> .
+dbpedia:Souleymanou_Hamidou	owl:sameAs	ns26:Q381182 ,
+		<http://rdf.freebase.com/ns/m.0dtb7s> ,
+		ns13:Souleymanou_Hamidou ,
+		ns6:Souleymanou_Hamidou ,
+		ns14:Souleymanou_Hamidou ,
+		<http://ru.dbpedia.org/resource/\u0425\u0430\u043C\u0438\u0434\u0443,_\u0421\u0443\u043B\u0435\u0439\u043C\u0430\u043D\u0443> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Souleymanou_Hamidou	rdfs:label	"Souleymanou Hamidou" ,
+		"Souleymanou Hamidou"@pt ,
+		"\u0425\u0430\u043C\u0438\u0434\u0443, \u0421\u0443\u043B\u0435\u0439\u043C\u0430\u043D\u0443"@ru ,
+		"Souleymanou Hamidou"@de ,
+		"Souleymanou Hamidou"@es ,
+		"Souleymanou Hamidou"@pl ,
+		"Souleymanou Hamidou"@fr ,
+		"Souleymanou Hamidou"@it ,
+		"Souleymanou Hamidou"@nl ,
+		"\u0633\u0644\u064A\u0645\u0627\u0646\u0648 \u062D\u0645\u064A\u062F\u0648"@ar .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Souleymanou_Hamidou	dcterms:subject	category:Cameroonian_expatriate_footballers ,
+		<http://dbpedia.org/resource/Category:2010_Africa_Cup_of_Nations_players> ,
+		<http://dbpedia.org/resource/Category:2002_African_Cup_of_Nations_players> ,
+		<http://dbpedia.org/resource/Category:2006_Africa_Cup_of_Nations_players> ,
+		<http://dbpedia.org/resource/Category:2008_Africa_Cup_of_Nations_players> ,
+		category:Cameroonian_Muslims ,
+		<http://dbpedia.org/resource/Category:1973_births> ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:%C3%87aykur_Rizespor_footballers> ,
+		<http://dbpedia.org/resource/Category:People_from_Far_North_Region_(Cameroon)> ,
+		<http://dbpedia.org/resource/Category:S%C3%BCper_Lig_players> ,
+		category:Expatriate_footballers_in_Turkey ,
+		category:Cotonsport_Garoua_players ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Denizlispor_footballers ,
+		category:Cameroonian_footballers ,
+		category:Kayserispor_footballers ,
+		<http://dbpedia.org/resource/Category:2000_African_Cup_of_Nations_players> ,
+		category:Cameroon_international_footballers .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Souleymanou_Hamidou	dc:description	"Cameroonian footballer" ,
+		"Cameroonian footballer" ;
+	foaf:givenName	"Souleymanou" ;
+	foaf:name	"Souleymanou Hamidou" ,
+		"Hamidou, Souleymanou" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Souleymanou_Hamidou	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Souleymanou_Hamidou?oldid=602629857> ;
+	rdfs:comment	"Souleymanou Hamidou (Mokolo, Regi\u00F3n del Extremo Norte, Camer\u00FAn; 22 de noviembre de 1973) es un futbolista camerun\u00E9s. Juega de portero."@es ,
+		"Souleymanou Hamidou (Mokolo, 22 november 1973) is een Kameroens voetbaldoelman die sinds 2008 voor de Turkse eersteklasser Kayserispor uitkomt. Eerder speelde hij onder meer voor Denizlispor.Hamidou speelde sinds 2000 veertig wedstrijden voor de Kameroense nationale ploeg."@nl ,
+		"\u0633\u0644\u064A\u0645\u0627\u0646\u0648 \u062D\u0645\u064A\u062F\u0648\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 22 \u0646\u0648\u0641\u0645\u0628\u0631 1973\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0627\u0645\u064A\u0631\u0648\u0646\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0643\u0648\u062A\u0648\u0646\u0633\u0628\u0648\u0631\u062A \u0641\u064A \u0639\u0627\u0645 1999\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2000\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2000 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0643\u0627\u064A\u0643\u0648\u0631 \u0631\u064A\u0632\u0633\u0628\u0648\u0631 \u0627\u0644\u062A\u0631\u0643\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2003\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2003 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u062F\u064A\u0646\u0632\u0644\u0633\u0628\u0648\u0631 \u0627\u0644\u062A\u0631\u0643\u064A.\u064A\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0643\u0627\u0645\u064A\u0631\u0648\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645."@ar ,
+		"Souleymanou Hamidou (* 22. November 1973 in Mokolo) ist ein ehemaliger kamerunischer Fu\u00DFballtorh\u00FCter. Zuletzt spielte er bei Kayserispor."@de ,
+		"Souleymanou Hamidou (born 22 November 1973) is a retired Cameroonian football goalkeeper." ,
+		"Souleymanou Hamidou (ur. 22 listopada 1973 w Mokolo) \u2013 kameru\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji bramkarza. Zawodnik Kayserisporu."@pl ,
+		"\u0421\u0443\u043B\u0435\u0439\u043C\u0430\u043D\u0443\u0301 \u0425\u0430\u043C\u0438\u0434\u0443\u0301 (\u0444\u0440. Souleymanou Hamidou; 22 \u043D\u043E\u044F\u0431\u0440\u044F 1973, \u041C\u043E\u043A\u043E\u043B\u043E, \u041A\u0430\u043C\u0435\u0440\u0443\u043D) \u2014 \u043A\u0430\u043C\u0435\u0440\u0443\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432\u0440\u0430\u0442\u0430\u0440\u044C \u0442\u0443\u0440\u0435\u0446\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u041A\u0430\u0439\u0441\u0435\u0440\u0438\u0441\u043F\u043E\u0440\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u0430\u043C\u0435\u0440\u0443\u043D\u0430.\u041F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0443\u044E \u043A\u0430\u0440\u044C\u0435\u0440\u0443 \u0425\u0430\u043C\u0438\u0434\u0443 \u043D\u0430\u0447\u0430\u043B \u0432 \u043A\u043B\u0443\u0431\u0435 \u00AB\u041A\u043E\u0442\u043E\u043D \u0421\u043F\u043E\u0440\u0442\u00BB, \u0432 2000 \u0433\u043E\u0434\u0443 \u043E\u043D \u043F\u0435\u0440\u0435\u0431\u0440\u0430\u043B\u0441\u044F \u0432 \u0422\u0443\u0440\u0446\u0438\u044E, \u0433\u0434\u0435 \u0438\u0433\u0440\u0430\u0435\u0442 \u0438 \u043F\u043E\u043D\u044B\u043D\u0435."@ru ,
+		"Souleymanou Hamidou (Mokolo, 22 novembre 1973) \u00E8 un calciatore camerunese, portiere del Kayserispor e della Nazionale camerunense."@it ,
+		"Souleymanou Hamidou (n\u00E9 le 22 novembre 1973 \u00E0 Mokolo, Cameroun) est un footballeur international camerounais. Il \u00E9volue au poste de gardien de but.International camerounais, il a particip\u00E9 \u00E0 la Coupe d'Afrique des nations en 2006 et 2008."@fr ,
+		"Souleymanou Hamidou (Mokolo, 22 de novembro de 1973) \u00E9 um futebolista camaron\u00EAs.Sua carreira club\u00EDstica iniciou-se em 1999, quando j\u00E1 tinha 25 anos. Na \u00E9poca, defendia o Cotonsport, tendo atuado pela agremia\u00E7\u00E3o at\u00E9 2000, quando se mudou para a Turquia. Em territ\u00F3rio turco, Hamidou jogou por \u00C7aykur Rizespor, Denizlispor e Kayserispor, sendo que nos dois \u00FAltimos, alcan\u00E7ou destaque. Desde que seu contrato com os Anadolu Y\u0131ld\u0131z\u0131 se encerrou, permanece sem clube."@pt ;
+	foaf:surname	"Hamidou" ;
+	foaf:isPrimaryTopicOf	ns19:Souleymanou_Hamidou .
+@prefix ns32:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Souleymanou_Hamidou	dbpprop:hasPhotoCollection	ns32:Souleymanou_Hamidou ;
+	dbpprop:name	"Hamidou, Souleymanou" ,
+		"Souleymanou Hamidou" ;
+	dbpedia-owl:abstract	"Souleymanou Hamidou (ur. 22 listopada 1973 w Mokolo) \u2013 kameru\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji bramkarza. Zawodnik Kayserisporu."@pl ,
+		"Souleymanou Hamidou (Mokolo, 22 november 1973) is een Kameroens voetbaldoelman die sinds 2008 voor de Turkse eersteklasser Kayserispor uitkomt. Eerder speelde hij onder meer voor Denizlispor.Hamidou speelde sinds 2000 veertig wedstrijden voor de Kameroense nationale ploeg."@nl ,
+		"Souleymanou Hamidou (Mokolo, Regi\u00F3n del Extremo Norte, Camer\u00FAn; 22 de noviembre de 1973) es un futbolista camerun\u00E9s. Juega de portero."@es ,
+		"Souleymanou Hamidou (n\u00E9 le 22 novembre 1973 \u00E0 Mokolo, Cameroun) est un footballeur international camerounais. Il \u00E9volue au poste de gardien de but.International camerounais, il a particip\u00E9 \u00E0 la Coupe d'Afrique des nations en 2006 et 2008."@fr ,
+		"Souleymanou Hamidou (born 22 November 1973) is a retired Cameroonian football goalkeeper." ,
+		"\u0421\u0443\u043B\u0435\u0439\u043C\u0430\u043D\u0443\u0301 \u0425\u0430\u043C\u0438\u0434\u0443\u0301 (\u0444\u0440. Souleymanou Hamidou; 22 \u043D\u043E\u044F\u0431\u0440\u044F 1973, \u041C\u043E\u043A\u043E\u043B\u043E, \u041A\u0430\u043C\u0435\u0440\u0443\u043D) \u2014 \u043A\u0430\u043C\u0435\u0440\u0443\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432\u0440\u0430\u0442\u0430\u0440\u044C \u0442\u0443\u0440\u0435\u0446\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u041A\u0430\u0439\u0441\u0435\u0440\u0438\u0441\u043F\u043E\u0440\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u0430\u043C\u0435\u0440\u0443\u043D\u0430.\u041F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0443\u044E \u043A\u0430\u0440\u044C\u0435\u0440\u0443 \u0425\u0430\u043C\u0438\u0434\u0443 \u043D\u0430\u0447\u0430\u043B \u0432 \u043A\u043B\u0443\u0431\u0435 \u00AB\u041A\u043E\u0442\u043E\u043D \u0421\u043F\u043E\u0440\u0442\u00BB, \u0432 2000 \u0433\u043E\u0434\u0443 \u043E\u043D \u043F\u0435\u0440\u0435\u0431\u0440\u0430\u043B\u0441\u044F \u0432 \u0422\u0443\u0440\u0446\u0438\u044E, \u0433\u0434\u0435 \u0438\u0433\u0440\u0430\u0435\u0442 \u0438 \u043F\u043E\u043D\u044B\u043D\u0435. \u041F\u0435\u0440\u0432\u044B\u043C \u0435\u0433\u043E \u043A\u043B\u0443\u0431\u043E\u043C \u0432 \u0422\u0443\u0440\u0446\u0438\u0438 \u0441\u0442\u0430\u043B \u00AB\u0420\u0438\u0437\u0435\u0441\u043F\u043E\u0440\u00BB, \u0432 \u043A\u043E\u0442\u043E\u0440\u043E\u043C \u043E\u043D \u043F\u0440\u043E\u0432\u0451\u043B 3 \u0433\u043E\u0434\u0430, \u0437\u0430\u0442\u0435\u043C 5 \u0441\u0435\u0437\u043E\u043D\u043E\u0432 \u043E\u043D \u043E\u0442\u044B\u0433\u0440\u0430\u043B \u0437\u0430 \u00AB\u0414\u0435\u043D\u0438\u0437\u043B\u0438\u0441\u043F\u043E\u0440\u00BB, \u0441 2008 \u0433\u043E\u0434\u0430 \u0425\u0430\u043C\u0438\u0434\u0443 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u0437\u0430 \u00AB\u041A\u0430\u0439\u0441\u0435\u0440\u0438\u0441\u043F\u043E\u0440\u00BB, \u0433\u0434\u0435 \u043D\u0435\u0441\u043C\u043E\u0442\u0440\u044F \u043D\u0430 \u0441\u0432\u043E\u0439 \u0441\u043E\u043B\u0438\u0434\u043D\u044B\u0439 \u0432\u043E\u0437\u0440\u0430\u0441\u0442 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043E\u0441\u043D\u043E\u0432\u043D\u044B\u043C \u0432\u0440\u0430\u0442\u0430\u0440\u0451\u043C.\u0412 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u0443\u043B\u0435\u0439\u043C\u0430\u043D\u0443 \u0425\u0430\u043C\u0438\u0434\u0443 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u0441 2000 \u0433\u043E\u0434\u0430, \u043F\u0440\u043E\u0432\u0435\u0434\u044F \u0437\u0430 \u044D\u0442\u043E \u0432\u0440\u0435\u043C\u044F \u0432 \u0435\u0451 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 40 \u043C\u0430\u0442\u0447\u0435\u0439 \u0438 \u043F\u0440\u0438\u043D\u044F\u0432 \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0447\u0435\u0442\u044B\u0440\u0451\u0445 \u041A\u0443\u0431\u043A\u0430\u0445 \u0410\u0444\u0440\u0438\u043A\u0438. \u0425\u0430\u043C\u0438\u0434\u0443 \u0432\u043A\u043B\u044E\u0447\u0451\u043D \u0432 \u0441\u043E\u0441\u0442\u0430\u0432 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u0430\u043C\u0435\u0440\u0443\u043D\u0430 \u043D\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043C\u0438\u0440\u0430 2010."@ru ,
+		"Souleymanou Hamidou (Mokolo, 22 novembre 1973) \u00E8 un calciatore camerunese, portiere del Kayserispor e della Nazionale camerunense."@it ,
+		"\u0633\u0644\u064A\u0645\u0627\u0646\u0648 \u062D\u0645\u064A\u062F\u0648\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 22 \u0646\u0648\u0641\u0645\u0628\u0631 1973\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0627\u0645\u064A\u0631\u0648\u0646\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0643\u0648\u062A\u0648\u0646\u0633\u0628\u0648\u0631\u062A \u0641\u064A \u0639\u0627\u0645 1999\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2000\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2000 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0643\u0627\u064A\u0643\u0648\u0631 \u0631\u064A\u0632\u0633\u0628\u0648\u0631 \u0627\u0644\u062A\u0631\u0643\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2003\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2003 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u062F\u064A\u0646\u0632\u0644\u0633\u0628\u0648\u0631 \u0627\u0644\u062A\u0631\u0643\u064A.\u064A\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0643\u0627\u0645\u064A\u0631\u0648\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645."@ar ,
+		"Souleymanou Hamidou (Mokolo, 22 de novembro de 1973) \u00E9 um futebolista camaron\u00EAs.Sua carreira club\u00EDstica iniciou-se em 1999, quando j\u00E1 tinha 25 anos. Na \u00E9poca, defendia o Cotonsport, tendo atuado pela agremia\u00E7\u00E3o at\u00E9 2000, quando se mudou para a Turquia. Em territ\u00F3rio turco, Hamidou jogou por \u00C7aykur Rizespor, Denizlispor e Kayserispor, sendo que nos dois \u00FAltimos, alcan\u00E7ou destaque. Desde que seu contrato com os Anadolu Y\u0131ld\u0131z\u0131 se encerrou, permanece sem clube."@pt ,
+		"Souleymanou Hamidou (* 22. November 1973 in Mokolo) ist ein ehemaliger kamerunischer Fu\u00DFballtorh\u00FCter. Zuletzt spielte er bei Kayserispor."@de ;
+	dbpedia-owl:wikiPageID	5575319 ;
+	dbpedia-owl:wikiPageRevisionID	602629857 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Souleymanou_Hamidou	dbpprop:birthDate	"1973-11-22+02:00"^^xsd:date ;
+	dbpprop:birthPlace	dbpedia:Cameroon ,
+		dbpedia:Mokolo ;
+	dbpprop:dateOfBirth	"1973-11-22+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	dbpedia:Cameroon ,
+		dbpedia:Mokolo ;
+	dbpprop:shortDescription	"Cameroonian footballer" ;
+	dbpedia-owl:birthDate	"1973-11-22+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Mokolo ,
+		dbpedia:Cameroon ;
+	dbpedia-owl:birthYear	"1973+02:00"^^xsd:gYear ;
+	dbpprop:goals	0 ;
+	dbpprop:bg	"Green" ;
+	dbpprop:caps	128 ,
+		87 ,
+		40 ,
+		14 ;
+	dbpprop:years	2003 ,
+		2000 ,
+		2008 ,
+		1999 ;
+	dbpedia-owl:careerStation	dbpedia:Souleymanou_Hamidou__5 ,
+		dbpedia:Souleymanou_Hamidou__4 ,
+		dbpedia:Souleymanou_Hamidou__3 ,
+		dbpedia:Souleymanou_Hamidou__2 ,
+		dbpedia:Souleymanou_Hamidou__1 ;
+	dbpprop:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbpedia-owl:height	1.8200000000000000622 .
+@prefix ns34:	<http://dbpedia.org/datatype/> .
+@prefix ns35:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Souleymanou_Hamidou	ns35:height	"182.0"^^ns34:centimetre ;
+	dbpprop:clubs	<http://dbpedia.org/resource/%C3%87aykur_Rizespor> ,
+		dbpedia:Coton_Sport_FC_de_Garoua ,
+		dbpedia:Denizlispor ,
+		dbpedia:Kayserispor ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/%C3%87aykur_Rizespor> ,
+		dbpedia:Cameroon_national_football_team ,
+		dbpedia:Coton_Sport_FC_de_Garoua ,
+		dbpedia:Denizlispor ,
+		dbpedia:Kayserispor ;
+	dbpprop:title	"Cameroon squads" ;
+	dbpedia-owl:wikiPageExternalLink	<http://soccernet.espn.go.com/player/_/id/35027/souleymanou-hamidou?ver=global> ,
+		<http://guardian.touch-line.com/?Lang=0&CTID=26&CPID=66&pStr=Player&PLID=180238&TEID=1038> ;
+	dbpprop:fg	"Yellow" ;
+	dbpprop:nationalcaps	25 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:Cameroon_national_football_team ;
+	dbpprop:nationalyears	2000 ;
+	dbpprop:ntupdate	"--06-20+02:00"^^xsd:gMonthDay ;
+	dbpprop:totalcaps	269 ;
+	dbpprop:totalgoals	0 .
+dbpedia:Cameroon_at_the_FIFA_World_Cup	dbpprop:name	dbpedia:Souleymanou_Hamidou .
+dbpedia:Hamidou	dbpedia-owl:wikiPageDisambiguates	dbpedia:Souleymanou_Hamidou .
+<http://dbpedia.org/resource/2008_Africa_Cup_of_Nations_squads>	dbpprop:name	dbpedia:Souleymanou_Hamidou .
+<http://dbpedia.org/resource/2006_Africa_Cup_of_Nations_squads>	dbpprop:name	dbpedia:Souleymanou_Hamidou .

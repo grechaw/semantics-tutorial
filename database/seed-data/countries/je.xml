@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xml:base="http://www.daml.org/2001/12/factbook/je">
+  <rdf:Description rdf:about='#A53757'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1998</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53672'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:ratio>0.96</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53667'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>65</NS0:minAge>
+    <NS0:ratio>0.75</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53751'>
+    <NS0:year>1996</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53661'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>15</NS0:minAge>
+    <NS0:maxAge>64</NS0:maxAge>
+    <NS0:ratio>0.99</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53762'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53640'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53832'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53655'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>14</NS0:maxAge>
+    <NS0:ratio>1.07</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53717'>
+    <NS0:note>official</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53649'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>0</NS0:maxAge>
+    <NS0:ratio>1.08</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53722'>
+    <NS0:note>official</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53835'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>1524</NS0:minRunway>
+    <NS0:maxRunway>2437</NS0:maxRunway>
+    <NS0:count>1 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53643'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#JE'>
+    <NS0:background>The island of Jersey and the other Channel Islands represent the last remnants of the medieval Dukedom of Normandy that held sway in both France and England. These islands were the only British soil occupied by German troops in World War II.</NS0:background>
+    <NS0:location>Western Europe, island in the English Channel, northwest of France</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A53601'/>
+    <NS0:mapReferences>Europe</NS0:mapReferences>
+    <NS0:totalArea>116</NS0:totalArea>
+    <NS0:landArea>116</NS0:landArea>
+    <NS0:waterArea>0</NS0:waterArea>
+    <NS0:comparativeArea>about 0.7 times the size of Washington, DC</NS0:comparativeArea>
+    <NS0:coastline>70</NS0:coastline>
+    <NS0:exclusiveFishingZone>12</NS0:exclusiveFishingZone>
+    <NS0:territorialSea>3</NS0:territorialSea>
+    <NS0:climate>temperate; mild winters and cool summers</NS0:climate>
+    <NS0:terrain>gently rolling plain with low, rugged hills along north coast</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A53616'/>
+    <NS0:highestPoint rdf:resource='#A53621'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#arable_land'/>
+    <NS0:arableLand>66</NS0:arableLand>
+    <NS0:permanentCrops>0</NS0:permanentCrops>
+    <NS0:permanentPastures>0</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>0</NS0:forestsAndWoodland>
+    <NS0:otherLandUse>34</NS0:otherLandUse>
+    <NS0:naturalHazard>NA</NS0:naturalHazard>
+    <NS0:environmentalIssue>NA</NS0:environmentalIssue>
+    <NS0:population rdf:ID='A53634'>89361</NS0:population>
+    <NS0:populationGrowthRate rdf:ID='A53637'>0.48</NS0:populationGrowthRate>
+    <NS0:birthRate rdf:ID='A53640'>11.28</NS0:birthRate>
+    <NS0:deathRate rdf:ID='A53643'>9.27</NS0:deathRate>
+    <NS0:netMigrationRate rdf:ID='A53646'>2.8</NS0:netMigrationRate>
+    <NS0:sexRatio rdf:resource='#A53649'/>
+    <NS0:sexRatio rdf:resource='#A53655'/>
+    <NS0:sexRatio rdf:resource='#A53661'/>
+    <NS0:sexRatio rdf:resource='#A53667'/>
+    <NS0:sexRatio rdf:ID='A53675' rdf:resource='#A53672'/>
+    <NS0:infantMortalityRate rdf:ID='A53678'>5.62</NS0:infantMortalityRate>
+    <NS0:totalFertilityRate rdf:ID='A53681'>1.56</NS0:totalFertilityRate>
+    <NS0:nationalityNoun>Channel Islander(s)</NS0:nationalityNoun>
+    <NS0:nationalityAdjective>Channel Islander</NS0:nationalityAdjective>
+    <NS0:ethnicGroup rdf:resource='#A53686'/>
+    <NS0:religion rdf:resource='#A53690'/>
+    <NS0:religion rdf:resource='#A53694'/>
+    <NS0:religion rdf:resource='#A53698'/>
+    <NS0:religion rdf:resource='#A53702'/>
+    <NS0:religion rdf:resource='#A53706'/>
+    <NS0:religion rdf:resource='#A53710'/>
+    <NS0:language rdf:ID='A53717' rdf:resource='#A53714'/>
+    <NS0:language rdf:ID='A53722' rdf:resource='#A53719'/>
+    <NS0:language rdf:resource='#A53724'/>
+    <NS0:literacyDefinition>NA</NS0:literacyDefinition>
+    <NS0:conventionalLongCountryName>Bailiwick of Jersey</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Jersey</NS0:conventionalShortCountryName>
+    <NS0:dependencyStatus>British crown dependency</NS0:dependencyStatus>
+    <NS0:governmentType rdf:resource='http://www.daml.org/2001/12/factbook/governmentTypes#NA'/>
+    <NS0:capital rdf:resource='#A53733'/>
+    <NS0:independence>none (British crown dependency)</NS0:independence>
+    <NS0:constitution>unwritten; partly statutes, partly common law and practice</NS0:constitution>
+    <NS0:legalSystem>English law and local statute</NS0:legalSystem>
+    <NS0:suffrage>NA years of age; universal adult</NS0:suffrage>
+    <NS0:flagDescription>white with a diagonal red cross extending to the corners of the flag and in the upper quadrant, surmounted by a yellow crown, a red shield holding the three lions of England in yellow</NS0:flagDescription>
+    <NS0:economyOverview>The economy is based largely on international financial services, agriculture, and tourism. Potatoes, cauliflower, tomatoes, and especially flowers are important export crops, shipped mostly to the UK. The Jersey breed of dairy cattle is known worldwide and represents an important export income earner. Milk products go to the UK and other EU countries. In 1996 the finance sector accounted for about 60% of the island&apos;s output. Tourism, another mainstay of the economy, accounts for 24% of GDP. In recent years, the government has encouraged light industry to locate in Jersey, with the result that an electronics industry has developed alongside the traditional manufacturing of knitwear. All raw material and energy requirements are imported, as well as a large share of Jersey&apos;s food needs. Light taxes and death duties make the island a popular tax haven.</NS0:economyOverview>
+    <NS0:grossDomesticProduct rdf:ID='A53743'>2200000000</NS0:grossDomesticProduct>
+    <NS0:grossDomesticProductPerCapita rdf:ID='A53746'>24800</NS0:grossDomesticProductPerCapita>
+    <NS0:grossDomesticProductAgriculture>5</NS0:grossDomesticProductAgriculture>
+    <NS0:grossDomesticProductIndustry>2</NS0:grossDomesticProductIndustry>
+    <NS0:grossDomesticProductServices rdf:ID='A53751'>93</NS0:grossDomesticProductServices>
+    <NS0:inflationRate rdf:ID='A53753'>4.7</NS0:inflationRate>
+    <NS0:laborForce rdf:ID='A53755'>57050</NS0:laborForce>
+    <NS0:unemploymentRate rdf:ID='A53757'>0.7</NS0:unemploymentRate>
+    <NS0:budgetRevenues>601000000</NS0:budgetRevenues>
+    <NS0:budgetExpenditures>588000000</NS0:budgetExpenditures>
+    <NS0:budgetCapitalExpenditures rdf:ID='A53762'>98000000</NS0:budgetCapitalExpenditures>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#tourism'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#banking_and_finance'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#dairy'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#potatoes'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#cauliflower'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#tomatoes'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#beef'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#dairy_products'/>
+    <NS0:exportsCommodity rdf:resource='#A53773'/>
+    <NS0:exportsCommodity rdf:resource='#A53777'/>
+    <NS0:exportsCommodity rdf:resource='#A53781'/>
+    <NS0:importsCommodity rdf:resource='#A53785'/>
+    <NS0:importsCommodity rdf:resource='#A53789'/>
+    <NS0:importsCommodity rdf:resource='#A53793'/>
+    <NS0:importsCommodity rdf:resource='#A53797'/>
+    <NS0:importsCommodity rdf:resource='#A53801'/>
+    <NS0:currency>British pound (GBP); note - there is also a Jersey pound</NS0:currency>
+    <NS0:currencyCode>GBP</NS0:currencyCode>
+    <NS0:fiscalYear>1 April - 31 March</NS0:fiscalYear>
+    <NS0:mainTelephoneLines rdf:ID='A53808'>65500</NS0:mainTelephoneLines>
+    <NS0:mobileTelephoneLines rdf:ID='A53810'>4400</NS0:mobileTelephoneLines>
+    <NS0:telephoneSystemGeneralAssessment>NA</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>NA</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>3 submarine cables</NS0:telephoneSystemInternational>
+    <NS0:televisionBroadcastStations rdf:ID='A53815'>1</NS0:televisionBroadcastStations>
+    <NS0:internetCountryCode>.je</NS0:internetCountryCode>
+    <NS0:highwaysTotal rdf:ID='A53818'>577</NS0:highwaysTotal>
+    <NS0:port rdf:resource='#A53820'/>
+    <NS0:port rdf:resource='#A53824'/>
+    <NS0:port rdf:resource='#A53828'/>
+    <NS0:airports rdf:ID='A53832'>1</NS0:airports>
+    <NS0:airportBreakdown rdf:resource='#A53835'/>
+    <NS0:internationalDispute>none</NS0:internationalDispute>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/je-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/je-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/je-map.jpg</NS0:map>
+    <NS0:exportPartner rdf:resource='#A124859'/>
+    <NS0:importPartner rdf:resource='#A124863'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53733'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CapitalCity'/>
+    <NS0:name>Saint Helier</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53828'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Saint Helier</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53824'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Saint Aubin</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53646'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53810'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53808'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53820'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Gorey</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53724'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Norman-French_dialect_spoken_in_country_districts'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53815'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53746'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53719'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#French'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53621'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>unnamed location</NS0:name>
+    <NS0:elevation>143</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53714'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#English'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53616'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Atlantic Ocean</NS0:name>
+    <NS0:elevation>0</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53710'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Presbyterian'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53675'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124863'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#UK'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53706'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Methodist'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53801'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#chemicals'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124859'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#UK'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53681'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53797'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#mineral_fuels'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53702'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Congregational_New_Church'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53793'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#foodstuffs'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53698'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Baptist'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53601'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>49.25</NS0:latitude>
+    <NS0:longitude>-2.1666666666666665</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53789'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#manufactured_goods'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53755'>
+    <NS0:year>1996</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53694'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Roman_Catholic'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53785'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#machinery_and_transport_equipment'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53690'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Anglican'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53743'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53753'>
+    <NS0:year>1998</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53781'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#textiles'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53686'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#UK_and_Norman-French_descent'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53637'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53818'>
+    <NS0:year>1995</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53678'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53777'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#foodstuffs'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53634'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>July 2001</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A53773'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#light_industrial_and_electrical_goods'/>
+  </rdf:Description>
+</rdf:RDF>

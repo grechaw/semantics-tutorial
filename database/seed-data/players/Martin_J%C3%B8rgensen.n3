@@ -1,0 +1,247 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Martin_Jørgensen	foaf:primaryTopic	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:UEFA_Euro_2004_squads	dbpprop:name	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Martin_J%C3%B8rgensen>	rdf:type	dul:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Martin_J%C3%B8rgensen>	rdf:type	yago:Whole100003553 ,
+		yago:Contestant109613191 ,
+		yago:Object100002684 ,
+		yago:PeopleFromAarhus ,
+		yago:DanishExpatriateFootballers ,
+		yago:UdineseCalcioPlayers .
+@prefix ns7:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Martin_J%C3%B8rgensen>	rdf:type	ns7:Athlete ,
+		yago:DenmarkInternationalFootballers ,
+		yago:DenmarkUnder-21InternationalFootballers .
+@prefix ns8:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Martin_J%C3%B8rgensen>	rdf:type	ns8:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Martin_J%C3%B8rgensen>	rdf:type	owl:Thing ,
+		yago:Athlete109820263 ,
+		foaf:Person ,
+		yago:FootballPlayer110101634 .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Martin_J%C3%B8rgensen>	rdf:type	dbpedia-owl:SoccerManager ,
+		dbpedia-owl:SportsManager ,
+		<http://dbpedia.org/class/yago/1998FIFAWorldCupPlayers> ,
+		<http://dbpedia.org/class/yago/2002FIFAWorldCupPlayers> ,
+		yago:Player110439851 ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Person ,
+		yago:ACFFiorentinaPlayers ,
+		yago:SerieAFootballers ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:UEFAEuro2004Players ,
+		yago:ExpatriateFootballersInItaly .
+@prefix ns11:	<http://schema.org/> .
+<http://dbpedia.org/resource/Martin_J%C3%B8rgensen>	rdf:type	ns11:Person ,
+		ns7:SoccerPlayer ,
+		yago:DanishFootballers ,
+		yago:AssociationFootballUtilityPlayers ,
+		yago:DanishSuperligaPlayers ,
+		yago:UEFAEuro2000Players ,
+		yago:PhysicalEntity100001930 ,
+		dul:NaturalPerson ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		ns8:Q5 ;
+	owl:sameAs	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen> ,
+		<http://rdf.freebase.com/ns/m.053xq5> .
+@prefix ns12:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Martin_J%C3%B8rgensen>	owl:sameAs	ns12:Martin_Jørgensen .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Martin_J%C3%B8rgensen>	rdfs:label	"\u9A6C\u4E01\u00B7\u7EA6\u6839\u68EE"@zh ,
+		"Martin J\u00F8rgensen"@it ,
+		"\u30DE\u30EB\u30C6\u30A3\u30F3\u30FB\u30E8\u30EB\u30B2\u30F3\u30BB\u30F3"@ja ,
+		"Martin J\u00F8rgensen"@es ,
+		"Martin J\u00F8rgensen" ,
+		"Martin J\u00F8rgensen"@fr ,
+		"\u0645\u0627\u0631\u062A\u0646 \u064A\u0648\u0631\u063A\u0646\u0633\u0646"@ar ,
+		"\u0419\u043E\u0440\u0433\u0435\u043D\u0441\u0435\u043D, \u041C\u0430\u0440\u0442\u0438\u043D"@ru ,
+		"Martin J\u00F8rgensen"@pl ,
+		"Martin J\u00F8rgensen (voetballer)"@nl ,
+		"Martin J\u00F8rgensen"@de ,
+		"Martin J\u00F8rgensen"@pt .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Martin_J%C3%B8rgensen>	dcterms:subject	category:Danish_footballers ,
+		category:Danish_Superliga_players ,
+		category:UEFA_Euro_2004_players ,
+		<http://dbpedia.org/resource/Category:1975_births> ,
+		category:ACF_Fiorentina_players ,
+		category:Udinese_Calcio_players ,
+		category:People_from_Aarhus ,
+		category:Denmark_international_footballers ,
+		category:Danish_expatriate_footballers ,
+		category:Denmark_under-21_international_footballers ,
+		category:Aarhus_Gymnastikforening_players ,
+		category:Denmark_youth_international_footballers ,
+		category:FIFA_Century_Club ,
+		category:Association_football_utility_players ,
+		<http://dbpedia.org/resource/Category:1998_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2002_FIFA_World_Cup_players> ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:UEFA_Euro_2000_players ,
+		category:Serie_A_footballers ,
+		category:Expatriate_footballers_in_Italy ;
+	foaf:homepage	<http://it.violachannel.tv/dettaglio-players/items/martin-jorgensen.html> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Martin_Jorgensen.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Martin_J%C3%B8rgensen>	dc:description	"Footballer" ,
+		"Footballer" ;
+	foaf:givenName	"Martin" ;
+	foaf:name	"Jorgensen, Martin" ,
+		"Martin Jorgensen" ,
+		"Martin J\u00F8rgensen" ,
+		"Lars Martin J\u00F8rgensen" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Martin_J%C3%B8rgensen>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Martin_J\u00F8rgensen?oldid=601206397> ;
+	rdfs:comment	"\u0644\u0627\u0631\u0633 \u0645\u0627\u0631\u062A\u0646 \u064A\u0648\u0631\u063A\u0646\u0633\u0646 (Lars Martin J\u00F8rgensen\u061B \u0648\u0644\u062F \u0641\u064A 6 \u0623\u0643\u062A\u0648\u0628\u0631 1975 \u0641\u064A \u0623\u0648\u0631\u0647\u0648\u0633) \u0647\u0648 \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0645\u062D\u062A\u0631\u0641 \u0645\u0646 \u0627\u0644\u062F\u0627\u0646\u0645\u0627\u0631\u0643\u060C \u064A\u0644\u0639\u0628 \u0641\u064A \u0627\u0644\u062F\u0648\u0631\u064A \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A \u0645\u0639 \u0646\u0627\u062F\u064A \u0641\u064A\u0648\u0631\u064A\u0646\u062A\u064A\u0646\u0627. \u0643\u0645\u0627 \u0634\u0627\u0631\u0643 \u0641\u064A \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u062F\u0627\u0646\u0645\u0627\u0631\u0643 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0623\u0643\u062B\u0631 \u0645\u0646 70 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0623\u062D\u0631\u0632 \u0641\u064A\u0647\u0627 12 \u0647\u062F\u0641\u0627\u064B. \u0644\u0639\u0628 \u0641\u064A \u0643\u0623\u0633\u064A \u0639\u0627\u0644\u0645 \u2014 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 1998 \u0648\u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 2002. \u0643\u0645\u0627 \u0634\u0627\u0631\u0643 \u0641\u064A \u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 2000 \u0648\u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 2004.\u0644\u0639\u0628 \u064A\u0648\u0631\u062C\u0646\u0633\u0646 \u0623\u0648\u0644\u0627\u064B \u0644\u0646\u0627\u062F\u064A \u0623\u0648\u0631\u0647\u0648\u0633 \u062C\u064A\u0645\u0646\u0627\u0633\u062A\u064A\u0643 \u0641\u0648\u0631\u0646\u064A\u0646\u063A \u0627\u0644\u062F\u0627\u0646\u0645\u0627\u0631\u0643\u064A \u0644\u0623\u0631\u0628\u0639 \u0623\u0639\u0648\u0627\u0645 \u0645\u0646\u0630 1993 \u062D\u062A\u0649 1997."@ar ,
+		"\u62C9\u5C14\u65AF\u00B7\u9A6C\u4E01\u00B7\u7EA6\u6839\u68EE\uFF08\u4E39\u9EA5\u8A9E\uFF1ALars Martin J\u00F8rgensen\uFF0C1975\u5E7410\u67086\u65E5\uFF0D\uFF09\uFF0C\u4E39\u9EA5\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u64D4\u4EFB\u4E2D\u5834\uFF0C\u53EF\u62C5\u4EFB\u4E2D\u8DEF\u4EA6\u53EF\u5750\u9547\u8FB9\u8DEF\uFF0C\u73FE\u6642\u6548\u529B\u4E39\u9EA6\u672C\u56FD\u8054\u8D5B\u7684\u5965\u80E1\u65AF(AGF)\u3002\u4F50\u771F\u905C\u4EE3\u8868\u4E39\u9EA5\u570B\u5BB6\u8DB3\u7403\u968A\u4E0A\u9663\u8D85\u904E90\u5834\u4E26\u5C04\u516512\u7403\uFF0C\u66FE\u4EE3\u8868\u570B\u5BB6\u968A\u51FA\u5E2D1998\u5E74\u30012002\u5E74\u30012010\u5E74\u4E09\u5C46\u4E16\u754C\u76C3\u548C2000\u5E74\u30012004\u5E74\u5169\u5C46\u6B50\u6D32\u8DB3\u7403\u9326\u6A19\u8CFD\u3002"@zh ,
+		"\u30E9\u30EB\u30B9\u30FB\u30DE\u30EB\u30C6\u30A3\u30F3\u30FB\u30E8\u30EB\u30B2\u30F3\u30BB\u30F3\u3001\u30A4\u30A7\u30EB\u30B2\u30F3\u30BB\u30F3\uFF08Lars Martin J\u00F8rgensen, 1975\u5E7410\u67086\u65E5 - \uFF09\u306F\u30C7\u30F3\u30DE\u30FC\u30AF\u3001\u30AA\u30FC\u30D5\u30B9\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\u3002\u30C7\u30F3\u30DE\u30FC\u30AF\u30FB\u30B9\u30FC\u30DA\u30EB\u30EA\u30FC\u30AC\u30FB\u30AA\u30FC\u30D5\u30B9GF\u6240\u5C5E\u3002\u30C7\u30F3\u30DE\u30FC\u30AF\u4EE3\u8868\u3067\u3082\u30D7\u30EC\u30FC\u3059\u308B\u3002\u5F1F\u306F\u5143\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u306E\u30DE\u30C3\u30BA\u30FB\u30E8\u30EB\u30B2\u30F3\u30BB\u30F3\u3002"@ja ,
+		"Martin J\u00F8rgensen (* 6. Oktober 1975 in \u00D8rsted) ist ein d\u00E4nischer Fu\u00DFballspieler. Er spielt im Mittelfeld auf der linken Au\u00DFenbahn."@de ,
+		"Lars Martin J\u00F8rgensen (ur. 6 pa\u017Adziernika 1975 w Aarhus) \u2013 du\u0144ski pi\u0142karz, wyst\u0119puj\u0105cy na pozycji prawoskrzyd\u0142owego obro\u0144cy lub pomocnika, od 2010 gracz AGF \u00C5rhus.Klub z rodzinnego miasta, AGF \u00C5rhus by\u0142 jego pierwszym klubem w karierze. W 1996 zdoby\u0142 ze swoj\u0105 dru\u017Cyn\u0105 Puchar Kraju, otrzyma\u0142 tak\u017Ce wyr\u00F3\u017Cnienie M\u0142odego Pi\u0142karza Roku. Wcze\u015Bniej gra\u0142 w m\u0142odzie\u017Cowych reprezentacjach Danii, gdzie zaliczy\u0142 31 mecz\u00F3w i 9 bramek."@pl ,
+		"\u041B\u0430\u0440\u0441 \u041C\u0430\u0301\u0440\u0442\u0438\u043D \u0419\u043E\u0301\u0440\u0433\u0435\u043D\u0441\u0435\u043D (\u0434\u0430\u0442. Lars Martin J\u00F8rgensen; 6 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1975, \u041E\u0440\u0445\u0443\u0441) \u2014 \u0434\u0430\u0442\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u00AB\u041E\u0440\u0445\u0443\u0441\u0430\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0414\u0430\u043D\u0438\u0438. \u0423\u0447\u0430\u0441\u0442\u043D\u0438\u043A 3 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u043C\u0438\u0440\u0430 \u0438 2 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u0415\u0432\u0440\u043E\u043F\u044B \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439."@ru ,
+		"Lars Martin J\u00F8rgensen (\u00C5rhus, Dinamarca, 6 de octubre de 1975) es un futbolista dan\u00E9s. Juega de centrocampista y su equipo actual es la Aarhus GF."@es ,
+		"Lars Martin J\u00F8rgensen, IPA: ['j\u00F8\u02D0rensen] (\u00D8rsted, 6 ottobre 1975), \u00E8 un calciatore danese, centrocampista dell'Aarhus."@it ,
+		"Martin J\u00F8rgensen (Aarhus, 6 oktober 1975) is een Deens betaald voetballer die bij voorkeur speelt als aanvallende middenvelder of buitenspeler. Hij keerde in de winterstop van het seizoen 2009/10 terug bij Aarhus GF, waar in het seizoen 1993/94 zijn profcarri\u00E8re begon. In maart 1998 debuteerde hij in het Deens voetbalelftal, waarvoor hij daarna meer dan negentig interlands speelde.J\u00F8rgensen is de oudere broer van voormalig betaald voetballer Mads J\u00F8rgensen."@nl ,
+		"Lars Martin J\u00F8rgensen (Aarhus, 6 de outubro de 1975) \u00E9 um futebolista dinamarqu\u00EAs. Atualmente defende o Aarhus e a Sele\u00E7\u00E3o Dinamarquesa. \u00C9 o irm\u00E3o mais velho do tamb\u00E9m futebolista Mads J\u00F8rgensen.Pela sele\u00E7\u00E3o dinamarquesa disputou as Copas de 1998 (foi dele o primeiro gol dinamarqu\u00EAs contra o Brasil nas quartas-de-final) e 2002, e as Euros de 2000 e 2004."@pt ,
+		"Lars Martin J\u00F8rgensen (born 6 October 1975), more commonly known as Martin J\u00F8rgensen, is a Danish professional football player, who currently plays for Danish club AGF Aarhus. J\u00F8rgensen has played 102 matches and scored 12 goals for the Denmark national football team. He is the only player that has represented Denmark at three FIFA World Cups. He has also played at two European Championship tournaments." ,
+		"Lars Martin J\u00F8rgensen (n\u00E9 le 6 octobre 1975 \u00E0 Aarhus) est un footballeur danois au poste de milieu de terrain offensif. Il a \u00E9volu\u00E9 pr\u00E8s de 13 ans dans le championnat d'Italie."@fr ;
+	foaf:surname	"Jorgensen" ;
+	foaf:isPrimaryTopicOf	ns1:Martin_Jørgensen .
+@prefix ns18:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Martin_J%C3%B8rgensen>	dbpprop:hasPhotoCollection	ns18:Martin_Jørgensen ;
+	dbpprop:name	"Martin J\u00F8rgensen" ,
+		"Jorgensen, Martin" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Martin_Jorgensen.jpg?width=300> ;
+	dbpedia-owl:abstract	"Lars Martin J\u00F8rgensen (born 6 October 1975), more commonly known as Martin J\u00F8rgensen, is a Danish professional football player, who currently plays for Danish club AGF Aarhus. J\u00F8rgensen has played 102 matches and scored 12 goals for the Denmark national football team. He is the only player that has represented Denmark at three FIFA World Cups. He has also played at two European Championship tournaments. After Denmark's elimination from the 2010 World Cup, J\u00F8rgensen announced his retirement from the national team. As he was close to reach his anniversary match no.100 for the national team, the coach Morten Olsen however decided to call him up for one last farewell match, in November 2010. After a brief retirement, he returned to the national team as he was called up for the Euro 2012 qualifying match against Norway on 6 September 2011.He is the older brother of retired Danish football player Mads J\u00F8rgensen." ,
+		"\u30E9\u30EB\u30B9\u30FB\u30DE\u30EB\u30C6\u30A3\u30F3\u30FB\u30E8\u30EB\u30B2\u30F3\u30BB\u30F3\u3001\u30A4\u30A7\u30EB\u30B2\u30F3\u30BB\u30F3\uFF08Lars Martin J\u00F8rgensen, 1975\u5E7410\u67086\u65E5 - \uFF09\u306F\u30C7\u30F3\u30DE\u30FC\u30AF\u3001\u30AA\u30FC\u30D5\u30B9\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\u3002\u30C7\u30F3\u30DE\u30FC\u30AF\u30FB\u30B9\u30FC\u30DA\u30EB\u30EA\u30FC\u30AC\u30FB\u30AA\u30FC\u30D5\u30B9GF\u6240\u5C5E\u3002\u30C7\u30F3\u30DE\u30FC\u30AF\u4EE3\u8868\u3067\u3082\u30D7\u30EC\u30FC\u3059\u308B\u3002\u5F1F\u306F\u5143\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u306E\u30DE\u30C3\u30BA\u30FB\u30E8\u30EB\u30B2\u30F3\u30BB\u30F3\u3002"@ja ,
+		"\u041B\u0430\u0440\u0441 \u041C\u0430\u0301\u0440\u0442\u0438\u043D \u0419\u043E\u0301\u0440\u0433\u0435\u043D\u0441\u0435\u043D (\u0434\u0430\u0442. Lars Martin J\u00F8rgensen; 6 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1975, \u041E\u0440\u0445\u0443\u0441) \u2014 \u0434\u0430\u0442\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u00AB\u041E\u0440\u0445\u0443\u0441\u0430\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0414\u0430\u043D\u0438\u0438. \u0423\u0447\u0430\u0441\u0442\u043D\u0438\u043A 3 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u043C\u0438\u0440\u0430 \u0438 2 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u0415\u0432\u0440\u043E\u043F\u044B \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439."@ru ,
+		"Lars Martin J\u00F8rgensen (\u00C5rhus, Dinamarca, 6 de octubre de 1975) es un futbolista dan\u00E9s. Juega de centrocampista y su equipo actual es la Aarhus GF."@es ,
+		"Lars Martin J\u00F8rgensen (Aarhus, 6 de outubro de 1975) \u00E9 um futebolista dinamarqu\u00EAs. Atualmente defende o Aarhus e a Sele\u00E7\u00E3o Dinamarquesa. \u00C9 o irm\u00E3o mais velho do tamb\u00E9m futebolista Mads J\u00F8rgensen.Pela sele\u00E7\u00E3o dinamarquesa disputou as Copas de 1998 (foi dele o primeiro gol dinamarqu\u00EAs contra o Brasil nas quartas-de-final) e 2002, e as Euros de 2000 e 2004."@pt ,
+		"Martin J\u00F8rgensen (* 6. Oktober 1975 in \u00D8rsted) ist ein d\u00E4nischer Fu\u00DFballspieler. Er spielt im Mittelfeld auf der linken Au\u00DFenbahn."@de ,
+		"\u0644\u0627\u0631\u0633 \u0645\u0627\u0631\u062A\u0646 \u064A\u0648\u0631\u063A\u0646\u0633\u0646 (Lars Martin J\u00F8rgensen\u061B \u0648\u0644\u062F \u0641\u064A 6 \u0623\u0643\u062A\u0648\u0628\u0631 1975 \u0641\u064A \u0623\u0648\u0631\u0647\u0648\u0633) \u0647\u0648 \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0645\u062D\u062A\u0631\u0641 \u0645\u0646 \u0627\u0644\u062F\u0627\u0646\u0645\u0627\u0631\u0643\u060C \u064A\u0644\u0639\u0628 \u0641\u064A \u0627\u0644\u062F\u0648\u0631\u064A \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A \u0645\u0639 \u0646\u0627\u062F\u064A \u0641\u064A\u0648\u0631\u064A\u0646\u062A\u064A\u0646\u0627. \u0643\u0645\u0627 \u0634\u0627\u0631\u0643 \u0641\u064A \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u062F\u0627\u0646\u0645\u0627\u0631\u0643 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0623\u0643\u062B\u0631 \u0645\u0646 70 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0623\u062D\u0631\u0632 \u0641\u064A\u0647\u0627 12 \u0647\u062F\u0641\u0627\u064B. \u0644\u0639\u0628 \u0641\u064A \u0643\u0623\u0633\u064A \u0639\u0627\u0644\u0645 \u2014 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 1998 \u0648\u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 2002. \u0643\u0645\u0627 \u0634\u0627\u0631\u0643 \u0641\u064A \u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 2000 \u0648\u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 2004.\u0644\u0639\u0628 \u064A\u0648\u0631\u062C\u0646\u0633\u0646 \u0623\u0648\u0644\u0627\u064B \u0644\u0646\u0627\u062F\u064A \u0623\u0648\u0631\u0647\u0648\u0633 \u062C\u064A\u0645\u0646\u0627\u0633\u062A\u064A\u0643 \u0641\u0648\u0631\u0646\u064A\u0646\u063A \u0627\u0644\u062F\u0627\u0646\u0645\u0627\u0631\u0643\u064A \u0644\u0623\u0631\u0628\u0639 \u0623\u0639\u0648\u0627\u0645 \u0645\u0646\u0630 1993 \u062D\u062A\u0649 1997. \u0645\u0639 \u0627\u0644\u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0627\u0646\u0645\u0627\u0631\u0643\u064A \u0641\u0627\u0632 \u0628\u0643\u0623\u0633 \u0627\u0644\u062F\u0627\u0646\u0645\u0627\u0631\u0643 \u0641\u064A \u0639\u0627\u0645 1996\u060C \u0643\u0645\u0627 \u0623\u0639\u0637\u064A \u0644\u0642\u0628 \u0623\u0641\u0636\u0644 \u0644\u0627\u0639\u0628 \u0641\u064A \u0630\u0644\u0643 \u0627\u0644\u0639\u0627\u0645 \u062A\u062D\u062A \u0633\u0646 \u0627\u0644\u062D\u0627\u062F\u064A\u0629 \u0648\u0627\u0644\u0639\u0634\u0631\u064A\u0646 \u0645\u0646 \u0642\u0628\u0644 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u062F\u0627\u0646\u0645\u0627\u0631\u0643\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645. \u062B\u0645 \u0644\u0639\u0628 \u0644\u0633\u0628\u0639 \u0633\u0646\u0648\u0627\u062A \u0645\u0639 \u0623\u0648\u062F\u064A\u0646\u064A\u0632\u064A \u0641\u064A \u0627\u0644\u062F\u0648\u0631\u064A \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A. \u0633\u0627\u0639\u062F \u0627\u0644\u0641\u0631\u064A\u0642 \u0639\u0644\u0649 \u0627\u0644\u062D\u0635\u0648\u0644 \u0639\u0644\u0649 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u062B\u0627\u0644\u062B \u0641\u064A \u0645\u0648\u0633\u0645 1997 - 1998. \u0634\u0627\u0631\u0643 \u0644\u0623\u0648\u0644 \u0645\u0631\u0629 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u062F\u0627\u0646\u0645\u0627\u0631\u0643 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0627\u0644\u0623\u0633\u0627\u0633\u064A \u0641\u064A \u0645\u0627\u0631\u0633 \u0639\u0627\u0645 1998. \u0634\u0627\u0631\u0643 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 1998\u060C \u0648\u0633\u062C\u0644 \u0627\u0644\u0647\u062F\u0641 \u0627\u0644\u0623\u0648\u0644 \u0644\u0644\u062F\u0627\u0646\u0645\u0627\u0631\u0643 \u0641\u064A \u0645\u0628\u0627\u0631\u0627\u0629 \u0631\u0628\u0639 \u0627\u0644\u0646\u0647\u0627\u0626\u064A \u0623\u0645\u0627\u0645 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0628\u0631\u0627\u0632\u064A\u0644 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 (\u0648\u0635\u064A\u0641 \u062A\u0644\u0643 \u0627\u0644\u0628\u0637\u0648\u0644\u0629) \u0648\u0627\u0644\u062A\u064A \u062E\u0633\u0631\u062A \u0641\u064A\u0647\u0627 \u0627\u0644\u062F\u0627\u0646\u0645\u0627\u0631\u0643 \u0628\u0646\u062A\u064A\u062C\u0629 2 - 3. \u0648\u0627\u0646\u062A\u0642\u0644 \u0641\u064A \u0639\u0627\u0645 2004 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A\u0647 \u0627\u0644\u062D\u0627\u0644\u064A \u0641\u064A\u0648\u0631\u064A\u0646\u062A\u064A\u0646\u0627."@ar ,
+		"Lars Martin J\u00F8rgensen (n\u00E9 le 6 octobre 1975 \u00E0 Aarhus) est un footballeur danois au poste de milieu de terrain offensif. Il a \u00E9volu\u00E9 pr\u00E8s de 13 ans dans le championnat d'Italie."@fr ,
+		"Lars Martin J\u00F8rgensen (ur. 6 pa\u017Adziernika 1975 w Aarhus) \u2013 du\u0144ski pi\u0142karz, wyst\u0119puj\u0105cy na pozycji prawoskrzyd\u0142owego obro\u0144cy lub pomocnika, od 2010 gracz AGF \u00C5rhus.Klub z rodzinnego miasta, AGF \u00C5rhus by\u0142 jego pierwszym klubem w karierze. W 1996 zdoby\u0142 ze swoj\u0105 dru\u017Cyn\u0105 Puchar Kraju, otrzyma\u0142 tak\u017Ce wyr\u00F3\u017Cnienie M\u0142odego Pi\u0142karza Roku. Wcze\u015Bniej gra\u0142 w m\u0142odzie\u017Cowych reprezentacjach Danii, gdzie zaliczy\u0142 31 mecz\u00F3w i 9 bramek. Korzystaj\u0105c z niefortunnej dla AGF klauzuli kontraktu, w kwietniu 1997 opu\u015Bci\u0142 kraj i przeni\u00F3s\u0142 si\u0119 do Udinese Calcio, w kt\u00F3rym gra\u0142 ju\u017C jego rodak, Thomas Helveg. Jako pi\u0142karz w\u0142oskiej dru\u017Cyny, w marcu 1998 zaliczy\u0142 debiut w seniorskiej reprezentacji Danii i zosta\u0142 powo\u0142any na mundial 1998. Na imprezie zagra\u0142 we wszystkich meczach kadry Johanssona, strzeli\u0142 bramk\u0119 w przegranym 2-3 \u0107wier\u0107fina\u0142owym meczu z p\u00F3\u017Aniejszym finalist\u0105, Brazyli\u0105. Dwa lata p\u00F3\u017Aniej zagra\u0142 w jednym meczu Euro 2000.Kontynuowa\u0142 bujn\u0105 karier\u0119 reprezentacyjn\u0105 tak\u017Ce u nowego selekcjonera, Mortena Olsena. Na mundialu 2002 zagra\u0142 w trzech meczach grupowych (kontuzja wykluczy\u0142a go z dalszych gier), a na EURO 2004 - w czterech. By\u0142 ju\u017C prawdziw\u0105 supergwiazd\u0105 swojego kraju, wi\u0119c po turnieju trafi\u0142 do Fiorentiny, klubu powracaj\u0105cemu w szeregi Serie A z wielkimi ambicjami. W sezonie 2005/06 razem z kolegami zaj\u0105\u0142 czwarte miejsce w lidze, co oznacza\u0142o awans do kwalifikacji Ligi Mistrz\u00F3w. Po Aferze Calciopoli 14 lipca 2006 klub zosta\u0142 decyzj\u0105 trybuna\u0142u sportowego zdegradowany do Serie B, jednak dzi\u0119ki apelacjom Viola wyst\u0119powa\u0142a nadal w najwy\u017Cszej klasie rozgrywkowej i radzi\u0142a sobie bardzo dobrze, mimo odj\u0119tych 15 punkt\u00F3w w tabeli ligowej. Z kolejnymi sezonami miejsce w wyj\u015Bciowym sk\u0142adzie zacz\u0105\u0142 tymczasem traci\u0107 jej dotychczasowy filar, J\u00F8rgensen - g\u0142\u00F3wnie na skutek szeregu drobnych i powa\u017Cniejszych uraz\u00F3w.1 lutego 2010 skrzyd\u0142owy powr\u00F3ci\u0142 do swojego pierwszego klubu w zawodowej karierze \u2013 AGF \u00C5rhus. Jako jego zawodnik zagra\u0142 w trzech meczach nieudanych dla swojej kadry mistrzostw \u015Bwiata w RPA. W pierwszym spotkaniu, przeciwko Holandii, nosi\u0142 opask\u0119 kapita\u0144sk\u0105 (p\u00F3\u017Aniej straci\u0142 j\u0105 na rzecz Jona Dahla Tomassona). Ostatni, sto drugi wyst\u0119p w reprezentacji kraju zaliczy\u0142 15 listopada 2011 roku w meczu z Finlandi\u0105."@pl ,
+		"\u62C9\u5C14\u65AF\u00B7\u9A6C\u4E01\u00B7\u7EA6\u6839\u68EE\uFF08\u4E39\u9EA5\u8A9E\uFF1ALars Martin J\u00F8rgensen\uFF0C1975\u5E7410\u67086\u65E5\uFF0D\uFF09\uFF0C\u4E39\u9EA5\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u64D4\u4EFB\u4E2D\u5834\uFF0C\u53EF\u62C5\u4EFB\u4E2D\u8DEF\u4EA6\u53EF\u5750\u9547\u8FB9\u8DEF\uFF0C\u73FE\u6642\u6548\u529B\u4E39\u9EA6\u672C\u56FD\u8054\u8D5B\u7684\u5965\u80E1\u65AF(AGF)\u3002\u4F50\u771F\u905C\u4EE3\u8868\u4E39\u9EA5\u570B\u5BB6\u8DB3\u7403\u968A\u4E0A\u9663\u8D85\u904E90\u5834\u4E26\u5C04\u516512\u7403\uFF0C\u66FE\u4EE3\u8868\u570B\u5BB6\u968A\u51FA\u5E2D1998\u5E74\u30012002\u5E74\u30012010\u5E74\u4E09\u5C46\u4E16\u754C\u76C3\u548C2000\u5E74\u30012004\u5E74\u5169\u5C46\u6B50\u6D32\u8DB3\u7403\u9326\u6A19\u8CFD\u3002"@zh ,
+		"Martin J\u00F8rgensen (Aarhus, 6 oktober 1975) is een Deens betaald voetballer die bij voorkeur speelt als aanvallende middenvelder of buitenspeler. Hij keerde in de winterstop van het seizoen 2009/10 terug bij Aarhus GF, waar in het seizoen 1993/94 zijn profcarri\u00E8re begon. In maart 1998 debuteerde hij in het Deens voetbalelftal, waarvoor hij daarna meer dan negentig interlands speelde.J\u00F8rgensen is de oudere broer van voormalig betaald voetballer Mads J\u00F8rgensen."@nl ,
+		"Lars Martin J\u00F8rgensen, IPA: ['j\u00F8\u02D0rensen] (\u00D8rsted, 6 ottobre 1975), \u00E8 un calciatore danese, centrocampista dell'Aarhus."@it ;
+	dbpedia-owl:wikiPageID	1468215 ;
+	dbpedia-owl:wikiPageRevisionID	601206397 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Martin_J%C3%B8rgensen>	dbpprop:birthDate	"1975-10-06+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Aarhus, Denmark" ;
+	dbpprop:dateOfBirth	"1975-10-06+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Aarhus, Denmark" ;
+	dbpprop:shortDescription	"Footballer" ;
+	dbpedia-owl:birthDate	"1975-10-06+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Denmark_national_football_team ,
+		dbpedia:Aarhus ;
+	dbpedia-owl:birthYear	"1975+02:00"^^xsd:gYear ;
+	dbpprop:goals	30 ,
+		14 ;
+	dbpprop:bg	"#e11b22" ;
+	dbpedia-owl:managerClub	dbpedia:Aarhus_Gymnastikforening ;
+	dbpprop:manageryears	2014 ;
+	dbpprop:caps	93 ,
+		102 ,
+		151 ,
+		184 ;
+	dbpprop:managerclubs	dbpedia:Aarhus_Gymnastikforening ;
+	dbpprop:years	1994 ,
+		1997 ,
+		2010 ,
+		2004 ;
+	dbpprop:youthclubs	"Midtdjurs" ,
+		dbpedia:Aarhus_Gymnastikforening ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen__3> ,
+		<http://dbpedia.org/resource/Martin_J%C3%B8rgensen__4> ,
+		<http://dbpedia.org/resource/Martin_J%C3%B8rgensen__5> ,
+		<http://dbpedia.org/resource/Martin_J%C3%B8rgensen__6> ,
+		<http://dbpedia.org/resource/Martin_J%C3%B8rgensen__7> ,
+		<http://dbpedia.org/resource/Martin_J%C3%B8rgensen__8> ,
+		<http://dbpedia.org/resource/Martin_J%C3%B8rgensen__9> ,
+		<http://dbpedia.org/resource/Martin_J%C3%B8rgensen__1> ,
+		<http://dbpedia.org/resource/Martin_J%C3%B8rgensen__10> ,
+		<http://dbpedia.org/resource/Martin_J%C3%B8rgensen__2> ;
+	dbpprop:position	dbpedia:Association_football_positions ,
+		dbpedia:Midfielder ;
+	dbpedia-owl:position	dbpedia:Association_football_positions ,
+		dbpedia:Midfielder ;
+	dbpedia-owl:height	1.8000000000000000444 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Martin_J%C3%B8rgensen>	ns21:height	"180.0"^^ns20:centimetre ;
+	dbpprop:currentclub	dbpedia:Aarhus_Gymnastikforening ;
+	dbpprop:clubnumber	10 ;
+	dbpprop:fullname	"Lars Martin J\u00F8rgensen" ;
+	dbpprop:clubs	dbpedia:Udinese_Calcio ,
+		dbpedia:ACF_Fiorentina ,
+		dbpedia:Aarhus_Gymnastikforening ;
+	dbpedia-owl:team	dbpedia:Udinese_Calcio ,
+		dbpedia:ACF_Fiorentina ,
+		dbpedia:Denmark_national_under-17_football_team ,
+		dbpedia:Aarhus_Gymnastikforening ,
+		dbpedia:Denmark_national_under-19_football_team .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Martin_J%C3%B8rgensen>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Denmark squads" ;
+	dbpprop:pcupdate	"2012-04-25+02:00"^^xsd:date ;
+	dbpprop:youthyears	1979 ,
+		1989 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.dbu.dk/landshold/landsholdsdatabasen/LBasePlayerInfo.aspx?playerid=1564> ,
+		<http://www.martin-jorgensen.dk/> ,
+		<http://www.danskfodbold.com/spiller.php?ligaid=2001&spillerid=11094> ,
+		<http://www.gazzetta.it/speciali/risultati_classifiche/2010/calcio/seriea/giocatori/giocatore_martin_jorgensen_272248771.shtml> ,
+		<http://it.violachannel.tv/dettaglio-players/items/martin-jorgensen.html> ;
+	dbpprop:fg	"white" ;
+	dbpprop:nationalcaps	10 ,
+		11 ,
+		2 ,
+		31 ,
+		102 ;
+	dbpprop:nationalgoals	0 ,
+		1 ,
+		3 ,
+		9 ,
+		12 ;
+	dbpprop:nationalteam	dbpedia:Denmark_national_under-17_football_team ,
+		dbpedia:Denmark_national_under-21_football_team ,
+		dbpedia:Denmark_national_under-19_football_team ,
+		"Denmark U16" ,
+		dbpedia:Denmark_national_football_team ;
+	dbpprop:nationalyears	1991 ,
+		1998 ,
+		1992 ,
+		1994 ;
+	dbpedia-owl:number	10 ;
+	dbpprop:ntupdate	"2010-06-24+02:00"^^xsd:date .
+dbpedia:Aarhus_Gymnastikforening	dbpprop:name	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen> .
+dbpedia:Martin_Jørgensen	owl:sameAs	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen> .
+<http://dbpedia.org/resource/2009%E2%80%9310_in_Danish_football>	dbpprop:name	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen> .
+<http://dbpedia.org/resource/2007%E2%80%9308_in_Danish_football>	dbpprop:name	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen> .
+<http://dbpedia.org/resource/2008%E2%80%9309_in_Danish_football>	dbpprop:name	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen> .
+<http://dbpedia.org/resource/2007%E2%80%9308_ACF_Fiorentina_season__Martin_J%C3%B8rgensen__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen> .
+<http://dbpedia.org/resource/2008%E2%80%9309_ACF_Fiorentina_season__Martin_J%C3%B8rgensen__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen> .
+<http://dbpedia.org/resource/Aarhus_Gymnastikforening__Martin_J%C3%B8rgensen__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen> .
+<http://dbpedia.org/resource/Martin_J%C3%B8rgensen_(footballer)>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen> .
+dbpedia:Martin_Jorgensen	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen> .
+<http://dbpedia.org/resource/2008%E2%80%9309_ACF_Fiorentina_season>	dbpprop:name	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen> .
+<http://dbpedia.org/resource/2009%E2%80%9310_ACF_Fiorentina_season>	dbpprop:p	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen> .
+<http://dbpedia.org/resource/2007%E2%80%9308_ACF_Fiorentina_season>	dbpprop:name	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen> .
+<http://dbpedia.org/resource/1998_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen> .
+<http://dbpedia.org/resource/2002_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen> .
+dbpedia:UEFA_Euro_2000_squads	dbpprop:name	<http://dbpedia.org/resource/Martin_J%C3%B8rgensen> .

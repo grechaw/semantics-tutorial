@@ -1,0 +1,199 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Y%C5%ABichi_Komano>	rdf:type	yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:Athlete109820263 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:JapanInternationalFootballers ,
+		yago:Person100007846 ,
+		yago:JapaneseFootballers ,
+		yago:Player110439851 ,
+		<http://dbpedia.org/class/yago/2007AFCAsianCupPlayers> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Y%C5%ABichi_Komano>	rdf:type	dbpedia-owl:SoccerPlayer .
+@prefix ns3:	<http://schema.org/> .
+<http://dbpedia.org/resource/Y%C5%ABichi_Komano>	rdf:type	ns3:Person ,
+		<http://dbpedia.org/class/yago/J%C3%BAbiloIwataPlayers> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Y%C5%ABichi_Komano>	rdf:type	dul:NaturalPerson ,
+		dul:Agent ,
+		yago:Whole100003553 .
+@prefix ns5:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Y%C5%ABichi_Komano>	rdf:type	ns5:Q5 ,
+		yago:Object100002684 ,
+		dbpedia-owl:Athlete ,
+		yago:PhysicalEntity100001930 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://dbpedia.org/resource/Y%C5%ABichi_Komano>	rdf:type	foaf:Person ,
+		ns5:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Y%C5%ABichi_Komano>	rdf:type	owl:Thing ,
+		yago:PeopleFromWakayamaPrefecture ,
+		yago:FootballersAtThe2004SummerOlympics ,
+		<http://dbpedia.org/class/yago/2006FIFAWorldCupPlayers> ,
+		<http://dbpedia.org/class/yago/J.LeaguePlayers> ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:OlympicFootballersOfJapan ,
+		dbpedia-owl:Person ,
+		yago:SanfrecceHiroshimaPlayers ,
+		dbpedia-owl:Agent .
+@prefix ns8:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Y%C5%ABichi_Komano>	rdf:type	ns8:SoccerPlayer ,
+		yago:Contestant109613191 ,
+		yago:FootballPlayer110101634 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.04yn18> .
+@prefix ns9:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Y%C5%ABichi_Komano>	owl:sameAs	ns9:Yūichi_Komano ,
+		<http://dbpedia.org/resource/Y%C5%ABichi_Komano> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Y%C5%ABichi_Komano>	rdfs:label	"Y\u016Bichi Komano"@fr ,
+		"Y\u016Bichi Komano"@de ,
+		"\u041A\u043E\u043C\u0430\u043D\u043E, \u042E\u0438\u0442\u0438"@ru ,
+		"\u064A\u0648\u062A\u0634\u064A \u0643\u0648\u0645\u0627\u0646\u0648"@ar ,
+		"\u9A79\u91CE\u53CB\u4E00"@zh ,
+		"Y\u016Bichi Komano"@it ,
+		"Y\u016Bichi Komano"@pl ,
+		"Y\u016Bichi Komano" ,
+		"Y\u016Bichi Komano"@es ,
+		"Yuichi Komano"@nl ,
+		"Y\u016Bichi Komano"@pt ,
+		"\u99D2\u91CE\u53CB\u4E00"@ja .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Y%C5%ABichi_Komano>	dcterms:subject	category:Sanfrecce_Hiroshima_players ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Japan_youth_international_footballers ,
+		category:Olympic_footballers_of_Japan ,
+		<http://dbpedia.org/resource/Category:2007_AFC_Asian_Cup_players> ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:J%C3%BAbilo_Iwata_players> ,
+		<http://dbpedia.org/resource/Category:1981_births> ,
+		<http://dbpedia.org/resource/Category:J._League_Division_2_players> ,
+		category:Japanese_footballers ,
+		<http://dbpedia.org/resource/Category:J._League_Division_1_players> ,
+		category:People_from_Wakayama_Prefecture ,
+		<http://dbpedia.org/resource/Category:2006_FIFA_World_Cup_players> ,
+		category:Footballers_at_the_2004_Summer_Olympics ,
+		category:Japan_international_footballers .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Y%C5%ABichi_Komano>	dc:description	"Footballer" ,
+		"Footballer" ;
+	foaf:givenName	"Yuichi" ;
+	foaf:name	"Y\u016Bichi Komano" ,
+		"Yuichi Komano" ,
+		"Komano, Yuichi" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Y%C5%ABichi_Komano>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Y\u016Bichi_Komano?oldid=605031987> ;
+	rdfs:comment	"Y\u016Bichi Komano (en japonais \u99D2\u91CE\u53CB\u4E00) est un joueur de football international japonais n\u00E9 le 25 juillet 1981 \u00E0 Wakayama (Japon). Il \u00E9volue au poste de d\u00E9fenseur."@fr ,
+		"\u99D2\u91CE \u53CB\u4E00\uFF08\u3053\u307E\u306E \u3086\u3046\u3044\u3061\u30011981\u5E747\u670825\u65E5 - \uFF09\u306F\u3001\u548C\u6B4C\u5C71\u770C\u6D77\u5357\u5E02\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u65E5\u672C\u4EE3\u8868\u3002\u30B8\u30E5\u30D3\u30ED\u78D0\u7530\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\u3001\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002\u5E83\u5CF6\u770C\u7ACB\u5409\u7530\u9AD8\u7B49\u5B66\u6821\u5352\u696D\u3002"@ja ,
+		"Y\u016Bichi Komano (Komano Y\u016Bichi (\u99D2\u91CE\u53CB\u4E00, Komano Y\u016Bichi?); Kainan, 25 luglio 1981) \u00E8 un calciatore giapponese, terzino del J\u00FAbilo Iwata.Ha partecipato al campionato del mondo 2006 e al campionato del mondo 2010 con la nazionale giapponese.Negli ottavi di finale del Mondiale 2010 ha fallito il rigore che ha permesso al Paraguay di accedere ai quarti (risultato finale 5-3 d.c.r.)."@it ,
+		"\u99D2\u91CE\u53CB\u4E00\uFF081981\u5E746\u670825\u65E5\uFF0D\uFF09\uFF0C\u65BC\u5EE3\u5CF6\u7E23\u7ACB\u5409\u7530\u9AD8\u7B49\u5B78\u6821\u7562\u696D\u7684\u65E5\u672C\u8DB3\u7403\u54E1\uFF0C\u53F8\u8077\u5F8C\u885B\uFF0C\u76EE\u524D\u6548\u529B\u65BC\u65E5\u8077\u806F\u7684\u78D0\u7530\u5C71\u8449\u3002"@zh ,
+		"Y\u016Bichi Komano (Kainan, Wakayama, 25 de junio de 1981) es un futbolista japon\u00E9s. Actualmente juega para el Jubilo Iwata de la J-League."@es ,
+		"\u042E\u0438\u0442\u0438 \u041A\u043E\u043C\u0430\u043D\u043E (\u044F\u043F. \u99D2\u91CE \u53CB\u4E00 \u041A\u043E\u043C\u0430\u043D\u043E \u042E:\u0438\u0442\u0438, 25 \u0438\u044E\u043D\u044F 1981, \u041A\u0430\u0439\u043D\u0430\u043D, \u0412\u0430\u043A\u0430\u044F\u043C\u0430) \u2014 \u044F\u043F\u043E\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0414\u0436\u0443\u0431\u0438\u043B\u043E \u0418\u0432\u0430\u0442\u0430\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u042F\u043F\u043E\u043D\u0438\u0438. \u0423\u0447\u0430\u0441\u0442\u043D\u0438\u043A 2-\u0445 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u043C\u0438\u0440\u0430.\u0421\u0432\u043E\u044E \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0443\u044E \u043A\u0430\u0440\u044C\u0435\u0440\u0443 \u041A\u043E\u043C\u0430\u043D\u043E \u043D\u0430\u0447\u0430\u043B \u0432 \u043A\u043B\u0443\u0431\u0435 \u00AB\u0421\u0430\u043D\u0444\u0440\u0435\u0447\u0447\u0435 \u0425\u0438\u0440\u043E\u0441\u0438\u043C\u0430\u00BB, \u0437\u0430 \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043E\u0442\u044B\u0433\u0440\u0430\u043B \u0441\u0435\u043C\u044C \u0441\u0435\u0437\u043E\u043D\u043E\u0432, \u0438 \u043F\u0440\u043E\u0432\u0435\u0434\u044F \u0437\u0430 \u043D\u0435\u0433\u043E \u0432 \u0440\u0430\u0437\u043B\u0438\u0447\u043D\u044B\u0445 \u0442\u0443\u0440\u043D\u0438\u0440\u0430\u0445 \u0431\u043E\u043B\u0435\u0435 200 \u043C\u0430\u0442\u0447\u0435\u0439."@ru ,
+		"Yuichi Komano (em japon\u00EAs \u99D2\u91CE\u53CB\u4E00, Komano Yuuichi; Wakayama, 25 de Junho de 1981) \u00E9 um futebolista japon\u00EAs. Joga na posi\u00E7\u00E3o de lateral-direito. Fez parte da Selec\u00E7\u00E3o Ol\u00EDmpica de Futebol do Jap\u00E3o em Atenas 2004. De 2000 at\u00E9 2007 jogou na equipa da J-league Sanfrecce Hiroshima, e mudou em 2008, para o Jubilo Iwata."@pt ,
+		"Y\u016Bichi Komano (\u99D2\u91CE \u53CB\u4E00, Komano Y\u016Bichi, born 25 July 1981 in Kainan, Wakayama) is a Japanese football player. He plays for J. League division 1 side J\u00FAbilo Iwata. He is right-footed and mainly plays right full back for the club but he is often employed in the left for Japan national football team." ,
+		"Yuichi Komano (25 juli 1981) is een Japans voetballer."@nl ,
+		"Y\u016Bichi Komano (jap. \u99D2\u91CE \u53CB\u4E00 Komano Y\u016Bichi; * 25. Juli 1981 in Kainan) ist ein japanischer Fu\u00DFballspieler."@de ,
+		"\u064A\u0648\u062A\u0634\u064A \u0643\u0648\u0645\u0627\u0646\u0648\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 25 \u064A\u0648\u0644\u064A\u0648 1981 \u0641\u064A \u0648\u0627\u0643\u0627\u064A\u0627\u0645\u0627 \u0641\u064A \u0627\u0644\u064A\u0627\u0628\u0627\u0646\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u064A\u0627\u0628\u0627\u0646\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0633\u0627\u0646\u0641\u0631\u064A\u0646\u0633 \u0647\u064A\u0631\u0648\u0634\u064A\u0645\u0627 \u0641\u064A \u0639\u0627\u0645 2000\u060C \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0627\u0644\u0622\u0646.\u0648 \u0642\u062F \u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u064A\u0627\u0628\u0627\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2005."@ar ,
+		"Y\u016Bichi Komano (jap. \u99D2\u91CE\u53CB\u4E00, Komano Y\u016Bichi, ur. 25 lipca 1981 w Wakayamie) \u2013 pi\u0142karz japo\u0144ski graj\u0105cy na pozycji prawego obro\u0144cy. Mierzy 172 cm wzrostu, wa\u017Cy 74 kg."@pl ;
+	foaf:surname	"Komano" .
+@prefix ns15:	<http://en.wikipedia.org/wiki/> .
+<http://dbpedia.org/resource/Y%C5%ABichi_Komano>	foaf:isPrimaryTopicOf	ns15:Yūichi_Komano .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix ns17:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Y%C5%ABichi_Komano>	dbpprop:hasPhotoCollection	ns17:Yūichi_Komano ;
+	dbpprop:name	"Komano, Yuichi" ,
+		"Y\u016Bichi Komano" ;
+	dbpedia-owl:abstract	"\u064A\u0648\u062A\u0634\u064A \u0643\u0648\u0645\u0627\u0646\u0648\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 25 \u064A\u0648\u0644\u064A\u0648 1981 \u0641\u064A \u0648\u0627\u0643\u0627\u064A\u0627\u0645\u0627 \u0641\u064A \u0627\u0644\u064A\u0627\u0628\u0627\u0646\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u064A\u0627\u0628\u0627\u0646\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0633\u0627\u0646\u0641\u0631\u064A\u0646\u0633 \u0647\u064A\u0631\u0648\u0634\u064A\u0645\u0627 \u0641\u064A \u0639\u0627\u0645 2000\u060C \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0627\u0644\u0622\u0646.\u0648 \u0642\u062F \u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u064A\u0627\u0628\u0627\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2005."@ar ,
+		"\u99D2\u91CE\u53CB\u4E00\uFF081981\u5E746\u670825\u65E5\uFF0D\uFF09\uFF0C\u65BC\u5EE3\u5CF6\u7E23\u7ACB\u5409\u7530\u9AD8\u7B49\u5B78\u6821\u7562\u696D\u7684\u65E5\u672C\u8DB3\u7403\u54E1\uFF0C\u53F8\u8077\u5F8C\u885B\uFF0C\u76EE\u524D\u6548\u529B\u65BC\u65E5\u8077\u806F\u7684\u78D0\u7530\u5C71\u8449\u3002"@zh ,
+		"Y\u016Bichi Komano (jap. \u99D2\u91CE\u53CB\u4E00, Komano Y\u016Bichi, ur. 25 lipca 1981 w Wakayamie) \u2013 pi\u0142karz japo\u0144ski graj\u0105cy na pozycji prawego obro\u0144cy. Mierzy 172 cm wzrostu, wa\u017Cy 74 kg."@pl ,
+		"Y\u016Bichi Komano (jap. \u99D2\u91CE \u53CB\u4E00 Komano Y\u016Bichi; * 25. Juli 1981 in Kainan) ist ein japanischer Fu\u00DFballspieler."@de ,
+		"Y\u016Bichi Komano (Komano Y\u016Bichi (\u99D2\u91CE\u53CB\u4E00, Komano Y\u016Bichi?); Kainan, 25 luglio 1981) \u00E8 un calciatore giapponese, terzino del J\u00FAbilo Iwata.Ha partecipato al campionato del mondo 2006 e al campionato del mondo 2010 con la nazionale giapponese.Negli ottavi di finale del Mondiale 2010 ha fallito il rigore che ha permesso al Paraguay di accedere ai quarti (risultato finale 5-3 d.c.r.)."@it ,
+		"Y\u016Bichi Komano (en japonais \u99D2\u91CE\u53CB\u4E00) est un joueur de football international japonais n\u00E9 le 25 juillet 1981 \u00E0 Wakayama (Japon). Il \u00E9volue au poste de d\u00E9fenseur."@fr ,
+		"Y\u016Bichi Komano (Kainan, Wakayama, 25 de junio de 1981) es un futbolista japon\u00E9s. Actualmente juega para el Jubilo Iwata de la J-League."@es ,
+		"\u042E\u0438\u0442\u0438 \u041A\u043E\u043C\u0430\u043D\u043E (\u044F\u043F. \u99D2\u91CE \u53CB\u4E00 \u041A\u043E\u043C\u0430\u043D\u043E \u042E:\u0438\u0442\u0438, 25 \u0438\u044E\u043D\u044F 1981, \u041A\u0430\u0439\u043D\u0430\u043D, \u0412\u0430\u043A\u0430\u044F\u043C\u0430) \u2014 \u044F\u043F\u043E\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0414\u0436\u0443\u0431\u0438\u043B\u043E \u0418\u0432\u0430\u0442\u0430\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u042F\u043F\u043E\u043D\u0438\u0438. \u0423\u0447\u0430\u0441\u0442\u043D\u0438\u043A 2-\u0445 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u043C\u0438\u0440\u0430.\u0421\u0432\u043E\u044E \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0443\u044E \u043A\u0430\u0440\u044C\u0435\u0440\u0443 \u041A\u043E\u043C\u0430\u043D\u043E \u043D\u0430\u0447\u0430\u043B \u0432 \u043A\u043B\u0443\u0431\u0435 \u00AB\u0421\u0430\u043D\u0444\u0440\u0435\u0447\u0447\u0435 \u0425\u0438\u0440\u043E\u0441\u0438\u043C\u0430\u00BB, \u0437\u0430 \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u043E\u0442\u044B\u0433\u0440\u0430\u043B \u0441\u0435\u043C\u044C \u0441\u0435\u0437\u043E\u043D\u043E\u0432, \u0438 \u043F\u0440\u043E\u0432\u0435\u0434\u044F \u0437\u0430 \u043D\u0435\u0433\u043E \u0432 \u0440\u0430\u0437\u043B\u0438\u0447\u043D\u044B\u0445 \u0442\u0443\u0440\u043D\u0438\u0440\u0430\u0445 \u0431\u043E\u043B\u0435\u0435 200 \u043C\u0430\u0442\u0447\u0435\u0439. \u0421 2008 \u0433\u043E\u0434\u0430 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u0437\u0430 \u00AB\u0414\u0436\u0443\u0431\u0438\u043B\u043E \u0418\u0432\u0430\u0442\u0430\u00BB.\u0412 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u042E\u0438\u0442\u0438 \u041A\u043E\u043C\u0430\u043D\u043E \u0434\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B 3 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2005 \u0433\u043E\u0434\u0430 \u0432 \u043C\u0430\u0442\u0447\u0435 \u0441\u043E \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u0438\u0442\u0430\u044F, \u043A \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u043C\u0443 \u043C\u043E\u043C\u0435\u043D\u0442\u0443 \u043E\u043D \u043F\u0440\u043E\u0432\u0451\u043B \u0432 \u0435\u0451 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 56 \u043C\u0430\u0442\u0447\u0435\u0439. \u041F\u0440\u0438\u043D\u0438\u043C\u0430\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0434\u0432\u0443\u0445 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430\u0445 \u043C\u0438\u0440\u0430. \u041D\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u043C\u0438\u0440\u0430 2010 \u0432 \u043C\u0430\u0442\u0447\u0435 1/8 \u0444\u0438\u043D\u0430\u043B\u0430 \u043F\u0440\u043E\u0442\u0438\u0432 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041F\u0430\u0440\u0430\u0433\u0432\u0430\u044F, \u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u0439 \u0438\u0437 \u043E\u0431\u043E\u0438\u0445 \u043A\u043E\u043C\u0430\u043D\u0434 \u043D\u0435 \u0440\u0435\u0430\u043B\u0438\u0437\u043E\u0432\u0430\u043B \u043F\u043E\u0441\u043B\u0435\u043C\u0430\u0442\u0447\u0435\u0432\u044B\u0439 \u043F\u0435\u043D\u0430\u043B\u044C\u0442\u0438, \u0432\u0441\u043B\u0435\u0434\u0441\u0442\u0432\u0438\u0435 \u0447\u0435\u0433\u043E \u042F\u043F\u043E\u043D\u0438\u044F \u043F\u043E\u043A\u0438\u043D\u0443\u043B\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u043C\u0438\u0440\u0430."@ru ,
+		"\u99D2\u91CE \u53CB\u4E00\uFF08\u3053\u307E\u306E \u3086\u3046\u3044\u3061\u30011981\u5E747\u670825\u65E5 - \uFF09\u306F\u3001\u548C\u6B4C\u5C71\u770C\u6D77\u5357\u5E02\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u65E5\u672C\u4EE3\u8868\u3002\u30B8\u30E5\u30D3\u30ED\u78D0\u7530\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\u3001\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002\u5E83\u5CF6\u770C\u7ACB\u5409\u7530\u9AD8\u7B49\u5B66\u6821\u5352\u696D\u3002"@ja ,
+		"Y\u016Bichi Komano (\u99D2\u91CE \u53CB\u4E00, Komano Y\u016Bichi, born 25 July 1981 in Kainan, Wakayama) is a Japanese football player. He plays for J. League division 1 side J\u00FAbilo Iwata. He is right-footed and mainly plays right full back for the club but he is often employed in the left for Japan national football team." ,
+		"Yuichi Komano (em japon\u00EAs \u99D2\u91CE\u53CB\u4E00, Komano Yuuichi; Wakayama, 25 de Junho de 1981) \u00E9 um futebolista japon\u00EAs. Joga na posi\u00E7\u00E3o de lateral-direito. Fez parte da Selec\u00E7\u00E3o Ol\u00EDmpica de Futebol do Jap\u00E3o em Atenas 2004. De 2000 at\u00E9 2007 jogou na equipa da J-league Sanfrecce Hiroshima, e mudou em 2008, para o Jubilo Iwata. Komano tamb\u00E9m participou da Copa do Mundo 2006 na Alemanha, chegando at\u00E9 a participar do jogo de estr\u00E9ia do Jap\u00E3o, contra a Austr\u00E1lia, entrando no decorrer do jogo, quando Akira Kaji se lesionou. Na copa do mundo de 2010 na \u00C1frica do Sul, Komano foi o terceiro cobrador na decis\u00E3o por p\u00EAnaltis, e o unico a errar, entrando para a historia da na\u00E7\u00E3o.== Refer\u00EAncias =="@pt ,
+		"Yuichi Komano (25 juli 1981) is een Japans voetballer."@nl ;
+	dbpedia-owl:wikiPageID	1388879 ;
+	dbpedia-owl:wikiPageRevisionID	605031987 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Y%C5%ABichi_Komano>	dbpprop:birthDate	"1981-07-25+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Kainan, Wakayama, Japan" ;
+	dbpprop:dateOfBirth	"1981-07-25+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Kainan, Wakayama, Japan" ;
+	dbpprop:shortDescription	"Footballer" ;
+	dbpedia-owl:birthDate	"1981-07-25+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	<http://dbpedia.org/resource/Kainan,_Wakayama> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Y%C5%ABichi_Komano>	dbpedia-owl:birthPlace	dbpedia:Japan_national_football_team ;
+	dbpedia-owl:birthYear	"1981+02:00"^^xsd:gYear ;
+	dbpprop:goals	6 ,
+		9 ;
+	dbpprop:bg	"#0202FF" ;
+	dbpprop:caps	191 ,
+		140 ;
+	dbpprop:years	2000 ,
+		2008 ;
+	dbpprop:youthclubs	"Sanfrecce Hiroshima Youth" ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Y%C5%ABichi_Komano__4> ,
+		<http://dbpedia.org/resource/Y%C5%ABichi_Komano__5> ,
+		<http://dbpedia.org/resource/Y%C5%ABichi_Komano__6> ,
+		<http://dbpedia.org/resource/Y%C5%ABichi_Komano__1> ,
+		<http://dbpedia.org/resource/Y%C5%ABichi_Komano__2> ,
+		<http://dbpedia.org/resource/Y%C5%ABichi_Komano__3> ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ,
+		dbpedia:Midfielder ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ,
+		dbpedia:Midfielder ;
+	dbpedia-owl:height	1.7199999999999999734 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Y%C5%ABichi_Komano>	ns21:height	"172.0"^^ns20:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/J%C3%BAbilo_Iwata> ;
+	dbpprop:clubnumber	5 ;
+	dbpprop:fullname	"Y\u016Bichi Komano" ;
+	dbpprop:clubs	dbpedia:Sanfrecce_Hiroshima ,
+		<http://dbpedia.org/resource/J%C3%BAbilo_Iwata> ;
+	dbpedia-owl:team	dbpedia:Sanfrecce_Hiroshima ,
+		<http://dbpedia.org/resource/J%C3%BAbilo_Iwata> ,
+		dbpedia:Japan_national_football_team .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Y%C5%ABichi_Komano>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Japan Squad" ;
+	dbpprop:pcupdate	"2010-02-04+02:00"^^xsd:date ;
+	dbpprop:youthyears	1997 ;
+	dbpprop:fg	"#FFFFFF" ;
+	dbpprop:nationalcaps	78 ,
+		4 ,
+		10 ;
+	dbpprop:nationalgoals	0 ,
+		1 ;
+	dbpprop:nationalteam	dbpedia:Japan_national_football_team ;
+	dbpprop:nationalyears	2005 ,
+		2000 ,
+		2002 ;
+	dbpedia-owl:number	5 ;
+	dbpprop:ntupdate	"2014-03-05+02:00"^^xsd:date .
+ns15:Yūichi_Komano	foaf:primaryTopic	<http://dbpedia.org/resource/Y%C5%ABichi_Komano> .
+<http://dbpedia.org/resource/2013_EAFF_East_Asian_Cup_Final_squads>	dbpprop:name	<http://dbpedia.org/resource/Y%C5%ABichi_Komano> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Y%C5%ABichi_Komano> .
+<http://dbpedia.org/resource/2010_East_Asian_Football_Championship_Final_squads>	dbpprop:name	<http://dbpedia.org/resource/Y%C5%ABichi_Komano> .
+<http://dbpedia.org/resource/2007_South_Korea_national_football_team_season>	dbpprop:away2player	<http://dbpedia.org/resource/Y%C5%ABichi_Komano> .
+<http://dbpedia.org/resource/2008_East_Asian_Football_Championship_Final_squads>	dbpprop:name	<http://dbpedia.org/resource/Y%C5%ABichi_Komano> .
+dbpedia:Yūichi_Komano	owl:sameAs	<http://dbpedia.org/resource/Y%C5%ABichi_Komano> .
+<http://dbpedia.org/resource/Y%C5%ABichi>	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Y%C5%ABichi_Komano> .
+<http://dbpedia.org/resource/J%C3%BAbilo_Iwata__Y%C5%ABichi_Komano__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Y%C5%ABichi_Komano> .
+dbpedia:Yuichi_Komano	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Y%C5%ABichi_Komano> .
+<http://dbpedia.org/resource/J%C3%BAbilo_Iwata>	dbpprop:name	<http://dbpedia.org/resource/Y%C5%ABichi_Komano> .
+<http://dbpedia.org/resource/2007_AFC_Asian_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Y%C5%ABichi_Komano> .
+dbpedia:Japan_national_football_team	dbpprop:name	<http://dbpedia.org/resource/Y%C5%ABichi_Komano> .
+<http://dbpedia.org/resource/2006_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Y%C5%ABichi_Komano> .
+<http://dbpedia.org/resource/2001_FIFA_World_Youth_Championship_squads>	dbpprop:name	<http://dbpedia.org/resource/Y%C5%ABichi_Komano> .
+<http://dbpedia.org/resource/Football_at_the_2004_Summer_Olympics_%E2%80%93_Men\u0027s_team_squads>	dbpprop:name	<http://dbpedia.org/resource/Y%C5%ABichi_Komano> .
+<http://dbpedia.org/resource/2005_East_Asian_Football_Championship_Final_squads>	dbpprop:name	<http://dbpedia.org/resource/Y%C5%ABichi_Komano> .
+dbpedia:Japan_at_the_2004_Summer_Olympics	dbpprop:name	<http://dbpedia.org/resource/Y%C5%ABichi_Komano> .

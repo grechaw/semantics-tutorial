@@ -1,0 +1,294 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Vangélis_Móras	owl:sameAs	dbpedia:Vangelis_Moras .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Evangelos_Moras	owl:sameAs	dbpedia:Vangelis_Moras .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q349883	owl:sameAs	dbpedia:Vangelis_Moras .
+@prefix ns5:	<http://el.dbpedia.org/resource/> .
+ns5:Βαγγέλης_Μόρας	owl:sameAs	dbpedia:Vangelis_Moras .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Vangelis_Moras	owl:sameAs	dbpedia:Vangelis_Moras .
+@prefix ns7:	<http://id.dbpedia.org/resource/> .
+ns7:Vangelis_Moras	owl:sameAs	dbpedia:Vangelis_Moras .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Vangelis_Moras	owl:sameAs	dbpedia:Vangelis_Moras .
+@prefix ns9:	<http://nl.dbpedia.org/resource/> .
+ns9:Vangelis_Moras	owl:sameAs	dbpedia:Vangelis_Moras .
+@prefix ns10:	<http://pl.dbpedia.org/resource/> .
+ns10:Wangelis_Moras	owl:sameAs	dbpedia:Vangelis_Moras .
+@prefix ns11:	<http://pt.dbpedia.org/resource/> .
+ns11:Vangelis_Moras	owl:sameAs	dbpedia:Vangelis_Moras .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns13:	<http://en.wikipedia.org/wiki/> .
+ns13:Vangelis_Moras	foaf:primaryTopic	dbpedia:Vangelis_Moras .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Hellas_Verona_F.C.>	dbpprop:name	dbpedia:Vangelis_Moras .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Vangelis_Moras	rdf:type	yago:GreekFootballers ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:AssociationFootballDefenders ,
+		<http://dbpedia.org/class/yago/ProodeftikiF.C.Players> ,
+		yago:ExpatriateFootballersInItaly ,
+		yago:SerieAFootballers ,
+		yago:PremierLeaguePlayers ,
+		yago:PhysicalEntity100001930 ,
+		yago:SuperleagueGreecePlayers ,
+		yago:ExpatriateFootballersInWales ,
+		<http://dbpedia.org/class/yago/AEKAthensF.C.Players> ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:Defender109614684 ,
+		yago:Preserver110466918 .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Vangelis_Moras	rdf:type	dbpedia-owl:SoccerPlayer ,
+		yago:SerieBFootballers ,
+		yago:FootballersAtThe2004SummerOlympics ,
+		dbpedia-owl:Agent ,
+		ns4:Q5 .
+@prefix ns18:	<http://schema.org/> .
+dbpedia:Vangelis_Moras	rdf:type	ns18:Person ,
+		dbpedia-owl:Person .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Vangelis_Moras	rdf:type	dul:Agent ,
+		yago:GreekExpatriatesInItaly ,
+		yago:GreekExpatriateFootballers ,
+		dul:NaturalPerson ,
+		yago:GreeceInternationalFootballers ,
+		foaf:Person ,
+		yago:PeopleFromLarissa ,
+		<http://dbpedia.org/class/yago/BolognaF.C.1909Players> ,
+		yago:Contestant109613191 ,
+		owl:Thing ,
+		ns4:Q215627 ,
+		yago:OlympicFootballersOfGreece ,
+		<http://dbpedia.org/class/yago/LarissaF.C.Players> ,
+		yago:Player110439851 .
+@prefix ns20:	<http://umbel.org/umbel/rc/> .
+dbpedia:Vangelis_Moras	rdf:type	ns20:SoccerPlayer ,
+		dbpedia-owl:Athlete ,
+		yago:Athlete109820263 ,
+		yago:Object100002684 ,
+		yago:Whole100003553 ,
+		yago:FootballPlayer110101634 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ;
+	owl:sameAs	ns7:Vangelis_Moras ,
+		ns3:Evangelos_Moras ,
+		ns9:Vangelis_Moras ,
+		ns6:Vangelis_Moras ,
+		ns4:Q349883 .
+@prefix ns21:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Vangelis_Moras	owl:sameAs	ns21:व्हँजेलिस_मोरास ,
+		<http://ru.dbpedia.org/resource/\u041C\u043E\u0440\u0430\u0441,_\u0412\u0430\u043D\u0433\u0435\u043B\u0438\u0441> .
+@prefix ns22:	<http://hr.dbpedia.org/resource/> .
+dbpedia:Vangelis_Moras	owl:sameAs	ns22:Vangelis_Moras .
+@prefix ns23:	<http://ko.dbpedia.org/resource/> .
+dbpedia:Vangelis_Moras	owl:sameAs	ns23:반겔리스_모라스 ,
+		ns8:Vangelis_Moras .
+@prefix ns24:	<http://no.dbpedia.org/resource/> .
+dbpedia:Vangelis_Moras	owl:sameAs	ns24:Vangelis_Moras ,
+		<http://rdf.freebase.com/ns/m.0g3h7z> .
+@prefix ns25:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Vangelis_Moras	owl:sameAs	ns25:فانجيليس_موراس .
+@prefix ns26:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Vangelis_Moras	owl:sameAs	ns26:Vangelis_Moras .
+@prefix ns27:	<http://wikidata.org/entity/> .
+dbpedia:Vangelis_Moras	owl:sameAs	ns27:Q349883 ,
+		ns5:Βαγγέλης_Μόρας .
+@prefix ns28:	<http://yago-knowledge.org/resource/> .
+dbpedia:Vangelis_Moras	owl:sameAs	ns28:Vangelis_Moras .
+@prefix ns29:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Vangelis_Moras	owl:sameAs	ns29:Vangelis_Moras ,
+		ns1:Vangélis_Móras .
+@prefix ns30:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Vangelis_Moras	owl:sameAs	ns30:Вангеліс_Морас ,
+		dbpedia:Vangelis_Moras ,
+		ns10:Wangelis_Moras ,
+		ns11:Vangelis_Moras .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Vangelis_Moras	rdfs:label	"Vangelis Moras"@it ,
+		"\u041C\u043E\u0440\u0430\u0441, \u0412\u0430\u043D\u0433\u0435\u043B\u0438\u0441"@ru ,
+		"Vangelis Moras"@nl ,
+		"Vangelis Moras" ,
+		"Wangelis Moras"@pl ,
+		"\u0641\u0627\u0646\u062C\u064A\u0644\u064A\u0633 \u0645\u0648\u0631\u0627\u0633"@ar ,
+		"Vangelis Moras"@pt ,
+		"Vangelis Moras"@es ,
+		"Evangelos Moras"@de ,
+		"Vang\u00E9lis M\u00F3ras"@fr .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+dbpedia:Vangelis_Moras	dcterms:subject	<http://dbpedia.org/resource/Category:AEK_Athens_F.C._players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Vangelis_Moras	dcterms:subject	category:Serie_A_footballers ,
+		category:Superleague_Greece_players ,
+		<http://dbpedia.org/resource/Category:Bologna_F.C._1909_players> ,
+		category:Footballers_at_the_2004_Summer_Olympics ,
+		<http://dbpedia.org/resource/Category:Hellas_Verona_F.C._players> ,
+		category:Living_people ,
+		category:Greece_international_footballers ,
+		<http://dbpedia.org/resource/Category:Larissa_F.C._players> ,
+		<http://dbpedia.org/resource/Category:Proodeftiki_F.C._players> ,
+		category:People_from_Larissa ,
+		<http://dbpedia.org/resource/Category:1981_births> ,
+		category:Olympic_footballers_of_Greece ,
+		category:Greek_expatriates_in_Italy ,
+		category:Expatriate_footballers_in_Wales ,
+		category:Greek_expatriate_footballers ,
+		category:Premier_League_players ,
+		category:Greek_footballers ,
+		category:Association_football_defenders ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Serie_B_footballers ,
+		category:Expatriate_footballers_in_Italy .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Vangelis_Moras	dc:description	"footballer" ,
+		"footballer" ;
+	foaf:givenName	"Vangelis" ;
+	foaf:name	"Moras, Vangelis" ,
+		"Evangelos Moras" ,
+		"Vangelis Moras" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Vangelis_Moras	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Vangelis_Moras?oldid=606568155> ;
+	rdfs:comment	"Vang\u00E9lis M\u00F3ras (en grec moderne : \u0392\u03B1\u03B3\u03B3\u03AD\u03BB\u03B7\u03C2 \u039C\u03CC\u03C1\u03B1\u03C2), n\u00E9 le 26 ao\u00FBt 1981 \u00E0 Larissa, est un footballeur international grec \u00E9voluant au poste de d\u00E9fenseur pour le club de l'AC Cesena."@fr ,
+		"Evangelos (\"Vangelis\") Moras (Grieks: \u0395\u03C5\u03AC\u03B3\u03B3\u03B5\u03BB\u03BF\u03C2 '\u0392\u03B1\u03B3\u03B3\u03AD\u03BB\u03B7\u03C2' \u039C\u03CC\u03C1\u03B1\u03C2) (Larissa, 28 augustus 1981) is een Griekse voetballer (verdediger) die sinds 2012 voor de Italiaanse tweedeklasser Hellas Verona uitkomt. Voordien speelde hij onder andere voor AE Larissa en AEK Athene. Hij vertegenwoordigde zijn vaderland bij de Olympische Spelen van 2004 in Athene, waar de ploeg in de eerste ronde werd uitgeschakeld."@nl ,
+		"Vangelis Moras (\u0392\u03B1\u03B3\u03B3\u03AD\u03BB\u03B7\u03C2 \u039C\u03CC\u03C1\u03B1\u03C2; Larissa, 26 agosto 1981) \u00E8 un calciatore greco, difensore dell'Hellas Verona."@it ,
+		"Wangelis Moras, gr. \u0392\u03B1\u03B3\u03B3\u03AD\u03BB\u03B7\u03C2 \u039C\u03CC\u03C1\u03B1\u03C2 (ur. 28 sierpnia 1981 w Larisie) \u2013 grecki pi\u0142karz graj\u0105cy na pozycji \u015Brodkowego obro\u0144cy. Mierzy 193 cm wzrostu, wa\u017Cy 78 kg."@pl ,
+		"\u0641\u0627\u0646\u062C\u064A\u0644\u064A\u0633 \u0645\u0648\u0631\u0627\u0633 (\u0628\u0627\u0644\u064A\u0648\u0646\u0627\u0646\u064A\u0629:\u0392\u03B1\u03B3\u03B3\u03AD\u03BB\u03B7\u03C2 \u039C\u03CC\u03C1\u03B1\u03C2) (\u0645\u0648\u0627\u0644\u064A\u062F 26 \u0623\u063A\u0633\u0637\u0633 1981 \u0641\u064A \u0644\u0627\u0631\u064A\u0633\u0627 - \u0627\u0644\u064A\u0648\u0646\u0627\u0646) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u064A\u0648\u0646\u0627\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0628\u0648\u0644\u0648\u0646\u064A\u0627 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A \u0645\u0646\u0630 2007 \u0641\u064A \u0645\u0631\u0643\u0632 \u0642\u0644\u0628 \u0627\u0644\u062F\u0641\u0627\u0639 \u0643\u0645\u0627 \u064A\u062C\u064A\u062F \u0627\u0644\u0644\u0639\u0628 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0638\u0647\u064A\u0631 \u0627\u0644\u0623\u064A\u0645\u0646 ."@ar ,
+		"Vangelis Moras (Larissa, Grecia, 26 de agosto de 1981), es un futbolista griego, se desempe\u00F1a como defensa y actualmente juega en el Hellas Verona de Italia."@es ,
+		"Evangelos \"Vangelis\" Moras (Greek: \u0392\u03B1\u03B3\u03B3\u03AD\u03BB\u03B7\u03C2 \u039C\u03CC\u03C1\u03B1\u03C2; born 26 August 1981) is a Greek footballer who plays as a centre back for Serie A club Hellas Verona." ,
+		"\u0415\u0432\u0430\u0301\u043D\u0433\u0435\u043B\u043E\u0441 (\u0412\u0430\u043D\u0433\u0435\u0301\u043B\u0438\u0441) \u041C\u043E\u0301\u0440\u0430\u0441 (\u0433\u0440\u0435\u0447. \u0395\u03C5\u03AC\u03B3\u03B3\u03B5\u03BB\u03BF\u03C2 (\u0392\u03B1\u03B3\u03B3\u03AD\u03BB\u03B7\u03C2) \u039C\u03CC\u03C1\u03B1\u03C2; 28 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1981, \u041B\u0430\u0440\u0438\u0441\u0430) \u2014 \u0433\u0440\u0435\u0447\u0435\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A. \u0418\u0433\u0440\u043E\u043A \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0412\u0435\u0440\u043E\u043D\u0430\u00BB."@ru ,
+		"Vangelis Moras (Larissa, 28 de agosto de 1981) \u00E9 um futebolista profissional grego, milita no Bologna Football Club 1909."@pt ,
+		"Evangelos \u201EVangelis\u201C Moras (griechisch \u0395\u03C5\u03AC\u03B3\u03B3\u03B5\u03BB\u03BF\u03C2 \u201E\u0392\u03B1\u03B3\u03B3\u03AD\u03BB\u03B7\u03C2\u201C \u039C\u03CC\u03C1\u03B1\u03C2, * 26. August 1981 in Larisa) ist ein griechischer Fu\u00DFballspieler, der seit 2012 bei Hellas Verona unter Vertrag steht."@de ;
+	foaf:surname	"Moras" ;
+	foaf:isPrimaryTopicOf	ns13:Vangelis_Moras .
+@prefix ns36:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Vangelis_Moras	dbpprop:hasPhotoCollection	ns36:Vangelis_Moras ;
+	dbpprop:name	"Moras, Vangelis" ,
+		"Vangelis Moras" ;
+	dbpedia-owl:abstract	"\u0415\u0432\u0430\u0301\u043D\u0433\u0435\u043B\u043E\u0441 (\u0412\u0430\u043D\u0433\u0435\u0301\u043B\u0438\u0441) \u041C\u043E\u0301\u0440\u0430\u0441 (\u0433\u0440\u0435\u0447. \u0395\u03C5\u03AC\u03B3\u03B3\u03B5\u03BB\u03BF\u03C2 (\u0392\u03B1\u03B3\u03B3\u03AD\u03BB\u03B7\u03C2) \u039C\u03CC\u03C1\u03B1\u03C2; 28 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1981, \u041B\u0430\u0440\u0438\u0441\u0430) \u2014 \u0433\u0440\u0435\u0447\u0435\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A. \u0418\u0433\u0440\u043E\u043A \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0412\u0435\u0440\u043E\u043D\u0430\u00BB."@ru ,
+		"Vangelis Moras (\u0392\u03B1\u03B3\u03B3\u03AD\u03BB\u03B7\u03C2 \u039C\u03CC\u03C1\u03B1\u03C2; Larissa, 26 agosto 1981) \u00E8 un calciatore greco, difensore dell'Hellas Verona."@it ,
+		"Evangelos \u201EVangelis\u201C Moras (griechisch \u0395\u03C5\u03AC\u03B3\u03B3\u03B5\u03BB\u03BF\u03C2 \u201E\u0392\u03B1\u03B3\u03B3\u03AD\u03BB\u03B7\u03C2\u201C \u039C\u03CC\u03C1\u03B1\u03C2, * 26. August 1981 in Larisa) ist ein griechischer Fu\u00DFballspieler, der seit 2012 bei Hellas Verona unter Vertrag steht."@de ,
+		"Vang\u00E9lis M\u00F3ras (en grec moderne : \u0392\u03B1\u03B3\u03B3\u03AD\u03BB\u03B7\u03C2 \u039C\u03CC\u03C1\u03B1\u03C2), n\u00E9 le 26 ao\u00FBt 1981 \u00E0 Larissa, est un footballeur international grec \u00E9voluant au poste de d\u00E9fenseur pour le club de l'AC Cesena."@fr ,
+		"Wangelis Moras, gr. \u0392\u03B1\u03B3\u03B3\u03AD\u03BB\u03B7\u03C2 \u039C\u03CC\u03C1\u03B1\u03C2 (ur. 28 sierpnia 1981 w Larisie) \u2013 grecki pi\u0142karz graj\u0105cy na pozycji \u015Brodkowego obro\u0144cy. Mierzy 193 cm wzrostu, wa\u017Cy 78 kg."@pl ,
+		"Evangelos (\"Vangelis\") Moras (Grieks: \u0395\u03C5\u03AC\u03B3\u03B3\u03B5\u03BB\u03BF\u03C2 '\u0392\u03B1\u03B3\u03B3\u03AD\u03BB\u03B7\u03C2' \u039C\u03CC\u03C1\u03B1\u03C2) (Larissa, 28 augustus 1981) is een Griekse voetballer (verdediger) die sinds 2012 voor de Italiaanse tweedeklasser Hellas Verona uitkomt. Voordien speelde hij onder andere voor AE Larissa en AEK Athene. Hij vertegenwoordigde zijn vaderland bij de Olympische Spelen van 2004 in Athene, waar de ploeg in de eerste ronde werd uitgeschakeld."@nl ,
+		"Evangelos \"Vangelis\" Moras (Greek: \u0392\u03B1\u03B3\u03B3\u03AD\u03BB\u03B7\u03C2 \u039C\u03CC\u03C1\u03B1\u03C2; born 26 August 1981) is a Greek footballer who plays as a centre back for Serie A club Hellas Verona." ,
+		"Vangelis Moras (Larissa, Grecia, 26 de agosto de 1981), es un futbolista griego, se desempe\u00F1a como defensa y actualmente juega en el Hellas Verona de Italia."@es ,
+		"Vangelis Moras (Larissa, 28 de agosto de 1981) \u00E9 um futebolista profissional grego, milita no Bologna Football Club 1909."@pt ,
+		"\u0641\u0627\u0646\u062C\u064A\u0644\u064A\u0633 \u0645\u0648\u0631\u0627\u0633 (\u0628\u0627\u0644\u064A\u0648\u0646\u0627\u0646\u064A\u0629:\u0392\u03B1\u03B3\u03B3\u03AD\u03BB\u03B7\u03C2 \u039C\u03CC\u03C1\u03B1\u03C2) (\u0645\u0648\u0627\u0644\u064A\u062F 26 \u0623\u063A\u0633\u0637\u0633 1981 \u0641\u064A \u0644\u0627\u0631\u064A\u0633\u0627 - \u0627\u0644\u064A\u0648\u0646\u0627\u0646) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u064A\u0648\u0646\u0627\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0628\u0648\u0644\u0648\u0646\u064A\u0627 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A \u0645\u0646\u0630 2007 \u0641\u064A \u0645\u0631\u0643\u0632 \u0642\u0644\u0628 \u0627\u0644\u062F\u0641\u0627\u0639 \u0643\u0645\u0627 \u064A\u062C\u064A\u062F \u0627\u0644\u0644\u0639\u0628 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0638\u0647\u064A\u0631 \u0627\u0644\u0623\u064A\u0645\u0646 ."@ar ;
+	dbpedia-owl:wikiPageID	6389652 ;
+	dbpedia-owl:wikiPageRevisionID	606568155 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Vangelis_Moras	dbpprop:birthDate	"1981-08-26+02:00"^^xsd:date ;
+	dbpprop:birthPlace	dbpedia:Larissa ,
+		dbpedia:Greece ;
+	dbpprop:dateOfBirth	"1981-08-26+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	dbpedia:Larissa ,
+		dbpedia:Greece ;
+	dbpprop:shortDescription	"footballer" ;
+	dbpedia-owl:birthDate	"1981-08-26+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Larissa ,
+		dbpedia:Greece ;
+	dbpedia-owl:birthYear	"1981+02:00"^^xsd:gYear ;
+	dbpprop:goals	0 ,
+		1 ,
+		4 ;
+	dbpprop:bg	"#0000cd" ;
+	dbpprop:caps	35 ,
+		62 ,
+		15 ,
+		1 ,
+		28 ,
+		98 ,
+		71 ;
+	dbpprop:years	2012 ,
+		2011 ,
+		2007 ,
+		2003 ,
+		2001 ,
+		1999 ;
+	dbpedia-owl:careerStation	dbpedia:Vangelis_Moras__5 ,
+		dbpedia:Vangelis_Moras__8 ,
+		dbpedia:Vangelis_Moras__7 ,
+		dbpedia:Vangelis_Moras__1 ,
+		dbpedia:Vangelis_Moras__2 ,
+		dbpedia:Vangelis_Moras__3 ,
+		dbpedia:Vangelis_Moras__9 ,
+		dbpedia:Vangelis_Moras__4 ,
+		dbpedia:Vangelis_Moras__6 ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.9499999999999999556 .
+@prefix ns38:	<http://dbpedia.org/datatype/> .
+@prefix ns39:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Vangelis_Moras	ns39:height	"195.0"^^ns38:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/Hellas_Verona_F.C.> ;
+	dbpprop:clubnumber	18 ;
+	dbpprop:fullname	"Evangelos Moras" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/Proodeftiki_F.C.> ,
+		dbpedia:AEL_1964_FC ,
+		<http://dbpedia.org/resource/Swansea_City_A.F.C.> ,
+		<http://dbpedia.org/resource/A.E.K._Athens_F.C.> ,
+		<http://dbpedia.org/resource/Bologna_F.C._1909> ,
+		<http://dbpedia.org/resource/Hellas_Verona_F.C.> ,
+		<http://dbpedia.org/resource/A.C._Cesena> ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/Proodeftiki_F.C.> ,
+		dbpedia:AEL_1964_FC ,
+		dbpedia:Greece_national_under-21_football_team ,
+		<http://dbpedia.org/resource/Swansea_City_A.F.C.> ,
+		dbpedia:Greece_national_football_team ,
+		<http://dbpedia.org/resource/A.E.K._Athens_F.C.> ,
+		<http://dbpedia.org/resource/Bologna_F.C._1909> ,
+		<http://dbpedia.org/resource/Hellas_Verona_F.C.> ,
+		<http://dbpedia.org/resource/A.C._Cesena> ;
+	dbpprop:title	"Greece Squads" ;
+	dbpprop:pcupdate	"2014-04-27+02:00"^^xsd:date ;
+	dbpedia-owl:wikiPageExternalLink	<http://espnfc.com/player/_/id/86369/vaggelis-moras?cc=3436> ,
+		<http://www.transfermarkt.co.uk/en/vangelis-moras/profil/spieler_9850.html> ;
+	dbpprop:fg	"#FFFFFF" ;
+	dbpprop:nationalcaps	16 ,
+		11 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:Greece_national_football_team ,
+		dbpedia:Greece_national_under-21_football_team ;
+	dbpprop:nationalyears	2002 ,
+		2009 ;
+	dbpedia-owl:number	18 ;
+	dbpprop:ntupdate	"2011-02-09+02:00"^^xsd:date .
+<http://dbpedia.org/resource/2005%E2%80%9306_AEK_Athens_F.C._season>	dbpprop:name	dbpedia:Vangelis_Moras .
+<http://dbpedia.org/resource/2004%E2%80%9305_AEK_Athens_F.C._season>	dbpprop:name	dbpedia:Vangelis_Moras .
+ns25:فانجيليس_موراس	owl:sameAs	dbpedia:Vangelis_Moras .
+ns22:Vangelis_Moras	owl:sameAs	dbpedia:Vangelis_Moras .
+ns21:व्हँजेलिस_मोरास	owl:sameAs	dbpedia:Vangelis_Moras .
+ns24:Vangelis_Moras	owl:sameAs	dbpedia:Vangelis_Moras .
+<http://ru.dbpedia.org/resource/\u041C\u043E\u0440\u0430\u0441,_\u0412\u0430\u043D\u0433\u0435\u043B\u0438\u0441>	owl:sameAs	dbpedia:Vangelis_Moras .
+ns26:Vangelis_Moras	owl:sameAs	dbpedia:Vangelis_Moras .
+ns29:Vangelis_Moras	owl:sameAs	dbpedia:Vangelis_Moras .
+ns30:Вангеліс_Морас	owl:sameAs	dbpedia:Vangelis_Moras .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Vangelis_Moras .
+<http://dbpedia.org/resource/2003%E2%80%9304_AEK_Athens_F.C._season>	dbpprop:name	dbpedia:Vangelis_Moras .
+<http://dbpedia.org/resource/2013%E2%80%9314_Hellas_Verona_F.C._season>	dbpprop:name	dbpedia:Vangelis_Moras .
+<http://dbpedia.org/resource/Hellas_Verona_F.C.__Vangelis_Moras__1>	dbpedia-owl:currentMember	dbpedia:Vangelis_Moras .
+<http://dbpedia.org/resource/Football_at_the_2004_Summer_Olympics_%E2%80%93_Men\u0027s_team_squads>	dbpprop:name	dbpedia:Vangelis_Moras .
+<http://dbpedia.org/resource/2007%E2%80%9308_AEK_Athens_F.C._season>	dbpprop:p	dbpedia:Vangelis_Moras .
+<http://dbpedia.org/resource/History_of_A.E.K._Athens_F.C.>	dbpprop:dm	dbpedia:Vangelis_Moras .
+<http://dbpedia.org/resource/2006%E2%80%9307_AEK_Athens_F.C._season>	dbpprop:name	dbpedia:Vangelis_Moras ;
+	dbpprop:p	dbpedia:Vangelis_Moras .
+<http://dbpedia.org/resource/2006%E2%80%9307_AEK_Athens_F.C._season__Vangelis_Moras__1>	dbpedia-owl:currentMember	dbpedia:Vangelis_Moras .
+<http://dbpedia.org/resource/2013%E2%80%9314_Hellas_Verona_F.C._season__Vangelis_Moras__1>	dbpedia-owl:currentMember	dbpedia:Vangelis_Moras .
+<http://dbpedia.org/resource/2004%E2%80%9305_AEK_Athens_F.C._season__Vangelis_Moras__1>	dbpedia-owl:currentMember	dbpedia:Vangelis_Moras .
+<http://dbpedia.org/resource/2005%E2%80%9306_AEK_Athens_F.C._season__Vangelis_Moras__1>	dbpedia-owl:currentMember	dbpedia:Vangelis_Moras .
+<http://dbpedia.org/resource/2003%E2%80%9304_AEK_Athens_F.C._season__Vangelis_Moras__1>	dbpedia-owl:currentMember	dbpedia:Vangelis_Moras .
+dbpedia:Evangelos_Moras	dbpedia-owl:wikiPageRedirects	dbpedia:Vangelis_Moras .
+dbpedia:Vaggelis_Moras	dbpedia-owl:wikiPageRedirects	dbpedia:Vangelis_Moras .
+<http://dbpedia.org/resource/2011%E2%80%9312_Swansea_City_A.F.C._season>	dbpprop:p	dbpedia:Vangelis_Moras .
+dbpedia:Greece_national_under-23_football_team	dbpprop:name	dbpedia:Vangelis_Moras .
+<http://dbpedia.org/resource/Vangelis_(disambiguation)>	dbpedia-owl:wikiPageDisambiguates	dbpedia:Vangelis_Moras .

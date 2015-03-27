@@ -1,0 +1,610 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xml:base="http://www.daml.org/2001/12/factbook/mv">
+  <rdf:Description rdf:about='#A71430'>
+    <rdf:type rdf:resource='#Atoll'/>
+    <NS0:name>Gnaviyani</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71607'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>f.o.b., 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71618'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#petroleum_products'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71426'>
+    <rdf:type rdf:resource='#Atoll'/>
+    <NS0:name>Gaafu Dhaalu</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71622'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126241'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#CA'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71614'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#intermediate_and_capital_goods'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71422'>
+    <rdf:type rdf:resource='#Atoll'/>
+    <NS0:name>Gaafu Alifu</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126237'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#JA'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71610'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#consumer_goods'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71557'>
+    <NS0:year>1995</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71418'>
+    <rdf:type rdf:resource='#Atoll'/>
+    <NS0:name>Faafu</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126233'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#CE'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71563'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71414'>
+    <rdf:type rdf:resource='#Atoll'/>
+    <NS0:name>Dhaalu</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71603'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#clothing'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126229'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#IN'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71410'>
+    <rdf:type rdf:resource='#Atoll'/>
+    <NS0:name>Baa</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71599'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#fish'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126225'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#SN'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71406'>
+    <rdf:type rdf:resource='#Atoll'/>
+    <NS0:name>Alifu</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126221'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#JA'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71524'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126217'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#CE'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71637'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71396'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CapitalCity'/>
+    <NS0:name>Male</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126213'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#UK'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71635'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A126209'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#US'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71320'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71381'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#English_spoken_by_most_government_officials'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71654'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71376'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Maldivian_Dhivehi'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71677'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71311'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71372'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Sunni_Muslim'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71586'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71368'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Arabs'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71596'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>f.o.b., 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71364'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Sinhalese'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71553'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#services'/>
+    <NS0:percent>60</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71360'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#South_Indians'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71639'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71548'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#industry'/>
+    <NS0:percent>18</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71530'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71543'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#agriculture'/>
+    <NS0:percent>22</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71346'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:ratio>1.05</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71584'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71541'>
+    <NS0:year>1995</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71341'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>65</NS0:minAge>
+    <NS0:ratio>1.07</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71527'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71576'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1996</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71335'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>15</NS0:minAge>
+    <NS0:maxAge>64</NS0:maxAge>
+    <NS0:ratio>1.04</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71329'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>14</NS0:maxAge>
+    <NS0:ratio>1.06</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71349'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71352'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71323'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>0</NS0:maxAge>
+    <NS0:ratio>1.05</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#MV'>
+    <NS0:background>The Maldives were long a sultanate, first under Dutch and then under British protection. They became a republic in 1968, three years after independence. Tourism and fishing are being developed on the archipelago.</NS0:background>
+    <NS0:location>Southern Asia, group of atolls in the Indian Ocean, south-southwest of India</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A71263'/>
+    <NS0:mapReferences>Asia</NS0:mapReferences>
+    <NS0:totalArea>300</NS0:totalArea>
+    <NS0:landArea>300</NS0:landArea>
+    <NS0:waterArea>0</NS0:waterArea>
+    <NS0:comparativeArea>about 1.7 times the size of Washington, DC</NS0:comparativeArea>
+    <NS0:coastline>644</NS0:coastline>
+    <NS0:contiguousZone>24</NS0:contiguousZone>
+    <NS0:exclusiveEconomicZone>200</NS0:exclusiveEconomicZone>
+    <NS0:territorialSea>12</NS0:territorialSea>
+    <NS0:climate>tropical; hot, humid; dry, northeast monsoon (November to March); rainy, southwest monsoon (June to August)</NS0:climate>
+    <NS0:terrain>flat, with white sandy beaches</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A71279'/>
+    <NS0:highestPoint rdf:resource='#A71284'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#fish'/>
+    <NS0:arableLand>10</NS0:arableLand>
+    <NS0:permanentCrops>0</NS0:permanentCrops>
+    <NS0:permanentPastures>3</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>3</NS0:forestsAndWoodland>
+    <NS0:otherLandUse rdf:ID='A71294'>84</NS0:otherLandUse>
+    <NS0:naturalHazard>low level of islands makes them very sensitive to sea level rise</NS0:naturalHazard>
+    <NS0:environmentalIssue>depletion of freshwater aquifers threatens water supplies</NS0:environmentalIssue>
+    <NS0:environmentalIssue>global warming and sea level rise</NS0:environmentalIssue>
+    <NS0:environmentalIssue>coral reef bleaching</NS0:environmentalIssue>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Biodiversity'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Climate_Change'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Climate_Change-Kyoto_Protocol'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Hazardous_Wastes'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Law_of_the_Sea'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Ozone_Layer_Protection'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#none_of_the_selected_agreements'/>
+    <NS0:population rdf:ID='A71308'>310764</NS0:population>
+    <NS0:populationGrowthRate rdf:ID='A71311'>3.01</NS0:populationGrowthRate>
+    <NS0:birthRate rdf:ID='A71314'>38.15</NS0:birthRate>
+    <NS0:deathRate rdf:ID='A71317'>8.09</NS0:deathRate>
+    <NS0:netMigrationRate rdf:ID='A71320'>0</NS0:netMigrationRate>
+    <NS0:sexRatio rdf:resource='#A71323'/>
+    <NS0:sexRatio rdf:resource='#A71329'/>
+    <NS0:sexRatio rdf:resource='#A71335'/>
+    <NS0:sexRatio rdf:resource='#A71341'/>
+    <NS0:sexRatio rdf:ID='A71349' rdf:resource='#A71346'/>
+    <NS0:infantMortalityRate rdf:ID='A71352'>63.72</NS0:infantMortalityRate>
+    <NS0:totalFertilityRate rdf:ID='A71355'>5.5</NS0:totalFertilityRate>
+    <NS0:nationalityNoun>Maldivian(s)</NS0:nationalityNoun>
+    <NS0:nationalityAdjective>Maldivian</NS0:nationalityAdjective>
+    <NS0:ethnicGroup rdf:resource='#A71360'/>
+    <NS0:ethnicGroup rdf:resource='#A71364'/>
+    <NS0:ethnicGroup rdf:resource='#A71368'/>
+    <NS0:religion rdf:resource='#A71372'/>
+    <NS0:language rdf:ID='A71379' rdf:resource='#A71376'/>
+    <NS0:language rdf:resource='#A71381'/>
+    <NS0:literacyDefinition>age 15 and over can read and write</NS0:literacyDefinition>
+    <NS0:literacyTotal>93.2</NS0:literacyTotal>
+    <NS0:literacyMale>93.3</NS0:literacyMale>
+    <NS0:literacyFemale rdf:ID='A71388'>93</NS0:literacyFemale>
+    <NS0:conventionalLongCountryName>Republic of Maldives</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Maldives</NS0:conventionalShortCountryName>
+    <NS0:localLongCountryName>Dhivehi Raajjeyge Jumhooriyyaa</NS0:localLongCountryName>
+    <NS0:localShortCountryName>Dhivehi Raajje</NS0:localShortCountryName>
+    <NS0:governmentType rdf:resource='http://www.daml.org/2001/12/factbook/governmentTypes#republic'/>
+    <NS0:capital rdf:resource='#A71396'/>
+    <NS0:administrativeDivision rdf:resource='#A71406'/>
+    <NS0:administrativeDivision rdf:resource='#A71410'/>
+    <NS0:administrativeDivision rdf:resource='#A71414'/>
+    <NS0:administrativeDivision rdf:resource='#A71418'/>
+    <NS0:administrativeDivision rdf:resource='#A71422'/>
+    <NS0:administrativeDivision rdf:resource='#A71426'/>
+    <NS0:administrativeDivision rdf:resource='#A71430'/>
+    <NS0:administrativeDivision rdf:resource='#A71434'/>
+    <NS0:administrativeDivision rdf:resource='#A71438'/>
+    <NS0:administrativeDivision rdf:resource='#A71442'/>
+    <NS0:administrativeDivision rdf:resource='#A71446'/>
+    <NS0:administrativeDivision rdf:resource='#A71450'/>
+    <NS0:administrativeDivision rdf:resource='#A71454'/>
+    <NS0:administrativeDivision rdf:resource='#A71458'/>
+    <NS0:administrativeDivision rdf:resource='#A71462'/>
+    <NS0:administrativeDivision rdf:resource='#A71466'/>
+    <NS0:administrativeDivision rdf:resource='#A71470'/>
+    <NS0:administrativeDivision rdf:resource='#A71474'/>
+    <NS0:administrativeDivision rdf:resource='#A71478'/>
+    <NS0:administrativeDivision rdf:resource='#A71482'/>
+    <NS0:independence>26 July 1965 (from UK)</NS0:independence>
+    <NS0:constitution>adopted January 1998</NS0:constitution>
+    <NS0:legalSystem>based on Islamic law with admixtures of English common law primarily in commercial matters; has not accepted compulsory ICJ jurisdiction</NS0:legalSystem>
+    <NS0:suffrage>21 years of age; universal</NS0:suffrage>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#AsDB'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#C'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CCC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CP'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ESCAP'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#FAO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#G-77'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IBRD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICAO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IDA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IDB'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFAD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IMF'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IMO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Intelsat'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Interpol'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IOC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ITU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NAM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OIC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OPCW'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#SAARC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UN'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNCTAD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNESCO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNIDO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UPU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WHO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WMO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WToO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WTrO'/>
+    <NS0:flagDescription>red with a large green rectangle in the center bearing a vertical white crescent; the closed side of the crescent is on the hoist side of the flag</NS0:flagDescription>
+    <NS0:economyOverview>Tourism, Maldives largest industry, accounts for 20% of GDP and more than 60% of the Maldives&apos; foreign exchange receipts. Over 90% of government tax revenue comes from import duties and tourism-related taxes. Almost 400,000 tourists visited the islands in 1998. Fishing is a second leading sector. The Maldivian Government began an economic reform program in 1989 initially by lifting import quotas and opening some exports to the private sector. Subsequently, it has liberalized regulations to allow more foreign investment. Agriculture and manufacturing continue to play a minor role in the economy, constrained by the limited availability of cultivable land and the shortage of domestic labor. Most staple foods must be imported. Industry, which consists mainly of garment production, boat building, and handicrafts, accounts for about 18% of GDP. Maldivian authorities worry about the impact of erosion and possible global warming on their low-lying country; 80% of the area is one meter or less above sea level.</NS0:economyOverview>
+    <NS0:grossDomesticProduct rdf:ID='A71524'>594000000</NS0:grossDomesticProduct>
+    <NS0:grossDomesticProductRealGrowth rdf:ID='A71527'>7.6</NS0:grossDomesticProductRealGrowth>
+    <NS0:grossDomesticProductPerCapita rdf:ID='A71530'>2000</NS0:grossDomesticProductPerCapita>
+    <NS0:grossDomesticProductAgriculture>20</NS0:grossDomesticProductAgriculture>
+    <NS0:grossDomesticProductIndustry>18</NS0:grossDomesticProductIndustry>
+    <NS0:grossDomesticProductServices rdf:ID='A71535'>62</NS0:grossDomesticProductServices>
+    <NS0:inflationRate rdf:ID='A71538'>3</NS0:inflationRate>
+    <NS0:laborForce rdf:ID='A71541'>67000</NS0:laborForce>
+    <NS0:occupation rdf:resource='#A71543'/>
+    <NS0:occupation rdf:resource='#A71548'/>
+    <NS0:occupation rdf:ID='A71557' rdf:resource='#A71553'/>
+    <NS0:unemploymentRate>NEGL</NS0:unemploymentRate>
+    <NS0:budgetRevenues rdf:ID='A71560'>166000000</NS0:budgetRevenues>
+    <NS0:budgetExpenditures>192000000</NS0:budgetExpenditures>
+    <NS0:budgetCapitalExpenditures rdf:ID='A71563'>80000000</NS0:budgetCapitalExpenditures>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#fish_processing'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#tourism'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#shipping'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#boat_building'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#coconut_processing'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#garments'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#woven_mats'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#rope'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#handicrafts'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#coral_and_sand_mining'/>
+    <NS0:industrialProductionGrowthRate rdf:ID='A71576'>4.4</NS0:industrialProductionGrowthRate>
+    <NS0:electricityProduction rdf:ID='A71579'>101000000</NS0:electricityProduction>
+    <NS0:electricityProductionFossilFuel>100</NS0:electricityProductionFossilFuel>
+    <NS0:electricityProductionHydro>0</NS0:electricityProductionHydro>
+    <NS0:electricityProductionNuclear>0</NS0:electricityProductionNuclear>
+    <NS0:electricityProductionOther rdf:ID='A71584'>0</NS0:electricityProductionOther>
+    <NS0:electricityConsumption rdf:ID='A71586'>93900000</NS0:electricityConsumption>
+    <NS0:electricityExports rdf:ID='A71588'>0</NS0:electricityExports>
+    <NS0:electricityImports rdf:ID='A71590'>0</NS0:electricityImports>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#coconuts'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#corn'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#sweet_potatoes'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#fish'/>
+    <NS0:exports rdf:ID='A71596'>88000000</NS0:exports>
+    <NS0:exportsCommodity rdf:resource='#A71599'/>
+    <NS0:exportsCommodity rdf:resource='#A71603'/>
+    <NS0:imports rdf:ID='A71607'>372000000</NS0:imports>
+    <NS0:importsCommodity rdf:resource='#A71610'/>
+    <NS0:importsCommodity rdf:resource='#A71614'/>
+    <NS0:importsCommodity rdf:resource='#A71618'/>
+    <NS0:externalDebt rdf:ID='A71622'>237000000</NS0:externalDebt>
+    <NS0:currency>rufiyaa (MVR)</NS0:currency>
+    <NS0:currencyCode>MVR</NS0:currencyCode>
+    <NS0:fiscalYear>calendar year</NS0:fiscalYear>
+    <NS0:mainTelephoneLines rdf:ID='A71628'>21000</NS0:mainTelephoneLines>
+    <NS0:mobileTelephoneLines rdf:ID='A71630'>1290</NS0:mobileTelephoneLines>
+    <NS0:telephoneSystemGeneralAssessment>minimal domestic and international facilities</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>interatoll communication through microwave links; all inhabited islands are connected with telephone and fax service</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>satellite earth station - 3 Intelsat (Indian Ocean)</NS0:telephoneSystemInternational>
+    <NS0:radios rdf:ID='A71635'>35000</NS0:radios>
+    <NS0:televisionBroadcastStations rdf:ID='A71637'>1</NS0:televisionBroadcastStations>
+    <NS0:televisions rdf:ID='A71639'>10000</NS0:televisions>
+    <NS0:internetCountryCode>.mv</NS0:internetCountryCode>
+    <NS0:internetServiceProviders rdf:ID='A71642'>1</NS0:internetServiceProviders>
+    <NS0:internetUsers rdf:ID='A71644'>2000</NS0:internetUsers>
+    <NS0:port rdf:resource='#A71646'/>
+    <NS0:port rdf:resource='#A71650'/>
+    <NS0:airports rdf:ID='A71654'>5</NS0:airports>
+    <NS0:airportBreakdown rdf:resource='#A71657'/>
+    <NS0:airportBreakdown rdf:resource='#A71663'/>
+    <NS0:airportBreakdown rdf:resource='#A71670'/>
+    <NS0:malesOfMilitaryAge rdf:ID='A71677'>71856</NS0:malesOfMilitaryAge>
+    <NS0:malesFitForMilitaryService rdf:ID='A71680'>40006</NS0:malesFitForMilitaryService>
+    <NS0:internationalDispute>none</NS0:internationalDispute>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/mv-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/mv-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/mv-map.jpg</NS0:map>
+    <NS0:exportPartner rdf:resource='#A126209'/>
+    <NS0:exportPartner rdf:resource='#A126213'/>
+    <NS0:exportPartner rdf:resource='#A126217'/>
+    <NS0:exportPartner rdf:resource='#A126221'/>
+    <NS0:importPartner rdf:resource='#A126225'/>
+    <NS0:importPartner rdf:resource='#A126229'/>
+    <NS0:importPartner rdf:resource='#A126233'/>
+    <NS0:importPartner rdf:resource='#A126237'/>
+    <NS0:importPartner rdf:resource='#A126241'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71308'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>July 2001</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71628'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#OtherFirst-orderAdministrativeDivision'>
+    <rdf:type rdf:resource='http://www.w3.org/2000/01/rdf-schema#Class'/>
+    <rdfs:subClassOf rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AdministrativeDivision'/>
+    <rdfs:label>OtherFirst-orderAdministrativeDivision</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71579'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71388'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1995</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71314'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71644'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71355'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#Atoll'>
+    <rdf:type rdf:resource='http://www.w3.org/2000/01/rdf-schema#Class'/>
+    <rdfs:subClassOf rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AdministrativeDivision'/>
+    <rdfs:label>Atoll</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71482'>
+    <rdf:type rdf:resource='#Atoll'/>
+    <NS0:name>Vaavu</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71294'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71670'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>914</NS0:minRunway>
+    <NS0:maxRunway>1523</NS0:maxRunway>
+    <NS0:count>3 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71478'>
+    <rdf:type rdf:resource='#Atoll'/>
+    <NS0:name>Thaa</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71284'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>unnamed location on Wilingili island in the Addu Atoll</NS0:name>
+    <NS0:elevation>2.4</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71474'>
+    <rdf:type rdf:resource='#Atoll'/>
+    <NS0:name>Shaviyani</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71680'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71663'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>2438</NS0:minRunway>
+    <NS0:maxRunway>3047</NS0:maxRunway>
+    <NS0:count>1 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71279'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Indian Ocean</NS0:name>
+    <NS0:elevation>0</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71470'>
+    <rdf:type rdf:resource='#Atoll'/>
+    <NS0:name>Seenu</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71630'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71466'>
+    <rdf:type rdf:resource='#Atoll'/>
+    <NS0:name>Raa</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71657'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>3048</NS0:minRunway>
+    <NS0:count>1</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71590'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71462'>
+    <rdf:type rdf:resource='#Atoll'/>
+    <NS0:name>Noonu</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71317'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71650'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Male</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71458'>
+    <rdf:type rdf:resource='#Atoll'/>
+    <NS0:name>Meemu</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71646'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Gan</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71535'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71263'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>3.25</NS0:latitude>
+    <NS0:longitude>73.0</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71454'>
+    <rdf:type rdf:resource='#OtherFirst-orderAdministrativeDivision'/>
+    <NS0:name>Maale</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71538'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71642'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71450'>
+    <rdf:type rdf:resource='#Atoll'/>
+    <NS0:name>Lhaviyani</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71446'>
+    <rdf:type rdf:resource='#Atoll'/>
+    <NS0:name>Laamu</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71442'>
+    <rdf:type rdf:resource='#Atoll'/>
+    <NS0:name>Kaafu</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71379'>
+    <NS0:note>dialect of Sinhala, script derived from Arabic</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71588'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71438'>
+    <rdf:type rdf:resource='#Atoll'/>
+    <NS0:name>Haa Dhaalu</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71560'>
+    <NS0:note>excluding foreign grants</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A71434'>
+    <rdf:type rdf:resource='#Atoll'/>
+    <NS0:name>Haa Alifu</NS0:name>
+  </rdf:Description>
+</rdf:RDF>

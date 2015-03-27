@@ -1,0 +1,337 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xml:base="http://www.daml.org/2001/12/factbook/fa">
+  <rdf:Description rdf:about='#A33816'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>2438</NS0:minRunway>
+    <NS0:maxRunway>3047</NS0:maxRunway>
+    <NS0:count>1</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33759'>
+    <NS0:year>1995</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33791'>
+    <NS0:year>1995</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33621'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>-51.75</NS0:latitude>
+    <NS0:longitude>-59.0</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123014'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#NZ'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33809'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Stanley</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33748'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123010'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#CI'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123006'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#JA'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33706'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CapitalCity'/>
+    <NS0:name>Stanley</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A123002'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#UK'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33698'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#English'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122998'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#NZ'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33694'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Seventh-Day_Adventist'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122994'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#CI'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33734'>
+    <NS0:note>mostly sheepherding and fishing</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33787'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#clothing'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33690'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Lutheran'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122990'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#JA'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33783'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#building_materials'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33738'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>FY98/99</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33686'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Jehovah_s_Witnesses'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122986'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#UK'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33779'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#food_and_drink'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33682'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Evangelist_Church'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33754'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33653'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33775'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#fuel'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33678'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#United_Free_Church'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33728'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33674'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Roman_Catholic'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33769'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#meat'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33661'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33804'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33813'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33670'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#primarily_Anglican'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33765'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#hides'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33666'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#British'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33761'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#wool'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33773'>
+    <NS0:year>1995</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33658'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>July 2001</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33726'>
+    <NS0:year>1998</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33799'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#FA'>
+    <NS0:background>Although first sighted by an English navigator in 1592, the first landing (English) did not occur until almost a century later in 1690, and the first settlement (French) was not established until 1764. The colony was turned over to Spain two years later and the islands have since been the subject of a territorial dispute, first between Britain and Spain, then between Britain and Argentina. The UK asserted its claim to the islands by establishing a naval garrison there in 1833. Argentina invaded the islands on 2 April 1982. The British responded with an expeditionary force that landed seven weeks later and after fierce fighting forced Argentine surrender on 14 June 1982.</NS0:background>
+    <NS0:location>Southern South America, islands in the South Atlantic Ocean, east of southern Argentina</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A33621'/>
+    <NS0:mapReferences>South America</NS0:mapReferences>
+    <NS0:totalArea>12173</NS0:totalArea>
+    <NS0:landArea>12173</NS0:landArea>
+    <NS0:waterArea>0</NS0:waterArea>
+    <NS0:comparativeArea>slightly smaller than Connecticut</NS0:comparativeArea>
+    <NS0:coastline>1288</NS0:coastline>
+    <NS0:continentalShelf>200</NS0:continentalShelf>
+    <NS0:exclusiveFishingZone>200</NS0:exclusiveFishingZone>
+    <NS0:territorialSea>12</NS0:territorialSea>
+    <NS0:climate>cold marine; strong westerly winds, cloudy, humid; rain occurs on more than half of days in year; occasional snow all year, except in January and February, but does not accumulate</NS0:climate>
+    <NS0:terrain>rocky, hilly, mountainous with some boggy, undulating plains</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A33637'/>
+    <NS0:highestPoint rdf:resource='#A33642'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#fish'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#wildlife'/>
+    <NS0:arableLand>0</NS0:arableLand>
+    <NS0:permanentCrops>0</NS0:permanentCrops>
+    <NS0:permanentPastures>99</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>0</NS0:forestsAndWoodland>
+    <NS0:otherLandUse rdf:ID='A33653'>1</NS0:otherLandUse>
+    <NS0:naturalHazard>strong winds persist throughout the year</NS0:naturalHazard>
+    <NS0:environmentalIssue>NA</NS0:environmentalIssue>
+    <NS0:population rdf:ID='A33658'>2895</NS0:population>
+    <NS0:populationGrowthRate rdf:ID='A33661'>2.43</NS0:populationGrowthRate>
+    <NS0:nationalityNoun>Falkland Islander(s)</NS0:nationalityNoun>
+    <NS0:nationalityAdjective>Falkland Island</NS0:nationalityAdjective>
+    <NS0:ethnicGroup rdf:resource='#A33666'/>
+    <NS0:religion rdf:resource='#A33670'/>
+    <NS0:religion rdf:resource='#A33674'/>
+    <NS0:religion rdf:resource='#A33678'/>
+    <NS0:religion rdf:resource='#A33682'/>
+    <NS0:religion rdf:resource='#A33686'/>
+    <NS0:religion rdf:resource='#A33690'/>
+    <NS0:religion rdf:resource='#A33694'/>
+    <NS0:language rdf:resource='#A33698'/>
+    <NS0:conventionalLongCountryName>none</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Falkland Islands (Islas Malvinas)</NS0:conventionalShortCountryName>
+    <NS0:dependencyStatus>overseas territory of the UK; also claimed by Argentina</NS0:dependencyStatus>
+    <NS0:governmentType rdf:resource='http://www.daml.org/2001/12/factbook/governmentTypes#NA'/>
+    <NS0:capital rdf:resource='#A33706'/>
+    <NS0:independence>none (overseas territory of the UK; also claimed by Argentina)</NS0:independence>
+    <NS0:constitution>3 October 1985; amended 1997 and 1998</NS0:constitution>
+    <NS0:legalSystem>English common law</NS0:legalSystem>
+    <NS0:suffrage>18 years of age; universal</NS0:suffrage>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICFTU'/>
+    <NS0:flagDescription>blue with the flag of the UK in the upper hoist-side quadrant and the Falkland Island coat of arms in a white disk centered on the outer half of the flag; the coat of arms contains a white ram (sheep raising is the major economic activity) above the sailing ship Desire (whose crew discovered the islands) with a scroll at the bottom bearing the motto DESIRE THE RIGHT</NS0:flagDescription>
+    <NS0:economyOverview>The economy was formerly based on agriculture, mainly sheep farming, but today fishing contributes the bulk of economic activity. In 1987 the government began selling fishing licenses to foreign trawlers operating within the Falklands exclusive fishing zone. These license fees total more than $40 million per year, which goes to support the island&apos;s health, education, and welfare system. Squid accounts for 75% of the fish taken. Dairy farming supports domestic consumption; crops furnish winter fodder. Exports feature shipments of high-grade wool to the UK and the sale of postage stamps and coins. To encourage tourism, the Falkland Islands Development Corporation has built three lodges for visitors attracted by the abundant wildlife and trout fishing. The islands are now self-financing except for defense. The British Geological Survey announced a 200-mile oil exploration zone around the islands in 1993, and early seismic surveys suggest substantial reserves capable of producing 500,000 barrels per day; to date no exploitable site has been identified. An agreement between Argentina and the UK in 1995 seeks to defuse licensing and sovereignty conflicts that would dampen foreign interest in exploiting potential oil reserves.</NS0:economyOverview>
+    <NS0:grossDomesticProduct rdf:ID='A33717'>52000000</NS0:grossDomesticProduct>
+    <NS0:grossDomesticProductRealGrowth rdf:ID='A33720'>1</NS0:grossDomesticProductRealGrowth>
+    <NS0:grossDomesticProductPerCapita rdf:ID='A33723'>19000</NS0:grossDomesticProductPerCapita>
+    <NS0:inflationRate rdf:ID='A33726'>3.6</NS0:inflationRate>
+    <NS0:laborForce rdf:ID='A33728'>1100</NS0:laborForce>
+    <NS0:occupation rdf:ID='A33734' rdf:resource='#A33730'/>
+    <NS0:budgetRevenues>66200000</NS0:budgetRevenues>
+    <NS0:budgetExpenditures>67900000</NS0:budgetExpenditures>
+    <NS0:budgetCapitalExpenditures rdf:ID='A33738'>23200000</NS0:budgetCapitalExpenditures>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#wool_and_fish_processing'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#sale_of_stamps_and_coins'/>
+    <NS0:electricityProduction rdf:ID='A33743'>12000000</NS0:electricityProduction>
+    <NS0:electricityProductionFossilFuel>100</NS0:electricityProductionFossilFuel>
+    <NS0:electricityProductionHydro>0</NS0:electricityProductionHydro>
+    <NS0:electricityProductionNuclear>0</NS0:electricityProductionNuclear>
+    <NS0:electricityProductionOther rdf:ID='A33748'>0</NS0:electricityProductionOther>
+    <NS0:electricityConsumption rdf:ID='A33750'>11200000</NS0:electricityConsumption>
+    <NS0:electricityExports rdf:ID='A33752'>0</NS0:electricityExports>
+    <NS0:electricityImports rdf:ID='A33754'>0</NS0:electricityImports>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#fodder_and_vegetable_crops'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#sheep'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#dairy_products'/>
+    <NS0:exports rdf:ID='A33759'>7600000</NS0:exports>
+    <NS0:exportsCommodity rdf:resource='#A33761'/>
+    <NS0:exportsCommodity rdf:resource='#A33765'/>
+    <NS0:exportsCommodity rdf:resource='#A33769'/>
+    <NS0:imports rdf:ID='A33773'>24700000</NS0:imports>
+    <NS0:importsCommodity rdf:resource='#A33775'/>
+    <NS0:importsCommodity rdf:resource='#A33779'/>
+    <NS0:importsCommodity rdf:resource='#A33783'/>
+    <NS0:importsCommodity rdf:resource='#A33787'/>
+    <NS0:economicAidRecipient rdf:ID='A33791'>1700000</NS0:economicAidRecipient>
+    <NS0:currency>Falkland pound (FKP)</NS0:currency>
+    <NS0:currencyCode>FKP</NS0:currencyCode>
+    <NS0:fiscalYear>1 April - 31 March</NS0:fiscalYear>
+    <NS0:telephoneSystemGeneralAssessment>NA</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>government-operated radiotelephone and private VHF/CB radiotelephone networks provide effective service to almost all points on both islands</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>satellite earth station - 1 Intelsat (Atlantic Ocean) with links through London to other countries</NS0:telephoneSystemInternational>
+    <NS0:radios rdf:ID='A33799'>1000</NS0:radios>
+    <NS0:televisions rdf:ID='A33801'>1000</NS0:televisions>
+    <NS0:internetCountryCode>.fk</NS0:internetCountryCode>
+    <NS0:internetServiceProviders rdf:ID='A33804'>2</NS0:internetServiceProviders>
+    <NS0:highwaysTotal>440</NS0:highwaysTotal>
+    <NS0:highwaysPaved>50</NS0:highwaysPaved>
+    <NS0:highwaysUnpaved>390</NS0:highwaysUnpaved>
+    <NS0:port rdf:resource='#A33809'/>
+    <NS0:airports rdf:ID='A33813'>5</NS0:airports>
+    <NS0:airportBreakdown rdf:resource='#A33816'/>
+    <NS0:airportBreakdown rdf:resource='#A33823'/>
+    <NS0:airportBreakdown rdf:resource='#A33829'/>
+    <NS0:internationalDispute>claimed by Argentina</NS0:internationalDispute>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/fa-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/fa-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/fa-map.jpg</NS0:map>
+    <NS0:exportPartner rdf:resource='#A122986'/>
+    <NS0:exportPartner rdf:resource='#A122990'/>
+    <NS0:exportPartner rdf:resource='#A122994'/>
+    <NS0:exportPartner rdf:resource='#A122998'/>
+    <NS0:importPartner rdf:resource='#A123002'/>
+    <NS0:importPartner rdf:resource='#A123006'/>
+    <NS0:importPartner rdf:resource='#A123010'/>
+    <NS0:importPartner rdf:resource='#A123014'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33801'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33720'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>FY95/96</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33752'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33717'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>FY95/96</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33743'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33642'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Mount Usborne</NS0:name>
+    <NS0:elevation>705</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33829'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:maxRunway>913</NS0:maxRunway>
+    <NS0:count>3 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33637'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Atlantic Ocean</NS0:name>
+    <NS0:elevation>0</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33723'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>FY95/96</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33730'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#agriculture'/>
+    <NS0:percent>95</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33750'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A33823'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:maxRunway>913</NS0:maxRunway>
+    <NS0:count>1 (2000 est.)</NS0:count>
+  </rdf:Description>
+</rdf:RDF>

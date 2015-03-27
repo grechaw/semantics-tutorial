@@ -1,0 +1,309 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Yūto_Nagatomo	owl:sameAs	dbpedia:Yuto_Nagatomo .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Yūto_Nagatomo	owl:sameAs	dbpedia:Yuto_Nagatomo .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q281734	owl:sameAs	dbpedia:Yuto_Nagatomo .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Yūto_Nagatomo	owl:sameAs	dbpedia:Yuto_Nagatomo .
+@prefix ns6:	<http://id.dbpedia.org/resource/> .
+ns6:Yuto_Nagatomo	owl:sameAs	dbpedia:Yuto_Nagatomo .
+@prefix ns7:	<http://it.dbpedia.org/resource/> .
+ns7:Yuto_Nagatomo	owl:sameAs	dbpedia:Yuto_Nagatomo .
+@prefix ns8:	<http://ja.dbpedia.org/resource/> .
+ns8:長友佑都	owl:sameAs	dbpedia:Yuto_Nagatomo .
+@prefix ns9:	<http://ko.dbpedia.org/resource/> .
+ns9:나가토모_유토	owl:sameAs	dbpedia:Yuto_Nagatomo .
+@prefix ns10:	<http://nl.dbpedia.org/resource/> .
+ns10:Yuto_Nagatomo	owl:sameAs	dbpedia:Yuto_Nagatomo .
+@prefix ns11:	<http://pl.dbpedia.org/resource/> .
+ns11:Yūto_Nagatomo	owl:sameAs	dbpedia:Yuto_Nagatomo .
+@prefix ns12:	<http://pt.dbpedia.org/resource/> .
+ns12:Yuto_Nagatomo	owl:sameAs	dbpedia:Yuto_Nagatomo .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Yuto_Nagatomo	rdf:type	dbpedia-owl:Agent .
+@prefix ns15:	<http://schema.org/> .
+dbpedia:Yuto_Nagatomo	rdf:type	ns15:Person ,
+		dbpedia-owl:Person ,
+		owl:Thing ,
+		ns4:Q215627 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Yuto_Nagatomo	rdf:type	yago:AssociationFootballDefenders ,
+		yago:Contestant109613191 ,
+		yago:Defender109614684 ,
+		yago:Preserver110466918 ,
+		yago:OlympicFootballersOfJapan ,
+		ns4:Q5 ,
+		yago:JapaneseExpatriatesInItaly ,
+		yago:FootballersAtThe2008SummerOlympics ,
+		yago:JapanInternationalFootballers .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Yuto_Nagatomo	rdf:type	dul:Agent ,
+		dul:NaturalPerson ,
+		dbpedia-owl:Athlete ,
+		yago:PeopleFromEhimePrefecture ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:ExpatriateFootballersInItaly .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbpedia:Yuto_Nagatomo	rdf:type	foaf:Person ,
+		yago:SerieAFootballers ,
+		yago:Object100002684 ,
+		yago:Whole100003553 ,
+		yago:JapaneseFootballers ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		<http://dbpedia.org/class/yago/2011AFCAsianCupPlayers> ,
+		yago:Absentee109757653 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:JapaneseExpatriateFootballers ,
+		<http://dbpedia.org/class/yago/J.LeaguePlayers> ,
+		yago:PhysicalEntity100001930 ,
+		<http://dbpedia.org/class/yago/F.C.TokyoPlayers> ,
+		yago:Player110439851 ,
+		<http://dbpedia.org/class/yago/F.C.InternazionaleMilanoPlayers> ,
+		yago:Athlete109820263 ,
+		<http://dbpedia.org/class/yago/A.C.CesenaPlayers> ,
+		yago:FootballPlayer110101634 ;
+	owl:sameAs	ns10:Yuto_Nagatomo .
+@prefix ns19:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Yuto_Nagatomo	owl:sameAs	ns19:Nagatomo_Júto .
+@prefix ns20:	<http://da.dbpedia.org/resource/> .
+dbpedia:Yuto_Nagatomo	owl:sameAs	ns20:Yuto_Nagatomo .
+@prefix ns21:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Yuto_Nagatomo	owl:sameAs	ns21:Yuto_Nagatomo ,
+		ns11:Yūto_Nagatomo .
+@prefix ns22:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Yuto_Nagatomo	owl:sameAs	ns22:Yuto_Nagatomo .
+@prefix ns23:	<http://wikidata.org/entity/> .
+dbpedia:Yuto_Nagatomo	owl:sameAs	ns23:Q281734 ,
+		ns5:Yūto_Nagatomo .
+@prefix ns24:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Yuto_Nagatomo	owl:sameAs	ns24:Нагатомо_Юто ,
+		<http://ru.dbpedia.org/resource/\u041D\u0430\u0433\u0430\u0442\u043E\u043C\u043E,_\u042E\u0442\u043E> ,
+		dbpedia:Yuto_Nagatomo .
+@prefix ns25:	<http://sw.cyc.com/concept/> .
+dbpedia:Yuto_Nagatomo	owl:sameAs	ns25:Mx4r42ojfrz-TBumyA77D9p-tA .
+@prefix ns26:	<http://be_x_old.dbpedia.org/resource/> .
+dbpedia:Yuto_Nagatomo	owl:sameAs	ns26:Юта_Нагатома ,
+		ns7:Yuto_Nagatomo .
+@prefix ns27:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Yuto_Nagatomo	owl:sameAs	ns27:Yuto_Nagatomo ,
+		<http://rdf.freebase.com/ns/m.047pb4k> .
+@prefix ns28:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Yuto_Nagatomo	owl:sameAs	ns28:长友佑都 .
+@prefix ns29:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Yuto_Nagatomo	owl:sameAs	ns29:Yūto_Nagatomo .
+@prefix ns30:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Yuto_Nagatomo	owl:sameAs	ns30:युतो_नागातोमो ,
+		ns6:Yuto_Nagatomo .
+@prefix ns31:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Yuto_Nagatomo	owl:sameAs	ns31:Yuto_Nagatomo ,
+		ns4:Q281734 ,
+		ns3:Yūto_Nagatomo ,
+		ns9:나가토모_유토 .
+@prefix ns32:	<http://yago-knowledge.org/resource/> .
+dbpedia:Yuto_Nagatomo	owl:sameAs	ns32:Yuto_Nagatomo ,
+		ns1:Yūto_Nagatomo .
+@prefix ns33:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Yuto_Nagatomo	owl:sameAs	ns33:Yuto_Nagatomo .
+@prefix ns34:	<http://no.dbpedia.org/resource/> .
+dbpedia:Yuto_Nagatomo	owl:sameAs	ns34:Yuto_Nagatomo ,
+		ns8:長友佑都 .
+@prefix ns35:	<http://bs.dbpedia.org/resource/> .
+dbpedia:Yuto_Nagatomo	owl:sameAs	ns35:Yuto_Nagatomo .
+@prefix ns36:	<http://sq.dbpedia.org/resource/> .
+dbpedia:Yuto_Nagatomo	owl:sameAs	ns36:Yuto_Nagatomo .
+@prefix ns37:	<http://nn.dbpedia.org/resource/> .
+dbpedia:Yuto_Nagatomo	owl:sameAs	ns37:Yuto_Nagatomo ,
+		ns12:Yuto_Nagatomo .
+@prefix ns38:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Yuto_Nagatomo	owl:sameAs	ns38:يوتو_ناغاتومو .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Yuto_Nagatomo	rdfs:label	"Yuto Nagatomo"@pt ,
+		"\u041D\u0430\u0433\u0430\u0442\u043E\u043C\u043E, \u042E\u0442\u043E"@ru ,
+		"Y\u016Bto Nagatomo"@pl ,
+		"\u957F\u53CB\u4F51\u90FD"@zh ,
+		"Yuto Nagatomo"@nl ,
+		"Y\u016Bto Nagatomo"@de ,
+		"\u9577\u53CB\u4F51\u90FD"@ja ,
+		"Yuto Nagatomo"@it ,
+		"\u064A\u0648\u062A\u0648 \u0646\u0627\u063A\u0627\u062A\u0648\u0645\u0648"@ar ,
+		"Y\u016Bto Nagatomo"@fr ,
+		"Yuto Nagatomo" ,
+		"Y\u016Bto Nagatomo"@es .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+dbpedia:Yuto_Nagatomo	dcterms:subject	<http://dbpedia.org/resource/Category:J._League_Division_1_players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Yuto_Nagatomo	dcterms:subject	category:Japanese_footballers ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:F.C._Tokyo_players> ,
+		category:People_from_Ehime_Prefecture ,
+		<http://dbpedia.org/resource/Category:2013_FIFA_Confederations_Cup_players> ,
+		category:Association_football_defenders ,
+		<http://dbpedia.org/resource/Category:A.C._Cesena_players> ,
+		category:Living_people ,
+		category:AFC_Asian_Cup-winning_players ,
+		<http://dbpedia.org/resource/Category:2011_AFC_Asian_Cup_players> ,
+		category:Japanese_expatriates_in_Italy ,
+		category:Japan_international_footballers ,
+		category:Expatriate_footballers_in_Italy ,
+		category:Serie_A_footballers ,
+		category:Footballers_at_the_2008_Summer_Olympics ,
+		category:Inter_Milan_players ,
+		category:Olympic_footballers_of_Japan ,
+		category:Japanese_expatriate_footballers ,
+		<http://dbpedia.org/resource/Category:1986_births> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Yuto_Nagatomo_2011.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Yuto_Nagatomo	dc:description	"Footballer" ,
+		"Footballer" ;
+	foaf:givenName	"Yuto" ;
+	foaf:name	"Nagatomo, Yuto" ,
+		"Yuto Nagatomo" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Yuto_Nagatomo	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Yuto_Nagatomo?oldid=606206253> ;
+	rdfs:comment	"Y\u016Bto Nagatomo (\u9577\u53CB \u4F51\u90FD, Nagatomo Yuuto?) (12 de septiembre de 1986, Saij\u014D, Ehime, Jap\u00F3n) es un futbolista japon\u00E9s. Actualmente se desempe\u00F1a como defensa en el Inter de Mil\u00E1n de la Seria A Italiana y en la Selecci\u00F3n japonesa de f\u00FAtbol."@es ,
+		"Y\u016Bto Nagatomo (jap. \u9577\u53CB\u4F51\u90FD, Nagatomo Y\u016Bto, ur. 12 wrze\u015Bnia 1986 w Saij\u014D, w prefekturze Ehime) \u2013 japo\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji bocznego (wysuni\u0119tego) obro\u0144cy w klubie Inter Mediolan."@pl ,
+		"Yuto Nagatomo, (em japon\u00EAs \u9577\u53CB \u4F51\u90FD), (Saijo, 12 de setembro de 1986) \u00E9 um futebolista japon\u00EAs. Atualmente joga na Internazionale."@pt ,
+		"\u9577\u53CB \u4F51\u90FD\uFF08\u306A\u304C\u3068\u3082 \u3086\u3046\u3068\u30011986\u5E749\u670812\u65E5 - \uFF09\u306F\u3001\u611B\u5A9B\u770C\u897F\u6761\u5E02\u51FA\u8EAB\u306E\u30D7\u30ED\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30BB\u30EA\u30A8A\u30FB\u30A4\u30F3\u30C6\u30EB\u30CA\u30C4\u30A3\u30AA\u30CA\u30FC\u30EC\u30FB\u30DF\u30E9\u30CE\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\uFF08\u30B5\u30A4\u30C9\u30D0\u30C3\u30AF\uFF09\u53CA\u3073\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\uFF08\u30B5\u30A4\u30C9\u30CF\u30FC\u30D5\u3001\u30A6\u30A4\u30F3\u30B0\u30D0\u30C3\u30AF\uFF09\u3002\u65E5\u672C\u4EE3\u8868\u3002"@ja ,
+		"\u957F\u53CB\u4F51\u90FD\uFF081986\u5E749\u670812\u65E5\uFF0D\uFF09\uFF0C\u51FA\u751F\u4E8E\u65E5\u672C\u7231\u5A9B\u53BF\u897F\u6761\u5E02\uFF0C\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u53F8\u804C\u8FB9\u540E\u536B\uFF0C\u73B0\u6548\u529B\u4E8E\u610F\u5927\u5229\u8DB3\u7403\u7532\u7EA7\u8054\u8D5B\u7403\u961F\u56FD\u9645\u7C73\u5170\uFF0C\u4ED6\u662F\u65E5\u672C\u56FD\u5BB6\u961F\u7684\u6210\u5458\u3002"@zh ,
+		"\u064A\u0648\u062A\u0648 \u0646\u0627\u063A\u0627\u062A\u0648\u0645\u0648 (\u9577\u53CB \u4F51\u90FD Nagatomo Y\u016Bto) \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 12 \u0633\u0628\u062A\u0645\u0628\u0631 1986 \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0633\u0627\u064A\u062C\u0648\u060C \u0645\u062D\u0627\u0641\u0638\u0629 \u0623\u064A\u0647\u064A\u0645\u064A \u0641\u064A \u0627\u0644\u064A\u0627\u0628\u0627\u0646\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u064A\u0627\u0628\u0627\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0625\u0646\u062A\u0631 \u0645\u064A\u0644\u0627\u0646 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A \u0645\u0646\u0630 2011 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0638\u0647\u064A\u0631 \u0627\u0644\u0623\u064A\u0633\u0631/\u0627\u0644\u0623\u064A\u0645\u0646."@ar ,
+		"Yuto Nagatomo, \u9577\u53CB \u4F51\u90FD (Saijo, 12 settembre 1986), \u00E8 un calciatore giapponese, difensore dell'Inter e della Nazionale giapponese.Con la Nazionale giapponese si \u00E8 laureato Campione d'Asia nel 2011."@it ,
+		"Yuto Nagatomo (\u9577\u53CB \u4F51\u90FD, Nagatomo Y\u016Bto, born 12 September 1986) is a Japanese footballer who plays as a defender for Serie A club Internazionale." ,
+		"Yuto Nagatomo (Japans: \u9577\u53CB \u4F51\u90FD, Nagatomo Y\u016Bto; Saijo, 12 september 1986) is een Japanse voetballer die uitkomt voor Inter Milaan. Hij speelt het liefst met rugnummer 5, maar omdat dat nummer al vergeven is aan Dejan Stankovi\u0107, speelt hij met rugnummer 55."@nl ,
+		"Y\u016Bto Nagatomo (jap. \u9577\u53CB \u4F51\u90FD, Nagatomo Y\u016Bto; * 12. September 1986 in Saij\u014D) ist ein japanischer Fu\u00DFballspieler."@de ,
+		"\u042E\u0442\u043E \u041D\u0430\u0433\u0430\u0442\u043E\u043C\u043E (\u044F\u043F. \u9577\u53CB \u4F51\u90FD \u041D\u0430\u0433\u0430\u0442\u043E\u043C\u043E \u042E:\u0442\u043E, \u0440\u043E\u0434. 12 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1986, \u0421\u0430\u0439\u0434\u0437\u0451) \u2014 \u044F\u043F\u043E\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0418\u043D\u0442\u0435\u0440\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u042F\u043F\u043E\u043D\u0438\u0438. \u041F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u041A\u0443\u0431\u043A\u0430 \u0410\u0437\u0438\u0438 2011 \u0433\u043E\u0434\u0430. \u041D\u0430\u0433\u0430\u0442\u043E\u043C\u043E \u043E\u0434\u0438\u043D \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u043D\u044B\u0445 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442\u043E\u0432 \u043C\u0438\u0440\u0430. \u042E\u0442\u043E \u043E\u043A\u043E\u043D\u0447\u0438\u043B \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u044B\u0439 \u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u041C\u044D\u0439\u0434\u0437\u0438, \u0433\u0434\u0435 \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u0443\u0447\u0435\u043D\u0443\u044E \u0441\u0442\u0435\u043F\u0435\u043D\u044C \u043F\u043E \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u043A\u0435 \u0438 \u043E\u043F\u0443\u0431\u043B\u0438\u043A\u043E\u0432\u0430\u043B \u0432 \u042F\u043F\u043E\u043D\u0438\u0438 \u0434\u0432\u0435 \u043A\u043D\u0438\u0433\u0438."@ru ,
+		"Y\u016Bto Nagatomo (\u9577\u53CB \u4F51\u90FD, Nagatomo Y\u016Bto?), n\u00E9 le 12 septembre 1986 \u00E0 Saij\u014D, est un footballeur international japonais \u00E9voluant au poste de d\u00E9fenseur lat\u00E9ral \u00E0 l'Inter Milan."@fr ;
+	foaf:surname	"Nagatomo" .
+@prefix ns44:	<http://en.wikipedia.org/wiki/> .
+dbpedia:Yuto_Nagatomo	foaf:isPrimaryTopicOf	ns44:Yuto_Nagatomo .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix ns46:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Yuto_Nagatomo	dbpprop:hasPhotoCollection	ns46:Yuto_Nagatomo ;
+	dbpprop:caption	"Nagatomo with Inter in 2011" ;
+	dbpprop:name	"Yuto Nagatomo" ,
+		"Nagatomo, Yuto" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Yuto_Nagatomo_2011.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u957F\u53CB\u4F51\u90FD\uFF081986\u5E749\u670812\u65E5\uFF0D\uFF09\uFF0C\u51FA\u751F\u4E8E\u65E5\u672C\u7231\u5A9B\u53BF\u897F\u6761\u5E02\uFF0C\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u53F8\u804C\u8FB9\u540E\u536B\uFF0C\u73B0\u6548\u529B\u4E8E\u610F\u5927\u5229\u8DB3\u7403\u7532\u7EA7\u8054\u8D5B\u7403\u961F\u56FD\u9645\u7C73\u5170\uFF0C\u4ED6\u662F\u65E5\u672C\u56FD\u5BB6\u961F\u7684\u6210\u5458\u3002"@zh ,
+		"Y\u016Bto Nagatomo (\u9577\u53CB \u4F51\u90FD, Nagatomo Y\u016Bto?), n\u00E9 le 12 septembre 1986 \u00E0 Saij\u014D, est un footballeur international japonais \u00E9voluant au poste de d\u00E9fenseur lat\u00E9ral \u00E0 l'Inter Milan."@fr ,
+		"Y\u016Bto Nagatomo (\u9577\u53CB \u4F51\u90FD, Nagatomo Yuuto?) (12 de septiembre de 1986, Saij\u014D, Ehime, Jap\u00F3n) es un futbolista japon\u00E9s. Actualmente se desempe\u00F1a como defensa en el Inter de Mil\u00E1n de la Seria A Italiana y en la Selecci\u00F3n japonesa de f\u00FAtbol."@es ,
+		"\u9577\u53CB \u4F51\u90FD\uFF08\u306A\u304C\u3068\u3082 \u3086\u3046\u3068\u30011986\u5E749\u670812\u65E5 - \uFF09\u306F\u3001\u611B\u5A9B\u770C\u897F\u6761\u5E02\u51FA\u8EAB\u306E\u30D7\u30ED\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30BB\u30EA\u30A8A\u30FB\u30A4\u30F3\u30C6\u30EB\u30CA\u30C4\u30A3\u30AA\u30CA\u30FC\u30EC\u30FB\u30DF\u30E9\u30CE\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\uFF08\u30B5\u30A4\u30C9\u30D0\u30C3\u30AF\uFF09\u53CA\u3073\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\uFF08\u30B5\u30A4\u30C9\u30CF\u30FC\u30D5\u3001\u30A6\u30A4\u30F3\u30B0\u30D0\u30C3\u30AF\uFF09\u3002\u65E5\u672C\u4EE3\u8868\u3002"@ja ,
+		"Yuto Nagatomo, \u9577\u53CB \u4F51\u90FD (Saijo, 12 settembre 1986), \u00E8 un calciatore giapponese, difensore dell'Inter e della Nazionale giapponese.Con la Nazionale giapponese si \u00E8 laureato Campione d'Asia nel 2011."@it ,
+		"Yuto Nagatomo (Japans: \u9577\u53CB \u4F51\u90FD, Nagatomo Y\u016Bto; Saijo, 12 september 1986) is een Japanse voetballer die uitkomt voor Inter Milaan. Hij speelt het liefst met rugnummer 5, maar omdat dat nummer al vergeven is aan Dejan Stankovi\u0107, speelt hij met rugnummer 55."@nl ,
+		"\u064A\u0648\u062A\u0648 \u0646\u0627\u063A\u0627\u062A\u0648\u0645\u0648 (\u9577\u53CB \u4F51\u90FD Nagatomo Y\u016Bto) \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 12 \u0633\u0628\u062A\u0645\u0628\u0631 1986 \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0633\u0627\u064A\u062C\u0648\u060C \u0645\u062D\u0627\u0641\u0638\u0629 \u0623\u064A\u0647\u064A\u0645\u064A \u0641\u064A \u0627\u0644\u064A\u0627\u0628\u0627\u0646\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u064A\u0627\u0628\u0627\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0625\u0646\u062A\u0631 \u0645\u064A\u0644\u0627\u0646 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A \u0645\u0646\u0630 2011 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0638\u0647\u064A\u0631 \u0627\u0644\u0623\u064A\u0633\u0631/\u0627\u0644\u0623\u064A\u0645\u0646."@ar ,
+		"Y\u016Bto Nagatomo (jap. \u9577\u53CB \u4F51\u90FD, Nagatomo Y\u016Bto; * 12. September 1986 in Saij\u014D) ist ein japanischer Fu\u00DFballspieler."@de ,
+		"Yuto Nagatomo (\u9577\u53CB \u4F51\u90FD, Nagatomo Y\u016Bto, born 12 September 1986) is a Japanese footballer who plays as a defender for Serie A club Internazionale." ,
+		"Y\u016Bto Nagatomo (jap. \u9577\u53CB\u4F51\u90FD, Nagatomo Y\u016Bto, ur. 12 wrze\u015Bnia 1986 w Saij\u014D, w prefekturze Ehime) \u2013 japo\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji bocznego (wysuni\u0119tego) obro\u0144cy w klubie Inter Mediolan."@pl ,
+		"\u042E\u0442\u043E \u041D\u0430\u0433\u0430\u0442\u043E\u043C\u043E (\u044F\u043F. \u9577\u53CB \u4F51\u90FD \u041D\u0430\u0433\u0430\u0442\u043E\u043C\u043E \u042E:\u0442\u043E, \u0440\u043E\u0434. 12 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1986, \u0421\u0430\u0439\u0434\u0437\u0451) \u2014 \u044F\u043F\u043E\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0418\u043D\u0442\u0435\u0440\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u042F\u043F\u043E\u043D\u0438\u0438. \u041F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044C \u041A\u0443\u0431\u043A\u0430 \u0410\u0437\u0438\u0438 2011 \u0433\u043E\u0434\u0430. \u041D\u0430\u0433\u0430\u0442\u043E\u043C\u043E \u043E\u0434\u0438\u043D \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u0430\u043D\u043D\u044B\u0445 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442\u043E\u0432 \u043C\u0438\u0440\u0430. \u042E\u0442\u043E \u043E\u043A\u043E\u043D\u0447\u0438\u043B \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u044B\u0439 \u0423\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442 \u041C\u044D\u0439\u0434\u0437\u0438, \u0433\u0434\u0435 \u043F\u043E\u043B\u0443\u0447\u0438\u043B \u0443\u0447\u0435\u043D\u0443\u044E \u0441\u0442\u0435\u043F\u0435\u043D\u044C \u043F\u043E \u044D\u043A\u043E\u043D\u043E\u043C\u0438\u043A\u0435 \u0438 \u043E\u043F\u0443\u0431\u043B\u0438\u043A\u043E\u0432\u0430\u043B \u0432 \u042F\u043F\u043E\u043D\u0438\u0438 \u0434\u0432\u0435 \u043A\u043D\u0438\u0433\u0438."@ru ,
+		"Yuto Nagatomo, (em japon\u00EAs \u9577\u53CB \u4F51\u90FD), (Saijo, 12 de setembro de 1986) \u00E9 um futebolista japon\u00EAs. Atualmente joga na Internazionale."@pt ;
+	dbpedia-owl:wikiPageID	17912936 ;
+	dbpedia-owl:wikiPageRevisionID	606206253 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Yuto_Nagatomo	dbpprop:birthDate	"1986-09-12+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Saij\u014D, Ehime, Japan" ;
+	dbpprop:dateOfBirth	"1986-09-12+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Saij\u014D, Ehime, Japan" ;
+	dbpprop:shortDescription	"Footballer" ;
+	dbpedia-owl:birthDate	"1986-09-12+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Japan_national_football_team ,
+		<http://dbpedia.org/resource/Saij%C5%8D,_Ehime> ;
+	dbpedia-owl:birthYear	"1986+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	160 ;
+	dbpprop:goals	9 ,
+		0 ,
+		5 ;
+	dbpprop:bg	"#0202FF" ;
+	dbpprop:caps	105 ,
+		72 ,
+		16 ;
+	dbpprop:years	2010 ,
+		2011 ,
+		2008 ;
+	dbpprop:youthclubs	"Higashi Fukuoka High School" ,
+		dbpedia:Meiji_University ;
+	dbpedia-owl:careerStation	dbpedia:Yuto_Nagatomo__5 ,
+		dbpedia:Yuto_Nagatomo__6 ,
+		dbpedia:Yuto_Nagatomo__1 ,
+		dbpedia:Yuto_Nagatomo__3 ,
+		dbpedia:Yuto_Nagatomo__4 ,
+		dbpedia:Yuto_Nagatomo__2 ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.6999999999999999556 .
+@prefix ns48:	<http://dbpedia.org/datatype/> .
+@prefix ns49:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Yuto_Nagatomo	ns49:height	"170.0"^^ns48:centimetre ;
+	dbpprop:currentclub	dbpedia:Inter_Milan ;
+	dbpprop:clubnumber	55 ;
+	dbpprop:fullname	"Yuto Nagatomo" ;
+	dbpprop:clubs	dbpedia:Inter_Milan ,
+		"\u2192 Cesena" ,
+		<http://dbpedia.org/resource/F.C._Tokyo> ;
+	dbpedia-owl:team	dbpedia:Inter_Milan ,
+		<http://dbpedia.org/resource/A.C._Cesena> ,
+		<http://dbpedia.org/resource/F.C._Tokyo> ,
+		dbpedia:Meiji_University ,
+		dbpedia:Japan_national_football_team .
+@prefix ns50:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Yuto_Nagatomo	dbpprop:wordnet_type	ns50:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Japan squads" ;
+	dbpprop:pcupdate	"2014-04-14+02:00"^^xsd:date ;
+	dbpprop:youthyears	2005 ,
+		2002 ;
+	dbpedia-owl:wikiPageExternalLink	<http://soccernet.espn.go.com/player/_/id/119082/yuto-nagatomo?cc=5739> ;
+	dbpprop:fg	"#FFFFFF" ;
+	dbpprop:nationalcaps	67 ;
+	dbpprop:nationalgoals	3 ;
+	dbpprop:nationalteam	dbpedia:Japan_national_football_team ;
+	dbpprop:nationalyears	2008 ;
+	dbpedia-owl:number	55 ;
+	dbpedia-owl:alias	"\u9577\u53CB \u4F51\u90FD (Japanese)" ;
+	dbpprop:alternativeNames	"\u9577\u53CB \u4F51\u90FD" ;
+	dbpprop:ntupdate	"2013-09-26+02:00"^^xsd:date .
+<http://dbpedia.org/resource/2013%E2%80%9314_F.C._Internazionale_Milano_season__Yuto_Nagatomo__1>	dbpedia-owl:currentMember	dbpedia:Yuto_Nagatomo .
+<http://dbpedia.org/resource/2011%E2%80%9312_F.C._Internazionale_Milano_season__Yuto_Nagatomo__1>	dbpedia-owl:currentMember	dbpedia:Yuto_Nagatomo .
+<http://dbpedia.org/resource/2011_F.C._Tokyo_season>	dbpprop:name	dbpedia:Yuto_Nagatomo .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Yuto_Nagatomo .
+ns44:Yuto_Nagatomo	foaf:primaryTopic	dbpedia:Yuto_Nagatomo .
+<http://dbpedia.org/resource/2010_East_Asian_Football_Championship_Final_squads>	dbpprop:name	dbpedia:Yuto_Nagatomo .
+dbpedia:List_of_Japanese_footballers_playing_in_Europe	dbpprop:name	dbpedia:Yuto_Nagatomo .
+ns38:يوتو_ناغاتومو	owl:sameAs	dbpedia:Yuto_Nagatomo .
+ns26:Юта_Нагатома	owl:sameAs	dbpedia:Yuto_Nagatomo .
+ns35:Yuto_Nagatomo	owl:sameAs	dbpedia:Yuto_Nagatomo .
+ns20:Yuto_Nagatomo	owl:sameAs	dbpedia:Yuto_Nagatomo .
+ns29:Yūto_Nagatomo	owl:sameAs	dbpedia:Yuto_Nagatomo .
+ns22:Yuto_Nagatomo	owl:sameAs	dbpedia:Yuto_Nagatomo .
+ns19:Nagatomo_Júto	owl:sameAs	dbpedia:Yuto_Nagatomo .
+ns30:युतो_नागातोमो	owl:sameAs	dbpedia:Yuto_Nagatomo .
+ns37:Yuto_Nagatomo	owl:sameAs	dbpedia:Yuto_Nagatomo .
+ns34:Yuto_Nagatomo	owl:sameAs	dbpedia:Yuto_Nagatomo .
+<http://ru.dbpedia.org/resource/\u041D\u0430\u0433\u0430\u0442\u043E\u043C\u043E,_\u042E\u0442\u043E>	owl:sameAs	dbpedia:Yuto_Nagatomo .
+ns27:Yuto_Nagatomo	owl:sameAs	dbpedia:Yuto_Nagatomo .
+ns36:Yuto_Nagatomo	owl:sameAs	dbpedia:Yuto_Nagatomo .
+ns33:Yuto_Nagatomo	owl:sameAs	dbpedia:Yuto_Nagatomo .
+ns21:Yuto_Nagatomo	owl:sameAs	dbpedia:Yuto_Nagatomo .
+ns24:Нагатомо_Юто	owl:sameAs	dbpedia:Yuto_Nagatomo .
+ns31:Yuto_Nagatomo	owl:sameAs	dbpedia:Yuto_Nagatomo .
+ns28:长友佑都	owl:sameAs	dbpedia:Yuto_Nagatomo .
+dbpedia:Inter_Milan	dbpprop:name	dbpedia:Yuto_Nagatomo .
+<http://dbpedia.org/resource/2013_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Yuto_Nagatomo .
+dbpedia:Nagatomo	dbpedia-owl:wikiPageDisambiguates	dbpedia:Yuto_Nagatomo .
+<http://dbpedia.org/resource/2013%E2%80%9314_F.C._Internazionale_Milano_season>	dbpprop:name	dbpedia:Yuto_Nagatomo .
+<http://dbpedia.org/resource/2011%E2%80%9312_A.C._Cesena_season>	dbpprop:p	dbpedia:Yuto_Nagatomo .
+<http://dbpedia.org/resource/2011%E2%80%9312_F.C._Internazionale_Milano_season>	dbpprop:name	dbpedia:Yuto_Nagatomo .
+dbpedia:Inter_Milan__Yuto_Nagatomo__1	dbpedia-owl:currentMember	dbpedia:Yuto_Nagatomo .
+dbpedia:Japan_national_football_team	dbpprop:name	dbpedia:Yuto_Nagatomo .
+<http://dbpedia.org/resource/2010_South_Korea_national_football_team_season>	dbpprop:home2player	dbpedia:Yuto_Nagatomo ;
+	dbpprop:home4player	dbpedia:Yuto_Nagatomo .
+<http://dbpedia.org/resource/2011_AFC_Asian_Cup_squads>	dbpprop:name	dbpedia:Yuto_Nagatomo .
+<http://dbpedia.org/resource/2011_F.C._Tokyo_season__Yuto_Nagatomo__1>	dbpedia-owl:currentMember	dbpedia:Yuto_Nagatomo .

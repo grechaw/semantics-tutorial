@@ -1,0 +1,231 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou>	rdf:type	yago:Organism100004475 ,
+		yago:Person100007846 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou>	rdf:type	dul:NaturalPerson ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou>	rdf:type	dbpedia-owl:Agent ,
+		dbpedia-owl:Person ,
+		yago:PauFCPlayers ,
+		yago:Ligue1Players .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou>	rdf:type	ns4:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou>	rdf:type	owl:Thing ,
+		yago:PeopleFromDouala ,
+		yago:FootballersAtThe2008SummerOlympics ,
+		yago:ExpatriateFootballersInFrance ,
+		yago:CameroonianFootballers ,
+		yago:AJAuxerrePlayers ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:Contestant109613191 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		dbpedia-owl:Athlete ,
+		yago:FCRouenPlayers .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou>	rdf:type	foaf:Person .
+@prefix ns7:	<http://schema.org/> .
+<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou>	rdf:type	ns7:Person ,
+		yago:Player110439851 ,
+		yago:Athlete109820263 ,
+		yago:Whole100003553 ,
+		yago:FootballPlayer110101634 ,
+		yago:Object100002684 ,
+		yago:KadjiSportsAcademyPlayers ,
+		yago:OlympicFootballersOfCameroon ,
+		yago:LilleOSCPlayers ,
+		yago:PhysicalEntity100001930 ,
+		yago:CameroonInternationalFootballers ,
+		yago:CameroonianExpatriateFootballers ,
+		ns4:Q5 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		dul:Agent ,
+		yago:YagoLegalActorGeo ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.04g0jpj> .
+@prefix ns8:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou>	owl:sameAs	ns8:Aurélien_Chedjou ,
+		<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou>	rdfs:label	"\u0623\u0648\u0631\u064A\u0644\u064A\u0627\u0646 \u0634\u064A\u062F\u062C\u0648"@ar ,
+		"Aur\u00E9lien Chedjou"@pl ,
+		"Aur\u00E9lien Chedjou" ,
+		"Aur\u00E9lien Chedjou"@fr ,
+		"Aur\u00E9lien Chedjou"@it ,
+		"\u30AA\u30FC\u30EC\u30EA\u30A2\u30F3\u30FB\u30B7\u30A7\u30B8\u30E5"@ja ,
+		"Aur\u00E9lien Chedjou"@de ,
+		"Aur\u00E9lien Chedjou"@es ,
+		"Aur\u00E9lien Chedjou"@nl ,
+		"Aur\u00E9lien Chedjou"@pt ,
+		"\u0428\u0435\u0434\u0436\u0443, \u041E\u0440\u0435\u043B\u044C\u0435\u043D"@ru .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou>	dcterms:subject	category:Footballers_at_the_2008_Summer_Olympics ,
+		category:Expatriate_footballers_in_France ,
+		<http://dbpedia.org/resource/Category:1986_births> ,
+		category:Kadji_Sports_Academy_players ,
+		category:FC_Rouen_players ,
+		category:AJ_Auxerre_players ,
+		category:Ligue_1_players ,
+		category:Expatriate_footballers_in_Turkey ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Cameroon_international_footballers ,
+		category:Cameroonian_expatriate_footballers ,
+		category:Cameroonian_footballers ,
+		category:Cameroonian_expatriates_in_Turkey ,
+		category:Olympic_footballers_of_Cameroon ,
+		<http://dbpedia.org/resource/Category:2010_Africa_Cup_of_Nations_players> ,
+		category:Association_football_midfielders ,
+		<http://dbpedia.org/resource/Category:Galatasaray_S.K._footballers> ,
+		<http://dbpedia.org/resource/Category:S%C3%BCper_Lig_players> ,
+		category:Association_football_defenders ,
+		category:Lille_OSC_players ,
+		category:Association_football_utility_players ,
+		category:Living_people ,
+		category:Pau_FC_players ,
+		category:People_from_Douala ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Aur\u00E9lien_Chedjou_(1).JPG> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou>	dc:description	"Cameroonian footballer" ,
+		"Cameroonian footballer" ;
+	foaf:givenName	"Aurelien" ;
+	foaf:name	"Chedjou, Aurelien" ,
+		"Aurelien Chedjou" ,
+		"Aur\u00E9lien Bayard Chedjou Fongang" ,
+		"Aur\u00E9lien Chedjou" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Aur\u00E9lien_Chedjou?oldid=606380468> ;
+	rdfs:comment	"Aur\u00E9lien Bayard Chedjou Fongang (* 20. Juni 1985 in Douala), besser bekannt als Aur\u00E9lien Chedjou, ist ein kamerunischer Fu\u00DFballspieler. Er steht seit Mai 2013 beim t\u00FCrkischen Erstligisten Galatasaray Istanbul unter Vertrag."@de ,
+		"Aur\u00E9lien Bayard Chedjou Fongang (Douala, 20 giugno 1985) \u00E8 un calciatore camerunese, difensore del Galatasaray e della Nazionale camerunese."@it ,
+		"Aur\u00E9lien Chedjou, n\u00E9 le 20 juin 1985 \u00E0 Douala, est un footballeur international camerounais qui \u00E9volue au poste de d\u00E9fenseur \u00E0 Galatasaray SK."@fr ,
+		"\u0623\u0648\u0631\u064A\u0644\u064A\u0627\u0646 \u0634\u064A\u062F\u062C\u0648 (\u0645\u0648\u0627\u0644\u064A\u062F 20 \u064A\u0648\u0646\u064A\u0648 1985 \u0641\u064A \u062F\u0648\u0627\u0644\u0627 - \u0627\u0644\u0643\u0627\u0645\u064A\u0631\u0648\u0646) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0627\u0645\u064A\u0631\u0648\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0644\u064A\u0644 \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0645\u0646\u0630 2006 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0648\u0633\u0637 \u0627\u0644\u0645\u062D\u0648\u0631\u064A ."@ar ,
+		"\u30AA\u30FC\u30EC\u30EA\u30A2\u30F3\u30FB\u30B7\u30A7\u30B8\u30E5\uFF08Aur\u00E9lien Chedjou\u30011985\u5E746\u670820\u65E5 - \uFF09\u306F\u3001\u30AB\u30E1\u30EB\u30FC\u30F3\u30FB\u30C9\u30A5\u30A2\u30E9\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30AC\u30E9\u30BF\u30B5\u30E9\u30A4SK\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30BB\u30F3\u30BF\u30FC\u30D0\u30C3\u30AF\u3002"@ja ,
+		"Aur\u00E9lien Bayard Chedjou Fongang (ur. 20 czerwca 1985 w Duali) - kameru\u0144ski pi\u0142karz graj\u0105cy na pozycji defensywnego pomocnika. Mierzy 184 cm wzrostu, wa\u017Cy 75 kg."@pl ,
+		"\u041E\u0440\u0435\u043B\u044C\u0435\u0301\u043D \u0411\u0430\u044F\u0301\u0440 \u0428\u0435\u0434\u0436\u0443\u0301 \u0424\u043E\u043D\u0433\u0430\u0301\u043D (\u0444\u0440. Aur\u00E9lien Bayard Chedjou Fongang; 20 \u0438\u044E\u043D\u044F 1985, \u0414\u0443\u0430\u043B\u0430) \u2014 \u043A\u0430\u043C\u0435\u0440\u0443\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0438\u0439 \u0437\u0430 \u00AB\u0413\u0430\u043B\u0430\u0442\u0430\u0441\u0430\u0440\u0430\u0439\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u041A\u0430\u043C\u0435\u0440\u0443\u043D\u0430."@ru ,
+		"Aur\u00E9lien Bayard Chedjou Fongang (French pronunciation: \u200B[\u0254\u0281elj\u0251\u0303 \u0283\u025Bd\u0292u]; born 20 June 1986) is a Cameroonian football defender who plays for Turkish club Galatasaray and Cameroonian national team.On 21 October 2010, he scored the only goal against Levski Sofia after a St\u00E9phane Dumont assist to help his team to a 1-0 win in a UEFA Europa League game." ,
+		"Aur\u00E9lien Bayard Chedjou (Douala, 20 juni 1985) is een Kameroens voetballer die onder contract staat bij Galatasaray. Hij speelt bij voorkeur als centrale verdediger."@nl ,
+		"Aur\u00E9lien Chedjou (*Douala, Camer\u00FAn, 20 de junio de 1985), futbolista camerun\u00E9s. Juega de volante y su actual equipo es el Galatasaray SK de la S\u00FCper Lig de Turqu\u00EDa."@es ,
+		"Aur\u00E9lien Chedjou (Duala, 20 de junho de 1986), \u00E9 um futebolista camaron\u00EAs que atua como zagueiro. Atualmente, joga pelo Galatasaray."@pt ;
+	foaf:surname	"Chedjou" .
+@prefix ns14:	<http://en.wikipedia.org/wiki/> .
+<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou>	foaf:isPrimaryTopicOf	ns14:Aurélien_Chedjou .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix ns16:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou>	dbpprop:hasPhotoCollection	ns16:Aurélien_Chedjou ;
+	dbpprop:caption	"Chedjou with Galatasaray in 2013" ;
+	dbpprop:name	"Aur\u00E9lien Chedjou" ,
+		"Chedjou, Aurelien" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Aur\u00E9lien_Chedjou_(1).JPG?width=300> ;
+	dbpedia-owl:abstract	"Aur\u00E9lien Chedjou, n\u00E9 le 20 juin 1985 \u00E0 Douala, est un footballeur international camerounais qui \u00E9volue au poste de d\u00E9fenseur \u00E0 Galatasaray SK."@fr ,
+		"Aur\u00E9lien Bayard Chedjou (Douala, 20 juni 1985) is een Kameroens voetballer die onder contract staat bij Galatasaray. Hij speelt bij voorkeur als centrale verdediger."@nl ,
+		"\u041E\u0440\u0435\u043B\u044C\u0435\u0301\u043D \u0411\u0430\u044F\u0301\u0440 \u0428\u0435\u0434\u0436\u0443\u0301 \u0424\u043E\u043D\u0433\u0430\u0301\u043D (\u0444\u0440. Aur\u00E9lien Bayard Chedjou Fongang; 20 \u0438\u044E\u043D\u044F 1985, \u0414\u0443\u0430\u043B\u0430) \u2014 \u043A\u0430\u043C\u0435\u0440\u0443\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0438\u0439 \u0437\u0430 \u00AB\u0413\u0430\u043B\u0430\u0442\u0430\u0441\u0430\u0440\u0430\u0439\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u041A\u0430\u043C\u0435\u0440\u0443\u043D\u0430."@ru ,
+		"\u30AA\u30FC\u30EC\u30EA\u30A2\u30F3\u30FB\u30B7\u30A7\u30B8\u30E5\uFF08Aur\u00E9lien Chedjou\u30011985\u5E746\u670820\u65E5 - \uFF09\u306F\u3001\u30AB\u30E1\u30EB\u30FC\u30F3\u30FB\u30C9\u30A5\u30A2\u30E9\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30AC\u30E9\u30BF\u30B5\u30E9\u30A4SK\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30BB\u30F3\u30BF\u30FC\u30D0\u30C3\u30AF\u3002"@ja ,
+		"\u0623\u0648\u0631\u064A\u0644\u064A\u0627\u0646 \u0634\u064A\u062F\u062C\u0648 (\u0645\u0648\u0627\u0644\u064A\u062F 20 \u064A\u0648\u0646\u064A\u0648 1985 \u0641\u064A \u062F\u0648\u0627\u0644\u0627 - \u0627\u0644\u0643\u0627\u0645\u064A\u0631\u0648\u0646) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0627\u0645\u064A\u0631\u0648\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0644\u064A\u0644 \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0645\u0646\u0630 2006 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0648\u0633\u0637 \u0627\u0644\u0645\u062D\u0648\u0631\u064A ."@ar ,
+		"Aur\u00E9lien Bayard Chedjou Fongang (ur. 20 czerwca 1985 w Duali) - kameru\u0144ski pi\u0142karz graj\u0105cy na pozycji defensywnego pomocnika. Mierzy 184 cm wzrostu, wa\u017Cy 75 kg."@pl ,
+		"Aur\u00E9lien Bayard Chedjou Fongang (Douala, 20 giugno 1985) \u00E8 un calciatore camerunese, difensore del Galatasaray e della Nazionale camerunese."@it ,
+		"Aur\u00E9lien Bayard Chedjou Fongang (* 20. Juni 1985 in Douala), besser bekannt als Aur\u00E9lien Chedjou, ist ein kamerunischer Fu\u00DFballspieler. Er steht seit Mai 2013 beim t\u00FCrkischen Erstligisten Galatasaray Istanbul unter Vertrag."@de ,
+		"Aur\u00E9lien Chedjou (*Douala, Camer\u00FAn, 20 de junio de 1985), futbolista camerun\u00E9s. Juega de volante y su actual equipo es el Galatasaray SK de la S\u00FCper Lig de Turqu\u00EDa."@es ,
+		"Aur\u00E9lien Bayard Chedjou Fongang (French pronunciation: \u200B[\u0254\u0281elj\u0251\u0303 \u0283\u025Bd\u0292u]; born 20 June 1986) is a Cameroonian football defender who plays for Turkish club Galatasaray and Cameroonian national team.On 21 October 2010, he scored the only goal against Levski Sofia after a St\u00E9phane Dumont assist to help his team to a 1-0 win in a UEFA Europa League game." ,
+		"Aur\u00E9lien Chedjou (Duala, 20 de junho de 1986), \u00E9 um futebolista camaron\u00EAs que atua como zagueiro. Atualmente, joga pelo Galatasaray."@pt ;
+	dbpedia-owl:wikiPageID	18539381 ;
+	dbpedia-owl:wikiPageRevisionID	606380468 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou>	dbpprop:birthDate	"1986-06-20+02:00"^^xsd:date .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou>	dbpprop:birthPlace	dbpedia:Douala ,
+		dbpedia:Cameroon ;
+	dbpprop:dateOfBirth	"1986-06-20+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	dbpedia:Douala ,
+		dbpedia:Cameroon ;
+	dbpprop:shortDescription	"Cameroonian footballer" ;
+	dbpedia-owl:birthDate	"1986-06-20+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Cameroon ,
+		dbpedia:Douala ;
+	dbpedia-owl:birthYear	"1986+02:00"^^xsd:gYear ;
+	dbpprop:last	"Chedjou" ;
+	dbpprop:goals	10 ,
+		3 ,
+		0 ,
+		1 ;
+	dbpprop:bg	"Green" ;
+	dbpprop:caps	10 ,
+		4 ,
+		2 ,
+		17 ,
+		154 ;
+	dbpprop:years	2013 ,
+		2003 ,
+		2006 ,
+		2007 ,
+		2004 ;
+	dbpprop:youthclubs	dbpedia:Kadji_Sports_Academy ,
+		dbpedia:Villarreal_CF ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou__4> ,
+		<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou__5> ,
+		<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou__7> ,
+		<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou__6> ,
+		<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou__2> ,
+		<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou__8> ,
+		<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou__3> ,
+		<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou__1> ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.8400000000000000799 .
+@prefix ns19:	<http://dbpedia.org/datatype/> .
+@prefix ns20:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou>	ns20:height	"184.0"^^ns19:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/Galatasaray_S.K._(football)> ;
+	dbpprop:clubnumber	21 ;
+	dbpprop:fullname	"Aur\u00E9lien Bayard Chedjou Fongang" ;
+	dbpprop:clubs	dbpedia:Pau_FC ,
+		dbpedia:Lille_OSC ,
+		dbpedia:AJ_Auxerre ,
+		<http://dbpedia.org/resource/Galatasaray_S.K._(football)> ,
+		dbpedia:FC_Rouen ;
+	dbpedia-owl:team	dbpedia:Villarreal_CF ,
+		dbpedia:Pau_FC ,
+		dbpedia:Lille_OSC ,
+		dbpedia:AJ_Auxerre ,
+		dbpedia:Kadji_Sports_Academy ,
+		<http://dbpedia.org/resource/Galatasaray_S.K._(football)> ,
+		dbpedia:FC_Rouen ,
+		dbpedia:Cameroon_national_football_team .
+@prefix ns21:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou>	dbpprop:wordnet_type	ns21:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Cameroon squads" ;
+	dbpprop:pcupdate	"--03-28+02:00"^^xsd:gMonthDay ;
+	dbpprop:youthyears	2002 ,
+		1998 ;
+	dbpprop:fg	"Yellow" ;
+	dbpprop:nationalcaps	27 ;
+	dbpprop:nationalgoals	1 ;
+	dbpprop:nationalteam	dbpedia:Cameroon_national_football_team ;
+	dbpprop:nationalyears	2009 ;
+	dbpedia-owl:number	21 ;
+	dbpprop:ntupdate	"2013-09-08+02:00"^^xsd:date ;
+	dbpprop:first	"Aur\u00E9lien" .
+<http://dbpedia.org/resource/2010_Africa_Cup_of_Nations_squads>	dbpprop:name	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Lille_OSC_season__Aur%C3%A9lien_Chedjou__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .
+<http://dbpedia.org/resource/Galatasaray_S.K._(football)>	dbpprop:name	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .
+dbpedia:List_of_Turkish_football_transfers_summer_2013	dbpprop:name	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .
+dbpedia:Cameroon_national_football_team	dbpprop:name	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .
+ns14:Aurélien_Chedjou	foaf:primaryTopic	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .
+<http://dbpedia.org/resource/2012%E2%80%9313_Lille_OSC_season>	dbpprop:name	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Lille_OSC_season>	dbpprop:name	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .
+<http://dbpedia.org/resource/2013%E2%80%9314_Galatasaray_S.K._season>	dbpprop:p	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .
+dbpedia:Cameroon_at_the_FIFA_World_Cup	dbpprop:name	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .
+dbpedia:List_of_French_football_transfers_summer_2013	dbpprop:name	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .
+<http://dbpedia.org/resource/ING_Cup_(football)>	dbpprop:goals	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .
+<http://dbpedia.org/resource/Galatasaray_S.K._(football)__Aur%C3%A9lien_Chedjou__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .
+<http://dbpedia.org/resource/2011%E2%80%9312_Lille_OSC_season>	dbpprop:name	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .
+dbpedia:Aurélien_Chedjou	owl:sameAs	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .
+<http://dbpedia.org/resource/2011%E2%80%9312_Lille_OSC_season__Aur%C3%A9lien_Chedjou__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .
+<http://dbpedia.org/resource/2012%E2%80%9313_Lille_OSC_season__Aur%C3%A9lien_Chedjou__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .
+<http://dbpedia.org/resource/Aur%C3%A9lien_Bayard_Chedjou_Fongang>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .
+dbpedia:Aurelien_Chedjou	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Aur%C3%A9lien_Chedjou> .

@@ -1,0 +1,310 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Carlos_Pavón	foaf:primaryTopic	<http://dbpedia.org/resource/Carlos_Pav%C3%B3n> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2000_CONCACAF_Gold_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Carlos_Pav%C3%B3n> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Honduras_national_football_team	dbpprop:topScorer	<http://dbpedia.org/resource/Carlos_Pav%C3%B3n> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Carlos_Pav%C3%B3n>	rdf:type	yago:LosAngelesGalaxyPlayers .
+@prefix ns6:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Carlos_Pav%C3%B3n>	rdf:type	ns6:Athlete .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Carlos_Pav%C3%B3n>	rdf:type	dul:NaturalPerson ,
+		yago:UdineseCalcioPlayers ,
+		foaf:Person ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 .
+@prefix ns8:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Carlos_Pav%C3%B3n>	rdf:type	ns8:Q5 ,
+		dul:Agent .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Carlos_Pav%C3%B3n>	rdf:type	dbpedia-owl:SoccerPlayer ,
+		yago:SoccerPlayer110618342 ,
+		dbpedia-owl:Agent ,
+		yago:TolucaFootballers ,
+		yago:ExpatriateSoccerPlayersInTheUnitedStates ,
+		dbpedia-owl:Person ,
+		yago:SanLuisFootballers ,
+		yago:CruzAzulFootballers ,
+		<http://dbpedia.org/class/yago/PrimeraDivisi%C3%B3nDeM%C3%A9xicoPlayers> ,
+		<http://dbpedia.org/class/yago/2007CONCACAFGoldCupPlayers> ,
+		yago:MonarcasMoreliaFootballers ,
+		yago:FootballersAtThe2008SummerOlympics ,
+		<http://dbpedia.org/class/yago/2000CONCACAFGoldCupPlayers> ,
+		yago:SerieAFootballers ,
+		yago:HonduranExpatriateFootballers ,
+		yago:ClubNecaxaFootballers ,
+		yago:LaLigaFootballers ,
+		yago:ExpatriateFootballersInSpain ,
+		yago:CSDComunicacionesPlayers ,
+		yago:ExpatriateFootballersInItaly ,
+		yago:Athlete109820263 ,
+		yago:OlympicFootballersOfHonduras ,
+		yago:FootballPlayer110101634 ,
+		yago:ExpatriateFootballersInGuatemala ,
+		yago:Player110439851 ,
+		ns6:SoccerPlayer ,
+		yago:RealValladolidFootballers ,
+		yago:Whole100003553 .
+@prefix ns10:	<http://schema.org/> .
+<http://dbpedia.org/resource/Carlos_Pav%C3%B3n>	rdf:type	ns10:Person ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:HonduranFootballers ,
+		yago:Organism100004475 ,
+		yago:HondurasInternationalFootballers ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		<http://dbpedia.org/class/yago/LigaNacionalDeF%C3%BAtbolDeHondurasFootballers> ,
+		<http://dbpedia.org/class/yago/S.S.C.NapoliPlayers> ,
+		yago:Contestant109613191 ,
+		yago:ExpatriateFootballersInMexico ,
+		yago:DeportivoCaliFootballers ,
+		yago:HonduranExpatriatesInItaly ,
+		<http://dbpedia.org/class/yago/RealEspa%C3%B1aPlayers> ,
+		ns8:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Carlos_Pav%C3%B3n>	rdf:type	owl:Thing ,
+		dbpedia-owl:Athlete .
+@prefix ns12:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Carlos_Pav%C3%B3n>	owl:sameAs	ns12:Carlos_Pavón ,
+		<http://rdf.freebase.com/ns/m.048g5y> ,
+		<http://dbpedia.org/resource/Carlos_Pav%C3%B3n> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Carlos_Pav%C3%B3n>	rdfs:label	"Carlos Pav\u00F3n"@fr ,
+		"Carlos Pav\u00F3n"@es ,
+		"Carlos Pav\u00F3n"@it ,
+		"Carlos Pav\u00F3n"@pt ,
+		"\u041F\u0430\u0432\u043E\u043D, \u041A\u0430\u0440\u043B\u043E\u0441"@ru ,
+		"\u0643\u0627\u0631\u0644\u0648\u0633 \u0628\u0627\u0641\u0648\u0646"@ar ,
+		"Carlos Pav\u00F3n"@pl ,
+		"\u30AB\u30EB\u30ED\u30B9\u30FB\u30D1\u30DC\u30F3"@ja ,
+		"Carlos Pav\u00F3n"@de ,
+		"Carlos Pav\u00F3n" .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Carlos_Pav%C3%B3n>	dcterms:subject	category:Expatriate_footballers_in_Spain ,
+		category:La_Liga_footballers ,
+		category:Association_football_forwards ,
+		category:Expatriate_footballers_in_Italy ,
+		<http://dbpedia.org/resource/Category:2007_CONCACAF_Gold_Cup_players> ,
+		category:Major_League_Soccer_players ,
+		category:Expatriate_footballers_in_Mexico ,
+		<http://dbpedia.org/resource/Category:1993_CONCACAF_Gold_Cup_players> ,
+		category:Liga_MX_footballers ,
+		<http://dbpedia.org/resource/Category:Deportivo_Toluca_F.C._footballers> ,
+		<http://dbpedia.org/resource/Category:C.S.D._Comunicaciones_players> ,
+		category:Deportivo_Cali_footballers ,
+		<http://dbpedia.org/resource/Category:S.S.C._Napoli_players> ,
+		category:Living_people ,
+		category:Expatriate_footballers_in_Guatemala ,
+		category:Club_Necaxa_footballers ,
+		category:Honduran_expatriates_in_Guatemala ,
+		category:Honduran_expatriates_in_Italy ,
+		<http://dbpedia.org/resource/Category:San_Luis_F.C._footballers> ,
+		<http://dbpedia.org/resource/Category:2000_CONCACAF_Gold_Cup_players> ,
+		category:Honduran_expatriate_footballers ,
+		category:Monarcas_Morelia_footballers ,
+		category:Honduras_international_footballers ,
+		category:Olympic_footballers_of_Honduras ,
+		<http://dbpedia.org/resource/Category:1998_CONCACAF_Gold_Cup_players> ,
+		category:People_from_Yoro_Department ,
+		<http://dbpedia.org/resource/Category:Real_C.D._Espa%C3%B1a_players> ,
+		category:Cruz_Azul_footballers ,
+		category:Expatriate_footballers_in_Colombia ,
+		category:Real_Valladolid_footballers ,
+		category:Footballers_at_the_2008_Summer_Olympics ,
+		category:FIFA_Century_Club ,
+		category:Expatriate_soccer_players_in_the_United_States ,
+		<http://dbpedia.org/resource/Category:1973_births> ,
+		category:Correcaminos_UAT_footballers ,
+		<http://dbpedia.org/resource/Category:Liga_Nacional_de_F%C3%BAtbol_de_Honduras_footballers> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Honduran_footballers ,
+		category:Udinese_Calcio_players ,
+		category:LA_Galaxy_players ,
+		category:Serie_A_footballers ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/CarlosPavonP.JPG> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Carlos_Pav%C3%B3n>	dc:description	"Honduran footballer" ,
+		"Honduran footballer" ;
+	foaf:givenName	"Carlos" ;
+	foaf:name	"Carlos Pavon" ,
+		"Carlos Alberto Pav\u00F3n Plummer" ,
+		"Carlos Pav\u00F3n" ,
+		"Pavon, Carlos" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Carlos_Pav%C3%B3n>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Carlos_Pav\u00F3n?oldid=601673199> ;
+	rdfs:comment	"Carlos Alberto Pav\u00F3n (n\u00E9 le 9 octobre 1973) est un footballeur hondurien \u00E9voluant au poste d'attaquant. Il est actuellement au Real Espa\u00F1a."@fr ,
+		"\u041A\u0430\u0301\u0440\u043B\u043E\u0441 \u0410\u043B\u044C\u0431\u0435\u0301\u0440\u0442\u043E \u041F\u0430\u0432\u043E\u0301\u043D \u041F\u043B\u0430\u0301\u043C\u043C\u0435\u0440 (\u0438\u0441\u043F. Carlos Alberto Pav\u00F3n Plummer; 9 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1973, \u041F\u0440\u043E\u0433\u0440\u0435\u0441\u043E, \u0419\u043E\u0440\u043E) \u2014 \u0433\u043E\u043D\u0434\u0443\u0440\u0430\u0441\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u044B\u0439 \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439, \u0441\u0430\u043C\u044B\u0439 \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u044B\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442 2009 \u0433\u043E\u0434\u0430 \u0432 \u043C\u0438\u0440\u0435 \u043F\u043E \u0432\u0435\u0440\u0441\u0438\u0438 \u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u0438 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043A\u0438 (IFFHS). \u0420\u0435\u043A\u043E\u0440\u0434\u0441\u043C\u0435\u043D \u0441\u0432\u043E\u0435\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u043F\u043E \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u0443 \u0437\u0430\u0431\u0438\u0442\u044B\u0445 \u0433\u043E\u043B\u043E\u0432 (57), \u0447\u0442\u043E \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F 16-\u043C \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u043E\u043C \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u043C\u0438\u0440\u043E\u0432\u043E\u0433\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0430. \u0414\u0432\u0430\u0436\u0434\u044B \u043F\u0440\u0438\u0437\u043D\u0430\u0432\u0430\u043B\u0441\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442\u043E\u043C \u0433\u043E\u0434\u0430 \u0432 \u0413\u043E\u043D\u0434\u0443\u0440\u0430\u0441\u0435 (2000, 2007)."@ru ,
+		"\u30AB\u30EB\u30ED\u30B9\u30FB\u30D1\u30DC\u30F3\uFF08\u897F: Carlos Pavon\u30011973\u5E7410\u67089\u65E5 - \uFF09\u306F\u3001\u30B5\u30C3\u30AB\u30FC\u30DB\u30F3\u30B8\u30E5\u30E9\u30B9\u4EE3\u8868\u306E\u6B74\u4EE3\u6700\u591A\u5F97\u70B9\u8A18\u9332\u3092\u4FDD\u6301\u3057\u3066\u3044\u308B\u5143\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3067\u3042\u308B\u3002"@ja ,
+		"\u0643\u0627\u0631\u0644\u0648\u0633 \u0623\u0644\u0628\u0631\u062A\u0648 \u0628\u0627\u0641\u0648\u0646 \u0628\u0644\u0627\u0645\u0631 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Carlos Alberto Pav\u00F3n Plummer) (\u0645\u0648\u0627\u0644\u064A\u062F 9 \u0623\u0643\u062A\u0648\u0628\u0631 1973 \u0641\u064A \u0625\u0644 \u0628\u0631\u0648\u063A\u0631\u064A\u0633\u0648) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0647\u0646\u062F\u0648\u0631\u0627\u0633\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0631\u064A\u0627\u0644 \u0625\u0633\u0628\u0627\u0646\u064A\u0627 \u0627\u0644\u0647\u0646\u062F\u0648\u0631\u0627\u0633\u064A."@ar ,
+		"Carlos Alberto Pav\u00F3n Plummer (* 9. Oktober 1973 in El Progreso, Honduras) ist ein honduranischer Fu\u00DFballspieler auf der Position eines St\u00FCrmers. Er z\u00E4hlt zu den besten Fu\u00DFballspielern seines Heimatlandes und ist zudem mit aktuell (17. Juni 2010) 57 Treffern Rekordtorsch\u00FCtze der honduranischen Nationalmannschaft.Zurzeit spielt er bei seinem Stammverein Real Espa\u00F1a in der Liga Nacional de F\u00FAtbol de Honduras, der h\u00F6chsten Spielklasse von Honduras."@de ,
+		"Carlos Pav\u00F3n (ur. 9 pa\u017Adziernika 1973 w El Progreso) \u2013 honduraski pi\u0142karz wyst\u0119puj\u0105cy na pozycji napastnika. Obecnie gra w Realu Espa\u00F1a."@pl ,
+		"Carlos Alberto Pav\u00F3n Plummer (El Progreso, 9 ottobre 1973) \u00E8 un ex calciatore honduregno, di ruolo attaccante."@it ,
+		"Carlos Alberto \"Johnny Boy\" Pav\u00F3n Plummer (El Progreso, 9 de outubro de 1973) \u00E9 um futebolista hondurenho. Atualmente joga no Real Espa\u00F1a, clube do seu pa\u00EDs natal.\u00C9 o maior artilheiro da sele\u00E7\u00E3o nacional, com 56 gols e quase cem jogos at\u00E9 o presente momento e foi um dos principais jogadores na classifica\u00E7\u00E3o de Honduras \u00E0 Copa do Mundo 2010."@pt ,
+		"Carlos Alberto Pav\u00F3n Plummer (born 9 October 1973 in El Progreso) is a retired Honduran football striker.He is most prominently related to Real Espa\u00F1a of the Liga Nacional de F\u00FAtbol de Honduras and is Honduras' all-time national team goalscorer." ,
+		"Carlos Alberto Plummer Pav\u00F3n (El Progreso, Yoro, Honduras, 9 de octubre de 1973), es un exfutbolista hondure\u00F1o que tambi\u00E9n posee la nacionalidad costarricense, ya que su padre es proveniente de ese pa\u00EDs. Jug\u00F3 para el Real Espa\u00F1a. Tambi\u00E9n particip\u00F3 en otros clubes de M\u00E9xico, Italia, Colombia, entre otros. Adem\u00E1s de ser el m\u00E1ximo anotador de la Selecci\u00F3n de f\u00FAtbol de Honduras y del Real Espa\u00F1a es uno de los jugadores con m\u00E1s participaciones vistiendo la camiseta nacional de su pa\u00EDs."@es ;
+	foaf:surname	"Pavon" ;
+	foaf:isPrimaryTopicOf	ns1:Carlos_Pavón .
+@prefix ns18:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Carlos_Pav%C3%B3n>	dbpprop:hasPhotoCollection	ns18:Carlos_Pavón ;
+	dbpprop:name	"Pavon, Carlos" ,
+		"Carlos Pav\u00F3n" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/CarlosPavonP.JPG?width=300> ;
+	dbpedia-owl:abstract	"Carlos Alberto Pav\u00F3n Plummer (born 9 October 1973 in El Progreso) is a retired Honduran football striker.He is most prominently related to Real Espa\u00F1a of the Liga Nacional de F\u00FAtbol de Honduras and is Honduras' all-time national team goalscorer." ,
+		"\u041A\u0430\u0301\u0440\u043B\u043E\u0441 \u0410\u043B\u044C\u0431\u0435\u0301\u0440\u0442\u043E \u041F\u0430\u0432\u043E\u0301\u043D \u041F\u043B\u0430\u0301\u043C\u043C\u0435\u0440 (\u0438\u0441\u043F. Carlos Alberto Pav\u00F3n Plummer; 9 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1973, \u041F\u0440\u043E\u0433\u0440\u0435\u0441\u043E, \u0419\u043E\u0440\u043E) \u2014 \u0433\u043E\u043D\u0434\u0443\u0440\u0430\u0441\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u044B\u0439 \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439, \u0441\u0430\u043C\u044B\u0439 \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u044B\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442 2009 \u0433\u043E\u0434\u0430 \u0432 \u043C\u0438\u0440\u0435 \u043F\u043E \u0432\u0435\u0440\u0441\u0438\u0438 \u041C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u0438 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043A\u0438 (IFFHS). \u0420\u0435\u043A\u043E\u0440\u0434\u0441\u043C\u0435\u043D \u0441\u0432\u043E\u0435\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u043F\u043E \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u0443 \u0437\u0430\u0431\u0438\u0442\u044B\u0445 \u0433\u043E\u043B\u043E\u0432 (57), \u0447\u0442\u043E \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F 16-\u043C \u0440\u0435\u0437\u0443\u043B\u044C\u0442\u0430\u0442\u043E\u043C \u0432 \u0438\u0441\u0442\u043E\u0440\u0438\u0438 \u043C\u0438\u0440\u043E\u0432\u043E\u0433\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0430. \u0414\u0432\u0430\u0436\u0434\u044B \u043F\u0440\u0438\u0437\u043D\u0430\u0432\u0430\u043B\u0441\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442\u043E\u043C \u0433\u043E\u0434\u0430 \u0432 \u0413\u043E\u043D\u0434\u0443\u0440\u0430\u0441\u0435 (2000, 2007). \u0412 2001 \u0433\u043E\u0434\u0443 \u043D\u043E\u043C\u0438\u043D\u0438\u0440\u043E\u0432\u0430\u043B\u0441\u044F \u043D\u0430 \u0437\u0432\u0430\u043D\u0438\u0435 \u00AB\u0418\u0433\u0440\u043E\u043A \u0433\u043E\u0434\u0430 \u0424\u0418\u0424\u0410\u00BB, \u043D\u0430\u0431\u0440\u0430\u043B \u043E\u0434\u0438\u043D \u0433\u043E\u043B\u043E\u0441.\u0412 \u0421\u041C\u0418 \u0435\u0433\u043E \u0438\u043D\u043E\u0433\u0434\u0430 \u043D\u0430\u0437\u044B\u0432\u0430\u044E\u0442 \u00AB\u0436\u0438\u0432\u043E\u0439 \u043B\u0435\u0433\u0435\u043D\u0434\u043E\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0430 \u0413\u043E\u043D\u0434\u0443\u0440\u0430\u0441\u0430\u00BB."@ru ,
+		"Carlos Alberto Pav\u00F3n (n\u00E9 le 9 octobre 1973) est un footballeur hondurien \u00E9voluant au poste d'attaquant. Il est actuellement au Real Espa\u00F1a."@fr ,
+		"Carlos Alberto Pav\u00F3n Plummer (* 9. Oktober 1973 in El Progreso, Honduras) ist ein honduranischer Fu\u00DFballspieler auf der Position eines St\u00FCrmers. Er z\u00E4hlt zu den besten Fu\u00DFballspielern seines Heimatlandes und ist zudem mit aktuell (17. Juni 2010) 57 Treffern Rekordtorsch\u00FCtze der honduranischen Nationalmannschaft.Zurzeit spielt er bei seinem Stammverein Real Espa\u00F1a in der Liga Nacional de F\u00FAtbol de Honduras, der h\u00F6chsten Spielklasse von Honduras."@de ,
+		"\u0643\u0627\u0631\u0644\u0648\u0633 \u0623\u0644\u0628\u0631\u062A\u0648 \u0628\u0627\u0641\u0648\u0646 \u0628\u0644\u0627\u0645\u0631 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Carlos Alberto Pav\u00F3n Plummer) (\u0645\u0648\u0627\u0644\u064A\u062F 9 \u0623\u0643\u062A\u0648\u0628\u0631 1973 \u0641\u064A \u0625\u0644 \u0628\u0631\u0648\u063A\u0631\u064A\u0633\u0648) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0647\u0646\u062F\u0648\u0631\u0627\u0633\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0631\u064A\u0627\u0644 \u0625\u0633\u0628\u0627\u0646\u064A\u0627 \u0627\u0644\u0647\u0646\u062F\u0648\u0631\u0627\u0633\u064A."@ar ,
+		"\u30AB\u30EB\u30ED\u30B9\u30FB\u30D1\u30DC\u30F3\uFF08\u897F: Carlos Pavon\u30011973\u5E7410\u67089\u65E5 - \uFF09\u306F\u3001\u30B5\u30C3\u30AB\u30FC\u30DB\u30F3\u30B8\u30E5\u30E9\u30B9\u4EE3\u8868\u306E\u6B74\u4EE3\u6700\u591A\u5F97\u70B9\u8A18\u9332\u3092\u4FDD\u6301\u3057\u3066\u3044\u308B\u5143\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3067\u3042\u308B\u3002"@ja ,
+		"Carlos Alberto Pav\u00F3n Plummer (El Progreso, 9 ottobre 1973) \u00E8 un ex calciatore honduregno, di ruolo attaccante."@it ,
+		"Carlos Pav\u00F3n (ur. 9 pa\u017Adziernika 1973 w El Progreso) \u2013 honduraski pi\u0142karz wyst\u0119puj\u0105cy na pozycji napastnika. Obecnie gra w Realu Espa\u00F1a."@pl ,
+		"Carlos Alberto \"Johnny Boy\" Pav\u00F3n Plummer (El Progreso, 9 de outubro de 1973) \u00E9 um futebolista hondurenho. Atualmente joga no Real Espa\u00F1a, clube do seu pa\u00EDs natal.\u00C9 o maior artilheiro da sele\u00E7\u00E3o nacional, com 56 gols e quase cem jogos at\u00E9 o presente momento e foi um dos principais jogadores na classifica\u00E7\u00E3o de Honduras \u00E0 Copa do Mundo 2010."@pt ,
+		"Carlos Alberto Plummer Pav\u00F3n (El Progreso, Yoro, Honduras, 9 de octubre de 1973), es un exfutbolista hondure\u00F1o que tambi\u00E9n posee la nacionalidad costarricense, ya que su padre es proveniente de ese pa\u00EDs. Jug\u00F3 para el Real Espa\u00F1a. Tambi\u00E9n particip\u00F3 en otros clubes de M\u00E9xico, Italia, Colombia, entre otros. Adem\u00E1s de ser el m\u00E1ximo anotador de la Selecci\u00F3n de f\u00FAtbol de Honduras y del Real Espa\u00F1a es uno de los jugadores con m\u00E1s participaciones vistiendo la camiseta nacional de su pa\u00EDs. Se retir\u00F3 de la selecci\u00F3n hondure\u00F1a. La causa de esto es una Hernia que ocasion\u00F3 su retiro del f\u00FAtbol a nivel de selecci\u00F3n."@es ;
+	dbpedia-owl:wikiPageID	1125764 ;
+	dbpedia-owl:wikiPageRevisionID	601673199 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Carlos_Pav%C3%B3n>	dbpprop:birthDate	"1973-10-09+02:00"^^xsd:date ;
+	dbpprop:birthPlace	dbpedia:Honduras ,
+		dbpedia:El_Progreso ;
+	dbpprop:dateOfBirth	"1973-10-09+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	dbpedia:Honduras ,
+		dbpedia:El_Progreso ;
+	dbpprop:shortDescription	"Honduran footballer" ;
+	dbpedia-owl:birthDate	"1973-10-09+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Honduras ,
+		dbpedia:El_Progreso ;
+	dbpedia-owl:birthYear	"1973+02:00"^^xsd:gYear ;
+	dbpprop:goals	19 ,
+		14 ,
+		15 ,
+		11 ,
+		9 ,
+		6 ,
+		7 ,
+		4 ,
+		3 ,
+		0 ,
+		1 ,
+		40 ,
+		34 ;
+	dbpprop:bg	"blue" ;
+	dbpprop:caps	68 ,
+		57 ,
+		34 ,
+		28 ,
+		25 ,
+		20 ,
+		21 ,
+		16 ,
+		17 ,
+		18 ,
+		19 ,
+		12 ,
+		13 ,
+		14 ,
+		9 ,
+		11 ,
+		7 ;
+	dbpprop:years	1994 ,
+		1995 ,
+		1992 ,
+		1998 ,
+		1996 ,
+		1997 ,
+		2009 ,
+		2002 ,
+		2003 ,
+		2000 ,
+		2001 ,
+		2006 ,
+		2007 ,
+		2004 ,
+		2005 ;
+	dbpprop:youthclubs	<http://dbpedia.org/resource/Real_Espa%C3%B1a_Las_Vegas> ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Carlos_Pav%C3%B3n__15> ,
+		<http://dbpedia.org/resource/Carlos_Pav%C3%B3n__4> ,
+		<http://dbpedia.org/resource/Carlos_Pav%C3%B3n__16> ,
+		<http://dbpedia.org/resource/Carlos_Pav%C3%B3n__6> ,
+		<http://dbpedia.org/resource/Carlos_Pav%C3%B3n__10> ,
+		<http://dbpedia.org/resource/Carlos_Pav%C3%B3n__1> ,
+		<http://dbpedia.org/resource/Carlos_Pav%C3%B3n__11> ,
+		<http://dbpedia.org/resource/Carlos_Pav%C3%B3n__12> ,
+		<http://dbpedia.org/resource/Carlos_Pav%C3%B3n__8> ,
+		<http://dbpedia.org/resource/Carlos_Pav%C3%B3n__2> ,
+		<http://dbpedia.org/resource/Carlos_Pav%C3%B3n__3> ,
+		<http://dbpedia.org/resource/Carlos_Pav%C3%B3n__5> ,
+		<http://dbpedia.org/resource/Carlos_Pav%C3%B3n__13> ,
+		<http://dbpedia.org/resource/Carlos_Pav%C3%B3n__14> ,
+		<http://dbpedia.org/resource/Carlos_Pav%C3%B3n__9> ,
+		<http://dbpedia.org/resource/Carlos_Pav%C3%B3n__7> ;
+	dbpprop:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:height	1.7800000000000000266 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Carlos_Pav%C3%B3n>	ns21:height	"178.0"^^ns20:centimetre ;
+	dbpprop:fullname	"Carlos Alberto Pav\u00F3n Plummer" ;
+	dbpprop:clubs	dbpedia:Deportivo_Cali ,
+		<http://dbpedia.org/resource/S.S.C._Napoli> ,
+		<http://dbpedia.org/resource/Deportivo_Toluca_F.C.> ,
+		dbpedia:Real_Valladolid ,
+		dbpedia:Correcaminos_UAT ,
+		dbpedia:Udinese_Calcio ,
+		dbpedia:Club_Necaxa ,
+		<http://dbpedia.org/resource/San_Luis_F.C.> ,
+		dbpedia:Cruz_Azul ,
+		<http://dbpedia.org/resource/Real_C.D._Espa%C3%B1a> ,
+		dbpedia:Club_Celaya ,
+		dbpedia:Monarcas_Morelia ,
+		<http://dbpedia.org/resource/C.S.D._Comunicaciones> ,
+		dbpedia:LA_Galaxy ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/S.S.C._Napoli> ,
+		dbpedia:Real_Valladolid ,
+		<http://dbpedia.org/resource/Deportivo_Toluca_F.C.> ,
+		dbpedia:Honduras_national_football_team ,
+		dbpedia:Correcaminos_UAT ,
+		dbpedia:Udinese_Calcio ,
+		<http://dbpedia.org/resource/Real_Espa%C3%B1a_Las_Vegas> ,
+		dbpedia:Club_Necaxa ,
+		<http://dbpedia.org/resource/San_Luis_F.C.> ,
+		<http://dbpedia.org/resource/Real_C.D._Espa%C3%B1a> ,
+		dbpedia:Club_Celaya ,
+		dbpedia:Monarcas_Morelia .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Carlos_Pav%C3%B3n>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Honduras squads" ;
+	dbpprop:pcupdate	"2007-10-21+02:00"^^xsd:date ;
+	dbpedia-owl:wikiPageExternalLink	<http://msn.mediotiempo.com/jugador/carlos-pavon&id_liga=1&id_torneo=40> ,
+		<http://njmg.typepad.com/sbi/2007/06/galaxy_lands_ca.html> ,
+		<http://www.fifa.com/worldcup/archive/southafrica2010/players/player=155651/profile.html> ,
+		<http://la.galaxy.mlsnet.com/players/bio.jsp?team=t106&player=pavon_c&playerId=pav474619&statType=current> ;
+	dbpprop:fg	"White" ;
+	dbpprop:nationalcaps	101 ;
+	dbpprop:nationalgoals	58 ;
+	dbpprop:nationalteam	dbpedia:Honduras_national_football_team ;
+	dbpprop:nationalyears	1993 ;
+	dbpprop:ntupdate	"2010-06-16+02:00"^^xsd:date ;
+	dbpprop:totalcaps	388 ;
+	dbpprop:totalgoals	176 .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Carlos_Pav%C3%B3n> .
+<http://dbpedia.org/resource/2007_CONCACAF_Gold_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Carlos_Pav%C3%B3n> .
+dbpedia:UNCAF_Nations_Cup_2009_squads	dbpprop:name	<http://dbpedia.org/resource/Carlos_Pav%C3%B3n> .
+dbpedia:UNCAF_Nations_Cup_2001_squads	dbpprop:name	<http://dbpedia.org/resource/Carlos_Pav%C3%B3n> .
+dbpedia:Carlos_Pavón	owl:sameAs	<http://dbpedia.org/resource/Carlos_Pav%C3%B3n> .
+<http://dbpedia.org/resource/Carlos_Alberto_Pav%C3%B3n>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Carlos_Pav%C3%B3n> .
+dbpedia:Carlos_Alberto_Pavon	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Carlos_Pav%C3%B3n> .
+dbpedia:Carlos_Pavon	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Carlos_Pav%C3%B3n> .
+<http://dbpedia.org/resource/Real_C.D._Espa%C3%B1a>	dbpprop:name	<http://dbpedia.org/resource/Carlos_Pav%C3%B3n> ;
+	dbpedia-owl:clubsRecordGoalscorer	<http://dbpedia.org/resource/Carlos_Pav%C3%B3n> .
+dbpedia:UNCAF_Nations_Cup_1999_squads	dbpprop:name	<http://dbpedia.org/resource/Carlos_Pav%C3%B3n> .
+<http://dbpedia.org/resource/Real_C.D._Espa%C3%B1a__Carlos_Pav%C3%B3n__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Carlos_Pav%C3%B3n> .

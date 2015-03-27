@@ -1,0 +1,384 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Rigobert_Song	owl:sameAs	dbpedia:Rigobert_Song .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Rigobert_Song	owl:sameAs	dbpedia:Rigobert_Song .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q215533	owl:sameAs	dbpedia:Rigobert_Song .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Rigobert_Song	owl:sameAs	dbpedia:Rigobert_Song .
+@prefix ns6:	<http://id.dbpedia.org/resource/> .
+ns6:Rigobert_Song	owl:sameAs	dbpedia:Rigobert_Song .
+@prefix ns7:	<http://it.dbpedia.org/resource/> .
+ns7:Rigobert_Song	owl:sameAs	dbpedia:Rigobert_Song .
+@prefix ns8:	<http://ja.dbpedia.org/resource/> .
+ns8:リゴベール・ソング	owl:sameAs	dbpedia:Rigobert_Song .
+@prefix ns9:	<http://ko.dbpedia.org/resource/> .
+ns9:리고베르_송	owl:sameAs	dbpedia:Rigobert_Song .
+@prefix ns10:	<http://nl.dbpedia.org/resource/> .
+ns10:Rigobert_Song	owl:sameAs	dbpedia:Rigobert_Song .
+@prefix ns11:	<http://pl.dbpedia.org/resource/> .
+ns11:Rigobert_Song	owl:sameAs	dbpedia:Rigobert_Song .
+@prefix ns12:	<http://pt.dbpedia.org/resource/> .
+ns12:Rigobert_Song	owl:sameAs	dbpedia:Rigobert_Song .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns14:	<http://en.wikipedia.org/wiki/> .
+ns14:Rigobert_Song	foaf:primaryTopic	dbpedia:Rigobert_Song .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Rigobert_Song	rdf:type	dbpedia-owl:Person .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Rigobert_Song	rdf:type	yago:Contestant109613191 ,
+		yago:AssociationFootballDefenders ,
+		foaf:Person ,
+		<http://dbpedia.org/class/yago/WestHamUnitedF.C.Players> ,
+		<http://dbpedia.org/class/yago/1.FCK%C3%B6lnPlayers> ,
+		<http://dbpedia.org/class/yago/LiverpoolF.C.Players> ,
+		ns4:Q5 ,
+		yago:PhysicalEntity100001930 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Rigobert_Song	rdf:type	dul:Agent ,
+		dul:NaturalPerson ,
+		yago:Object100002684 ,
+		yago:Whole100003553 ,
+		<http://dbpedia.org/class/yago/GalatasarayS.K.Footballers> ,
+		<http://dbpedia.org/class/yago/S%C3%BCperLigPlayers> ,
+		<http://dbpedia.org/class/yago/1998FIFAWorldCupPlayers> ,
+		<http://dbpedia.org/class/yago/2002FIFAWorldCupPlayers> ,
+		<http://dbpedia.org/class/yago/Fu%C3%9Fball-BundesligaPlayers> ,
+		yago:Player110439851 ,
+		yago:ExpatriateFootballersInFrance ,
+		dbpedia-owl:Athlete ,
+		yago:Athlete109820263 ,
+		yago:FootballPlayer110101634 ,
+		yago:ExpatriateFootballersInItaly ,
+		yago:Ligue1Players ,
+		yago:SerieAFootballers ,
+		yago:PremierLeaguePlayers ,
+		owl:Thing ,
+		ns4:Q215627 ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:CameroonInternationalFootballers ,
+		yago:CameroonianExpatriateFootballers ,
+		<http://dbpedia.org/class/yago/2001FIFAConfederationsCupPlayers> ,
+		<http://dbpedia.org/class/yago/2003FIFAConfederationsCupPlayers> ,
+		<http://dbpedia.org/class/yago/ThePanthersF.C.Players> ,
+		yago:ExpatriateFootballersInGermany ,
+		<http://dbpedia.org/class/yago/1994FIFAWorldCupPlayers> ,
+		yago:RCLensPlayers ,
+		yago:SalernitanaCalcio1919Players ,
+		yago:CameroonianFootballers ,
+		yago:CameroonianExpatriatesInTurkey ,
+		yago:FCMetzPlayers ,
+		yago:ExpatriateFootballersInEquatorialGuinea ,
+		yago:CameroonianExpatriatesInItaly ,
+		yago:CameroonianExpatriatesInTheUnitedKingdom ,
+		yago:CameroonianExpatriatesInFrance ,
+		yago:CameroonianExpatriatesInGermany ,
+		yago:TrabzonsporFootballers ,
+		yago:ExpatriateFootballersInTurkey .
+@prefix ns19:	<http://schema.org/> .
+dbpedia:Rigobert_Song	rdf:type	ns19:Person ,
+		yago:Defender109614684 ,
+		yago:ExpatriateFootballersInEngland ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:Preserver110466918 ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:YagoLegalActor ,
+		dbpedia-owl:Agent ,
+		yago:LivingPeople ;
+	owl:sameAs	ns1:Rigobert_Song .
+@prefix ns20:	<http://la.dbpedia.org/resource/> .
+dbpedia:Rigobert_Song	owl:sameAs	ns20:Rigobertus_Song .
+@prefix ns21:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Rigobert_Song	owl:sameAs	ns21:ريغوبرت_سونغ ,
+		<http://rdf.freebase.com/ns/m.05l95b> ,
+		ns5:Rigobert_Song ,
+		<http://ru.dbpedia.org/resource/\u0421\u043E\u043D\u0433,_\u0420\u0438\u0433\u043E\u0431\u0435\u0440> .
+@prefix ns22:	<http://yago-knowledge.org/resource/> .
+dbpedia:Rigobert_Song	owl:sameAs	ns22:Rigobert_Song .
+@prefix ns23:	<http://no.dbpedia.org/resource/> .
+dbpedia:Rigobert_Song	owl:sameAs	ns23:Rigobert_Song .
+@prefix ns24:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Rigobert_Song	owl:sameAs	ns24:Rigobert_Song ,
+		dbpedia:Rigobert_Song ,
+		ns6:Rigobert_Song ,
+		ns11:Rigobert_Song ,
+		ns9:리고베르_송 .
+@prefix ns25:	<http://nn.dbpedia.org/resource/> .
+dbpedia:Rigobert_Song	owl:sameAs	ns25:Rigobert_Song .
+@prefix ns26:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Rigobert_Song	owl:sameAs	ns26:Rigobert_Song ,
+		ns7:Rigobert_Song .
+@prefix ns27:	<http://da.dbpedia.org/resource/> .
+dbpedia:Rigobert_Song	owl:sameAs	ns27:Rigobert_Song .
+@prefix ns28:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Rigobert_Song	owl:sameAs	ns28:Rigobert_Song .
+@prefix ns29:	<http://wikidata.org/entity/> .
+dbpedia:Rigobert_Song	owl:sameAs	ns29:Q215533 ,
+		ns3:Rigobert_Song .
+@prefix ns30:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Rigobert_Song	owl:sameAs	ns30:रिगोबेर्ट_साँग .
+@prefix ns31:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Rigobert_Song	owl:sameAs	ns31:Rigobert_Song ,
+		ns12:Rigobert_Song .
+@prefix ns32:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Rigobert_Song	owl:sameAs	ns32:Rigobert_Song .
+@prefix ns33:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Rigobert_Song	owl:sameAs	ns33:Rigobert_Song .
+@prefix ns34:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Rigobert_Song	owl:sameAs	ns34:Rigobert_Song ,
+		ns8:リゴベール・ソング ,
+		ns4:Q215533 .
+@prefix ns35:	<http://hr.dbpedia.org/resource/> .
+dbpedia:Rigobert_Song	owl:sameAs	ns35:Rigobert_Song ,
+		ns10:Rigobert_Song .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Rigobert_Song	rdfs:label	"Rigobert Song"@de ,
+		"Rigobert Song"@fr ,
+		"Rigobert Song"@nl ,
+		"\u0631\u064A\u063A\u0648\u0628\u0631\u062A \u0633\u0648\u0646\u063A"@ar ,
+		"Rigobert Song"@it ,
+		"Rigobert Song"@pl ,
+		"\u0421\u043E\u043D\u0433, \u0420\u0438\u0433\u043E\u0431\u0435\u0440"@ru ,
+		"Rigobert Song"@pt ,
+		"Rigobert Song" ,
+		"\u30EA\u30B4\u30D9\u30FC\u30EB\u30FB\u30BD\u30F3\u30B0"@ja ,
+		"Rigobert Song"@es .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Rigobert_Song	dcterms:subject	category:Cameroonian_footballers ,
+		category:FC_Metz_players ,
+		category:Association_football_defenders ,
+		category:Expatriate_footballers_in_France ,
+		category:FIFA_Century_Club ,
+		category:Bundesliga_players ,
+		<http://dbpedia.org/resource/Category:West_Ham_United_F.C._players> ,
+		<http://dbpedia.org/resource/Category:1998_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2002_FIFA_World_Cup_players> ,
+		category:Living_people ,
+		category:Ligue_1_players ,
+		category:Expatriate_footballers_in_Germany ,
+		category:Expatriate_footballers_in_Italy ,
+		category:Trabzonspor_footballers ,
+		<http://dbpedia.org/resource/Category:1976_births> ,
+		category:Premier_League_players ,
+		category:Serie_A_footballers ,
+		<http://dbpedia.org/resource/Category:S%C3%BCper_Lig_players> ,
+		<http://dbpedia.org/resource/Category:Galatasaray_S.K._footballers> ,
+		<http://dbpedia.org/resource/Category:2002_African_Cup_of_Nations_players> ,
+		<http://dbpedia.org/resource/Category:1._FC_K%C3%B6ln_players> ,
+		<http://dbpedia.org/resource/Category:2006_Africa_Cup_of_Nations_players> ,
+		<http://dbpedia.org/resource/Category:2008_Africa_Cup_of_Nations_players> ,
+		category:Expatriate_footballers_in_Equatorial_Guinea ,
+		<http://dbpedia.org/resource/Category:The_Panthers_F.C._players> ,
+		category:Cameroonian_expatriates_in_France ,
+		category:Cameroonian_expatriates_in_Germany ,
+		<http://dbpedia.org/resource/Category:1998_African_Cup_of_Nations_players> ,
+		<http://dbpedia.org/resource/Category:2000_African_Cup_of_Nations_players> ,
+		category:Expatriate_footballers_in_England ,
+		category:Cameroon_international_footballers ,
+		category:Cameroonian_expatriate_footballers ,
+		category:RC_Lens_players ,
+		<http://dbpedia.org/resource/Category:U.S._Salernitana_1919_players> ,
+		<http://dbpedia.org/resource/Category:2001_FIFA_Confederations_Cup_players> ,
+		<http://dbpedia.org/resource/Category:1996_African_Cup_of_Nations_players> ,
+		<http://dbpedia.org/resource/Category:2003_FIFA_Confederations_Cup_players> ,
+		<http://dbpedia.org/resource/Category:1994_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:Liverpool_F.C._players> ,
+		<http://dbpedia.org/resource/Category:2010_Africa_Cup_of_Nations_players> ,
+		category:Cameroonian_expatriates_in_Italy ,
+		category:Cameroonian_expatriates_in_Turkey ,
+		category:Cameroonian_expatriates_in_the_United_Kingdom ,
+		<http://dbpedia.org/resource/Category:2004_African_Cup_of_Nations_players> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Expatriate_footballers_in_Turkey ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Rigobert_Song_2008.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Rigobert_Song	dc:description	"Cameroonian footballer" ,
+		"Cameroonian footballer" ;
+	foaf:givenName	"Rigobert" ;
+	foaf:name	"Rigobert Song Bahanag" ,
+		"Song, Rigobert" ,
+		"Rigobert Song" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Rigobert_Song	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Rigobert_Song?oldid=590672839> ;
+	rdfs:comment	"Rigobert Song Bahanag (born 1 July 1976) is a former Cameroonian footballer, who is currently a pundit for TV channel Orange Sports. He was a member of the Cameroon national team between 1993 and 2010.He was born in Nkenglicock, Cameroon.Known for his defensive skills, Song usually plays as a centre back but can also operate at right back." ,
+		"Rigobert Song Bahanag (*Nkanglikock, Camer\u00FAn, 1 de julio de 1976), ex-futbolista y entrenador camerun\u00E9s. Jugaba de defensa y se retir\u00F3 en el Trabzonspor de la Superliga de Turqu\u00EDa. Su sobrino Alexandre Song tambi\u00E9n es futbolista. Actualmente entrena a la Selecci\u00F3n de f\u00FAtbol de Camer\u00FAn."@es ,
+		"Rigobert Song (* 1. Juli 1976 in Nkanglicock in Kamerun) ist ein ehemaliger kamerunischer Fu\u00DFballspieler und Rekordnationalspieler seines Landes. Seit seinem Karriereende arbeitet er als Experte f\u00FCr die TV-Sendung Orange Sports."@de ,
+		"Rigobert Song Bahanag (Nkenglicock, 1 de julho de 1976) \u00E9 um ex-futebolista camaron\u00EAs. Que atuava de Zagueiro. Foi o \u00FAnico jogador a ser expulso em duas Copas do Mundo diferentes, na Copa do Mundo 1994 (Brasil 3 x 0 Camar\u00F5es) e na Copa do Mundo 1998 (Chile 1 x 1 Camar\u00F5es). Jogou na sele\u00E7\u00E3o nacional de 1993 \u00E1 2010.\u00C9 primo de Alexandre Song que atualmente joga no Barcelona embora Alex se refere a Rigobert como seu tio."@pt ,
+		"Rigobert Song Bahanag pseudonim \"Magnan\" (ur. 1 lipca 1976 w Nkenlicock) \u2013 by\u0142y pi\u0142karz graj\u0105cy na pozycji obro\u0144cy."@pl ,
+		"Rigobert Song Bahanag (Nkanglikock, 1 juli 1976) is een voormalig Kameroens betaald voetballer die bij voorkeur in de verdediging speelde. Hij verruilde in juni 2008 Galatasaray SK voor Trabzonspor. Van 22 september 1993 tot en met 24 juni 2010 speelde Song 137 interlands voor het Kameroens elftal. Met een invalbeurt op het wereldkampioenschap voetbal 2010 werd hij de eerste Afrikaanse speler ooit die op vier WK's speelde.Song speelde voor de wereldbeker in 1994, 1998, 2002 en 2010."@nl ,
+		"\u0631\u064A\u063A\u0648\u0628\u0631\u062A \u0628\u0627\u0647\u0627\u0646\u0627\u063A \u0633\u0648\u0646\u063A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Rigobert Song)\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 1 \u064A\u0648\u0644\u064A\u0648 1976 \u0641\u064A \u0646\u0643\u0627\u0646\u063A\u0644\u064A\u0643\u0648\u0643 \u0641\u064A \u0627\u0644\u0643\u0627\u0645\u064A\u0631\u0648\u0646\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0627\u0645\u064A\u0631\u0648\u0646\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u062A\u0648\u0646\u064A\u0631 \u064A\u0627\u0648\u0646\u062F\u064A \u0641\u064A \u0645\u0648\u0633\u0645 1993/1994\u060C \u0648\u0641\u064A \u0639\u0627\u0645 1994 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0645\u062A\u0632 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 1997\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 123 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 3 \u0623\u0647\u062F\u0627\u0641\u060C \u0648\u0641\u064A \u0645\u0648\u0633\u0645 1997/1998 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0633\u0627\u0644\u0631\u0646\u064A\u062A\u0627\u0646\u0627 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 4 \u0645\u0628\u0627\u0631\u064A\u0627\u062A \u0648\u0633\u062C\u0644 \u0647\u062F\u0641 \u0648\u0627\u062D\u062F\u060C \u0648\u0641\u064A \u0639\u0627\u0645 1998 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0644\u064A\u0641\u0631\u0628\u0648\u0644 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2000\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 33 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2000 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0648\u0633\u062A \u0647\u0627\u0645 \u064A\u0648\u0646\u0627\u064A\u062A\u062F \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2002\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 24 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0641\u064A \u0645\u0648\u0633\u0645 2001/2002 \u0623\u0639\u064A\u0631 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0643\u0648\u0644\u0646 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 16 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2002 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0644\u064A\u0646\u0633 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2004\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 65 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 4 \u0623\u0647\u062F\u0627\u0641. "@ar ,
+		"Rigobert Song Bahanag (Nkanglicock, 1\u00BA luglio 1976) \u00E8 un ex calciatore camerunese, di ruolo difensore, dal 6 gennaio 2012 team manager della Nazionale di calcio del Camerun.Ha fatto parte della Nazionale camerunense dal 1993 al 2010 di cui \u00E8 stato capitano dal 1999 al 2009. Con 137 presenze detiene il record assoluto di presenze con la sua Nazionale.Suo nipote \u00E8 Alexandre Song, anch'esso calciatore professionista."@it ,
+		"\u0420\u0438\u0433\u043E\u0431\u0435\u0301\u0440 \u0421\u043E\u043D\u0433 \u0411\u0430\u0430\u043D\u0430\u0301\u0433 (\u0444\u0440. Rigobert Song Bahanag, 1 \u0438\u044E\u043B\u044F 1976, \u041D\u043A\u0430\u043D\u0433\u043B\u0438\u043A\u043E\u043A) \u2014 \u043A\u0430\u043C\u0435\u0440\u0443\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442. \u0420\u0435\u043A\u043E\u0440\u0434\u0441\u043C\u0435\u043D \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u0430\u043C\u0435\u0440\u0443\u043D\u0430 \u043F\u043E \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u0443 \u043F\u0440\u043E\u0432\u0435\u0434\u0451\u043D\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0435\u0439. \u0423\u0447\u0430\u0441\u0442\u043D\u0438\u043A 4 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u043C\u0438\u0440\u0430 (1994, 1998, 2002 \u0438 2010).\u0412 2010 \u0433\u043E\u0434\u0443 \u0437\u0430\u044F\u0432\u0438\u043B \u043E \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043D\u0438\u0438 17-\u043B\u0435\u0442\u043D\u0435\u0439 \u043A\u0430\u0440\u044C\u0435\u0440\u044B \u0432 \u0441\u0431\u043E\u0440\u043D\u043E\u0439."@ru ,
+		"Rigobert Song Bahanag est un footballeur camerounais, n\u00E9 le 1er juillet 1976 \u00E0 Nkenglickock. Il joue au poste de d\u00E9fenseur central et est le recordman de s\u00E9lections avec le Cameroun (137 s\u00E9lections, 4 buts). Il a d'ailleurs mis un terme \u00E0 sa carri\u00E8re internationale en ao\u00FBt 2010.En septembre 2010, il devient consultant pour la chaine Orange sport, o\u00F9 il commente principalement certains matchs de qualifications pour la Coupe d'Afrique des Nations 2012 ainsi que quelques matchs de Carling Cup."@fr ,
+		"\u30EA\u30B4\u30D9\u30FC\u30EB\u30FB\u30BD\u30F3\u30B0\u30FB\u30D0\u30A2\u30CA\u30B0\uFF08Rigobert Song Bahanag\u30011976\u5E747\u67081\u65E5 - \uFF09\u306F\u3001\u30AB\u30E1\u30EB\u30FC\u30F3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30AB\u30E1\u30EB\u30FC\u30F3\u4EE3\u8868\u306E\u30AD\u30FC\u30D7\u30EC\u30A4\u30E4\u30FC\u3068\u3057\u306610\u5E74\u4EE5\u4E0A\u30D7\u30EC\u30A4\u3057\u30011994\u5E74USA\u5927\u4F1A\u30011998\u5E74\u30D5\u30E9\u30F3\u30B9\u5927\u4F1A\u30012002\u5E74\u65E5\u97D3\u5927\u4F1A\u306E3\u5EA6\u306E\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u306B\u51FA\u5834\u3057\u305F\u3002\u30AD\u30E3\u30C3\u30D7\u6570\u306F100\u4EE5\u4E0A\u3092\u6570\u3048\u3001\u30AB\u30E1\u30EB\u30FC\u30F3\u4EE3\u8868\u306E\u6700\u591A\u8A66\u5408\u51FA\u5834\u9078\u624B\u3068\u306A\u3063\u3066\u3044\u308B\u3002\u30D0\u30EB\u30BB\u30ED\u30CA\u3067\u30D7\u30EC\u30FC\u3059\u308B\u30A2\u30EC\u30AF\u30B5\u30F3\u30C9\u30EB\u30FB\u30BD\u30F3\u30B0\u306F\u7525\u3067\u3042\u308B\u3002"@ja ;
+	foaf:surname	"Song" ;
+	foaf:isPrimaryTopicOf	ns14:Rigobert_Song .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix ns42:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Rigobert_Song	dbpprop:hasPhotoCollection	ns42:Rigobert_Song ;
+	dbpprop:caption	"Song with Cameroon in 2008" ;
+	dbpprop:name	"Rigobert Song" ,
+		"Song, Rigobert" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Rigobert_Song_2008.jpg?width=300> ;
+	dbpedia-owl:abstract	"Rigobert Song Bahanag pseudonim \"Magnan\" (ur. 1 lipca 1976 w Nkenlicock) \u2013 by\u0142y pi\u0142karz graj\u0105cy na pozycji obro\u0144cy."@pl ,
+		"Rigobert Song (* 1. Juli 1976 in Nkanglicock in Kamerun) ist ein ehemaliger kamerunischer Fu\u00DFballspieler und Rekordnationalspieler seines Landes. Seit seinem Karriereende arbeitet er als Experte f\u00FCr die TV-Sendung Orange Sports."@de ,
+		"\u0631\u064A\u063A\u0648\u0628\u0631\u062A \u0628\u0627\u0647\u0627\u0646\u0627\u063A \u0633\u0648\u0646\u063A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Rigobert Song)\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 1 \u064A\u0648\u0644\u064A\u0648 1976 \u0641\u064A \u0646\u0643\u0627\u0646\u063A\u0644\u064A\u0643\u0648\u0643 \u0641\u064A \u0627\u0644\u0643\u0627\u0645\u064A\u0631\u0648\u0646\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0627\u0645\u064A\u0631\u0648\u0646\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u062A\u0648\u0646\u064A\u0631 \u064A\u0627\u0648\u0646\u062F\u064A \u0641\u064A \u0645\u0648\u0633\u0645 1993/1994\u060C \u0648\u0641\u064A \u0639\u0627\u0645 1994 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0645\u062A\u0632 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 1997\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 123 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 3 \u0623\u0647\u062F\u0627\u0641\u060C \u0648\u0641\u064A \u0645\u0648\u0633\u0645 1997/1998 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0633\u0627\u0644\u0631\u0646\u064A\u062A\u0627\u0646\u0627 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 4 \u0645\u0628\u0627\u0631\u064A\u0627\u062A \u0648\u0633\u062C\u0644 \u0647\u062F\u0641 \u0648\u0627\u062D\u062F\u060C \u0648\u0641\u064A \u0639\u0627\u0645 1998 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0644\u064A\u0641\u0631\u0628\u0648\u0644 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2000\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 33 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2000 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0648\u0633\u062A \u0647\u0627\u0645 \u064A\u0648\u0646\u0627\u064A\u062A\u062F \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2002\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 24 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0641\u064A \u0645\u0648\u0633\u0645 2001/2002 \u0623\u0639\u064A\u0631 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0643\u0648\u0644\u0646 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 16 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2002 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0644\u064A\u0646\u0633 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2004\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 65 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 4 \u0623\u0647\u062F\u0627\u0641. \u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u063A\u0644\u0637\u0629 \u0633\u0631\u0627\u064A \u0627\u0644\u062A\u0631\u0643\u064A \u0628\u064A\u0646 \u0627\u0644\u0639\u0627\u0645\u064A\u0646 2004 \u06482008\u060C \u062B\u0645 \u0627\u0646\u062A\u0642\u0644 \u0628\u0639\u062F\u0647\u0627 \u0644\u0646\u0627\u062F\u064A \u062A\u0631\u0627\u0628\u0632\u0648\u0646\u0633\u0628\u0648\u0631 \u0627\u0644\u0630\u064A \u064A\u0644\u0639\u0628 \u0645\u0639\u0647 \u062D\u0627\u0644\u064A\u0627\u064B."@ar ,
+		"\u0420\u0438\u0433\u043E\u0431\u0435\u0301\u0440 \u0421\u043E\u043D\u0433 \u0411\u0430\u0430\u043D\u0430\u0301\u0433 (\u0444\u0440. Rigobert Song Bahanag, 1 \u0438\u044E\u043B\u044F 1976, \u041D\u043A\u0430\u043D\u0433\u043B\u0438\u043A\u043E\u043A) \u2014 \u043A\u0430\u043C\u0435\u0440\u0443\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442. \u0420\u0435\u043A\u043E\u0440\u0434\u0441\u043C\u0435\u043D \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u0430\u043C\u0435\u0440\u0443\u043D\u0430 \u043F\u043E \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u0443 \u043F\u0440\u043E\u0432\u0435\u0434\u0451\u043D\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0435\u0439. \u0423\u0447\u0430\u0441\u0442\u043D\u0438\u043A 4 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u043C\u0438\u0440\u0430 (1994, 1998, 2002 \u0438 2010).\u0412 2010 \u0433\u043E\u0434\u0443 \u0437\u0430\u044F\u0432\u0438\u043B \u043E \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043D\u0438\u0438 17-\u043B\u0435\u0442\u043D\u0435\u0439 \u043A\u0430\u0440\u044C\u0435\u0440\u044B \u0432 \u0441\u0431\u043E\u0440\u043D\u043E\u0439."@ru ,
+		"Rigobert Song Bahanag (*Nkanglikock, Camer\u00FAn, 1 de julio de 1976), ex-futbolista y entrenador camerun\u00E9s. Jugaba de defensa y se retir\u00F3 en el Trabzonspor de la Superliga de Turqu\u00EDa. Su sobrino Alexandre Song tambi\u00E9n es futbolista. Actualmente entrena a la Selecci\u00F3n de f\u00FAtbol de Camer\u00FAn."@es ,
+		"Rigobert Song Bahanag est un footballeur camerounais, n\u00E9 le 1er juillet 1976 \u00E0 Nkenglickock. Il joue au poste de d\u00E9fenseur central et est le recordman de s\u00E9lections avec le Cameroun (137 s\u00E9lections, 4 buts). Il a d'ailleurs mis un terme \u00E0 sa carri\u00E8re internationale en ao\u00FBt 2010.En septembre 2010, il devient consultant pour la chaine Orange sport, o\u00F9 il commente principalement certains matchs de qualifications pour la Coupe d'Afrique des Nations 2012 ainsi que quelques matchs de Carling Cup."@fr ,
+		"Rigobert Song Bahanag (Nkanglikock, 1 juli 1976) is een voormalig Kameroens betaald voetballer die bij voorkeur in de verdediging speelde. Hij verruilde in juni 2008 Galatasaray SK voor Trabzonspor. Van 22 september 1993 tot en met 24 juni 2010 speelde Song 137 interlands voor het Kameroens elftal. Met een invalbeurt op het wereldkampioenschap voetbal 2010 werd hij de eerste Afrikaanse speler ooit die op vier WK's speelde.Song speelde voor de wereldbeker in 1994, 1998, 2002 en 2010. Voordat hij bij Trabzonspor zijn spel liet zien, speelde hij voor Metz, Salernitana, Liverpool, West Ham, Keulen , RC Lens en Galatasaray SK .Op de African Cup of Nations 2010 werd Song de voetballer met de meeste caps in de geschiedenis van het Kameroense voetbal, doordat hij voor de 103e keer op het veld verscheen in het plunje van het nationale team. Hij verkreeg tevens het record van het grootste aantal gespeelde matchen in de CAF Afrika Cup, acht. Song is de oom van voetballer Alexandre Song. In de zomer van 2010 be\u00EBindigde Song zijn carri\u00E8re."@nl ,
+		"Rigobert Song Bahanag (born 1 July 1976) is a former Cameroonian footballer, who is currently a pundit for TV channel Orange Sports. He was a member of the Cameroon national team between 1993 and 2010.He was born in Nkenglicock, Cameroon.Known for his defensive skills, Song usually plays as a centre back but can also operate at right back. Internationally, he has played at a record eight Africa Cup of Nations tournaments and served as captain in five (the only ones he was not captain for were South Africa 1996, Burkina Faso 1998 and Angola 2010), a record, and holds the record of most consecutive games played in the tournament with 35 first team games. He has won two CAF Africa Cup of Nations titles in 2000 and 2002. In 2009, Song was dropped as Cameroon skipper by new coach Paul Le Guen, who eventually appointed Samuel Eto'o as the new captain but later caused concerns as Rigobert song had never been on the bench in more than 11 years for Cameroon. With 137 appearances, Song also holds the record of the most capped player in the history of the Cameroon national team and has played in four World Cups, in 1994, 1998, 2002, and 2010.Song started his professional career with Metz and helped the club to win the French League Cup back in 1996. After appearing at the 1998 World Cup he joined Salernitana which newly promoted to Serie A. In January 1999 he left Italy to start successive stints with Liverpool, West Ham United and Cologne but after failing to hold down a first-team place he returned to France to play for RC Lens. He stayed there until 2004 and moved on to Turkey, where he spent four years with Galatasaray, winning two Turkish League titles and the Turkish Cup. Song then signed a contract with Trabzonspor in 2008, where he won another Turkish Cup and stayed until 2010.Along with Zinedine Zidane, Song is the only player to have been sent off in two different World Cups, once against Brazil in USA 94 and against Chile in France 98. He also holds the record as youngest player ever to be sent off in a World Cup, aged 17.Nicknamed \"Big Chief\" by the Turkish fans, he is the cousin of fellow Cameroon defensive midfielder and FC Barcelona player Alex Song, although Alex refers to Rigobert as his uncle." ,
+		"Rigobert Song Bahanag (Nkanglicock, 1\u00BA luglio 1976) \u00E8 un ex calciatore camerunese, di ruolo difensore, dal 6 gennaio 2012 team manager della Nazionale di calcio del Camerun.Ha fatto parte della Nazionale camerunense dal 1993 al 2010 di cui \u00E8 stato capitano dal 1999 al 2009. Con 137 presenze detiene il record assoluto di presenze con la sua Nazionale.Suo nipote \u00E8 Alexandre Song, anch'esso calciatore professionista."@it ,
+		"\u30EA\u30B4\u30D9\u30FC\u30EB\u30FB\u30BD\u30F3\u30B0\u30FB\u30D0\u30A2\u30CA\u30B0\uFF08Rigobert Song Bahanag\u30011976\u5E747\u67081\u65E5 - \uFF09\u306F\u3001\u30AB\u30E1\u30EB\u30FC\u30F3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30AB\u30E1\u30EB\u30FC\u30F3\u4EE3\u8868\u306E\u30AD\u30FC\u30D7\u30EC\u30A4\u30E4\u30FC\u3068\u3057\u306610\u5E74\u4EE5\u4E0A\u30D7\u30EC\u30A4\u3057\u30011994\u5E74USA\u5927\u4F1A\u30011998\u5E74\u30D5\u30E9\u30F3\u30B9\u5927\u4F1A\u30012002\u5E74\u65E5\u97D3\u5927\u4F1A\u306E3\u5EA6\u306E\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u306B\u51FA\u5834\u3057\u305F\u3002\u30AD\u30E3\u30C3\u30D7\u6570\u306F100\u4EE5\u4E0A\u3092\u6570\u3048\u3001\u30AB\u30E1\u30EB\u30FC\u30F3\u4EE3\u8868\u306E\u6700\u591A\u8A66\u5408\u51FA\u5834\u9078\u624B\u3068\u306A\u3063\u3066\u3044\u308B\u3002\u30D0\u30EB\u30BB\u30ED\u30CA\u3067\u30D7\u30EC\u30FC\u3059\u308B\u30A2\u30EC\u30AF\u30B5\u30F3\u30C9\u30EB\u30FB\u30BD\u30F3\u30B0\u306F\u7525\u3067\u3042\u308B\u3002"@ja ,
+		"Rigobert Song Bahanag (Nkenglicock, 1 de julho de 1976) \u00E9 um ex-futebolista camaron\u00EAs. Que atuava de Zagueiro. Foi o \u00FAnico jogador a ser expulso em duas Copas do Mundo diferentes, na Copa do Mundo 1994 (Brasil 3 x 0 Camar\u00F5es) e na Copa do Mundo 1998 (Chile 1 x 1 Camar\u00F5es). Jogou na sele\u00E7\u00E3o nacional de 1993 \u00E1 2010.\u00C9 primo de Alexandre Song que atualmente joga no Barcelona embora Alex se refere a Rigobert como seu tio."@pt ;
+	dbpedia-owl:wikiPageID	1658720 ;
+	dbpedia-owl:wikiPageRevisionID	590672839 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Rigobert_Song	dbpprop:birthDate	"1976-07-01+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Nkenglicock, Cameroon" ;
+	dbpprop:dateOfBirth	"1976-07-01+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Nkenglicock, Cameroon" ;
+	dbpprop:shortDescription	"Cameroonian footballer" ;
+	dbpedia-owl:birthDate	"1976-07-01+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Nkenglicock ,
+		dbpedia:Cameroon_national_football_team ;
+	dbpedia-owl:birthYear	"1976+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	220 ;
+	dbpprop:after	"Ibrahim Yattara" ;
+	dbpprop:before	"Egemen Korkmaz" ;
+	dbpprop:goals	3 ,
+		0 ,
+		1 ,
+		4 ;
+	dbpprop:bg	"Green" ;
+	dbpprop:caps	4 ,
+		24 ,
+		16 ,
+		46 ,
+		33 ,
+		63 ,
+		108 ,
+		123 ;
+	dbpprop:years	2008 ,
+		2009 ,
+		2004 ,
+		2002 ,
+		2000 ,
+		2001 ,
+		1998 ,
+		1999 ,
+		1994 ;
+	dbpedia-owl:careerStation	dbpedia:Rigobert_Song__6 ,
+		dbpedia:Rigobert_Song__7 ,
+		dbpedia:Rigobert_Song__8 ,
+		dbpedia:Rigobert_Song__9 ,
+		dbpedia:Rigobert_Song__2 ,
+		dbpedia:Rigobert_Song__3 ,
+		dbpedia:Rigobert_Song__4 ,
+		dbpedia:Rigobert_Song__5 ,
+		dbpedia:Rigobert_Song__1 ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.8300000000000000711 .
+@prefix ns44:	<http://dbpedia.org/datatype/> .
+@prefix ns45:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Rigobert_Song	ns45:height	"183.0"^^ns44:centimetre ;
+	dbpprop:fullname	"Rigobert Song Bahanag" ;
+	dbpprop:clubs	dbpedia:FC_Metz ,
+		<http://dbpedia.org/resource/West_Ham_United_F.C.> ,
+		<http://dbpedia.org/resource/Galatasaray_S.K._(football)> ,
+		"\u2192 1. FC K\u00F6ln" ,
+		dbpedia:Trabzonspor ,
+		<http://dbpedia.org/resource/Liverpool_F.C.> ,
+		<http://dbpedia.org/resource/U.S._Salernitana_1919> ,
+		dbpedia:RC_Lens ;
+	dbpedia-owl:team	dbpedia:RC_Lens ,
+		dbpedia:Cameroon_national_football_team ,
+		dbpedia:FC_Metz ,
+		<http://dbpedia.org/resource/West_Ham_United_F.C.> ,
+		<http://dbpedia.org/resource/Galatasaray_S.K._(football)> ,
+		<http://dbpedia.org/resource/1._FC_K%C3%B6ln> ,
+		dbpedia:Trabzonspor ,
+		<http://dbpedia.org/resource/Liverpool_F.C.> ,
+		<http://dbpedia.org/resource/U.S._Salernitana_1919> .
+@prefix ns46:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Rigobert_Song	dbpprop:wordnet_type	ns46:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Trabzonspor captain" ,
+		"Cameroon squads" ;
+	dbpprop:pcupdate	"2010-05-08+02:00"^^xsd:date ;
+	dbpedia-owl:wikiPageExternalLink	<http://ita.worldfootball.net/spieler_profil/rigobert-song/> .
+@prefix ns47:	<http://www.liverpoolfc.tv/history/past-players/> .
+dbpedia:Rigobert_Song	dbpedia-owl:wikiPageExternalLink	ns47:rigobert-song ,
+		<http://www.fifa.com/worldcup/players/player=170657/index.html> ;
+	dbpprop:fg	"Yellow" ;
+	dbpprop:nationalcaps	138 ;
+	dbpprop:nationalgoals	5 ;
+	dbpprop:nationalteam	dbpedia:Cameroon_national_football_team ;
+	dbpprop:nationalyears	1993 ;
+	dbpprop:ntupdate	"--06-25+02:00"^^xsd:gMonthDay ;
+	dbpprop:totalcaps	417 ;
+	dbpprop:totalgoals	11 .
+<http://dbpedia.org/resource/Song_(disambiguation)>	dbpedia-owl:wikiPageDisambiguates	dbpedia:Rigobert_Song .
+dbpedia:Egemen_Korkmaz	dbpprop:after	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/2003_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/2000%E2%80%9301_Liverpool_F.C._season>	dbpprop:name	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/2008%E2%80%9309_Trabzonspor_season>	dbpprop:name	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/2004_African_Cup_of_Nations_squads>	dbpprop:name	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/1998%E2%80%9399_Liverpool_F.C._season>	dbpprop:name	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/2001%E2%80%9302_West_Ham_United_F.C._season>	dbpprop:name	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/2000%E2%80%9301_West_Ham_United_F.C._season>	dbpprop:name	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/1999%E2%80%932000_Liverpool_F.C._season>	dbpprop:name	dbpedia:Rigobert_Song .
+dbpedia:Football_for_Hope	dbpprop:name	dbpedia:Rigobert_Song ;
+	dbpedia-owl:currentMember	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/2001_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/2010_Africa_Cup_of_Nations_squads>	dbpprop:name	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/2009%E2%80%9310_Trabzonspor_season>	dbpprop:name	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/1994_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/1999%E2%80%932000_Liverpool_F.C._season__Rigobert_Song__1>	dbpedia-owl:currentMember	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/2000%E2%80%9301_West_Ham_United_F.C._season__Rigobert_Song__1>	dbpedia-owl:currentMember	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/2001%E2%80%9302_West_Ham_United_F.C._season__Rigobert_Song__1>	dbpedia-owl:currentMember	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/2008%E2%80%9309_Trabzonspor_season__Rigobert_Song__1>	dbpedia-owl:currentMember	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/2009%E2%80%9310_Trabzonspor_season__Rigobert_Song__1>	dbpedia-owl:currentMember	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/2000%E2%80%9301_Liverpool_F.C._season__Rigobert_Song__1>	dbpedia-owl:currentMember	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/1998%E2%80%9399_Liverpool_F.C._season__Rigobert_Song__1>	dbpedia-owl:currentMember	dbpedia:Rigobert_Song .
+dbpedia:Rigober_Song	dbpedia-owl:wikiPageRedirects	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/1998_African_Cup_of_Nations_squads>	dbpprop:name	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/1993_FIFA_World_Youth_Championship_squads>	dbpprop:name	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/2000_African_Cup_of_Nations_squads>	dbpprop:name	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Rigobert_Song .
+dbpedia:Cameroon_national_football_team	dbpprop:mostCaps	dbpedia:Rigobert_Song .
+ns21:ريغوبرت_سونغ	owl:sameAs	dbpedia:Rigobert_Song .
+ns27:Rigobert_Song	owl:sameAs	dbpedia:Rigobert_Song .
+ns33:Rigobert_Song	owl:sameAs	dbpedia:Rigobert_Song .
+ns35:Rigobert_Song	owl:sameAs	dbpedia:Rigobert_Song .
+ns34:Rigobert_Song	owl:sameAs	dbpedia:Rigobert_Song .
+ns20:Rigobertus_Song	owl:sameAs	dbpedia:Rigobert_Song .
+ns28:Rigobert_Song	owl:sameAs	dbpedia:Rigobert_Song .
+ns30:रिगोबेर्ट_साँग	owl:sameAs	dbpedia:Rigobert_Song .
+ns25:Rigobert_Song	owl:sameAs	dbpedia:Rigobert_Song .
+ns23:Rigobert_Song	owl:sameAs	dbpedia:Rigobert_Song .
+<http://ru.dbpedia.org/resource/\u0421\u043E\u043D\u0433,_\u0420\u0438\u0433\u043E\u0431\u0435\u0440>	owl:sameAs	dbpedia:Rigobert_Song .
+ns31:Rigobert_Song	owl:sameAs	dbpedia:Rigobert_Song .
+ns26:Rigobert_Song	owl:sameAs	dbpedia:Rigobert_Song .
+ns24:Rigobert_Song	owl:sameAs	dbpedia:Rigobert_Song .
+ns32:Rigobert_Song	owl:sameAs	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/1996_African_Cup_of_Nations_squads>	dbpprop:name	dbpedia:Rigobert_Song .
+dbpedia:Cameroon_at_the_FIFA_World_Cup	dbpprop:name	dbpedia:Rigobert_Song .
+dbpedia:List_of_Turkish_football_transfers_summer_2010	dbpprop:name	dbpedia:Rigobert_Song ;
+	dbpedia-owl:currentMember	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/2008_Africa_Cup_of_Nations_squads>	dbpprop:name	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/2002_African_Cup_of_Nations_squads>	dbpprop:name	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/2006_Africa_Cup_of_Nations_squads>	dbpprop:name	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/1998_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Rigobert_Song .
+<http://dbpedia.org/resource/2002_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Rigobert_Song .

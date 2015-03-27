@@ -1,0 +1,641 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xml:base="http://www.daml.org/2001/12/factbook/bt">
+  <rdf:Description rdf:about='#A120520'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#IN'/>
+    <NS0:distance>605</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14894'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Indian-_and_Nepalese-influenced_Hinduism'/>
+    <NS0:percent>25</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15167'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A120515'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#CH'/>
+    <NS0:distance>470</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14889'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Lamaistic_Buddhist'/>
+    <NS0:percent>75</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14902'>
+    <NS0:note>official</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14884'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#indigenous_or_migrant_tribes'/>
+    <NS0:percent>15</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14879'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#ethnic_Nepalese'/>
+    <NS0:percent>35</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14834'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15045'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14874'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Bhote'/>
+    <NS0:percent>50</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15093'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>f.o.b., 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15058'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#industry_and_commerce'/>
+    <NS0:percent>2</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14866'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14811'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15073'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14808'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15172'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15053'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#services'/>
+    <NS0:percent>5</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15176'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14860'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:ratio>1.07</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15048'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#agriculture'/>
+    <NS0:percent>93</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14855'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>65</NS0:minAge>
+    <NS0:ratio>1.03</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14849'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>15</NS0:minAge>
+    <NS0:maxAge>64</NS0:maxAge>
+    <NS0:ratio>1.06</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15031'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14843'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>14</NS0:maxAge>
+    <NS0:ratio>1.08</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14837'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>0</NS0:maxAge>
+    <NS0:ratio>1.05</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14786'>
+    <NS0:note>landlocked</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15162'>
+    <NS0:year>1995</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14822'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>July 2001</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15037'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#BT'>
+    <NS0:background>Under British influence a monarchy was set up in 1907; three years later a treaty was signed whereby the country became a British protectorate. Independence was attained in 1949, with India subsequently guiding foreign relations and supplying aid. A refugee issue of some 100,000 Bhutanese in Nepal remains unresolved; 90% of these displaced persons are housed in seven United Nations Office of the High Commissioner for Refugees (UNHCR) camps. Maoist Assamese separatists from India, who have established themselves in the southeast portion of Bhutan, have drawn Indian cross-border incursions.</NS0:background>
+    <NS0:location>Southern Asia, between China and India</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A14775'/>
+    <NS0:mapReferences>Asia</NS0:mapReferences>
+    <NS0:totalArea>47000</NS0:totalArea>
+    <NS0:landArea>47000</NS0:landArea>
+    <NS0:waterArea>0</NS0:waterArea>
+    <NS0:comparativeArea>about half the size of Indiana</NS0:comparativeArea>
+    <NS0:landBoundaries>1075</NS0:landBoundaries>
+    <NS0:coastline rdf:ID='A14786'>0</NS0:coastline>
+    <NS0:climate>varies; tropical in southern plains; cool winters and hot summers in central valleys; severe winters and cool summers in Himalayas</NS0:climate>
+    <NS0:terrain>mostly mountainous with some fertile valleys and savanna</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A14790'/>
+    <NS0:highestPoint rdf:resource='#A14795'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#timber'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#hydropower'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#gypsum'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#calcium_carbide'/>
+    <NS0:arableLand>2</NS0:arableLand>
+    <NS0:permanentCrops>0</NS0:permanentCrops>
+    <NS0:permanentPastures>6</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>66</NS0:forestsAndWoodland>
+    <NS0:otherLandUse rdf:ID='A14808'>26</NS0:otherLandUse>
+    <NS0:irrigatedLand rdf:ID='A14811'>340</NS0:irrigatedLand>
+    <NS0:naturalHazard>violent storms coming down from the Himalayas are the source of the country&apos;s name which translates as Land of the Thunder Dragon</NS0:naturalHazard>
+    <NS0:naturalHazard>frequent landslides during the rainy season</NS0:naturalHazard>
+    <NS0:environmentalIssue>soil erosion</NS0:environmentalIssue>
+    <NS0:environmentalIssue>limited access to potable water</NS0:environmentalIssue>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Biodiversity'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Climate_Change'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Nuclear_Test_Ban'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Law_of_the_Sea'/>
+    <NS0:population rdf:ID='A14822'>2049412</NS0:population>
+    <NS0:populationGrowthRate rdf:ID='A14825'>2.17</NS0:populationGrowthRate>
+    <NS0:birthRate rdf:ID='A14828'>35.73</NS0:birthRate>
+    <NS0:deathRate rdf:ID='A14831'>14.03</NS0:deathRate>
+    <NS0:netMigrationRate rdf:ID='A14834'>0</NS0:netMigrationRate>
+    <NS0:sexRatio rdf:resource='#A14837'/>
+    <NS0:sexRatio rdf:resource='#A14843'/>
+    <NS0:sexRatio rdf:resource='#A14849'/>
+    <NS0:sexRatio rdf:resource='#A14855'/>
+    <NS0:sexRatio rdf:ID='A14863' rdf:resource='#A14860'/>
+    <NS0:infantMortalityRate rdf:ID='A14866'>108.89</NS0:infantMortalityRate>
+    <NS0:totalFertilityRate rdf:ID='A14869'>5.07</NS0:totalFertilityRate>
+    <NS0:nationalityNoun>Bhutanese (singular and plural)</NS0:nationalityNoun>
+    <NS0:nationalityAdjective>Bhutanese</NS0:nationalityAdjective>
+    <NS0:ethnicGroup rdf:resource='#A14874'/>
+    <NS0:ethnicGroup rdf:resource='#A14879'/>
+    <NS0:ethnicGroup rdf:resource='#A14884'/>
+    <NS0:religion rdf:resource='#A14889'/>
+    <NS0:religion rdf:resource='#A14894'/>
+    <NS0:language rdf:ID='A14902' rdf:resource='#A14899'/>
+    <NS0:language rdf:resource='#A14904'/>
+    <NS0:language rdf:resource='#A14908'/>
+    <NS0:literacyDefinition>age 15 and over can read and write</NS0:literacyDefinition>
+    <NS0:literacyTotal>42.2</NS0:literacyTotal>
+    <NS0:literacyMale>56.2</NS0:literacyMale>
+    <NS0:literacyFemale rdf:ID='A14915'>28.1</NS0:literacyFemale>
+    <NS0:conventionalLongCountryName>Kingdom of Bhutan</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Bhutan</NS0:conventionalShortCountryName>
+    <NS0:governmentType rdf:resource='http://www.daml.org/2001/12/factbook/governmentTypes#monarchy;_special_treaty_relationship_with_India'/>
+    <NS0:capital rdf:resource='#A14921'/>
+    <NS0:administrativeDivision rdf:resource='#A14928'/>
+    <NS0:administrativeDivision rdf:resource='#A14932'/>
+    <NS0:administrativeDivision rdf:resource='#A14936'/>
+    <NS0:administrativeDivision rdf:resource='#A14940'/>
+    <NS0:administrativeDivision rdf:resource='#A14944'/>
+    <NS0:administrativeDivision rdf:resource='#A14948'/>
+    <NS0:administrativeDivision rdf:resource='#A14952'/>
+    <NS0:administrativeDivision rdf:resource='#A14956'/>
+    <NS0:administrativeDivision rdf:resource='#A14960'/>
+    <NS0:administrativeDivision rdf:resource='#A14964'/>
+    <NS0:administrativeDivision rdf:resource='#A14968'/>
+    <NS0:administrativeDivision rdf:resource='#A14972'/>
+    <NS0:administrativeDivision rdf:resource='#A14976'/>
+    <NS0:administrativeDivision rdf:resource='#A14980'/>
+    <NS0:administrativeDivision rdf:resource='#A14984'/>
+    <NS0:administrativeDivision rdf:resource='#A14988'/>
+    <NS0:administrativeDivision rdf:resource='#A14992'/>
+    <NS0:administrativeDivision rdf:resource='#A14996'/>
+    <NS0:independence>8 August 1949 (from India)</NS0:independence>
+    <NS0:constitution>no written constitution or bill of rights; note - Bhutan uses 1953 Royal decree for the Constitution of the National Assembly; on 7 July 1998, a Royal edict was ratified giving the National Assembly additional powers</NS0:constitution>
+    <NS0:legalSystem>based on Indian law and English common law; has not accepted compulsory ICJ jurisdiction</NS0:legalSystem>
+    <NS0:suffrage>each family has one vote in village-level elections</NS0:suffrage>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#AsDB'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CP'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ESCAP'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#FAO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#G-77'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IBRD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICAO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IDA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFAD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IMF'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Intelsat'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IOC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IOM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ITU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NAM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OPCW'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#SAARC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UN'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNCTAD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNESCO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNIDO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UPU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WHO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WIPO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WTrO'/>
+    <NS0:flagDescription>divided diagonally from the lower hoist side corner; the upper triangle is yellow and the lower triangle is orange; centered along the dividing line is a large black and white dragon facing away from the hoist side</NS0:flagDescription>
+    <NS0:economyOverview>The economy, one of the world&apos;s smallest and least developed, is based on agriculture and forestry, which provide the main livelihood for more than 90% of the population. Agriculture consists largely of subsistence farming and animal husbandry. Rugged mountains dominate the terrain and make the building of roads and other infrastructure difficult and expensive. The economy is closely aligned with India&apos;s through strong trade and monetary links. The industrial sector is technologically backward, with most production of the cottage industry type. Most development projects, such as road construction, rely on Indian migrant labor. Bhutan&apos;s hydropower potential and its attraction for tourists are key resources. The Bhutanese Government has made some progress in expanding the nation&apos;s productive base and improving social welfare. Model education, social, and environment programs in Bhutan are underway with support from multilateral development organizations. Each economic program takes into account the government&apos;s desire to protect the country&apos;s environment and cultural traditions. Detailed controls and uncertain policies in areas like industrial licensing, trade, labor, and finance continue to hamper foreign investment.</NS0:economyOverview>
+    <NS0:grossDomesticProduct rdf:ID='A15031'>2300000000</NS0:grossDomesticProduct>
+    <NS0:grossDomesticProductRealGrowth rdf:ID='A15034'>6</NS0:grossDomesticProductRealGrowth>
+    <NS0:grossDomesticProductPerCapita rdf:ID='A15037'>1100</NS0:grossDomesticProductPerCapita>
+    <NS0:grossDomesticProductAgriculture>38</NS0:grossDomesticProductAgriculture>
+    <NS0:grossDomesticProductIndustry>37</NS0:grossDomesticProductIndustry>
+    <NS0:grossDomesticProductServices rdf:ID='A15042'>25</NS0:grossDomesticProductServices>
+    <NS0:inflationRate rdf:ID='A15045'>7</NS0:inflationRate>
+    <NS0:occupation rdf:resource='#A15048'/>
+    <NS0:occupation rdf:resource='#A15053'/>
+    <NS0:occupation rdf:resource='#A15058'/>
+    <NS0:budgetRevenues>146000000</NS0:budgetRevenues>
+    <NS0:budgetExpenditures>152000000</NS0:budgetExpenditures>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#cement'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#wood_products'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#processed_fruits'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#alcoholic_beverages'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#calcium_carbide'/>
+    <NS0:industrialProductionGrowthRate rdf:ID='A15070'>9.3</NS0:industrialProductionGrowthRate>
+    <NS0:electricityProduction rdf:ID='A15073'>1856000000</NS0:electricityProduction>
+    <NS0:electricityProductionFossilFuel>0.05</NS0:electricityProductionFossilFuel>
+    <NS0:electricityProductionHydro>99.95</NS0:electricityProductionHydro>
+    <NS0:electricityProductionNuclear>0</NS0:electricityProductionNuclear>
+    <NS0:electricityProductionOther rdf:ID='A15078'>0</NS0:electricityProductionOther>
+    <NS0:electricityConsumption rdf:ID='A15080'>191100000</NS0:electricityConsumption>
+    <NS0:electricityExports rdf:ID='A15082'>1550000000</NS0:electricityExports>
+    <NS0:electricityImports rdf:ID='A15084'>15000000</NS0:electricityImports>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#rice'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#corn'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#root_crops'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#citrus'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#foodgrains'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#dairy_products'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#eggs'/>
+    <NS0:exports rdf:ID='A15093'>154000000</NS0:exports>
+    <NS0:exportsCommodity rdf:resource='#A15096'/>
+    <NS0:exportsCommodity rdf:resource='#A15100'/>
+    <NS0:exportsCommodity rdf:resource='#A15104'/>
+    <NS0:exportsCommodity rdf:resource='#A15108'/>
+    <NS0:exportsCommodity rdf:resource='#A15112'/>
+    <NS0:exportsCommodity rdf:resource='#A15116'/>
+    <NS0:exportsCommodity rdf:ID='A15123' rdf:resource='#A15120'/>
+    <NS0:exportsCommodity rdf:resource='#A15125'/>
+    <NS0:exportsCommodity rdf:resource='#A15129'/>
+    <NS0:imports rdf:ID='A15133'>269000000</NS0:imports>
+    <NS0:importsCommodity rdf:resource='#A15136'/>
+    <NS0:importsCommodity rdf:resource='#A15140'/>
+    <NS0:importsCommodity rdf:resource='#A15144'/>
+    <NS0:importsCommodity rdf:resource='#A15148'/>
+    <NS0:importsCommodity rdf:resource='#A15152'/>
+    <NS0:importsCommodity rdf:resource='#A15156'/>
+    <NS0:externalDebt rdf:ID='A15160'>120000000</NS0:externalDebt>
+    <NS0:economicAidRecipient rdf:ID='A15162'>73800000</NS0:economicAidRecipient>
+    <NS0:currency>ngultrum (BTN); Indian rupee (INR)</NS0:currency>
+    <NS0:currencyCode>BTN; INR</NS0:currencyCode>
+    <NS0:fiscalYear>1 July - 30 June</NS0:fiscalYear>
+    <NS0:mainTelephoneLines rdf:ID='A15167'>6000</NS0:mainTelephoneLines>
+    <NS0:telephoneSystemGeneralAssessment>NA</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>domestic telephone service is very poor with few telephones in use</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>international telephone and telegraph service is by landline through India; a satellite earth station was planned (1990)</NS0:telephoneSystemInternational>
+    <NS0:radios rdf:ID='A15172'>37000</NS0:radios>
+    <NS0:televisionBroadcastStations rdf:ID='A15174'>0</NS0:televisionBroadcastStations>
+    <NS0:televisions rdf:ID='A15176'>11000</NS0:televisions>
+    <NS0:internetCountryCode>.bt</NS0:internetCountryCode>
+    <NS0:internetUsers rdf:ID='A15179'>500</NS0:internetUsers>
+    <NS0:highwaysTotal>3285</NS0:highwaysTotal>
+    <NS0:highwaysPaved>1994</NS0:highwaysPaved>
+    <NS0:highwaysUnpaved rdf:ID='A15183'>1291</NS0:highwaysUnpaved>
+    <NS0:port rdf:resource='#A15185'/>
+    <NS0:airports rdf:ID='A15189'>2</NS0:airports>
+    <NS0:airportBreakdown rdf:resource='#A15192'/>
+    <NS0:airportBreakdown rdf:resource='#A15199'/>
+    <NS0:militaryAge>18</NS0:militaryAge>
+    <NS0:malesOfMilitaryAge rdf:ID='A15207'>504342</NS0:malesOfMilitaryAge>
+    <NS0:malesFitForMilitaryService rdf:ID='A15210'>269251</NS0:malesFitForMilitaryService>
+    <NS0:malesReachingMilitaryAgeAnnually rdf:ID='A15213'>21167</NS0:malesReachingMilitaryAgeAnnually>
+    <NS0:internationalDispute>refugee issue over the presence in Nepal of approximately 98,700 Bhutanese refugees, 90% of whom are in seven United Nations Office of the High Commissioner for Refugees camps</NS0:internationalDispute>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/bt-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/bt-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/bt-map.jpg</NS0:map>
+    <NS0:border rdf:resource='#A120515'/>
+    <NS0:border rdf:resource='#A120520'/>
+    <NS0:exportPartner rdf:resource='#A120525'/>
+    <NS0:exportPartner rdf:resource='#A120530'/>
+    <NS0:importPartner rdf:resource='#A120534'/>
+    <NS0:importPartner rdf:resource='#A120539'/>
+    <NS0:importPartner rdf:resource='#A120543'/>
+    <NS0:importPartner rdf:resource='#A120547'/>
+    <NS0:importPartner rdf:resource='#A120551'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15034'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15199'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>914</NS0:minRunway>
+    <NS0:maxRunway>1523</NS0:maxRunway>
+    <NS0:count>1 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15123'>
+    <NS0:note>to India</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15192'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>1524</NS0:minRunway>
+    <NS0:maxRunway>2437</NS0:maxRunway>
+    <NS0:count>1 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14996'>
+    <rdf:type rdf:resource='#District'/>
+    <NS0:name>Wangdi Phodrang</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15185'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>none</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15070'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1996</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#District'>
+    <rdf:type rdf:resource='http://www.w3.org/2000/01/rdf-schema#Class'/>
+    <rdfs:subClassOf rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AdministrativeDivision'/>
+    <rdfs:label>District</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14992'>
+    <rdf:type rdf:resource='#District'/>
+    <NS0:name>Tongsa</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14988'>
+    <rdf:type rdf:resource='#District'/>
+    <NS0:name>Thimphu</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14795'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Kula Kangri</NS0:name>
+    <NS0:elevation>7553</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14984'>
+    <rdf:type rdf:resource='#District'/>
+    <NS0:name>Tashigang</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14790'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Drangme Chhu</NS0:name>
+    <NS0:elevation>97</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14869'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15210'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14980'>
+    <rdf:type rdf:resource='#District'/>
+    <NS0:name>Shemgang</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14828'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14976'>
+    <rdf:type rdf:resource='#District'/>
+    <NS0:name>Samdrup Jongkhar</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15133'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>c.i.f., 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15179'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14972'>
+    <rdf:type rdf:resource='#District'/>
+    <NS0:name>Samchi</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14968'>
+    <rdf:type rdf:resource='#District'/>
+    <NS0:name>Punakha</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14775'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>27.5</NS0:latitude>
+    <NS0:longitude>90.5</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15156'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#rice'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14964'>
+    <rdf:type rdf:resource='#District'/>
+    <NS0:name>Pemagatsel</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15174'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15152'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#fabrics'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14960'>
+    <rdf:type rdf:resource='#District'/>
+    <NS0:name>Paro</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15082'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15148'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#vehicles'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14956'>
+    <rdf:type rdf:resource='#District'/>
+    <NS0:name>Mongar</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15189'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15213'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15144'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#machinery_and_parts'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14952'>
+    <rdf:type rdf:resource='#District'/>
+    <NS0:name>Lhuntshi</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15140'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#grain'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14948'>
+    <rdf:type rdf:resource='#District'/>
+    <NS0:name>Ha</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14915'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1995</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15136'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#fuel_and_lubricants'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14944'>
+    <rdf:type rdf:resource='#District'/>
+    <NS0:name>Geylegphug</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14825'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14831'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14940'>
+    <rdf:type rdf:resource='#District'/>
+    <NS0:name>Daga</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15129'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#spices'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14936'>
+    <rdf:type rdf:resource='#District'/>
+    <NS0:name>Chirang</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15125'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#precious_stones'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14932'>
+    <rdf:type rdf:resource='#District'/>
+    <NS0:name>Chhukha</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15120'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#electricity'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14928'>
+    <rdf:type rdf:resource='#District'/>
+    <NS0:name>Bumthang</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15084'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A120551'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#US'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15116'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#fruit'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14863'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A120547'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#GM'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14921'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CapitalCity'/>
+    <NS0:name>Thimphu</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15112'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#cement'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A120543'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#UK'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15108'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#handicrafts'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A120539'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#JA'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15160'>
+    <NS0:year>1998</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15104'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#timber'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15207'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A120534'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#IN'/>
+    <NS0:percent>77</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15078'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15100'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#gypsum'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14908'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Nepalese_speak_various_Nepalese_dialects'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15080'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A120530'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#BG'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15096'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#cardamom'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14904'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Bhotes_speak_various_Tibetan_dialects'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15183'>
+    <NS0:year>1996</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A15042'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A120525'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#IN'/>
+    <NS0:percent>94</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A14899'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Dzongkha'/>
+  </rdf:Description>
+</rdf:RDF>

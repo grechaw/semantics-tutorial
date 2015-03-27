@@ -1,0 +1,202 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Stefan_Kießling	foaf:primaryTopic	<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Bayer_04_Leverkusen__Stefan_Kie%C3%9Fling__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Bayer_04_Leverkusen	dbpprop:name	<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling> .
+<http://dbpedia.org/resource/2011%E2%80%9312_Bayer_04_Leverkusen_season>	dbpprop:leagueTopscorer	<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling> ;
+	dbpprop:seasonTopscorer	<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling> .
+<http://dbpedia.org/resource/2005%E2%80%9306_1._FC_N%C3%BCrnberg_season>	dbpprop:motm	<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling> .
+<http://dbpedia.org/resource/2011%E2%80%9312_1._FC_N%C3%BCrnberg_season>	dbpprop:motm	<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling> .
+<http://dbpedia.org/resource/2012%E2%80%9313_Bayer_04_Leverkusen_season>	dbpprop:leagueTopscorer	<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling> ;
+	dbpprop:seasonTopscorer	<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling>	rdf:type	yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople .
+@prefix ns7:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling>	rdf:type	ns7:Q5 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling>	rdf:type	dul:Agent ,
+		dul:NaturalPerson ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Person ,
+		<http://dbpedia.org/class/yago/1.FCNurembergPlayers> ,
+		yago:Forward110105733 ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:GermanyUnder-21InternationalFootballers ,
+		ns7:Q215627 ,
+		yago:GermanyInternationalFootballers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling>	rdf:type	owl:Thing ,
+		yago:Whole100003553 ,
+		yago:AssociationFootballForwards ,
+		yago:BasketballPlayer109842047 ,
+		yago:Object100002684 ,
+		yago:Bayer04LeverkusenPlayers ,
+		<http://dbpedia.org/class/yago/PeopleFromLichtenfels,Bavaria> ,
+		<http://dbpedia.org/class/yago/Fu%C3%9Fball-BundesligaPlayers> ,
+		yago:GermanFootballers ,
+		yago:GermanyBInternationalFootballers ,
+		<http://dbpedia.org/class/yago/2.Fu%C3%9Fball-BundesligaPlayers> ,
+		yago:PhysicalEntity100001930 ,
+		yago:Contestant109613191 .
+@prefix ns10:	<http://schema.org/> .
+<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling>	rdf:type	ns10:Person ,
+		yago:Player110439851 ,
+		yago:Athlete109820263 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:FootballPlayer110101634 ,
+		foaf:Person ,
+		dbpedia-owl:Athlete .
+@prefix ns11:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling>	rdf:type	ns11:SoccerPlayer .
+@prefix ns12:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling>	owl:sameAs	ns12:Stefan_Kießling ,
+		<http://rdf.freebase.com/ns/m.027lkhs> ,
+		<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling>	rdfs:label	"\u65AF\u7279\u51E1\u00B7\u57FA\u65AF\u6797"@zh ,
+		"\u0634\u062A\u064A\u0641\u0627\u0646 \u0643\u064A\u0633\u0644\u064A\u0646\u063A"@ar ,
+		"Stefan Kie\u00DFling"@fr ,
+		"Stefan Kie\u00DFling"@pt ,
+		"Stefan Kie\u00DFling" ,
+		"Stefan Kie\u00DFling"@nl ,
+		"Stefan Kie\u00DFling"@pl ,
+		"Stefan Kie\u00DFling"@es ,
+		"\u30B7\u30E5\u30C6\u30D5\u30A1\u30F3\u30FB\u30AD\u30FC\u30B9\u30EA\u30F3\u30B0"@ja ,
+		"\u041A\u0438\u0441\u0441\u043B\u0438\u043D\u0433, \u0428\u0442\u0435\u0444\u0430\u043D"@ru ,
+		"Stefan Kie\u00DFling"@it ,
+		"Stefan Kie\u00DFling"@de .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling>	dcterms:subject	<http://dbpedia.org/resource/Category:1984_births> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling>	dcterms:subject	category:Germany_international_footballers ,
+		category:Germany_under-21_international_footballers ,
+		category:Germany_B_international_footballers ,
+		category:Bayer_04_Leverkusen_players ,
+		category:Bundesliga_players ,
+		category:German_footballers ,
+		<http://dbpedia.org/resource/Category:2._Bundesliga_players> ,
+		category:Living_people ,
+		category:Association_football_forwards ,
+		<http://dbpedia.org/resource/Category:People_from_Lichtenfels,_Bavaria> ,
+		<http://dbpedia.org/resource/Category:1._FC_N%C3%BCrnberg_players> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Stefan_Kie\u00DFling,_Bayer_04_Leverkusen.JPG> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling>	dc:description	"German footballer" ,
+		"German footballer" ;
+	foaf:givenName	"Stefan" ;
+	foaf:name	"Stefan Kie\u00DFling" ,
+		"Kie\u00DFling, Stefan" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Stefan_Kie\u00DFling?oldid=605375129> ;
+	rdfs:comment	"\u0627\u0634\u062A\u064A\u0641\u0627\u0646 \u0643\u064A\u0633\u0644\u064A\u0646\u063A (\u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629: Stefan Kie\u00DFling) \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F (25 \u064A\u0646\u0627\u064A\u0631 1984 \u0641\u064A \u0628\u0627\u0641\u0627\u0631\u064A\u0627) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0623\u0644\u0645\u0627\u0646\u064A \u064A\u0644\u0639\u0628 \u0644\u0646\u0627\u062F\u064A \u0628\u0627\u064A\u0631 \u0644\u064A\u0641\u0631\u0643\u0648\u0632\u0646 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0645\u0646\u0630 2006 \u0641\u064A \u0645\u0631\u0643\u0632 \u0645\u0647\u0627\u062C\u0645."@ar ,
+		"Stefan Kie\u00DFling (* 25. Januar 1984 in Lichtenfels, Oberfranken) ist ein deutscher Fu\u00DFballspieler, der seit der Saison 2006/07 bei Bayer Leverkusen unter Vertrag steht. Im Verein agiert Kie\u00DFling als Mittelst\u00FCrmer, kam in der Vergangenheit aber auch als Fl\u00FCgelspieler zum Einsatz."@de ,
+		"Stefan Kie\u00DFling naci\u00F3 el (25 de enero de 1984 en Lichtenfels, Alemania) y es un futbolista alem\u00E1n que actualmente juega en el Bayer Leverkusen y en la selecci\u00F3n Alemana. Fue el tercer m\u00E1ximo goleador de la Copa UEFA 2007-08 por detr\u00E1s de Luca Toni y Pavel Pogrebnyak con 7 goles."@es ,
+		"Stefan Kie\u00DFling (Lichtenfels, 25 de janeiro de 1984) \u00E9 um futebolista alem\u00E3o. Atualmente, joga pelo Bayer Leverkusen."@pt ,
+		"Stefan Kie\u00DFling (ur. 25 stycznia 1984 w Lichtenfels) \u2013 niemiecki pi\u0142karz, graj\u0105cy na pozycji napastnika."@pl ,
+		"Stefan Kie\u00DFling (Lichtenfels, 25 januari 1984) is een Duits betaald voetballer die als aanvaller speelt. Hij speelt sinds 2006 voor Bayer Leverkusen en verzamelde sindsdien ook enkele caps voor Duitsland."@nl ,
+		"Stefan Kie\u00DFling, scritto anche Kiessling (Lichtenfels, 25 gennaio 1984), \u00E8 un calciatore tedesco attaccante del Bayer Leverkusen e della nazionale tedesca."@it ,
+		"Stefan Kie\u00DFling est un footballeur international allemand n\u00E9 le 25 janvier 1984 \u00E0 Lichtenfels (Bavi\u00E8re) et \u00E9volue actuellement au Bayer Leverkusen au poste d'attaquant.Meilleur buteur de la Bundesliga lors de la saison 2012-2013, cet attaquant international allemand a fait partie de l'\u00C9quipe d'Allemagne de football qui a fini troisi\u00E8me de la Coupe du monde de football de 2010. Il a un fils nomm\u00E9 Tayler qui est n\u00E9 en 2008."@fr ,
+		"Stefan Kie\u00DFling (German pronunciation: [\u02C8\u0283t\u025Bfan \u02C8ki\u02D0sl\u026A\u014B]) (born 25 January 1984) is a German footballer who plays as a striker for Bayer Leverkusen. He has also represented the German national team six times." ,
+		"\u30B7\u30E5\u30C6\u30D5\u30A1\u30F3\u30FB\u30AD\u30FC\u30B9\u30EA\u30F3\u30B0\uFF08Stefan Kie\u00DFling\u3001\u30C9\u30A4\u30C4\u8A9E\u767A\u97F3: [\u02C8\u0283t\u025Bfan \u02C8ki\u02D0sl\u026A\u014B]\u30011984\u5E741\u670825\u65E5 - \uFF09\u306F\u3001\u30C9\u30A4\u30C4\u30FB\u30EA\u30D2\u30C6\u30F3\u30D5\u30A7\u30EB\u30B9\u51FA\u8EAB\u306E\u540C\u56FD\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30D6\u30F3\u30C7\u30B9\u30EA\u30FC\u30AC\u30FB\u30D0\u30A4\u30A8\u30EB\u30FB\u30EC\u30D0\u30FC\u30AF\u30FC\u30BC\u30F3\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9\u3002\u59D3\u306F\u30AD\u30FC\u30B9\u30EA\u30F3\u30AF\u3068\u8868\u8A18\u3055\u308C\u308B\u5834\u5408\u3082\u3042\u308B\u304C\u3001\u5B9F\u969B\u306E\u30C9\u30A4\u30C4\u8A9E\u306E\u767A\u97F3\u306B\u8FD1\u3044\u306E\u306F\u30AD\u30FC\u30B9\u30EA\u30F3\u30B0\u3067\u3042\u308B\u3002"@ja ,
+		"\u0428\u0442\u0435\u0301\u0444\u0430\u043D \u041A\u0438\u0301\u0441\u0441\u043B\u0438\u043D\u0433 (\u043D\u0435\u043C. Stefan Kie\u00DFling; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 25 \u044F\u043D\u0432\u0430\u0440\u044F 1984, \u041B\u0438\u0445\u0442\u0435\u043D\u0444\u0435\u043B\u044C\u0441) \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439 \u043B\u0435\u0432\u0435\u0440\u043A\u0443\u0437\u0435\u043D\u0441\u043A\u043E\u0433\u043E \u00AB\u0411\u0430\u0439\u0435\u0440\u0430\u00BB.\u0417\u0430 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0443\u044E \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u0434\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B 28 \u043C\u0430\u0440\u0442\u0430 2007 \u0433\u043E\u0434\u0430 \u0432 \u0442\u043E\u0432\u0430\u0440\u0438\u0449\u0435\u0441\u043A\u043E\u043C \u043C\u0430\u0442\u0447\u0435 \u043F\u0440\u043E\u0442\u0438\u0432 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0414\u0430\u043D\u0438\u0438."@ru ,
+		"\u65AF\u7279\u51E1\u00B7\u57FA\u65AF\u6797\uFF08\u5FB7\u8BED\uFF1AStefan Kie\u00DFling\uFF0C1984\u5E741\u670825\u65E5\uFF0D\uFF09\u662F\u4E00\u540D\u5FB7\u570B\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u64D4\u4EFB\u524D\u92D2\uFF0C\u73FE\u6642\u6548\u529B\u5FB7\u7532\u7403\u6703\u5229\u83EF\u53E4\u905C\u3002\u5091\u65AF\u5BE7\u57282007\u5E743\u670828\u65E5\u9996\u6B21\u4EE3\u8868\u5FB7\u570B\u570B\u5BB6\u8DB3\u7403\u968A\u4E0A\u9663\uFF0C\u8A72\u5834\u662F\u5C0D\u4E39\u9EA5\u7684\u53CB\u8ABC\u8CFD\u3002\u5091\u65AF\u5BE7\u57282007-08\u8CFD\u5B63\u6B50\u6D32\u8DB3\u5354\u76C3\u70BA\u5229\u83EF\u53E4\u905C\u9032\u4E86\u4E03\u7403\uFF0C\u7DCA\u96A8\u76E7\u5361\u00B7\u6771\u5C3C\u548C\u666E\u57FA\u5C3C\u8036\u514B\u4E4B\u5F8C\uFF0C\u662F\u795E\u5C04\u624B\u699C\u524D\u4E09\u540D\u3002"@zh ;
+	foaf:surname	"Kie\u00DFling" ;
+	foaf:isPrimaryTopicOf	ns1:Stefan_Kießling .
+@prefix ns18:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling>	dbpprop:hasPhotoCollection	ns18:Stefan_Kießling ;
+	dbpprop:caption	"Kie\u00DFling with Bayer Leverkusen in 2012" ;
+	dbpprop:name	"Stefan Kie\u00DFling" ,
+		"Kie\u00DFling, Stefan" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Stefan_Kie\u00DFling,_Bayer_04_Leverkusen.JPG?width=300> ;
+	dbpedia-owl:abstract	"\u0428\u0442\u0435\u0301\u0444\u0430\u043D \u041A\u0438\u0301\u0441\u0441\u043B\u0438\u043D\u0433 (\u043D\u0435\u043C. Stefan Kie\u00DFling; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 25 \u044F\u043D\u0432\u0430\u0440\u044F 1984, \u041B\u0438\u0445\u0442\u0435\u043D\u0444\u0435\u043B\u044C\u0441) \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439 \u043B\u0435\u0432\u0435\u0440\u043A\u0443\u0437\u0435\u043D\u0441\u043A\u043E\u0433\u043E \u00AB\u0411\u0430\u0439\u0435\u0440\u0430\u00BB.\u0417\u0430 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0443\u044E \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u0434\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B 28 \u043C\u0430\u0440\u0442\u0430 2007 \u0433\u043E\u0434\u0430 \u0432 \u0442\u043E\u0432\u0430\u0440\u0438\u0449\u0435\u0441\u043A\u043E\u043C \u043C\u0430\u0442\u0447\u0435 \u043F\u0440\u043E\u0442\u0438\u0432 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0414\u0430\u043D\u0438\u0438."@ru ,
+		"Stefan Kie\u00DFling (German pronunciation: [\u02C8\u0283t\u025Bfan \u02C8ki\u02D0sl\u026A\u014B]) (born 25 January 1984) is a German footballer who plays as a striker for Bayer Leverkusen. He has also represented the German national team six times." ,
+		"Stefan Kie\u00DFling naci\u00F3 el (25 de enero de 1984 en Lichtenfels, Alemania) y es un futbolista alem\u00E1n que actualmente juega en el Bayer Leverkusen y en la selecci\u00F3n Alemana. Fue el tercer m\u00E1ximo goleador de la Copa UEFA 2007-08 por detr\u00E1s de Luca Toni y Pavel Pogrebnyak con 7 goles."@es ,
+		"\u65AF\u7279\u51E1\u00B7\u57FA\u65AF\u6797\uFF08\u5FB7\u8BED\uFF1AStefan Kie\u00DFling\uFF0C1984\u5E741\u670825\u65E5\uFF0D\uFF09\u662F\u4E00\u540D\u5FB7\u570B\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u64D4\u4EFB\u524D\u92D2\uFF0C\u73FE\u6642\u6548\u529B\u5FB7\u7532\u7403\u6703\u5229\u83EF\u53E4\u905C\u3002\u5091\u65AF\u5BE7\u57282007\u5E743\u670828\u65E5\u9996\u6B21\u4EE3\u8868\u5FB7\u570B\u570B\u5BB6\u8DB3\u7403\u968A\u4E0A\u9663\uFF0C\u8A72\u5834\u662F\u5C0D\u4E39\u9EA5\u7684\u53CB\u8ABC\u8CFD\u3002\u5091\u65AF\u5BE7\u57282007-08\u8CFD\u5B63\u6B50\u6D32\u8DB3\u5354\u76C3\u70BA\u5229\u83EF\u53E4\u905C\u9032\u4E86\u4E03\u7403\uFF0C\u7DCA\u96A8\u76E7\u5361\u00B7\u6771\u5C3C\u548C\u666E\u57FA\u5C3C\u8036\u514B\u4E4B\u5F8C\uFF0C\u662F\u795E\u5C04\u624B\u699C\u524D\u4E09\u540D\u3002"@zh ,
+		"Stefan Kie\u00DFling (Lichtenfels, 25 januari 1984) is een Duits betaald voetballer die als aanvaller speelt. Hij speelt sinds 2006 voor Bayer Leverkusen en verzamelde sindsdien ook enkele caps voor Duitsland."@nl ,
+		"\u30B7\u30E5\u30C6\u30D5\u30A1\u30F3\u30FB\u30AD\u30FC\u30B9\u30EA\u30F3\u30B0\uFF08Stefan Kie\u00DFling\u3001\u30C9\u30A4\u30C4\u8A9E\u767A\u97F3: [\u02C8\u0283t\u025Bfan \u02C8ki\u02D0sl\u026A\u014B]\u30011984\u5E741\u670825\u65E5 - \uFF09\u306F\u3001\u30C9\u30A4\u30C4\u30FB\u30EA\u30D2\u30C6\u30F3\u30D5\u30A7\u30EB\u30B9\u51FA\u8EAB\u306E\u540C\u56FD\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30D6\u30F3\u30C7\u30B9\u30EA\u30FC\u30AC\u30FB\u30D0\u30A4\u30A8\u30EB\u30FB\u30EC\u30D0\u30FC\u30AF\u30FC\u30BC\u30F3\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9\u3002\u59D3\u306F\u30AD\u30FC\u30B9\u30EA\u30F3\u30AF\u3068\u8868\u8A18\u3055\u308C\u308B\u5834\u5408\u3082\u3042\u308B\u304C\u3001\u5B9F\u969B\u306E\u30C9\u30A4\u30C4\u8A9E\u306E\u767A\u97F3\u306B\u8FD1\u3044\u306E\u306F\u30AD\u30FC\u30B9\u30EA\u30F3\u30B0\u3067\u3042\u308B\u3002"@ja ,
+		"\u0627\u0634\u062A\u064A\u0641\u0627\u0646 \u0643\u064A\u0633\u0644\u064A\u0646\u063A (\u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629: Stefan Kie\u00DFling) \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F (25 \u064A\u0646\u0627\u064A\u0631 1984 \u0641\u064A \u0628\u0627\u0641\u0627\u0631\u064A\u0627) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0623\u0644\u0645\u0627\u0646\u064A \u064A\u0644\u0639\u0628 \u0644\u0646\u0627\u062F\u064A \u0628\u0627\u064A\u0631 \u0644\u064A\u0641\u0631\u0643\u0648\u0632\u0646 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0645\u0646\u0630 2006 \u0641\u064A \u0645\u0631\u0643\u0632 \u0645\u0647\u0627\u062C\u0645."@ar ,
+		"Stefan Kie\u00DFling, scritto anche Kiessling (Lichtenfels, 25 gennaio 1984), \u00E8 un calciatore tedesco attaccante del Bayer Leverkusen e della nazionale tedesca."@it ,
+		"Stefan Kie\u00DFling (ur. 25 stycznia 1984 w Lichtenfels) \u2013 niemiecki pi\u0142karz, graj\u0105cy na pozycji napastnika."@pl ,
+		"Stefan Kie\u00DFling est un footballeur international allemand n\u00E9 le 25 janvier 1984 \u00E0 Lichtenfels (Bavi\u00E8re) et \u00E9volue actuellement au Bayer Leverkusen au poste d'attaquant.Meilleur buteur de la Bundesliga lors de la saison 2012-2013, cet attaquant international allemand a fait partie de l'\u00C9quipe d'Allemagne de football qui a fini troisi\u00E8me de la Coupe du monde de football de 2010. Il a un fils nomm\u00E9 Tayler qui est n\u00E9 en 2008."@fr ,
+		"Stefan Kie\u00DFling (Lichtenfels, 25 de janeiro de 1984) \u00E9 um futebolista alem\u00E3o. Atualmente, joga pelo Bayer Leverkusen."@pt ,
+		"Stefan Kie\u00DFling (* 25. Januar 1984 in Lichtenfels, Oberfranken) ist ein deutscher Fu\u00DFballspieler, der seit der Saison 2006/07 bei Bayer Leverkusen unter Vertrag steht. Im Verein agiert Kie\u00DFling als Mittelst\u00FCrmer, kam in der Vergangenheit aber auch als Fl\u00FCgelspieler zum Einsatz."@de ;
+	dbpedia-owl:wikiPageID	8839169 ;
+	dbpedia-owl:wikiPageRevisionID	605375129 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling>	dbpprop:birthDate	"1984-01-25+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Lichtenfels, West Germany" ;
+	dbpprop:dateOfBirth	"1984-01-25+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Lichtenfels, Bavaria, West Germany" ;
+	dbpprop:shortDescription	"German footballer" ;
+	dbpedia-owl:birthDate	"1984-01-25+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	<http://dbpedia.org/resource/Lichtenfels,_Bavaria> ;
+	dbpedia-owl:birthYear	"1984+02:00"^^xsd:gYear ;
+	dbpprop:goals	15 ,
+		111 ;
+	dbpprop:caps	247 ,
+		73 ;
+	dbpprop:years	2003 ,
+		2006 ;
+	dbpprop:youthclubs	1 ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling__2> ,
+		<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling__7> ,
+		<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling__4> ,
+		<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling__3> ,
+		<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling__1> ,
+		<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling__5> ,
+		<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling__6> ;
+	dbpprop:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:height	1.9099999999999999201 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling>	ns21:height	"191.0"^^ns20:centimetre ;
+	dbpprop:currentclub	dbpedia:Bayer_04_Leverkusen ;
+	dbpprop:clubnumber	11 ;
+	dbpprop:fullname	"Stefan Kie\u00DFling" ;
+	dbpprop:clubs	dbpedia:Bayer_04_Leverkusen ,
+		1 ;
+	dbpedia-owl:team	dbpedia:Germany_national_youth_football_team ,
+		dbpedia:Bayer_04_Leverkusen ,
+		<http://dbpedia.org/resource/1._FC_N%C3%BCrnberg> ,
+		dbpedia:Germany_national_football_B_team ,
+		dbpedia:FC_Eintracht_Bamberg ,
+		dbpedia:Germany_national_under-21_football_team .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:pcupdate	"2014-03-26+02:00"^^xsd:date ;
+	dbpprop:youthyears	2001 ,
+		1988 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.kicker.de/news/fussball/bundesliga/vereine/2011-12/29567/vereinsspieler_stefan-kiessling.html> ,
+		<http://www.leverkusen.com/whoiswho/whoiswho.php4?view=Kiesslin> ;
+	dbpprop:nationalcaps	15 ,
+		6 ,
+		1 ;
+	dbpprop:nationalgoals	0 ,
+		4 ;
+	dbpprop:nationalteam	dbpedia:Germany_national_youth_football_team ,
+		dbpedia:Germany_national_football_B_team ,
+		dbpedia:Germany_national_football_team ,
+		dbpedia:Germany_national_under-21_football_team ;
+	dbpprop:nationalyears	2004 ,
+		2005 ,
+		2007 ,
+		2003 ;
+	dbpedia-owl:number	11 .
+<http://dbpedia.org/resource/2013%E2%80%9314_FC_Shakhtar_Donetsk_season>	dbpprop:motm	<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling> .
+<http://dbpedia.org/resource/Kie%C3%9Fling>	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling> .
+<http://dbpedia.org/resource/2012%E2%80%9313_Bundesliga>	dbpprop:leagueTopscorer	<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling> .
+dbpedia:Stefan_Kießling	owl:sameAs	<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling> .
+dbpedia:Stefan_Kiessling	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Stefan_Kie%C3%9Fling> .

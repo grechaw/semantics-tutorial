@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xml:base="http://www.daml.org/2001/12/factbook/wq">
+  <rdf:Description rdf:about='#A116559'>
+    <NS0:year>1998</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116572'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116581'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>2438</NS0:minRunway>
+    <NS0:maxRunway>3047</NS0:maxRunway>
+    <NS0:count>1 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116578'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116528'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>19.283333333333335</NS0:latitude>
+    <NS0:longitude>166.6</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116574'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>none; two offshore anchorages for large ships</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#WQ'>
+    <NS0:background>The US annexed Wake Island in 1899 for a cable station. An important air and naval base was constructed in 1940-41. In December 1941 the island was captured by the Japanese and held until the end of World War II. In subsequent years, Wake was developed as a stopover and refueling site for military and commercial aircraft transiting the Pacific. Since 1974, the island&apos;s airstrip has been used by the US military and some commercial cargo planes, as well as for emergency landings. There are over 700 landings a year on the island.</NS0:background>
+    <NS0:location>Oceania, atoll in the North Pacific Ocean, about two-thirds of the way from Hawaii to the Northern Mariana Islands</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A116528'/>
+    <NS0:mapReferences>Oceania</NS0:mapReferences>
+    <NS0:totalArea>6.5</NS0:totalArea>
+    <NS0:landArea>6.5</NS0:landArea>
+    <NS0:waterArea>0</NS0:waterArea>
+    <NS0:comparativeArea>about 11 times the size of The Mall in Washington, DC</NS0:comparativeArea>
+    <NS0:coastline>19.3</NS0:coastline>
+    <NS0:exclusiveEconomicZone>200</NS0:exclusiveEconomicZone>
+    <NS0:territorialSea>12</NS0:territorialSea>
+    <NS0:climate>tropical</NS0:climate>
+    <NS0:terrain>atoll of three coral islands built up on an underwater volcano; central lagoon is former crater, islands are part of the rim</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A116543'/>
+    <NS0:highestPoint rdf:resource='#A116548'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#none'/>
+    <NS0:arableLand>0</NS0:arableLand>
+    <NS0:permanentCrops>0</NS0:permanentCrops>
+    <NS0:permanentPastures>0</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>0</NS0:forestsAndWoodland>
+    <NS0:otherLandUse>100</NS0:otherLandUse>
+    <NS0:irrigatedLand rdf:ID='A116559'>0</NS0:irrigatedLand>
+    <NS0:naturalHazard>occasional typhoons</NS0:naturalHazard>
+    <NS0:environmentalIssue>NA</NS0:environmentalIssue>
+    <NS0:conventionalLongCountryName>none</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Wake Island</NS0:conventionalShortCountryName>
+    <NS0:dependencyStatus>unincorporated territory of the US; administered from Washington, DC, by the Department of the Interior; activities on the island are managed by the US Army under a US Air Force permit</NS0:dependencyStatus>
+    <NS0:legalSystem>the laws of the US, where applicable, apply</NS0:legalSystem>
+    <NS0:flagDescription>the flag of the US is used</NS0:flagDescription>
+    <NS0:economyOverview>Economic activity is limited to providing services to contractors located on the island. All food and manufactured goods must be imported.</NS0:economyOverview>
+    <NS0:telephoneSystemGeneralAssessment>satellite communications; 1 DSN circuit off the Overseas Telephone System (OTS)</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>NA</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>NA</NS0:telephoneSystemInternational>
+    <NS0:televisionBroadcastStations rdf:ID='A116572'>0</NS0:televisionBroadcastStations>
+    <NS0:port rdf:resource='#A116574'/>
+    <NS0:airports rdf:ID='A116578'>1</NS0:airports>
+    <NS0:airportBreakdown rdf:resource='#A116581'/>
+    <NS0:internationalDispute>claimed by Marshall Islands</NS0:internationalDispute>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/wq-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/wq-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/wq-map.jpg</NS0:map>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116548'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>unnamed location</NS0:name>
+    <NS0:elevation>6</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116543'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Pacific Ocean</NS0:name>
+    <NS0:elevation>0</NS0:elevation>
+  </rdf:Description>
+</rdf:RDF>

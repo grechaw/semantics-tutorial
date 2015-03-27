@@ -1,0 +1,117 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_de_Sealand_de_football	owl:sameAs	dbpedia:Sealand_national_football_team .
+@prefix ns3:	<http://wikidata.dbpedia.org/resource/> .
+ns3:Q862307	owl:sameAs	dbpedia:Sealand_national_football_team .
+@prefix ns4:	<http://es.dbpedia.org/resource/> .
+ns4:Selección_de_fútbol_de_Sealand	owl:sameAs	dbpedia:Sealand_national_football_team .
+@prefix ns5:	<http://it.dbpedia.org/resource/> .
+ns5:Selezione_di_calcio_del_Principato_di_Sealand	owl:sameAs	dbpedia:Sealand_national_football_team .
+@prefix ns6:	<http://ja.dbpedia.org/resource/> .
+ns6:サッカーシーランド代表	owl:sameAs	dbpedia:Sealand_national_football_team .
+@prefix ns7:	<http://pt.dbpedia.org/resource/> .
+ns7:Seleção_Sealandesa_de_Futebol	owl:sameAs	dbpedia:Sealand_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns9:	<http://en.wikipedia.org/wiki/> .
+ns9:Sealand_national_football_team	foaf:primaryTopic	dbpedia:Sealand_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbpedia:Sealand_national_football_team	rdf:type	owl:Thing .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Sealand_national_football_team	rdf:type	dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam .
+@prefix ns12:	<http://schema.org/> .
+dbpedia:Sealand_national_football_team	rdf:type	ns12:Organization ,
+		dbpedia-owl:Organisation .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Sealand_national_football_team	rdf:type	dul:SocialPerson ,
+		dbpedia-owl:Agent ,
+		dul:Agent ,
+		ns12:SportsTeam .
+@prefix ns14:	<http://nl.dbpedia.org/resource/> .
+dbpedia:Sealand_national_football_team	owl:sameAs	ns14:Sealands_voetbalelftal ,
+		ns4:Selección_de_fútbol_de_Sealand ,
+		ns1:Équipe_de_Sealand_de_football ,
+		dbpedia:Sealand_national_football_team ,
+		ns14:Voetbalelftal_van_Sealand ,
+		ns7:Seleção_Sealandesa_de_Futebol ,
+		ns6:サッカーシーランド代表 .
+@prefix ns15:	<http://ko.dbpedia.org/resource/> .
+dbpedia:Sealand_national_football_team	owl:sameAs	ns15:시랜드_축구_국가대표팀 ,
+		ns5:Selezione_di_calcio_del_Principato_di_Sealand ,
+		<http://rdf.freebase.com/ns/m.0jwztlk> .
+@prefix ns16:	<http://zh_yue.dbpedia.org/resource/> .
+dbpedia:Sealand_national_football_team	owl:sameAs	ns16:西崙足球代表隊 .
+@prefix ns17:	<http://wikidata.org/entity/> .
+dbpedia:Sealand_national_football_team	owl:sameAs	ns17:Q862307 ,
+		ns3:Q862307 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Sealand_national_football_team	rdfs:label	"Selecci\u00F3n de f\u00FAtbol de Sealand"@es ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u0438\u043B\u0435\u043D\u0434\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"Selezione di calcio del Principato di Sealand"@it ,
+		"Sealand national football team" ,
+		"Sele\u00E7\u00E3o Sealandesa de Futebol"@pt ,
+		"\u00C9quipe de Sealand de football"@fr ,
+		"\u30B5\u30C3\u30AB\u30FC\u30B7\u30FC\u30E9\u30F3\u30C9\u4EE3\u8868"@ja .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Sealand_national_football_team	dcterms:subject	category:European_national_and_official_selection-teams_not_affiliated_to_FIFA ,
+		category:Principality_of_Sealand ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Sealand_Coat_of_Arms.svg> ;
+	foaf:name	"Sealand national football team" ;
+	foaf:nick	"Seals" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Sealand_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Sealand_national_football_team?oldid=605664939> ;
+	rdfs:comment	"La Selezione di calcio del Principato di Sealand \u00E8 una rappresentativa calcistica non professionistica, non riconosciuta a livello nazionale ed internazionale, in quanto non affiliata n\u00E9 alla UEFA n\u00E9 alla FIFA. \u00C8 membro associato della NF-Board e rappresenta il Principato di Sealand."@it ,
+		"The Sealand national football team is the team that represents the Principality of Sealand. It is not a member of FIFA or UEFA, but is an associate member of the N.F.-Board, an organisation for teams who are not members of FIFA. They were admitted to the N.F.-Board as a provisional member in 2005 and as an associate member in 2006." ,
+		"\u30B5\u30C3\u30AB\u30FC\u30B7\u30FC\u30E9\u30F3\u30C9\u4EE3\u8868\uFF08\u30B5\u30C3\u30AB\u30FC\u30B7\u30FC\u30E9\u30F3\u30C9\u3060\u3044\u3072\u3087\u3046\uFF09\u306F\u3001\u4ED6\u56FD\u306B\u627F\u8A8D\u3055\u308C\u3066\u3044\u306A\u3044\u56FD\u5BB6\u3001\u30B7\u30FC\u30E9\u30F3\u30C9\u516C\u56FD\u306E\u30B5\u30C3\u30AB\u30FC\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u305D\u306E\u305F\u3081\u30B7\u30FC\u30E9\u30F3\u30C9\u4EE3\u8868\u306F\u3001FIFA\u3001UEFA\u306B\u52A0\u76DF\u3059\u308B\u4E8B\u304C\u51FA\u6765\u3066\u304A\u3089\u305A\u3001\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u3084\u3001UEFA\u6B27\u5DDE\u9078\u624B\u6A29\u306B\u53C2\u52A0\u3059\u308B\u4E8B\u306F\u51FA\u6765\u306A\u3044\u3002NF-Board\u306B\u6E96\u4F1A\u54E1\u3068\u3057\u3066\u52A0\u76DF\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"A Sele\u00E7\u00E3o Sealandesa de Futebol \u00E9 a sele\u00E7\u00E3o nacional de futebol de Sealand, microna\u00E7\u00E3o fundada em 2003. N\u00E3o \u00E9 membro da FIFA nem da UEFA, sendo membro da NF-Board."@pt ,
+		"La Selecci\u00F3n de f\u00FAtbol de Sealand es el equipo de dicha Micronaci\u00F3n. est\u00E1 representado por el club dan\u00E9s Vestbjerg Vintage Idr\u00E6tsforening.Dado que se trata de un pa\u00EDs no reconocido a nivel mundial no es miembro ni de la FIFA, ni de la UEFA, lo que los margina de los torneos internacionales. La selecci\u00F3n es miembro asociado de la NF-Board."@es ,
+		"L'\u00E9quipe de football de Sealand est une s\u00E9lection non reconnue internationalement, tout comme la principaut\u00E9 de Sealand. Suite \u00E0 un accord entre les \u00AB autorit\u00E9s \u00BB de Sealand et le club danois de Vestbjerg, ce dernier repr\u00E9sente la principaut\u00E9 dans les matchs internationaux. Elle n'est ni membre de la FIFA, ni de l'UEFA, mais de la Conf\u00E9d\u00E9ration des nouvelles f\u00E9d\u00E9rations europ\u00E9ennes (CNFE)."@fr .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Sealand_national_football_team	dbpprop:mostCaps	"Christian Gunn" ;
+	foaf:isPrimaryTopicOf	ns9:Sealand_national_football_team .
+@prefix ns23:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Sealand_national_football_team	dbpprop:hasPhotoCollection	ns23:Sealand_national_football_team ;
+	dbpprop:name	"Sealand national football team" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Sealand_Coat_of_Arms.svg?width=300> ;
+	dbpedia-owl:abstract	"La Selecci\u00F3n de f\u00FAtbol de Sealand es el equipo de dicha Micronaci\u00F3n. est\u00E1 representado por el club dan\u00E9s Vestbjerg Vintage Idr\u00E6tsforening.Dado que se trata de un pa\u00EDs no reconocido a nivel mundial no es miembro ni de la FIFA, ni de la UEFA, lo que los margina de los torneos internacionales. La selecci\u00F3n es miembro asociado de la NF-Board."@es ,
+		"\u30B5\u30C3\u30AB\u30FC\u30B7\u30FC\u30E9\u30F3\u30C9\u4EE3\u8868\uFF08\u30B5\u30C3\u30AB\u30FC\u30B7\u30FC\u30E9\u30F3\u30C9\u3060\u3044\u3072\u3087\u3046\uFF09\u306F\u3001\u4ED6\u56FD\u306B\u627F\u8A8D\u3055\u308C\u3066\u3044\u306A\u3044\u56FD\u5BB6\u3001\u30B7\u30FC\u30E9\u30F3\u30C9\u516C\u56FD\u306E\u30B5\u30C3\u30AB\u30FC\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u305D\u306E\u305F\u3081\u30B7\u30FC\u30E9\u30F3\u30C9\u4EE3\u8868\u306F\u3001FIFA\u3001UEFA\u306B\u52A0\u76DF\u3059\u308B\u4E8B\u304C\u51FA\u6765\u3066\u304A\u3089\u305A\u3001\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u3084\u3001UEFA\u6B27\u5DDE\u9078\u624B\u6A29\u306B\u53C2\u52A0\u3059\u308B\u4E8B\u306F\u51FA\u6765\u306A\u3044\u3002NF-Board\u306B\u6E96\u4F1A\u54E1\u3068\u3057\u3066\u52A0\u76DF\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"The Sealand national football team is the team that represents the Principality of Sealand. It is not a member of FIFA or UEFA, but is an associate member of the N.F.-Board, an organisation for teams who are not members of FIFA. They were admitted to the N.F.-Board as a provisional member in 2005 and as an associate member in 2006." ,
+		"La Selezione di calcio del Principato di Sealand \u00E8 una rappresentativa calcistica non professionistica, non riconosciuta a livello nazionale ed internazionale, in quanto non affiliata n\u00E9 alla UEFA n\u00E9 alla FIFA. \u00C8 membro associato della NF-Board e rappresenta il Principato di Sealand."@it ,
+		"A Sele\u00E7\u00E3o Sealandesa de Futebol \u00E9 a sele\u00E7\u00E3o nacional de futebol de Sealand, microna\u00E7\u00E3o fundada em 2003. N\u00E3o \u00E9 membro da FIFA nem da UEFA, sendo membro da NF-Board."@pt ,
+		"L'\u00E9quipe de football de Sealand est une s\u00E9lection non reconnue internationalement, tout comme la principaut\u00E9 de Sealand. Suite \u00E0 un accord entre les \u00AB autorit\u00E9s \u00BB de Sealand et le club danois de Vestbjerg, ce dernier repr\u00E9sente la principaut\u00E9 dans les matchs internationaux. Elle n'est ni membre de la FIFA, ni de l'UEFA, mais de la Conf\u00E9d\u00E9ration des nouvelles f\u00E9d\u00E9rations europ\u00E9ennes (CNFE)."@fr ;
+	dbpedia-owl:wikiPageID	14975074 ;
+	dbpedia-owl:wikiPageRevisionID	605664939 ;
+	dbpprop:topScorer	"Dan Smith" ,
+		"Ryan Moore" ,
+		"Sam Churchman" ;
+	dbpprop:coach	"Ed Stubbs" ;
+	dbpprop:association	dbpedia:Sealand_National_Football_Association ;
+	dbpprop:badgeSize	175 ;
+	dbpprop:body	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:confederation	<http://dbpedia.org/resource/N.F.-Board> ;
+	dbpprop:leftarm	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:patternB	"_whitestripeonright" ;
+	dbpprop:patternLa	"_white_hoops" ;
+	dbpprop:rightarm	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:shorts	"FF3333" ,
+		0 ;
+	dbpprop:socks	0 ;
+	dbpprop:badge	"Sealand_Coat_of_Arms.svg" ;
+	dbpprop:firstGame	25 ;
+	dbpprop:largestLoss	8 ;
+	dbpprop:largestWin	25 ;
+	dbpprop:nickname	"Seals" .
+dbpedia:Julian_Dicks	dbpedia-owl:managerClub	dbpedia:Sealand_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Sealand_national_football_team .
+ns14:Voetbalelftal_van_Sealand	owl:sameAs	dbpedia:Sealand_national_football_team .
+ns16:西崙足球代表隊	owl:sameAs	dbpedia:Sealand_national_football_team .
+dbpedia:Ralf_Little	dbpedia-owl:team	dbpedia:Sealand_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Sealand_national_football_team .
+dbpedia:Sealand	dbpedia-owl:wikiPageDisambiguates	dbpedia:Sealand_national_football_team .
+dbpedia:Ralf_Little__2	dbpedia-owl:team	dbpedia:Sealand_national_football_team .
+dbpedia:Julian_Dicks__10	dbpedia-owl:team	dbpedia:Sealand_national_football_team .

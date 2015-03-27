@@ -1,0 +1,248 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Jong_Tae-se	foaf:primaryTopic	dbpedia:Jong_Tae-se .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Jong_Tae-Se	dbpedia-owl:wikiPageRedirects	dbpedia:Jong_Tae-se .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Jong_Tae-se .
+dbpedia:Suwon_Samsung_Bluewings	dbpprop:name	dbpedia:Jong_Tae-se .
+dbpedia:List_of_German_football_transfers_summer_2010	dbpprop:name	dbpedia:Jong_Tae-se ;
+	dbpedia-owl:currentMember	dbpedia:Jong_Tae-se .
+<http://dbpedia.org/resource/2010%E2%80%9311_VfL_Bochum_season>	dbpprop:name	dbpedia:Jong_Tae-se ;
+	dbpprop:leagueTopscorer	dbpedia:Jong_Tae-se ;
+	dbpprop:seasonTopscorer	dbpedia:Jong_Tae-se .
+<http://dbpedia.org/resource/2011%E2%80%9312_VfL_Bochum_season>	dbpprop:name	dbpedia:Jong_Tae-se .
+<http://dbpedia.org/resource/2009_South_Korea_national_football_team_season>	dbpprop:away11player	dbpedia:Jong_Tae-se .
+dbpedia:Kim_Kwang-hyok	dbpprop:after	dbpedia:Jong_Tae-se .
+dbpedia:North_Korea_national_football_team	dbpprop:name	dbpedia:Jong_Tae-se .
+<http://dbpedia.org/resource/2008_East_Asian_Football_Championship_Final_squads>	dbpprop:name	dbpedia:Jong_Tae-se .
+<http://dbpedia.org/resource/2008_South_Korea_national_football_team_season>	dbpprop:home11player	dbpedia:Jong_Tae-se .
+dbpedia:Suwon_Samsung_Bluewings__Jong_Tae-Se__1	dbpedia-owl:currentMember	dbpedia:Jong_Tae-se .
+<http://dbpedia.org/resource/List_of_South_Korean_football_transfers_winter_2012%E2%80%9313>	dbpprop:name	dbpedia:Jong_Tae-se ;
+	dbpedia-owl:currentMember	dbpedia:Jong_Tae-se .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbpedia:Jong_Tae-se	rdf:type	owl:Thing .
+@prefix ns7:	<http://wikidata.dbpedia.org/resource/> .
+dbpedia:Jong_Tae-se	rdf:type	ns7:Q215627 ,
+		foaf:Person .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Jong_Tae-se	rdf:type	dul:Agent ,
+		ns7:Q5 ,
+		dbpedia-owl:Athlete ,
+		dbpedia-owl:SoccerPlayer ,
+		dul:NaturalPerson ,
+		dbpedia-owl:Person ,
+		dbpedia-owl:Agent .
+@prefix ns9:	<http://schema.org/> .
+dbpedia:Jong_Tae-se	rdf:type	ns9:Person .
+@prefix ns10:	<http://ja.dbpedia.org/resource/> .
+dbpedia:Jong_Tae-se	owl:sameAs	ns10:鄭大世 .
+@prefix ns11:	<http://de.dbpedia.org/resource/> .
+dbpedia:Jong_Tae-se	owl:sameAs	ns11:Jong_Tae-se .
+@prefix ns12:	<http://wikidata.org/entity/> .
+dbpedia:Jong_Tae-se	owl:sameAs	ns12:Q310673 .
+@prefix ns13:	<http://nl.dbpedia.org/resource/> .
+dbpedia:Jong_Tae-se	owl:sameAs	ns13:Jong_Tae-Se .
+@prefix ns14:	<http://pl.dbpedia.org/resource/> .
+dbpedia:Jong_Tae-se	owl:sameAs	ns14:Jong_Tae-se .
+@prefix ns15:	<http://pt.dbpedia.org/resource/> .
+dbpedia:Jong_Tae-se	owl:sameAs	ns15:Jong_Tae-Se ,
+		<http://rdf.freebase.com/ns/m.03cq469> .
+@prefix ns16:	<http://id.dbpedia.org/resource/> .
+dbpedia:Jong_Tae-se	owl:sameAs	ns16:Jong_Tae-se .
+@prefix ns17:	<http://ko.dbpedia.org/resource/> .
+dbpedia:Jong_Tae-se	owl:sameAs	ns17:정대세 ,
+		ns7:Q310673 .
+@prefix ns18:	<http://fr.dbpedia.org/resource/> .
+dbpedia:Jong_Tae-se	owl:sameAs	ns18:Jong_Tae-se ,
+		dbpedia:Jong_Tae-se .
+@prefix ns19:	<http://es.dbpedia.org/resource/> .
+dbpedia:Jong_Tae-se	owl:sameAs	ns19:Jong_Tae-se .
+@prefix ns20:	<http://it.dbpedia.org/resource/> .
+dbpedia:Jong_Tae-se	owl:sameAs	ns20:Jong_Tae-Se .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Jong_Tae-se	rdfs:label	"Jong Tae-Se"@nl ,
+		"Jong Tae-se"@pl ,
+		"Jong Tae-Se"@it ,
+		"Jong Tae-Se"@pt ,
+		"\u062C\u0648\u0646\u063A \u062A\u0627\u064A \u0633\u064A"@ar ,
+		"Jong Tae-se" ,
+		"\u912D\u5927\u4E16"@ja ,
+		"\u0427\u043E\u043D \u0422\u044D \u0421\u0435"@ru ,
+		"Jong Tae-se"@es ,
+		"Jong Tae-se"@de ,
+		"Jong Tae-se"@fr ,
+		"\u912D\u5927\u4E16"@zh .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Jong_Tae-se	dcterms:subject	category:North_Korean_expatriate_footballers ,
+		category:North_Korean_footballers ,
+		category:People_from_Nagoya ,
+		<http://dbpedia.org/resource/Category:1._FC_K%C3%B6ln_players> ,
+		category:Expatriate_footballers_in_Japan ,
+		<http://dbpedia.org/resource/Category:2._Bundesliga_players> ,
+		category:Bundesliga_players ,
+		category:Association_football_forwards ,
+		category:Kawasaki_Frontale_players ,
+		category:VfL_Bochum_players ,
+		category:North_Korea_international_footballers ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:1984_births> ,
+		category:K_League_players ,
+		category:Zainichi_Korean_people ,
+		category:Suwon_Samsung_Bluewings_players ,
+		category:North_Korean_expatriates_in_Japan ,
+		<http://dbpedia.org/resource/Category:J._League_Division_1_players> ,
+		category:North_Korean_expatriates_in_Germany ,
+		category:Expatriate_footballers_in_Germany ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2011_AFC_Asian_Cup_players> ,
+		category:Association_football_people_from_Aichi_Prefecture ;
+	foaf:homepage	<http://www.frontale.co.jp/profile/2009/mem_09.html> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Jong_Tae-Se.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Jong_Tae-se	dc:description	"Footballer" ,
+		"Footballer" ;
+	foaf:givenName	"Tae-Se" ;
+	foaf:name	"Chong Te Se(South Korea)" ,
+		"Jong Tae-Se (North Korea)" ,
+		"(\uC815\uB300\uC138)" ,
+		"Tae-Se Jong" ,
+		"Jong, Tae-Se" ,
+		"Chong Tese(Japan)" ,
+		"Jong Tae-Se" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Jong_Tae-se	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jong_Tae-se?oldid=603440314> ;
+	rdfs:comment	"Jong Tae-Se (hang\u016Dl \uC815\uB300\uC138?</span>, in giapponese Chong Tese \u912D\u5927\u4E16; Nagoya, 2 marzo 1984) \u00E8 un calciatore nordcoreano, attaccante del Suwon Bluewings e della Nazionale nordcoreana."@it ,
+		"\u912D \u5927\u4E16\uFF08\u30C1\u30E7\u30F3\u30FB\u30C6\u30BB\u3001\uC815\uB300\uC138\u30011984\u5E743\u67082\u65E5 - \uFF09\u306F\u3001\u671D\u9BAE\u6C11\u4E3B\u4E3B\u7FA9\u4EBA\u6C11\u5171\u548C\u56FD\uFF08\u5317\u671D\u9BAE\uFF09\u4EE3\u8868\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9 (FW) \u3002K\u30EA\u30FC\u30B0\u30AF\u30E9\u30B7\u30C3\u30AF(K\u30EA\u30FC\u30B01\u90E8)\u30FB\u6C34\u539F\u4E09\u661F\u30D6\u30EB\u30FC\u30A6\u30A3\u30F3\u30B0\u30B9\u6240\u5C5E\u3002\u97D3\u56FD\u7C4D\u3001\u611B\u77E5\u770C\u540D\u53E4\u5C4B\u5E02\u751F\u307E\u308C\u306E\u5728\u65E5\u30B3\u30EA\u30A2\u30F3\uFF083\u4E16\uFF09\u3002"@ja ,
+		"Jong Tae-se (* 2. M\u00E4rz 1984 in Nagoya, Japan) ist ein in Japan geborener und aufgewachsener nordkoreanischer Fu\u00DFballspieler s\u00FCdkoreanischer Abstammung, der seit dem Januar 2013 bei Suwon Samsung Bluewings unter Vertrag steht. Andere Transkriptionen seines Namens sind Ch\u014Fng Tae-se, Jeong Dae-se (\uC815\uB300\uC138) und, auf Japanisch, Chon Tese (\u30C1\u30E7\u30F3\u30FB\u30C6\u30BB)."@de ,
+		"Jong Tae-se (Chong Tese au Japon, Jeong Dae-Se en Cor\u00E9e du Sud, en Cor\u00E9en : \uC815\uB300\uC138) est un footballeur nord-cor\u00E9en n\u00E9 le 2 mars 1984 \u00E0 Nagoya au Japon."@fr ,
+		"Jong Tae-se (\uC815\uB300\uC138 en coreano; 2 de marzo de 1984 en Nagoya, Jap\u00F3n) es un futbolista norcoreano. Juega de delantero y su equipo actual es el Suwon Samsung Bluewings de la K-League Classic."@es ,
+		"\u062C\u0648\u0646\u063A \u062A\u0627\u064A \u0633\u064A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Jong Tae-Se) (\u0645\u0648\u0627\u0644\u064A\u062F 2 \u0645\u0627\u0631\u0633 1984 \u0641\u064A \u0646\u0627\u063A\u0648\u064A\u0627) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0648\u0631\u064A \u0634\u0645\u0627\u0644\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0628\u0648\u062E\u0648\u0645 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A"@ar ,
+		"Jong Tae-Se (romanization used by FIFA; hangul: \uC815\uB300\uC138; hanja: \u912D\u5927\u4E16; also spelled as Chong Tese (\u912D\u5927\u4E16; \u30C1\u30E7\u30F3\u30FB\u30C6\u30BB, Chon Tese) in Japan and Germany) born 2 March 1984 in Nagoya, Aichi Prefecture, Japan) is a North Korean footballer currently playing for Suwon Samsung Bluewings. He is a member of the North Korea national team. He was nicknamed \"the People's Rooney\" by the English press." ,
+		"\u90D1\u5927\u4E16\uFF08\u671D\u9BAE\u8A9E\uFF1A\uC815\uB300\uC138\uFF0C1984\u5E743\u67082\u65E5\uFF0D\uFF09\uFF0C\u51FA\u751F\u4E8E\u65E5\u672C\u7684\u671D\u9BAE\u6C11\u4E3B\u4E3B\u7FA9\u4EBA\u6C11\u5171\u548C\u570B\u548C\u5927\u97D3\u6C11\u570B\u7279\u6B8A\u53CC\u91CD\u56FD\u7C4D\u7684\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u662F\u4E00\u540D\u524D\u92D2\uFF0C\u73B0\u6548\u529B\u65BCK\u806F\u8CFD\u7403\u6703\u6C34\u539F\u85CD\u7FFC\u30022010\u5E74\u90D1\u5927\u4E16\u4EE3\u8868\u671D\u9BAE\u6C11\u4E3B\u4E3B\u7FA9\u4EBA\u6C11\u5171\u548C\u570B\u53C3\u52A0\u4E16\u754C\u76C3\u8DB3\u7403\u8CFD\uFF0C\u5728\u9996\u6B21\u4EAE\u76F8\u5531\u56FD\u6B4C\u65F6\u56E0\u6CEA\u6D41\u6EE1\u9762\u800C\u7ED9\u4E16\u4EBA\u6DF1\u523B\u7684\u5370\u8C61\uFF0C\u912D\u5927\u4E16\u5728\u4E16\u754C\u76C3\u6BD4\u8D5B\u4E2D\u8868\u73B0\u51FA\u8272\u8D62\u5F97\u4E86\u5BF9\u624B\u7684\u5C0A\u91CD\u3002\u90D1\u5927\u4E16\u7684\u8EAB\u4F53\u548C\u901F\u5EA6\u4FF1\u4F73\uFF0C\u5728\u671D\u9BAE\u88AB\u7A31\u70BA\u300C\u4EBA\u6C11\u7684\u9B6F\u5C3C\u300D\uFF08\uC778\uBBFC \uB8E8\uB2C8\uFF09\uFF0C\u800C\u5728\u65E5\u672C\u88AB\u7A31\u70BA\u300C\u4EBA\u8089\u63A8\u571F\u6A5F\u300D\uFF08\u4EBA\u9593\u30D6\u30EB\u30C9\u30FC\u30B6\u30FC\uFF09\u3002\u912D\u5927\u4E16\u5728\u4E16\u754C\u76C3\u5F8C\u7372\u5FB7\u4E59\u7403\u968A\u6CE2\u9E3F\u9080\u8ACB\u52A0\u76DF\uFF0C\u9996\u5EA6\u5728\u6B50\u6D32\u4F5C\u8CFD\u3002"@zh ,
+		"Jong Tae-se (kor. \uC815\uB300\uC138, ur. 2 marca 1984 w Nagoi) - pi\u0142karz p\u00F3\u0142nocnokorea\u0144ski graj\u0105cy na pozycji napastnika."@pl ,
+		"\u0427\u043E\u043D \u0422\u044D \u0421\u0435, \u043F\u043E-\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438 \u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u0435\u0435 \u0427\u043E\u043D \u0414\u044D \u0421\u0435 (\u043A\u043E\u0440. \uC815\uB300\uC138; 2 \u043C\u0430\u0440\u0442\u0430 1984, \u041D\u0430\u0433\u043E\u044F) \u2014 \u0441\u0435\u0432\u0435\u0440\u043E\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439 \u043A\u043B\u0443\u0431\u0430 \u00AB\u0421\u0443\u0432\u043E\u043D \u0411\u043B\u044E\u0443\u0438\u043D\u0433\u0437\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u041D\u0414\u0420."@ru ,
+		"Jong Tae-Se ou Jong Dae-Se (em coreano: \uC815\uB300\uC138; Hanja: \u912D\u5927\u4E16; em japon\u00EAs: Chong Tese; Nagoya, 2 de mar\u00E7o de 1984) \u00E9 um futebolista japon\u00EAs naturalizado norte-coreano que atua como atacante. Atualmente defende o Suwon, da Cor\u00E9ia do Sul.\u00C9 conhecido na \u00C1sia como Rooney Asi\u00E1tico."@pt ,
+		"Jong Tae-Se (Japans: Chong Tese, Zuid-Koreaans: Jeong Dae-S, Koreaans: \uC815\uB300\uC138) (Nagoya, 2 maart 1984) is een Noord-Koreaans betaald voetballer die bij voorkeur in de aanval speelt. Hij tekende in juli 2010 een tweejarig contract bij VfL Bochum met een optie voor nog een seizoen. In 2007 debuteerde hij in het Noord-Koreaans voetbalelftal. Jong Tae-Se draagt als bijnamen onder meer Pau-Pae To-Mi ('sneller dan de wind') en 'de Noord-Koreaanse Wayne Rooney'."@nl ;
+	foaf:surname	"Jong" ;
+	foaf:isPrimaryTopicOf	ns1:Jong_Tae-se ;
+	dbpprop:caption	"Jong Tae-Se at the match of North Korea against Brazil at the 2010 FIFA World Cup in Ellis Park Stadium." ;
+	dbpprop:name	"Jong, Tae-Se" ,
+		"Jong Tae-Se" ,
+		"(\uC815\uB300\uC138)" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Jong_Tae-Se.jpg?width=300> ;
+	dbpedia-owl:abstract	"Jong Tae-Se (romanization used by FIFA; hangul: \uC815\uB300\uC138; hanja: \u912D\u5927\u4E16; also spelled as Chong Tese (\u912D\u5927\u4E16; \u30C1\u30E7\u30F3\u30FB\u30C6\u30BB, Chon Tese) in Japan and Germany) born 2 March 1984 in Nagoya, Aichi Prefecture, Japan) is a North Korean footballer currently playing for Suwon Samsung Bluewings. He is a member of the North Korea national team. He was nicknamed \"the People's Rooney\" by the English press." ,
+		"Jong Tae-se (Chong Tese au Japon, Jeong Dae-Se en Cor\u00E9e du Sud, en Cor\u00E9en : \uC815\uB300\uC138) est un footballeur nord-cor\u00E9en n\u00E9 le 2 mars 1984 \u00E0 Nagoya au Japon."@fr ,
+		"Jong Tae-Se (hang\u016Dl \uC815\uB300\uC138?</span>, in giapponese Chong Tese \u912D\u5927\u4E16; Nagoya, 2 marzo 1984) \u00E8 un calciatore nordcoreano, attaccante del Suwon Bluewings e della Nazionale nordcoreana."@it ,
+		"\u0427\u043E\u043D \u0422\u044D \u0421\u0435, \u043F\u043E-\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438 \u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u0435\u0435 \u0427\u043E\u043D \u0414\u044D \u0421\u0435 (\u043A\u043E\u0440. \uC815\uB300\uC138; 2 \u043C\u0430\u0440\u0442\u0430 1984, \u041D\u0430\u0433\u043E\u044F) \u2014 \u0441\u0435\u0432\u0435\u0440\u043E\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439 \u043A\u043B\u0443\u0431\u0430 \u00AB\u0421\u0443\u0432\u043E\u043D \u0411\u043B\u044E\u0443\u0438\u043D\u0433\u0437\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u041D\u0414\u0420."@ru ,
+		"Jong Tae-se (* 2. M\u00E4rz 1984 in Nagoya, Japan) ist ein in Japan geborener und aufgewachsener nordkoreanischer Fu\u00DFballspieler s\u00FCdkoreanischer Abstammung, der seit dem Januar 2013 bei Suwon Samsung Bluewings unter Vertrag steht. Andere Transkriptionen seines Namens sind Ch\u014Fng Tae-se, Jeong Dae-se (\uC815\uB300\uC138) und, auf Japanisch, Chon Tese (\u30C1\u30E7\u30F3\u30FB\u30C6\u30BB). In der Bundesliga lief er unter dem Namen Chong Tese auf.Jong wird aufgrund seiner schnellen und kraftvollen Spielweise h\u00E4ufig mit dem englischen St\u00FCrmer Wayne Rooney verglichen und als \u201EWayne Rooney Asiens\u201C bezeichnet."@de ,
+		"Jong Tae-Se ou Jong Dae-Se (em coreano: \uC815\uB300\uC138; Hanja: \u912D\u5927\u4E16; em japon\u00EAs: Chong Tese; Nagoya, 2 de mar\u00E7o de 1984) \u00E9 um futebolista japon\u00EAs naturalizado norte-coreano que atua como atacante. Atualmente defende o Suwon, da Cor\u00E9ia do Sul.\u00C9 conhecido na \u00C1sia como Rooney Asi\u00E1tico."@pt ,
+		"Jong Tae-se (\uC815\uB300\uC138 en coreano; 2 de marzo de 1984 en Nagoya, Jap\u00F3n) es un futbolista norcoreano. Juega de delantero y su equipo actual es el Suwon Samsung Bluewings de la K-League Classic."@es ,
+		"\u90D1\u5927\u4E16\uFF08\u671D\u9BAE\u8A9E\uFF1A\uC815\uB300\uC138\uFF0C1984\u5E743\u67082\u65E5\uFF0D\uFF09\uFF0C\u51FA\u751F\u4E8E\u65E5\u672C\u7684\u671D\u9BAE\u6C11\u4E3B\u4E3B\u7FA9\u4EBA\u6C11\u5171\u548C\u570B\u548C\u5927\u97D3\u6C11\u570B\u7279\u6B8A\u53CC\u91CD\u56FD\u7C4D\u7684\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u662F\u4E00\u540D\u524D\u92D2\uFF0C\u73B0\u6548\u529B\u65BCK\u806F\u8CFD\u7403\u6703\u6C34\u539F\u85CD\u7FFC\u30022010\u5E74\u90D1\u5927\u4E16\u4EE3\u8868\u671D\u9BAE\u6C11\u4E3B\u4E3B\u7FA9\u4EBA\u6C11\u5171\u548C\u570B\u53C3\u52A0\u4E16\u754C\u76C3\u8DB3\u7403\u8CFD\uFF0C\u5728\u9996\u6B21\u4EAE\u76F8\u5531\u56FD\u6B4C\u65F6\u56E0\u6CEA\u6D41\u6EE1\u9762\u800C\u7ED9\u4E16\u4EBA\u6DF1\u523B\u7684\u5370\u8C61\uFF0C\u912D\u5927\u4E16\u5728\u4E16\u754C\u76C3\u6BD4\u8D5B\u4E2D\u8868\u73B0\u51FA\u8272\u8D62\u5F97\u4E86\u5BF9\u624B\u7684\u5C0A\u91CD\u3002\u90D1\u5927\u4E16\u7684\u8EAB\u4F53\u548C\u901F\u5EA6\u4FF1\u4F73\uFF0C\u5728\u671D\u9BAE\u88AB\u7A31\u70BA\u300C\u4EBA\u6C11\u7684\u9B6F\u5C3C\u300D\uFF08\uC778\uBBFC \uB8E8\uB2C8\uFF09\uFF0C\u800C\u5728\u65E5\u672C\u88AB\u7A31\u70BA\u300C\u4EBA\u8089\u63A8\u571F\u6A5F\u300D\uFF08\u4EBA\u9593\u30D6\u30EB\u30C9\u30FC\u30B6\u30FC\uFF09\u3002\u912D\u5927\u4E16\u5728\u4E16\u754C\u76C3\u5F8C\u7372\u5FB7\u4E59\u7403\u968A\u6CE2\u9E3F\u9080\u8ACB\u52A0\u76DF\uFF0C\u9996\u5EA6\u5728\u6B50\u6D32\u4F5C\u8CFD\u3002"@zh ,
+		"Jong Tae-se (kor. \uC815\uB300\uC138, ur. 2 marca 1984 w Nagoi) - pi\u0142karz p\u00F3\u0142nocnokorea\u0144ski graj\u0105cy na pozycji napastnika."@pl ,
+		"\u912D \u5927\u4E16\uFF08\u30C1\u30E7\u30F3\u30FB\u30C6\u30BB\u3001\uC815\uB300\uC138\u30011984\u5E743\u67082\u65E5 - \uFF09\u306F\u3001\u671D\u9BAE\u6C11\u4E3B\u4E3B\u7FA9\u4EBA\u6C11\u5171\u548C\u56FD\uFF08\u5317\u671D\u9BAE\uFF09\u4EE3\u8868\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9 (FW) \u3002K\u30EA\u30FC\u30B0\u30AF\u30E9\u30B7\u30C3\u30AF(K\u30EA\u30FC\u30B01\u90E8)\u30FB\u6C34\u539F\u4E09\u661F\u30D6\u30EB\u30FC\u30A6\u30A3\u30F3\u30B0\u30B9\u6240\u5C5E\u3002\u97D3\u56FD\u7C4D\u3001\u611B\u77E5\u770C\u540D\u53E4\u5C4B\u5E02\u751F\u307E\u308C\u306E\u5728\u65E5\u30B3\u30EA\u30A2\u30F3\uFF083\u4E16\uFF09\u3002"@ja ,
+		"\u062C\u0648\u0646\u063A \u062A\u0627\u064A \u0633\u064A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Jong Tae-Se) (\u0645\u0648\u0627\u0644\u064A\u062F 2 \u0645\u0627\u0631\u0633 1984 \u0641\u064A \u0646\u0627\u063A\u0648\u064A\u0627) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0648\u0631\u064A \u0634\u0645\u0627\u0644\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0628\u0648\u062E\u0648\u0645 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A"@ar ,
+		"Jong Tae-Se (Japans: Chong Tese, Zuid-Koreaans: Jeong Dae-S, Koreaans: \uC815\uB300\uC138) (Nagoya, 2 maart 1984) is een Noord-Koreaans betaald voetballer die bij voorkeur in de aanval speelt. Hij tekende in juli 2010 een tweejarig contract bij VfL Bochum met een optie voor nog een seizoen. In 2007 debuteerde hij in het Noord-Koreaans voetbalelftal. Jong Tae-Se draagt als bijnamen onder meer Pau-Pae To-Mi ('sneller dan de wind') en 'de Noord-Koreaanse Wayne Rooney'."@nl ;
+	dbpedia-owl:wikiPageID	13984209 ;
+	dbpedia-owl:wikiPageRevisionID	603440314 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Jong_Tae-se	dbpprop:birthDate	"1984-03-02+02:00"^^xsd:date ;
+	dbpprop:birthPlace	dbpedia:Japan ,
+		dbpedia:Nagoya ,
+		dbpedia:Aichi_Prefecture ;
+	dbpprop:dateOfBirth	"1984-03-02+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Nagoya, Aichi Prefecture, Japan" ;
+	dbpprop:shortDescription	"Footballer" ;
+	dbpedia-owl:birthDate	"1984-03-02+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Japan ,
+		dbpedia:Nagoya ,
+		dbpedia:Aichi_Prefecture ;
+	dbpedia-owl:birthYear	"1984+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	200 ;
+	dbpprop:color	"lightsteelblue" ;
+	dbpprop:after	dbpedia:Chan_Kin_Seng ;
+	dbpprop:before	dbpedia:Kim_Kwang-hyok ;
+	dbpprop:goals	0 ,
+		11 ,
+		14 ,
+		47 ;
+	dbpprop:caps	39 ,
+		10 ,
+		30 ,
+		112 ;
+	dbpprop:years	2006 ,
+		2012 ,
+		2013 ,
+		2010 ,
+		2008 ;
+	dbpprop:youthclubs	"Toshun Korean Middle School" ,
+		<http://dbpedia.org/resource/Korea_University_(Japan)> ,
+		"Aichi Korean High School" ;
+	dbpedia-owl:careerStation	dbpedia:Jong_Tae-se__3 ,
+		dbpedia:Jong_Tae-se__7 ,
+		dbpedia:Jong_Tae-se__8 ,
+		dbpedia:Jong_Tae-se__4 ,
+		dbpedia:Jong_Tae-se__6 ,
+		dbpedia:Jong_Tae-se__5 ,
+		dbpedia:Jong_Tae-se__2 ,
+		dbpedia:Jong_Tae-se__1 ;
+	dbpprop:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpprop:tablewidth	280 ;
+	dbpedia-owl:height	1.8100000000000000533 .
+@prefix ns27:	<http://dbpedia.org/datatype/> .
+@prefix ns28:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Jong_Tae-se	ns28:height	"181.0"^^ns27:centimetre ;
+	dbpprop:currentclub	dbpedia:Suwon_Samsung_Bluewings ;
+	dbpprop:clubnumber	14 ;
+	dbpprop:fullname	"Jong Tae-Se" ,
+		"Chong Te Se" ,
+		"Chong Tese" ;
+	dbpprop:clubs	1 ,
+		dbpedia:Suwon_Samsung_Bluewings ,
+		dbpedia:VfL_Bochum ,
+		dbpedia:Kawasaki_Frontale ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/Korea_University_(Japan)> ,
+		<http://dbpedia.org/resource/1._FC_K%C3%B6ln> ,
+		dbpedia:Suwon_Samsung_Bluewings ,
+		dbpedia:North_Korea_national_football_team ,
+		dbpedia:VfL_Bochum ,
+		dbpedia:Kawasaki_Frontale ;
+	dbpprop:title	"East Asian Football Championship Preliminary" ,
+		dbpedia:Korean_name ,
+		"Top Scorer" ;
+	dbpprop:pcupdate	"--04-09+02:00"^^xsd:gMonthDay ;
+	dbpprop:youthyears	2002 ,
+		1997 ,
+		1999 ;
+	dbpedia-owl:wikiPageExternalLink	<http://soccernet.espn.go.com/world-cup/columns/story?id=805405&cc=5739&ver=global> ,
+		<http://ameblo.jp/jongtaese9/> ,
+		<http://www.frontale.co.jp/profile/2009/mem_09.html> ,
+		<http://www.fifa.com/worldcup/news/newsid=736455.html> ;
+	dbpprop:rr	"Jeong Dae-se" ;
+	dbpprop:hangul	"\uC815\uB300\uC138" ;
+	dbpprop:mr	"Ch\u014Fng Tae-se" ;
+	dbpprop:nationalcaps	33 ;
+	dbpprop:nationalgoals	15 ;
+	dbpprop:nationalteam	dbpedia:North_Korea_national_football_team ;
+	dbpprop:nationalyears	2006 ;
+	dbpedia-owl:number	14 ;
+	dbpprop:hanja	"\u912D\u5927\u4E16" ;
+	dbpprop:ntupdate	"2011-11-15+02:00"^^xsd:date ;
+	dbpprop:context	"north" .
+dbpedia:Jong	dbpedia-owl:wikiPageDisambiguates	dbpedia:Jong_Tae-se .
+<http://dbpedia.org/resource/List_of_German_football_transfers_winter_2012%E2%80%9313>	dbpprop:name	dbpedia:Jong_Tae-se ;
+	dbpedia-owl:currentMember	dbpedia:Jong_Tae-se .
+<http://dbpedia.org/resource/List_of_German_football_transfers_winter_2011%E2%80%9312>	dbpprop:name	dbpedia:Jong_Tae-se ;
+	dbpedia-owl:currentMember	dbpedia:Jong_Tae-se .
+<http://dbpedia.org/resource/2011_AFC_Asian_Cup_squads>	dbpprop:name	dbpedia:Jong_Tae-se .
+dbpedia:Chan_Kin_Seng	dbpprop:before	dbpedia:Jong_Tae-se .
+<http://dbpedia.org/resource/2011%E2%80%9312_VfL_Bochum_season__Jong_Tae-Se__1>	dbpedia-owl:currentMember	dbpedia:Jong_Tae-se .
+<http://dbpedia.org/resource/2010%E2%80%9311_VfL_Bochum_season__Chong_Tese__1>	dbpedia-owl:currentMember	dbpedia:Jong_Tae-se .
+dbpedia:Chong_Tese	dbpedia-owl:wikiPageRedirects	dbpedia:Jong_Tae-se .
+dbpedia:Jeong_Dae_Se	dbpedia-owl:wikiPageRedirects	dbpedia:Jong_Tae-se .
+dbpedia:Jong_Tae_Se	dbpedia-owl:wikiPageRedirects	dbpedia:Jong_Tae-se .
+<http://dbpedia.org/resource/The_People\u0027s_Rooney>	dbpedia-owl:wikiPageRedirects	dbpedia:Jong_Tae-se .

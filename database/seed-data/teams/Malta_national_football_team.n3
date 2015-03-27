@@ -1,0 +1,939 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://de.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Maltesische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Malta_national_football_team .
+@prefix ns3:	<http://fr.dbpedia.org/resource/> .
+ns3:Équipe_de_Malte_de_football	owl:sameAs	dbpedia:Malta_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q188782	owl:sameAs	dbpedia:Malta_national_football_team .
+@prefix ns5:	<http://cs.dbpedia.org/resource/> .
+ns5:Maltská_fotbalová_reprezentace	owl:sameAs	dbpedia:Malta_national_football_team .
+<http://el.dbpedia.org/resource/\u0395\u03B8\u03BD\u03B9\u03BA\u03AE_\u039C\u03AC\u03BB\u03C4\u03B1\u03C2_(\u03C0\u03BF\u03B4\u03CC\u03C3\u03C6\u03B1\u03B9\u03C1\u03BF_\u03B1\u03BD\u03B4\u03C1\u03CE\u03BD)>	owl:sameAs	dbpedia:Malta_national_football_team .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Selección_de_fútbol_de_Malta	owl:sameAs	dbpedia:Malta_national_football_team .
+@prefix ns7:	<http://id.dbpedia.org/resource/> .
+ns7:Tim_nasional_sepak_bola_Malta	owl:sameAs	dbpedia:Malta_national_football_team .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Nazionale_di_calcio_di_Malta	owl:sameAs	dbpedia:Malta_national_football_team .
+@prefix ns9:	<http://ja.dbpedia.org/resource/> .
+ns9:サッカーマルタ代表	owl:sameAs	dbpedia:Malta_national_football_team .
+@prefix ns10:	<http://ko.dbpedia.org/resource/> .
+ns10:몰타_축구_국가대표팀	owl:sameAs	dbpedia:Malta_national_football_team .
+@prefix ns11:	<http://nl.dbpedia.org/resource/> .
+ns11:Maltees_voetbalelftal	owl:sameAs	dbpedia:Malta_national_football_team .
+@prefix ns12:	<http://pl.dbpedia.org/resource/> .
+ns12:Reprezentacja_Malty_w_piłce_nożnej	owl:sameAs	dbpedia:Malta_national_football_team .
+@prefix ns13:	<http://pt.dbpedia.org/resource/> .
+ns13:Seleção_Maltesa_de_Futebol	owl:sameAs	dbpedia:Malta_national_football_team .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Charles_Muscat	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Charles_Muscat	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Du%C5%A1an_Fitzel>	dbpedia-owl:managerClub	dbpedia:Malta_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/John_Buttigieg_(footballer)>	dbpedia-owl:managerClub	dbpedia:Malta_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Malta_national_football_team ;
+	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Christian_Caruana	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns17:	<http://en.wikipedia.org/wiki/> .
+ns17:Malta_national_football_team	foaf:primaryTopic	dbpedia:Malta_national_football_team .
+dbpedia:Luke_Dimech	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Luke_Dimech__12	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Chucks_Nwoko	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Sigfried_Held	dbpprop:managerclubs	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Andr%C3%A9_Schembri>	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Chris_Okoh_(footballer)>	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Digger_Okonkwo	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Michael_Mifsud	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Stefan_Giglio	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Udo_Nwoko	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Justin_Haber	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns19:	<http://schema.org/> .
+dbpedia:Malta_national_football_team	rdf:type	ns19:Organization ,
+		owl:Thing .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Malta_national_football_team	rdf:type	dul:SocialPerson ,
+		dul:Agent ,
+		ns19:SportsTeam .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Malta_national_football_team	rdf:type	yago:NationalSportsTeamsOfMalta ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		dbpedia-owl:Agent ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:FootballTeam108080025 ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		dbpedia-owl:Organisation ,
+		yago:EuropeanNationalAssociationFootballTeams .
+@prefix ns22:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns22:Збірна_Мальти_з_футболу ,
+		dbpedia:Malta_national_football_team ,
+		ns9:サッカーマルタ代表 .
+@prefix ns23:	<http://ca.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns23:Selecció_de_futbol_de_Malta ,
+		<http://rdf.freebase.com/ns/m.03yvgp> .
+@prefix ns24:	<http://sq.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns24:Kombëtarja_maltase_e_futbollit ,
+		ns1:Maltesische_Fußballnationalmannschaft .
+@prefix ns25:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns25:Malta_national_football_team ,
+		ns8:Nazionale_di_calcio_di_Malta ,
+		ns6:Selección_de_fútbol_de_Malta .
+@prefix ns26:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns26:Máltai_labdarúgó-válogatott ,
+		ns5:Maltská_fotbalová_reprezentace ,
+		<http://mt.dbpedia.org/resource/Tim_nazzjonali_tal-futbol_ta\u0027_Malta> .
+@prefix ns27:	<http://he.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns27:נבחרת_מלטה_בכדורגל .
+@prefix ns28:	<http://no.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns28:Maltas_herrelandslag_i_fotball .
+@prefix ns29:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns29:माल्टा_फुटबॉल_संघ .
+@prefix ns30:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns30:Maltas_herrlandslag_i_fotboll .
+@prefix ns31:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns31:منتخب_مالطا_لكرة_القدم .
+@prefix ns32:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns32:馬爾他國家足球隊 ,
+		ns4:Q188782 ,
+		<http://el.dbpedia.org/resource/\u0395\u03B8\u03BD\u03B9\u03BA\u03AE_\u039C\u03AC\u03BB\u03C4\u03B1\u03C2_(\u03C0\u03BF\u03B4\u03CC\u03C3\u03C6\u03B1\u03B9\u03C1\u03BF_\u03B1\u03BD\u03B4\u03C1\u03CE\u03BD)> ,
+		ns12:Reprezentacja_Malty_w_piłce_nożnej ,
+		ns3:Équipe_de_Malte_de_football .
+@prefix ns33:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns33:Malta_national_football_team .
+@prefix ns34:	<http://bg.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns34:Национален_отбор_по_футбол_на_Малта .
+@prefix ns35:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns35:Malta_Millî_Futbol_Takımı ,
+		ns10:몰타_축구_국가대표팀 .
+@prefix ns36:	<http://hy.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns36:Մալթայի_ֆուտբոլի_ազգային_հավաքական .
+@prefix ns37:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns37:Maltan_jalkapallomaajoukkue .
+@prefix ns38:	<http://sr.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns38:Фудбалска_репрезентација_Малте ,
+		ns7:Tim_nasional_sepak_bola_Malta .
+@prefix ns39:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns39:Сборная_Мальты_по_футболу .
+@prefix ns40:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns40:Đội_tuyển_bóng_đá_quốc_gia_Malta .
+@prefix ns41:	<http://et.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns41:Malta_jalgpallikoondis .
+@prefix ns42:	<http://lv.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns42:Maltas_futbola_izlase ,
+		ns13:Seleção_Maltesa_de_Futebol .
+@prefix ns43:	<http://az.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns43:Malta_milli_futbol_komandası .
+@prefix ns44:	<http://wikidata.org/entity/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns44:Q188782 .
+@prefix ns45:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns45:Maltos_vyrų_futbolo_rinktinė .
+@prefix ns46:	<http://da.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns46:Maltas_fodboldlandshold .
+@prefix ns47:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns47:Echipa_națională_de_fotbal_a_Maltei .
+@prefix ns48:	<http://yago-knowledge.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns48:Malta_national_football_team .
+@prefix ns49:	<http://sk.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns49:Maltské_národné_futbalové_mužstvo .
+@prefix ns50:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Malta_national_football_team	owl:sameAs	ns50:تیم_ملی_فوتبال_مالت ,
+		ns11:Maltees_voetbalelftal .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Malta_national_football_team	rdfs:label	"Maltees voetbalelftal"@nl ,
+		"\u99AC\u723E\u4ED6\u570B\u5BB6\u8DB3\u7403\u968A"@zh ,
+		"Sele\u00E7\u00E3o Maltesa de Futebol"@pt ,
+		"Selecci\u00F3n de f\u00FAtbol de Malta"@es ,
+		"\u30B5\u30C3\u30AB\u30FC\u30DE\u30EB\u30BF\u4EE3\u8868"@ja ,
+		"Maltesische Fu\u00DFballnationalmannschaft"@de ,
+		"\u00C9quipe de Malte de football"@fr ,
+		"Nazionale di calcio di Malta"@it ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0645\u0627\u0644\u0637\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"Reprezentacja Malty w pi\u0142ce no\u017Cnej"@pl ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u041C\u0430\u043B\u044C\u0442\u044B \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"Malta national football team" .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Malta_national_football_team	dcterms:subject	category:Football_in_Malta ,
+		category:National_sports_teams_of_Malta ,
+		category:Malta_national_football_team ,
+		category:European_national_association_football_teams ;
+	foaf:homepage	<http://www.mfa.com.mt/> ;
+	foaf:name	"Malta" ;
+	foaf:nick	"Knights of Malta, \u0126omor (Reds),  Falcons" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Malta_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Malta_national_football_team?oldid=606484914> ;
+	rdfs:comment	"La Selecci\u00F3n de f\u00FAtbol de Malta es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Asociaci\u00F3n de F\u00FAtbol de Malta, perteneciente a la UEFA.Es una de las selecciones m\u00E1s d\u00E9biles del continente europeo y nunca se ha clasificado para ninguna etapa final de competiciones internacionales."@es ,
+		"The Malta national football team represents Malta in international football and is controlled by the Malta Football Association. Malta played its first international game on 24 February 1957 against Austria, and began competing for qualification to major tournaments in 1962. The side's first competitive victory arrived in 1975 against Greece. Considered to be one of the weaker sides in Europe, Malta has never made it to the finals of any major international competition." ,
+		"A Sele\u00E7\u00E3o Maltesa de Futebol representa Malta nas competi\u00E7\u00F5es de futebol da FIFA. As estrelas do time s\u00E3o Michael Mifsud, Udochukwu Nwoko (nigeriano, que chegou a fazer parte da equipe do N\u00E1utico em 2009, n\u00E3o chegando a atuar), David Carabott e Daniel Bogdanovic (nascido na L\u00EDbia). Entretanto, seu melhor jogador de todos os tempos \u00E9 Carmel Busuttil, alcunhado de Il Busu."@pt ,
+		"La nazionale di calcio maltese (Tim nazzjonali tal-futbol ta' Malta in lingua maltese) \u00E8 la rappresentativa calcistica di Malta.Gioca in completo rosso bordato di bianco e non ha mai raggiunto alcun traguardo internazionale.Attualmente occupa il 149\u00BA posto nel Ranking FIFA."@it ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u041C\u0430\u043B\u044C\u0442\u044B \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u041C\u0430\u043B\u044C\u0442\u0443 \u043D\u0430 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0430\u0445 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u0423\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0435\u0439 \u041C\u0430\u043B\u044C\u0442\u044B."@ru ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0645\u0627\u0644\u0637\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0645\u0627\u0644\u0637\u0627 \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0645\u0627\u0644\u0637\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645. \u0644\u0639\u0628\u062A \u0645\u0627\u0644\u0637\u0627 \u0623\u0648\u0644 \u0645\u0628\u0627\u0631\u0627\u0629 \u062F\u0648\u0644\u064A\u0629 \u0641\u064A \u0641\u0628\u0631\u0627\u064A\u0631 1957 \u0648\u0642\u062F \u0628\u062F\u0623\u062A \u0627\u0644\u062A\u0646\u0627\u0641\u0633 \u0641\u064A \u062A\u0635\u0641\u064A\u0627\u062A \u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 1962. \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0647\u0630\u0627 \u0627\u0644\u0628\u0644\u062F \u0627\u0644\u0635\u063A\u064A\u0631 \u0623\u0646 \u062A\u0623\u0647\u0644 \u0644\u0645\u0633\u0627\u0628\u0642\u0629 \u062F\u0648\u0644\u064A\u0629 \u0643\u0628\u0631\u0649 \u0628\u0633\u0628\u0628 \u0639\u062F\u0645 \u0648\u062C\u0648\u062F \u0644\u0627\u0639\u0628\u064A\u0646 \u0645\u062A\u062D\u0631\u0641\u064A\u0646 \u0641\u064A \u0627\u0644\u062C\u0632\u064A\u0631\u0629."@ar ,
+		"Die Maltesische Fu\u00DFballnationalmannschaft ist die Fu\u00DFballnationalmannschaft der Republik Malta.Im Jahr 1900 gegr\u00FCndet, ist der maltesische Fu\u00DFballverband einer der \u00E4ltesten Europas. Er trat 1959 der FIFA bei, trug 1972 erstmals WM-Qualifikationsspiele aus und nimmt seit 1974 regelm\u00E4\u00DFig an selbigen teil. In der Qualifikation f\u00FCr die WM in Brasilien trifft Malta auf Armenien, Bulgarien, D\u00E4nemark, Italien und Tschechien."@de ,
+		"L'\u00E9quipe de Malte de football est constitu\u00E9e par une s\u00E9lection des meilleurs joueurs maltais sous l'\u00E9gide de la F\u00E9d\u00E9ration de Malte de football."@fr ,
+		"\u30B5\u30C3\u30AB\u30FC\u30DE\u30EB\u30BF\u4EE3\u8868\uFF08Tim nazzjonali Malti tal-futbol\uFF09\u306F\u30DE\u30EB\u30BF\u30B5\u30C3\u30AB\u30FC\u9023\u76DF(MFA)\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30DE\u30EB\u30BF\u5171\u548C\u56FD\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"Reprezentacja Malty w pi\u0142ce no\u017Cnej \u2013 narodowy zesp\u00F3\u0142 pi\u0142karski Malty. Od 1957 roku reprezentuje Malt\u0119 w mi\u0119dzynarodowych rozgrywkach pi\u0142karskich.Sw\u00F3j najwi\u0119kszy sukces Malta zanotowa\u0142a 11 pa\u017Adziernika 2006 roku wygrywaj\u0105c z W\u0119grami 2:1, a 5 czerwca 1982 roku zdoby\u0142a pierwsze 3 punkty w eliminacjach do Mistrzostw Europy 1984. Aktualnie trenowana przez W\u0142ocha Pietro Ghedina, kt\u00F3rego asystentem jest Silvio Vella."@pl ,
+		"\u99AC\u723E\u4ED6\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\u662F\u99AC\u723E\u4ED6\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u99AC\u723E\u4ED6\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u6B50\u6D32\u8DB3\u7403\u5354\u6703\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u99AC\u723E\u4ED6\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4EFB\u4F55\u570B\u969B\u5927\u8CFD\u7684\u6C7A\u8CFD\u9031\uFF0C\u7121\u8AD6\u5728\u4E16\u754C\u76C3\u53CA\u6B50\u6D32\u570B\u5BB6\u76C3\u5916\u570D\u8CFD\u968E\u6BB5\u5F9E\u672A\u53D6\u5F97\u904E\u51FA\u7DDA\u8CC7\u683C\u3002"@zh ,
+		"Het Maltees voetbalelftal is een team van voetballers dat Malta vertegenwoordigt in internationale wedstrijden, zoals de voorrondes voor het WK en het EK.Malta wist zich nog nooit voor een eindronde te plaatsen."@nl ;
+	dbpprop:mostCaps	dbpedia:David_Carabott ;
+	foaf:isPrimaryTopicOf	ns17:Malta_national_football_team ;
+	dbpprop:club	<http://dbpedia.org/resource/Hibernians_F.C.> ,
+		<http://dbpedia.org/resource/Sliema_Wanderers_F.C.> ,
+		dbpedia:Wellington_Phoenix_FC ,
+		<http://dbpedia.org/resource/F.C._Aprilia> ,
+		<http://dbpedia.org/resource/Kalloni_F.C.> ,
+		<http://dbpedia.org/resource/Qormi_F.C.> ,
+		dbpedia:AC_Omonia ,
+		<http://dbpedia.org/resource/Tarxien_Rainbows_F.C.> ,
+		<http://dbpedia.org/resource/Valletta_F.C.> ,
+		<http://dbpedia.org/resource/Birkirkara_F.C.> ,
+		dbpedia:Free_agent ,
+		<http://dbpedia.org/resource/Balzan_F.C.> ,
+		<http://dbpedia.org/resource/Vittoriosa_Stars_F.C.> ;
+	dbpprop:captain	dbpedia:Michael_Mifsud .
+@prefix ns55:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Malta_national_football_team	dbpprop:hasPhotoCollection	ns55:Malta_national_football_team ;
+	dbpprop:name	dbpedia:Henry_Bonello ,
+		dbpedia:Rowen_Muscat ,
+		dbpedia:Andrew_Hogg ,
+		dbpedia:Glen_Zammit ,
+		dbpedia:Justin_Grioli ,
+		dbpedia:Leighton_Grech ,
+		dbpedia:Zach_Muscat ,
+		dbpedia:Mark_Scerri ,
+		dbpedia:Clifford_Baldacchino ,
+		dbpedia:Nicky_Vella ,
+		<http://dbpedia.org/resource/Bj%C3%B8rn_Kristensen> ,
+		dbpedia:Ryan_Camilleri ,
+		<http://dbpedia.org/resource/Paul_Fenech_(footballer)> ,
+		dbpedia:Michael_Mifsud ,
+		<http://dbpedia.org/resource/Captain_(association_football)> ,
+		dbpedia:Alex_Muscat ,
+		dbpedia:Mario_Muscat ,
+		dbpedia:Clayton_Failla ,
+		dbpedia:Gareth_Sciberras ,
+		dbpedia:Andrei_Agius ,
+		dbpedia:Jonathan_Caruana ,
+		<http://dbpedia.org/resource/Andr%C3%A9_Schembri> ,
+		<http://dbpedia.org/resource/Andrew_Cohen_(footballer)> ,
+		dbpedia:Manny_Muscat ,
+		dbpedia:Joseph_Zerafa ,
+		dbpedia:Justin_Haber ,
+		dbpedia:John_Mintoff ,
+		"Malta" ,
+		dbpedia:Jacob_Borg ,
+		dbpedia:Shaun_Bajada ,
+		dbpedia:Roderick_Briffa ,
+		dbpedia:Steve_Bezzina ,
+		dbpedia:Edward_Herrera ,
+		dbpedia:Terence_Vella ,
+		dbpedia:Ryan_Fenech ,
+		dbpedia:Jean_Pierre_Mifsud_Triganza ,
+		dbpedia:Luke_Dimech ;
+	dbpedia-owl:abstract	"A Sele\u00E7\u00E3o Maltesa de Futebol representa Malta nas competi\u00E7\u00F5es de futebol da FIFA. As estrelas do time s\u00E3o Michael Mifsud, Udochukwu Nwoko (nigeriano, que chegou a fazer parte da equipe do N\u00E1utico em 2009, n\u00E3o chegando a atuar), David Carabott e Daniel Bogdanovic (nascido na L\u00EDbia). Entretanto, seu melhor jogador de todos os tempos \u00E9 Carmel Busuttil, alcunhado de Il Busu."@pt ,
+		"Het Maltees voetbalelftal is een team van voetballers dat Malta vertegenwoordigt in internationale wedstrijden, zoals de voorrondes voor het WK en het EK.Malta wist zich nog nooit voor een eindronde te plaatsen. De ploeg kon zelfs nog maar vijf offici\u00EBle wedstrijden winnen: tegen Griekenland in 1975 (2-0, EK-kwalificatie), tegen IJsland in 1982 (2-1, EK-kwalificatie), tegen Estland in 1993 (1-0, WK-kwalificatie), tegen Hongarije in 2006 (2-1, EK-kwalificatie)en tegen Armeni\u00EB in 2013 (1-0, WK-kwalificatie). Tijdens de vriendschappelijke wedstrijden kon Malta al vaker winnen: zo behaalden de Maltezers op 26 maart 2008 hun grootste overwinning; van Liechtenstein werd met 7-1 gewonnen, onder meer door vijf goals van aanvaller Michael Mifsud.Hun bekendste/beruchtste wedstrijd was het 12-1-verlies tegen Spanje in 1983, waardoor de Spanjaarden zich in extremis nog dankzij meer gescoorde doelpunten (zelfs het doelsaldo was gelijk) wisten te plaatsen voor het EK van 1984. Dit ging ten koste van Nederland."@nl ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0645\u0627\u0644\u0637\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0645\u0627\u0644\u0637\u0627 \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0645\u0627\u0644\u0637\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645. \u0644\u0639\u0628\u062A \u0645\u0627\u0644\u0637\u0627 \u0623\u0648\u0644 \u0645\u0628\u0627\u0631\u0627\u0629 \u062F\u0648\u0644\u064A\u0629 \u0641\u064A \u0641\u0628\u0631\u0627\u064A\u0631 1957 \u0648\u0642\u062F \u0628\u062F\u0623\u062A \u0627\u0644\u062A\u0646\u0627\u0641\u0633 \u0641\u064A \u062A\u0635\u0641\u064A\u0627\u062A \u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 1962. \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0647\u0630\u0627 \u0627\u0644\u0628\u0644\u062F \u0627\u0644\u0635\u063A\u064A\u0631 \u0623\u0646 \u062A\u0623\u0647\u0644 \u0644\u0645\u0633\u0627\u0628\u0642\u0629 \u062F\u0648\u0644\u064A\u0629 \u0643\u0628\u0631\u0649 \u0628\u0633\u0628\u0628 \u0639\u062F\u0645 \u0648\u062C\u0648\u062F \u0644\u0627\u0639\u0628\u064A\u0646 \u0645\u062A\u062D\u0631\u0641\u064A\u0646 \u0641\u064A \u0627\u0644\u062C\u0632\u064A\u0631\u0629."@ar ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u041C\u0430\u043B\u044C\u0442\u044B \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u041C\u0430\u043B\u044C\u0442\u0443 \u043D\u0430 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0430\u0445 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u0423\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0435\u0439 \u041C\u0430\u043B\u044C\u0442\u044B."@ru ,
+		"La nazionale di calcio maltese (Tim nazzjonali tal-futbol ta' Malta in lingua maltese) \u00E8 la rappresentativa calcistica di Malta.Gioca in completo rosso bordato di bianco e non ha mai raggiunto alcun traguardo internazionale.Attualmente occupa il 149\u00BA posto nel Ranking FIFA."@it ,
+		"\u30B5\u30C3\u30AB\u30FC\u30DE\u30EB\u30BF\u4EE3\u8868\uFF08Tim nazzjonali Malti tal-futbol\uFF09\u306F\u30DE\u30EB\u30BF\u30B5\u30C3\u30AB\u30FC\u9023\u76DF(MFA)\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30DE\u30EB\u30BF\u5171\u548C\u56FD\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"The Malta national football team represents Malta in international football and is controlled by the Malta Football Association. Malta played its first international game on 24 February 1957 against Austria, and began competing for qualification to major tournaments in 1962. The side's first competitive victory arrived in 1975 against Greece. Considered to be one of the weaker sides in Europe, Malta has never made it to the finals of any major international competition. They have however never ranked at the bottom of the FIFA World Rankings, while getting as high as 66th in the top 100." ,
+		"L'\u00E9quipe de Malte de football est constitu\u00E9e par une s\u00E9lection des meilleurs joueurs maltais sous l'\u00E9gide de la F\u00E9d\u00E9ration de Malte de football."@fr ,
+		"Reprezentacja Malty w pi\u0142ce no\u017Cnej \u2013 narodowy zesp\u00F3\u0142 pi\u0142karski Malty. Od 1957 roku reprezentuje Malt\u0119 w mi\u0119dzynarodowych rozgrywkach pi\u0142karskich.Sw\u00F3j najwi\u0119kszy sukces Malta zanotowa\u0142a 11 pa\u017Adziernika 2006 roku wygrywaj\u0105c z W\u0119grami 2:1, a 5 czerwca 1982 roku zdoby\u0142a pierwsze 3 punkty w eliminacjach do Mistrzostw Europy 1984. Aktualnie trenowana przez W\u0142ocha Pietro Ghedina, kt\u00F3rego asystentem jest Silvio Vella."@pl ,
+		"\u99AC\u723E\u4ED6\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\u662F\u99AC\u723E\u4ED6\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u99AC\u723E\u4ED6\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u6B50\u6D32\u8DB3\u7403\u5354\u6703\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u99AC\u723E\u4ED6\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4EFB\u4F55\u570B\u969B\u5927\u8CFD\u7684\u6C7A\u8CFD\u9031\uFF0C\u7121\u8AD6\u5728\u4E16\u754C\u76C3\u53CA\u6B50\u6D32\u570B\u5BB6\u76C3\u5916\u570D\u8CFD\u968E\u6BB5\u5F9E\u672A\u53D6\u5F97\u904E\u51FA\u7DDA\u8CC7\u683C\u3002"@zh ,
+		"Die Maltesische Fu\u00DFballnationalmannschaft ist die Fu\u00DFballnationalmannschaft der Republik Malta.Im Jahr 1900 gegr\u00FCndet, ist der maltesische Fu\u00DFballverband einer der \u00E4ltesten Europas. Er trat 1959 der FIFA bei, trug 1972 erstmals WM-Qualifikationsspiele aus und nimmt seit 1974 regelm\u00E4\u00DFig an selbigen teil. In der Qualifikation f\u00FCr die WM in Brasilien trifft Malta auf Armenien, Bulgarien, D\u00E4nemark, Italien und Tschechien. Gegen keine dieser Mannschaften konnte Malta bis dato ein Spiel gewinnen, gegen Armenien gelang dann jedoch am 7. Juni 2013 mit 1:0 ein Ausw\u00E4rtssieg. Malta nimmt ebenfalls regelm\u00E4\u00DFig an den Qualifikationsspielen zu Europameisterschaften teil, konnte sich aber noch nicht qualifizieren. Am 23. Februar 1975 konnte Malta durch ein 2:0 \u00FCber Griechenland seinen ersten L\u00E4nderspielsieg in einer EM-Qualifikation erzielen und am 11. Oktober 2006 konnte gegen Ungarn ein historischer 2:1-Sieg gefeiert werden."@de ,
+		"La Selecci\u00F3n de f\u00FAtbol de Malta es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Asociaci\u00F3n de F\u00FAtbol de Malta, perteneciente a la UEFA.Es una de las selecciones m\u00E1s d\u00E9biles del continente europeo y nunca se ha clasificado para ninguna etapa final de competiciones internacionales."@es ;
+	dbpedia-owl:wikiPageID	1009065 ;
+	dbpedia-owl:wikiPageRevisionID	606484914 ;
+	dbpprop:location	dbpedia:Bulgaria ,
+		dbpedia:Sofia ,
+		dbpedia:Malta ,
+		<http://dbpedia.org/resource/Ta\u0027_Qali> ,
+		dbpedia:Baku ,
+		dbpedia:Vaduz ,
+		dbpedia:Denmark ,
+		dbpedia:Albania ,
+		dbpedia:Luxembourg ,
+		dbpedia:Italy ,
+		dbpedia:Azerbaijan ,
+		dbpedia:San_Marino ,
+		dbpedia:Liechtenstein ,
+		<http://dbpedia.org/resource/Plze%C5%88> ,
+		dbpedia:Copenhagen ,
+		<http://dbpedia.org/resource/Serravalle_(San_Marino)> ,
+		dbpedia:Yerevan ,
+		<http://dbpedia.org/resource/Durr%C3%ABs> ,
+		dbpedia:Czech_Republic ,
+		dbpedia:Armenia ,
+		dbpedia:Modena ,
+		<http://dbpedia.org/resource/Luxembourg_(city)> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Malta_national_football_team	dbpprop:latest	"--11-19+02:00"^^xsd:gMonthDay ,
+		"--08-14+02:00"^^xsd:gMonthDay ,
+		"--10-15+02:00"^^xsd:gMonthDay ,
+		"--06-07+02:00"^^xsd:gMonthDay ;
+	dbpprop:topScorer	dbpedia:Michael_Mifsud ;
+	dbpprop:round	dbpedia:Exhibition_game ,
+		2014 ;
+	dbpprop:clubnat	"CYP" ,
+		"GRE" ,
+		"MLT" ,
+		"ITA" ,
+		"NZL" ;
+	dbpprop:goals	"Baldvinsson" ,
+		"Camilleri" ,
+		"Marani" ,
+		"Agger  ," ,
+		"Tonev" ,
+		"Selassie" ,
+		"Pekhart" ,
+		"Hansson" ,
+		"Hubschman" ,
+		2 ,
+		3 ,
+		0 ,
+		1 ,
+		40 ,
+		"\u00C4liyev" ,
+		"Dada\u015Fov" ,
+		"Peluso" ,
+		"Rezek" ,
+		"Balotelli  ," ,
+		"Sarkisov" ,
+		"Nielsen" ,
+		"Mifsud" ,
+		"Destro" ,
+		"Gargorov" ,
+		"Kadlec" ,
+		"Meha" ,
+		"Failla" ,
+		"Lafata" ,
+		"Agius" ,
+		"Popov" ,
+		"B\u00FCchel" ,
+		"Rasmussen ," ,
+		"Andreasen" ,
+		"Radoslav Dimitrov" ,
+		"Herrera" ,
+		"Rinaldi" ,
+		"Briffa" ,
+		"Ivanov" ,
+		"Caruana" ,
+		"Fenech" ,
+		"Bjelland" ,
+		"Basha" ;
+	dbpprop:time	20 ,
+		19 .
+@prefix ns57:	<http://dbpedia.org/datatype/> .
+dbpedia:Malta_national_football_team	dbpprop:time	"780.0"^^ns57:second ,
+		"1245.0"^^ns57:second ,
+		"960.0"^^ns57:second ,
+		"1125.0"^^ns57:second ,
+		"1230.0"^^ns57:second ,
+		"1080.0"^^ns57:second ,
+		"1020.0"^^ns57:second ,
+		"1110.0"^^ns57:second ;
+	dbpprop:attendance	1000 ,
+		10000 ,
+		4530 ,
+		0 ,
+		4844 ,
+		10358 ,
+		11479 ,
+		9000 ,
+		3517 ,
+		18000 ;
+	dbpprop:referee	"Anastasios Sidiropoulos" ,
+		"Antti Munukka" ,
+		dbpedia:Matej_Jug ,
+		"Nikolay Yordanov" ,
+		"Anar Salmanov" ,
+		"Aleksandr Aliyev" ,
+		"Serdar G\u00F6z\u00FCb\u00FCy\u00FCk" ,
+		"Paolo Tagliavento" ,
+		"Arnold Hunter" ,
+		"Alexandru Tudor" ,
+		"Rene Eisner" ,
+		"Aleksandar Stavrev" ,
+		dbpedia:Dejan_Jakimovski ,
+		"Markus Hameter" ,
+		"Nikolaj H\u00E4nni" ,
+		"Eitan Shemeulevitch" ;
+	dbpprop:stadium	dbpedia:Tofiq_Bahramov_Stadium ,
+		dbpedia:Hrazdan_Stadium ,
+		<http://dbpedia.org/resource/Ta\u0027_Qali_National_Stadium> ,
+		dbpedia:Vasil_Levski_National_Stadium ,
+		dbpedia:Stadio_Alberto_Braglia ,
+		dbpedia:Niko_Dovana_Stadium ,
+		dbpedia:Rheinpark_Stadion ,
+		dbpedia:Doosan_Arena ,
+		dbpedia:Stade_Josy_Barthel ,
+		dbpedia:Parken_Stadium ,
+		<http://dbpedia.org/resource/Stadio_Olimpico_(San_Marino)> ;
+	dbpprop:report	<http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182227/index.html> .
+@prefix ns58:	<http://www.goal.com/en-ie/match/80440/luxembourg-vs-malta/> .
+dbpedia:Malta_national_football_team	dbpprop:report	ns58:preview .
+@prefix ns59:	<http://www.goal.com/en-gb/match/125688/malta-vs-faroe-islands/> .
+dbpedia:Malta_national_football_team	dbpprop:report	ns59:preview .
+@prefix ns60:	<http://www.goal.com/en-gb/match/83527/san-marino-vs-malta/> .
+dbpedia:Malta_national_football_team	dbpprop:report	ns60:preview .
+@prefix ns61:	<http://www.goal.com/en-gb/match/96147/liechtenstein-vs-malta/> .
+dbpedia:Malta_national_football_team	dbpprop:report	ns61:preview .
+@prefix ns62:	<http://www.goal.com/en-gb/match/101435/malta-vs-northern-ireland/> .
+dbpedia:Malta_national_football_team	dbpprop:report	ns62:report ,
+		<http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182222/index.html> ,
+		<http://el.soccerway.com/matches/2013/08/14/world/friendlies/azerbaijan/malta/1459157/?ICID=PL_MS_39> ,
+		<http://www.uefa.com/friendlies/season=2012/matches/round=2000293/match=2009343/index.html> ,
+		<http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182217/index.html> ,
+		<http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182218/index.html> ,
+		<http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182238/index.html> ,
+		<http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182239/report.html> ,
+		<http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182220/index.html> ,
+		<http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182221/report.html> ,
+		<http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182233/index.html> ,
+		<http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182237/report.html> ,
+		<http://int.soccerway.com/matches/2014/03/05/world/friendlies/albania/malta/1644871/> ;
+	dbpprop:score	2 ,
+		3 ,
+		0 ,
+		1 ,
+		6 ;
+	dbpprop:caps	6 ,
+		7 ,
+		8 ,
+		12 ,
+		103 ,
+		64 ,
+		77 ,
+		79 ,
+		54 ,
+		56 ,
+		33 ,
+		38 ,
+		40 ,
+		47 ,
+		16 ,
+		19 ,
+		24 ,
+		31 ,
+		0 ,
+		1 ,
+		2 ,
+		3 ;
+	dbpprop:age	"1981-11-20+02:00"^^xsd:date ,
+		"1988-02-09+02:00"^^xsd:date ,
+		"1989-08-27+02:00"^^xsd:date ,
+		"1991-05-02+02:00"^^xsd:date ,
+		"1981-06-09+02:00"^^xsd:date ,
+		"1981-08-24+02:00"^^xsd:date ,
+		"1986-01-08+02:00"^^xsd:date ,
+		"1986-08-12+02:00"^^xsd:date ,
+		"1990-01-16+02:00"^^xsd:date ,
+		"1984-12-14+02:00"^^xsd:date ,
+		"1987-08-05+02:00"^^xsd:date ,
+		"1990-04-20+02:00"^^xsd:date ,
+		"1983-08-19+02:00"^^xsd:date ,
+		"1981-04-17+02:00"^^xsd:date ,
+		"1988-08-23+02:00"^^xsd:date ,
+		"1983-03-29+02:00"^^xsd:date ,
+		"1988-10-13+02:00"^^xsd:date ,
+		"1993-08-22+02:00"^^xsd:date ,
+		"1984-12-07+02:00"^^xsd:date ,
+		"1990-03-23+02:00"^^xsd:date ,
+		"1976-08-18+02:00"^^xsd:date ,
+		"1993-04-05+02:00"^^xsd:date ,
+		"1988-05-22+02:00"^^xsd:date ,
+		"1987-01-05+02:00"^^xsd:date ,
+		"1986-07-24+02:00"^^xsd:date ,
+		"1977-01-11+02:00"^^xsd:date ,
+		"1991-06-15+02:00"^^xsd:date ,
+		"1986-11-14+02:00"^^xsd:date ,
+		"1986-05-27+02:00"^^xsd:date ,
+		"1981-05-13+02:00"^^xsd:date ,
+		"1986-12-20+02:00"^^xsd:date ,
+		"1987-09-20+02:00"^^xsd:date ,
+		"1986-04-20+02:00"^^xsd:date ,
+		"1988-05-31+02:00"^^xsd:date ,
+		"1985-03-02+02:00"^^xsd:date ;
+	dbpprop:coach	"Pietro Ghedin" ;
+	dbpedia-owl:coach	dbpedia:Pietro_Ghedin ;
+	dbpprop:stack	"yes" ;
+	dbpprop:date	"2012-06-02+02:00"^^xsd:date ,
+		"2013-06-07+02:00"^^xsd:date ,
+		"2013-09-06+02:00"^^xsd:date ,
+		"2012-10-12+02:00"^^xsd:date ,
+		"2012-08-14+02:00"^^xsd:date ,
+		"2013-09-10+02:00"^^xsd:date ,
+		"2013-03-22+02:00"^^xsd:date ,
+		"2012-09-07+02:00"^^xsd:date ,
+		"2013-10-15+02:00"^^xsd:date ,
+		"2013-03-26+02:00"^^xsd:date ,
+		"2012-09-11+02:00"^^xsd:date ,
+		"2013-10-11+02:00"^^xsd:date ,
+		"2013-02-06+02:00"^^xsd:date ,
+		"2014-03-05+02:00"^^xsd:date ,
+		"2013-08-14+02:00"^^xsd:date ,
+		"2012-02-29+02:00"^^xsd:date ,
+		"2013-11-19+02:00"^^xsd:date ,
+		"2012-11-14+02:00"^^xsd:date ;
+	dbpprop:group	"decimal" ;
+	<http://dbpedia.org/property/1stRankingDate>	"August 1993" ;
+	dbpprop:association	dbpedia:Malta_Football_Association ;
+	dbpprop:badgeSize	170 ;
+	dbpprop:body	"FF0000" ,
+		"FFFFFF" ;
+	dbpprop:confederation	dbpedia:UEFA ;
+	dbpprop:fifaRank	131 ;
+	dbpprop:fifaTrigramme	"MLT" ;
+	dbpprop:leftarm	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:patternB	"_Malta1" ,
+		"_Malta2" ;
+	dbpprop:patternLa	"_Malta1" ,
+		"_Malta2" ;
+	dbpprop:patternRa	"_Malta1" ,
+		"_Malta2" ;
+	dbpprop:rightarm	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:shorts	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:socks	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:pos	"MF" ,
+		"FW" ,
+		"GK" ,
+		"DF" ;
+	dbpprop:result	"L" ,
+		"D" ,
+		"W" ;
+	dbpprop:badge	"Malta Football Association.svg" ;
+	dbpprop:firstGame	"Malta 2\u20133" ;
+	dbpprop:largestLoss	12 ;
+	dbpprop:largestWin	"Malta 7\u20131" ;
+	dbpprop:regionalName	dbpedia:UEFA_European_Championship ;
+	dbpprop:eloMax	98 ;
+	dbpprop:eloMaxDate	"February 1992" ;
+	dbpprop:eloMin	164 ;
+	dbpprop:eloMinDate	"October 2001" ;
+	dbpprop:eloRank	151 ;
+	dbpprop:fifaMax	66 ;
+	dbpprop:fifaMaxDate	"September 1994" ;
+	dbpprop:fifaMin	173 ;
+	dbpprop:fifaMinDate	"July 2011" ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182217/index.html> ,
+		<http://www.rsssf.com/tablesm/malt-intres.html> ,
+		<http://el.soccerway.com/matches/2013/08/14/world/friendlies/azerbaijan/malta/1459157/?ICID=PL_MS_39> ,
+		<http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182227/index.html> ,
+		<http://int.soccerway.com/matches/2014/03/05/world/friendlies/albania/malta/1644871/> ,
+		<http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182222/index.html> ,
+		<http://www.mfa.com.mt/> ,
+		ns62:report ,
+		ns59:preview ,
+		ns60:preview ,
+		ns61:preview ,
+		ns58:preview ,
+		<http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182220/index.html> ,
+		<http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182221/report.html> ,
+		<http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182233/index.html> ,
+		<http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182237/report.html> ,
+		<http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182238/index.html> ,
+		<http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182239/report.html> ,
+		<http://www.fifa.com/worldcup/preliminaries/europe/matches/round=258374/match=300182218/index.html> ,
+		<http://www.uefa.com/friendlies/season=2012/matches/round=2000293/match=2009343/index.html> ;
+	dbpprop:homeStadium	<http://dbpedia.org/resource/Ta\u0027_Qali_National_Stadium> ;
+	dbpedia-owl:stadium	<http://dbpedia.org/resource/Ta\u0027_Qali_National_Stadium> ;
+	dbpprop:nickname	"Knights of Malta, \u0126omor ,  Falcons" ;
+	dbpprop:refs	100 .
+dbpedia:Justin_Haber__14	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Bjorn_Kristensen_(footballer_born_1993)>	dbpedia-owl:birthPlace	dbpedia:Malta_national_football_team ;
+	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Simon_Tortell__2	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Adrian_Ciantar__4	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Terence_Vella__3	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Carmel_Busuttil__7	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Charles_Muscat__1	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Edmond_Agius__3	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Emanuel_Fabri__3	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Reuben_Gauci__6	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Kristian_Laferla__4	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Chucks_Nwoko__6	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/John_Hutchinson_(footballer)__7>	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Joe_Brincat__3	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Joe_Cini__4	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Rowen_Muscat__2	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Charles_Micallef__1	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Christian_Caruana__2	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:David_Camilleri__8	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Denis_Cauchi__7	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Ernest_Spiteri-Gonzi__2	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Ray_Farrugia__1	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Paul_Sixsmith__4	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Pietro_Ghedin__4	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Daniel_Theuma__7	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Carlo_Mamo__8	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Clayton_Failla__5	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Eric_Schembri__1	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Orosco_Anonam__7	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Stephen_Wellman__8	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Edward_Darmanin__4	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Ayrton_Azzopardi__2	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/John_Buttigieg_(footballer)__8>	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Steve_Borg__2	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Bjorn_Kristensen_(footballer_born_1993)__4>	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Frankie_Micallef__1	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Ivan_Zammit__11	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Shaun_Bajada__7	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Jesmond_Zerafa__1	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Josef_Mifsud__6	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/John_Buttigieg_(footballer)__6>	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Andrei_Agius__14	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Chris_Okoh_(footballer)__8>	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Darren_Debono__1	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Michael_Galea__3	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Trevor_Cilia__4	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Jacob_Borg__4	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Jonathan_Holland__5	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Kevin_Sammut__7	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Mario_Farrugia__1	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:David_Cluett__3	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Henry_Bonello__3	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Horst_Heese__11	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Nicky_Saliba__2	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Jimmy_Briffa__1	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:John_Mintoff__4	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Joseph_John_Aquilina__1	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Pippo_Psaila__1	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Ryan_Fenech__5	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Dennis_Mizzi__1	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:George_Mallia__5	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Hubert_Suda__1	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Jean_Pierre_Mifsud_Triganza__6	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Martin_Scicluna__1	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Salvinu_Schembri__4	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Carmel_Busuttil__6	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Andrew_Cohen_(footballer)__2>	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Andrew_Hogg__5	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Digger_Okonkwo__6	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Du%C5%A1an_Fitzel__4>	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Peter_Pullicino__4	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Richard_Buhagiar__5	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Alex_Muscat__4	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Edward_Herrera__7	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:John_Bonello__2	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Jonathan_Magri_Overend__5	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Noel_Turner__2	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Paul_Fenech_(footballer)__3>	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Reginald_Cini__4	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Silvio_Vella__3	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Etienne_Barbara__13	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Massimo_Grima__7	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Vincent_Borg_Bonaci__1	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Andr%C3%A9_Schembri__11>	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Charles_Scerri__8	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Graham_Bencini__9	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Mario_Muscat__3	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Martin_Gregory__1	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Nenad_Veselji__7	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Pietro_Ghedin__1	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Ryan_Camilleri__3	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Daniel_Bogdanovi%C4%87__15>	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Udo_Nwoko__14	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:David_Carabott__8	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Charlie_Williams_(soccer)__7>	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Joey_Falzon__1	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Michael_Cutajar__5	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Saviour_Darmanin__8	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Jamie_Pace__11	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Kenneth_Scicluna__7	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Adrian_Mifsud__7	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Adrian_Pulis__3	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Milorad_Kosanovi%C4%87__2>	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Stefan_Sultana__5	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Ernest_Barry_(footballer)__10>	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/J%C3%A1nos_B%C3%A9dl__1>	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Michael_Degiorgio__8	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Michael_Mifsud__12	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Pierre_Aquilina__3	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Malta_National_Football_Team	dbpedia-owl:wikiPageRedirects	dbpedia:Malta_national_football_team .
+dbpedia:Maltese_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Malta_national_football_team .
+ns31:منتخب_مالطا_لكرة_القدم	owl:sameAs	dbpedia:Malta_national_football_team .
+ns43:Malta_milli_futbol_komandası	owl:sameAs	dbpedia:Malta_national_football_team .
+ns34:Национален_отбор_по_футбол_на_Малта	owl:sameAs	dbpedia:Malta_national_football_team .
+ns23:Selecció_de_futbol_de_Malta	owl:sameAs	dbpedia:Malta_national_football_team .
+ns46:Maltas_fodboldlandshold	owl:sameAs	dbpedia:Malta_national_football_team .
+ns41:Malta_jalgpallikoondis	owl:sameAs	dbpedia:Malta_national_football_team .
+ns50:تیم_ملی_فوتبال_مالت	owl:sameAs	dbpedia:Malta_national_football_team .
+ns37:Maltan_jalkapallomaajoukkue	owl:sameAs	dbpedia:Malta_national_football_team .
+ns27:נבחרת_מלטה_בכדורגל	owl:sameAs	dbpedia:Malta_national_football_team .
+ns33:Malta_national_football_team	owl:sameAs	dbpedia:Malta_national_football_team .
+ns26:Máltai_labdarúgó-válogatott	owl:sameAs	dbpedia:Malta_national_football_team .
+ns36:Մալթայի_ֆուտբոլի_ազգային_հավաքական	owl:sameAs	dbpedia:Malta_national_football_team .
+ns45:Maltos_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Malta_national_football_team .
+ns42:Maltas_futbola_izlase	owl:sameAs	dbpedia:Malta_national_football_team .
+ns29:माल्टा_फुटबॉल_संघ	owl:sameAs	dbpedia:Malta_national_football_team .
+<http://mt.dbpedia.org/resource/Tim_nazzjonali_tal-futbol_ta\u0027_Malta>	owl:sameAs	dbpedia:Malta_national_football_team .
+ns28:Maltas_herrelandslag_i_fotball	owl:sameAs	dbpedia:Malta_national_football_team .
+ns47:Echipa_națională_de_fotbal_a_Maltei	owl:sameAs	dbpedia:Malta_national_football_team .
+ns39:Сборная_Мальты_по_футболу	owl:sameAs	dbpedia:Malta_national_football_team .
+ns25:Malta_national_football_team	owl:sameAs	dbpedia:Malta_national_football_team .
+ns49:Maltské_národné_futbalové_mužstvo	owl:sameAs	dbpedia:Malta_national_football_team .
+ns24:Kombëtarja_maltase_e_futbollit	owl:sameAs	dbpedia:Malta_national_football_team .
+ns38:Фудбалска_репрезентација_Малте	owl:sameAs	dbpedia:Malta_national_football_team .
+ns30:Maltas_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Malta_national_football_team .
+ns35:Malta_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Malta_national_football_team .
+ns22:Збірна_Мальти_з_футболу	owl:sameAs	dbpedia:Malta_national_football_team .
+ns40:Đội_tuyển_bóng_đá_quốc_gia_Malta	owl:sameAs	dbpedia:Malta_national_football_team .
+ns32:馬爾他國家足球隊	owl:sameAs	dbpedia:Malta_national_football_team .
+dbpedia:Aaron_Xuereb	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Jeffrey_Chetcuti	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Ivan_Zammit	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Eric_Schembri	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Henry_Bonello	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Ryan_Camilleri	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Joseph_Zerafa	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:John_Mintoff	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Milorad_Kosanovi%C4%87>	dbpedia-owl:managerClub	dbpedia:Malta_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Malta_national_football_team .
+dbpedia:Paul_Sixsmith	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Antoine_Zahra_(footballer_born_1977)>	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Antoine_Zahra_(footballer_born_1981)>	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Mario_Farrugia	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Ray_Farrugia	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Reuben_Gauci	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Horst_Heese	dbpedia-owl:managerClub	dbpedia:Malta_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Malta_national_football_team .
+dbpedia:Michael_Degiorgio	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Ernest_Barry_(footballer)>	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Orosco_Anonam	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Spain_12%E2%80%931_Malta>	dbpprop:team	dbpedia:Malta_national_football_team ;
+	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Ivan_Woods	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Andrew_Hogg	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Joseph_Zerafa__2	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Joey_Falzon	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:David_Carabott	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/2006_in_Japanese_football>	dbpprop:team	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/J%C3%A1nos_B%C3%A9dl>	dbpedia-owl:managerClub	dbpedia:Malta_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Malta_national_football_team .
+dbpedia:Jacob_Borg	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Andrei_Agius	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Jamie_Pace	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Brian_Said	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Paul_Fenech_(footballer)>	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Saviour_Darmanin	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Cleavon_Frendo	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:William_Camenzuli	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Daniel_Theuma	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Adrian_Pulis	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Charles_Scerri	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Trevor_Cilia	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Joseph_John_Aquilina	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Charles_Micallef	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Lino_Galea	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Charles_Azzopardi	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Massimo_Grima	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Terence_Scerri	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Stefan_Sultana	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Kristian_Laferla	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Charlie_Williams_(soccer)>	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Joe_Cini	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Ian_Ciantar	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Roderick_Bajada	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Alex_Muscat	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Mario_Muscat	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Pippo_Psaila	dbpedia-owl:managerClub	dbpedia:Malta_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Malta_national_football_team .
+dbpedia:Clayton_Failla	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Gareth_Sciberras	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Claude_Mattocks	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Edward_Azzopardi	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Emanuel_Fabri	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Reginald_Cini	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Andrew_Cohen_(footballer)>	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:David_Camilleri	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:David_Cluett	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Jonathan_Magri_Overend	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Raymond_Xuereb	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Edmond_Agius	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Kenneth_Scicluna	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Martin_Scicluna	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Jonathan_Caruana	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Nicky_Saliba	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Salvinu_Schembri	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Martin_Gregory	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Ian_Azzopardi	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Malcolm_Licari	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Stephen_Wellman	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Adrian_Ciantar	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:George_Mallia	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Jonathan_Holland	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Jimmy_Briffa	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Roderick_Briffa	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Sean_Sullivan_(footballer)>	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Steve_Bezzina	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Jesmond_Delia	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Hubert_Suda	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Carlo_Mamo	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Edward_Herrera	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Denis_Cauchi	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Dennis_Mizzi	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Kevin_Sammut	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Pierre_Aquilina	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Simon_Tortell	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Steve_Borg	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Michael_Cutajar	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Terence_Vella	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Darren_Debono	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Dyson_Falzon	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Adrian_Mifsud	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Carmel_Busuttil	dbpedia-owl:managerClub	dbpedia:Malta_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Malta_national_football_team ;
+	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Gilbert_Agius	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Jean_Pierre_Mifsud_Triganza	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Josef_Mifsud	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Ryan_Fenech	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Vincent_Borg_Bonaci	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Joe_Brincat	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Noel_Turner	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Jesmond_Zerafa	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Edward_Darmanin	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Michael_Galea	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:John_Bonello	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Silvio_Vella	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Ernest_Spiteri-Gonzi	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Peter_Pullicino	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/Daniel_Bogdanovi%C4%87>	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Graham_Bencini	dbpedia-owl:birthPlace	dbpedia:Malta_national_football_team ;
+	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Frankie_Micallef	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Nenad_Veselji	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Richard_Buhagiar	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+<http://dbpedia.org/resource/John_Hutchinson_(footballer)>	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Manny_Muscat	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Ayrton_Azzopardi	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Rowen_Muscat	dbpedia-owl:birthPlace	dbpedia:Malta_national_football_team ;
+	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Manny_Muscat__4	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Etienne_Barbara	dbpedia-owl:birthPlace	dbpedia:Malta_national_football_team ;
+	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Terence_Scerri__6	dbpedia-owl:team	dbpedia:Malta_national_football_team .
+dbpedia:Shaun_Bajada	dbpedia-owl:birthPlace	dbpedia:Malta_national_football_team ;
+	dbpedia-owl:team	dbpedia:Malta_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Malta_national_football_team .
+dbpedia:Pietro_Ghedin	dbpedia-owl:managerClub	dbpedia:Malta_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Malta_national_football_team ;
+	dbpprop:currentclub	dbpedia:Malta_national_football_team ;
+	dbpedia-owl:team	dbpedia:Malta_national_football_team .

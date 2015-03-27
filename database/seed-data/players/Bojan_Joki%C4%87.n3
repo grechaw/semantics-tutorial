@@ -1,0 +1,231 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Bojan_Jokić	foaf:primaryTopic	<http://dbpedia.org/resource/Bojan_Joki%C4%87> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns3:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Bojan_Joki%C4%87>	rdf:type	ns3:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Bojan_Joki%C4%87>	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Bojan_Joki%C4%87>	rdf:type	yago:RunningBack110543161 .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Bojan_Joki%C4%87>	rdf:type	dbpedia-owl:SoccerPlayer ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		yago:SlovenianExpatriatesInItaly ,
+		yago:SlovenianFootballers ,
+		yago:SloveniaInternationalFootballers ,
+		yago:SlovenianExpatriateFootballers ,
+		yago:Whole100003553 ,
+		yago:Object100002684 ,
+		dbpedia-owl:Agent ,
+		yago:ExpatriateFootballersInFrance ,
+		dbpedia-owl:Person .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Bojan_Joki%C4%87>	rdf:type	dul:NaturalPerson ,
+		yago:SerieAFootballers ,
+		ns3:Q5 ,
+		dul:Agent ,
+		dbpedia-owl:Athlete ,
+		yago:ExpatriateFootballersInItaly ,
+		yago:Athlete109820263 ,
+		yago:NDGoricaPlayers ,
+		yago:FootballPlayer110101634 .
+@prefix ns8:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Bojan_Joki%C4%87>	rdf:type	ns8:SoccerPlayer ,
+		foaf:Person ,
+		yago:Player110439851 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:Contestant109613191 ,
+		yago:Ligue1Players ,
+		yago:PeopleFromKranj ,
+		<http://dbpedia.org/class/yago/FCSochaux-Montb%C3%A9liardPlayers> ,
+		yago:SlovenianPeopleOfSerbianDescent ,
+		yago:Fullback110115430 ,
+		yago:AssociationFootballFullbacks ,
+		yago:Back109830194 ,
+		<http://dbpedia.org/class/yago/A.C.ChievoVeronaPlayers> .
+@prefix ns9:	<http://schema.org/> .
+<http://dbpedia.org/resource/Bojan_Joki%C4%87>	rdf:type	ns9:Person ,
+		yago:PhysicalEntity100001930 .
+@prefix ns10:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Bojan_Joki%C4%87>	owl:sameAs	ns10:Bojan_Jokić ,
+		<http://dbpedia.org/resource/Bojan_Joki%C4%87> ,
+		<http://rdf.freebase.com/ns/m.02qz__w> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Bojan_Joki%C4%87>	rdfs:label	"Bojan Joki\u0107"@fr ,
+		"Bojan Joki\u0107"@de ,
+		"Bojan Joki\u0107"@pt ,
+		"Bojan Joki\u0107"@pl ,
+		"\u4FDD\u8D0A\u00B7\u7956\u5091"@zh ,
+		"Bojan Joki\u0107"@es ,
+		"\u0628\u0648\u064A\u0627\u0646 \u064A\u0648\u0643\u064A\u062A\u0634"@ar ,
+		"Bojan Joki\u0107"@nl ,
+		"\u30DC\u30E4\u30F3\u30FB\u30E8\u30AD\u30C3\u30C1"@ja ,
+		"\u0419\u043E\u043A\u0438\u0447, \u0411\u043E\u044F\u043D"@ru ,
+		"Bojan Joki\u0107"@it ,
+		"Bojan Joki\u0107" .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Bojan_Joki%C4%87>	dcterms:subject	category:ND_Gorica_players ,
+		category:Serie_A_footballers ,
+		category:People_from_Kranj ,
+		category:Expatriate_footballers_in_Spain ,
+		category:Expatriate_footballers_in_Italy ,
+		category:Slovenian_expatriates_in_Spain ,
+		category:Ligue_1_players ,
+		category:Villarreal_CF_footballers ,
+		<http://dbpedia.org/resource/Category:FC_Sochaux-Montb%C3%A9liard_players> ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:A.C._Chievo_Verona_players> ,
+		<http://dbpedia.org/resource/Category:1986_births> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Expatriate_footballers_in_France ,
+		category:Association_football_defenders ,
+		category:Slovenia_under-21_international_footballers ,
+		category:Slovenian_footballers ,
+		category:Slovenian_expatriates_in_Italy ,
+		category:NK_Triglav_Kranj_players ,
+		category:Slovenia_international_footballers ,
+		category:Slovenian_expatriate_footballers .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Bojan_Joki%C4%87>	dc:description	"Slovenian footballer" ,
+		"Slovenian footballer" ;
+	foaf:givenName	"Bojan" ;
+	foaf:name	"Joki\u0107, Bojan" ,
+		"Bojan Joki\u0107" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Bojan_Joki%C4%87>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Bojan_Joki\u0107?oldid=606077754> ;
+	rdfs:comment	"Bojan Joki\u0107 (Kranj, 17 maggio 1986) \u00E8 un calciatore sloveno, difensore del Villarreal e della Nazionale slovena."@it ,
+		"Bojan Joki\u0107 (Kranj, 17 mei 1986) is een Sloveens voetballer, die sinds 2009 als verdediger onder contract staat bij de Italiaanse club Chievo Verona. Hij maakte deel uit van de Sloveense selectie bij het WK voetbal 2010 in Zuid-Afrika."@nl ,
+		"Bojan Joki\u0107 (born 17 May 1986) is a Slovenian footballer who plays for Villarreal CF as a left back." ,
+		"Bojan Joki\u0107, (nacido el 17 de mayo de 1986 en Kranj) es un futbolista esloveno, que juega como lateral izquierdo para el Villarreal CF."@es ,
+		"Bojan Joki\u0107 (* 17. Mai 1986 in Kranj, SFR Jugoslawien) ist ein slowenischer Fu\u00DFballspieler. Seit Sommer 2013 steht der Verteidiger beim spanischen Erstligisten FC Villarreal unter Vertrag."@de ,
+		"\u0411\u043E\u0301\u044F\u043D \u0419\u043E\u0301\u043A\u0438\u0447 (\u0441\u043B\u043E\u0432\u0435\u043D. Bojan Joki\u010D; 17 \u043C\u0430\u044F 1986, \u041A\u0440\u0430\u043D\u044C, \u0421\u0424\u0420\u042E) \u2014 \u0441\u043B\u043E\u0432\u0435\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043B\u0435\u0432\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0412\u0438\u043B\u044C\u044F\u0440\u0440\u0435\u0430\u043B\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u043B\u043E\u0432\u0435\u043D\u0438\u0438.\u0420\u043E\u0434\u0438\u043B\u0441\u044F \u0432 \u0433\u043E\u0440\u043E\u0434\u0435 \u041A\u0440\u0430\u043D\u044C \u043D\u0430 \u0441\u0435\u0432\u0435\u0440\u043E-\u0437\u0430\u043F\u0430\u0434\u0435 \u0421\u043B\u043E\u0432\u0435\u043D\u0438\u0438. \u041A\u0430\u0440\u044C\u0435\u0440\u0443 \u043D\u0430\u0447\u0438\u043D\u0430\u043B \u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0435 \u00AB\u0422\u0440\u0438\u0433\u043B\u0430\u0432\u00BB \u0438\u0437 \u0440\u043E\u0434\u043D\u043E\u0433\u043E \u0433\u043E\u0440\u043E\u0434\u0430."@ru ,
+		"\u0628\u0648\u064A\u0627\u0646 \u064A\u0648\u0643\u064A\u062A\u0634 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Bojan Joki\u0107) (\u0645\u0648\u0627\u0644\u064A\u062F 17 \u0645\u0627\u064A\u0648 1986 \u0641\u064A \u0643\u0631\u0627\u0646\u064A) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0633\u0644\u0648\u0641\u064A\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0643\u064A\u064A\u0641\u0648 \u0641\u064A\u0631\u0648\u0646\u0627 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A ."@ar ,
+		"\u30DC\u30E4\u30F3\u30FB\u30E8\u30AD\u30C3\u30C1\uFF08Bojan Joki\u0107\u30011986\u5E745\u670817\u65E5 - \uFF09\u306F\u3001\u30B9\u30ED\u30D9\u30CB\u30A2\u30FB\u30AF\u30E9\u30FC\u30CB\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002"@ja ,
+		"Bojan Joki\u0107 (Kranj, 17 de mar\u00E7o de 1986) \u00E9 um futebolista esloveno que atua como zagueiro e defende o Villarreal e a sele\u00E7\u00E3o eslovena."@pt ,
+		"\u4FDD\u8D0A\u00B7\u7956\u5091\uFF08\u82F1\u8BED\uFF1ABojan Joki\u0107\uFF0C1986\u5E745\u670817\u65E5\uFF0D\uFF09\uFF0C\u662F\u4E00\u540D\u65AF\u6D1B\u6587\u5C3C\u4E9E\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u53F8\u804C\u5F8C\u885B\uFF0C\u76EE\u524D\u6548\u529B\u897F\u7532\u7403\u961F\u7DAD\u62C9\u5229\u723E\u3002"@zh ,
+		"Bojan Joki\u010D, n\u00E9 le 17 mai 1986 \u00E0 Kranj, est un joueur de football slov\u00E8ne \u00E9voluant au poste d'arri\u00E8re sous le maillot de Villarreal CF."@fr ,
+		"Bojan Joki\u0107 (ur. 17 maja 1986 roku w Kranju) \u2013 s\u0142owe\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji lewego obro\u0144cy. Obecnie gra w Villarreal."@pl ;
+	foaf:surname	"Joki\u0107" ;
+	foaf:isPrimaryTopicOf	ns1:Bojan_Jokić .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix ns17:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Bojan_Joki%C4%87>	dbpprop:hasPhotoCollection	ns17:Bojan_Jokić ;
+	dbpprop:name	"Bojan Joki\u0107" ,
+		"Joki\u0107, Bojan" ;
+	dbpedia-owl:abstract	"\u4FDD\u8D0A\u00B7\u7956\u5091\uFF08\u82F1\u8BED\uFF1ABojan Joki\u0107\uFF0C1986\u5E745\u670817\u65E5\uFF0D\uFF09\uFF0C\u662F\u4E00\u540D\u65AF\u6D1B\u6587\u5C3C\u4E9E\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u53F8\u804C\u5F8C\u885B\uFF0C\u76EE\u524D\u6548\u529B\u897F\u7532\u7403\u961F\u7DAD\u62C9\u5229\u723E\u3002"@zh ,
+		"Bojan Joki\u0107 (Kranj, 17 mei 1986) is een Sloveens voetballer, die sinds 2009 als verdediger onder contract staat bij de Italiaanse club Chievo Verona. Hij maakte deel uit van de Sloveense selectie bij het WK voetbal 2010 in Zuid-Afrika."@nl ,
+		"\u30DC\u30E4\u30F3\u30FB\u30E8\u30AD\u30C3\u30C1\uFF08Bojan Joki\u0107\u30011986\u5E745\u670817\u65E5 - \uFF09\u306F\u3001\u30B9\u30ED\u30D9\u30CB\u30A2\u30FB\u30AF\u30E9\u30FC\u30CB\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002"@ja ,
+		"Bojan Joki\u0107 (Kranj, 17 de mar\u00E7o de 1986) \u00E9 um futebolista esloveno que atua como zagueiro e defende o Villarreal e a sele\u00E7\u00E3o eslovena."@pt ,
+		"\u0411\u043E\u0301\u044F\u043D \u0419\u043E\u0301\u043A\u0438\u0447 (\u0441\u043B\u043E\u0432\u0435\u043D. Bojan Joki\u010D; 17 \u043C\u0430\u044F 1986, \u041A\u0440\u0430\u043D\u044C, \u0421\u0424\u0420\u042E) \u2014 \u0441\u043B\u043E\u0432\u0435\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043B\u0435\u0432\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0412\u0438\u043B\u044C\u044F\u0440\u0440\u0435\u0430\u043B\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u043B\u043E\u0432\u0435\u043D\u0438\u0438.\u0420\u043E\u0434\u0438\u043B\u0441\u044F \u0432 \u0433\u043E\u0440\u043E\u0434\u0435 \u041A\u0440\u0430\u043D\u044C \u043D\u0430 \u0441\u0435\u0432\u0435\u0440\u043E-\u0437\u0430\u043F\u0430\u0434\u0435 \u0421\u043B\u043E\u0432\u0435\u043D\u0438\u0438. \u041A\u0430\u0440\u044C\u0435\u0440\u0443 \u043D\u0430\u0447\u0438\u043D\u0430\u043B \u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u0435 \u00AB\u0422\u0440\u0438\u0433\u043B\u0430\u0432\u00BB \u0438\u0437 \u0440\u043E\u0434\u043D\u043E\u0433\u043E \u0433\u043E\u0440\u043E\u0434\u0430. \u0412 \u0432\u043E\u0437\u0440\u0430\u0441\u0442\u0435 19 \u043B\u0435\u0442 \u043F\u0435\u0440\u0435\u0448\u0451\u043B \u0432 \u043A\u043B\u0443\u0431 \u00AB\u0413\u043E\u0440\u0438\u0446\u0430\u00BB, \u0441 \u043A\u043E\u0442\u043E\u0440\u044B\u043C \u0432 2006 \u0433\u043E\u0434\u0443 \u0432\u044B\u0438\u0433\u0440\u0430\u043B \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u0421\u043B\u043E\u0432\u0435\u043D\u0438\u0438 (\u0434\u043B\u044F \u00AB\u0413\u043E\u0440\u0438\u0446\u044B\u00BB \u044D\u0442\u043E \u0441\u0442\u0430\u043B\u043E \u0442\u0440\u0435\u0442\u044C\u0438\u043C \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0441\u043A\u0438\u043C \u0442\u0438\u0442\u0443\u043B\u043E\u043C \u043F\u043E\u0434\u0440\u044F\u0434), \u0430 \u043D\u0430 \u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0438\u0439 \u0433\u043E\u0434 \u0441\u0442\u0430\u043B \u0432\u0438\u0446\u0435-\u0447\u0435\u043C\u043F\u0438\u043E\u043D\u043E\u043C \u0441\u0442\u0440\u0430\u043D\u044B.\u041F\u043E\u0441\u043B\u0435 \u044D\u0442\u043E\u0433\u043E \u0419\u043E\u043A\u0438\u0447 \u0431\u044B\u043B \u043A\u0443\u043F\u043B\u0435\u043D \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u043C \u043A\u043B\u0443\u0431\u043E\u043C \u00AB\u0421\u043E\u0448\u043E\u00BB, \u0433\u0434\u0435 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0434\u043E 2010 \u0433\u043E\u0434\u0430. \u041A\u043E\u043D\u0442\u0440\u0430\u043A\u0442 \u0419\u043E\u043A\u0438\u0447\u0430 \u0441 \u00AB\u0421\u043E\u0448\u043E\u00BB \u0434\u0435\u0439\u0441\u0442\u0432\u043E\u0432\u0430\u043B \u0434\u043E \u043B\u0435\u0442\u0430 2011 \u0433\u043E\u0434\u0430. \u0412 16 \u043F\u0435\u0440\u0432\u044B\u0445 \u0442\u0443\u0440\u0430\u0445 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u0424\u0440\u0430\u043D\u0446\u0438\u0438 2009/10 \u0419\u043E\u043A\u0438\u0447 \u0432\u044B\u0445\u043E\u0434\u0438\u043B \u043D\u0430 \u043F\u043E\u043B\u0435 \u0432\u0441\u0435\u0433\u043E 3 \u0440\u0430\u0437\u0430. \u0412 \u044F\u043D\u0432\u0430\u0440\u0435 2010 \u0433\u043E\u0434\u0430 \u0431\u044B\u043B \u043E\u0442\u0434\u0430\u043D \u0432 \u0430\u0440\u0435\u043D\u0434\u0443 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u043E\u043C\u0443 \u00AB\u041A\u044C\u0435\u0432\u043E\u00BB \u0438 \u043F\u043E\u043C\u043E\u0433 \u0442\u043E\u043C\u0443 \u0438\u0437\u0431\u0435\u0436\u0430\u0442\u044C \u0432\u044B\u043B\u0435\u0442\u0430 \u0438\u0437 \u0441\u0435\u0440\u0438\u0438 \u0410, \u0441\u044B\u0433\u0440\u0430\u0432 9 \u043C\u0430\u0442\u0447\u0435\u0439 (\u00AB\u041A\u044C\u0435\u0432\u043E\u00BB \u0437\u0430\u043D\u044F\u043B 16-\u0435 \u043C\u0435\u0441\u0442\u043E \u0438\u0437 20 \u043A\u043E\u043C\u0430\u043D\u0434 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0418\u0442\u0430\u043B\u0438\u0438 2009/10, \u00AB\u0421\u043E\u0448\u043E\u00BB \u0444\u0438\u043D\u0438\u0448\u0438\u0440\u043E\u0432\u0430\u043B \u043D\u0430 \u0442\u043E\u043C \u0436\u0435 \u043C\u0435\u0441\u0442\u0435 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0424\u0440\u0430\u043D\u0446\u0438\u0438). \u041B\u0435\u0442\u043E\u043C 2010 \u0433\u043E\u0434\u0430 \u0438\u0442\u0430\u043B\u044C\u044F\u043D\u0441\u043A\u0438\u0439 \u043A\u043B\u0443\u0431 \u0432\u044B\u043A\u0443\u043F\u0438\u043B \u0443 \u00AB\u0421\u043E\u0448\u043E\u00BB \u043F\u0440\u0430\u0432\u0430 \u043D\u0430 \u0419\u043E\u043A\u0438\u0447\u0430.\u041F\u043E\u0441\u043B\u0435 \u0442\u0440\u0451\u0445 \u0441\u0435\u0437\u043E\u043D\u043E\u0432 \u0432 \u00AB\u041A\u044C\u0435\u0432\u043E\u00BB \u0432 2013 \u0433\u043E\u0434\u0443 \u043F\u0435\u0440\u0435\u0448\u0451\u043B \u0432 \u0438\u0441\u043F\u0430\u043D\u0441\u043A\u0438\u0439 \u043A\u043B\u0443\u0431 \u00AB\u0412\u0438\u043B\u044C\u044F\u0440\u0440\u0435\u0430\u043B\u00BB.\u0412 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0419\u043E\u043A\u0438\u0447 \u0434\u0435\u0431\u044E\u0442\u0438\u0440\u043E\u0432\u0430\u043B \u0432 19-\u043B\u0435\u0442\u043D\u0435\u043C \u0432\u043E\u0437\u0440\u0430\u0441\u0442\u0435 28 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 2006 \u0433\u043E\u0434\u0430 \u0432 \u0433\u043E\u0441\u0442\u0435\u0432\u043E\u043C \u0442\u043E\u0432\u0430\u0440\u0438\u0449\u0435\u0441\u043A\u043E\u043C \u043C\u0430\u0442\u0447\u0435 \u0441 \u041A\u0438\u043F\u0440\u043E\u043C. \u0412 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u0419\u043E\u043A\u0438\u0447 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043E\u0441\u043D\u043E\u0432\u043D\u044B\u043C \u043B\u0435\u0432\u044B\u043C \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A\u043E\u043C \u0441\u0431\u043E\u0440\u043D\u043E\u0439, \u0437\u0430 \u043A\u043E\u0442\u043E\u0440\u0443\u044E \u043E\u043D \u043F\u0440\u043E\u0432\u0451\u043B \u0443\u0436\u0435 \u0431\u043E\u043B\u0435\u0435 60 \u043C\u0430\u0442\u0447\u0435\u0439. \u041D\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u043C\u0438\u0440\u0430 2010 \u0433\u043E\u0434\u0430 \u0432 \u042E\u0410\u0420 \u043F\u0440\u043E\u0432\u0451\u043B \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0432\u0441\u0435 3 \u043C\u0430\u0442\u0447\u0430 (1 \u043F\u043E\u0431\u0435\u0434\u0430, 1 \u043D\u0438\u0447\u044C\u044F \u0438 1 \u043F\u043E\u0440\u0430\u0436\u0435\u043D\u0438\u0435) \u0438 \u0441\u0442\u0430\u043B \u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u043C \u0438\u0437 \u0441\u043B\u043E\u0432\u0435\u043D\u0446\u0435\u0432, \u043A\u0442\u043E \u043F\u043E\u043B\u0443\u0447\u0438\u043B 2 \u0436\u0451\u043B\u0442\u044B\u0435 \u043A\u0430\u0440\u0442\u043E\u0447\u043A\u0438."@ru ,
+		"Bojan Joki\u0107 (Kranj, 17 maggio 1986) \u00E8 un calciatore sloveno, difensore del Villarreal e della Nazionale slovena."@it ,
+		"Bojan Joki\u0107 (ur. 17 maja 1986 roku w Kranju) \u2013 s\u0142owe\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji lewego obro\u0144cy. Obecnie gra w Villarreal."@pl ,
+		"Bojan Joki\u0107 (* 17. Mai 1986 in Kranj, SFR Jugoslawien) ist ein slowenischer Fu\u00DFballspieler. Seit Sommer 2013 steht der Verteidiger beim spanischen Erstligisten FC Villarreal unter Vertrag."@de ,
+		"\u0628\u0648\u064A\u0627\u0646 \u064A\u0648\u0643\u064A\u062A\u0634 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Bojan Joki\u0107) (\u0645\u0648\u0627\u0644\u064A\u062F 17 \u0645\u0627\u064A\u0648 1986 \u0641\u064A \u0643\u0631\u0627\u0646\u064A) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0633\u0644\u0648\u0641\u064A\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0643\u064A\u064A\u0641\u0648 \u0641\u064A\u0631\u0648\u0646\u0627 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A ."@ar ,
+		"Bojan Joki\u010D, n\u00E9 le 17 mai 1986 \u00E0 Kranj, est un joueur de football slov\u00E8ne \u00E9voluant au poste d'arri\u00E8re sous le maillot de Villarreal CF."@fr ,
+		"Bojan Joki\u0107 (born 17 May 1986) is a Slovenian footballer who plays for Villarreal CF as a left back." ,
+		"Bojan Joki\u0107, (nacido el 17 de mayo de 1986 en Kranj) es un futbolista esloveno, que juega como lateral izquierdo para el Villarreal CF."@es ;
+	dbpedia-owl:wikiPageID	11069864 ;
+	dbpedia-owl:wikiPageRevisionID	606077754 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Bojan_Joki%C4%87>	dbpprop:birthDate	"1986-05-17+02:00"^^xsd:date .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Bojan_Joki%C4%87>	dbpprop:birthPlace	dbpedia:Kranj ,
+		dbpedia:Socialist_Federal_Republic_of_Yugoslavia ;
+	dbpprop:dateOfBirth	"1986-05-17+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Kranj, SFR Yugoslavia" ;
+	dbpprop:shortDescription	"Slovenian footballer" ;
+	dbpedia-owl:birthDate	"1986-05-17+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Kranj ,
+		dbpedia:Socialist_Federal_Republic_of_Yugoslavia ;
+	dbpedia-owl:birthYear	"1986+02:00"^^xsd:gYear ;
+	dbpprop:goals	0 ,
+		1 ;
+	dbpprop:caps	65 ,
+		12 ,
+		9 ,
+		57 ,
+		54 ,
+		43 ;
+	dbpprop:years	2010 ,
+		2013 ,
+		2003 ,
+		2007 ,
+		2005 ;
+	dbpprop:youthclubs	dbpedia:NK_Kranj ,
+		dbpedia:NK_Triglav_Kranj ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Bojan_Joki%C4%87__4> ,
+		<http://dbpedia.org/resource/Bojan_Joki%C4%87__1> ,
+		<http://dbpedia.org/resource/Bojan_Joki%C4%87__8> ,
+		<http://dbpedia.org/resource/Bojan_Joki%C4%87__2> ,
+		<http://dbpedia.org/resource/Bojan_Joki%C4%87__3> ,
+		<http://dbpedia.org/resource/Bojan_Joki%C4%87__5> ,
+		<http://dbpedia.org/resource/Bojan_Joki%C4%87__10> ,
+		<http://dbpedia.org/resource/Bojan_Joki%C4%87__9> ,
+		<http://dbpedia.org/resource/Bojan_Joki%C4%87__7> ,
+		<http://dbpedia.org/resource/Bojan_Joki%C4%87__6> ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.7600000000000000089 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Bojan_Joki%C4%87>	ns21:height	"176.0"^^ns20:centimetre ;
+	dbpprop:currentclub	dbpedia:Villarreal_CF ;
+	dbpprop:clubnumber	3 ;
+	dbpprop:fullname	"Bojan Joki\u0107" ;
+	dbpprop:clubs	dbpedia:Villarreal_CF ,
+		<http://dbpedia.org/resource/A.C._Chievo_Verona> ,
+		<http://dbpedia.org/resource/FC_Sochaux-Montb%C3%A9liard> ,
+		dbpedia:ND_Gorica ,
+		"\u2192 Chievo" ,
+		dbpedia:NK_Triglav_Kranj ;
+	dbpedia-owl:team	dbpedia:Slovenia_national_football_team ,
+		dbpedia:Slovenia_national_under-21_football_team ,
+		dbpedia:Villarreal_CF ,
+		dbpedia:NK_Kranj ,
+		<http://dbpedia.org/resource/A.C._Chievo_Verona> ,
+		<http://dbpedia.org/resource/FC_Sochaux-Montb%C3%A9liard> ,
+		dbpedia:ND_Gorica ,
+		dbpedia:NK_Triglav_Kranj .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Bojan_Joki%C4%87>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:pcupdate	"2014-04-27+02:00"^^xsd:date ;
+	dbpprop:youthyears	1994 ,
+		2002 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.fcsochaux.fr/fr/Saison/consult/joueurs.php?id_joueur=7&annee=2008> ,
+		<http://www.lfp.fr/joueur/index.asp?no_joueur=115294> ,
+		<http://www.nzs.si/index.php?t=reprezentancaPortret&id=33068> ;
+	dbpprop:nationalcaps	7 ,
+		66 ;
+	dbpprop:nationalgoals	0 ,
+		1 ;
+	dbpprop:nationalteam	dbpedia:Slovenia_national_football_team ,
+		dbpedia:Slovenia_national_under-21_football_team ;
+	dbpprop:nationalyears	2006 ;
+	dbpedia-owl:number	3 ;
+	dbpedia-owl:alias	"Joki\u010D, Bojan" ;
+	dbpprop:alternativeNames	"Joki\u010D, Bojan" ;
+	dbpprop:ntupdate	"2014-03-05+02:00"^^xsd:date .
+<http://dbpedia.org/resource/2012%E2%80%9313_A.C._ChievoVerona_season__Bojan_Joki%C4%87__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Bojan_Joki%C4%87> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Bojan_Joki%C4%87> .
+dbpedia:Slovenia_national_football_team	dbpprop:name	<http://dbpedia.org/resource/Bojan_Joki%C4%87> .
+dbpedia:List_of_Slovenia_national_football_team_World_Cup_and_European_Championship_squads	dbpprop:name	<http://dbpedia.org/resource/Bojan_Joki%C4%87> .
+dbpedia:Villarreal_CF	dbpprop:name	<http://dbpedia.org/resource/Bojan_Joki%C4%87> .
+<http://dbpedia.org/resource/2011%E2%80%9312_A.C._ChievoVerona_season>	dbpprop:name	<http://dbpedia.org/resource/Bojan_Joki%C4%87> .
+<http://dbpedia.org/resource/2012%E2%80%9313_A.C._ChievoVerona_season>	dbpprop:name	<http://dbpedia.org/resource/Bojan_Joki%C4%87> .
+dbpedia:Bojan_Jokić	owl:sameAs	<http://dbpedia.org/resource/Bojan_Joki%C4%87> .
+<http://dbpedia.org/resource/Joki%C4%87>	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Bojan_Joki%C4%87> .
+<http://dbpedia.org/resource/Villarreal_CF__Bojan_Joki%C4%87__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Bojan_Joki%C4%87> .
+<http://dbpedia.org/resource/2011%E2%80%9312_A.C._ChievoVerona_season__Bojan_Joki%C4%8D__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Bojan_Joki%C4%87> .
+<http://dbpedia.org/resource/Bojan_Joki%C4%8D>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Bojan_Joki%C4%87> .
+dbpedia:Bojan_Jokic	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Bojan_Joki%C4%87> .

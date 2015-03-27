@@ -1,0 +1,982 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xml:base="http://www.daml.org/2001/12/factbook/hu">
+  <rdf:Description rdf:about='#UrbanCounty'>
+    <rdf:type rdf:resource='http://www.w3.org/2000/01/rdf-schema#Class'/>
+    <rdfs:subClassOf rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AdministrativeDivision'/>
+    <rdfs:label>UrbanCounty</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46724'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Hungarian'/>
+    <NS0:percent>89.9</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46710'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:ratio>0.91</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#CapitalCity'>
+    <rdf:type rdf:resource='http://www.w3.org/2000/01/rdf-schema#Class'/>
+    <rdfs:subClassOf rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AdministrativeDivision'/>
+    <rdfs:label>CapitalCity</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46705'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>65</NS0:minAge>
+    <NS0:ratio>0.58</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47279'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47060'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47093'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46699'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>15</NS0:minAge>
+    <NS0:maxAge>64</NS0:maxAge>
+    <NS0:ratio>0.96</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46693'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>14</NS0:maxAge>
+    <NS0:ratio>1.05</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47075'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#agriculture'/>
+    <NS0:percent>8</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46687'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>0</NS0:maxAge>
+    <NS0:ratio>1.07</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47070'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#industry'/>
+    <NS0:percent>27</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47065'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#services'/>
+    <NS0:percent>65</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47190'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46672'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>July 2001</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47105'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47181'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47176'>
+    <NS0:year>1995</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46632'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Kekes</NS0:name>
+    <NS0:elevation>1014</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46627'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Tisza River</NS0:name>
+    <NS0:elevation>78</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47174'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46684'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46612'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>47.0</NS0:latitude>
+    <NS0:longitude>20.0</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47079'>
+    <NS0:year>1996</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46623'>
+    <NS0:note>landlocked</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47285'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47107'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47183'>
+    <NS0:note>July 1999</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47051'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47058'>
+    <NS0:year>1996</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47046'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46964'>
+    <rdf:type rdf:resource='#UrbanCounty'/>
+    <NS0:name>Zalaegerszeg</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47144'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47063'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46960'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Zala</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46956'>
+    <rdf:type rdf:resource='#UrbanCounty'/>
+    <NS0:name>Veszprem</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46952'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Veszprem</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47188'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46948'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Vas</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47040'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46944'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Tolna</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46713'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47199'>
+    <NS0:note>including 448 km of expressways</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46940'>
+    <rdf:type rdf:resource='#UrbanCounty'/>
+    <NS0:name>Tatabanya</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46936'>
+    <rdf:type rdf:resource='#UrbanCounty'/>
+    <NS0:name>Szombathely</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46932'>
+    <rdf:type rdf:resource='#UrbanCounty'/>
+    <NS0:name>Szolnok</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46928'>
+    <rdf:type rdf:resource='#UrbanCounty'/>
+    <NS0:name>Szekesfehervar</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#HU'>
+    <NS0:background>Hungary was part of the polyglot Austro-Hungarian Empire, which collapsed during World War I. The country fell under communist rule following World War II. In 1956, a revolt and announced withdrawal from the Warsaw Pact were met with a massive military intervention by Moscow. In the more open GORBACHEV years, Hungary led the movement to dissolve the Warsaw Pact and steadily shifted toward multiparty democracy and a market-oriented economy. Following the collapse of the USSR in 1991, Hungary developed close political and economic ties to Western Europe. It joined NATO in 1999 and is a frontrunner in a future expansion of the EU.</NS0:background>
+    <NS0:location>Central Europe, northwest of Romania</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A46612'/>
+    <NS0:mapReferences>Europe</NS0:mapReferences>
+    <NS0:totalArea>93030</NS0:totalArea>
+    <NS0:landArea>92340</NS0:landArea>
+    <NS0:waterArea>690</NS0:waterArea>
+    <NS0:comparativeArea>slightly smaller than Indiana</NS0:comparativeArea>
+    <NS0:landBoundaries>2009</NS0:landBoundaries>
+    <NS0:coastline rdf:ID='A46623'>0</NS0:coastline>
+    <NS0:climate>temperate; cold, cloudy, humid winters; warm summers</NS0:climate>
+    <NS0:terrain>mostly flat to rolling plains; hills and low mountains on the Slovakian border</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A46627'/>
+    <NS0:highestPoint rdf:resource='#A46632'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#bauxite'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#coal'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#natural_gas'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#fertile_soils'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#arable_land'/>
+    <NS0:arableLand>51</NS0:arableLand>
+    <NS0:permanentCrops>3.6</NS0:permanentCrops>
+    <NS0:permanentPastures>12.4</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>19</NS0:forestsAndWoodland>
+    <NS0:otherLandUse rdf:ID='A46646'>14</NS0:otherLandUse>
+    <NS0:irrigatedLand rdf:ID='A46648'>2060</NS0:irrigatedLand>
+    <NS0:environmentalIssue>the approximation of Hungary&apos;s standards in waste management, energy efficiency, and air, soil, and water pollution with environmental requirements for EU accession will require large investments</NS0:environmentalIssue>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution-Nitrogen_Oxides'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution-Sulphur_85'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution-Volatile_Organic_Compounds'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Antarctic_Treaty'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Biodiversity'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Climate_Change'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Desertification'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Endangered_Species'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Environmental_Modification'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Hazardous_Wastes'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Marine_Dumping'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Nuclear_Test_Ban'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Ozone_Layer_Protection'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Ship_Pollution'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Wetlands'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution-Persistent_Organic_Pollutants'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution-Sulphur_94'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Antarctic-Environmental_Protocol'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Law_of_the_Sea'/>
+    <NS0:population rdf:ID='A46672'>10106017</NS0:population>
+    <NS0:populationGrowthRate rdf:ID='A46675'>-0.32</NS0:populationGrowthRate>
+    <NS0:birthRate rdf:ID='A46678'>9.32</NS0:birthRate>
+    <NS0:deathRate rdf:ID='A46681'>13.21</NS0:deathRate>
+    <NS0:netMigrationRate rdf:ID='A46684'>0.74</NS0:netMigrationRate>
+    <NS0:sexRatio rdf:resource='#A46687'/>
+    <NS0:sexRatio rdf:resource='#A46693'/>
+    <NS0:sexRatio rdf:resource='#A46699'/>
+    <NS0:sexRatio rdf:resource='#A46705'/>
+    <NS0:sexRatio rdf:ID='A46713' rdf:resource='#A46710'/>
+    <NS0:infantMortalityRate rdf:ID='A46716'>8.96</NS0:infantMortalityRate>
+    <NS0:totalFertilityRate rdf:ID='A46719'>1.25</NS0:totalFertilityRate>
+    <NS0:nationalityNoun>Hungarian(s)</NS0:nationalityNoun>
+    <NS0:nationalityAdjective>Hungarian</NS0:nationalityAdjective>
+    <NS0:ethnicGroup rdf:resource='#A46724'/>
+    <NS0:ethnicGroup rdf:resource='#A46729'/>
+    <NS0:ethnicGroup rdf:resource='#A46734'/>
+    <NS0:ethnicGroup rdf:resource='#A46739'/>
+    <NS0:ethnicGroup rdf:resource='#A46744'/>
+    <NS0:ethnicGroup rdf:resource='#A46749'/>
+    <NS0:religion rdf:resource='#A46754'/>
+    <NS0:religion rdf:resource='#A46759'/>
+    <NS0:religion rdf:resource='#A46764'/>
+    <NS0:religion rdf:resource='#A46769'/>
+    <NS0:language rdf:resource='#A46774'/>
+    <NS0:language rdf:resource='#A46779'/>
+    <NS0:literacyDefinition>age 15 and over can read and write</NS0:literacyDefinition>
+    <NS0:literacyTotal>99</NS0:literacyTotal>
+    <NS0:literacyMale>99</NS0:literacyMale>
+    <NS0:literacyFemale rdf:ID='A46787'>98</NS0:literacyFemale>
+    <NS0:conventionalLongCountryName>Republic of Hungary</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Hungary</NS0:conventionalShortCountryName>
+    <NS0:localLongCountryName>Magyar Koztarsasag</NS0:localLongCountryName>
+    <NS0:localShortCountryName>Magyarorszag</NS0:localShortCountryName>
+    <NS0:governmentType rdf:resource='http://www.daml.org/2001/12/factbook/governmentTypes#parliamentary_democracy'/>
+    <NS0:capital rdf:resource='#A46795'/>
+    <NS0:administrativeDivision rdf:resource='#A46808'/>
+    <NS0:administrativeDivision rdf:resource='#A46812'/>
+    <NS0:administrativeDivision rdf:resource='#A46816'/>
+    <NS0:administrativeDivision rdf:resource='#A46820'/>
+    <NS0:administrativeDivision rdf:resource='#A46824'/>
+    <NS0:administrativeDivision rdf:resource='#A46828'/>
+    <NS0:administrativeDivision rdf:resource='#A46832'/>
+    <NS0:administrativeDivision rdf:resource='#A46836'/>
+    <NS0:administrativeDivision rdf:resource='#A46840'/>
+    <NS0:administrativeDivision rdf:resource='#A46844'/>
+    <NS0:administrativeDivision rdf:resource='#A46848'/>
+    <NS0:administrativeDivision rdf:resource='#A46852'/>
+    <NS0:administrativeDivision rdf:resource='#A46856'/>
+    <NS0:administrativeDivision rdf:resource='#A46860'/>
+    <NS0:administrativeDivision rdf:resource='#A46864'/>
+    <NS0:administrativeDivision rdf:resource='#A46868'/>
+    <NS0:administrativeDivision rdf:resource='#A46872'/>
+    <NS0:administrativeDivision rdf:resource='#A46876'/>
+    <NS0:administrativeDivision rdf:resource='#A46880'/>
+    <NS0:administrativeDivision rdf:resource='#A46884'/>
+    <NS0:administrativeDivision rdf:resource='#A46888'/>
+    <NS0:administrativeDivision rdf:resource='#A46892'/>
+    <NS0:administrativeDivision rdf:resource='#A46896'/>
+    <NS0:administrativeDivision rdf:resource='#A46900'/>
+    <NS0:administrativeDivision rdf:resource='#A46904'/>
+    <NS0:administrativeDivision rdf:resource='#A46908'/>
+    <NS0:administrativeDivision rdf:resource='#A46912'/>
+    <NS0:administrativeDivision rdf:resource='#A46916'/>
+    <NS0:administrativeDivision rdf:resource='#A46920'/>
+    <NS0:administrativeDivision rdf:resource='#A46924'/>
+    <NS0:administrativeDivision rdf:resource='#A46928'/>
+    <NS0:administrativeDivision rdf:resource='#A46932'/>
+    <NS0:administrativeDivision rdf:resource='#A46936'/>
+    <NS0:administrativeDivision rdf:resource='#A46940'/>
+    <NS0:administrativeDivision rdf:resource='#A46944'/>
+    <NS0:administrativeDivision rdf:resource='#A46948'/>
+    <NS0:administrativeDivision rdf:resource='#A46952'/>
+    <NS0:administrativeDivision rdf:resource='#A46956'/>
+    <NS0:administrativeDivision rdf:resource='#A46960'/>
+    <NS0:administrativeDivision rdf:resource='#A46964'/>
+    <NS0:independence>1001 (unification by King Stephen I)</NS0:independence>
+    <NS0:constitution>18 August 1949, effective 20 August 1949, revised 19 April 1972; 18 October 1989 revision ensured legal rights for individuals and constitutional checks on the authority of the prime minister and also established the principle of parliamentary oversight; 1997 amendment streamlined the judicial system</NS0:constitution>
+    <NS0:legalSystem>rule of law based on Western model</NS0:legalSystem>
+    <NS0:suffrage>18 years of age; universal</NS0:suffrage>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ABEDA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Australia_Group'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#BIS'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CCC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CE'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CEI'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CERN'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#EAPC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#EBRD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ECE'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#EU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#FAO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#G-_9'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IAEA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IBRD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICAO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICFTU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICRM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IDA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IEA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFRCS'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ILO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IMF'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IMO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Inmarsat'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Intelsat'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Interpol'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IOC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IOM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ISO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ITU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#MINURSO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NAM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NATO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NEA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NSG'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OAS'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OECD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OPCW'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OSCE'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#PCA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#PFP'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UN'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNCTAD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNESCO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNFICYP'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNHCR'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNIDO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNIKOM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNMIBH'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNMIK'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNMOGIP'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNOMIG'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UPU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WCL'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WEU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WFTU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WHO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WIPO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WMO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WToO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WTrO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ZC'/>
+    <NS0:flagDescription>three equal horizontal bands of red (top), white, and green</NS0:flagDescription>
+    <NS0:economyOverview>Hungary continues to demonstrate strong economic growth and to work toward accession to the European Union. The private sector accounts for over 80% of GDP. Foreign ownership of and investment in Hungarian firms is widespread, with cumulative foreign direct investment totaling $23 billion by 2000. Hungarian sovereign debt was upgraded in 2000 to the second-highest rating among all the Central European transition economies. Inflation - a top economic concern in 2000 - is still high at almost 10%, pushed upward by higher world oil and gas and domestic food prices. Economic reform measures such as health care reform, tax reform, and local government financing have not yet been addressed by the ORBAN government.</NS0:economyOverview>
+    <NS0:grossDomesticProduct rdf:ID='A47040'>113900000000</NS0:grossDomesticProduct>
+    <NS0:grossDomesticProductRealGrowth rdf:ID='A47043'>5.5</NS0:grossDomesticProductRealGrowth>
+    <NS0:grossDomesticProductPerCapita rdf:ID='A47046'>11200</NS0:grossDomesticProductPerCapita>
+    <NS0:grossDomesticProductAgriculture>5</NS0:grossDomesticProductAgriculture>
+    <NS0:grossDomesticProductIndustry>35</NS0:grossDomesticProductIndustry>
+    <NS0:grossDomesticProductServices rdf:ID='A47051'>60</NS0:grossDomesticProductServices>
+    <NS0:populationBelowPovertyLine rdf:ID='A47054'>8.6</NS0:populationBelowPovertyLine>
+    <NS0:householdIncomeLowest10Percent>3.9</NS0:householdIncomeLowest10Percent>
+    <NS0:householdIncomeHighest10Percent rdf:ID='A47058'>24.8</NS0:householdIncomeHighest10Percent>
+    <NS0:inflationRate rdf:ID='A47060'>9.8</NS0:inflationRate>
+    <NS0:laborForce rdf:ID='A47063'>4200000</NS0:laborForce>
+    <NS0:occupation rdf:resource='#A47065'/>
+    <NS0:occupation rdf:resource='#A47070'/>
+    <NS0:occupation rdf:ID='A47079' rdf:resource='#A47075'/>
+    <NS0:unemploymentRate rdf:ID='A47081'>9.4</NS0:unemploymentRate>
+    <NS0:budgetRevenues>13000000000</NS0:budgetRevenues>
+    <NS0:budgetExpenditures>14400000000</NS0:budgetExpenditures>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#mining'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#metallurgy'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#construction_materials'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#processed_foods'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#textiles'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#chemicals'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#motor_vehicles'/>
+    <NS0:industrialProductionGrowthRate rdf:ID='A47093'>18</NS0:industrialProductionGrowthRate>
+    <NS0:electricityProduction rdf:ID='A47096'>36750000000</NS0:electricityProduction>
+    <NS0:electricityProductionFossilFuel>61.09</NS0:electricityProductionFossilFuel>
+    <NS0:electricityProductionHydro>0.51</NS0:electricityProductionHydro>
+    <NS0:electricityProductionNuclear>38.4</NS0:electricityProductionNuclear>
+    <NS0:electricityProductionOther rdf:ID='A47101'>0</NS0:electricityProductionOther>
+    <NS0:electricityConsumption rdf:ID='A47103'>35234000000</NS0:electricityConsumption>
+    <NS0:electricityExports rdf:ID='A47105'>2350000000</NS0:electricityExports>
+    <NS0:electricityImports rdf:ID='A47107'>3406000000</NS0:electricityImports>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#wheat'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#corn'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#sunflower_seed'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#potatoes'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#sugar_beets'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#pigs'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#cattle'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#poultry'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#dairy_products'/>
+    <NS0:exports rdf:ID='A47118'>25200000000</NS0:exports>
+    <NS0:exportsCommodity rdf:resource='#A47120'/>
+    <NS0:exportsCommodity rdf:resource='#A47125'/>
+    <NS0:exportsCommodity rdf:resource='#A47130'/>
+    <NS0:exportsCommodity rdf:resource='#A47135'/>
+    <NS0:exportsCommodity rdf:ID='A47144' rdf:resource='#A47140'/>
+    <NS0:imports rdf:ID='A47146'>27600000000</NS0:imports>
+    <NS0:importsCommodity rdf:resource='#A47148'/>
+    <NS0:importsCommodity rdf:resource='#A47153'/>
+    <NS0:importsCommodity rdf:resource='#A47158'/>
+    <NS0:importsCommodity rdf:resource='#A47163'/>
+    <NS0:importsCommodity rdf:ID='A47172' rdf:resource='#A47168'/>
+    <NS0:externalDebt rdf:ID='A47174'>29600000000</NS0:externalDebt>
+    <NS0:economicAidRecipient rdf:ID='A47176'>122700000</NS0:economicAidRecipient>
+    <NS0:currency>forint (HUF)</NS0:currency>
+    <NS0:currencyCode>HUF</NS0:currencyCode>
+    <NS0:fiscalYear>calendar year</NS0:fiscalYear>
+    <NS0:mainTelephoneLines rdf:ID='A47181'>3095000</NS0:mainTelephoneLines>
+    <NS0:mobileTelephoneLines rdf:ID='A47183'>1269000</NS0:mobileTelephoneLines>
+    <NS0:telephoneSystemGeneralAssessment>the telephone system has been modernized and is capable of satisfying all requests for telecommunication service</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>the system is digitalized and highly automated; trunk services are carried by fiber-optic cable and digital microwave radio relay; a program for fiber-optic subscriber connections was initiated in 1996; heavy use is made of mobile cellular telephones</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>Hungary has fiber-optic cable connections with all neighboring countries; the international switch is in Budapest; satellite earth stations - 2 Intelsat (Atlantic Ocean and Indian Ocean regions), 1 Inmarsat, 1 very small aperture terminal (VSAT) system of ground terminals</NS0:telephoneSystemInternational>
+    <NS0:radios rdf:ID='A47188'>7010000</NS0:radios>
+    <NS0:televisions rdf:ID='A47190'>4420000</NS0:televisions>
+    <NS0:internetCountryCode>.hu</NS0:internetCountryCode>
+    <NS0:internetServiceProviders rdf:ID='A47193'>16</NS0:internetServiceProviders>
+    <NS0:internetUsers rdf:ID='A47195'>650000</NS0:internetUsers>
+    <NS0:railwaysTotal>7606</NS0:railwaysTotal>
+    <NS0:highwaysTotal>188203</NS0:highwaysTotal>
+    <NS0:highwaysPaved rdf:ID='A47199'>81680</NS0:highwaysPaved>
+    <NS0:highwaysUnpaved rdf:ID='A47201'>106523</NS0:highwaysUnpaved>
+    <NS0:port rdf:resource='#A47204'/>
+    <NS0:port rdf:resource='#A47208'/>
+    <NS0:airports rdf:ID='A47212'>43</NS0:airports>
+    <NS0:airportBreakdown rdf:resource='#A47215'/>
+    <NS0:airportBreakdown rdf:resource='#A47221'/>
+    <NS0:airportBreakdown rdf:resource='#A47228'/>
+    <NS0:airportBreakdown rdf:resource='#A47235'/>
+    <NS0:airportBreakdown rdf:resource='#A47242'/>
+    <NS0:airportBreakdown rdf:resource='#A47248'/>
+    <NS0:airportBreakdown rdf:resource='#A47255'/>
+    <NS0:airportBreakdown rdf:resource='#A47262'/>
+    <NS0:airportBreakdown rdf:resource='#A47269'/>
+    <NS0:heliports rdf:ID='A47275'>5</NS0:heliports>
+    <NS0:militaryAge>18</NS0:militaryAge>
+    <NS0:malesOfMilitaryAge rdf:ID='A47279'>2573119</NS0:malesOfMilitaryAge>
+    <NS0:malesFitForMilitaryService rdf:ID='A47282'>2050404</NS0:malesFitForMilitaryService>
+    <NS0:malesReachingMilitaryAgeAnnually rdf:ID='A47285'>64121</NS0:malesReachingMilitaryAgeAnnually>
+    <NS0:militaryExpenditures rdf:ID='A47288'>822000000</NS0:militaryExpenditures>
+    <NS0:militaryExpendituresPercentGDP rdf:ID='A47290'>1.6</NS0:militaryExpendituresPercentGDP>
+    <NS0:internationalDispute>Gabcikovo/Nagymaros Dam dispute with Slovakia is before the ICJ</NS0:internationalDispute>
+    <NS0:illicitDrugs>major transshipment point for Southwest Asian heroin and cannabis and transit point for South American cocaine destined for Western Europe</NS0:illicitDrugs>
+    <NS0:illicitDrugs>limited producer of precursor chemicals, particularly for amphetamine and methamphetamine</NS0:illicitDrugs>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/hu-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/hu-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/hu-map.jpg</NS0:map>
+    <NS0:border rdf:resource='#A124220'/>
+    <NS0:border rdf:resource='#A124225'/>
+    <NS0:border rdf:resource='#A124230'/>
+    <NS0:border rdf:resource='#A124235'/>
+    <NS0:border rdf:resource='#A124240'/>
+    <NS0:border rdf:resource='#A124245'/>
+    <NS0:border rdf:resource='#A124250'/>
+    <NS0:exportPartner rdf:resource='#A124255'/>
+    <NS0:exportPartner rdf:resource='#A124260'/>
+    <NS0:exportPartner rdf:resource='#A124265'/>
+    <NS0:exportPartner rdf:ID='A124274' rdf:resource='#A124270'/>
+    <NS0:importPartner rdf:resource='#A124276'/>
+    <NS0:importPartner rdf:resource='#A124281'/>
+    <NS0:importPartner rdf:resource='#A124286'/>
+    <NS0:importPartner rdf:ID='A124295' rdf:resource='#A124291'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124291'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#IT'/>
+    <NS0:percent>7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46924'>
+    <rdf:type rdf:resource='#UrbanCounty'/>
+    <NS0:name>Szeged</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47212'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46920'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Szabolcs-Szatmar-Bereg</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124286'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#AU'/>
+    <NS0:percent>7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46916'>
+    <rdf:type rdf:resource='#UrbanCounty'/>
+    <NS0:name>Sopron</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124281'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#RS'/>
+    <NS0:percent>8</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46912'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Somogy</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124276'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#GM'/>
+    <NS0:percent>25</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47195'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46908'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Pest</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47096'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46904'>
+    <rdf:type rdf:resource='#UrbanCounty'/>
+    <NS0:name>Pecs</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124270'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#NL'/>
+    <NS0:percent>5</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46900'>
+    <rdf:type rdf:resource='#UrbanCounty'/>
+    <NS0:name>Nyiregyhaza</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124265'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#IT'/>
+    <NS0:percent>6</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46896'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Nograd</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47103'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124260'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#AU'/>
+    <NS0:percent>9</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47118'>
+    <NS0:note>f.o.b., 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46892'>
+    <rdf:type rdf:resource='#UrbanCounty'/>
+    <NS0:name>Nagykanizsa</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124295'>
+    <NS0:note>2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47290'>
+    <NS0:note>FY00</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124274'>
+    <NS0:note>2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124255'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#GM'/>
+    <NS0:percent>37</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46888'>
+    <rdf:type rdf:resource='#UrbanCounty'/>
+    <NS0:name>Miskolc</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47269'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:maxRunway>913</NS0:maxRunway>
+    <NS0:count>8 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46884'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Komarom-Esztergom</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124250'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#UP'/>
+    <NS0:distance>103</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46880'>
+    <rdf:type rdf:resource='#UrbanCounty'/>
+    <NS0:name>Kecskemet</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47262'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>914</NS0:minRunway>
+    <NS0:maxRunway>1523</NS0:maxRunway>
+    <NS0:count>12</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124245'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#SI'/>
+    <NS0:distance>102</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46876'>
+    <rdf:type rdf:resource='#UrbanCounty'/>
+    <NS0:name>Kaposvar</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124240'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#LO'/>
+    <NS0:distance>515</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46872'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Jasz-Nagykun-Szolnok</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47255'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>1524</NS0:minRunway>
+    <NS0:maxRunway>2437</NS0:maxRunway>
+    <NS0:count>4</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124235'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#SR'/>
+    <NS0:distance>151</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47081'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46868'>
+    <rdf:type rdf:resource='#UrbanCounty'/>
+    <NS0:name>Hodmezovasarhely</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46719'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47248'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>2438</NS0:minRunway>
+    <NS0:maxRunway>3047</NS0:maxRunway>
+    <NS0:count>3</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124230'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#RO'/>
+    <NS0:distance>443</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46864'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Heves</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47054'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46716'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46860'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Hajdu-Bihar</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47242'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:maxRunway>913</NS0:maxRunway>
+    <NS0:count>1 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124225'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#HR'/>
+    <NS0:distance>329</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46856'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Gyor-Moson-Sopron</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46648'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124220'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#AU'/>
+    <NS0:distance>366</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46852'>
+    <rdf:type rdf:resource='#UrbanCounty'/>
+    <NS0:name>Gyor</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47235'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>914</NS0:minRunway>
+    <NS0:maxRunway>1523</NS0:maxRunway>
+    <NS0:count>1</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46848'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Fejer</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47228'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>1524</NS0:minRunway>
+    <NS0:maxRunway>2437</NS0:maxRunway>
+    <NS0:count>4</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46844'>
+    <rdf:type rdf:resource='#UrbanCounty'/>
+    <NS0:name>Eger</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46840'>
+    <rdf:type rdf:resource='#UrbanCounty'/>
+    <NS0:name>Dunaujvaros</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47221'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>2438</NS0:minRunway>
+    <NS0:maxRunway>3047</NS0:maxRunway>
+    <NS0:count>8</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46836'>
+    <rdf:type rdf:resource='#UrbanCounty'/>
+    <NS0:name>Debrecen</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47043'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46832'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Csongrad</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47215'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>3048</NS0:minRunway>
+    <NS0:count>2</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46828'>
+    <rdf:type rdf:resource='#CapitalCity'/>
+    <NS0:name>Budapest</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47208'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Dunaujvaros</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46824'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Borsod-Abauj-Zemplen</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47204'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Budapest</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47101'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46820'>
+    <rdf:type rdf:resource='#UrbanCounty'/>
+    <NS0:name>Bekescsaba</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46816'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Bekes</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46812'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Baranya</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46646'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46808'>
+    <rdf:type rdf:resource='#County'/>
+    <NS0:name>Bacs-Kiskun</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47172'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46681'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46795'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CapitalCity'/>
+    <NS0:name>Budapest</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47288'>
+    <NS0:note>FY00</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46675'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#County'>
+    <rdf:type rdf:resource='http://www.w3.org/2000/01/rdf-schema#Class'/>
+    <rdfs:subClassOf rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AdministrativeDivision'/>
+    <rdfs:label>County</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46678'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47168'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#raw_materials'/>
+    <NS0:percent>2.1</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47282'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47163'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#food_products'/>
+    <NS0:percent>2.8</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46779'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#other'/>
+    <NS0:percent>1.8</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47158'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#fuels_and_electricity'/>
+    <NS0:percent>8.1</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46774'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Hungarian'/>
+    <NS0:percent>98.2</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47275'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47153'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#other_manufactures'/>
+    <NS0:percent>35.9</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46769'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#atheist_and_other'/>
+    <NS0:percent>7.5</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46787'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1980</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47148'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#machinery_and_equipment'/>
+    <NS0:percent>51.1</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46764'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Lutheran'/>
+    <NS0:percent>5</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47146'>
+    <NS0:note>f.o.b., 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46759'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Calvinist'/>
+    <NS0:percent>20</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47140'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#fuels_and_electricity'/>
+    <NS0:percent>1.8</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46754'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Roman_Catholic'/>
+    <NS0:percent>67.5</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47193'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47135'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#raw_materials'/>
+    <NS0:percent>2.4</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46749'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Romanian'/>
+    <NS0:percent>0.7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47130'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#food_products'/>
+    <NS0:percent>6.9</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46744'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Slovak'/>
+    <NS0:percent>0.8</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47125'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#other_manufactures'/>
+    <NS0:percent>29.4</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47201'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1998</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46739'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Serb'/>
+    <NS0:percent>2</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A47120'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#machinery_and_equipment'/>
+    <NS0:percent>59.5</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46734'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#German'/>
+    <NS0:percent>2.6</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A46729'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Roma'/>
+    <NS0:percent>4</NS0:percent>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,381 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_du_Yémen_de_football	owl:sameAs	dbpedia:Yemen_national_football_team .
+@prefix ns3:	<http://ko.dbpedia.org/resource/> .
+ns3:예멘_축구_국가대표팀	owl:sameAs	dbpedia:Yemen_national_football_team .
+@prefix ns4:	<http://pt.dbpedia.org/resource/> .
+ns4:Seleção_Iemenita_de_Futebol	owl:sameAs	dbpedia:Yemen_national_football_team .
+@prefix ns5:	<http://de.dbpedia.org/resource/> .
+ns5:Jemenitische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Yemen_national_football_team .
+@prefix ns6:	<http://wikidata.dbpedia.org/resource/> .
+ns6:Q326864	owl:sameAs	dbpedia:Yemen_national_football_team .
+@prefix ns7:	<http://cs.dbpedia.org/resource/> .
+ns7:Jemenská_fotbalová_reprezentace	owl:sameAs	dbpedia:Yemen_national_football_team .
+@prefix ns8:	<http://es.dbpedia.org/resource/> .
+ns8:Selección_de_fútbol_de_Yemen	owl:sameAs	dbpedia:Yemen_national_football_team .
+@prefix ns9:	<http://id.dbpedia.org/resource/> .
+ns9:Tim_nasional_sepak_bola_Yaman	owl:sameAs	dbpedia:Yemen_national_football_team .
+@prefix ns10:	<http://it.dbpedia.org/resource/> .
+ns10:Nazionale_di_calcio_dello_Yemen	owl:sameAs	dbpedia:Yemen_national_football_team .
+@prefix ns11:	<http://ja.dbpedia.org/resource/> .
+ns11:サッカーイエメン代表	owl:sameAs	dbpedia:Yemen_national_football_team .
+@prefix ns12:	<http://nl.dbpedia.org/resource/> .
+ns12:Jemenitisch_voetbalelftal	owl:sameAs	dbpedia:Yemen_national_football_team .
+@prefix ns13:	<http://pl.dbpedia.org/resource/> .
+ns13:Reprezentacja_Jemenu_w_piłce_nożnej	owl:sameAs	dbpedia:Yemen_national_football_team .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Ala_Al-Sasi	dbpedia-owl:team	dbpedia:Yemen_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Ala_Al-Sasi	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns17:	<http://en.wikipedia.org/wiki/> .
+ns17:Yemen_national_football_team	foaf:primaryTopic	dbpedia:Yemen_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbpedia:Yemen_national_football_team	rdf:type	owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Yemen_national_football_team	rdf:type	yago:NationalSportsTeamsOfYemen .
+@prefix ns20:	<http://schema.org/> .
+dbpedia:Yemen_national_football_team	rdf:type	ns20:Organization ,
+		ns20:SportsTeam ,
+		yago:FootballTeam108080025 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Yemen_national_football_team	rdf:type	dul:Agent ,
+		dul:SocialPerson ,
+		yago:YagoLegalActorGeo ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActor ,
+		yago:AsianNationalAssociationFootballTeams ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Organisation ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 .
+@prefix ns22:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Yemen_national_football_team	owl:sameAs	ns22:منتخب_اليمن_لكرة_القدم .
+@prefix ns23:	<http://wikidata.org/entity/> .
+dbpedia:Yemen_national_football_team	owl:sameAs	ns23:Q326864 ,
+		ns4:Seleção_Iemenita_de_Futebol .
+@prefix ns24:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Yemen_national_football_team	owl:sameAs	ns24:تیم_ملی_فوتبال_یمن .
+@prefix ns25:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Yemen_national_football_team	owl:sameAs	ns25:Đội_tuyển_bóng_đá_quốc_gia_Yemen .
+@prefix ns26:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Yemen_national_football_team	owl:sameAs	ns26:Jemeno_vyrų_futbolo_rinktinė .
+@prefix ns27:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Yemen_national_football_team	owl:sameAs	ns27:Echipa_națională_de_fotbal_a_Yemenului .
+@prefix ns28:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Yemen_national_football_team	owl:sameAs	ns28:也門國家足球隊 ,
+		ns12:Jemenitisch_voetbalelftal .
+@prefix ns29:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Yemen_national_football_team	owl:sameAs	ns29:Jemeni_labdarúgó-válogatott .
+@prefix ns30:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Yemen_national_football_team	owl:sameAs	ns30:Збірна_Ємену_з_футболу ,
+		ns11:サッカーイエメン代表 ,
+		ns8:Selección_de_fútbol_de_Yemen .
+@prefix ns31:	<http://he.dbpedia.org/resource/> .
+dbpedia:Yemen_national_football_team	owl:sameAs	ns31:נבחרת_תימן_בכדורגל .
+@prefix ns32:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Yemen_national_football_team	owl:sameAs	ns32:Jemenin_jalkapallomaajoukkue ,
+		ns6:Q326864 ,
+		ns5:Jemenitische_Fußballnationalmannschaft ,
+		ns10:Nazionale_di_calcio_dello_Yemen .
+@prefix ns33:	<http://yago-knowledge.org/resource/> .
+dbpedia:Yemen_national_football_team	owl:sameAs	ns33:Yemen_national_football_team ,
+		<http://rdf.freebase.com/ns/m.04qj2_> ,
+		dbpedia:Yemen_national_football_team .
+@prefix ns34:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Yemen_national_football_team	owl:sameAs	ns34:Jemens_herrlandslag_i_fotboll .
+@prefix ns35:	<http://ms.dbpedia.org/resource/> .
+dbpedia:Yemen_national_football_team	owl:sameAs	ns35:Pasukan_bola_sepak_kebangsaan_Yaman .
+@prefix ns36:	<http://th.dbpedia.org/resource/> .
+dbpedia:Yemen_national_football_team	owl:sameAs	ns36:ฟุตบอลทีมชาติเยเมน ,
+		ns3:예멘_축구_국가대표팀 .
+@prefix ns37:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Yemen_national_football_team	owl:sameAs	ns37:Yemen_national_football_team ,
+		ns9:Tim_nasional_sepak_bola_Yaman .
+@prefix ns38:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Yemen_national_football_team	owl:sameAs	ns38:Yemen_Millî_Futbol_Takımı ,
+		ns13:Reprezentacja_Jemenu_w_piłce_nożnej .
+@prefix ns39:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Yemen_national_football_team	owl:sameAs	ns39:Yemen_national_football_team ,
+		ns7:Jemenská_fotbalová_reprezentace .
+@prefix ns40:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Yemen_national_football_team	owl:sameAs	ns40:Сборная_Йемена_по_футболу ,
+		ns1:Équipe_du_Yémen_de_football .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Yemen_national_football_team	rdfs:label	"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0419\u0435\u043C\u0435\u043D\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"Yemen national football team" ,
+		"Reprezentacja Jemenu w pi\u0142ce no\u017Cnej"@pl ,
+		"\u4E5F\u9580\u570B\u5BB6\u8DB3\u7403\u968A"@zh ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u064A\u0645\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"Selecci\u00F3n de f\u00FAtbol de Yemen"@es ,
+		"\u00C9quipe du Y\u00E9men de football"@fr ,
+		"Jemenitische Fu\u00DFballnationalmannschaft"@de ,
+		"Jemenitisch voetbalelftal"@nl ,
+		"Nazionale di calcio dello Yemen"@it ,
+		"Sele\u00E7\u00E3o Iemenita de Futebol"@pt ,
+		"\u30B5\u30C3\u30AB\u30FC\u30A4\u30A8\u30E1\u30F3\u4EE3\u8868"@ja .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Yemen_national_football_team	dcterms:subject	category:Yemen_national_football_team ,
+		category:Asian_national_association_football_teams ,
+		category:National_sports_teams_of_Yemen ;
+	foaf:homepage	<http://www.yemenfa.org/> ;
+	foaf:name	"Yemen" ;
+	foaf:nick	"Al-Yemen A'Sa'eed" ,
+		"(\u0627\u0644\u064A\u0645\u0646 \u0627\u0644\u0633\u0639\u064A\u062F)" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Yemen_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Yemen_national_football_team?oldid=604800613> ;
+	rdfs:comment	"L'\u00E9quipe du Y\u00E9men de football est une s\u00E9lection des meilleurs joueurs y\u00E9m\u00E9nites sous l'\u00E9gide de la F\u00E9d\u00E9ration du Y\u00E9men de football."@fr ,
+		"Reprezentacja Jemenu w pi\u0142ce no\u017Cnej gra pod egid\u0105 Jeme\u0144skiego Zwi\u0105zku Pi\u0142ki Noznej za\u0142o\u017Conego w 1962. Do 1990 istnia\u0142y dwie reprezentacje jeme\u0144skie: reprezentacja Jemenu Po\u0142udniowego i reprezentacje Jemenu P\u00F3\u0142nocnego. Obecna reprezentacja jest spadkobierczyni\u0105 reprezentacji p\u00F3\u0142nocnojeme\u0144skiej. Cz\u0142onkiem, AFC zosta\u0142a w 1962; FIFA w 1980. Reprezentacja Jemenu nigdy nie uczestniczy\u0142a w mistrzostwach \u015Bwiata ani Pucharze Azji."@pl ,
+		"La nazionale di calcio dello Yemen \u00E8 la rappresentativa calcistica dell'omonimo Stato mediorientale, posta sotto l'egida della Yemen Football Association ed affiliata all'AFC.Prima del 1990, quando la nazione era divisa in Yemen del Nord e Yemen del Sud, esistevano due nazionali. Dopo l'unificazione, la nazionale di calcio dello Yemen \u00E8 considerata la prosecutrice della nazionale dello Yemen del Nord."@it ,
+		"The Yemen National Football Team (Arabic: \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u064A\u0645\u0646\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645\u200E), is the national team of Yemen and is controlled by the Yemen Football Association.When the nation was split into North Yemen and South Yemen before 1990, two national teams existed. After unification, the Yemen national football team is considered the successor of the North Yemen national football team." ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u064A\u0645\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0644\u0644\u064A\u0645\u0646 \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0627\u0644\u064A\u0645\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645.\u0642\u0628\u0644 \u0627\u0644\u0648\u062D\u062F\u0629 \u0633\u0646\u0629 1990 \u0643\u0627\u0646 \u064A\u0648\u062C\u062F \u0645\u0646\u062A\u062E\u0628\u0627\u0646 \u064A\u0646\u062A\u0645\u064A\u0627\u0646 \u0644\u0644\u062F\u0648\u0644\u062A\u064A\u0646 \u0627\u0644\u0645\u0646\u0641\u0635\u0644\u062A\u064A\u0646 \u0648\u0647\u0645\u0627 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u064A\u0645\u0646 \u0627\u0644\u0634\u0645\u0627\u0644\u064A \u0648\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u064A\u0645\u0646 \u0627\u0644\u062C\u0646\u0648\u0628\u064A. \u0628\u0639\u062F \u0627\u0644\u0648\u062D\u062F\u0629 \u064A\u0639\u062A\u0628\u0631 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u062D\u0627\u0644\u064A \u0647\u0648 \u0645\u0646\u062A\u062E\u0628 \u0643\u0644 \u0627\u0644\u064A\u0645\u0646\u064A\u064A\u0646\u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u064A\u0645\u0646 \u0623\u0648 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u064A\u0645\u0646 \u0627\u0644\u0634\u0645\u0627\u0644\u064A \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645."@ar ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0419\u0435\u043C\u0435\u043D\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0419\u0435\u043C\u0435\u043D\u0430. \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0443\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0435\u0439 \u0419\u0435\u043C\u0435\u043D\u0430. \u0414\u043E 1990 \u0433\u043E\u0434\u0430 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u043B\u0430 \u0421\u0435\u0432\u0435\u0440\u043D\u044B\u0439 \u0419\u0435\u043C\u0435\u043D. \u041F\u0435\u0440\u0432\u043E\u0439 \u0438\u0433\u0440\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u043F\u043E\u0441\u043B\u0435 \u043E\u0431\u044A\u0435\u0434\u0438\u043D\u0435\u043D\u0438\u044F \u0431\u044B\u043B \u043C\u0430\u0442\u0447 \u0441\u043E \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u0438\u0442\u0430\u044F, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0441\u043E\u0441\u0442\u043E\u044F\u043B\u0441\u044F 1 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1993 \u0433\u043E\u0434\u0430 \u0438 \u0437\u0430\u043A\u043E\u043D\u0447\u0438\u043B\u0441\u044F \u0441\u043E \u0441\u0447\u0451\u0442\u043E\u043C 1:4."@ru ,
+		"A Sele\u00E7\u00E3o Iemenita de Futebol representa o I\u00EAmen nas competi\u00E7\u00F5es de futebol da FIFA. Filiou-se \u00E0 institui\u00E7\u00E3o em 1980."@pt ,
+		"\u30B5\u30C3\u30AB\u30FC\u30A4\u30A8\u30E1\u30F3\u4EE3\u8868\u306F\u3001\u30A4\u30A8\u30E1\u30F3\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\uFF08YFA\uFF09\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"Het Jemenitisch voetbalelftal is een team van voetballers dat Jemen vertegenwoordigt bij internationale wedstrijden zoals de kwalificatiewedstrijden voor het Wereldkampioenschap voetbal en de Asian Cup.Tot 1990 waren er teams uit Noord- en Zuid-Jemen. Na de hereniging wordt het Jemenitische team gezien als opvolger van het Noord-Jemenitische teams (zoals het Duitse team de opvolger is van West-Duitsland)."@nl ,
+		"Die Jemenitische Fu\u00DFballnationalmannschaft ist die Nationalmannschaft des Jemen.Als der Jemen in die Staaten Nord- und S\u00FCdjemen aufgeteilt war, existierten zwei Nationalmannschaften. Nach der Wiedervereinigung beider Staaten 1990 trat die jemenitische Fu\u00DFballnationalmannschaft in die Nachfolge der nordjemenitischen Fu\u00DFballnationalmannschaft, die s\u00FCdjemenitische Fu\u00DFballnationalmannschaft wurde aufgel\u00F6st.Dem Jemen (bzw."@de ,
+		"\u4E5F\u9580\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\u662F\u4E5F\u9580\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u4E5F\u9580\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u4E9E\u6D32\u8DB3\u7403\u5354\u6703\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u4E5F\u9580\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4EFB\u4F55\u570B\u969B\u5927\u8CFD\u7684\u6C7A\u8CFD\u9031\uFF0C\u7121\u8AD6\u5728\u4E16\u754C\u76C3\u53CA\u4E9E\u6D32\u76C3\u5916\u570D\u8CFD\u968E\u6BB5\u5F9E\u672A\u53D6\u5F97\u904E\u51FA\u7DDA\u8CC7\u683C\u3002"@zh ,
+		"La Selecci\u00F3n de f\u00FAtbol de Yemen (en \u00E1rabe: \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u064A\u0645\u0646\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645) es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Asociaci\u00F3n de F\u00FAtbol de Yemen, perteneciente a la AFC. Su federaci\u00F3n de f\u00FAtbol fue fundada en 1962, y est\u00E1 afiliada a la FIFA desde 1980."@es ;
+	foaf:isPrimaryTopicOf	ns17:Yemen_national_football_team ;
+	dbpprop:club	dbpedia:Shabab_Al_Baydaa ,
+		dbpedia:Al-Tilal_SC ,
+		<http://dbpedia.org/resource/Al-Ahli_Club_Sana\u0027a> ,
+		dbpedia:Al-Hilal_Al-Sahili ,
+		<http://dbpedia.org/resource/Al-Wehda_SC_(Aden)> ,
+		dbpedia:Shaab_Ibb_SCC ,
+		dbpedia:Al-Shula ;
+	dbpprop:captain	dbpedia:Salem_Saeed .
+@prefix ns45:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Yemen_national_football_team	dbpprop:hasPhotoCollection	ns45:Yemen_national_football_team ;
+	dbpprop:name	dbpedia:Akram_Al-Worafi ,
+		dbpedia:Khaled_Baleid ,
+		dbpedia:Ahmed_Al_Sadek ,
+		dbpedia:Ahmed_Al_Zahira ,
+		"Yemen" ,
+		dbpedia:Nateq_Hezam ,
+		dbpedia:Wahid_Mohammed_Al_Khyat ,
+		dbpedia:Mohammed_Bugshan ,
+		<http://dbpedia.org/resource/Mohammed_Fouad_(footballer)> ,
+		dbpedia:Mudeer_Abdurboh ,
+		dbpedia:Najib_Haddad ,
+		<http://dbpedia.org/resource/Abdullaziz_Al_Guma\u0027i> ,
+		dbpedia:Hamada_Al_Zubairi ,
+		dbpedia:Issam_Al-Worafi ,
+		dbpedia:Mohammed_Baroies ,
+		dbpedia:Ayman_Al_Hagri ,
+		dbpedia:Kameel_Tareq ,
+		dbpedia:Mohammed_Ibrahim_Ayyash ,
+		dbpedia:Munassar_Ba_Haj ,
+		dbpedia:Saoud_Al_Sawedi ,
+		dbpedia:Mohammed_Al_Abidi ;
+	dbpedia-owl:abstract	"La nazionale di calcio dello Yemen \u00E8 la rappresentativa calcistica dell'omonimo Stato mediorientale, posta sotto l'egida della Yemen Football Association ed affiliata all'AFC.Prima del 1990, quando la nazione era divisa in Yemen del Nord e Yemen del Sud, esistevano due nazionali. Dopo l'unificazione, la nazionale di calcio dello Yemen \u00E8 considerata la prosecutrice della nazionale dello Yemen del Nord. In tal senso i risultati ottenuti da questa squadra fanno ora parte della storia della nazionale yemenita. La squadra della parte meridionale \u00E8 invece scomparsa con l'unificazione.L'evento ricorda molto quello della nazionale di calcio tedesca, considerata a sua volta la prosecutrice della squadra della Germania Occidentale.Lo Yemen non ha mai partecipato ad un campionato mondiale o ad una Coppa d'Asia, obiettivo raggiunto invece dallo Yemen del Sud quando si qualific\u00F2 per la Coppa d'Asia 1976."@it ,
+		"Reprezentacja Jemenu w pi\u0142ce no\u017Cnej gra pod egid\u0105 Jeme\u0144skiego Zwi\u0105zku Pi\u0142ki Noznej za\u0142o\u017Conego w 1962. Do 1990 istnia\u0142y dwie reprezentacje jeme\u0144skie: reprezentacja Jemenu Po\u0142udniowego i reprezentacje Jemenu P\u00F3\u0142nocnego. Obecna reprezentacja jest spadkobierczyni\u0105 reprezentacji p\u00F3\u0142nocnojeme\u0144skiej. Cz\u0142onkiem, AFC zosta\u0142a w 1962; FIFA w 1980. Reprezentacja Jemenu nigdy nie uczestniczy\u0142a w mistrzostwach \u015Bwiata ani Pucharze Azji."@pl ,
+		"\u4E5F\u9580\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\u662F\u4E5F\u9580\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u4E5F\u9580\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u4E9E\u6D32\u8DB3\u7403\u5354\u6703\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u4E5F\u9580\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4EFB\u4F55\u570B\u969B\u5927\u8CFD\u7684\u6C7A\u8CFD\u9031\uFF0C\u7121\u8AD6\u5728\u4E16\u754C\u76C3\u53CA\u4E9E\u6D32\u76C3\u5916\u570D\u8CFD\u968E\u6BB5\u5F9E\u672A\u53D6\u5F97\u904E\u51FA\u7DDA\u8CC7\u683C\u3002"@zh ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u064A\u0645\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0644\u0644\u064A\u0645\u0646 \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0627\u0644\u064A\u0645\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645.\u0642\u0628\u0644 \u0627\u0644\u0648\u062D\u062F\u0629 \u0633\u0646\u0629 1990 \u0643\u0627\u0646 \u064A\u0648\u062C\u062F \u0645\u0646\u062A\u062E\u0628\u0627\u0646 \u064A\u0646\u062A\u0645\u064A\u0627\u0646 \u0644\u0644\u062F\u0648\u0644\u062A\u064A\u0646 \u0627\u0644\u0645\u0646\u0641\u0635\u0644\u062A\u064A\u0646 \u0648\u0647\u0645\u0627 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u064A\u0645\u0646 \u0627\u0644\u0634\u0645\u0627\u0644\u064A \u0648\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u064A\u0645\u0646 \u0627\u0644\u062C\u0646\u0648\u0628\u064A. \u0628\u0639\u062F \u0627\u0644\u0648\u062D\u062F\u0629 \u064A\u0639\u062A\u0628\u0631 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u062D\u0627\u0644\u064A \u0647\u0648 \u0645\u0646\u062A\u062E\u0628 \u0643\u0644 \u0627\u0644\u064A\u0645\u0646\u064A\u064A\u0646\u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u064A\u0645\u0646 \u0623\u0648 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u064A\u0645\u0646 \u0627\u0644\u0634\u0645\u0627\u0644\u064A \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645."@ar ,
+		"Die Jemenitische Fu\u00DFballnationalmannschaft ist die Nationalmannschaft des Jemen.Als der Jemen in die Staaten Nord- und S\u00FCdjemen aufgeteilt war, existierten zwei Nationalmannschaften. Nach der Wiedervereinigung beider Staaten 1990 trat die jemenitische Fu\u00DFballnationalmannschaft in die Nachfolge der nordjemenitischen Fu\u00DFballnationalmannschaft, die s\u00FCdjemenitische Fu\u00DFballnationalmannschaft wurde aufgel\u00F6st.Dem Jemen (bzw. Nordjemen) ist es bisher noch nicht gelungen, sich f\u00FCr eine Fu\u00DFball-Weltmeisterschaft oder die Fu\u00DFball-Asienmeisterschaft zu qualifizieren. Die einzige Teilnahme einer jemenitischen Mannschaft gelang S\u00FCdjemen bei der Asienmeisterschaft 1976."@de ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0419\u0435\u043C\u0435\u043D\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0419\u0435\u043C\u0435\u043D\u0430. \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0443\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0435\u0439 \u0419\u0435\u043C\u0435\u043D\u0430. \u0414\u043E 1990 \u0433\u043E\u0434\u0430 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u043B\u0430 \u0421\u0435\u0432\u0435\u0440\u043D\u044B\u0439 \u0419\u0435\u043C\u0435\u043D. \u041F\u0435\u0440\u0432\u043E\u0439 \u0438\u0433\u0440\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u043F\u043E\u0441\u043B\u0435 \u043E\u0431\u044A\u0435\u0434\u0438\u043D\u0435\u043D\u0438\u044F \u0431\u044B\u043B \u043C\u0430\u0442\u0447 \u0441\u043E \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u0438\u0442\u0430\u044F, \u043A\u043E\u0442\u043E\u0440\u044B\u0439 \u0441\u043E\u0441\u0442\u043E\u044F\u043B\u0441\u044F 1 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1993 \u0433\u043E\u0434\u0430 \u0438 \u0437\u0430\u043A\u043E\u043D\u0447\u0438\u043B\u0441\u044F \u0441\u043E \u0441\u0447\u0451\u0442\u043E\u043C 1:4."@ru ,
+		"L'\u00E9quipe du Y\u00E9men de football est une s\u00E9lection des meilleurs joueurs y\u00E9m\u00E9nites sous l'\u00E9gide de la F\u00E9d\u00E9ration du Y\u00E9men de football."@fr ,
+		"Het Jemenitisch voetbalelftal is een team van voetballers dat Jemen vertegenwoordigt bij internationale wedstrijden zoals de kwalificatiewedstrijden voor het Wereldkampioenschap voetbal en de Asian Cup.Tot 1990 waren er teams uit Noord- en Zuid-Jemen. Na de hereniging wordt het Jemenitische team gezien als opvolger van het Noord-Jemenitische teams (zoals het Duitse team de opvolger is van West-Duitsland). Noord-Jemen of Jemen kon zich nooit voor een WK of Asian Cup plaatsen.Zuid-Jemen nam in 1976 deel aan de eindronde van de Azi\u00EB cup (dit dankzij terugtrekking van de andere landen in hun groep waardoor het land, samen met Koeweit, zonder te spelen kon deelnemen)."@nl ,
+		"\u30B5\u30C3\u30AB\u30FC\u30A4\u30A8\u30E1\u30F3\u4EE3\u8868\u306F\u3001\u30A4\u30A8\u30E1\u30F3\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\uFF08YFA\uFF09\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"A Sele\u00E7\u00E3o Iemenita de Futebol representa o I\u00EAmen nas competi\u00E7\u00F5es de futebol da FIFA. Filiou-se \u00E0 institui\u00E7\u00E3o em 1980."@pt ,
+		"La Selecci\u00F3n de f\u00FAtbol de Yemen (en \u00E1rabe: \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u064A\u0645\u0646\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645) es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Asociaci\u00F3n de F\u00FAtbol de Yemen, perteneciente a la AFC. Su federaci\u00F3n de f\u00FAtbol fue fundada en 1962, y est\u00E1 afiliada a la FIFA desde 1980. Cuando Yemen se encontraba dividido en dos (Yemen del Norte y Yemen del Sur), cada regi\u00F3n ten\u00EDa su seleccionado de f\u00FAtbol, al igual que Alemania cuando estaba dividida en Alemania Federal y Alemania Democr\u00E1tica. En 1989, cuando las dos partes se reunificaron, los seleccionados locales se disolvieron y se form\u00F3 un nuevo equipo nacional, el cual se considera el sucesor de Yemen del Norte.\u00C9ste a\u00FAn est\u00E1 lejos de igualar a selecciones como Emiratos \u00C1rabes Unidos, Arabia Saudita, Irak, Ir\u00E1n o Qatar, pero es un equipo que poco a poco se est\u00E1 empezando a sentir en los torneos asi\u00E1ticos, ya que a pesar de ser uno de los pa\u00EDses m\u00E1s conocido de Medio Oriente, tambi\u00E9n es uno de los pa\u00EDses m\u00E1s pobres del Mundo \u00C1rabe, lo cual se refleja en sus representaciones deportivas.Se destacan los empates frente a Tailandia y Corea del Norte, y la victoria por 3 a 1 frente a Emiratos \u00C1rabes Unidos, todos por la clasificaci\u00F3n al Mundial de Alemania 2006, del cual, sin embargo, no pudieron llegar a la 2\u00AA ronda de clasificaci\u00F3n."@es ,
+		"The Yemen National Football Team (Arabic: \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u064A\u0645\u0646\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645\u200E), is the national team of Yemen and is controlled by the Yemen Football Association.When the nation was split into North Yemen and South Yemen before 1990, two national teams existed. After unification, the Yemen national football team is considered the successor of the North Yemen national football team. See the article South Yemen national football team for details on the South Yemen team.Yemen (or North Yemen) has never appeared at a FIFA World Cup.Despite being the 6th most populated country in the Middle East, Yemen has never achieved the same success as those with smaller populations like United Arab Emirates, Qatar, Syria, and Oman. However, Yemen is one of the poorest Arab countries in the world which holds back development of football and other sports." ;
+	dbpedia-owl:wikiPageID	1291184 ;
+	dbpedia-owl:wikiPageRevisionID	604800613 ;
+	dbpprop:topScorer	dbpedia:Ali_Al-Nono ;
+	dbpprop:clubnat	"YEM" ,
+		"Yemen" ;
+	dbpprop:goals	2 ,
+		0 ,
+		1 ;
+	dbpprop:caps	8 ,
+		9 ,
+		4 ,
+		5 ,
+		6 ,
+		7 ,
+		0 ,
+		3 ,
+		31 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Yemen_national_football_team	dbpprop:age	"1986-11-12+02:00"^^xsd:date ,
+		"1986-01-01+02:00"^^xsd:date ,
+		"1986-09-08+02:00"^^xsd:date ,
+		"1985-01-01+02:00"^^xsd:date ,
+		"1986-11-02+02:00"^^xsd:date ,
+		"1990-01-01+02:00"^^xsd:date ,
+		"1983-01-01+02:00"^^xsd:date ,
+		"1992-01-01+02:00"^^xsd:date ,
+		"1988-04-10+02:00"^^xsd:date ;
+	dbpprop:coach	<http://dbpedia.org/resource/Vladimir_Petrovi%C4%87> ;
+	dbpprop:patternSh	"_adidasonwhite" ,
+		"_adidaswhite" ;
+	dbpedia-owl:coach	<http://dbpedia.org/resource/Vladimir_Petrovi%C4%87> ;
+	dbpprop:patternSo	"_color_3_stripes_black" ,
+		"_3_stripes_white" ;
+	dbpprop:association	dbpedia:Yemen_Football_Association ;
+	dbpprop:badgeSize	200 ;
+	dbpprop:body	0 ,
+		"FF0000" ;
+	dbpprop:confederation	dbpedia:Asian_Football_Confederation ;
+	dbpprop:fifaRank	1805 ;
+	dbpprop:fifaTrigramme	"YEM" ;
+	dbpprop:leftarm	0 ,
+		"FF0000" .
+@prefix ns47:	<http://dbpedia.org/datatype/> .
+dbpedia:Yemen_national_football_team	dbpprop:patternB	"36000.0"^^ns47:second ,
+		"_adidas2010onwhite" ;
+	dbpprop:patternLa	"36000.0"^^ns47:second ,
+		"_adidas2010onwhite" ;
+	dbpprop:patternRa	"36000.0"^^ns47:second ,
+		"_adidas2010onwhite" ;
+	dbpprop:rightarm	0 ,
+		"FF0000" ;
+	dbpprop:shorts	0 ,
+		"FF0000" ;
+	dbpprop:socks	"FFFFFF" ,
+		0 ;
+	dbpprop:no	24 ,
+		29 ,
+		30 ,
+		16 ,
+		19 ,
+		21 ,
+		23 ,
+		8 ,
+		9 ,
+		10 ,
+		11 ,
+		13 ,
+		14 ,
+		15 ,
+		1 ,
+		2 ,
+		3 ,
+		4 ,
+		5 ,
+		7 ;
+	dbpprop:pos	"FW" ,
+		"GK" ,
+		"MF" ,
+		"DF" ;
+	dbpprop:badge	"Yemen FA.png" ;
+	dbpprop:firstGame	0 ,
+		9 ;
+	dbpprop:largestLoss	16 ;
+	dbpprop:largestWin	"Yemen 11\u20132" ;
+	dbpprop:regionalCupApps	1 ;
+	dbpprop:regionalCupBest	"First Round" ;
+	dbpprop:regionalCupFirst	1976 ;
+	dbpprop:regionalName	dbpedia:AFC_Asian_Cup ;
+	dbpprop:eloMax	124 ;
+	dbpprop:eloMaxDate	"2010-10-13+02:00"^^xsd:date ;
+	dbpprop:eloMin	168 ;
+	dbpprop:eloMinDate	"June 2004" ;
+	dbpprop:eloRank	163 ;
+	dbpprop:fifaMax	90 ;
+	dbpprop:fifaMaxDate	"August 1993" ;
+	dbpprop:fifaMin	186 ;
+	dbpprop:fifaMinDate	"February 2014" ;
+	dbpprop:subConfederation	dbpedia:West_Asian_Football_Federation ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.yemenfa.org/> ,
+		<http://www.football-lineups.com/country/ye/Players/> ,
+		<http://www.fifa.com/associations/association=yem/index.html/> ;
+	dbpprop:homeStadium	dbpedia:Althawra_Sports_City_Stadium ;
+	dbpedia-owl:stadium	dbpedia:Althawra_Sports_City_Stadium ;
+	dbpprop:nickname	"Al-Yemen A'Sa'eed" .
+<http://dbpedia.org/resource/Rabah_Sa%C3%A2dane>	dbpprop:managerclubs	dbpedia:Yemen_national_football_team .
+<http://dbpedia.org/resource/Sre%C4%87ko_Juri%C4%8Di%C4%87>	dbpprop:managerclubs	dbpedia:Yemen_national_football_team .
+<http://dbpedia.org/resource/Milan_%C5%BDivadinovi%C4%87>	dbpprop:managerclubs	dbpedia:Yemen_national_football_team .
+dbpedia:Yasser_Basuhai__4	dbpedia-owl:team	dbpedia:Yemen_national_football_team .
+ns22:منتخب_اليمن_لكرة_القدم	owl:sameAs	dbpedia:Yemen_national_football_team .
+ns24:تیم_ملی_فوتبال_یمن	owl:sameAs	dbpedia:Yemen_national_football_team .
+ns32:Jemenin_jalkapallomaajoukkue	owl:sameAs	dbpedia:Yemen_national_football_team .
+ns31:נבחרת_תימן_בכדורגל	owl:sameAs	dbpedia:Yemen_national_football_team .
+ns37:Yemen_national_football_team	owl:sameAs	dbpedia:Yemen_national_football_team .
+ns29:Jemeni_labdarúgó-válogatott	owl:sameAs	dbpedia:Yemen_national_football_team .
+ns26:Jemeno_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Yemen_national_football_team .
+ns35:Pasukan_bola_sepak_kebangsaan_Yaman	owl:sameAs	dbpedia:Yemen_national_football_team .
+ns27:Echipa_națională_de_fotbal_a_Yemenului	owl:sameAs	dbpedia:Yemen_national_football_team .
+ns40:Сборная_Йемена_по_футболу	owl:sameAs	dbpedia:Yemen_national_football_team .
+ns39:Yemen_national_football_team	owl:sameAs	dbpedia:Yemen_national_football_team .
+ns34:Jemens_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Yemen_national_football_team .
+ns36:ฟุตบอลทีมชาติเยเมน	owl:sameAs	dbpedia:Yemen_national_football_team .
+ns38:Yemen_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Yemen_national_football_team .
+ns30:Збірна_Ємену_з_футболу	owl:sameAs	dbpedia:Yemen_national_football_team .
+ns25:Đội_tuyển_bóng_đá_quốc_gia_Yemen	owl:sameAs	dbpedia:Yemen_national_football_team .
+ns28:也門國家足球隊	owl:sameAs	dbpedia:Yemen_national_football_team .
+<http://dbpedia.org/resource/Zoran_%C4%90or%C4%91evi%C4%87>	dbpprop:managerclubs	dbpedia:Yemen_national_football_team .
+dbpedia:Adel_Al-Salimi__8	dbpedia-owl:team	dbpedia:Yemen_national_football_team .
+dbpedia:Muaadh_Abdulkhalek	dbpedia-owl:team	dbpedia:Yemen_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+dbpedia:Abdulsalam_Al_Ghurbani	dbpedia-owl:team	dbpedia:Yemen_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+dbpedia:Yasser_Basuhai	dbpedia-owl:team	dbpedia:Yemen_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+dbpedia:Salem_Saeed	dbpedia-owl:team	dbpedia:Yemen_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+<http://dbpedia.org/resource/Vladimir_Petrovi%C4%87>	dbpprop:managerclubs	dbpedia:Yemen_national_football_team ;
+	dbpprop:currentclub	dbpedia:Yemen_national_football_team ;
+	dbpedia-owl:team	dbpedia:Yemen_national_football_team .
+dbpedia:Khaled_Afarah__6	dbpedia-owl:team	dbpedia:Yemen_national_football_team .
+dbpedia:Salem_Saeed__1	dbpedia-owl:team	dbpedia:Yemen_national_football_team .
+dbpedia:Sharaf_Mahfood__5	dbpedia-owl:team	dbpedia:Yemen_national_football_team .
+dbpedia:Ahmed_Sary__2	dbpedia-owl:team	dbpedia:Yemen_national_football_team .
+dbpedia:Fekri_Al-Hubaishi__1	dbpedia-owl:team	dbpedia:Yemen_national_football_team .
+dbpedia:Ala_Al-Sasi__5	dbpedia-owl:team	dbpedia:Yemen_national_football_team .
+dbpedia:Fathi_Jabir__2	dbpedia-owl:team	dbpedia:Yemen_national_football_team .
+dbpedia:Muaadh_Abdulkhalek__5	dbpedia-owl:team	dbpedia:Yemen_national_football_team .
+dbpedia:Abubakar_Al-Mass__3	dbpedia-owl:team	dbpedia:Yemen_national_football_team .
+dbpedia:Ayman_Al_Hagri__7	dbpedia-owl:team	dbpedia:Yemen_national_football_team .
+dbpedia:Abdulsalam_Al_Ghurbani__2	dbpedia-owl:team	dbpedia:Yemen_national_football_team .
+<http://dbpedia.org/resource/Ji%C5%99%C3%AD_Pe%C5%A1ek__7>	dbpedia-owl:team	dbpedia:Yemen_national_football_team .
+dbpedia:North_Yemen_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Yemen_national_football_team .
+dbpedia:Yemen_national_soccer_team	dbpedia-owl:wikiPageRedirects	dbpedia:Yemen_national_football_team .
+dbpedia:Yasser_Al-Baadani	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+dbpedia:Sami_Juaim	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+dbpedia:Abdulelah_Sharyan	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+dbpedia:Abubakar_Al-Mass	dbpedia-owl:team	dbpedia:Yemen_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+<http://dbpedia.org/resource/2009_in_Japanese_football>	dbpprop:team	dbpedia:Yemen_national_football_team .
+<http://dbpedia.org/resource/2006_in_Japanese_football>	dbpprop:team	dbpedia:Yemen_national_football_team .
+dbpedia:Tom_Saintfiet	dbpprop:managerclubs	dbpedia:Yemen_national_football_team .
+dbpedia:Ali_Al-Nono	dbpedia-owl:team	dbpedia:Yemen_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+dbpedia:Fathi_Jabir	dbpedia-owl:team	dbpedia:Yemen_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+dbpedia:Adel_Al-Salimi	dbpedia-owl:team	dbpedia:Yemen_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+dbpedia:Akram_Al-Worafi	dbpedia-owl:team	dbpedia:Yemen_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+dbpedia:Abdo_Al-Edresi	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+<http://dbpedia.org/resource/Ji%C5%99%C3%AD_Pe%C5%A1ek>	dbpedia-owl:managerClub	dbpedia:Yemen_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Yemen_national_football_team .
+dbpedia:Fekri_Al-Hubaishi	dbpedia-owl:team	dbpedia:Yemen_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+dbpedia:Akram_Al-Selwi	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+dbpedia:Khaled_Baleid	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+dbpedia:Khaled_Afarah	dbpedia-owl:team	dbpedia:Yemen_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+dbpedia:Sharaf_Mahfood	dbpedia-owl:team	dbpedia:Yemen_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+dbpedia:Ayman_Al_Hagri	dbpedia-owl:team	dbpedia:Yemen_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+dbpedia:Amin_Al-Sanini	dbpedia-owl:managerClub	dbpedia:Yemen_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Yemen_national_football_team ;
+	dbpedia-owl:team	dbpedia:Yemen_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+dbpedia:Anwar_Al-Aug	dbpedia-owl:team	dbpedia:Yemen_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Yemen_national_football_team .
+dbpedia:Ahmed_Sary	dbpedia-owl:managerClub	dbpedia:Yemen_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Yemen_national_football_team .
+dbpedia:Amin_Al-Sanini__2	dbpedia-owl:team	dbpedia:Yemen_national_football_team .
+dbpedia:Amin_Al-Sanini__6	dbpedia-owl:team	dbpedia:Yemen_national_football_team .

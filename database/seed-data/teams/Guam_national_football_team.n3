@@ -1,0 +1,424 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_de_Guam_de_football	owl:sameAs	dbpedia:Guam_national_football_team .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Guamische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Guam_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q270203	owl:sameAs	dbpedia:Guam_national_football_team .
+@prefix ns5:	<http://cs.dbpedia.org/resource/> .
+ns5:Guamská_fotbalová_reprezentace	owl:sameAs	dbpedia:Guam_national_football_team .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Selección_de_fútbol_de_Guam	owl:sameAs	dbpedia:Guam_national_football_team .
+@prefix ns7:	<http://id.dbpedia.org/resource/> .
+ns7:Tim_nasional_sepak_bola_Guam	owl:sameAs	dbpedia:Guam_national_football_team .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Nazionale_di_calcio_di_Guam	owl:sameAs	dbpedia:Guam_national_football_team .
+@prefix ns9:	<http://ja.dbpedia.org/resource/> .
+ns9:サッカーグアム代表	owl:sameAs	dbpedia:Guam_national_football_team .
+@prefix ns10:	<http://ko.dbpedia.org/resource/> .
+ns10:괌_축구_국가대표팀	owl:sameAs	dbpedia:Guam_national_football_team .
+@prefix ns11:	<http://nl.dbpedia.org/resource/> .
+ns11:Guamees_voetbalelftal	owl:sameAs	dbpedia:Guam_national_football_team .
+@prefix ns12:	<http://pl.dbpedia.org/resource/> .
+ns12:Reprezentacja_Guamu_w_piłce_nożnej	owl:sameAs	dbpedia:Guam_national_football_team .
+@prefix ns13:	<http://pt.dbpedia.org/resource/> .
+ns13:Seleção_de_Guam_de_Futebol	owl:sameAs	dbpedia:Guam_national_football_team .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Dallas_Jaye__3	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Reyn_Johnson__3	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns16:	<http://en.wikipedia.org/wiki/> .
+ns16:Guam_national_football_team	foaf:primaryTopic	dbpedia:Guam_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Guam_national_football_team	rdf:type	yago:YagoPermanentlyLocatedEntity ,
+		dbpedia-owl:Agent ,
+		yago:AsianNationalAssociationFootballTeams ,
+		owl:Thing ,
+		yago:FootballTeam108080025 .
+@prefix ns19:	<http://schema.org/> .
+dbpedia:Guam_national_football_team	rdf:type	ns19:Organization ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		yago:NationalSportsTeamsOfGuam ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Guam_national_football_team	rdf:type	dul:SocialPerson ,
+		dbpedia-owl:Organisation ,
+		dul:Agent ,
+		ns19:SportsTeam ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ;
+	owl:sameAs	dbpedia:Guam_national_football_team .
+@prefix ns21:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns21:Guamin_jalkapallomaajoukkue ,
+		ns8:Nazionale_di_calcio_di_Guam ,
+		ns1:Équipe_de_Guam_de_football ,
+		ns6:Selección_de_fútbol_de_Guam .
+@prefix ns22:	<http://wikidata.org/entity/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns22:Q270203 .
+@prefix ns23:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns23:Guam_Millî_Futbol_Takımı .
+@prefix ns24:	<http://ms.dbpedia.org/resource/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns24:Pasukan_bola_sepak_kebangsaan_Guam .
+@prefix ns25:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns25:Guam_national_football_team ,
+		ns10:괌_축구_국가대표팀 ,
+		ns11:Guamees_voetbalelftal ,
+		ns4:Q270203 .
+@prefix ns26:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns26:Đội_tuyển_bóng_đá_quốc_gia_Guam .
+@prefix ns27:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns27:Echipa_națională_de_fotbal_a_Guamului .
+@prefix ns28:	<http://yago-knowledge.org/resource/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns28:Guam_national_football_team .
+@prefix ns29:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns29:تیم_ملی_فوتبال_گوآم ,
+		<http://rdf.freebase.com/ns/m.04fyws> .
+@prefix ns30:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns30:منتخب_غوام_الوطني_لكرة_القدم ,
+		ns9:サッカーグアム代表 .
+@prefix ns31:	<http://he.dbpedia.org/resource/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns31:נבחרת_גואם_בכדורגל .
+@prefix ns32:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns32:關島足球代表隊 .
+@prefix ns33:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns33:Guams_herrlandslag_i_fotboll ,
+		ns12:Reprezentacja_Guamu_w_piłce_nożnej .
+@prefix ns34:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns34:Сборная_Гуама_по_футболу ,
+		ns5:Guamská_fotbalová_reprezentace .
+@prefix ns35:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns35:Guamo_vyrų_futbolo_rinktinė .
+@prefix ns36:	<http://th.dbpedia.org/resource/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns36:ฟุตบอลทีมชาติกวม .
+@prefix ns37:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns37:गुआम_फुटबॉल_संघ ,
+		ns3:Guamische_Fußballnationalmannschaft .
+@prefix ns38:	<http://da.dbpedia.org/resource/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns38:Guams_fodboldlandshold .
+@prefix ns39:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns39:Збірна_Гуаму_з_футболу ,
+		ns13:Seleção_de_Guam_de_Futebol .
+@prefix ns40:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns40:Guami_labdarúgó-válogatott .
+@prefix ns41:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Guam_national_football_team	owl:sameAs	ns41:Guam_national_football_team ,
+		ns7:Tim_nasional_sepak_bola_Guam .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Guam_national_football_team	rdfs:label	"\u95DC\u5CF6\u8DB3\u7403\u4EE3\u8868\u968A"@zh ,
+		"Guam national football team" ,
+		"\u30B5\u30C3\u30AB\u30FC\u30B0\u30A2\u30E0\u4EE3\u8868"@ja ,
+		"Guamees voetbalelftal"@nl ,
+		"Nazionale di calcio di Guam"@it ,
+		"\u0645\u0646\u062A\u062E\u0628 \u063A\u0648\u0627\u0645 \u0627\u0644\u0648\u0637\u0646\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"Guamische Fu\u00DFballnationalmannschaft"@de ,
+		"Reprezentacja Guamu w pi\u0142ce no\u017Cnej"@pl ,
+		"\u00C9quipe de Guam de football"@fr ,
+		"Selecci\u00F3n de f\u00FAtbol de Guam"@es ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0413\u0443\u0430\u043C\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"Sele\u00E7\u00E3o de Guam de Futebol"@pt .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Guam_national_football_team	dcterms:subject	category:National_sports_teams_of_Guam ,
+		category:Guam_national_football_team ,
+		category:Asian_national_association_football_teams ;
+	foaf:name	"Guam" ;
+	foaf:nick	"Matao" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Guam_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Guam_national_football_team?oldid=606789927> ;
+	rdfs:comment	"L'\u00E9quipe de Guam de football est une s\u00E9lection des meilleurs joueurs guamaniens sous l'\u00E9gide de la F\u00E9d\u00E9ration de Guam de football."@fr ,
+		"A Sele\u00E7\u00E3o de Guam de Futebol representa Guam nas competi\u00E7\u00F5es de futebol da FIFA.Fundada em 1975, filiou-se \u00E0 FIFA em 1996. Esta sele\u00E7\u00E3o \u00E9 uma das mais fracas do mundo e encontra-se posicionada no \u00FAltimo lugar da zona asi\u00E1tica (segundo o ranking FIFA); conseguiu sua primeira vit\u00F3ria contra um time filiado \u00E0 FIFA apenas em Mar\u00E7o de 2009: derrotou a Mong\u00F3lia pelo placar de 1 - 0.Sofreu sua maior derrota frente \u00E0 Coreia do Norte por 21 - 0."@pt ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0413\u0443\u0430\u043C\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0413\u0443\u0430\u043C\u0430. \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0443\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0435\u0439 \u0413\u0443\u0430\u043C\u0430. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0431\u044B\u043B\u0430 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 1975 \u0433\u043E\u0434\u0443 \u0438 \u043F\u0440\u0438\u0441\u043E\u0435\u0434\u0438\u043D\u0438\u043B\u0430\u0441\u044C \u043A \u0424\u0418\u0424\u0410 \u0432 1996 \u0433\u043E\u0434\u0443. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0413\u0443\u0430\u043C\u0430 \u043E\u0434\u043D\u0430 \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u0441\u043B\u0430\u0431\u044B\u0445 \u0441\u0431\u043E\u0440\u043D\u044B\u0445 \u0432 \u043C\u0438\u0440\u0435. \u041F\u0435\u0440\u0432\u0443\u044E \u043F\u043E\u0431\u0435\u0434\u0443 \u043D\u0430\u0434 \u0447\u043B\u0435\u043D\u043E\u043C \u0424\u0418\u0424\u0410 \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0413\u0443\u0430\u043C\u0430 \u043E\u0434\u0435\u0440\u0436\u0430\u043B\u0430 11 \u043C\u0430\u0440\u0442\u0430 2009 \u0433\u043E\u0434\u0430, \u043E\u0431\u044B\u0433\u0440\u0430\u0432 \u043D\u0430 \u0441\u0432\u043E\u0435\u043C \u043F\u043E\u043B\u0435 \u0441\u043E \u0441\u0447\u0435\u0442\u043E\u043C 1:0 \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u041C\u043E\u043D\u0433\u043E\u043B\u0438\u0438. 11 \u043C\u0430\u0440\u0442\u0430 2005 \u0433\u043E\u0434\u0430 \u0441\u043E \u0441\u0447\u0435\u0442\u043E\u043C 0:21 \u043F\u0440\u043E\u0438\u0433\u0440\u0430\u043B\u0430 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u041D\u0414\u0420."@ru ,
+		"\u30B5\u30C3\u30AB\u30FC\u30B0\u30A2\u30E0\u4EE3\u8868\u306F\u3001\u30B0\u30A2\u30E0\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\uFF08GFA\uFF09\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30A2\u30B8\u30A2\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u304A\u3088\u3073\u6771\u30A2\u30B8\u30A2\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u6240\u5C5E\u30021976\u5E74\u306B\u7D50\u6210\u3055\u308C\u3001FIFA\u306B\u52A0\u76DF\u3057\u305F\u306E\u306F1996\u5E74\u3067\u3042\u308B\u3002\u306A\u304A\u3001\u30AA\u30BB\u30A2\u30CB\u30A2\u306B\u4F4D\u7F6E\u3057\u3066\u3044\u308B\u304C\u8DDD\u96E2\u3084\u5730\u7406\u7684\u306A\u95A2\u4FC2\u3067\u30AA\u30BB\u30A2\u30CB\u30A2\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08OFC\uFF09\u306B\u306F\u7D50\u6210\u6642\u304B\u3089\u52A0\u76DF\u3057\u3066\u3044\u306A\u3044\u3002\u307E\u305F\u30B0\u30A2\u30E0\u306F\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u306E\u9818\u571F\u3067\u306F\u3042\u308B\u304C\u3001\u540C\u69D8\u306E\u7406\u7531\u3067\u5317\u4E2D\u7C73\u30AB\u30EA\u30D6\u6D77\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08CONCACAF\uFF09\u306B\u3082\u52A0\u76DF\u7D4C\u9A13\u304C\u306A\u3044\u30022009\u5E743\u670811\u65E5\u3001\u6771\u30A2\u30B8\u30A2\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u6A292010\u4E88\u9078\u5927\u4F1A\u3067\u3001\u30E2\u30F3\u30B4\u30EB\u306B1-0\u3067\u52DD\u3061\u3001FIFA\u52A0\u76DF\u56FD\u306B\u5BFE\u3057\u3066\u5FF5\u9858\u306E\u521D\u52DD\u5229\u3092\u6319\u3052\u305F\u3002\u305D\u306E\u5F8C2011\u5E74\u30D1\u30B7\u30D5\u30A3\u30C3\u30AF\u30B2\u30FC\u30E0\u30BA\u306B\u304A\u3051\u308B\u30B5\u30C3\u30AB\u30FC\u7AF6\u6280\u3067\u306F\u3001\u30B0\u30EB\u30FC\u30D7\u30B9\u30C6\u30FC\u30B8\u3067\u30A2\u30E1\u30EA\u30AB\u9818\u30B5\u30E2\u30A2\u30922-0\u3067\u7834\u3063\u3066\u3044\u308B\u30022012\u5E74\u4EE5\u964D\u306F\u3001\u30DE\u30AB\u30AA\u3084\u53F0\u6E7E\u306B\u3082\u52DD\u3066\u308B\u3088\u3046\u306B\u306A\u308A\u3001\u5F90\u3005\u306B\u5F37\u304F\u306A\u3063\u3066\u304D\u3064\u3064\u3042\u308B\u3002\u65E5\u672C\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u304B\u3089\u306E\u6D3E\u9063\u4E8B\u696D\u3067\u795E\u6238\u6E05\u96C4\u3084\u7BC9\u8218\u7BC4\u7537\u3001\u5185\u7530\u4E00\u592B\u304C\u4EE3\u8868\u30C1\u30FC\u30E0\u306E\u76E3\u7763\u306B\u5C31\u3044\u3066\u3044\u305F\u6642\u671F\u304C\u3042\u3063\u305F\u3002"@ja ,
+		"\u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"The Guam national football team is the national association football team for the United States territory of Guam and is controlled by the Guam Football Association. They are affiliated to the Asian Football Confederation's East Asian Football Federation region.The team was founded in 1975 and joined FIFA in 1996." ,
+		"La selecci\u00F3n de f\u00FAtbol de Guam es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Asociaci\u00F3n de f\u00FAtbol de Guam, fundada en 1976 y perteneciente a la AFC y a la FIFA.Solo logr\u00F3 ganar un pu\u00F1ado de partidos. Muchos de ellos fueron encuentros no oficiales ante otras selecciones de Micronesia, como Pohnpei (Estado de los Estados Federados de Micronesia) o las Islas Marianas del Norte."@es ,
+		"Het Guamees voetbalelftal is een team van voetballers dat Guam vertegenwoordigt bij internationale wedstrijden. De bond werd in 1975 opgericht en sloot zich in 1996 bij de FIFA aan. Daarnaast is Guam aangesloten bij de Aziatische voetbalbond AFC."@nl ,
+		"Reprezentacja Guamu jest jedn\u0105 z najs\u0142abszych dru\u017Cyn narodowych na \u015Bwiecie. W ostatnim (listopad 2012) rankingu FIFA zosta\u0142a sklasyfikowana na 181. miejscu.Pierwszy mecz dru\u017Cyna rozegra\u0142a w sierpniu 1975 roku. W latach 1979\u20131990 reprezentanci tego niewielkiego terytorium zamorskiego zale\u017Cnego od Stan\u00F3w Zjednoczonych ani razu nie wybiegali na boisko."@pl ,
+		"La Nazionale di calcio di Guam \u00E8 la squadra nazionale di Guam, posta sotto l'egida della Guam Football Association ed affiliata all'AFC.\u00C8 una delle nazionali pi\u00F9 deboli al mondo, avendo vinto la sua prima partita contro un'altra squadra appartenente alla FIFA l'11 marzo 2009 contro la Mongolia 1-0.Inoltre se si considerano solo le partite di tornei non amichevoli ha un punteggio di 10 sconfitte in 10 partite, con 2 reti all'attivo e 105 al passivo.Fondata nel 1975, si \u00E8 aggregata alla FIFA nel 1996. "@it ,
+		"Die guamische Fu\u00DFballnationalmannschaft ist die Auswahlmannschaft des pazifischen US-Au\u00DFengebietes Guam.Guam ist sowohl Mitglied des Weltfu\u00DFballverbandes FIFA als auch des Regionalverbandes AFC und nimmt daher auch an den Qualifikationsspielen zu Fu\u00DFball-Weltmeisterschaften sowie zur AFC Asienmeisterschaft teil, obwohl es politisch zu den Vereinigten Staaten von Amerika geh\u00F6rt.Die Guamische Nationalmannschaft musste sich bisher mit der Rolle als Underdog im asiatischen Fu\u00DFball abgeben."@de ,
+		"\u95DC\u5CF6\u8DB3\u7403\u4EE3\u8868\u968A\uFF08\u82F1\u8BED\uFF1AGuam national football team\uFF09\u662F\u95DC\u5CF6\u7684\u5B98\u65B9\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u6210\u7ACB\u65BC1975\u5E74\uFF0C\u65BC1996\u5E74\u52A0\u5165\u570B\u969B\u8DB3\u5354\uFF0C\u7531\u95DC\u5CF6\u8DB3\u7403\u5354\u6703\u7BA1\u7406\u3002"@zh ;
+	foaf:isPrimaryTopicOf	ns16:Guam_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Guam_national_football_team	dbpprop:club	<http://dbpedia.org/resource/Loyola_Meralco_Sparks_F.C.> ,
+		dbpedia:FC_Tucson ,
+		dbpedia:Free_agent ,
+		dbpedia:Charlotte_Eagles ,
+		dbpedia:Orlando_City ,
+		<http://dbpedia.org/resource/%C3%9E%C3%B3r_Akureyri> ,
+		dbpedia:San_Diego_Flash ,
+		dbpedia:Phnom_Penh_Crown_FC ,
+		dbpedia:San_Diego_State_Aztecs ,
+		dbpedia:Bowling_Green_Falcons ,
+		<http://dbpedia.org/resource/Pachanga_Diliman_F.C.> ,
+		dbpedia:LA_Galaxy ,
+		dbpedia:Marshall_Thundering_Herd ,
+		dbpedia:SoCal_Elite ,
+		<http://dbpedia.org/resource/United_Sikkim_F.C.> ,
+		dbpedia:Table_35_Espada_FC ,
+		<http://dbpedia.org/resource/Niagara_Purple_Eagles_men\u0027s_soccer> .
+@prefix ns47:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Guam_national_football_team	dbpprop:hasPhotoCollection	ns47:Guam_national_football_team ;
+	dbpprop:name	dbpedia:Bijan_Gloston ,
+		dbpedia:Mark_Chargualaf ,
+		dbpedia:Shawn_Nicklaw ,
+		dbpedia:Dominic_Gadia ,
+		<http://dbpedia.org/resource/Jason_Cunliffe_(footballer)> ,
+		dbpedia:Dallas_Jaye ,
+		dbpedia:Jonahan_Romero ,
+		dbpedia:Ian_Mariano ,
+		<http://dbpedia.org/resource/A._J._DeLaGarza> ,
+		"Guam" ,
+		dbpedia:Micah_Paulino ,
+		dbpedia:Zachary_DeVille ,
+		dbpedia:Josh_Borja ,
+		dbpedia:Dylan_Naputi ,
+		dbpedia:Marcus_Lopez ,
+		dbpedia:Travis_Nicklaw ,
+		dbpedia:Christian_Schweizer ,
+		dbpedia:Erik_Ustruck ,
+		dbpedia:John_Matkin ,
+		dbpedia:Roderick ,
+		dbpedia:Ian_Adamos ,
+		dbpedia:Thaddeus_Atalig ,
+		dbpedia:Ryan_Guy ,
+		dbpedia:Scott_Guerrero ;
+	dbpedia-owl:abstract	"A Sele\u00E7\u00E3o de Guam de Futebol representa Guam nas competi\u00E7\u00F5es de futebol da FIFA.Fundada em 1975, filiou-se \u00E0 FIFA em 1996. Esta sele\u00E7\u00E3o \u00E9 uma das mais fracas do mundo e encontra-se posicionada no \u00FAltimo lugar da zona asi\u00E1tica (segundo o ranking FIFA); conseguiu sua primeira vit\u00F3ria contra um time filiado \u00E0 FIFA apenas em Mar\u00E7o de 2009: derrotou a Mong\u00F3lia pelo placar de 1 - 0.Sofreu sua maior derrota frente \u00E0 Coreia do Norte por 21 - 0. J\u00E1 sua maior vit\u00F3ria foi um 16 - 1 sobre uma sele\u00E7\u00E3o amadora, Pohnpei.Apesar da estabilidade econ\u00F4mica da ilha, o motivo oficial da desist\u00EAncia de Guam da disputa das Eliminat\u00F3rias FIFA para a Copa de 2010 foi de ordem financeira. Embora o futebol seja pouco popular em Guam, \u00E9 consenso que tem evolu\u00EDdo aos poucos."@pt ,
+		"The Guam national football team is the national association football team for the United States territory of Guam and is controlled by the Guam Football Association. They are affiliated to the Asian Football Confederation's East Asian Football Federation region.The team was founded in 1975 and joined FIFA in 1996. It is the 6th strongest National team in the East Asia Football Federation which also consists of Japan, South & North Korea and China, its highest FIFA ranking was 171st in October 2013. Since February 2012 they have been managed by Englishman Gary White.Guam has competed in World Cup qualification on one occasion. It was eliminated in the first round of Asian qualification for the 2002 FIFA World Cup after losing against Iran and Tajikistan. Recently they have found success by winning the EAFF preliminary competition and qualifying for the semi final round in 2012." ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0413\u0443\u0430\u043C\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0413\u0443\u0430\u043C\u0430. \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0443\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0435\u0439 \u0413\u0443\u0430\u043C\u0430. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0431\u044B\u043B\u0430 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 1975 \u0433\u043E\u0434\u0443 \u0438 \u043F\u0440\u0438\u0441\u043E\u0435\u0434\u0438\u043D\u0438\u043B\u0430\u0441\u044C \u043A \u0424\u0418\u0424\u0410 \u0432 1996 \u0433\u043E\u0434\u0443. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0413\u0443\u0430\u043C\u0430 \u043E\u0434\u043D\u0430 \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u0441\u043B\u0430\u0431\u044B\u0445 \u0441\u0431\u043E\u0440\u043D\u044B\u0445 \u0432 \u043C\u0438\u0440\u0435. \u041F\u0435\u0440\u0432\u0443\u044E \u043F\u043E\u0431\u0435\u0434\u0443 \u043D\u0430\u0434 \u0447\u043B\u0435\u043D\u043E\u043C \u0424\u0418\u0424\u0410 \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0413\u0443\u0430\u043C\u0430 \u043E\u0434\u0435\u0440\u0436\u0430\u043B\u0430 11 \u043C\u0430\u0440\u0442\u0430 2009 \u0433\u043E\u0434\u0430, \u043E\u0431\u044B\u0433\u0440\u0430\u0432 \u043D\u0430 \u0441\u0432\u043E\u0435\u043C \u043F\u043E\u043B\u0435 \u0441\u043E \u0441\u0447\u0435\u0442\u043E\u043C 1:0 \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u041C\u043E\u043D\u0433\u043E\u043B\u0438\u0438. 11 \u043C\u0430\u0440\u0442\u0430 2005 \u0433\u043E\u0434\u0430 \u0441\u043E \u0441\u0447\u0435\u0442\u043E\u043C 0:21 \u043F\u0440\u043E\u0438\u0433\u0440\u0430\u043B\u0430 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u041D\u0414\u0420."@ru ,
+		"\u30B5\u30C3\u30AB\u30FC\u30B0\u30A2\u30E0\u4EE3\u8868\u306F\u3001\u30B0\u30A2\u30E0\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\uFF08GFA\uFF09\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30A2\u30B8\u30A2\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u304A\u3088\u3073\u6771\u30A2\u30B8\u30A2\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u6240\u5C5E\u30021976\u5E74\u306B\u7D50\u6210\u3055\u308C\u3001FIFA\u306B\u52A0\u76DF\u3057\u305F\u306E\u306F1996\u5E74\u3067\u3042\u308B\u3002\u306A\u304A\u3001\u30AA\u30BB\u30A2\u30CB\u30A2\u306B\u4F4D\u7F6E\u3057\u3066\u3044\u308B\u304C\u8DDD\u96E2\u3084\u5730\u7406\u7684\u306A\u95A2\u4FC2\u3067\u30AA\u30BB\u30A2\u30CB\u30A2\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08OFC\uFF09\u306B\u306F\u7D50\u6210\u6642\u304B\u3089\u52A0\u76DF\u3057\u3066\u3044\u306A\u3044\u3002\u307E\u305F\u30B0\u30A2\u30E0\u306F\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u306E\u9818\u571F\u3067\u306F\u3042\u308B\u304C\u3001\u540C\u69D8\u306E\u7406\u7531\u3067\u5317\u4E2D\u7C73\u30AB\u30EA\u30D6\u6D77\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08CONCACAF\uFF09\u306B\u3082\u52A0\u76DF\u7D4C\u9A13\u304C\u306A\u3044\u30022009\u5E743\u670811\u65E5\u3001\u6771\u30A2\u30B8\u30A2\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u6A292010\u4E88\u9078\u5927\u4F1A\u3067\u3001\u30E2\u30F3\u30B4\u30EB\u306B1-0\u3067\u52DD\u3061\u3001FIFA\u52A0\u76DF\u56FD\u306B\u5BFE\u3057\u3066\u5FF5\u9858\u306E\u521D\u52DD\u5229\u3092\u6319\u3052\u305F\u3002\u305D\u306E\u5F8C2011\u5E74\u30D1\u30B7\u30D5\u30A3\u30C3\u30AF\u30B2\u30FC\u30E0\u30BA\u306B\u304A\u3051\u308B\u30B5\u30C3\u30AB\u30FC\u7AF6\u6280\u3067\u306F\u3001\u30B0\u30EB\u30FC\u30D7\u30B9\u30C6\u30FC\u30B8\u3067\u30A2\u30E1\u30EA\u30AB\u9818\u30B5\u30E2\u30A2\u30922-0\u3067\u7834\u3063\u3066\u3044\u308B\u30022012\u5E74\u4EE5\u964D\u306F\u3001\u30DE\u30AB\u30AA\u3084\u53F0\u6E7E\u306B\u3082\u52DD\u3066\u308B\u3088\u3046\u306B\u306A\u308A\u3001\u5F90\u3005\u306B\u5F37\u304F\u306A\u3063\u3066\u304D\u3064\u3064\u3042\u308B\u3002\u65E5\u672C\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u304B\u3089\u306E\u6D3E\u9063\u4E8B\u696D\u3067\u795E\u6238\u6E05\u96C4\u3084\u7BC9\u8218\u7BC4\u7537\u3001\u5185\u7530\u4E00\u592B\u304C\u4EE3\u8868\u30C1\u30FC\u30E0\u306E\u76E3\u7763\u306B\u5C31\u3044\u3066\u3044\u305F\u6642\u671F\u304C\u3042\u3063\u305F\u3002"@ja ,
+		"\u95DC\u5CF6\u8DB3\u7403\u4EE3\u8868\u968A\uFF08\u82F1\u8BED\uFF1AGuam national football team\uFF09\u662F\u95DC\u5CF6\u7684\u5B98\u65B9\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u6210\u7ACB\u65BC1975\u5E74\uFF0C\u65BC1996\u5E74\u52A0\u5165\u570B\u969B\u8DB3\u5354\uFF0C\u7531\u95DC\u5CF6\u8DB3\u7403\u5354\u6703\u7BA1\u7406\u3002"@zh ,
+		"L'\u00E9quipe de Guam de football est une s\u00E9lection des meilleurs joueurs guamaniens sous l'\u00E9gide de la F\u00E9d\u00E9ration de Guam de football."@fr ,
+		"La selecci\u00F3n de f\u00FAtbol de Guam es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Asociaci\u00F3n de f\u00FAtbol de Guam, fundada en 1976 y perteneciente a la AFC y a la FIFA.Solo logr\u00F3 ganar un pu\u00F1ado de partidos. Muchos de ellos fueron encuentros no oficiales ante otras selecciones de Micronesia, como Pohnpei (Estado de los Estados Federados de Micronesia) o las Islas Marianas del Norte. Nunca pudo clasificarse a la Copa Asi\u00E1tica y en los Juegos del Pac\u00EDfico su mayor logro es conseguir una victoria y un empate, sin superar siquiera la primera ronda, que obtuvo en 2011.Es una de las selecciones m\u00E1s d\u00E9biles de la AFC."@es ,
+		"Die guamische Fu\u00DFballnationalmannschaft ist die Auswahlmannschaft des pazifischen US-Au\u00DFengebietes Guam.Guam ist sowohl Mitglied des Weltfu\u00DFballverbandes FIFA als auch des Regionalverbandes AFC und nimmt daher auch an den Qualifikationsspielen zu Fu\u00DFball-Weltmeisterschaften sowie zur AFC Asienmeisterschaft teil, obwohl es politisch zu den Vereinigten Staaten von Amerika geh\u00F6rt.Die Guamische Nationalmannschaft musste sich bisher mit der Rolle als Underdog im asiatischen Fu\u00DFball abgeben. Das 0:21 gegen Nordkorea am 11. M\u00E4rz 2005 ist die h\u00F6chste Niederlage einer asiatischen Mannschaft. Insgesamt hat Guam zehn Spiele in seiner Statistik, bei denen der Gegner mindestens 14 Tore erzielte. Gegen keine andere Mannschaft konnten mehr andere Mannschaften ihre h\u00F6chsten Siege erzielen. Insgesamt 12 Mannschaften gelang dies gegen Guam, davon neunmal zweistellig. Die Nationalmannschaft hat im Jahr 2009 ihr erstes offizielles FIFA-L\u00E4nderspiel gewinnen k\u00F6nnen und befindet sich aktuell auf Platz 177 der FIFA-Weltrangliste (Stand: 8. August 2013)."@de ,
+		"Reprezentacja Guamu jest jedn\u0105 z najs\u0142abszych dru\u017Cyn narodowych na \u015Bwiecie. W ostatnim (listopad 2012) rankingu FIFA zosta\u0142a sklasyfikowana na 181. miejscu.Pierwszy mecz dru\u017Cyna rozegra\u0142a w sierpniu 1975 roku. W latach 1979\u20131990 reprezentanci tego niewielkiego terytorium zamorskiego zale\u017Cnego od Stan\u00F3w Zjednoczonych ani razu nie wybiegali na boisko. W historii swoich wyst\u0119p\u00F3w Guam zanotowa\u0142 tylko kilka zwyci\u0119stw, w tym 9:0 z reprezentacj\u0105 Marian\u00F3w P\u00F3\u0142nocnych w 2007 r.W kraju, kt\u00F3ry posiada jedynie 160 tysi\u0119cy mieszka\u0144c\u00F3w, nie ma profesjonalnej ligi. W dru\u017Cynie narodowej cz\u0119sto graj\u0105 nastolatkowie. Od po\u0142owy 2005 do 2012 obowi\u0105zki selekcjonera pe\u0142ni\u0142 Japo\u0144czyk Norio Tsukitate, poprzednio pracuj\u0105cy jako trener m\u0142odzie\u017Cy w rodzimym klubie Shimizu S-Pulse. Obecnie trenerem jest Gary White."@pl ,
+		"Het Guamees voetbalelftal is een team van voetballers dat Guam vertegenwoordigt bij internationale wedstrijden. De bond werd in 1975 opgericht en sloot zich in 1996 bij de FIFA aan. Daarnaast is Guam aangesloten bij de Aziatische voetbalbond AFC."@nl ,
+		"La Nazionale di calcio di Guam \u00E8 la squadra nazionale di Guam, posta sotto l'egida della Guam Football Association ed affiliata all'AFC.\u00C8 una delle nazionali pi\u00F9 deboli al mondo, avendo vinto la sua prima partita contro un'altra squadra appartenente alla FIFA l'11 marzo 2009 contro la Mongolia 1-0.Inoltre se si considerano solo le partite di tornei non amichevoli ha un punteggio di 10 sconfitte in 10 partite, con 2 reti all'attivo e 105 al passivo.Fondata nel 1975, si \u00E8 aggregata alla FIFA nel 1996. Attualmente occupa la 178\u00AA posizione nella classifica."@it ,
+		"\u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ;
+	dbpedia-owl:wikiPageID	1190788 ;
+	dbpedia-owl:wikiPageRevisionID	606789927 ;
+	dbpprop:clubnat	"USA" ,
+		"PHI" ,
+		"IND" ,
+		"GUM" ,
+		"ISL" ,
+		"CAM" ;
+	dbpprop:goals	5 ,
+		2 ,
+		3 ,
+		0 ,
+		1 ,
+		11 ;
+	dbpprop:caps	21 ,
+		23 ,
+		16 ,
+		17 ,
+		29 ,
+		26 ,
+		27 ,
+		4 ,
+		5 ,
+		7 ,
+		1 ,
+		2 ,
+		12 ,
+		14 ,
+		15 ,
+		8 ,
+		9 ,
+		10 ,
+		11 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Guam_national_football_team	dbpprop:age	"1992-02-09+02:00"^^xsd:date ,
+		"1991-01-03+02:00"^^xsd:date ,
+		"1988-04-03+02:00"^^xsd:date ,
+		"1989-06-02+02:00"^^xsd:date ,
+		"1986-01-18+02:00"^^xsd:date ,
+		"1986-04-20+02:00"^^xsd:date ,
+		"1989-04-15+02:00"^^xsd:date ,
+		"1983-10-23+02:00"^^xsd:date ,
+		"1985-12-04+02:00"^^xsd:date ,
+		"1993-01-11+02:00"^^xsd:date ,
+		"1995-01-06+02:00"^^xsd:date ,
+		"1993-06-19+02:00"^^xsd:date ,
+		"1990-10-07+02:00"^^xsd:date ,
+		"1993-12-21+02:00"^^xsd:date ,
+		"1993-03-23+02:00"^^xsd:date ,
+		"1992-11-16+02:00"^^xsd:date ,
+		"1995-05-07+02:00"^^xsd:date ,
+		"1990-08-01+02:00"^^xsd:date ,
+		"1990-08-22+02:00"^^xsd:date ,
+		"1987-11-04+02:00"^^xsd:date ,
+		"1995-01-04+02:00"^^xsd:date ,
+		"1988-03-17+02:00"^^xsd:date ,
+		"1985-09-05+02:00"^^xsd:date ;
+	dbpprop:coach	<http://dbpedia.org/resource/Gary_White_(football)> ;
+	dbpprop:patternSh	"_adidasonwhite" ,
+		"_adidaswhite" ;
+	dbpedia-owl:coach	<http://dbpedia.org/resource/Gary_White_(football)> ;
+	dbpprop:patternSo	"_3_stripes_white" ,
+		"_3 stripes blue" ;
+	dbpprop:association	dbpedia:Guam_Football_Association ;
+	dbpprop:body	0 ;
+	dbpprop:confederation	dbpedia:Asian_Football_Confederation ;
+	dbpprop:fifaRank	171 ;
+	dbpprop:fifaTrigramme	"GUM" ;
+	dbpprop:leftarm	"FFFFFF" ,
+		0 ;
+	dbpprop:patternB	"_adidas_geist_onwhite_2" ,
+		"_adidas_geist_white" ;
+	dbpprop:rightarm	"FFFFFF" ,
+		0 ;
+	dbpprop:shorts	0 ;
+	dbpprop:socks	"ffffff" ,
+		0 ;
+	dbpprop:pos	"GK" ,
+		"DF" ,
+		"FW" ,
+		"MF" ;
+	dbpprop:badge	"Guam FA.gif" ;
+	dbpprop:firstGame	11 ;
+	dbpprop:largestLoss	21 ;
+	dbpprop:largestWin	16 ,
+		3 ;
+	dbpprop:eloMax	213 ;
+	dbpprop:eloMaxDate	"2013-03-06+02:00"^^xsd:date ;
+	dbpprop:eloMin	227 ;
+	dbpprop:eloMinDate	"Early 2007" ;
+	dbpprop:eloRank	213 ;
+	dbpprop:fifaMax	161 ;
+	dbpprop:fifaMaxDate	"December 2013" ;
+	dbpprop:fifaMin	205 ;
+	dbpprop:fifaMinDate	"November 2004 - February 2005" ;
+	dbpprop:subConfederation	dbpedia:East_Asian_Football_Federation ;
+	dbpedia-owl:wikiPageExternalLink	<http://guamallstars.webbyen.dk/> ,
+		<http://www.guamfootball.com/> ;
+	dbpprop:homeStadium	dbpedia:Guam_National_Football_Stadium ;
+	dbpedia-owl:stadium	dbpedia:Guam_National_Football_Stadium ;
+	dbpprop:nickname	"Matao" .
+dbpedia:Christopher_Mendiola__1	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Anthony_Paulino	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+ns30:منتخب_غوام_الوطني_لكرة_القدم	owl:sameAs	dbpedia:Guam_national_football_team .
+ns38:Guams_fodboldlandshold	owl:sameAs	dbpedia:Guam_national_football_team .
+ns29:تیم_ملی_فوتبال_گوآم	owl:sameAs	dbpedia:Guam_national_football_team .
+ns21:Guamin_jalkapallomaajoukkue	owl:sameAs	dbpedia:Guam_national_football_team .
+ns31:נבחרת_גואם_בכדורגל	owl:sameAs	dbpedia:Guam_national_football_team .
+ns25:Guam_national_football_team	owl:sameAs	dbpedia:Guam_national_football_team .
+ns40:Guami_labdarúgó-válogatott	owl:sameAs	dbpedia:Guam_national_football_team .
+ns35:Guamo_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Guam_national_football_team .
+ns37:गुआम_फुटबॉल_संघ	owl:sameAs	dbpedia:Guam_national_football_team .
+ns24:Pasukan_bola_sepak_kebangsaan_Guam	owl:sameAs	dbpedia:Guam_national_football_team .
+ns27:Echipa_națională_de_fotbal_a_Guamului	owl:sameAs	dbpedia:Guam_national_football_team .
+ns34:Сборная_Гуама_по_футболу	owl:sameAs	dbpedia:Guam_national_football_team .
+ns41:Guam_national_football_team	owl:sameAs	dbpedia:Guam_national_football_team .
+ns33:Guams_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Guam_national_football_team .
+ns36:ฟุตบอลทีมชาติกวม	owl:sameAs	dbpedia:Guam_national_football_team .
+ns23:Guam_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Guam_national_football_team .
+ns39:Збірна_Гуаму_з_футболу	owl:sameAs	dbpedia:Guam_national_football_team .
+ns26:Đội_tuyển_bóng_đá_quốc_gia_Guam	owl:sameAs	dbpedia:Guam_national_football_team .
+ns32:關島足球代表隊	owl:sameAs	dbpedia:Guam_national_football_team .
+dbpedia:Mark_Chargualaf	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Dallas_Jaye	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Dominic_Gadia	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Shawn_Nicklaw	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Jonahan_Romero__2	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Guam	dbpedia-owl:map	dbpedia:Guam_national_football_team .
+dbpedia:Jonahan_Romero	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Randy_Espinosa	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Travis_Nicklaw__4	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Ian_Adamos	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Josh_Borja	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Erik_Ustruck	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Erik_Ustruck__7	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Randy_Espinosa__3	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Park_Choong-Kyun	dbpedia-owl:managerClub	dbpedia:Guam_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Guam_national_football_team .
+dbpedia:Kazuo_Uchida__2	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Ryan_Guy__7	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Sugao_Kambe	dbpedia-owl:managerClub	dbpedia:Guam_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Guam_national_football_team .
+dbpedia:Marcus_Lopez__6	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Ian_Adamos__2	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Doug_Herrick__5	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+<http://dbpedia.org/resource/Gary_White_(football)__7>	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:John_Matkin__2	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Mark_Chargualaf__1	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Ryan_Guy	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+<http://dbpedia.org/resource/A._J._DeLaGarza>	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+<http://dbpedia.org/resource/Gary_White_(football)>	dbpedia-owl:managerClub	dbpedia:Guam_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Guam_national_football_team .
+dbpedia:Kazuo_Uchida	dbpedia-owl:managerClub	dbpedia:Guam_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Guam_national_football_team .
+dbpedia:Micah_Paulino	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Ian_Mariano	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Christopher_Mendiola	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Dylan_Naputi	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Christian_Schweizer	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+<http://dbpedia.org/resource/Jason_Cunliffe_(footballer)>	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Scott_Guerrero	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Zachary_DeVille	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Travis_Nicklaw	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Doug_Herrick	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Marcus_Lopez	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Thaddeus_Atalig	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Elias_Merfalen	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Bijan_Gloston	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Reyn_Johnson	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+<http://dbpedia.org/resource/A._J._DeLaGarza__4>	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Bijan_Gloston__2	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Micah_Paulino__2	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Park_Choong-Kyun__10	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Thaddeus_Atalig__4	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:John_Matkin	dbpedia-owl:team	dbpedia:Guam_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Guam_national_football_team .
+dbpedia:Zachary_DeVille__3	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Shawn_Nicklaw__7	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Elias_Merfalen__1	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Josh_Borja__4	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Scott_Guerrero__1	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Dominic_Gadia__1	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Sugao_Kambe__4	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+<http://dbpedia.org/resource/Jason_Cunliffe_(footballer)__3>	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Thaddeus_Atalig__3	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Anthony_Paulino__4	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Christian_Schweizer__5	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Dylan_Naputi__3	dbpedia-owl:team	dbpedia:Guam_national_football_team .
+dbpedia:Guam_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Guam_national_football_team .
+@prefix ns49:	<http://dbpedia.org/resource/Guam_national_football_team/> .
+ns49:edit_history	dbpedia-owl:wikiPageRedirects	dbpedia:Guam_national_football_team .
+dbpedia:Guam_regional_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Guam_national_football_team .
+dbpedia:Ian_Mariano__2	dbpedia-owl:team	dbpedia:Guam_national_football_team .

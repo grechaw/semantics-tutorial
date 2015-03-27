@@ -1,0 +1,284 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:David_Mulligan	owl:sameAs	dbpedia:Dave_Mulligan .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:David_Mulligan	owl:sameAs	dbpedia:Dave_Mulligan .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q455353	owl:sameAs	dbpedia:Dave_Mulligan .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:David_Mulligan	owl:sameAs	dbpedia:Dave_Mulligan .
+@prefix ns6:	<http://it.dbpedia.org/resource/> .
+ns6:David_Mulligan	owl:sameAs	dbpedia:Dave_Mulligan .
+@prefix ns7:	<http://pl.dbpedia.org/resource/> .
+ns7:David_Mulligan	owl:sameAs	dbpedia:Dave_Mulligan .
+@prefix ns8:	<http://pt.dbpedia.org/resource/> .
+ns8:Dave_Mulligan	owl:sameAs	dbpedia:Dave_Mulligan .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2009%E2%80%9310_Wellington_Phoenix_FC_season>	dbpprop:name	dbpedia:Dave_Mulligan .
+<http://dbpedia.org/resource/2008%E2%80%9309_Wellington_Phoenix_FC_season>	dbpprop:name	dbpedia:Dave_Mulligan .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns11:	<http://en.wikipedia.org/wiki/> .
+ns11:Dave_Mulligan	foaf:primaryTopic	dbpedia:Dave_Mulligan .
+<http://dbpedia.org/resource/2003_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Dave_Mulligan .
+<http://dbpedia.org/resource/2000%E2%80%9301_Barnsley_F.C._season>	dbpprop:name	dbpedia:Dave_Mulligan .
+<http://dbpedia.org/resource/2001%E2%80%9302_Barnsley_F.C._season>	dbpprop:name	dbpedia:Dave_Mulligan .
+@prefix ns12:	<http://ar.dbpedia.org/resource/> .
+ns12:ديفيد_موليغان	owl:sameAs	dbpedia:Dave_Mulligan .
+@prefix ns13:	<http://ca.dbpedia.org/resource/> .
+ns13:Dave_Mulligan	owl:sameAs	dbpedia:Dave_Mulligan .
+@prefix ns14:	<http://mr.dbpedia.org/resource/> .
+ns14:डेव्हिड_मुलिगन	owl:sameAs	dbpedia:Dave_Mulligan .
+@prefix ns15:	<http://no.dbpedia.org/resource/> .
+ns15:David_Mulligan	owl:sameAs	dbpedia:Dave_Mulligan .
+<http://ru.dbpedia.org/resource/\u041C\u0430\u043B\u043B\u0438\u0433\u0430\u043D,_\u0414\u0435\u0439\u0432>	owl:sameAs	dbpedia:Dave_Mulligan .
+@prefix ns16:	<http://sv.dbpedia.org/resource/> .
+ns16:David_Mulligan	owl:sameAs	dbpedia:Dave_Mulligan .
+@prefix ns17:	<http://uk.dbpedia.org/resource/> .
+ns17:Девід_Малліген	owl:sameAs	dbpedia:Dave_Mulligan .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Dave_Mulligan .
+<http://dbpedia.org/resource/1999_FIFA_U-17_World_Championship_squads>	dbpprop:name	dbpedia:Dave_Mulligan .
+dbpedia:New_Zealand_national_under-23_football_team	dbpprop:p	dbpedia:Dave_Mulligan .
+<http://dbpedia.org/resource/2011_FIFA_Club_World_Cup_squads>	dbpprop:name	dbpedia:Dave_Mulligan .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/2011_FIFA_Club_World_Cup_squads>	dbpedia-owl:currentMember	dbpedia:Dave_Mulligan .
+<http://dbpedia.org/resource/2009_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Dave_Mulligan .
+<http://dbpedia.org/resource/2008_OFC_Nations_Cup_squads>	dbpprop:name	dbpedia:Dave_Mulligan .
+<http://dbpedia.org/resource/2007%E2%80%9308_Scunthorpe_United_F.C._season>	dbpprop:name	dbpedia:Dave_Mulligan .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Dave_Mulligan	rdf:type	yago:WellingtonPhoenixPlayers ,
+		<http://dbpedia.org/class/yago/GrimsbyTownF.C.Players> ,
+		dbpedia-owl:Agent ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		dbpedia-owl:Person ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:NewZealandAssociationFootballers ,
+		yago:NewZealandInternationalFootballers ,
+		<http://dbpedia.org/class/yago/2009FIFAConfederationsCupPlayers> ,
+		yago:Contestant109613191 ,
+		owl:Thing ,
+		ns4:Q215627 ,
+		<http://dbpedia.org/class/yago/DoncasterRoversF.C.Players> .
+@prefix ns21:	<http://umbel.org/umbel/rc/> .
+dbpedia:Dave_Mulligan	rdf:type	ns21:SoccerPlayer ,
+		dbpedia-owl:SoccerPlayer ,
+		ns4:Q5 ,
+		<http://dbpedia.org/class/yago/BarnsleyF.C.Players> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Dave_Mulligan	rdf:type	dul:Agent ,
+		dul:NaturalPerson ,
+		yago:AucklandCityFCPlayers ,
+		dbpedia-owl:Athlete ,
+		foaf:Person ,
+		yago:Object100002684 ,
+		yago:Whole100003553 ,
+		<http://dbpedia.org/class/yago/PortValeF.C.Players> ,
+		yago:A-LeaguePlayers ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:Defender109614684 ,
+		<http://dbpedia.org/class/yago/2003FIFAConfederationsCupPlayers> ,
+		<http://dbpedia.org/class/yago/ScunthorpeUnitedF.C.Players> ,
+		yago:Preserver110466918 ,
+		yago:AssociationFootballDefenders ,
+		yago:PhysicalEntity100001930 ,
+		yago:NewZealandPeopleOfEnglishDescent ,
+		yago:Player110439851 ,
+		yago:Athlete109820263 ,
+		yago:TheFootballLeaguePlayers .
+@prefix ns23:	<http://schema.org/> .
+dbpedia:Dave_Mulligan	rdf:type	ns23:Person ,
+		yago:FootballPlayer110101634 ;
+	owl:sameAs	ns5:David_Mulligan ,
+		ns17:Девід_Малліген ,
+		ns3:David_Mulligan ,
+		ns16:David_Mulligan ,
+		ns14:डेव्हिड_मुलिगन ,
+		<http://ru.dbpedia.org/resource/\u041C\u0430\u043B\u043B\u0438\u0433\u0430\u043D,_\u0414\u0435\u0439\u0432> ,
+		ns6:David_Mulligan ,
+		ns8:Dave_Mulligan ,
+		dbpedia:Dave_Mulligan ,
+		ns13:Dave_Mulligan .
+@prefix ns24:	<http://yago-knowledge.org/resource/> .
+dbpedia:Dave_Mulligan	owl:sameAs	ns24:Dave_Mulligan ,
+		ns12:ديفيد_موليغان ,
+		ns1:David_Mulligan ,
+		ns4:Q455353 ,
+		<http://rdf.freebase.com/ns/m.09l9dy> ,
+		ns15:David_Mulligan ,
+		ns7:David_Mulligan .
+@prefix ns25:	<http://wikidata.org/entity/> .
+dbpedia:Dave_Mulligan	owl:sameAs	ns25:Q455353 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Dave_Mulligan	rdfs:label	"Dave Mulligan" ,
+		"David Mulligan"@de ,
+		"Dave Mulligan"@pt ,
+		"\u062F\u064A\u0641\u064A\u062F \u0645\u0648\u0644\u064A\u063A\u0627\u0646"@ar ,
+		"David Mulligan"@fr ,
+		"David Mulligan"@es ,
+		"\u041C\u0430\u043B\u043B\u0438\u0433\u0430\u043D, \u0414\u0435\u0439\u0432"@ru ,
+		"David Mulligan"@it ,
+		"David Mulligan"@pl .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Dave_Mulligan	dcterms:subject	category:New_Zealand_international_footballers ,
+		<http://dbpedia.org/resource/Category:2009_FIFA_Confederations_Cup_players> ,
+		category:People_from_Bootle ,
+		<http://dbpedia.org/resource/Category:Grimsby_Town_F.C._players> ,
+		<http://dbpedia.org/resource/Category:Barnsley_F.C._players> ,
+		category:Association_football_defenders ,
+		category:New_Zealand_people_of_English_descent ,
+		<http://dbpedia.org/resource/Category:Scunthorpe_United_F.C._players> ,
+		<http://dbpedia.org/resource/Category:Port_Vale_F.C._players> ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:1982_births> ,
+		<http://dbpedia.org/resource/Category:2003_FIFA_Confederations_Cup_players> ,
+		<http://dbpedia.org/resource/Category:Doncaster_Rovers_F.C._players> ,
+		category:Auckland_City_FC_players ,
+		category:New_Zealand_association_footballers ,
+		category:Wellington_Phoenix_FC_players ,
+		category:Waitakere_United_players ,
+		category:A-League_players ,
+		category:The_Football_League_players ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Dave_Mulligan.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Dave_Mulligan	dc:description	"New Zealand association footballer" ,
+		"New Zealand association footballer" ;
+	foaf:givenName	"Dave" ;
+	foaf:name	"David Mulligan" ,
+		"Dave Mulligan" ,
+		"David James Mulligan" ,
+		"Mulligan, Dave" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Dave_Mulligan	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Dave_Mulligan?oldid=603013581> ;
+	rdfs:comment	"David James Mulligan (born 24 March 1982) is a New Zealand international footballer who plays for Waitakere United in the New Zealand Football Championship. Born in England, he made over 180 appearances in the English Football League between 2000 and 2008. He is able to play in both midfield and defence.His career began at Barnsley in 2000, where he played 66 league games in three years." ,
+		"David Mulligan, n\u00E9 le 24 mars 1982 \u00E0 Liverpool, est un footballeur international n\u00E9o-z\u00E9landais \u00E9voluant au poste de milieu de terrain, il peut jouer \u00E9galement au poste de d\u00E9fenseur."@fr ,
+		"David Mulligan (ur. 24 marca 1982 r. w Liverpoolu w Wielkiej Brytanii) \u2013 nowozelandzki pi\u0142karz, reprezentant kraju graj\u0105cy na pozycji obro\u0144cy. Obecnie wyst\u0119puje w klubie Auckland City FC. Powo\u0142any przez trenera Rickiego Herberta na Pucharze Konfederacji 2009, gdzie Nowa Zelandia odpad\u0142a w fazie grupowej, oraz na M\u015A 2010."@pl ,
+		"David James Mulligan detto Dave (Liverpool, 24 marzo 1982) \u00E8 un calciatore neozelandese, difensore dell'Auckland City."@it ,
+		"David Mulligan (* 24. M\u00E4rz 1982 in Fazakerley, Liverpool, England) ist ein neuseel\u00E4ndischer Fu\u00DFballspieler. Der Au\u00DFenverteidiger steht seit 2008 beim A-League-Klub Wellington Phoenix unter Vertrag."@de ,
+		"\u0414\u044D\u0432\u0438\u0434 \u0414\u0436\u0435\u0439\u043C\u0441 \u041C\u0430\u043B\u043B\u0438\u0433\u0430\u043D (\u0430\u043D\u0433\u043B. David James Mulligan; 24 \u043C\u0430\u0440\u0442\u0430 1982, \u041B\u0438\u0432\u0435\u0440\u043F\u0443\u043B\u044C, \u0410\u043D\u0433\u043B\u0438\u044F) \u2014 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u0440\u0430\u0432\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A, \u0438\u0433\u0440\u043E\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u041E\u043A\u043B\u0435\u043D\u0434 \u0421\u0438\u0442\u0438\u00BB, \u043F\u0435\u0440\u0435\u0434 \u043D\u0438\u043C \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439 \u0441\u0435\u0437\u043E\u043D \u043F\u0440\u043E\u0432\u0451\u043B \u0432 \u043A\u043B\u0443\u0431\u0435 \u00AB\u0412\u0435\u043B\u043B\u0438\u043D\u0433\u0442\u043E\u043D \u0424\u0435\u043D\u0438\u043A\u0441\u00BB, \u0438\u0433\u0440\u043E\u043A \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041D\u043E\u0432\u043E\u0439 \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u0438."@ru ,
+		"David \"Dave\" James Mulligan (Liverpool, 24 de mar\u00E7o de 1982) \u00E9 um futebolista ingl\u00EAs naturalizado neozeland\u00EAs."@pt ,
+		"\u062F\u064A\u0641\u064A\u062F \u0645\u0648\u0644\u064A\u063A\u0627\u0646\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 24 \u0645\u0627\u0631\u0633 1982\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u064A.\u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0648\u064A\u0644\u064A\u0646\u063A\u062A\u0648\u0646 \u0641\u064A\u0646\u064A\u0643\u0633.\u064A\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645."@ar ,
+		"David Mulligan (24 de marzo de 1982 en Bootle) es un futbolista ingl\u00E9s, nacionalizado neozeland\u00E9s, que juega como defensor o mediocampista en el Hawke's Bay United.Comenz\u00F3 su carrera en el Barnsley que se encontraba en la Football League First Division, segunda divisi\u00F3n en el f\u00FAtbol ingl\u00E9s en ese entonces."@es ;
+	foaf:surname	"Mulligan" ;
+	foaf:isPrimaryTopicOf	ns11:Dave_Mulligan .
+@prefix ns31:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Dave_Mulligan	dbpprop:hasPhotoCollection	ns31:Dave_Mulligan ;
+	dbpprop:caption	"Mulligan in action for Scunthorpe United" ;
+	dbpprop:name	"David Mulligan" ,
+		"Mulligan, Dave" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Dave_Mulligan.jpg?width=300> ;
+	dbpedia-owl:abstract	"David Mulligan, n\u00E9 le 24 mars 1982 \u00E0 Liverpool, est un footballeur international n\u00E9o-z\u00E9landais \u00E9voluant au poste de milieu de terrain, il peut jouer \u00E9galement au poste de d\u00E9fenseur."@fr ,
+		"David Mulligan (* 24. M\u00E4rz 1982 in Fazakerley, Liverpool, England) ist ein neuseel\u00E4ndischer Fu\u00DFballspieler. Der Au\u00DFenverteidiger steht seit 2008 beim A-League-Klub Wellington Phoenix unter Vertrag."@de ,
+		"\u0414\u044D\u0432\u0438\u0434 \u0414\u0436\u0435\u0439\u043C\u0441 \u041C\u0430\u043B\u043B\u0438\u0433\u0430\u043D (\u0430\u043D\u0433\u043B. David James Mulligan; 24 \u043C\u0430\u0440\u0442\u0430 1982, \u041B\u0438\u0432\u0435\u0440\u043F\u0443\u043B\u044C, \u0410\u043D\u0433\u043B\u0438\u044F) \u2014 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u0440\u0430\u0432\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A, \u0438\u0433\u0440\u043E\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u041E\u043A\u043B\u0435\u043D\u0434 \u0421\u0438\u0442\u0438\u00BB, \u043F\u0435\u0440\u0435\u0434 \u043D\u0438\u043C \u043F\u043E\u0441\u043B\u0435\u0434\u043D\u0438\u0439 \u0441\u0435\u0437\u043E\u043D \u043F\u0440\u043E\u0432\u0451\u043B \u0432 \u043A\u043B\u0443\u0431\u0435 \u00AB\u0412\u0435\u043B\u043B\u0438\u043D\u0433\u0442\u043E\u043D \u0424\u0435\u043D\u0438\u043A\u0441\u00BB, \u0438\u0433\u0440\u043E\u043A \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041D\u043E\u0432\u043E\u0439 \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u0438."@ru ,
+		"David James Mulligan (born 24 March 1982) is a New Zealand international footballer who plays for Waitakere United in the New Zealand Football Championship. Born in England, he made over 180 appearances in the English Football League between 2000 and 2008. He is able to play in both midfield and defence.His career began at Barnsley in 2000, where he played 66 league games in three years. He spent two years at Doncaster Rovers, making close to 100 appearances, before signing with Scunthorpe United in 2006. Less of a regular with \"Scunny\", he enjoyed a quick spell with Port Vale in 2008, before moving to New Zealand to play for the country's only professional club, Wellington Phoenix. He joined Auckland City in 2010, and then moved to Waitakere United in 2012.He has earned national representation at under-17, under-20, under-23 and full international level. He was selected for two FIFA Confederations Cup competitions, and was also named in the 2010 FIFA World Cup squad." ,
+		"\u062F\u064A\u0641\u064A\u062F \u0645\u0648\u0644\u064A\u063A\u0627\u0646\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 24 \u0645\u0627\u0631\u0633 1982\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u064A.\u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0648\u064A\u0644\u064A\u0646\u063A\u062A\u0648\u0646 \u0641\u064A\u0646\u064A\u0643\u0633.\u064A\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645."@ar ,
+		"David Mulligan (ur. 24 marca 1982 r. w Liverpoolu w Wielkiej Brytanii) \u2013 nowozelandzki pi\u0142karz, reprezentant kraju graj\u0105cy na pozycji obro\u0144cy. Obecnie wyst\u0119puje w klubie Auckland City FC. Powo\u0142any przez trenera Rickiego Herberta na Pucharze Konfederacji 2009, gdzie Nowa Zelandia odpad\u0142a w fazie grupowej, oraz na M\u015A 2010."@pl ,
+		"David Mulligan (24 de marzo de 1982 en Bootle) es un futbolista ingl\u00E9s, nacionalizado neozeland\u00E9s, que juega como defensor o mediocampista en el Hawke's Bay United.Comenz\u00F3 su carrera en el Barnsley que se encontraba en la Football League First Division, segunda divisi\u00F3n en el f\u00FAtbol ingl\u00E9s en ese entonces. Permaneci\u00F3 en diversos clubes de la Football League hasta que en 2008 viaj\u00F3 a Nueva Zelanda para incorporarse al Wellington Phoenix, y luego al Auckland City, con el que gan\u00F3 dos veces la Liga de Campeones de la OFC y en una ocasi\u00F3n la Charity Cup; al Waitakere United, consiguiendo con este el t\u00EDtulo en la Charity Cup 2012 y en la ASB Premiership 2012/13; y al Hawke's Bay United."@es ,
+		"David James Mulligan detto Dave (Liverpool, 24 marzo 1982) \u00E8 un calciatore neozelandese, difensore dell'Auckland City."@it ,
+		"David \"Dave\" James Mulligan (Liverpool, 24 de mar\u00E7o de 1982) \u00E9 um futebolista ingl\u00EAs naturalizado neozeland\u00EAs."@pt ;
+	dbpedia-owl:wikiPageID	3555967 ;
+	dbpedia-owl:wikiPageRevisionID	603013581 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Dave_Mulligan	dbpprop:birthDate	"1982-03-24+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Bootle, England" ;
+	dbpprop:dateOfBirth	"1982-03-24+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Bootle, England" ;
+	dbpprop:shortDescription	"New Zealand association footballer" ;
+	dbpedia-owl:birthDate	"1982-03-24+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Bootle ;
+	dbpedia-owl:birthYear	"1982+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	200 ;
+	dbpprop:goals	0 ,
+		1 ,
+		4 ,
+		"?" ;
+	dbpprop:bg	"white" ;
+	dbpprop:caps	3 ,
+		6 ,
+		24 ,
+		"?" ,
+		77 ,
+		66 ,
+		13 ;
+	dbpprop:years	2012 ,
+		2010 ,
+		2008 ,
+		2006 ,
+		2007 ,
+		2004 ,
+		2000 ;
+	dbpedia-owl:careerStation	dbpedia:Dave_Mulligan__2 ,
+		dbpedia:Dave_Mulligan__1 ,
+		dbpedia:Dave_Mulligan__3 ,
+		dbpedia:Dave_Mulligan__8 ,
+		dbpedia:Dave_Mulligan__9 ,
+		dbpedia:Dave_Mulligan__6 ,
+		dbpedia:Dave_Mulligan__4 ,
+		dbpedia:Dave_Mulligan__7 ,
+		dbpedia:Dave_Mulligan__5 ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ,
+		dbpedia:Midfielder ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ,
+		dbpedia:Midfielder ;
+	dbpedia-owl:height	1.7299999999999999822 .
+@prefix ns33:	<http://dbpedia.org/datatype/> .
+@prefix ns34:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Dave_Mulligan	ns34:height	"173.0"^^ns33:centimetre ;
+	dbpprop:currentclub	dbpedia:Waitakere_United ;
+	dbpprop:clubnumber	7 ;
+	dbpprop:fullname	"David James Mulligan" ;
+	dbpprop:clubs	dbpedia:Auckland_City_FC ,
+		<http://dbpedia.org/resource/Barnsley_F.C.> ,
+		dbpedia:Waitakere_United ,
+		dbpedia:Wellington_Phoenix_FC ,
+		<http://dbpedia.org/resource/Port_Vale_F.C.> ,
+		<http://dbpedia.org/resource/Scunthorpe_United_F.C.> ,
+		<http://dbpedia.org/resource/Doncaster_Rovers_F.C.> ,
+		"\u2192 Grimsby Town" ;
+	dbpedia-owl:team	dbpedia:Auckland_City_FC ,
+		<http://dbpedia.org/resource/Barnsley_F.C.> ,
+		dbpedia:Waitakere_United ,
+		dbpedia:Wellington_Phoenix_FC ,
+		dbpedia:New_Zealand_national_under-20_football_team ,
+		<http://dbpedia.org/resource/Port_Vale_F.C.> ,
+		dbpedia:New_Zealand_national_under-23_football_team ,
+		<http://dbpedia.org/resource/Scunthorpe_United_F.C.> ,
+		<http://dbpedia.org/resource/Doncaster_Rovers_F.C.> ,
+		dbpedia:New_Zealand_national_under-17_football_team ,
+		<http://dbpedia.org/resource/Grimsby_Town_F.C.> .
+@prefix ns35:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Dave_Mulligan	dbpprop:wordnet_type	ns35:synset-soccer_player-noun-1 ;
+	dbpprop:title	"New Zealand Squads" ;
+	dbpprop:clubUpdate	"2010-10-26+02:00"^^xsd:date ;
+	dbpprop:nationalteamUpdate	"2010-06-06+02:00"^^xsd:date ;
+	dbpprop:fg	"black" ;
+	dbpprop:nationalcaps	28 ,
+		3 ;
+	dbpprop:nationalgoals	2 ,
+		3 ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_under-17_football_team ,
+		dbpedia:New_Zealand_national_under-20_football_team ,
+		dbpedia:New_Zealand_national_under-23_football_team ,
+		dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalyears	2002 ,
+		2003 ,
+		1999 ;
+	dbpedia-owl:number	7 ;
+	dbpedia-owl:alias	"Mulligan, David" ;
+	dbpprop:alternativeNames	"Mulligan, David" .
+<http://dbpedia.org/resource/2007%E2%80%9308_Grimsby_Town_F.C._season>	dbpprop:name	dbpedia:Dave_Mulligan .
+<http://dbpedia.org/resource/2007%E2%80%9308_Scunthorpe_United_F.C._season__Dave_Mulligan__1>	dbpedia-owl:currentMember	dbpedia:Dave_Mulligan .
+<http://dbpedia.org/resource/2008%E2%80%9309_Wellington_Phoenix_FC_season__David_Mulligan__1>	dbpedia-owl:currentMember	dbpedia:Dave_Mulligan .
+<http://dbpedia.org/resource/2001%E2%80%9302_Barnsley_F.C._season__Dave_Mulligan__1>	dbpedia-owl:currentMember	dbpedia:Dave_Mulligan .
+<http://dbpedia.org/resource/2007%E2%80%9308_Grimsby_Town_F.C._season__David_Mulligan__1>	dbpedia-owl:currentMember	dbpedia:Dave_Mulligan .
+<http://dbpedia.org/resource/2009%E2%80%9310_Wellington_Phoenix_FC_season__David_Mulligan__1>	dbpedia-owl:currentMember	dbpedia:Dave_Mulligan .
+<http://dbpedia.org/resource/2000%E2%80%9301_Barnsley_F.C._season__Dave_Mulligan__1>	dbpedia-owl:currentMember	dbpedia:Dave_Mulligan .
+dbpedia:David_James_Mulligan	dbpedia-owl:wikiPageRedirects	dbpedia:Dave_Mulligan .
+dbpedia:David_Mulligan	dbpedia-owl:wikiPageRedirects	dbpedia:Dave_Mulligan .

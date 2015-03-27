@@ -1,0 +1,261 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Ben_Sigmund	owl:sameAs	dbpedia:Ben_Sigmund .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Ben_Sigmund	owl:sameAs	dbpedia:Ben_Sigmund .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q462202	owl:sameAs	dbpedia:Ben_Sigmund .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Ben_Sigmund	owl:sameAs	dbpedia:Ben_Sigmund .
+@prefix ns6:	<http://it.dbpedia.org/resource/> .
+ns6:Ben_Sigmund	owl:sameAs	dbpedia:Ben_Sigmund .
+@prefix ns7:	<http://pl.dbpedia.org/resource/> .
+ns7:Ben_Sigmund	owl:sameAs	dbpedia:Ben_Sigmund .
+@prefix ns8:	<http://pt.dbpedia.org/resource/> .
+ns8:Ben_Sigmund	owl:sameAs	dbpedia:Ben_Sigmund .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2009%E2%80%9310_Wellington_Phoenix_FC_season>	dbpprop:name	dbpedia:Ben_Sigmund .
+<http://dbpedia.org/resource/2008%E2%80%9309_Wellington_Phoenix_FC_season>	dbpprop:name	dbpedia:Ben_Sigmund .
+<http://dbpedia.org/resource/2010%E2%80%9311_Wellington_Phoenix_FC_season>	dbpprop:name	dbpedia:Ben_Sigmund .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns11:	<http://en.wikipedia.org/wiki/> .
+ns11:Ben_Sigmund	foaf:primaryTopic	dbpedia:Ben_Sigmund .
+dbpedia:New_Zealand_national_football_team	dbpprop:name	dbpedia:Ben_Sigmund .
+<http://dbpedia.org/resource/2013_OSN_Cup_squads>	dbpprop:name	dbpedia:Ben_Sigmund .
+<http://dbpedia.org/resource/2011%E2%80%9312_Wellington_Phoenix_FC_season>	dbpprop:name	dbpedia:Ben_Sigmund .
+@prefix ns12:	<http://ar.dbpedia.org/resource/> .
+ns12:بن_سيغموند	owl:sameAs	dbpedia:Ben_Sigmund .
+@prefix ns13:	<http://la.dbpedia.org/resource/> .
+ns13:Beniaminus_Sigmund	owl:sameAs	dbpedia:Ben_Sigmund .
+@prefix ns14:	<http://mr.dbpedia.org/resource/> .
+ns14:बेन_सिग्मुंड	owl:sameAs	dbpedia:Ben_Sigmund .
+@prefix ns15:	<http://nn.dbpedia.org/resource/> .
+ns15:Ben_Sigmund	owl:sameAs	dbpedia:Ben_Sigmund .
+@prefix ns16:	<http://no.dbpedia.org/resource/> .
+ns16:Ben_Sigmund	owl:sameAs	dbpedia:Ben_Sigmund .
+<http://ru.dbpedia.org/resource/\u0421\u0438\u0433\u043C\u0443\u043D\u0434,_\u0411\u0435\u043D>	owl:sameAs	dbpedia:Ben_Sigmund .
+@prefix ns17:	<http://sl.dbpedia.org/resource/> .
+ns17:Ben_Sigmund	owl:sameAs	dbpedia:Ben_Sigmund .
+@prefix ns18:	<http://uk.dbpedia.org/resource/> .
+ns18:Бен_Зігмунд	owl:sameAs	dbpedia:Ben_Sigmund .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Ben_Sigmund .
+<http://dbpedia.org/resource/2012_OFC_Nations_Cup_squads>	dbpprop:name	dbpedia:Ben_Sigmund .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/2008%E2%80%9309_Wellington_Phoenix_FC_season__Ben_Sigmund__1>	dbpedia-owl:currentMember	dbpedia:Ben_Sigmund .
+<http://dbpedia.org/resource/2010%E2%80%9311_Wellington_Phoenix_FC_season__Ben_Sigmund__1>	dbpedia-owl:currentMember	dbpedia:Ben_Sigmund .
+<http://dbpedia.org/resource/2009%E2%80%9310_Wellington_Phoenix_FC_season__Ben_Sigmund__1>	dbpedia-owl:currentMember	dbpedia:Ben_Sigmund .
+<http://dbpedia.org/resource/2013%E2%80%9314_Wellington_Phoenix_FC_season__Ben_Sigmund__1>	dbpedia-owl:currentMember	dbpedia:Ben_Sigmund .
+<http://dbpedia.org/resource/2011%E2%80%9312_Wellington_Phoenix_FC_season__Ben_Sigmund__1>	dbpedia-owl:currentMember	dbpedia:Ben_Sigmund .
+<http://dbpedia.org/resource/2012%E2%80%9313_Wellington_Phoenix_FC_season__Ben_Sigmund__1>	dbpedia-owl:currentMember	dbpedia:Ben_Sigmund .
+<http://dbpedia.org/resource/1997_FIFA_U-17_World_Championship_squads>	dbpprop:name	dbpedia:Ben_Sigmund .
+<http://dbpedia.org/resource/2006_FIFA_Club_World_Cup_squads>	dbpprop:name	dbpedia:Ben_Sigmund ;
+	dbpedia-owl:currentMember	dbpedia:Ben_Sigmund .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Ben_Sigmund	rdf:type	yago:FootballPlayer110101634 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Athlete109820263 ,
+		<http://dbpedia.org/class/yago/2009FIFAConfederationsCupPlayers> ,
+		yago:WellingtonPhoenixPlayers ,
+		yago:Player110439851 ,
+		foaf:Person ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:NewZealandAssociationFootballers ,
+		yago:Contestant109613191 ,
+		yago:NewZealandInternationalFootballers .
+@prefix ns22:	<http://schema.org/> .
+dbpedia:Ben_Sigmund	rdf:type	ns22:Person ,
+		yago:A-LeaguePlayers ,
+		<http://dbpedia.org/class/yago/FootballKingzF.C.Players> ,
+		dbpedia-owl:Person ,
+		owl:Thing ,
+		dbpedia-owl:Agent ,
+		ns4:Q215627 ,
+		dbpedia-owl:Athlete .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Ben_Sigmund	rdf:type	dul:NaturalPerson ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		dul:Agent ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		ns4:Q5 ,
+		yago:LivingThing100004258 ,
+		yago:CanterburyUnitedPlayers ,
+		yago:PeopleFromTheMarlboroughRegion ,
+		yago:Object100002684 ,
+		yago:Whole100003553 ;
+	owl:sameAs	ns12:بن_سيغموند ,
+		<http://ru.dbpedia.org/resource/\u0421\u0438\u0433\u043C\u0443\u043D\u0434,_\u0411\u0435\u043D> ,
+		ns17:Ben_Sigmund ,
+		ns6:Ben_Sigmund ,
+		ns5:Ben_Sigmund ,
+		ns14:बेन_सिग्मुंड ,
+		ns15:Ben_Sigmund ,
+		<http://rdf.freebase.com/ns/m.03d7x9n> ,
+		ns18:Бен_Зігмунд ,
+		ns13:Beniaminus_Sigmund ,
+		dbpedia:Ben_Sigmund ,
+		ns16:Ben_Sigmund .
+@prefix ns24:	<http://wikidata.org/entity/> .
+dbpedia:Ben_Sigmund	owl:sameAs	ns24:Q462202 .
+@prefix ns25:	<http://yago-knowledge.org/resource/> .
+dbpedia:Ben_Sigmund	owl:sameAs	ns25:Ben_Sigmund ,
+		ns8:Ben_Sigmund ,
+		ns3:Ben_Sigmund ,
+		ns1:Ben_Sigmund ,
+		ns4:Q462202 ,
+		ns7:Ben_Sigmund .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Ben_Sigmund	rdfs:label	"Ben Sigmund"@pl ,
+		"Ben Sigmund" ,
+		"\u0421\u0438\u0433\u043C\u0443\u043D\u0434, \u0411\u0435\u043D"@ru ,
+		"\u0628\u0646 \u0633\u064A\u063A\u0645\u0648\u0646\u062F"@ar ,
+		"Ben Sigmund"@it ,
+		"Ben Sigmund"@de ,
+		"Ben Sigmund"@fr ,
+		"Ben Sigmund"@pt ,
+		"Ben Sigmund"@es .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+dbpedia:Ben_Sigmund	dcterms:subject	<http://dbpedia.org/resource/Category:Football_Kingz_F.C._players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Ben_Sigmund	dcterms:subject	category:Auckland_City_FC_players ,
+		category:Canterbury_United_players ,
+		category:A-League_players ,
+		<http://dbpedia.org/resource/Category:1981_births> ,
+		<http://dbpedia.org/resource/Category:2009_FIFA_Confederations_Cup_players> ,
+		category:Living_people ,
+		category:New_Zealand_association_footballers ,
+		category:Wellington_Phoenix_FC_players ,
+		category:New_Zealand_international_footballers ,
+		category:People_from_the_Marlborough_Region ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Ben_Sigmund.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Ben_Sigmund	dc:description	"New Zealand association footballer" ,
+		"New Zealand association footballer" ;
+	foaf:givenName	"Ben" ;
+	foaf:name	"Sigmund, Ben" ,
+		"Benjamin Robert Sigmund" ,
+		"Ben Sigmund" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Ben_Sigmund	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Ben_Sigmund?oldid=599915839> ;
+	rdfs:comment	"Ben Sigmund, n\u00E9 le 3 f\u00E9vrier 1981 \u00E0 Blenheim, est un footballeur international n\u00E9o-z\u00E9landais \u00E9voluant au poste de d\u00E9fenseur central.Il est s\u00E9lectionn\u00E9 pour la premi\u00E8re fois en \u00E9quipe de Nouvelle-Z\u00E9lande de football en 2000 lors d'un match amical contre l'\u00E9quipe d'Oman de football.Il dispute la Coupe des conf\u00E9d\u00E9rations 2009 et fait partie du groupe des vingt-trois s\u00E9lectionn\u00E9s pour la Coupe du monde de football de 2010."@fr ,
+		"Benjamin Robert Sigmund (ur. 3 lutego 1981 r. w Blenheim w Nowej Zelandii) \u2013 nowozelandzki pi\u0142karz, reprezentant kraju graj\u0105cy na pozycji obro\u0144cy. Obecnie wyst\u0119puje w klubie A-League Wellington Phoenix. Powo\u0142any przez trenera Rickiego Herberta na Puchar Konfederacji 2009, gdzie Nowa Zelandia odpad\u0142a w fazie grupowej, oraz na M\u015A 2010."@pl ,
+		"Benjamin Robert Sigmund (Blenheim, 3 febbraio 1981) \u00E8 un calciatore neozelandese, difensore del Wellington Phoenix e della nazionale neozelandese."@it ,
+		"Benjamin Robert Sigmund (born 3 February 1981) is a New Zealand footballer who plays for A-League club Wellington Phoenix. He has represented New Zealand at under-17, under-20 and senior men's level." ,
+		"Ben Sigmund (3 de febrero de 1981 en Blenheim) es un futbolista neozeland\u00E9s que juega de defensor en el Wellington Phoenix."@es ,
+		"Ben Sigmund (Blenheim, 3 de Fevereiro de 1981) \u00E9 um futebolista profissional neozeland\u00EAs, milita no Wellington Phoenix."@pt ,
+		"\u0411\u0435\u043D\u0436\u0430\u043C\u0438\u043D \u0420\u043E\u0431\u0435\u0440\u0442 \u0421\u0438\u0433\u043C\u0443\u043D\u0434 (\u0430\u043D\u0433\u043B. Benjamin Robert Sigmund; 3 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1981, \u0411\u043B\u0435\u043D\u0435\u043C) \u2014 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0412\u0435\u043B\u043B\u0438\u043D\u0433\u0442\u043E\u043D \u0424\u0435\u043D\u0438\u043A\u0441\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041D\u043E\u0432\u043E\u0439 \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u0438."@ru ,
+		"\u0628\u0646 \u0633\u064A\u063A\u0645\u0648\u0646\u062F\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 3 \u0641\u0628\u0631\u0627\u064A\u0631 1981\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u064A. \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0648\u064A\u0644\u064A\u0646\u063A\u062A\u0648\u0646 \u0641\u064A\u0646\u064A\u0643\u0633. \u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2000."@ar ,
+		"Benjamin \u201EBen\u201C Sigmund (* 3. Februar 1981 in Blenheim) ist ein neuseel\u00E4ndischer Fu\u00DFballspieler. Er tritt f\u00FCr den A-League-Klub Wellington Phoenix an."@de ;
+	foaf:surname	"Sigmund" ;
+	foaf:isPrimaryTopicOf	ns11:Ben_Sigmund .
+@prefix ns31:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Ben_Sigmund	dbpprop:hasPhotoCollection	ns31:Ben_Sigmund ;
+	dbpprop:caption	"Sigmund playing for Wellington Phoenix in 2008" ;
+	dbpprop:name	"Ben Sigmund" ,
+		"Sigmund, Ben" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Ben_Sigmund.jpg?width=300> ;
+	dbpedia-owl:abstract	"Ben Sigmund (Blenheim, 3 de Fevereiro de 1981) \u00E9 um futebolista profissional neozeland\u00EAs, milita no Wellington Phoenix."@pt ,
+		"\u0411\u0435\u043D\u0436\u0430\u043C\u0438\u043D \u0420\u043E\u0431\u0435\u0440\u0442 \u0421\u0438\u0433\u043C\u0443\u043D\u0434 (\u0430\u043D\u0433\u043B. Benjamin Robert Sigmund; 3 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1981, \u0411\u043B\u0435\u043D\u0435\u043C) \u2014 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0412\u0435\u043B\u043B\u0438\u043D\u0433\u0442\u043E\u043D \u0424\u0435\u043D\u0438\u043A\u0441\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041D\u043E\u0432\u043E\u0439 \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u0438."@ru ,
+		"Benjamin \u201EBen\u201C Sigmund (* 3. Februar 1981 in Blenheim) ist ein neuseel\u00E4ndischer Fu\u00DFballspieler. Er tritt f\u00FCr den A-League-Klub Wellington Phoenix an."@de ,
+		"Benjamin Robert Sigmund (born 3 February 1981) is a New Zealand footballer who plays for A-League club Wellington Phoenix. He has represented New Zealand at under-17, under-20 and senior men's level." ,
+		"Ben Sigmund, n\u00E9 le 3 f\u00E9vrier 1981 \u00E0 Blenheim, est un footballeur international n\u00E9o-z\u00E9landais \u00E9voluant au poste de d\u00E9fenseur central.Il est s\u00E9lectionn\u00E9 pour la premi\u00E8re fois en \u00E9quipe de Nouvelle-Z\u00E9lande de football en 2000 lors d'un match amical contre l'\u00E9quipe d'Oman de football.Il dispute la Coupe des conf\u00E9d\u00E9rations 2009 et fait partie du groupe des vingt-trois s\u00E9lectionn\u00E9s pour la Coupe du monde de football de 2010."@fr ,
+		"\u0628\u0646 \u0633\u064A\u063A\u0645\u0648\u0646\u062F\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 3 \u0641\u0628\u0631\u0627\u064A\u0631 1981\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u064A. \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0648\u064A\u0644\u064A\u0646\u063A\u062A\u0648\u0646 \u0641\u064A\u0646\u064A\u0643\u0633. \u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2000."@ar ,
+		"Benjamin Robert Sigmund (Blenheim, 3 febbraio 1981) \u00E8 un calciatore neozelandese, difensore del Wellington Phoenix e della nazionale neozelandese."@it ,
+		"Ben Sigmund (3 de febrero de 1981 en Blenheim) es un futbolista neozeland\u00E9s que juega de defensor en el Wellington Phoenix."@es ,
+		"Benjamin Robert Sigmund (ur. 3 lutego 1981 r. w Blenheim w Nowej Zelandii) \u2013 nowozelandzki pi\u0142karz, reprezentant kraju graj\u0105cy na pozycji obro\u0144cy. Obecnie wyst\u0119puje w klubie A-League Wellington Phoenix. Powo\u0142any przez trenera Rickiego Herberta na Puchar Konfederacji 2009, gdzie Nowa Zelandia odpad\u0142a w fazie grupowej, oraz na M\u015A 2010."@pl ;
+	dbpedia-owl:wikiPageID	14559079 ;
+	dbpedia-owl:wikiPageRevisionID	599915839 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Ben_Sigmund	dbpprop:birthDate	"1981-02-03+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Blenheim, Marlborough, New Zealand" ;
+	dbpprop:dateOfBirth	"1981-02-03+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	<http://dbpedia.org/resource/Blenheim,_New_Zealand> ;
+	dbpprop:shortDescription	"New Zealand association footballer" ;
+	dbpedia-owl:birthDate	"1981-02-03+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	<http://dbpedia.org/resource/Blenheim,_New_Zealand> ,
+		dbpedia:Marlborough_Region ,
+		dbpedia:New_Zealand_national_football_team ;
+	dbpedia-owl:birthYear	"1981+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	140 ;
+	dbpprop:goals	0 ,
+		1 ,
+		7 ,
+		5 ,
+		14 ;
+	dbpprop:bg	"white" ;
+	dbpprop:caps	83 ,
+		76 ,
+		43 ,
+		1 ,
+		11 ,
+		138 ;
+	dbpprop:years	1998 ,
+		2006 ,
+		2004 ,
+		2003 ,
+		2008 ;
+	dbpprop:youthclubs	dbpedia:Christchurch_United ;
+	dbpedia-owl:careerStation	dbpedia:Ben_Sigmund__7 ,
+		dbpedia:Ben_Sigmund__5 ,
+		dbpedia:Ben_Sigmund__4 ,
+		dbpedia:Ben_Sigmund__8 ,
+		dbpedia:Ben_Sigmund__3 ,
+		dbpedia:Ben_Sigmund__2 ,
+		dbpedia:Ben_Sigmund__6 ,
+		dbpedia:Ben_Sigmund__9 ,
+		dbpedia:Ben_Sigmund__1 ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.8000000000000000444 .
+@prefix ns33:	<http://dbpedia.org/datatype/> .
+@prefix ns34:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Ben_Sigmund	ns34:height	"180.0"^^ns33:centimetre ;
+	dbpprop:clubnumber	18 ;
+	dbpprop:fullname	"Benjamin Robert Sigmund" ;
+	dbpprop:clubs	dbpedia:Football_Kingz_FC ,
+		dbpedia:Fawkner_Blues_FC ,
+		dbpedia:Christchurch_United ,
+		dbpedia:Auckland_City_FC ,
+		dbpedia:Canterbury_United_FC ;
+	dbpedia-owl:team	dbpedia:Fawkner_Blues_FC ,
+		dbpedia:Football_Kingz_FC ,
+		dbpedia:Christchurch_United ,
+		dbpedia:New_Zealand_national_under-17_football_team ,
+		dbpedia:Auckland_City_FC ,
+		dbpedia:New_Zealand_national_football_team ,
+		dbpedia:New_Zealand_national_under-20_football_team ,
+		dbpedia:Canterbury_United_FC .
+@prefix ns35:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Ben_Sigmund	dbpprop:wordnet_type	ns35:synset-soccer_player-noun-1 ;
+	dbpprop:title	"New Zealand Squads" ;
+	dbpprop:pcupdate	"2014-03-16+02:00"^^xsd:date ;
+	dbpprop:youthyears	-1998 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.fifa.com/confederationscup/players/player=195256/profile.html> ,
+		<http://www.wellingtonphoenix.com/default.aspx?s=wellfc_playerprofile_item&pid=1635> ,
+		<http://www.nzfootball.co.nz/index.php?id=317> ;
+	dbpprop:fg	"black" ;
+	dbpprop:nationalcaps	3 ,
+		12 ,
+		31 ;
+	dbpprop:nationalgoals	0 ,
+		2 ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_under-17_football_team ,
+		dbpedia:New_Zealand_national_under-20_football_team ,
+		dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalyears	2000 ,
+		1999 ;
+	dbpedia-owl:number	18 ;
+	dbpprop:ntupdate	"2014-01-21+02:00"^^xsd:date .
+<http://dbpedia.org/resource/2009_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Ben_Sigmund .
+<http://dbpedia.org/resource/2008_OFC_Nations_Cup_squads>	dbpprop:name	dbpedia:Ben_Sigmund .
+dbpedia:Wellington_Phoenix_FC	dbpprop:name	dbpedia:Ben_Sigmund .
+<http://dbpedia.org/resource/2012%E2%80%9313_Wellington_Phoenix_FC_season>	dbpprop:name	dbpedia:Ben_Sigmund .
+dbpedia:Wellington_Phoenix_FC__Ben_Sigmund__1	dbpedia-owl:currentMember	dbpedia:Ben_Sigmund .
+<http://dbpedia.org/resource/2013%E2%80%9314_Wellington_Phoenix_FC_season>	dbpprop:name	dbpedia:Ben_Sigmund .

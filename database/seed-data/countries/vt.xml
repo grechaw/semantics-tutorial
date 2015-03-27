@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xml:base="http://www.daml.org/2001/12/factbook/vt">
+  <rdf:Description rdf:about='#A115336'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#industry'/>
+    <NS0:percent>NA</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115288'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#French'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115237'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>unnamed location</NS0:name>
+    <NS0:elevation>75</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115284'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Latin'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115331'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#agriculture'/>
+    <NS0:percent>NA</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115374'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>none</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115280'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Italian'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115232'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>unnamed location</NS0:name>
+    <NS0:elevation>19</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115276'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Roman_Catholic'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115249'>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115272'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#other'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115371'>
+    <NS0:year>1996</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115268'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Swiss'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115259'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115217'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>41.9</NS0:latitude>
+    <NS0:longitude>12.45</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115264'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Italians'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#VT'>
+    <NS0:background>Popes in their secular role ruled much of the Italian peninsula for more than a thousand years until the mid 19th century, when many of the Papal States were seized by the newly united Kingdom of Italy. In 1870, the pope&apos;s holdings were further circumscribed when Rome itself was annexed. Disputes between a series of &quot;prisoner&quot; popes and Italy were resolved in 1929 by three Lateran Treaties, which established the independent state of Vatican City and granted Roman Catholicism special status in Italy. In 1984, a concordat between the Vatican and Italy modified certain of the earlier treaty provisions, including the primacy of Roman Catholicism as the Italian state religion. Present concerns of the Holy See include the failing health of Pope John Paul II, interreligious dialogue and reconciliation, and the adjustment of church doctrine in an era of rapid change and globalization. About 1 billion people worldwide profess the Catholic faith.</NS0:background>
+    <NS0:location>Southern Europe, an enclave of Rome (Italy)</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A115217'/>
+    <NS0:mapReferences>Europe</NS0:mapReferences>
+    <NS0:totalArea>0.44</NS0:totalArea>
+    <NS0:landArea>0.44</NS0:landArea>
+    <NS0:waterArea>0</NS0:waterArea>
+    <NS0:comparativeArea>about 0.7 times the size of The Mall in Washington, DC</NS0:comparativeArea>
+    <NS0:landBoundaries>3.2</NS0:landBoundaries>
+    <NS0:coastline rdf:ID='A115228'>0</NS0:coastline>
+    <NS0:climate>temperate; mild, rainy winters (September to mid-May) with hot, dry summers (May to September)</NS0:climate>
+    <NS0:terrain>low hill</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A115232'/>
+    <NS0:highestPoint rdf:resource='#A115237'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#none'/>
+    <NS0:arableLand>0</NS0:arableLand>
+    <NS0:permanentCrops>0</NS0:permanentCrops>
+    <NS0:permanentPastures>0</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>0</NS0:forestsAndWoodland>
+    <NS0:otherLandUse rdf:ID='A115247'>100</NS0:otherLandUse>
+    <NS0:irrigatedLand rdf:ID='A115249'>0</NS0:irrigatedLand>
+    <NS0:naturalHazard>NA</NS0:naturalHazard>
+    <NS0:environmentalIssue>NA</NS0:environmentalIssue>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#none_of_the_selected_agreements'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Environmental_Modification'/>
+    <NS0:population rdf:ID='A115256'>890</NS0:population>
+    <NS0:populationGrowthRate rdf:ID='A115259'>1.15</NS0:populationGrowthRate>
+    <NS0:nationalityNoun>none</NS0:nationalityNoun>
+    <NS0:nationalityAdjective>none</NS0:nationalityAdjective>
+    <NS0:ethnicGroup rdf:resource='#A115264'/>
+    <NS0:ethnicGroup rdf:resource='#A115268'/>
+    <NS0:ethnicGroup rdf:resource='#A115272'/>
+    <NS0:religion rdf:resource='#A115276'/>
+    <NS0:language rdf:resource='#A115280'/>
+    <NS0:language rdf:resource='#A115284'/>
+    <NS0:language rdf:resource='#A115288'/>
+    <NS0:language rdf:resource='#A115292'/>
+    <NS0:literacyDefinition>NA</NS0:literacyDefinition>
+    <NS0:literacyTotal>100</NS0:literacyTotal>
+    <NS0:conventionalLongCountryName>The Holy See (State of the Vatican City)</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Holy See (Vatican City)</NS0:conventionalShortCountryName>
+    <NS0:localLongCountryName>Santa Sede (Stato della Citta del Vaticano)</NS0:localLongCountryName>
+    <NS0:localShortCountryName>Santa Sede (Citta del Vaticano)</NS0:localShortCountryName>
+    <NS0:governmentType rdf:resource='http://www.daml.org/2001/12/factbook/governmentTypes#ecclesiastical'/>
+    <NS0:capital rdf:resource='#A115303'/>
+    <NS0:independence>11 February 1929 (from Italy)</NS0:independence>
+    <NS0:constitution>Apostolic Constitution of 1967 (effective 1 March 1968)</NS0:constitution>
+    <NS0:legalSystem>NA</NS0:legalSystem>
+    <NS0:suffrage>limited to cardinals less than 80 years old</NS0:suffrage>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CE'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IAEA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICFTU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Intelsat'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IOM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ITU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NAM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OAS'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OPCW'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OSCE'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UN'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNCTAD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNHCR'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UPU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WHO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WIPO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WToO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WTrO'/>
+    <NS0:flagDescription>two vertical bands of yellow (hoist side) and white with the crossed keys of Saint Peter and the papal miter centered in the white band</NS0:flagDescription>
+    <NS0:economyOverview>This unique, noncommercial economy is supported financially by contributions (known as Peter&apos;s Pence) from Roman Catholics throughout the world, the sale of postage stamps and tourist mementos, fees for admission to museums, and the sale of publications. The incomes and living standards of lay workers are comparable to, or somewhat better than, those of counterparts who work in the city of Rome.</NS0:economyOverview>
+    <NS0:occupation rdf:resource='#A115331'/>
+    <NS0:occupation rdf:resource='#A115336'/>
+    <NS0:occupation rdf:resource='#A115341'/>
+    <NS0:occupation rdf:resource='#A115345'/>
+    <NS0:occupation rdf:resource='#A115349'/>
+    <NS0:occupation rdf:resource='#A115353'/>
+    <NS0:occupation rdf:resource='#A115357'/>
+    <NS0:budgetRevenues>209600000</NS0:budgetRevenues>
+    <NS0:budgetExpenditures>198500000</NS0:budgetExpenditures>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#printing_and_production_of_a_small_amount_of_mosaics_and_staff_uniforms'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#worldwide_banking_and_financial_activities'/>
+    <NS0:currency>Italian lira (ITL); euro (EUR)</NS0:currency>
+    <NS0:currencyCode>ITL; EUR</NS0:currencyCode>
+    <NS0:fiscalYear>calendar year</NS0:fiscalYear>
+    <NS0:telephoneSystemGeneralAssessment>automatic exchange</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>tied into Italian system</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>uses Italian system</NS0:telephoneSystemInternational>
+    <NS0:televisionBroadcastStations rdf:ID='A115371'>1</NS0:televisionBroadcastStations>
+    <NS0:internetCountryCode>.va</NS0:internetCountryCode>
+    <NS0:port rdf:resource='#A115374'/>
+    <NS0:heliports rdf:ID='A115378'>1</NS0:heliports>
+    <NS0:internationalDispute>none</NS0:internationalDispute>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/vt-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/vt-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/vt-map.jpg</NS0:map>
+    <NS0:border rdf:resource='#A124085'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115357'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#3,000_lay_workers_live_outside_the_Vatican'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115353'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#guards'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115303'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CapitalCity'/>
+    <NS0:name>Vatican City</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115349'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#nuns'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115247'>
+    <NS0:note>urban area</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115345'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#priests'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115378'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A124085'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#IT'/>
+    <NS0:distance>3.2</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115341'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#services_NA%;_note_-_dignitaries'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115256'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>July 2001</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115228'>
+    <NS0:note>landlocked</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A115292'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#various_other_languages'/>
+  </rdf:Description>
+</rdf:RDF>

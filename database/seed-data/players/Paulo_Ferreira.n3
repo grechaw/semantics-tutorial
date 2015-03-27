@@ -1,0 +1,361 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q184614	owl:sameAs	dbpedia:Paulo_Ferreira .
+@prefix ns5:	<http://cs.dbpedia.org/resource/> .
+ns5:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+@prefix ns7:	<http://id.dbpedia.org/resource/> .
+ns7:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+@prefix ns9:	<http://ja.dbpedia.org/resource/> .
+ns9:パウロ・フェレイラ	owl:sameAs	dbpedia:Paulo_Ferreira .
+@prefix ns10:	<http://ko.dbpedia.org/resource/> .
+ns10:파울루_페헤이라	owl:sameAs	dbpedia:Paulo_Ferreira .
+@prefix ns11:	<http://nl.dbpedia.org/resource/> .
+ns11:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+@prefix ns12:	<http://pl.dbpedia.org/resource/> .
+ns12:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+<http://pt.dbpedia.org/resource/Paulo_Ferreira_(futebolista)>	owl:sameAs	dbpedia:Paulo_Ferreira .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns14:	<http://en.wikipedia.org/wiki/> .
+ns14:Paulo_Ferreira	foaf:primaryTopic	dbpedia:Paulo_Ferreira .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Paulo_Ferreira .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Paulo_Ferreira	rdf:type	yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:PhysicalEntity100001930 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:PrimeiraLigaPlayers ,
+		yago:Organism100004475 ,
+		yago:Person100007846 .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Paulo_Ferreira	rdf:type	dbpedia-owl:Person ,
+		yago:Whole100003553 ,
+		dbpedia-owl:Agent ,
+		yago:Object100002684 ,
+		yago:FootballPlayer110101634 ,
+		yago:Athlete109820263 ,
+		<http://dbpedia.org/class/yago/2006FIFAWorldCupPlayers> ,
+		dbpedia-owl:Athlete ,
+		yago:PortugalInternationalFootballers ,
+		yago:PortugueseExpatriateFootballers ,
+		yago:Player110439851 ,
+		<http://dbpedia.org/class/yago/Vit%C3%B3riaF.C.Players> ,
+		yago:PortugueseFootballers ,
+		<http://dbpedia.org/class/yago/F.C.PortoPlayers> ,
+		yago:UEFAEuro2004Players .
+@prefix ns19:	<http://umbel.org/umbel/rc/> .
+dbpedia:Paulo_Ferreira	rdf:type	ns19:SoccerPlayer ,
+		foaf:Person ,
+		yago:Contestant109613191 ,
+		yago:UEFAEuro2008Players ,
+		ns19:Athlete ,
+		ns4:Q215627 ,
+		<http://dbpedia.org/class/yago/G.D.Estoril-PraiaPlayers> ,
+		owl:Thing ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> .
+@prefix ns20:	<http://schema.org/> .
+dbpedia:Paulo_Ferreira	rdf:type	ns20:Person ,
+		dbpedia-owl:SoccerPlayer .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Paulo_Ferreira	rdf:type	dul:NaturalPerson ,
+		dul:Agent ,
+		yago:ExpatriateFootballersInEngland ,
+		ns4:Q5 ,
+		yago:PremierLeaguePlayers ,
+		<http://dbpedia.org/class/yago/ChelseaF.C.Players> .
+@prefix ns22:	<http://yago-knowledge.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns22:Paulo_Ferreira .
+@prefix ns23:	<http://wikidata.org/entity/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns23:Q184614 .
+@prefix ns24:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns24:Paulo_Ferreira ,
+		ns4:Q184614 .
+@prefix ns25:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns25:Паулу_Феррейра .
+@prefix ns26:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns26:Paulo_Ferreira .
+@prefix ns27:	<http://be_x_old.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns27:Паўлу_Фэрэйра .
+@prefix ns28:	<http://mn.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns28:Пауло_Феррейра .
+@prefix ns29:	<http://nn.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns29:Paulo_Ferreira .
+@prefix ns30:	<http://hr.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns30:Paulo_Ferreira .
+@prefix ns31:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns31:Paulo_Ferreira .
+@prefix ns32:	<http://da.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns32:Paulo_Ferreira .
+@prefix ns33:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns33:Paulo_Ferreira .
+@prefix ns34:	<http://jv.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns34:Paulo_Ferreira .
+@prefix ns35:	<http://et.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns35:Paulo_Ferreira ,
+		<http://pt.dbpedia.org/resource/Paulo_Ferreira_(futebolista)> ,
+		<http://he.dbpedia.org/resource/\u05E4\u05D0\u05D5\u05DC\u05D5_\u05E4\u05E8\u05D9\u05D9\u05E8\u05D4_(\u05DB\u05D3\u05D5\u05E8\u05D2\u05DC\u05DF)> .
+@prefix ns36:	<http://ga.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns36:Paulo_Ferreira .
+@prefix ns37:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns37:保羅·費拉拿 .
+@prefix ns38:	<http://la.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns38:Paulus_Ferreira .
+@prefix ns39:	<http://th.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns39:เปาลู_ฟีร์ไรรา .
+@prefix ns40:	<http://ca.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns40:Paulo_Renato_Ferreira .
+@prefix ns41:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns41:Paulo_Ferreira ,
+		<http://rdf.freebase.com/ns/m.03b9qr> .
+@prefix ns42:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns42:باولو_فيريرا .
+@prefix ns43:	<http://sr.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns43:Пауло_Фереира ,
+		ns10:파울루_페헤이라 .
+@prefix ns44:	<http://bg.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns44:Пауло_Ферейра ,
+		ns9:パウロ・フェレイラ ,
+		ns8:Paulo_Ferreira .
+@prefix ns45:	<http://eo.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns45:Paulo_Ferreira ,
+		ns6:Paulo_Ferreira .
+@prefix ns46:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns46:پائولو_فریرا .
+@prefix ns47:	<http://no.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns47:Paulo_Ferreira .
+@prefix ns48:	<http://mk.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns48:Пауло_Фереира ,
+		ns5:Paulo_Ferreira .
+@prefix ns49:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns49:Paulo_Ferreira ,
+		ns3:Paulo_Ferreira .
+@prefix ns50:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns50:पाउलो_फरेरा .
+@prefix ns51:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns51:Paulo_Ferreira .
+@prefix ns52:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Paulo_Ferreira	owl:sameAs	ns52:Паулу_Феррейра ,
+		dbpedia:Paulo_Ferreira ,
+		ns7:Paulo_Ferreira ,
+		ns11:Paulo_Ferreira ,
+		ns12:Paulo_Ferreira ,
+		ns1:Paulo_Ferreira .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Paulo_Ferreira	rdfs:label	"Paulo Ferreira"@fr ,
+		"\u041F\u0430\u0443\u043B\u0443 \u0424\u0435\u0440\u0440\u0435\u0439\u0440\u0430"@ru ,
+		"Paulo Ferreira (futebolista)"@pt ,
+		"\u30D1\u30A6\u30ED\u30FB\u30D5\u30A7\u30EC\u30A4\u30E9"@ja ,
+		"Paulo Ferreira"@pl ,
+		"Paulo Ferreira"@it ,
+		"\u4FDD\u7F85\u00B7\u8CBB\u62C9\u62FF"@zh ,
+		"Paulo Ferreira"@es ,
+		"\u0628\u0627\u0648\u0644\u0648 \u0641\u064A\u0631\u064A\u0631\u0627"@ar ,
+		"Paulo Ferreira"@nl ,
+		"Paulo Ferreira"@de ,
+		"Paulo Ferreira" .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Paulo_Ferreira	dcterms:subject	category:Premier_League_players ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:UEFA_Euro_2008_players ,
+		category:Portuguese_footballers ,
+		category:Segunda_Liga_players ,
+		<http://dbpedia.org/resource/Category:Chelsea_F.C._players> ,
+		category:Primeira_Liga_players ,
+		category:UEFA_Euro_2004_players ,
+		category:Portuguese_expatriates_in_England ,
+		category:Portuguese_expatriate_footballers ,
+		<http://dbpedia.org/resource/Category:Vit%C3%B3ria_F.C._players> ,
+		category:Portugal_international_footballers ,
+		<http://dbpedia.org/resource/Category:F.C._Porto_players> ,
+		<http://dbpedia.org/resource/Category:G.D._Estoril_Praia_players> ,
+		<http://dbpedia.org/resource/Category:1979_births> ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2006_FIFA_World_Cup_players> ,
+		category:Expatriate_footballers_in_England ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Paulo_Ferreira_4617.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Paulo_Ferreira	dc:description	"Portuguese footballer" ,
+		"Portuguese footballer" ;
+	foaf:givenName	"Paulo Renato Rebocho" ;
+	foaf:name	"Paulo Ferreira" ,
+		"Ferreira, Paulo Renato Rebocho" ,
+		"Paulo Renato Rebocho Ferreira" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Paulo_Ferreira	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Paulo_Ferreira?oldid=606173190> ;
+	rdfs:comment	"\u4FDD\u7F85\u00B7\u8CBB\u62C9\u62FF\uFF08\u8461\u8404\u7259\u8A9E\uFF1APaulo Renato Rebocho Ferreira\uFF0C\u7C21\u7A31Paulo Ferreira\uFF0C1979\u5E741\u670818\u65E5\uFF0D\uFF09\uFF0C\u8461\u8404\u7259\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u8077\u696D\u751F\u6DAF\u5927\u90E8\u5206\u6642\u9593\u70BA\u8ECA\u8DEF\u58EB\u6548\u529B\u3002"@zh ,
+		"Paulo Ferreira, (nacido el 18 de enero de 1979) es un ex-futbolista portugu\u00E9s que se desempe\u00F1aba como defensor. Se le conoc\u00EDa por su versatilidad y capacidad de jugar tanto en el lado derecho e izquierdo de la defensa. Su \u00FAltimo club fue el Chelsea F.C de Inglaterra.Fue un jugador que no hizo goles en Chelsea Pero Si en el Oporto hizo 9 Goles"@es ,
+		"Paulo Renato Rebocho Ferreira O IH (Cascais, 18 de Janeiro de 1979) \u00E9 um ex-futebolista portugu\u00EAs que atuava como lateral-direito. Jogou pelo Chelsea de 2004 at\u00E9 2013."@pt ,
+		"Paulo Renato Rebocho Ferreira of kortweg Paulo Ferreira (Cascais, 18 januari 1979) is een Portugees betaald voetballer. Hij verruilde in 2004 tegelijk met trainer Jos\u00E9 Mourinho medespeler Ricardo Carvalho FC Porto voor Chelsea FC. In 2002 debuteerde hij in het Portugees voetbalelftal, waarvoor hij meer dan zestig interlands speelde."@nl ,
+		"Paulo Renato Rebocho Ferreira (Portuguese pronunciation: [\u02C8pawlu f\u0268\u02C8\u0281\u0250j\u027E\u0250], born 18 January 1979) is a retired Portuguese footballer who played as a defender. He was known for his versatility and ability to play on both the right and left side of defence. Ferreira was signed by Jos\u00E9 Mourinho for FC Porto from Vit\u00F3ria de Set\u00FAbal in 2002. He won the league title in both of his seasons at Porto, as well as the 2003 UEFA Cup Final and 2004 UEFA Champions League Final." ,
+		"Paulo Renato Rebocho Ferreira (ur. 18 stycznia 1979 w Cascais) \u2013 by\u0142y portugalski pi\u0142karz graj\u0105cy na pozycji obro\u0144cy. W latach 2004-2013 zawodnik Chelsea Londyn."@pl ,
+		"\u0628\u0627\u0648\u0644\u0648 \u0631\u064A\u0646\u0627\u062A\u0648 \u0631\u064A\u0628\u0648\u0643\u0648 \u0641\u064A\u0631\u064A\u0631\u0627\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 18 \u064A\u0646\u0627\u064A\u0631 1979 \u0641\u064A \u0643\u0627\u0633\u0643\u064A\u0627\u0633 \u0641\u064A \u0627\u0644\u0628\u0631\u062A\u063A\u0627\u0644\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0628\u0631\u062A\u063A\u0627\u0644\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0625\u0633\u062A\u0631\u0648\u064A\u0644 \u0628\u0631\u0627\u064A\u0627 \u0641\u064A \u0639\u0627\u0645 1997\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2000\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 37 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 \u0647\u062F\u0641\u064A\u0646\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2000 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0641\u064A\u062A\u0648\u0631\u064A\u0627\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2002\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 69 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 \u0647\u062F\u0641\u064A\u0646\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2002 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0628\u0648\u0631\u062A\u0648\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2004\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 62 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2004 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u062A\u0634\u064A\u0644\u0633\u064A \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A.\u0648 \u0642\u062F \u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0628\u0631\u062A\u063A\u0627\u0644 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2002."@ar ,
+		"\u30D1\u30A6\u30ED\u30FB\u30EC\u30CA\u30C8\u30FB\u30EC\u30DC\u30B7\u30E7\u30FB\u30D5\u30A7\u30EC\u30A4\u30E9\uFF08Paulo Renato Rebocho Ferreira, 1979\u5E741\u670818\u65E5 - \uFF09\u306F\u3001\u30DD\u30EB\u30C8\u30AC\u30EB\u3001\u30AB\u30B9\u30AB\u30A4\u30B9\u51FA\u8EAB\u306E\u5143\u540C\u56FD\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002"@ja ,
+		"Paulo Renato Rebocho Ferreira aussi appel\u00E9 Paulo Ferreira, n\u00E9 le 18 janvier 1979 \u00E0 Cascais, est un footballeur portugais. International portugais.Il joue actuellement \u00E0 Chelsea. Sa qualit\u00E9 principale est le d\u00E9bordement pour pouvoir centrer, Paulo Ferreira est un joueur assez calme et patient.Le 30 ao\u00FBt 2010, il annonce qu'il met un terme \u00E0 sa carri\u00E8re internationale, par le biais d'une lettre adress\u00E9e \u00E0 la F\u00E9d\u00E9ration portugaise. Il aura particip\u00E9 \u00E0 64 matchs en 8 ans sous le maillot portugais."@fr ,
+		"\u041F\u0430\u0443\u043B\u0443 \u0424\u0435\u0440\u0440\u0435\u0439\u0440\u0430 (\u043F\u043E\u0440\u0442. Paolo Renato Rebocho Ferreira; 18 \u044F\u043D\u0432\u0430\u0440\u044F 1979, \u041F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u0438\u044F, \u041A\u0430\u0448\u043A\u0430\u0439\u0448) \u2014 \u043F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u044C\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0438\u0433\u0440\u0430\u044E\u0449\u0438\u0439 \u043D\u0430 \u043F\u043E\u0437\u0438\u0446\u0438\u0438 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A\u0430."@ru ,
+		"Paulo Ferreira [\u02C8paulu f\u026F\u02C8\u0281\u0250i\u027E\u0250] (* 18. Januar 1979 in Cascais; eigentlich Paulo Renato Rebocho Ferreira) ist ein ehemaliger portugiesischer Fu\u00DFballspieler. Nach neun Jahren beim FC Chelsea beendete er im Sommer 2013 seine Karriere."@de ,
+		"Paulo Renato Rebocho Ferreira OIH (Cascais, 18 gennaio 1979) \u00E8 un ex calciatore portoghese, di ruolo difensore."@it ;
+	foaf:surname	"Ferreira" ;
+	foaf:isPrimaryTopicOf	ns14:Paulo_Ferreira .
+@prefix ns58:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Paulo_Ferreira	dbpprop:hasPhotoCollection	ns58:Paulo_Ferreira ;
+	dbpprop:caption	"Ferreira playing for Chelsea in 2010" ;
+	dbpprop:name	"Ferreira, Paulo Renato Rebocho" ,
+		"Paulo Ferreira" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Paulo_Ferreira_4617.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u041F\u0430\u0443\u043B\u0443 \u0424\u0435\u0440\u0440\u0435\u0439\u0440\u0430 (\u043F\u043E\u0440\u0442. Paolo Renato Rebocho Ferreira; 18 \u044F\u043D\u0432\u0430\u0440\u044F 1979, \u041F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u0438\u044F, \u041A\u0430\u0448\u043A\u0430\u0439\u0448) \u2014 \u043F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u044C\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0438\u0433\u0440\u0430\u044E\u0449\u0438\u0439 \u043D\u0430 \u043F\u043E\u0437\u0438\u0446\u0438\u0438 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A\u0430."@ru ,
+		"Paulo Renato Rebocho Ferreira O IH (Cascais, 18 de Janeiro de 1979) \u00E9 um ex-futebolista portugu\u00EAs que atuava como lateral-direito. Jogou pelo Chelsea de 2004 at\u00E9 2013."@pt ,
+		"\u0628\u0627\u0648\u0644\u0648 \u0631\u064A\u0646\u0627\u062A\u0648 \u0631\u064A\u0628\u0648\u0643\u0648 \u0641\u064A\u0631\u064A\u0631\u0627\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 18 \u064A\u0646\u0627\u064A\u0631 1979 \u0641\u064A \u0643\u0627\u0633\u0643\u064A\u0627\u0633 \u0641\u064A \u0627\u0644\u0628\u0631\u062A\u063A\u0627\u0644\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0628\u0631\u062A\u063A\u0627\u0644\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0625\u0633\u062A\u0631\u0648\u064A\u0644 \u0628\u0631\u0627\u064A\u0627 \u0641\u064A \u0639\u0627\u0645 1997\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2000\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 37 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 \u0647\u062F\u0641\u064A\u0646\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2000 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0641\u064A\u062A\u0648\u0631\u064A\u0627\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2002\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 69 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 \u0647\u062F\u0641\u064A\u0646\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2002 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0628\u0648\u0631\u062A\u0648\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2004\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 62 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2004 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u062A\u0634\u064A\u0644\u0633\u064A \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A.\u0648 \u0642\u062F \u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0628\u0631\u062A\u063A\u0627\u0644 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2002."@ar ,
+		"Paulo Renato Rebocho Ferreira OIH (Cascais, 18 gennaio 1979) \u00E8 un ex calciatore portoghese, di ruolo difensore."@it ,
+		"\u30D1\u30A6\u30ED\u30FB\u30EC\u30CA\u30C8\u30FB\u30EC\u30DC\u30B7\u30E7\u30FB\u30D5\u30A7\u30EC\u30A4\u30E9\uFF08Paulo Renato Rebocho Ferreira, 1979\u5E741\u670818\u65E5 - \uFF09\u306F\u3001\u30DD\u30EB\u30C8\u30AC\u30EB\u3001\u30AB\u30B9\u30AB\u30A4\u30B9\u51FA\u8EAB\u306E\u5143\u540C\u56FD\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002"@ja ,
+		"Paulo Renato Rebocho Ferreira (Portuguese pronunciation: [\u02C8pawlu f\u0268\u02C8\u0281\u0250j\u027E\u0250], born 18 January 1979) is a retired Portuguese footballer who played as a defender. He was known for his versatility and ability to play on both the right and left side of defence. Ferreira was signed by Jos\u00E9 Mourinho for FC Porto from Vit\u00F3ria de Set\u00FAbal in 2002. He won the league title in both of his seasons at Porto, as well as the 2003 UEFA Cup Final and 2004 UEFA Champions League Final. He then followed Mourinho to Chelsea in 2004 on a \u20AC20 million transfer, winning honours including three Premier League titles and four FA Cups as well as another UEFA Champions League Cup and the UEFA Europa Cup before retiring in 2013.He earned 62 caps for the Portuguese national team between 2002 and 2010, playing at two European Championships and two World Cups, finishing as runner-up at Euro 2004 and in fourth at the 2006 World Cup." ,
+		"Paulo Renato Rebocho Ferreira (ur. 18 stycznia 1979 w Cascais) \u2013 by\u0142y portugalski pi\u0142karz graj\u0105cy na pozycji obro\u0144cy. W latach 2004-2013 zawodnik Chelsea Londyn."@pl ,
+		"\u4FDD\u7F85\u00B7\u8CBB\u62C9\u62FF\uFF08\u8461\u8404\u7259\u8A9E\uFF1APaulo Renato Rebocho Ferreira\uFF0C\u7C21\u7A31Paulo Ferreira\uFF0C1979\u5E741\u670818\u65E5\uFF0D\uFF09\uFF0C\u8461\u8404\u7259\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u8077\u696D\u751F\u6DAF\u5927\u90E8\u5206\u6642\u9593\u70BA\u8ECA\u8DEF\u58EB\u6548\u529B\u3002"@zh ,
+		"Paulo Renato Rebocho Ferreira aussi appel\u00E9 Paulo Ferreira, n\u00E9 le 18 janvier 1979 \u00E0 Cascais, est un footballeur portugais. International portugais.Il joue actuellement \u00E0 Chelsea. Sa qualit\u00E9 principale est le d\u00E9bordement pour pouvoir centrer, Paulo Ferreira est un joueur assez calme et patient.Le 30 ao\u00FBt 2010, il annonce qu'il met un terme \u00E0 sa carri\u00E8re internationale, par le biais d'une lettre adress\u00E9e \u00E0 la F\u00E9d\u00E9ration portugaise. Il aura particip\u00E9 \u00E0 64 matchs en 8 ans sous le maillot portugais."@fr ,
+		"Paulo Ferreira, (nacido el 18 de enero de 1979) es un ex-futbolista portugu\u00E9s que se desempe\u00F1aba como defensor. Se le conoc\u00EDa por su versatilidad y capacidad de jugar tanto en el lado derecho e izquierdo de la defensa. Su \u00FAltimo club fue el Chelsea F.C de Inglaterra.Fue un jugador que no hizo goles en Chelsea Pero Si en el Oporto hizo 9 Goles"@es ,
+		"Paulo Ferreira [\u02C8paulu f\u026F\u02C8\u0281\u0250i\u027E\u0250] (* 18. Januar 1979 in Cascais; eigentlich Paulo Renato Rebocho Ferreira) ist ein ehemaliger portugiesischer Fu\u00DFballspieler. Nach neun Jahren beim FC Chelsea beendete er im Sommer 2013 seine Karriere."@de ,
+		"Paulo Renato Rebocho Ferreira of kortweg Paulo Ferreira (Cascais, 18 januari 1979) is een Portugees betaald voetballer. Hij verruilde in 2004 tegelijk met trainer Jos\u00E9 Mourinho medespeler Ricardo Carvalho FC Porto voor Chelsea FC. In 2002 debuteerde hij in het Portugees voetbalelftal, waarvoor hij meer dan zestig interlands speelde."@nl ;
+	dbpedia-owl:wikiPageID	772901 ;
+	dbpedia-owl:wikiPageRevisionID	606173190 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Paulo_Ferreira	dbpprop:birthDate	"1979-01-18+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Cascais, Portugal" ;
+	dbpprop:dateOfBirth	"1979-01-18+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Cascais, Portugal" ;
+	dbpprop:shortDescription	"Portuguese footballer" ;
+	dbpedia-owl:birthDate	"1979-01-18+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Portugal_national_football_team ,
+		dbpedia:Cascais ;
+	dbpedia-owl:birthYear	"1979+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	180 ;
+	dbpprop:goals	2 ,
+		0 ;
+	dbpprop:bg	"#900020" ;
+	dbpprop:id	33118 ;
+	dbpprop:caps	141 ,
+		68 ,
+		62 ,
+		37 ;
+	dbpprop:years	1998 ,
+		2002 ,
+		2000 ,
+		2004 ;
+	dbpedia-owl:careerStation	dbpedia:Paulo_Ferreira__1 ,
+		dbpedia:Paulo_Ferreira__2 ,
+		dbpedia:Paulo_Ferreira__3 ,
+		dbpedia:Paulo_Ferreira__4 ,
+		dbpedia:Paulo_Ferreira__5 ,
+		dbpedia:Paulo_Ferreira__6 ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.8300000000000000711 .
+@prefix ns60:	<http://dbpedia.org/datatype/> .
+@prefix ns61:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Paulo_Ferreira	ns61:height	"183.0"^^ns60:centimetre ;
+	dbpprop:fullname	"Paulo Renato Rebocho Ferreira" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/Vit%C3%B3ria_F.C.> ,
+		<http://dbpedia.org/resource/Chelsea_F.C.> ,
+		<http://dbpedia.org/resource/F.C._Porto> ,
+		<http://dbpedia.org/resource/G.D._Estoril_Praia> ;
+	dbpedia-owl:team	dbpedia:Portugal_national_under-21_football_team ,
+		<http://dbpedia.org/resource/Vit%C3%B3ria_F.C.> ,
+		<http://dbpedia.org/resource/Chelsea_F.C.> ,
+		dbpedia:Portugal_national_football_team ,
+		<http://dbpedia.org/resource/G.D._Estoril_Praia> ,
+		<http://dbpedia.org/resource/F.C._Porto> .
+@prefix ns62:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Paulo_Ferreira	dbpprop:wordnet_type	ns62:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Portugal squads" ;
+	dbpprop:pcupdate	"--05-20+02:00"^^xsd:gMonthDay ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.portugoal.net/index.php/player-profiles/120-players-d-f/134-player-profile-paulo-ferreira> ,
+		<http://itsybitsysteps.com/chelsea-goalkeepers-son-steals-the-show/> .
+@prefix ns63:	<http://www.chelseafc.com/news-article/article/3220888/title/> .
+dbpedia:Paulo_Ferreira	dbpedia-owl:wikiPageExternalLink	ns63:ferreira-departs ,
+		<http://news.bbc.co.uk/sport2/shared/bsp/hi/football/statistics/players/f/ferreira_197542.stm> ;
+	dbpprop:fg	"gold" ;
+	dbpprop:nationalcaps	61 ,
+		27 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:Portugal_national_under-21_football_team ,
+		dbpedia:Portugal_national_football_team ;
+	dbpprop:nationalyears	2002 ,
+		1998 ;
+	dbpprop:ntupdate	"--05-23+02:00"^^xsd:gMonthDay ;
+	dbpprop:totalcaps	308 ;
+	dbpprop:totalgoals	4 .
+dbpedia:Ferreira	dbpedia-owl:wikiPageDisambiguates	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2004%E2%80%9305_Chelsea_F.C._season>	dbpprop:name	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2011%E2%80%9312_Chelsea_F.C._season>	dbpprop:name	dbpedia:Paulo_Ferreira .
+dbpedia:UEFA_Euro_2004_squads	dbpprop:name	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2012_FIFA_Club_World_Cup_squads>	dbpprop:name	dbpedia:Paulo_Ferreira ;
+	dbpedia-owl:currentMember	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2010%E2%80%9311_Chelsea_F.C._season>	dbpprop:name	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2003%E2%80%9304_F.C._Porto_season>	dbpprop:name	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2005%E2%80%9306_Chelsea_F.C._season>	dbpprop:name	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2006%E2%80%9307_Chelsea_F.C._season>	dbpprop:name	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2012_MLS_All-Star_Game>	dbpprop:name	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2007%E2%80%9308_Chelsea_F.C._season>	dbpprop:name	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2008%E2%80%9309_Chelsea_F.C._season>	dbpprop:name	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2010%E2%80%9311_Chelsea_F.C._season__Paulo_Ferreira__1>	dbpedia-owl:currentMember	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2006%E2%80%9307_Chelsea_F.C._season__Paulo_Ferreira__1>	dbpedia-owl:currentMember	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2007%E2%80%9308_Chelsea_F.C._season__Paulo_Ferreira__1>	dbpedia-owl:currentMember	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2012_MLS_All-Star_Game__Paulo_Ferreira__1>	dbpedia-owl:currentMember	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2011%E2%80%9312_Chelsea_F.C._season__Paulo_Ferreira__1>	dbpedia-owl:currentMember	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2011%E2%80%9312_Chelsea_F.C._season__Paulo_Ferreira__2>	dbpedia-owl:currentMember	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2008%E2%80%9309_Chelsea_F.C._season__Paulo_Ferreira__1>	dbpedia-owl:currentMember	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2008%E2%80%9309_Chelsea_F.C._season__Paulo_Ferreira__2>	dbpedia-owl:currentMember	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2003%E2%80%9304_F.C._Porto_season__Paulo_Ferreira__1>	dbpedia-owl:currentMember	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2004%E2%80%9305_Chelsea_F.C._season__Paulo_Ferreira__1>	dbpedia-owl:currentMember	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2005%E2%80%9306_Chelsea_F.C._season__Paulo_Ferreira__1>	dbpedia-owl:currentMember	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2009%E2%80%9310_Chelsea_F.C._season__Paulo_Ferreira__1>	dbpedia-owl:currentMember	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2012%E2%80%9313_Chelsea_F.C._season__Paulo_Ferreira__1>	dbpedia-owl:currentMember	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2012%E2%80%9313_Chelsea_F.C._season__Paulo_Ferreira__2>	dbpedia-owl:currentMember	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2012%E2%80%9313_Chelsea_F.C._season__Paulo_Ferreira__3>	dbpedia-owl:currentMember	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2012%E2%80%9313_Chelsea_F.C._season__Paulo_Ferreira__4>	dbpedia-owl:currentMember	dbpedia:Paulo_Ferreira .
+dbpedia:Paolo_ferrera	dbpedia-owl:wikiPageRedirects	dbpedia:Paulo_Ferreira .
+ns42:باولو_فيريرا	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns27:Паўлу_Фэрэйра	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns44:Пауло_Ферейра	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns40:Paulo_Renato_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns32:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns45:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns35:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns46:پائولو_فریرا	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns51:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns36:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+<http://he.dbpedia.org/resource/\u05E4\u05D0\u05D5\u05DC\u05D5_\u05E4\u05E8\u05D9\u05D9\u05E8\u05D4_(\u05DB\u05D3\u05D5\u05E8\u05D2\u05DC\u05DF)>	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns30:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns31:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns34:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns38:Paulus_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns33:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns48:Пауло_Фереира	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns28:Пауло_Феррейра	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns50:पाउलो_फरेरा	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns29:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns47:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns25:Паулу_Феррейра	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns49:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns43:Пауло_Фереира	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns41:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns39:เปาลู_ฟีร์ไรรา	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns24:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns52:Паулу_Феррейра	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns26:Paulo_Ferreira	owl:sameAs	dbpedia:Paulo_Ferreira .
+ns37:保羅·費拉拿	owl:sameAs	dbpedia:Paulo_Ferreira .
+dbpedia:UEFA_Euro_2008_squads	dbpprop:name	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2012%E2%80%9313_Chelsea_F.C._season>	dbpprop:name	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2006_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Paulo_Ferreira .
+<http://dbpedia.org/resource/2009%E2%80%9310_Chelsea_F.C._season>	dbpprop:name	dbpedia:Paulo_Ferreira .

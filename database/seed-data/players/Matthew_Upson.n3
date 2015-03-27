@@ -1,0 +1,375 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Matthew_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Matthew_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q201837	owl:sameAs	dbpedia:Matthew_Upson .
+@prefix ns5:	<http://cs.dbpedia.org/resource/> .
+ns5:Matthew_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Matthew_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+@prefix ns7:	<http://id.dbpedia.org/resource/> .
+ns7:Matthew_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Matthew_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+@prefix ns9:	<http://ja.dbpedia.org/resource/> .
+ns9:マシュー・アップソン	owl:sameAs	dbpedia:Matthew_Upson .
+@prefix ns10:	<http://ko.dbpedia.org/resource/> .
+ns10:매슈_업슨	owl:sameAs	dbpedia:Matthew_Upson .
+@prefix ns11:	<http://nl.dbpedia.org/resource/> .
+ns11:Matthew_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+@prefix ns12:	<http://pl.dbpedia.org/resource/> .
+ns12:Matthew_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+@prefix ns13:	<http://pt.dbpedia.org/resource/> .
+ns13:Matthew_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010%E2%80%9311_West_Ham_United_F.C._season>	dbpprop:name	dbpedia:Matthew_Upson .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/2010%E2%80%9311_West_Ham_United_F.C._season>	dbpedia-owl:currentMember	dbpedia:Matthew_Upson ;
+	dbpprop:p	dbpedia:Matthew_Upson .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns17:	<http://en.wikipedia.org/wiki/> .
+ns17:Matthew_Upson	foaf:primaryTopic	dbpedia:Matthew_Upson .
+dbpedia:List_of_England_national_football_team_World_Cup_and_European_Championship_squads	dbpprop:name	dbpedia:Matthew_Upson .
+<http://dbpedia.org/resource/2000%E2%80%9301_Nottingham_Forest_F.C._season>	dbpprop:name	dbpedia:Matthew_Upson .
+<http://dbpedia.org/resource/2002%E2%80%9303_Reading_F.C._season>	dbpprop:name	dbpedia:Matthew_Upson .
+dbpedia:Lucas_Neill	dbpprop:after	dbpedia:Matthew_Upson .
+<http://dbpedia.org/resource/2009%E2%80%9310_West_Ham_United_F.C._season__Matthew_Upson__1>	dbpedia-owl:currentMember	dbpedia:Matthew_Upson .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Matthew_Upson	rdf:type	yago:EnglishFootballers .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Matthew_Upson	rdf:type	dul:Agent ,
+		yago:Contestant109613191 ,
+		ns4:Q5 ,
+		dbpedia-owl:Athlete ,
+		yago:PeopleEducatedAtDissGrammarSchool ,
+		dul:NaturalPerson ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:YagoLegalActor ,
+		<http://dbpedia.org/class/yago/WestHamUnitedF.C.Players> ,
+		yago:LivingPeople ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		ns4:Q215627 ,
+		owl:Thing ,
+		yago:Player110439851 ,
+		foaf:Person ,
+		yago:FootballPlayer110101634 ,
+		yago:Athlete109820263 ,
+		<http://dbpedia.org/class/yago/LutonTownF.C.Players> ,
+		<http://dbpedia.org/class/yago/CrystalPalaceF.C.Players> ,
+		yago:EnglandInternationalFootballers ,
+		yago:PhysicalEntity100001930 ,
+		<http://dbpedia.org/class/yago/BirminghamCityF.C.Players> ,
+		yago:Whole100003553 ,
+		yago:Object100002684 .
+@prefix ns21:	<http://schema.org/> .
+dbpedia:Matthew_Upson	rdf:type	ns21:Person ,
+		<http://dbpedia.org/class/yago/PeopleFromEye,Suffolk> ,
+		<http://dbpedia.org/class/yago/ReadingF.C.Players> ,
+		<http://dbpedia.org/class/yago/ArsenalF.C.Players> ,
+		yago:Defender109614684 ,
+		yago:TheFootballLeaguePlayers ,
+		<http://dbpedia.org/class/yago/NottinghamForestF.C.Players> ,
+		yago:Preserver110466918 ,
+		yago:PremierLeaguePlayers ,
+		yago:EnglandUnder-21InternationalFootballers ,
+		yago:EnglandYouthInternationalFootballers ,
+		dbpedia-owl:Person ,
+		dbpedia-owl:Agent ,
+		yago:AssociationFootballCentralDefenders ,
+		<http://dbpedia.org/class/yago/StokeCityF.C.Players> .
+@prefix ns22:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns22:Matthew_Upson .
+@prefix ns23:	<http://hr.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns23:Matthew_Upson .
+@prefix ns24:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns24:Matthew_Upson .
+@prefix ns25:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns25:मॅथ्यू_अप्सन ,
+		ns5:Matthew_Upson ,
+		ns7:Matthew_Upson .
+@prefix ns26:	<http://no.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns26:Matthew_Upson ,
+		ns13:Matthew_Upson .
+@prefix ns27:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns27:Matthew_Upson .
+@prefix ns28:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns28:ماثيو_أبسون .
+@prefix ns29:	<http://be_x_old.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns29:Мэт’ю_Апсан .
+@prefix ns30:	<http://da.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns30:Matthew_Upson ,
+		ns10:매슈_업슨 ,
+		ns4:Q201837 ,
+		ns12:Matthew_Upson .
+@prefix ns31:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns31:متیو_اوپسون .
+@prefix ns32:	<http://ka.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns32:მეთიუ_აპსონი .
+@prefix ns33:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns33:Matthew_Upson .
+@prefix ns34:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns34:马修·厄普森 .
+@prefix ns35:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns35:Matthew_Upson .
+@prefix ns36:	<http://yago-knowledge.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns36:Matthew_Upson ,
+		<http://rdf.freebase.com/ns/m.04q4d0> .
+@prefix ns37:	<http://mn.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns37:Мэттью_Апсон ,
+		ns11:Matthew_Upson .
+@prefix ns38:	<http://wikidata.org/entity/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns38:Q201837 ,
+		dbpedia:Matthew_Upson ,
+		ns6:Matthew_Upson .
+@prefix ns39:	<http://la.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns39:Matthaeus_Upson .
+@prefix ns40:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns40:Matthew_Upson .
+@prefix ns41:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns41:Метью_Апсон .
+@prefix ns42:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns42:Matthew_Upson .
+@prefix ns43:	<http://he.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns43:מתיו_אפסון .
+@prefix ns44:	<http://nn.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns44:Matthew_Upson ,
+		<http://ru.dbpedia.org/resource/\u0410\u043F\u0441\u043E\u043D,_\u041C\u044D\u0442\u0442\u044C\u044E> ,
+		ns8:Matthew_Upson .
+@prefix ns45:	<http://ca.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns45:Matthew_James_Upson ,
+		ns3:Matthew_Upson ,
+		ns1:Matthew_Upson ,
+		ns9:マシュー・アップソン .
+@prefix ns46:	<http://th.dbpedia.org/resource/> .
+dbpedia:Matthew_Upson	owl:sameAs	ns46:แมตทิว_อัปสัน .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Matthew_Upson	rdfs:label	"Matthew Upson"@nl ,
+		"Matthew Upson"@it ,
+		"\u9A6C\u4FEE\u00B7\u5384\u666E\u68EE"@zh ,
+		"Matthew Upson"@pt ,
+		"Matthew Upson"@es ,
+		"\u0410\u043F\u0441\u043E\u043D, \u041C\u044D\u0442\u0442\u044C\u044E"@ru ,
+		"\u0645\u0627\u062B\u064A\u0648 \u0623\u0628\u0633\u0648\u0646"@ar ,
+		"Matthew Upson" ,
+		"\u30DE\u30B7\u30E5\u30FC\u30FB\u30A2\u30C3\u30D7\u30BD\u30F3"@ja ,
+		"Matthew Upson"@fr ,
+		"Matthew Upson"@de ,
+		"Matthew Upson"@pl .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+dbpedia:Matthew_Upson	dcterms:subject	<http://dbpedia.org/resource/Category:Nottingham_Forest_F.C._players> ,
+		<http://dbpedia.org/resource/Category:Brighton_&_Hove_Albion_F.C._players> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:Birmingham_City_F.C._players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Matthew_Upson	dcterms:subject	category:Association_football_central_defenders ,
+		category:England_under-21_international_footballers ,
+		category:England_youth_international_footballers ,
+		<http://dbpedia.org/resource/Category:Crystal_Palace_F.C._players> ,
+		<http://dbpedia.org/resource/Category:Arsenal_F.C._players> ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:People_from_Eye,_Suffolk> ,
+		<http://dbpedia.org/resource/Category:1979_births> ,
+		category:People_educated_at_Diss_Grammar_School ,
+		<http://dbpedia.org/resource/Category:West_Ham_United_F.C._players> ,
+		category:The_Football_League_players ,
+		category:Premier_League_players ,
+		<http://dbpedia.org/resource/Category:Stoke_City_F.C._players> ,
+		<http://dbpedia.org/resource/Category:Reading_F.C._players> ,
+		category:English_footballers ,
+		<http://dbpedia.org/resource/Category:Luton_Town_F.C._players> ,
+		category:England_international_footballers ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Matthew-Upson-2009.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Matthew_Upson	dc:description	"Professional footballer" ,
+		"Professional footballer" ;
+	foaf:givenName	"Matthew James" ;
+	foaf:name	"Upson, Matthew James" ,
+		"Matthew James Upson" ,
+		"Matthew Upson" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Matthew_Upson	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Matthew_Upson?oldid=606042862> ;
+	rdfs:comment	"Matthew James Upson (*Hartismere, Inglaterra, 18 de abril de 1979), futbolista ingl\u00E9s. Juega de defensa y su actual equipo es el Brighton & Hove Albion de la Football League Championship de Inglaterra."@es ,
+		"\u30DE\u30B7\u30E5\u30FC\u30FB\u30B8\u30A7\u30FC\u30E0\u30BA\u30FB\u30A2\u30C3\u30D7\u30BD\u30F3\uFF08Matthew James Upson, 1979\u5E744\u670818\u65E5 - \uFF09\u306F\u3001\u30A4\u30F3\u30B0\u30E9\u30F3\u30C9\u30FB\u30B5\u30D5\u30A9\u30FC\u30AF\u5DDE\u30CF\u30FC\u30C6\u30A3\u30B9\u30E1\u30A2\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u5143\u30A4\u30F3\u30B0\u30E9\u30F3\u30C9\u4EE3\u8868\u3002\u30D5\u30C3\u30C8\u30DC\u30FC\u30EB\u30EA\u30FC\u30B0\u30FB\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u30B7\u30C3\u30D7\u306E\u30D6\u30E9\u30A4\u30C8\u30F3\u30FB\u30A2\u30F3\u30C9\u30FB\u30DB\u30FC\u30F4\u30FB\u30A2\u30EB\u30D3\u30AA\u30F3FC\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30BB\u30F3\u30BF\u30FC\u30D0\u30C3\u30AF\u3002\u30D9\u30C3\u30C9\u30D5\u30A9\u30FC\u30C9\u30B7\u30E3\u30FC\u5DDE\u306E\u30EB\u30FC\u30C8\u30F3\u30FB\u30BF\u30A6\u30F3FC\u3067\u30AD\u30E3\u30EA\u30A2\u3092\u958B\u59CB\u5F8C\u30011997\u5E745\u6708\u306B\u79FB\u7C4D\u91D1200\u4E07\u30DD\u30F3\u30C9\u3067\u30D7\u30EC\u30DF\u30A2\u30EA\u30FC\u30B0\u306E\u30A2\u30FC\u30BB\u30CA\u30EBFC\u3068\u5951\u7D04\u3057\u305F\u3002\u3057\u304B\u3057\u3001\u30A2\u30FC\u30BB\u30CA\u30EB\u3067\u306F\u51FA\u5834\u6A5F\u4F1A\u3092\u306A\u304B\u306A\u304B\u5F97\u3089\u308C\u305A\u3001\u30CF\u30A4\u30D0\u30EA\u30FC\u3067\u306E6\u5B63\u306F57\u8A66\u5408\u306E\u51FA\u5834\u306B\u3068\u3069\u307E\u308A\u3001\u307E\u305F\u3001\u30CE\u30C3\u30C6\u30A3\u30F3\u30AC\u30E0\u30FB\u30D5\u30A9\u30EC\u30B9\u30C8FC\u3001\u30AF\u30EA\u30B9\u30BF\u30EB\u30FB\u30D1\u30EC\u30B9FC\u3001\u30EC\u30C7\u30A3\u30F3\u30B0FC\u3078\u3068\u8CB8\u3057\u51FA\u3055\u308C\u3066\u3044\u305F\u30022003\u5E74\u304B\u3089\u52A0\u5165\u3057\u305F\u30D0\u30FC\u30DF\u30F3\u30AC\u30E0\u30FB\u30B7\u30C6\u30A3FC\u3067\u306F\u5B9A\u671F\u7684\u306B\u51FA\u5834\u6A5F\u4F1A\u3092\u5F97\u308B\u3053\u3068\u306B\u6210\u529F\u3057\u30012006\u5E74\u306B\u30C1\u30FC\u30E0\u304C\u964D\u683C\u3059\u308B\u3068\u30012007\u5E741\u6708\u306B\u79FB\u7C4D\u91D1750\u4E07\u30DD\u30F3\u30C9\u3067\u30A6\u30A7\u30B9\u30C8\u30CF\u30E0\u30FB\u30E6\u30CA\u30A4\u30C6\u30C3\u30C9FC\u3068\u5951\u7D04\u3002\u30EB\u30FC\u30AB\u30B9\u30FB\u30CB\u30FC\u30EB\u304C\u9000\u56E3\u3057\u305F\u6B21\u306E2009\u5E74\u304B\u3089\u306F\u4E3B\u5C06\u3092\u52D9\u3081\u305F\u30022010-11\u30B7\u30FC\u30BA\u30F3\u306B\u30C1\u30FC\u30E0\u304C2\u90E8\u3078\u3068\u964D\u683C\u3057\u3001\u307E\u305F\u3001\u81EA\u8EAB\u306E\u5951\u7D04\u304C\u6E80\u4E86\u3068\u306A\u3063\u305F\u305F\u3081\u3001\u4ECA\u5EA6\u306F2011\u5E748\u6708\u306B\u30B9\u30C8\u30FC\u30AF\u30FB\u30B7\u30C6\u30A3FC\u30682\u5E74\u5951\u7D04\u3092\u7DE0\u7D50\u3057\u305F\u30022012-13\u30B7\u30FC\u30BA\u30F3\u306B2\u90E8\u306E\u30D6\u30E9\u30A4\u30C8\u30F3\u30FB\u30A2\u30F3\u30C9\u30FB\u30DB\u30FC\u30F4\u30FB\u30A2\u30EB\u30D3\u30AA\u30F3FC\u3078\u306E\u671F\u9650\u4ED8\u304D\u79FB\u7C4D\u3092\u7D4C\u3066\u30012013\u5E74\u306B\u540C\u30AF\u30E9\u30D6\u30681\u5E74\u5951\u7D04\u306E\u5B8C\u5168\u79FB\u7C4D\u3092\u679C\u305F\u3057\u305F\u3002"@ja ,
+		"Matthew James Upson (born 18 April 1979) is an English footballer who plays for Brighton & Hove Albion. He is a central defender who played for England at full international level including at the 2010 World Cup.Upson started his career with Bedfordshire club Luton Town before he joined Premiership side Arsenal for a fee of \u00A32 million in May 1997." ,
+		"\u0645\u0627\u062B\u064A\u0648 \u062C\u0627\u064A\u0645\u0633 \u0623\u0628\u0633\u0648\u0646\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 18 \u0627\u0628\u0631\u064A\u0644 1979 \u0641\u064A \u0633\u0648\u0641\u0648\u0644\u0643 \u0641\u064A \u0625\u0646\u062C\u0644\u062A\u0631\u0627\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0625\u0646\u062C\u0644\u064A\u0632\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0644\u0648\u062A\u0648\u0646 \u062A\u0627\u0648\u0646 \u0641\u064A \u0639\u0627\u0645 1994\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 1997\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0627\u062D\u062F\u0629\u060C \u0648\u0641\u064A \u0639\u0627\u0645 1997 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0622\u0631\u0633\u0646\u0627\u0644\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2003\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 35 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2000 \u0623\u0639\u064A\u0631 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0646\u0648\u062A\u0646\u063A\u0647\u0627\u0645 \u0641\u0648\u0631\u064A\u0633\u062A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0627\u062D\u062F\u0629\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2001 \u0623\u0639\u064A\u0631 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0643\u0631\u064A\u0633\u062A\u0627\u0644 \u0628\u0627\u0644\u0627\u0633\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 7 \u0645\u0628\u0627\u0631\u064A\u0627\u062A\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2002 \u0623\u0639\u064A\u0631 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0631\u064A\u062F\u064A\u0646\u063A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 14 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2003 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0628\u0631\u0645\u0646\u063A\u0647\u0627\u0645 \u0633\u064A\u062A\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2007\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 113 \u0645\u0628\u0627\u0631\u064A\u0627\u062A \u0648\u0633\u062C\u0644 5 \u0623\u0647\u062F\u0627\u0641\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2007 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0648\u0633\u062A \u0647\u0627\u0645 \u064A\u0648\u0646\u0627\u064A\u062A\u062F.\u0648 \u0642\u062F \u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0625\u0646\u062C\u0644\u062A\u0631\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2002.\u0648\u0642\u062F \u0628\u0631\u0632 \u0645\u0624\u062E\u0631\u0627 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0628\u0644\u0627\u062F\u0647 \u062D\u064A\u062B \u0623\u0646\u0647 \u0643\u0627\u0646 \u0628\u0627\u0644\u062A\u0634\u0643\u064A\u0644\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u0629 \u0644\u0644\u0645\u062F\u0631\u0628 \u0641\u0627\u0628\u064A\u0648 \u0643\u0627\u0628\u064A\u0644\u0648 \u0648\u0633\u062C\u0644 \u0647\u062F\u0641 \u0641\u064A \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A."@ar ,
+		"Matthew James Upson, n\u00E9 le 18 avril 1979 \u00E0 Hartismere (Suffolk, Angleterre), est un footballeur anglais. Il joue au poste de d\u00E9fenseur central pour le club anglais Brighton & Hove Albion Football Club."@fr ,
+		"Matthew James Upson (Hartlesmere, 18 aprile 1979) \u00E8 un calciatore inglese, difensore del Brighton & Hove Albion in prestito dallo Stoke City.\u00C8 stato selezionato dal ct dell'Inghilterra, Fabio Capello, per il Mondiale 2010 in Sudafrica."@it ,
+		"Matthew James Upson (ur. 18 kwietnia 1979 w Stowmarket, Suffolk), pi\u0142karz angielski graj\u0105cy na pozycji \u015Brodkowego obro\u0144cy w Brighton & Hove Albion."@pl ,
+		"\u041C\u044D\u0301\u0442\u0442\u044C\u044E \u0414\u0436\u0435\u0439\u043C\u0441 \u0410\u0301\u043F\u0441\u043E\u043D (\u0430\u043D\u0433\u043B. Matthew James Upson; 18 \u0430\u043F\u0440\u0435\u043B\u044F 1979, \u0425\u0430\u0440\u0442\u0438\u0441\u043C\u0438\u0440, \u0421\u0430\u0444\u0444\u043E\u043B\u043A, \u0410\u043D\u0433\u043B\u0438\u044F) \u2014 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0411\u0440\u0430\u0439\u0442\u043E\u043D \u044D\u043D\u0434 \u0425\u043E\u0443\u0432 \u0410\u043B\u044C\u0431\u0438\u043E\u043D\u00BB."@ru ,
+		"Matthew James Upson (* 18. April 1979 in Hartismere, Suffolk) ist ein englischer Fu\u00DFballspieler und steht zur Zeit beim Premier-League-Verein Stoke City unter Vertrag. Seit Mai 2003 kam der Innenverteidiger in der englischen Nationalmannschaft sporadisch zum Einsatz, wurde aber immer wieder durch Verletzungen geplagt. Gr\u00F6\u00DFter Erfolg war f\u00FCr ihn bis dato im Jahr 2002 der Gewinn des \u201EDoubles\u201C mit dem FC Arsenal."@de ,
+		"\u9A6C\u4FEE\u00B7\u8A79\u59C6\u58EB\u00B7\u5384\u666E\u68EE\uFF08\u82F1\u8BED\uFF1AMatthew James Upson\uFF0C1979\u5E744\u670818\u65E5\uFF0D\uFF09\uFF0C\u51FA\u751F\u65BC\u82F1\u683C\u862D\u7684\u85A9\u798F\u514B\u90E1\uFF08Suffolk\uFF09\u514B\u8FEA\u65AF\u7F8E\u963F\uFF08Hartismere\uFF09\uFF0C\u662F\u4E00\u540D\u82F1\u683C\u862D\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u53F8\u8077\u4E2D\u5805\uFF0C\u73FE\u6642\u6548\u529B\u82F1\u51A0\u7403\u6703\u5E03\u83B1\u987F\u3002"@zh ,
+		"Matthew James Upson (Suffolk, 18 april 1979) is een Engels betaald voetballer die bij voorkeur centraal in de verdediging speelt. Hij tekende in augustus 2011 een tweejarig contract bij Stoke City, dat hem in januari 2007 weghaalde bij West Ham United. West Ham maakte toen \u00A36.000.000,- over aan Birmingham City FC, waar tot \u00A31.500.000,- bij kon komen afhankelijk van zijn aantal gespeelde wedstrijden. Momenteel wordt hij uitgeleend aan Brighton & Hove Albion, dat in de Championship uitkomt."@nl ,
+		"Matthew James Upson (Hartismere, 18 de abril de 1979) \u00E9 um futebolista ingl\u00EAs que atua como zagueiro. Atualmente, joga pelo Brighton & Hove Albion emprestado pelo Stoke City. == Refer\u00EAncias =="@pt ;
+	foaf:surname	"Upson" ;
+	foaf:isPrimaryTopicOf	ns17:Matthew_Upson .
+@prefix ns52:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Matthew_Upson	dbpprop:hasPhotoCollection	ns52:Matthew_Upson ;
+	dbpprop:name	"Matthew Upson" ,
+		"Upson, Matthew James" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Matthew-Upson-2009.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u30DE\u30B7\u30E5\u30FC\u30FB\u30B8\u30A7\u30FC\u30E0\u30BA\u30FB\u30A2\u30C3\u30D7\u30BD\u30F3\uFF08Matthew James Upson, 1979\u5E744\u670818\u65E5 - \uFF09\u306F\u3001\u30A4\u30F3\u30B0\u30E9\u30F3\u30C9\u30FB\u30B5\u30D5\u30A9\u30FC\u30AF\u5DDE\u30CF\u30FC\u30C6\u30A3\u30B9\u30E1\u30A2\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u5143\u30A4\u30F3\u30B0\u30E9\u30F3\u30C9\u4EE3\u8868\u3002\u30D5\u30C3\u30C8\u30DC\u30FC\u30EB\u30EA\u30FC\u30B0\u30FB\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u30B7\u30C3\u30D7\u306E\u30D6\u30E9\u30A4\u30C8\u30F3\u30FB\u30A2\u30F3\u30C9\u30FB\u30DB\u30FC\u30F4\u30FB\u30A2\u30EB\u30D3\u30AA\u30F3FC\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30BB\u30F3\u30BF\u30FC\u30D0\u30C3\u30AF\u3002\u30D9\u30C3\u30C9\u30D5\u30A9\u30FC\u30C9\u30B7\u30E3\u30FC\u5DDE\u306E\u30EB\u30FC\u30C8\u30F3\u30FB\u30BF\u30A6\u30F3FC\u3067\u30AD\u30E3\u30EA\u30A2\u3092\u958B\u59CB\u5F8C\u30011997\u5E745\u6708\u306B\u79FB\u7C4D\u91D1200\u4E07\u30DD\u30F3\u30C9\u3067\u30D7\u30EC\u30DF\u30A2\u30EA\u30FC\u30B0\u306E\u30A2\u30FC\u30BB\u30CA\u30EBFC\u3068\u5951\u7D04\u3057\u305F\u3002\u3057\u304B\u3057\u3001\u30A2\u30FC\u30BB\u30CA\u30EB\u3067\u306F\u51FA\u5834\u6A5F\u4F1A\u3092\u306A\u304B\u306A\u304B\u5F97\u3089\u308C\u305A\u3001\u30CF\u30A4\u30D0\u30EA\u30FC\u3067\u306E6\u5B63\u306F57\u8A66\u5408\u306E\u51FA\u5834\u306B\u3068\u3069\u307E\u308A\u3001\u307E\u305F\u3001\u30CE\u30C3\u30C6\u30A3\u30F3\u30AC\u30E0\u30FB\u30D5\u30A9\u30EC\u30B9\u30C8FC\u3001\u30AF\u30EA\u30B9\u30BF\u30EB\u30FB\u30D1\u30EC\u30B9FC\u3001\u30EC\u30C7\u30A3\u30F3\u30B0FC\u3078\u3068\u8CB8\u3057\u51FA\u3055\u308C\u3066\u3044\u305F\u30022003\u5E74\u304B\u3089\u52A0\u5165\u3057\u305F\u30D0\u30FC\u30DF\u30F3\u30AC\u30E0\u30FB\u30B7\u30C6\u30A3FC\u3067\u306F\u5B9A\u671F\u7684\u306B\u51FA\u5834\u6A5F\u4F1A\u3092\u5F97\u308B\u3053\u3068\u306B\u6210\u529F\u3057\u30012006\u5E74\u306B\u30C1\u30FC\u30E0\u304C\u964D\u683C\u3059\u308B\u3068\u30012007\u5E741\u6708\u306B\u79FB\u7C4D\u91D1750\u4E07\u30DD\u30F3\u30C9\u3067\u30A6\u30A7\u30B9\u30C8\u30CF\u30E0\u30FB\u30E6\u30CA\u30A4\u30C6\u30C3\u30C9FC\u3068\u5951\u7D04\u3002\u30EB\u30FC\u30AB\u30B9\u30FB\u30CB\u30FC\u30EB\u304C\u9000\u56E3\u3057\u305F\u6B21\u306E2009\u5E74\u304B\u3089\u306F\u4E3B\u5C06\u3092\u52D9\u3081\u305F\u30022010-11\u30B7\u30FC\u30BA\u30F3\u306B\u30C1\u30FC\u30E0\u304C2\u90E8\u3078\u3068\u964D\u683C\u3057\u3001\u307E\u305F\u3001\u81EA\u8EAB\u306E\u5951\u7D04\u304C\u6E80\u4E86\u3068\u306A\u3063\u305F\u305F\u3081\u3001\u4ECA\u5EA6\u306F2011\u5E748\u6708\u306B\u30B9\u30C8\u30FC\u30AF\u30FB\u30B7\u30C6\u30A3FC\u30682\u5E74\u5951\u7D04\u3092\u7DE0\u7D50\u3057\u305F\u30022012-13\u30B7\u30FC\u30BA\u30F3\u306B2\u90E8\u306E\u30D6\u30E9\u30A4\u30C8\u30F3\u30FB\u30A2\u30F3\u30C9\u30FB\u30DB\u30FC\u30F4\u30FB\u30A2\u30EB\u30D3\u30AA\u30F3FC\u3078\u306E\u671F\u9650\u4ED8\u304D\u79FB\u7C4D\u3092\u7D4C\u3066\u30012013\u5E74\u306B\u540C\u30AF\u30E9\u30D6\u30681\u5E74\u5951\u7D04\u306E\u5B8C\u5168\u79FB\u7C4D\u3092\u679C\u305F\u3057\u305F\u3002"@ja ,
+		"\u9A6C\u4FEE\u00B7\u8A79\u59C6\u58EB\u00B7\u5384\u666E\u68EE\uFF08\u82F1\u8BED\uFF1AMatthew James Upson\uFF0C1979\u5E744\u670818\u65E5\uFF0D\uFF09\uFF0C\u51FA\u751F\u65BC\u82F1\u683C\u862D\u7684\u85A9\u798F\u514B\u90E1\uFF08Suffolk\uFF09\u514B\u8FEA\u65AF\u7F8E\u963F\uFF08Hartismere\uFF09\uFF0C\u662F\u4E00\u540D\u82F1\u683C\u862D\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u53F8\u8077\u4E2D\u5805\uFF0C\u73FE\u6642\u6548\u529B\u82F1\u51A0\u7403\u6703\u5E03\u83B1\u987F\u3002"@zh ,
+		"Matthew James Upson (Suffolk, 18 april 1979) is een Engels betaald voetballer die bij voorkeur centraal in de verdediging speelt. Hij tekende in augustus 2011 een tweejarig contract bij Stoke City, dat hem in januari 2007 weghaalde bij West Ham United. West Ham maakte toen \u00A36.000.000,- over aan Birmingham City FC, waar tot \u00A31.500.000,- bij kon komen afhankelijk van zijn aantal gespeelde wedstrijden. Momenteel wordt hij uitgeleend aan Brighton & Hove Albion, dat in de Championship uitkomt."@nl ,
+		"Matthew James Upson (Hartismere, 18 de abril de 1979) \u00E9 um futebolista ingl\u00EAs que atua como zagueiro. Atualmente, joga pelo Brighton & Hove Albion emprestado pelo Stoke City. == Refer\u00EAncias =="@pt ,
+		"Matthew James Upson (ur. 18 kwietnia 1979 w Stowmarket, Suffolk), pi\u0142karz angielski graj\u0105cy na pozycji \u015Brodkowego obro\u0144cy w Brighton & Hove Albion."@pl ,
+		"\u0645\u0627\u062B\u064A\u0648 \u062C\u0627\u064A\u0645\u0633 \u0623\u0628\u0633\u0648\u0646\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 18 \u0627\u0628\u0631\u064A\u0644 1979 \u0641\u064A \u0633\u0648\u0641\u0648\u0644\u0643 \u0641\u064A \u0625\u0646\u062C\u0644\u062A\u0631\u0627\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0625\u0646\u062C\u0644\u064A\u0632\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0644\u0648\u062A\u0648\u0646 \u062A\u0627\u0648\u0646 \u0641\u064A \u0639\u0627\u0645 1994\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 1997\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0627\u062D\u062F\u0629\u060C \u0648\u0641\u064A \u0639\u0627\u0645 1997 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0622\u0631\u0633\u0646\u0627\u0644\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2003\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 35 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2000 \u0623\u0639\u064A\u0631 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0646\u0648\u062A\u0646\u063A\u0647\u0627\u0645 \u0641\u0648\u0631\u064A\u0633\u062A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0627\u062D\u062F\u0629\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2001 \u0623\u0639\u064A\u0631 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0643\u0631\u064A\u0633\u062A\u0627\u0644 \u0628\u0627\u0644\u0627\u0633\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 7 \u0645\u0628\u0627\u0631\u064A\u0627\u062A\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2002 \u0623\u0639\u064A\u0631 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0631\u064A\u062F\u064A\u0646\u063A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 14 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2003 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0628\u0631\u0645\u0646\u063A\u0647\u0627\u0645 \u0633\u064A\u062A\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2007\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 113 \u0645\u0628\u0627\u0631\u064A\u0627\u062A \u0648\u0633\u062C\u0644 5 \u0623\u0647\u062F\u0627\u0641\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2007 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0648\u0633\u062A \u0647\u0627\u0645 \u064A\u0648\u0646\u0627\u064A\u062A\u062F.\u0648 \u0642\u062F \u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0625\u0646\u062C\u0644\u062A\u0631\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2002.\u0648\u0642\u062F \u0628\u0631\u0632 \u0645\u0624\u062E\u0631\u0627 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0628\u0644\u0627\u062F\u0647 \u062D\u064A\u062B \u0623\u0646\u0647 \u0643\u0627\u0646 \u0628\u0627\u0644\u062A\u0634\u0643\u064A\u0644\u0629 \u0627\u0644\u0623\u0633\u0627\u0633\u064A\u0629 \u0644\u0644\u0645\u062F\u0631\u0628 \u0641\u0627\u0628\u064A\u0648 \u0643\u0627\u0628\u064A\u0644\u0648 \u0648\u0633\u062C\u0644 \u0647\u062F\u0641 \u0641\u064A \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A."@ar ,
+		"Matthew James Upson (* 18. April 1979 in Hartismere, Suffolk) ist ein englischer Fu\u00DFballspieler und steht zur Zeit beim Premier-League-Verein Stoke City unter Vertrag. Seit Mai 2003 kam der Innenverteidiger in der englischen Nationalmannschaft sporadisch zum Einsatz, wurde aber immer wieder durch Verletzungen geplagt. Gr\u00F6\u00DFter Erfolg war f\u00FCr ihn bis dato im Jahr 2002 der Gewinn des \u201EDoubles\u201C mit dem FC Arsenal."@de ,
+		"Matthew James Upson (Hartlesmere, 18 aprile 1979) \u00E8 un calciatore inglese, difensore del Brighton & Hove Albion in prestito dallo Stoke City.\u00C8 stato selezionato dal ct dell'Inghilterra, Fabio Capello, per il Mondiale 2010 in Sudafrica."@it ,
+		"Matthew James Upson, n\u00E9 le 18 avril 1979 \u00E0 Hartismere (Suffolk, Angleterre), est un footballeur anglais. Il joue au poste de d\u00E9fenseur central pour le club anglais Brighton & Hove Albion Football Club."@fr ,
+		"Matthew James Upson (*Hartismere, Inglaterra, 18 de abril de 1979), futbolista ingl\u00E9s. Juega de defensa y su actual equipo es el Brighton & Hove Albion de la Football League Championship de Inglaterra."@es ,
+		"\u041C\u044D\u0301\u0442\u0442\u044C\u044E \u0414\u0436\u0435\u0439\u043C\u0441 \u0410\u0301\u043F\u0441\u043E\u043D (\u0430\u043D\u0433\u043B. Matthew James Upson; 18 \u0430\u043F\u0440\u0435\u043B\u044F 1979, \u0425\u0430\u0440\u0442\u0438\u0441\u043C\u0438\u0440, \u0421\u0430\u0444\u0444\u043E\u043B\u043A, \u0410\u043D\u0433\u043B\u0438\u044F) \u2014 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0411\u0440\u0430\u0439\u0442\u043E\u043D \u044D\u043D\u0434 \u0425\u043E\u0443\u0432 \u0410\u043B\u044C\u0431\u0438\u043E\u043D\u00BB."@ru ,
+		"Matthew James Upson (born 18 April 1979) is an English footballer who plays for Brighton & Hove Albion. He is a central defender who played for England at full international level including at the 2010 World Cup.Upson started his career with Bedfordshire club Luton Town before he joined Premiership side Arsenal for a fee of \u00A32 million in May 1997. Upson struggled to force his way into the first team at Highbury making 57 appearances in 6 seasons and also spent time out on loan at Nottingham Forest, Crystal Palace and Reading.Upson joined Birmingham City in 2003 where he enjoyed regular first team football. However following Birmingham's relegation in 2006 he went on to join West Ham United for \u00A37.5 million in January 2007. He was made captain in 2009 following the departure of Lucas Neill. At the end of the 2010\u201311 season West Ham were relegated to the Championship and Upson left after his contract had expired. Upson signed a two-year contract with Stoke City in August 2011. After a loan spell with Brighton & Hove Albion in the 2012\u201313 season, he signed a one-year contract with the club in 2013." ;
+	dbpedia-owl:wikiPageID	1285790 ;
+	dbpedia-owl:wikiPageRevisionID	606042862 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Matthew_Upson	dbpprop:birthDate	"1979-04-18+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Hartismere, Eye, Suffolk, England" ;
+	dbpprop:dateOfBirth	"1979-04-18+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Hartismere, Suffolk, England" ;
+	dbpprop:shortDescription	"Professional footballer" ;
+	dbpedia-owl:birthDate	"1979-04-18+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	<http://dbpedia.org/resource/Eye,_Suffolk> ,
+		dbpedia:England_national_football_team ,
+		dbpedia:Hartismere_Hundred ;
+	dbpedia-owl:birthYear	"1979+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	250 ;
+	dbpprop:after	dbpedia:Kevin_Nolan ;
+	dbpprop:before	dbpedia:Lucas_Neill ;
+	dbpprop:goals	4 ,
+		5 ,
+		2 ,
+		0 ,
+		1 ;
+	dbpprop:caps	7 ,
+		1 ,
+		14 ,
+		15 ,
+		18 ,
+		35 ,
+		42 ,
+		113 ,
+		131 ;
+	dbpprop:years	2002 ,
+		2003 ,
+		2000 ,
+		2001 ,
+		2007 ,
+		2011 ,
+		2009 ,
+		2013 ,
+		1996 ,
+		1997 ;
+	dbpprop:youthclubs	<http://dbpedia.org/resource/Ipswich_Town_F.C.> ,
+		<http://dbpedia.org/resource/Luton_Town_F.C.> ;
+	dbpedia-owl:careerStation	dbpedia:Matthew_Upson__4 ,
+		dbpedia:Matthew_Upson__9 ,
+		dbpedia:Matthew_Upson__5 ,
+		dbpedia:Matthew_Upson__8 ,
+		dbpedia:Matthew_Upson__10 ,
+		dbpedia:Matthew_Upson__7 ,
+		dbpedia:Matthew_Upson__14 ,
+		dbpedia:Matthew_Upson__1 ,
+		dbpedia:Matthew_Upson__13 ,
+		dbpedia:Matthew_Upson__2 ,
+		dbpedia:Matthew_Upson__3 ,
+		dbpedia:Matthew_Upson__6 ,
+		dbpedia:Matthew_Upson__11 ,
+		dbpedia:Matthew_Upson__12 ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.8542000000000000703 .
+@prefix ns54:	<http://dbpedia.org/datatype/> .
+@prefix ns55:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Matthew_Upson	ns55:height	"185.42"^^ns54:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/Brighton_&_Hove_Albion_F.C.> ;
+	dbpprop:clubnumber	20 ;
+	dbpprop:fullname	"Matthew James Upson" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/Birmingham_City_F.C.> ,
+		<http://dbpedia.org/resource/Luton_Town_F.C.> ,
+		<http://dbpedia.org/resource/Stoke_City_F.C.> ,
+		<http://dbpedia.org/resource/Brighton_&_Hove_Albion_F.C.> ,
+		"\u2192 Reading" ,
+		<http://dbpedia.org/resource/West_Ham_United_F.C.> ,
+		"\u2192 Crystal Palace" ,
+		<http://dbpedia.org/resource/Arsenal_F.C.> ,
+		"\u2192 Brighton & Hove Albion" ,
+		"\u2192 Nottingham Forest" ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/Birmingham_City_F.C.> ,
+		<http://dbpedia.org/resource/Crystal_Palace_F.C.> ,
+		dbpedia:England_national_football_team ,
+		<http://dbpedia.org/resource/Luton_Town_F.C.> ,
+		<http://dbpedia.org/resource/Brighton_&_Hove_Albion_F.C.> ,
+		<http://dbpedia.org/resource/Stoke_City_F.C.> ,
+		<http://dbpedia.org/resource/West_Ham_United_F.C.> ,
+		<http://dbpedia.org/resource/Ipswich_Town_F.C.> ,
+		<http://dbpedia.org/resource/Nottingham_Forest_F.C.> ,
+		<http://dbpedia.org/resource/Reading_F.C.> ,
+		<http://dbpedia.org/resource/Arsenal_F.C.> ,
+		dbpedia:England_national_under-21_football_team .
+@prefix ns56:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Matthew_Upson	dbpprop:wordnet_type	ns56:synset-soccer_player-noun-1 ;
+	dbpprop:title	<http://dbpedia.org/resource/West_Ham_United_F.C.> ;
+	dbpprop:youthyears	1994 ,
+		"\u2013" ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.premierleague.com/page/PlayerProfile/0,,12306~5474,00.html> ,
+		<http://www.stokecityfc.com/page/NewsDetail/0,,10310~2415181,00.html> ;
+	dbpprop:clubUpdate	"--04-21+02:00"^^xsd:gMonthDay ;
+	dbpprop:nationalcaps	21 ,
+		12 ;
+	dbpprop:nationalgoals	2 ;
+	dbpprop:nationalteam	dbpedia:England_national_football_team ,
+		dbpedia:England_national_under-21_football_team ;
+	dbpprop:nationalyears	1998 ,
+		2003 ;
+	dbpedia-owl:number	20 .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Matthew_Upson .
+<http://dbpedia.org/resource/2006%E2%80%9307_West_Ham_United_F.C._season>	dbpprop:name	dbpedia:Matthew_Upson .
+ns28:ماثيو_أبسون	owl:sameAs	dbpedia:Matthew_Upson .
+ns29:Мэт’ю_Апсан	owl:sameAs	dbpedia:Matthew_Upson .
+ns45:Matthew_James_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+ns30:Matthew_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+ns31:متیو_اوپسون	owl:sameAs	dbpedia:Matthew_Upson .
+ns24:Matthew_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+ns43:מתיו_אפסון	owl:sameAs	dbpedia:Matthew_Upson .
+ns23:Matthew_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+ns27:Matthew_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+ns32:მეთიუ_აპსონი	owl:sameAs	dbpedia:Matthew_Upson .
+ns39:Matthaeus_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+ns22:Matthew_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+ns37:Мэттью_Апсон	owl:sameAs	dbpedia:Matthew_Upson .
+ns25:मॅथ्यू_अप्सन	owl:sameAs	dbpedia:Matthew_Upson .
+ns44:Matthew_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+ns26:Matthew_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+ns33:Matthew_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+<http://ru.dbpedia.org/resource/\u0410\u043F\u0441\u043E\u043D,_\u041C\u044D\u0442\u0442\u044C\u044E>	owl:sameAs	dbpedia:Matthew_Upson .
+ns40:Matthew_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+ns42:Matthew_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+ns46:แมตทิว_อัปสัน	owl:sameAs	dbpedia:Matthew_Upson .
+ns35:Matthew_Upson	owl:sameAs	dbpedia:Matthew_Upson .
+ns41:Метью_Апсон	owl:sameAs	dbpedia:Matthew_Upson .
+ns34:马修·厄普森	owl:sameAs	dbpedia:Matthew_Upson .
+<http://dbpedia.org/resource/2013%E2%80%9314_Brighton_&_Hove_Albion_F.C._season>	dbpprop:p	dbpedia:Matthew_Upson .
+dbpedia:Kevin_Nolan	dbpprop:before	dbpedia:Matthew_Upson .
+<http://dbpedia.org/resource/2012%E2%80%9313_Brighton_&_Hove_Albion_F.C._season>	dbpprop:p	dbpedia:Matthew_Upson .
+<http://dbpedia.org/resource/2000%E2%80%9301_Crystal_Palace_F.C._season>	dbpprop:name	dbpedia:Matthew_Upson .
+<http://dbpedia.org/resource/2008_MLS_All-Star_Game>	dbpprop:name	dbpedia:Matthew_Upson .
+<http://dbpedia.org/resource/2006%E2%80%9307_West_Ham_United_F.C._season__Matthew_Upson__1>	dbpedia-owl:currentMember	dbpedia:Matthew_Upson .
+<http://dbpedia.org/resource/2008_MLS_All-Star_Game__Matthew_Upson__1>	dbpedia-owl:currentMember	dbpedia:Matthew_Upson .
+<http://dbpedia.org/resource/2002%E2%80%9303_Reading_F.C._season__Matthew_Upson__1>	dbpedia-owl:currentMember	dbpedia:Matthew_Upson .
+<http://dbpedia.org/resource/2000%E2%80%9301_Nottingham_Forest_F.C._season__Matthew_Upson__1>	dbpedia-owl:currentMember	dbpedia:Matthew_Upson .
+<http://dbpedia.org/resource/2000%E2%80%9301_Crystal_Palace_F.C._season__Matthew_Upson__1>	dbpedia-owl:currentMember	dbpedia:Matthew_Upson .
+dbpedia:Matt_Upson	dbpedia-owl:wikiPageRedirects	dbpedia:Matthew_Upson .
+<http://dbpedia.org/resource/2009%E2%80%9310_West_Ham_United_F.C._season>	dbpprop:name	dbpedia:Matthew_Upson .
+<http://dbpedia.org/resource/2008%E2%80%9309_West_Ham_United_F.C._season>	dbpprop:text	dbpedia:Matthew_Upson ;
+	dbpprop:p	dbpedia:Matthew_Upson .
+<http://dbpedia.org/resource/2007%E2%80%9308_West_Ham_United_F.C._season>	dbpprop:p	dbpedia:Matthew_Upson .
+dbpedia:Upson	dbpedia-owl:wikiPageDisambiguates	dbpedia:Matthew_Upson .

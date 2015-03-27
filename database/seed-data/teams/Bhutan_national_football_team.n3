@@ -1,0 +1,446 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_du_Bhoutan_de_football	owl:sameAs	dbpedia:Bhutan_national_football_team .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Bhutanische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Bhutan_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q244431	owl:sameAs	dbpedia:Bhutan_national_football_team .
+@prefix ns5:	<http://cs.dbpedia.org/resource/> .
+ns5:Bhútánská_fotbalová_reprezentace	owl:sameAs	dbpedia:Bhutan_national_football_team .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Selección_de_fútbol_de_Bután	owl:sameAs	dbpedia:Bhutan_national_football_team .
+@prefix ns7:	<http://id.dbpedia.org/resource/> .
+ns7:Tim_nasional_sepak_bola_Bhutan	owl:sameAs	dbpedia:Bhutan_national_football_team .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Nazionale_di_calcio_del_Bhutan	owl:sameAs	dbpedia:Bhutan_national_football_team .
+@prefix ns9:	<http://ja.dbpedia.org/resource/> .
+ns9:サッカーブータン代表	owl:sameAs	dbpedia:Bhutan_national_football_team .
+@prefix ns10:	<http://ko.dbpedia.org/resource/> .
+ns10:부탄_축구_국가대표팀	owl:sameAs	dbpedia:Bhutan_national_football_team .
+@prefix ns11:	<http://nl.dbpedia.org/resource/> .
+ns11:Bhutaans_voetbalelftal	owl:sameAs	dbpedia:Bhutan_national_football_team .
+@prefix ns12:	<http://pl.dbpedia.org/resource/> .
+ns12:Reprezentacja_Bhutanu_w_piłce_nożnej	owl:sameAs	dbpedia:Bhutan_national_football_team .
+@prefix ns13:	<http://pt.dbpedia.org/resource/> .
+ns13:Seleção_Butanesa_de_Futebol	owl:sameAs	dbpedia:Bhutan_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns15:	<http://en.wikipedia.org/wiki/> .
+ns15:Bhutan_national_football_team	foaf:primaryTopic	dbpedia:Bhutan_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Bhutan_national_football_team	rdf:type	dbpedia-owl:Organisation .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Bhutan_national_football_team	rdf:type	yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ,
+		yago:YagoLegalActorGeo ,
+		yago:YagoLegalActor ,
+		dbpedia-owl:Agent .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Bhutan_national_football_team	rdf:type	dul:SocialPerson .
+@prefix ns20:	<http://schema.org/> .
+dbpedia:Bhutan_national_football_team	rdf:type	ns20:SportsTeam ,
+		dul:Agent ,
+		yago:YagoPermanentlyLocatedEntity ,
+		owl:Thing ,
+		ns20:Organization ,
+		yago:AsianNationalAssociationFootballTeams ,
+		yago:NationalSportsTeamsOfBhutan ,
+		yago:FootballTeam108080025 .
+@prefix ns21:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns21:تیم_ملی_فوتبال_بوتان .
+@prefix ns22:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns22:Butano_vyrų_futbolo_rinktinė ,
+		dbpedia:Bhutan_national_football_team .
+@prefix ns23:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns23:منتخب_بوتان_لكرة_القدم .
+@prefix ns24:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns24:Bhutan_national_football_team .
+@prefix ns25:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns25:Bhutan_national_football_team .
+@prefix ns26:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns26:Echipa_națională_de_fotbal_a_Bhutanului ,
+		ns8:Nazionale_di_calcio_del_Bhutan ,
+		ns13:Seleção_Butanesa_de_Futebol .
+@prefix ns27:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns27:Đội_tuyển_bóng_đá_quốc_gia_Bhutan .
+@prefix ns28:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns28:Bhutan_Millî_Futbol_Takımı .
+@prefix ns29:	<http://wikidata.org/entity/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns29:Q244431 ,
+		ns12:Reprezentacja_Bhutanu_w_piłce_nożnej .
+@prefix ns30:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns30:Bhutáni_labdarúgó-válogatott .
+@prefix ns31:	<http://th.dbpedia.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns31:ฟุตบอลทีมชาติภูฏาน ,
+		ns3:Bhutanische_Fußballnationalmannschaft ,
+		ns5:Bhútánská_fotbalová_reprezentace .
+@prefix ns32:	<http://ms.dbpedia.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns32:Pasukan_bola_sepak_kebangsaan_Bhutan ,
+		ns1:Équipe_du_Bhoutan_de_football .
+@prefix ns33:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns33:Bhutans_herrlandslag_i_fotboll ,
+		ns9:サッカーブータン代表 .
+@prefix ns34:	<http://zh_yue.dbpedia.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns34:不丹足球代表隊 .
+@prefix ns35:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns35:Bhutanin_jalkapallomaajoukkue .
+@prefix ns36:	<http://he.dbpedia.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns36:נבחרת_בהוטן_בכדורגל .
+@prefix ns37:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns37:भूतान_फुटबॉल_संघ .
+@prefix ns38:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns38:不丹國家足球隊 .
+@prefix ns39:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns39:Сборная_Бутана_по_футболу .
+@prefix ns40:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns40:Збірна_Бутану_з_футболу ,
+		ns10:부탄_축구_국가대표팀 ,
+		ns7:Tim_nasional_sepak_bola_Bhutan ,
+		ns4:Q244431 .
+@prefix ns41:	<http://lv.dbpedia.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns41:Butānas_futbola_izlase ,
+		ns6:Selección_de_fútbol_de_Bután .
+@prefix ns42:	<http://yago-knowledge.org/resource/> .
+dbpedia:Bhutan_national_football_team	owl:sameAs	ns42:Bhutan_national_football_team ,
+		ns11:Bhutaans_voetbalelftal ,
+		<http://rdf.freebase.com/ns/m.049bz3> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Bhutan_national_football_team	rdfs:label	"Selecci\u00F3n de f\u00FAtbol de But\u00E1n"@es ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0628\u0648\u062A\u0627\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0443\u0442\u0430\u043D\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"Bhutanische Fu\u00DFballnationalmannschaft"@de ,
+		"\u00C9quipe du Bhoutan de football"@fr ,
+		"Bhutan national football team" ,
+		"Bhutaans voetbalelftal"@nl ,
+		"Sele\u00E7\u00E3o Butanesa de Futebol"@pt ,
+		"Reprezentacja Bhutanu w pi\u0142ce no\u017Cnej"@pl ,
+		"Nazionale di calcio del Bhutan"@it ,
+		"\u4E0D\u4E39\u570B\u5BB6\u8DB3\u7403\u968A"@zh ,
+		"\u30B5\u30C3\u30AB\u30FC\u30D6\u30FC\u30BF\u30F3\u4EE3\u8868"@ja .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Bhutan_national_football_team	dcterms:subject	category:Bhutan_national_football_team ,
+		category:National_sports_teams_of_Bhutan ,
+		category:Asian_national_association_football_teams ;
+	foaf:homepage	<https://www.facebook.com/BhutanNationalFootballTeam?fref=ts/> ;
+	foaf:name	"Bhutan" ;
+	foaf:nick	"Bhutan Eleven" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Bhutan_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Bhutan_national_football_team?oldid=604136164> ;
+	rdfs:comment	"La Selecci\u00F3n de f\u00FAtbol de But\u00E1n es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Federaci\u00F3n de F\u00FAtbol de But\u00E1n, perteneciente a la AFC."@es ,
+		"Die Bhutanische Fu\u00DFballnationalmannschaft ist die Nationalmannschaft des s\u00FCdasiatischen K\u00F6nigreiches Bhutan. Sie wurde 1983 gebildet; erst im Jahr 2000 trat der nationale Fu\u00DFballverband Bhutans der FIFA bei.Bhutan z\u00E4hlt zu den erfolglosesten Mannschaften des Kontinentalverbandes AFC. Es ist ihr bisher noch nicht gelungen, sich f\u00FCr eine Fu\u00DFball-Weltmeisterschaft oder f\u00FCr die Asienmeisterschaften zu qualifizieren."@de ,
+		"Het Bhutaans voetbalelftal is een team van voetballers die Bhutan vertegenwoordigt bij internationale wedstrijden zoals de kwalificatiewedstrijden voor het Wereldkampioenschap voetbal en de Asian Cup.Het voetbalelftal van Bhutan speelde in 2002 samen met het voetbalelftal van Montserrat de hoofdrol in de film: \"The Other Final\", een film over de, ten tijde van opname, twee laagst gekwalificeerde teams van de FIFA-wereldranglijst."@nl ,
+		"L'\u00E9quipe du Bhoutan de football est une s\u00E9lection des meilleurs joueurs bhoutanais sous l'\u00E9gide de la F\u00E9d\u00E9ration du Bhoutan de football. Son stade pour les rencontres officielles est le Stade Changlimithang situ\u00E9 \u00E0 Thimphu."@fr ,
+		"Reprezentacja Bhutanu w pi\u0142ce no\u017Cnej powsta\u0142a w 1982 i jest regulowana przez Bhutan Football Federation. W 2000 wst\u0105pi\u0142a do FIFA pierwszy mecz wygra\u0142a w dzie\u0144 fina\u0142u Mistrzostw \u015Awiata w Korei i Japonii w 2002, graj\u0105c z bardzo s\u0142ab\u0105 dru\u017Cyn\u0105 \u2013 reprezentacj\u0105 Montserratu, ma\u0142ej wyspy nale\u017C\u0105cej do Wielkiej Brytanii, i wygrywaj\u0105c z ni\u0105 4:0. Drugi mecz wygra\u0142a 6:0 z r\u00F3wnie s\u0142ab\u0105 reprezentacj\u0105 Guamu."@pl ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0628\u0648\u062A\u0627\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0647\u0648 \u0645\u0646 \u0627\u0644\u0645\u0646\u062A\u062E\u0628\u0627\u062A \u0627\u0644\u0646\u0627\u062C\u062D\u0629 \u0641\u064A \u0627\u0644\u0645\u0646\u0637\u0642\u0629\u060C \u0645\u0645\u0627 \u064A\u062C\u0639\u0644 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0646 \u0627\u0644\u0631\u064A\u0627\u0636\u0627\u062A \u0627\u0644\u0634\u0639\u0628\u064A\u0629 \u0641\u064A \u0628\u0648\u062A\u0627\u0646. \u062F\u062E\u0644 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0641\u064A\u0641\u0627 \u0639\u0627\u0645 2000\u060C \u0648\u0642\u062F \u0643\u0627\u0646 \u0647\u0646\u0627\u0643 \u0645\u0646\u062A\u062E\u0628 \u0628\u0648\u062A\u0627\u0646\u064A \u0645\u0646\u0630 \u0627\u0644\u0633\u0628\u0639\u064A\u0646\u064A\u0627\u062A \u0648\u0642\u062F \u062A\u0623\u0633\u0633 \u0633\u0646\u0629 1983. \u0641\u064A 30 \u064A\u0648\u0646\u064A\u0648 2002 \u0644\u0639\u0628 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0636\u062F \u0645\u0648\u0646\u062A\u0633\u0631\u0627\u062A (\u0641\u064A \u0646\u0641\u0633 \u064A\u0648\u0645 \u0627\u0644\u0646\u0647\u0627\u0626\u064A \u0644\u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 2002) \u0648\u062A\u063A\u0644\u0628 \u0639\u0644\u064A\u0647 4-0 \u0641\u064A \u0645\u0644\u0639\u0628 \u062A\u0634\u0627\u0646\u063A\u0644\u064A\u0645\u062B\u0627\u0646\u063A \u0641\u064A \u062A\u064A\u0645\u0641\u0648 \u0639\u0627\u0635\u0645\u0629 \u0628\u0648\u062A\u0627\u0646 \u0628\u062D\u064A\u062B \u0643\u0627\u0646\u062A \u0647\u0630\u0647 \u0627\u0644\u0644\u0639\u0628\u0629\u060C \u0648\u0627\u0644\u062A\u064A \u0633\u0645\u064A\u062A \u0628\u0640\"\u0630\u0627 \u0623\u0630\u0631 \u0641\u0627\u064A\u0646\u0627\u0644\" (The Other Final)\u060C \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0628\u0648\u062A\u0627\u0646 \u0648\u0623\u064A\u0636\u0627 \u0635\u0646\u0639 \u0644\u0647\u0627 \u0641\u064A\u0644\u0645 \u0628\u0627\u0633\u0645 \"\u0630\u0627 \u0623\u0630\u0631 \u0641\u0627\u064A\u0646\u0627\u0644\" (The Other Final)."@ar ,
+		"\u4E0D\u4E39\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u4E0D\u4E39\u5B98\u65B9\u7684\u7537\u5B50\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u4E0D\u4E39\u8DB3\u7403\u5354\u6703\u8CA0\u8CAC\u7BA1\u8F44\uFF0C\u6210\u7ACB\u65BC1983\u5E74\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u4E9E\u6D32\u8DB3\u5354\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u7531\u65BC\u4E0D\u4E39\u5C0D\u8DB3\u7403\u904B\u52D5\u751A\u4E0D\u71B1\u5FC3\uFF0C\u5F88\u5C11\u53C3\u52A0\u570B\u969B\u8CFD\u4E8B\uFF0C\u81F3\u4ECA\u5F9E\u672A\u53C3\u52A0\u904E\u4E16\u754C\u76C3\u5916\u570D\u8CFD\u3002\u81EA1982\u5E74\u6210\u7ACB\u81F3\u4ECA\uFF0C\u4E0D\u4E39\u53EA\u662F\u52DD\u51FA\u904E\u5169\u5834\u570B\u5BB6\u6BD4\u8CFD\uFF0C\u662F\u4E16\u754C\u4E0A\u5BE6\u529B\u6700\u5F31\u7684\u570B\u5BB6\u8DB3\u7403\u968A\u4E4B\u4E00\u30022002\u5E746\u670830\u65E5\uFF0C2002\u5E74\u4E16\u754C\u76C3\u8DB3\u7403\u8CFD\u6C7A\u8CFD\u7576\u65E5\uFF0C\u7576\u6642\u5169\u652F\u570B\u969B\u8DB3\u5354\u4E16\u754C\u6392\u540D\u6700\u4F4E\u7684\u570B\u5BB6\u2014\u4E0D\u4E39\u548C\u8499\u7279\u585E\u62C9\u7279\u9032\u884C\u904E\u4E00\u5834\u53CB\u8ABC\u8CFD\uFF0C\u5176\u5BE6\u8A72\u5834\u7403\u8CFD\u6E90\u65BC\u4E00\u4F4D\u8377\u862D\u5C0E\u6F14\uFF0C\u4ED6\u4E26\u628A\u9019\u5834\u7403\u8CFD\u7684\u904E\u7A0B\u62CD\u651D\u6210\u4E00\u90E8\u7D00\u9304\u7247\uFF0C\u53EB\u505A\u300A\u53E6\u4E00\u500B\u6C7A\u8CFD\u300B(The Other Final) \u3002\u6700\u7D42\u4E0D\u4E39\u5728\u4E3B\u5834\u4EE54\u6BD40\u64CA\u6557\u5C0D\u624B\u3002"@zh ,
+		"La nazionale di calcio del Bhutan \u00E8 la squadra nazionale dell'omonima nazione ed \u00E8 controllata dalla Bhutan Football Federation. Il team nazionale venne fondato nel 1983, ma solo dal 2000 risulta affiliato alla FIFA."@it ,
+		"A Sele\u00E7\u00E3o Butanesa de Futebol representa o But\u00E3o nas competi\u00E7\u00F5es de futebol da FIFA. Foi oficialmente fundada em 1983, filiando-se \u00E0 FIFA em 2000, sendo um dos mais novos membros da entidade. Disputa partidas como mandante no Changlimithang Stadium, com capacidade m\u00E1xima para 15.000 pessoas."@pt ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0443\u0442\u0430\u043D\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0411\u0443\u0442\u0430\u043D\u0430. \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0443\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0435\u0439 \u0411\u0443\u0442\u0430\u043D\u0430. \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0443\u0442\u0430\u043D\u0430 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u043E\u0439 \u0438\u0437 \u0441\u043B\u0430\u0431\u0435\u0439\u0448\u0438\u0445 \u043A\u043E\u043C\u0430\u043D\u0434 \u0432 \u043C\u0438\u0440\u0435 \u0438 \u043D\u0438\u043A\u043E\u0433\u0434\u0430 \u043D\u0435 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B\u0430 \u0443\u0447\u0430\u0441\u0442\u0438\u044F \u0432 \u0444\u0438\u043D\u0430\u043B\u044C\u043D\u044B\u0445 \u0441\u0442\u0430\u0434\u0438\u044F\u0445 \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u041C\u0438\u0440\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u0438 \u041A\u0443\u0431\u043A\u0430 \u0410\u0437\u0438\u0438. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0431\u044B\u043B\u0430 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 1983 \u0433\u043E\u0434\u0443, \u043F\u0440\u0438\u0441\u043E\u0435\u0434\u0438\u043D\u0438\u043B\u0430\u0441\u044C \u043A \u0424\u0418\u0424\u0410 \u0432 2000 \u0433\u043E\u0434\u0443."@ru ,
+		"The Bhutan national football team is the national team of Bhutan and is controlled by the Bhutan Football Federation." ,
+		"\u30B5\u30C3\u30AB\u30FC\u30D6\u30FC\u30BF\u30F3\u4EE3\u8868\u306F\u3001\u30D6\u30FC\u30BF\u30F3\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08BFF\uFF09\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u30022002\u5E746\u670830\u65E5\u3001\u5F53\u6642FIFA\u30E9\u30F3\u30AD\u30F3\u30B0202\u4F4D\u3060\u3063\u305F\u30D6\u30FC\u30BF\u30F3\u4EE3\u8868\u306F203\u4F4D\u3060\u3063\u305F\u30E2\u30F3\u30C8\u30BB\u30E9\u30C8\u4EE3\u8868\u3068\u6700\u4E0B\u4F4D\u6C7A\u5B9A\u6226\u300C\u30A2\u30B6\u30FC\u30FB\u30D5\u30A1\u30A4\u30CA\u30EB\u300D\u3092\u884C\u3044\u52DD\u5229\u3057\u305F\u3002"@ja .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Bhutan_national_football_team	dbpprop:mostCaps	dbpedia:Wangay_Dorji ;
+	foaf:isPrimaryTopicOf	ns15:Bhutan_national_football_team ;
+	dbpprop:club	dbpedia:Transport_United ,
+		<http://dbpedia.org/resource/Quartz_S.C.> ,
+		<http://dbpedia.org/resource/Thimphu_City_F.C.> ,
+		<http://dbpedia.org/resource/Yeedzin_F.C.> ,
+		<http://dbpedia.org/resource/Druk_Star_F.C.> ,
+		dbpedia:Super_Sun_SC ,
+		"Buddhist Blue Stars" ,
+		dbpedia:New_Road_Team ,
+		<http://dbpedia.org/resource/Luangmual_F.C.> ,
+		<http://dbpedia.org/resource/Druk_Pol_F.C.> ;
+	dbpprop:captain	dbpedia:Passang_Tshering .
+@prefix ns48:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Bhutan_national_football_team	dbpprop:hasPhotoCollection	ns48:Bhutan_national_football_team ;
+	dbpprop:name	dbpedia:Yeshey_Dorji ,
+		dbpedia:Pema_Chophel ,
+		<http://dbpedia.org/resource/Chencho_(footballer)> ,
+		dbpedia:Karun_Gurung ,
+		dbpedia:Jigme_Tenzin ,
+		dbpedia:Chimi_Dorji ,
+		dbpedia:Nawang_Dhendup ,
+		dbpedia:Sonam_Tenzin ,
+		dbpedia:Jigme_Tshultrim ,
+		dbpedia:Kharma_Shedrup_Tshering ,
+		dbpedia:Nima_Sangay ,
+		<http://dbpedia.org/resource/Kinley_Dorji_(footballer)> ,
+		dbpedia:Leki_Dukpa ,
+		"Bhutan" ,
+		dbpedia:Wangay_Dorji ,
+		dbpedia:Pema_Rinchen ,
+		dbpedia:Hemlal_Batarai ,
+		dbpedia:Kinley_Wangchuk ,
+		dbpedia:Pema_Dorji ,
+		"Chencho Gyeltshen" ,
+		dbpedia:Yeshey_Gyeltshen ,
+		dbpedia:Dawa_Gyeltshen ,
+		dbpedia:Sangay_Khandu ,
+		dbpedia:Passang_Tshering ;
+	dbpedia-owl:abstract	"A Sele\u00E7\u00E3o Butanesa de Futebol representa o But\u00E3o nas competi\u00E7\u00F5es de futebol da FIFA. Foi oficialmente fundada em 1983, filiando-se \u00E0 FIFA em 2000, sendo um dos mais novos membros da entidade. Disputa partidas como mandante no Changlimithang Stadium, com capacidade m\u00E1xima para 15.000 pessoas. Ainda sem tradi\u00E7\u00E3o no futebol, nunca participou de uma Copa do Mundo.Na mesma data da final da Copa de 2002 entre Alemanha e Brasil, foi disputada uma partida entre as duas \u00FAltimas sele\u00E7\u00F5es do ranking da FIFA da \u00E9poca: But\u00E3o (que, na \u00E9poca, ocupava o 202\u00BA lugar do ranking) e Montserrat (na \u00E9poca, o 203\u00BA colocado) disputaram o t\u00EDtulo de pior sele\u00E7\u00E3o do mundo, num jogo conhecido como a \"outra final\". O amistoso, organizado por uma empresa holandesa chamada KesselKramer, foi filmado e transformado em um document\u00E1rio, dirigido por Johan Kramer. Realizado no But\u00E3o, o jogo terminou 4 a 0 para a sele\u00E7\u00E3o butanesa.Retiraram-se da disputa das eliminat\u00F3rias asi\u00E1ticas para a Copa de 2010, pois o seu est\u00E1dio n\u00E3o atendia aos padr\u00F5es da FIFA para a disputa de uma partida eliminat\u00F3ria e as reformas n\u00E3o ficariam prontas em tempo para o jogo contra o Kuwait."@pt ,
+		"\u30B5\u30C3\u30AB\u30FC\u30D6\u30FC\u30BF\u30F3\u4EE3\u8868\u306F\u3001\u30D6\u30FC\u30BF\u30F3\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08BFF\uFF09\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u30022002\u5E746\u670830\u65E5\u3001\u5F53\u6642FIFA\u30E9\u30F3\u30AD\u30F3\u30B0202\u4F4D\u3060\u3063\u305F\u30D6\u30FC\u30BF\u30F3\u4EE3\u8868\u306F203\u4F4D\u3060\u3063\u305F\u30E2\u30F3\u30C8\u30BB\u30E9\u30C8\u4EE3\u8868\u3068\u6700\u4E0B\u4F4D\u6C7A\u5B9A\u6226\u300C\u30A2\u30B6\u30FC\u30FB\u30D5\u30A1\u30A4\u30CA\u30EB\u300D\u3092\u884C\u3044\u52DD\u5229\u3057\u305F\u3002"@ja ,
+		"L'\u00E9quipe du Bhoutan de football est une s\u00E9lection des meilleurs joueurs bhoutanais sous l'\u00E9gide de la F\u00E9d\u00E9ration du Bhoutan de football. Son stade pour les rencontres officielles est le Stade Changlimithang situ\u00E9 \u00E0 Thimphu."@fr ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0628\u0648\u062A\u0627\u0646 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0647\u0648 \u0645\u0646 \u0627\u0644\u0645\u0646\u062A\u062E\u0628\u0627\u062A \u0627\u0644\u0646\u0627\u062C\u062D\u0629 \u0641\u064A \u0627\u0644\u0645\u0646\u0637\u0642\u0629\u060C \u0645\u0645\u0627 \u064A\u062C\u0639\u0644 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0646 \u0627\u0644\u0631\u064A\u0627\u0636\u0627\u062A \u0627\u0644\u0634\u0639\u0628\u064A\u0629 \u0641\u064A \u0628\u0648\u062A\u0627\u0646. \u062F\u062E\u0644 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0641\u064A\u0641\u0627 \u0639\u0627\u0645 2000\u060C \u0648\u0642\u062F \u0643\u0627\u0646 \u0647\u0646\u0627\u0643 \u0645\u0646\u062A\u062E\u0628 \u0628\u0648\u062A\u0627\u0646\u064A \u0645\u0646\u0630 \u0627\u0644\u0633\u0628\u0639\u064A\u0646\u064A\u0627\u062A \u0648\u0642\u062F \u062A\u0623\u0633\u0633 \u0633\u0646\u0629 1983. \u0641\u064A 30 \u064A\u0648\u0646\u064A\u0648 2002 \u0644\u0639\u0628 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0636\u062F \u0645\u0648\u0646\u062A\u0633\u0631\u0627\u062A (\u0641\u064A \u0646\u0641\u0633 \u064A\u0648\u0645 \u0627\u0644\u0646\u0647\u0627\u0626\u064A \u0644\u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 2002) \u0648\u062A\u063A\u0644\u0628 \u0639\u0644\u064A\u0647 4-0 \u0641\u064A \u0645\u0644\u0639\u0628 \u062A\u0634\u0627\u0646\u063A\u0644\u064A\u0645\u062B\u0627\u0646\u063A \u0641\u064A \u062A\u064A\u0645\u0641\u0648 \u0639\u0627\u0635\u0645\u0629 \u0628\u0648\u062A\u0627\u0646 \u0628\u062D\u064A\u062B \u0643\u0627\u0646\u062A \u0647\u0630\u0647 \u0627\u0644\u0644\u0639\u0628\u0629\u060C \u0648\u0627\u0644\u062A\u064A \u0633\u0645\u064A\u062A \u0628\u0640\"\u0630\u0627 \u0623\u0630\u0631 \u0641\u0627\u064A\u0646\u0627\u0644\" (The Other Final)\u060C \u0623\u0648\u0644 \u0641\u0648\u0632 \u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0628\u0648\u062A\u0627\u0646 \u0648\u0623\u064A\u0636\u0627 \u0635\u0646\u0639 \u0644\u0647\u0627 \u0641\u064A\u0644\u0645 \u0628\u0627\u0633\u0645 \"\u0630\u0627 \u0623\u0630\u0631 \u0641\u0627\u064A\u0646\u0627\u0644\" (The Other Final). \u0644\u0642\u062F \u0634\u0647\u062F \u0627\u0644\u0641\u0631\u064A\u0642 \u0646\u062C\u0627\u062D\u0627 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0643\u0623\u0633 \u0627\u0644\u0630\u0647\u0628\u064A\u0629 \u0644\u062F\u0648\u0644 \u062C\u0646\u0648\u0628 \u0622\u0633\u064A\u0627 SAFF 2008 \u0628\u062D\u064A\u062B \u062E\u0633\u0631\u0648\u0627 \u0641\u064A \u0646\u0635\u0641 \u0627\u0644\u0646\u0647\u0627\u0626\u064A \u0623\u0645\u0627\u0645 \u0627\u0644\u0647\u0646\u062F 2-1."@ar ,
+		"Reprezentacja Bhutanu w pi\u0142ce no\u017Cnej powsta\u0142a w 1982 i jest regulowana przez Bhutan Football Federation. W 2000 wst\u0105pi\u0142a do FIFA pierwszy mecz wygra\u0142a w dzie\u0144 fina\u0142u Mistrzostw \u015Awiata w Korei i Japonii w 2002, graj\u0105c z bardzo s\u0142ab\u0105 dru\u017Cyn\u0105 \u2013 reprezentacj\u0105 Montserratu, ma\u0142ej wyspy nale\u017C\u0105cej do Wielkiej Brytanii, i wygrywaj\u0105c z ni\u0105 4:0. Drugi mecz wygra\u0142a 6:0 z r\u00F3wnie s\u0142ab\u0105 reprezentacj\u0105 Guamu. Bhutan plasuje si\u0119 na 202 miejscu w rankingu FIFA, stan na 18 stycznia 2012 roku jest jedn\u0105 z najs\u0142abszych dru\u017Cyn pi\u0142karskich \u015Bwiata. Przydomkiem dru\u017Cyny jest okre\u015Blenie \u017C\u00F3\u0142te smoki, smok Druk to tak\u017Ce jej maskotka (i symbol narodowy Bhutanu). Funkcj\u0119 trenera reprezentacji pe\u0142ni pochodz\u0105cy z Bhutanu Khare Basnet.Wed\u0142ug danych z 14 listopada 2012 roku reprezentacja ta rozegra\u0142a 45 mecz\u00F3w z czego wygra\u0142a tylko cztery i tyle samo zremisowa\u0142a."@pl ,
+		"La nazionale di calcio del Bhutan \u00E8 la squadra nazionale dell'omonima nazione ed \u00E8 controllata dalla Bhutan Football Federation. Il team nazionale venne fondato nel 1983, ma solo dal 2000 risulta affiliato alla FIFA. Il 30 giugno 2002, giorno della finale dei campionati del mondo di calcio Brasile - Germania, Bhutan (penultima del ranking FIFA) e Montserrat (ultima nel ranking) diedero vita ad una curiosa sfida, denominata The Other Final (L'Altra Finale) per stabilire la squadra nazionale pi\u00F9 debole del pianeta. L'incontro, giocato a Thimphu, nello stadio Changlimithang, fin\u00EC 4-0 per il Bhutan. La nazionale giallorossa vanta come miglior vittoria un 6-0 contro Guam (2003), mentre la peggior sconfitta \u00E8 un 20-0 subito dal Kuwait (2000).Attualmente occupa la 207\u00AA e ultima posizione nel Ranking FIFA insieme a San Marino e alle isole Turks e Caicos."@it ,
+		"Het Bhutaans voetbalelftal is een team van voetballers die Bhutan vertegenwoordigt bij internationale wedstrijden zoals de kwalificatiewedstrijden voor het Wereldkampioenschap voetbal en de Asian Cup.Het voetbalelftal van Bhutan speelde in 2002 samen met het voetbalelftal van Montserrat de hoofdrol in de film: \"The Other Final\", een film over de, ten tijde van opname, twee laagst gekwalificeerde teams van de FIFA-wereldranglijst."@nl ,
+		"\u4E0D\u4E39\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u4E0D\u4E39\u5B98\u65B9\u7684\u7537\u5B50\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u4E0D\u4E39\u8DB3\u7403\u5354\u6703\u8CA0\u8CAC\u7BA1\u8F44\uFF0C\u6210\u7ACB\u65BC1983\u5E74\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u4E9E\u6D32\u8DB3\u5354\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u7531\u65BC\u4E0D\u4E39\u5C0D\u8DB3\u7403\u904B\u52D5\u751A\u4E0D\u71B1\u5FC3\uFF0C\u5F88\u5C11\u53C3\u52A0\u570B\u969B\u8CFD\u4E8B\uFF0C\u81F3\u4ECA\u5F9E\u672A\u53C3\u52A0\u904E\u4E16\u754C\u76C3\u5916\u570D\u8CFD\u3002\u81EA1982\u5E74\u6210\u7ACB\u81F3\u4ECA\uFF0C\u4E0D\u4E39\u53EA\u662F\u52DD\u51FA\u904E\u5169\u5834\u570B\u5BB6\u6BD4\u8CFD\uFF0C\u662F\u4E16\u754C\u4E0A\u5BE6\u529B\u6700\u5F31\u7684\u570B\u5BB6\u8DB3\u7403\u968A\u4E4B\u4E00\u30022002\u5E746\u670830\u65E5\uFF0C2002\u5E74\u4E16\u754C\u76C3\u8DB3\u7403\u8CFD\u6C7A\u8CFD\u7576\u65E5\uFF0C\u7576\u6642\u5169\u652F\u570B\u969B\u8DB3\u5354\u4E16\u754C\u6392\u540D\u6700\u4F4E\u7684\u570B\u5BB6\u2014\u4E0D\u4E39\u548C\u8499\u7279\u585E\u62C9\u7279\u9032\u884C\u904E\u4E00\u5834\u53CB\u8ABC\u8CFD\uFF0C\u5176\u5BE6\u8A72\u5834\u7403\u8CFD\u6E90\u65BC\u4E00\u4F4D\u8377\u862D\u5C0E\u6F14\uFF0C\u4ED6\u4E26\u628A\u9019\u5834\u7403\u8CFD\u7684\u904E\u7A0B\u62CD\u651D\u6210\u4E00\u90E8\u7D00\u9304\u7247\uFF0C\u53EB\u505A\u300A\u53E6\u4E00\u500B\u6C7A\u8CFD\u300B(The Other Final) \u3002\u6700\u7D42\u4E0D\u4E39\u5728\u4E3B\u5834\u4EE54\u6BD40\u64CA\u6557\u5C0D\u624B\u3002"@zh ,
+		"The Bhutan national football team is the national team of Bhutan and is controlled by the Bhutan Football Federation." ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0443\u0442\u0430\u043D\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0411\u0443\u0442\u0430\u043D\u0430. \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0443\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0435\u0439 \u0411\u0443\u0442\u0430\u043D\u0430. \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0443\u0442\u0430\u043D\u0430 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u043E\u0439 \u0438\u0437 \u0441\u043B\u0430\u0431\u0435\u0439\u0448\u0438\u0445 \u043A\u043E\u043C\u0430\u043D\u0434 \u0432 \u043C\u0438\u0440\u0435 \u0438 \u043D\u0438\u043A\u043E\u0433\u0434\u0430 \u043D\u0435 \u043F\u0440\u0438\u043D\u0438\u043C\u0430\u043B\u0430 \u0443\u0447\u0430\u0441\u0442\u0438\u044F \u0432 \u0444\u0438\u043D\u0430\u043B\u044C\u043D\u044B\u0445 \u0441\u0442\u0430\u0434\u0438\u044F\u0445 \u0427\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u043E\u0432 \u041C\u0438\u0440\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u0438 \u041A\u0443\u0431\u043A\u0430 \u0410\u0437\u0438\u0438. \u041A\u043E\u043C\u0430\u043D\u0434\u0430 \u0431\u044B\u043B\u0430 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 1983 \u0433\u043E\u0434\u0443, \u043F\u0440\u0438\u0441\u043E\u0435\u0434\u0438\u043D\u0438\u043B\u0430\u0441\u044C \u043A \u0424\u0418\u0424\u0410 \u0432 2000 \u0433\u043E\u0434\u0443. \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0443\u0442\u0430\u043D\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u0443\u0447\u0430\u0441\u0442\u0432\u043E\u0432\u0430\u043B\u0430 \u0432 \u043A\u0443\u0431\u043A\u0435 \u0432\u044B\u0437\u043E\u0432\u0430 \u0410\u0424\u041A \u0432 2006 \u0438 2008 \u0433\u043E\u0434\u0430\u0445, \u0432 \u043A\u0443\u0431\u043A\u0435 SAFF \u0432 2008, \u0430 \u0442\u0430\u043A\u0436\u0435 \u0432\u043E \u043C\u043D\u043E\u0433\u0438\u0445 \u0442\u0443\u0440\u043D\u0438\u0440\u0430\u0445 \u0441 1984 \u0433\u043E\u0434\u0430, \u043D\u043E \u0443\u0441\u043F\u0435\u0445\u043E\u0432 \u043D\u0435 \u0434\u043E\u0431\u0438\u0432\u0430\u043B\u0430\u0441\u044C."@ru ,
+		"Die Bhutanische Fu\u00DFballnationalmannschaft ist die Nationalmannschaft des s\u00FCdasiatischen K\u00F6nigreiches Bhutan. Sie wurde 1983 gebildet; erst im Jahr 2000 trat der nationale Fu\u00DFballverband Bhutans der FIFA bei.Bhutan z\u00E4hlt zu den erfolglosesten Mannschaften des Kontinentalverbandes AFC. Es ist ihr bisher noch nicht gelungen, sich f\u00FCr eine Fu\u00DFball-Weltmeisterschaft oder f\u00FCr die Asienmeisterschaften zu qualifizieren. In ihrer Geschichte konnte sie erst drei Spiele als Sieger verlassen.Ein interessantes Portr\u00E4t des Fu\u00DFballs in Bhutan bietet der Dokumentarfilm The Other Final, der \u00FCber das im Jahre 2002 parallel zum WM-Finale stattfindende L\u00E4nderspiel gegen den damaligen Letzten der FIFA-Weltrangliste Montserrat berichtet. Bhutan gewann das Spiel in Thimphu mit 4:0. Derzeit steht Bhutan mit 0 Punkten auf dem letzten Platz der FIFA-Weltrangliste (per 15. Juli 2012).Im Jahr 2007 \u00FCbernahm der \u00F6sterreichische Trainer Helmut Kronj\u00E4ger die Nationalmannschaft. Er betreute gleichzeitig die U-16-Nationalmannschaft. Seine prim\u00E4re Aufgabe bestand darin, die Strukturen im Land zu verbessern. So wurde unter ihm eine eigene Meisterschaft eingef\u00FChrt. Das Ziel Kronj\u00E4gers war es, die Nationalmannschaft so weit zu verbessern, dass sie an der Qualifikation zum Asien-Cup im Jahr 2011 teilnehmen konnte. Allerdings fehlten daf\u00FCr noch die finanziellen Mittel. Bhutan verf\u00FCgt aufgrund seiner gebirgigen Lage \u00FCber keinen Fu\u00DFballplatz nach europ\u00E4ischem Standard. Lediglich f\u00FCnf Pl\u00E4tze sind bespielbar. Ein Stadion ist in Planung."@de ,
+		"La Selecci\u00F3n de f\u00FAtbol de But\u00E1n es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Federaci\u00F3n de F\u00FAtbol de But\u00E1n, perteneciente a la AFC."@es ;
+	dbpedia-owl:wikiPageID	1135985 ;
+	dbpedia-owl:wikiPageRevisionID	604136164 ;
+	dbpprop:topScorer	dbpedia:Wangay_Dorji ,
+		dbpedia:Passang_Tshering ;
+	dbpprop:clubnat	"Sri Lanka" ,
+		"NEP" ,
+		"BHU" ,
+		"IND" ;
+	dbpprop:goals	5 ,
+		2 ,
+		0 ,
+		1 ;
+	dbpprop:caps	20 ,
+		19 ,
+		12 ,
+		14 ,
+		8 ,
+		10 ,
+		11 ,
+		5 ,
+		6 ,
+		7 ,
+		2 ,
+		3 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Bhutan_national_football_team	dbpprop:age	"1989-01-02+02:00"^^xsd:date ,
+		"1985-09-07+02:00"^^xsd:date ,
+		"1996-10-05+02:00"^^xsd:date ,
+		"1983-02-11+02:00"^^xsd:date ,
+		"1986-03-03+02:00"^^xsd:date ,
+		"1983-07-16+02:00"^^xsd:date ,
+		"1993-02-26+02:00"^^xsd:date ,
+		"1986-02-20+02:00"^^xsd:date ,
+		"1993-11-01+02:00"^^xsd:date ,
+		"1989-12-09+02:00"^^xsd:date ,
+		"1981-08-06+02:00"^^xsd:date ,
+		"1986-06-09+02:00"^^xsd:date ,
+		"1986-08-30+02:00"^^xsd:date ,
+		"1986-04-09+02:00"^^xsd:date ,
+		"1986-06-07+02:00"^^xsd:date ,
+		"1993-12-22+02:00"^^xsd:date ,
+		"1985-07-05+02:00"^^xsd:date ,
+		"1986-10-20+02:00"^^xsd:date ,
+		"1986-04-10+02:00"^^xsd:date ,
+		"1986-12-07+02:00"^^xsd:date ,
+		"1974-01-09+02:00"^^xsd:date ,
+		"1990-07-15+02:00"^^xsd:date ,
+		"1984-01-01+02:00"^^xsd:date ;
+	dbpprop:association	dbpedia:Bhutan_Football_Federation ;
+	dbpprop:badgeSize	200 ;
+	dbpprop:body	"FFFFFF" ,
+		"FED600" ;
+	dbpprop:confederation	"AFC" ;
+	dbpprop:fifaRank	2070 ;
+	dbpprop:fifaTrigramme	"BHU" ;
+	dbpprop:leftarm	"FED600" ,
+		"FFFFFF" .
+@prefix ns50:	<http://dbpedia.org/datatype/> .
+dbpedia:Bhutan_national_football_team	dbpprop:patternB	"36000.0"^^ns50:second ,
+		"_whitesides" ;
+	dbpprop:patternLa	"36000.0"^^ns50:second ,
+		"_whiteshoulders" ;
+	dbpprop:patternRa	"36000.0"^^ns50:second ,
+		"_whiteshoulders" ;
+	dbpprop:rightarm	"FED600" ,
+		"FFFFFF" ;
+	dbpprop:shorts	"FED600" ,
+		"FFFFFF" ;
+	dbpprop:socks	"FED600" ,
+		"FFFFFF" ;
+	dbpprop:no	8 ,
+		9 ,
+		10 ,
+		11 ,
+		12 ,
+		13 ,
+		14 ,
+		15 ,
+		1 ,
+		2 ,
+		3 ,
+		4 ,
+		5 ,
+		6 ,
+		7 ,
+		25 ,
+		27 ,
+		16 ,
+		17 ,
+		18 ,
+		19 ,
+		22 ,
+		23 ;
+	dbpprop:pos	"MF" ,
+		"FW" ,
+		"DF" ,
+		"GK" ;
+	dbpprop:badge	"Bhutan FA.png" ;
+	dbpprop:firstGame	3 ;
+	dbpprop:largestLoss	20 ;
+	dbpprop:largestWin	6 ;
+	dbpprop:eloRank	224 ;
+	dbpprop:fifaMax	187 ;
+	dbpprop:fifaMaxDate	"December 2003, 2004, 2006 and 2008" ;
+	dbpprop:fifaMin	207 ;
+	dbpprop:fifaMinDate	"October, November 2012, July 2013, August 2013, September 2013" ;
+	dbpprop:subConfederation	"SAFF" ;
+	dbpedia-owl:wikiPageExternalLink	<https://www.facebook.com/BhutanNationalFootballTeam?fref=ts/> ;
+	dbpprop:homeStadium	dbpedia:Changlimithang_Stadium ;
+	dbpedia-owl:stadium	dbpedia:Changlimithang_Stadium ;
+	dbpprop:nickname	"Bhutan Eleven" .
+dbpedia:Sonam_Tenzin	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Arie_Schans	dbpedia-owl:managerClub	dbpedia:Bhutan_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Bhutan_national_football_team .
+dbpedia:Hiroaki_Matsuyama	dbpedia-owl:managerClub	dbpedia:Bhutan_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Bhutan_national_football_team .
+dbpedia:Sonam_Tenzing	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:The_Other_Final	dbpprop:team	dbpedia:Bhutan_national_football_team ;
+	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+<http://dbpedia.org/resource/Jigme_Dorji_(footballer)>	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Hemlal_Batarai	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Pema_Chophel	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Chimi_Dorji	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Nawang_Dhendup	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Biran_Basnet	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Kinley_Wangchuk	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Hari_Gurung	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Jamyang_Tenzin	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Tshering_Dendup	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Mon_Bhattrai	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+ns23:منتخب_بوتان_لكرة_القدم	owl:sameAs	dbpedia:Bhutan_national_football_team .
+ns21:تیم_ملی_فوتبال_بوتان	owl:sameAs	dbpedia:Bhutan_national_football_team .
+ns35:Bhutanin_jalkapallomaajoukkue	owl:sameAs	dbpedia:Bhutan_national_football_team .
+ns36:נבחרת_בהוטן_בכדורגל	owl:sameAs	dbpedia:Bhutan_national_football_team .
+ns24:Bhutan_national_football_team	owl:sameAs	dbpedia:Bhutan_national_football_team .
+ns30:Bhutáni_labdarúgó-válogatott	owl:sameAs	dbpedia:Bhutan_national_football_team .
+ns22:Butano_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Bhutan_national_football_team .
+ns41:Butānas_futbola_izlase	owl:sameAs	dbpedia:Bhutan_national_football_team .
+ns37:भूतान_फुटबॉल_संघ	owl:sameAs	dbpedia:Bhutan_national_football_team .
+ns32:Pasukan_bola_sepak_kebangsaan_Bhutan	owl:sameAs	dbpedia:Bhutan_national_football_team .
+ns26:Echipa_națională_de_fotbal_a_Bhutanului	owl:sameAs	dbpedia:Bhutan_national_football_team .
+ns39:Сборная_Бутана_по_футболу	owl:sameAs	dbpedia:Bhutan_national_football_team .
+ns25:Bhutan_national_football_team	owl:sameAs	dbpedia:Bhutan_national_football_team .
+ns33:Bhutans_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Bhutan_national_football_team .
+ns31:ฟุตบอลทีมชาติภูฏาน	owl:sameAs	dbpedia:Bhutan_national_football_team .
+ns28:Bhutan_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Bhutan_national_football_team .
+ns40:Збірна_Бутану_з_футболу	owl:sameAs	dbpedia:Bhutan_national_football_team .
+ns27:Đội_tuyển_bóng_đá_quốc_gia_Bhutan	owl:sameAs	dbpedia:Bhutan_national_football_team .
+ns38:不丹國家足球隊	owl:sameAs	dbpedia:Bhutan_national_football_team .
+ns34:不丹足球代表隊	owl:sameAs	dbpedia:Bhutan_national_football_team .
+dbpedia:Pema_Rinchen	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Koji_Gyotoku	dbpedia-owl:managerClub	dbpedia:Bhutan_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Bhutan_national_football_team .
+dbpedia:Tshering_Dorji__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Passang_Tshering__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Hemlal_Batarai__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Nawang_Dhendup__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Leki_Dukpa__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Wangay_Dorji__5	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Arie_Schans__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Sonam_Tenzin__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Yeshey_Dorji__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Kinley_Wangchuk__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Hari_Gurung__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Karun_Gurung__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Mon_Bhattrai__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Sangay_Khandu__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Jigme_Tenzin__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Tandin_Tshering__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+<http://dbpedia.org/resource/Kinley_Dorji_(footballer)__1>	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Diwash_Subba__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Yeshey_Gyeltshen__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Puspalal_Sharma__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Sonam_Tenzing__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Thinley_Dorji__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Hiroaki_Matsuyama__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Pema_Rinchen__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Kharma_Shedrup_Tshering__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Nima_Sangay__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Pema_Chophel__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Koji_Gyotoku__3	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Jigme_Tshultrim__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Tshering_Dendup__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Jamyang_Tenzin__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Sonam_Yoezer__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Chimi_Dorji__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+<http://dbpedia.org/resource/Jigme_Dorji_(footballer)__1>	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Pema_Dorji__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Passang_Tshering	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Wangay_Dorji	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Kharma_Shedrup_Tshering	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Leki_Dukpa	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Karun_Gurung	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Nima_Sangay	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Tshering_Dorji	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Jigme_Tshultrim	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Diwash_Subba	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Thinley_Dorji	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Jigme_Tenzin	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Tandin_Tshering	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Yeshey_Dorji	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Sonam_Yoezer	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Dawa_Gyeltshen	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Puspalal_Sharma	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+<http://dbpedia.org/resource/Kinley_Dorji_(footballer)>	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Sangay_Khandu	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Yeshey_Gyeltshen	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Pema_Dorji	dbpedia-owl:team	dbpedia:Bhutan_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Bhutan_national_football_team .
+dbpedia:Dawa_Gyeltshen__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .
+dbpedia:Changlimithang_Stadium	dbpprop:tenants	dbpedia:Bhutan_national_football_team ;
+	dbpedia-owl:tenant	dbpedia:Bhutan_national_football_team .
+dbpedia:Biran_Basnet__1	dbpedia-owl:team	dbpedia:Bhutan_national_football_team .

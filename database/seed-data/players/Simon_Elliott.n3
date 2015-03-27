@@ -1,0 +1,322 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://pl.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Simon_Elliott	owl:sameAs	dbpedia:Simon_Elliott .
+@prefix ns3:	<http://fr.dbpedia.org/resource/> .
+ns3:Simon_Elliott	owl:sameAs	dbpedia:Simon_Elliott .
+@prefix ns4:	<http://de.dbpedia.org/resource/> .
+ns4:Simon_Elliott	owl:sameAs	dbpedia:Simon_Elliott .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Wellington_Phoenix_FC_season>	dbpprop:name	dbpedia:Simon_Elliott .
+@prefix ns6:	<http://wikidata.dbpedia.org/resource/> .
+ns6:Q381154	owl:sameAs	dbpedia:Simon_Elliott .
+@prefix ns7:	<http://es.dbpedia.org/resource/> .
+ns7:Simon_Elliott	owl:sameAs	dbpedia:Simon_Elliott .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Simon_Elliott	owl:sameAs	dbpedia:Simon_Elliott .
+@prefix ns9:	<http://ja.dbpedia.org/resource/> .
+ns9:サイモン・エリオット	owl:sameAs	dbpedia:Simon_Elliott .
+@prefix ns10:	<http://pt.dbpedia.org/resource/> .
+ns10:Simon_Elliott	owl:sameAs	dbpedia:Simon_Elliott .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns12:	<http://en.wikipedia.org/wiki/> .
+ns12:Simon_Elliott	foaf:primaryTopic	dbpedia:Simon_Elliott .
+@prefix ns13:	<http://ar.dbpedia.org/resource/> .
+ns13:سيمون_إليوت	owl:sameAs	dbpedia:Simon_Elliott .
+@prefix ns14:	<http://la.dbpedia.org/resource/> .
+ns14:Simon_Elliott	owl:sameAs	dbpedia:Simon_Elliott .
+@prefix ns15:	<http://mr.dbpedia.org/resource/> .
+ns15:सायमन_इलियट	owl:sameAs	dbpedia:Simon_Elliott .
+@prefix ns16:	<http://no.dbpedia.org/resource/> .
+ns16:Simon_Elliott	owl:sameAs	dbpedia:Simon_Elliott .
+<http://ru.dbpedia.org/resource/\u042D\u043B\u043B\u0438\u043E\u0442\u0442,_\u0421\u0430\u0439\u043C\u043E\u043D>	owl:sameAs	dbpedia:Simon_Elliott .
+@prefix ns17:	<http://sv.dbpedia.org/resource/> .
+ns17:Simon_Elliott	owl:sameAs	dbpedia:Simon_Elliott .
+@prefix ns18:	<http://uk.dbpedia.org/resource/> .
+ns18:Саймон_Елліот	owl:sameAs	dbpedia:Simon_Elliott .
+@prefix ns19:	<http://zh.dbpedia.org/resource/> .
+ns19:西蒙·艾略特	owl:sameAs	dbpedia:Simon_Elliott .
+<http://dbpedia.org/resource/2003_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Simon_Elliott .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Simon_Elliott .
+<http://dbpedia.org/resource/1996_National_Summer_Soccer_League>	dbpprop:goals	dbpedia:Simon_Elliott .
+<http://dbpedia.org/resource/2009_San_Jose_Earthquakes_season>	dbpprop:name	dbpedia:Simon_Elliott .
+<http://dbpedia.org/resource/2009_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Simon_Elliott .
+<http://dbpedia.org/resource/2008_OFC_Nations_Cup_squads>	dbpprop:name	dbpedia:Simon_Elliott .
+<http://dbpedia.org/resource/2007%E2%80%9308_Fulham_F.C._season>	dbpprop:name	dbpedia:Simon_Elliott .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Simon_Elliott	rdf:type	yago:Whole100003553 ,
+		yago:Object100002684 ,
+		yago:Player110439851 ,
+		yago:NewZealandAssociationFootballers ,
+		yago:NewZealandInternationalFootballers ,
+		yago:FootballPlayer110101634 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:Athlete109820263 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:MiramarRangersPlayers ,
+		foaf:Person ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:FootballersAtThe2008SummerOlympics .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Simon_Elliott	rdf:type	dbpedia-owl:SoccerPlayer ,
+		yago:SoccerPlayer110618342 ,
+		yago:A-LeaguePlayers ,
+		yago:LosAngelesGalaxyPlayers ,
+		yago:ExpatriateSoccerPlayersInTheUnitedStates ,
+		yago:WellingtonPhoenixPlayers ,
+		<http://dbpedia.org/class/yago/2003FIFAConfederationsCupPlayers> ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		dbpedia-owl:Person ,
+		dbpedia-owl:Agent ,
+		yago:OlympicFootballersOfNewZealand ,
+		yago:NewZealandExpatriateSoccerPlayers ,
+		<http://dbpedia.org/class/yago/StanfordCardinalMen\u0027sSoccerPlayers> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Simon_Elliott	rdf:type	dul:Agent ,
+		<http://dbpedia.org/class/yago/2009FIFAConfederationsCupPlayers> ,
+		ns6:Q5 ,
+		dul:NaturalPerson ,
+		yago:ColumbusCrewPlayers ,
+		yago:SanJoseEarthquakesPlayers ,
+		dbpedia-owl:Athlete .
+@prefix ns24:	<http://schema.org/> .
+dbpedia:Simon_Elliott	rdf:type	ns24:Person ,
+		<http://dbpedia.org/class/yago/BostonBulldogs(soccer)Players> ,
+		yago:Contestant109613191 ,
+		<http://dbpedia.org/class/yago/C.D.ChivasUSAPlayers> ,
+		yago:PremierLeaguePlayers ,
+		yago:ExpatriateFootballersInEngland ,
+		<http://dbpedia.org/class/yago/PeopleEducatedAtWellingtonCollege(NewZealand)> ,
+		<http://dbpedia.org/class/yago/FulhamF.C.Players> ,
+		ns6:Q215627 ,
+		owl:Thing ,
+		yago:PeopleFromWellingtonCity ,
+		yago:PhysicalEntity100001930 ;
+	owl:sameAs	ns17:Simon_Elliott ,
+		ns19:西蒙·艾略特 ,
+		ns8:Simon_Elliott ,
+		ns1:Simon_Elliott ,
+		<http://ru.dbpedia.org/resource/\u042D\u043B\u043B\u0438\u043E\u0442\u0442,_\u0421\u0430\u0439\u043C\u043E\u043D> ,
+		dbpedia:Simon_Elliott ,
+		ns7:Simon_Elliott ,
+		ns14:Simon_Elliott .
+@prefix ns25:	<http://yago-knowledge.org/resource/> .
+dbpedia:Simon_Elliott	owl:sameAs	ns25:Simon_Elliott ,
+		ns15:सायमन_इलियट .
+@prefix ns26:	<http://wikidata.org/entity/> .
+dbpedia:Simon_Elliott	owl:sameAs	ns26:Q381154 ,
+		<http://rdf.freebase.com/ns/m.049cp1> ,
+		ns4:Simon_Elliott ,
+		ns16:Simon_Elliott ,
+		ns18:Саймон_Елліот ,
+		ns3:Simon_Elliott ,
+		ns9:サイモン・エリオット ,
+		ns10:Simon_Elliott ,
+		ns6:Q381154 ,
+		ns13:سيمون_إليوت .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Simon_Elliott	rdfs:label	"\u897F\u8499\u00B7\u827E\u7565\u7279"@zh ,
+		"Simon Elliott"@de ,
+		"Simon Elliott" ,
+		"\u042D\u043B\u043B\u0438\u043E\u0442\u0442, \u0421\u0430\u0439\u043C\u043E\u043D"@ru ,
+		"\u30B5\u30A4\u30E2\u30F3\u30FB\u30A8\u30EA\u30AA\u30C3\u30C8"@ja ,
+		"Simon Elliott"@it ,
+		"Simon Elliott"@es ,
+		"\u0633\u064A\u0645\u0648\u0646 \u0625\u0644\u064A\u0648\u062A"@ar ,
+		"Simon Elliott"@pt ,
+		"Simon Elliott"@fr ,
+		"Simon Elliott"@pl .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Simon_Elliott	dcterms:subject	category:New_Zealand_international_footballers ,
+		category:A-League_players ,
+		category:Expatriate_footballers_in_England ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Premier_League_players ,
+		category:Miramar_Rangers_players ,
+		category:Olympic_footballers_of_New_Zealand ,
+		<http://dbpedia.org/resource/Category:Fulham_F.C._players> ,
+		category:Footballers_at_the_2008_Summer_Olympics ,
+		category:New_Zealand_expatriate_association_footballers ,
+		category:Expatriate_soccer_players_in_the_United_States ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:1974_births> ,
+		category:LA_Galaxy_players ,
+		<http://dbpedia.org/resource/Category:2009_FIFA_Confederations_Cup_players> ,
+		category:New_Zealand_association_footballers ,
+		category:Chivas_USA_players ,
+		category:Wellington_Phoenix_FC_players ,
+		<http://dbpedia.org/resource/Category:Stanford_Cardinal_men\u0027s_soccer_players> ,
+		<http://dbpedia.org/resource/Category:People_educated_at_Wellington_College_(New_Zealand)> ,
+		category:People_from_Wellington_City ,
+		<http://dbpedia.org/resource/Category:2003_FIFA_Confederations_Cup_players> ,
+		category:Major_League_Soccer_players ,
+		category:Columbus_Crew_players ,
+		<http://dbpedia.org/resource/Category:Boston_Bulldogs_(soccer)_players> ,
+		category:San_Jose_Earthquakes_players ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/SimonElliot.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Simon_Elliott	dc:description	"New Zealand association footballer" ,
+		"New Zealand association footballer" ;
+	foaf:givenName	"Simon" ;
+	foaf:name	"Simon John Elliott" ,
+		"Simon Elliott" ,
+		"Elliott, Simon" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Simon_Elliott	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Simon_Elliott?oldid=596298669> ;
+	rdfs:comment	"Simon John Elliott (* 10. Juni 1974 in Wellington) ist ein ehemaliger neuseel\u00E4ndischer Fu\u00DFballspieler, der zuletzt beim US-amerikanischen Verein CD Chivas USA aktiv war. Au\u00DFerdem spielte er f\u00FCr die neuseel\u00E4ndische Nationalmannschaft."@de ,
+		"Simon John Elliott (ur. 10 lipca 1974 r. w Wellingtonie w Nowej Zelandii) \u2013 nowozelandzki pi\u0142karz, reprezentant kraju graj\u0105cy na pozycji defensywnego pomocnika. Obecnie wyst\u0119puje w klubie A-League Wellington Phoenix. Powo\u0142any przez trenera Rickiego Herberta na Puchar Konfederacji 2009, gdzie Nowa Zelandia odpad\u0142a w fazie grupowej, oraz na M\u015A 2010."@pl ,
+		"Simon Elliott (10 de junio de 1974 en Wellington) es un ex futbolista neozeland\u00E9s que jugaba de mediocampista. Desempe\u00F1\u00F3 su carrera en diversos clubes de Nueva Zelanda y los Estados Unidos, exceptuando por un paso de dos a\u00F1os por el Fulham ingl\u00E9s. En total, cosech\u00F3 10 t\u00EDtulos, uno en su pa\u00EDs de origen y nueve en clubes estadounidenses, logrando todos los t\u00EDtulos posibles en la Major League Soccer norteamericana.Con la selecci\u00F3n neozelandesa disput\u00F3 69 partidos y convirti\u00F3 6 goles."@es ,
+		"\u0421\u0430\u0301\u0439\u043C\u043E\u043D \u042D\u0301\u043B\u043B\u0438\u043E\u0442\u0442 (\u0430\u043D\u0433\u043B. Simon Elliott; 10 \u0438\u044E\u043D\u044F 1974, \u0412\u0435\u043B\u043B\u0438\u043D\u0433\u0442\u043E\u043D) \u2014 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0438\u0433\u0440\u043E\u043A \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0441\u0442\u0440\u0430\u043D\u044B.\u0412 \u043D\u0430\u0447\u0430\u043B\u0435 \u0441\u0432\u043E\u0435\u0439 \u043A\u0430\u0440\u044C\u0435\u0440\u044B \u0438\u0433\u0440\u0430\u043B \u0432 \u0431\u043E\u043B\u044C\u0448\u043E\u043C \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u0435 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0445 \u043A\u043E\u043C\u0430\u043D\u0434. \u0417\u0430\u0442\u0435\u043C \u043F\u0435\u0440\u0435\u0435\u0445\u0430\u043B \u0438\u0433\u0440\u0430\u0442\u044C \u0432 \u0421\u0428\u0410, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u0421\u0442\u044D\u043D\u0444\u043E\u0440\u0434\u0441\u043A\u043E\u0433\u043E \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0438 \u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u00AB\u0411\u043E\u0441\u0442\u043E\u043D \u0411\u0443\u043B\u043B\u0434\u043E\u0433\u0441\u00BB \u0438\u0437 A-League (\u0432\u0442\u043E\u0440\u043E\u0439 \u043F\u043E \u0437\u043D\u0430\u0447\u0438\u043C\u043E\u0441\u0442\u0438 \u043B\u0438\u0433\u0438 \u0421\u0428\u0410 \u0438 \u041A\u0430\u043D\u0430\u0434\u044B \u0442\u043E\u0433\u043E \u0432\u0440\u0435\u043C\u0435\u043D\u0438). \u0412 \u043C\u0430\u0435 1999 \u0433\u043E\u0434\u0430 \u043F\u043E\u0434\u043F\u0438\u0441\u0430\u043B \u043A\u043E\u043D\u0442\u0440\u0430\u043A\u0442 \u0441 \u043A\u043B\u0443\u0431\u043E\u043C MLS \u00AB\u041B\u043E\u0441-\u0410\u043D\u0434\u0436\u0435\u043B\u0435\u0441 \u0413\u044D\u043B\u0430\u043A\u0441\u0438\u00BB."@ru ,
+		"Simon John Elliott (Wellington, 10 giugno 1974) \u00E8 un ex calciatore neozelandese, centrocampista."@it ,
+		"Simon John Elliott (born 10 June 1974 in Wellington) is a retired New Zealand International footballer." ,
+		"Simon John Elliott (Wellington, 10 de Junho de 1974) \u00E9 um futebolista profissional neozeland\u00EAs, atualmente est\u00E1 sem time."@pt ,
+		"\u897F\u8499\u00B7\u7EA6\u7FF0\u00B7\u827E\u7565\u7279\uFF08Simon John Elliott\uFF0C1974\u5E746\u670810\u65E5\uFF0D\uFF09\uFF0C\u65B0\u897F\u5170\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u73B0\u6548\u529B\u4E8E\u7F8E\u56FD\u8DB3\u7403\u5927\u8054\u76DF\u5723\u4F55\u585E\u5730\u9707\uFF0C\u573A\u4E0A\u4F4D\u7F6E\u4E2D\u540E\u536B\u3002\u827E\u7565\u7279\u5927\u5B66\u5C31\u8BFB\u4E8E\u7F8E\u56FD\u65AF\u5766\u798F\u5927\u5B66\uFF0C1999\u5E74\u52A0\u76DF\u6D1B\u6749\u77F6\u94F6\u6CB3\uFF0C\u5F00\u59CB\u804C\u4E1A\u751F\u6DAF\uFF0C\u6B21\u5E74\u83B7\u5F97\u7F8E\u56FD\u804C\u4E1A\u5927\u8054\u76DF\u6700\u6709\u4EF7\u503C\u7403\u5458\u79F0\u53F7\u30022004\u5E74\uFF0C\u4ED6\u88AB\u4EA4\u6613\u53BB\u4E86\u54E5\u4F26\u5E03\u6C34\u624B\u30022006\u5E74\u4EE5\u81EA\u7531\u7403\u5458\u8EAB\u4EFD\u540C\u82F1\u8D85\u5BCC\u52D2\u59C6\u8DB3\u7403\u4FF1\u4E50\u90E8\u7B7E\u7EA6\u3002\u4F46\u57282007\u5E74\u56E0\u4E3A\u4E25\u91CD\u53D7\u4F24\u800C\u9519\u8FC7\u4E86\u6574\u4E2A\u8D5B\u5B63\u30022008\u5E74\uFF0C\u827E\u7565\u7279\u91CD\u8FD4\u5927\u8054\u76DF\uFF0C\u52A0\u76DF\u5723\u4F55\u585E\u5730\u9707\u961F\u81F3\u4ECA\u3002"@zh ,
+		"\u30B5\u30A4\u30E2\u30F3\u30FB\u30B8\u30E7\u30F3\u30FB\u30A8\u30EA\u30AA\u30C3\u30C8\uFF08Simon John Elliott\u30011974\u5E746\u670810\u65E5- \uFF09\u306F\u3001\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9\u30FB\u30A6\u30A7\u30EA\u30F3\u30C8\u30F3\u51FA\u8EAB\u306E\u540C\u56FD\u4EE3\u8868\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002"@ja ,
+		"\u0633\u064A\u0645\u0648\u0646 \u062C\u0648\u0646 \u0625\u0644\u064A\u0648\u062A\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 10 \u064A\u0648\u0646\u064A\u0648 1974 \u0641\u064A \u0648\u064A\u0644\u0646\u063A\u0646\u062A\u0648\u0646 \u0641\u064A \u0646\u064A\u0648\u0632\u064A\u0644\u0646\u062F\u0627\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u062C\u0627\u0645\u0639\u0629 \u0633\u062A\u0627\u0646\u0641\u0648\u0631\u062F \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A \u0641\u064A \u0639\u0627\u0645 1998\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 25 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 9 \u0623\u0647\u062F\u0627\u0641\u060C \u0648\u0641\u064A \u0639\u0627\u0645 1999 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0644\u0648\u0633 \u0623\u0646\u062C\u0644\u0648\u0633 \u063A\u0627\u0644\u0627\u0643\u0633\u064A \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2003\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 126 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 10 \u0623\u0647\u062F\u0627\u0641\u060C \u0648\u0641\u064A \u0645\u0648\u0633\u0645 2004/2005 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0643\u0648\u0644\u0648\u0645\u0628\u0648\u0633 \u0643\u0631\u0648\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 26 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2005 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0641\u0648\u0644\u0647\u0627\u0645 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A.\u0648 \u0642\u062F \u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0646\u064A\u0648\u0632\u064A\u0644\u0646\u062F\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 1999."@ar ,
+		"Simon Elliot, n\u00E9 le 10 ao\u00FBt 1974 \u00E0 Wellington, est un footballeur n\u00E9o-z\u00E9landais \u00E9voluant au poste de milieu d\u00E9fensif. Apr\u00E8s des d\u00E9buts professionnels en Nouvelle-Z\u00E9lande \u00E0 Wellington United en 1992, il a ensuite rev\u00EAtu plusieurs couleurs de clubs n\u00E9o-z\u00E9landais (Wellington Olympic, Miramar Rangers et Western Suburbs) jusqu'\u00E0 la fin des ann\u00E9es 1990 o\u00F9 il se d\u00E9cide de s'expatrier aux \u00C9tats-Unis au Boston Bulldogs puis Los Angeles Galaxy et Columbus Crew."@fr ;
+	foaf:surname	"Elliott" ;
+	foaf:isPrimaryTopicOf	ns12:Simon_Elliott .
+@prefix ns32:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Simon_Elliott	dbpprop:hasPhotoCollection	ns32:Simon_Elliott ;
+	dbpprop:caption	"Elliott playing for Columbus Crew" ;
+	dbpprop:name	"Simon Elliott" ,
+		"Elliott, Simon" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/SimonElliot.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u30B5\u30A4\u30E2\u30F3\u30FB\u30B8\u30E7\u30F3\u30FB\u30A8\u30EA\u30AA\u30C3\u30C8\uFF08Simon John Elliott\u30011974\u5E746\u670810\u65E5- \uFF09\u306F\u3001\u30CB\u30E5\u30FC\u30B8\u30FC\u30E9\u30F3\u30C9\u30FB\u30A6\u30A7\u30EA\u30F3\u30C8\u30F3\u51FA\u8EAB\u306E\u540C\u56FD\u4EE3\u8868\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002"@ja ,
+		"Simon Elliot, n\u00E9 le 10 ao\u00FBt 1974 \u00E0 Wellington, est un footballeur n\u00E9o-z\u00E9landais \u00E9voluant au poste de milieu d\u00E9fensif. Apr\u00E8s des d\u00E9buts professionnels en Nouvelle-Z\u00E9lande \u00E0 Wellington United en 1992, il a ensuite rev\u00EAtu plusieurs couleurs de clubs n\u00E9o-z\u00E9landais (Wellington Olympic, Miramar Rangers et Western Suburbs) jusqu'\u00E0 la fin des ann\u00E9es 1990 o\u00F9 il se d\u00E9cide de s'expatrier aux \u00C9tats-Unis au Boston Bulldogs puis Los Angeles Galaxy et Columbus Crew. Il tente une exp\u00E9rience en Angleterre en 2006 qui dure deux ans \u00E0 Fulham FC avant de retourner aux \u00C9tats-Unis \u00E0 San Jose Earthquakes.Ses performances en club lui ouvrent les portes de l'\u00E9quipe de Nouvelle-Z\u00E9lande en 1995 o\u00F9 il devient l'un des cadres de la s\u00E9lection avec 68 s\u00E9lections et 6 buts."@fr ,
+		"\u0421\u0430\u0301\u0439\u043C\u043E\u043D \u042D\u0301\u043B\u043B\u0438\u043E\u0442\u0442 (\u0430\u043D\u0433\u043B. Simon Elliott; 10 \u0438\u044E\u043D\u044F 1974, \u0412\u0435\u043B\u043B\u0438\u043D\u0433\u0442\u043E\u043D) \u2014 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0438\u0433\u0440\u043E\u043A \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0441\u0442\u0440\u0430\u043D\u044B.\u0412 \u043D\u0430\u0447\u0430\u043B\u0435 \u0441\u0432\u043E\u0435\u0439 \u043A\u0430\u0440\u044C\u0435\u0440\u044B \u0438\u0433\u0440\u0430\u043B \u0432 \u0431\u043E\u043B\u044C\u0448\u043E\u043C \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u0435 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0445 \u043A\u043E\u043C\u0430\u043D\u0434. \u0417\u0430\u0442\u0435\u043C \u043F\u0435\u0440\u0435\u0435\u0445\u0430\u043B \u0438\u0433\u0440\u0430\u0442\u044C \u0432 \u0421\u0428\u0410, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u0421\u0442\u044D\u043D\u0444\u043E\u0440\u0434\u0441\u043A\u043E\u0433\u043E \u0443\u043D\u0438\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0430 \u0438 \u0437\u0430 \u043A\u043E\u043C\u0430\u043D\u0434\u0443 \u00AB\u0411\u043E\u0441\u0442\u043E\u043D \u0411\u0443\u043B\u043B\u0434\u043E\u0433\u0441\u00BB \u0438\u0437 A-League (\u0432\u0442\u043E\u0440\u043E\u0439 \u043F\u043E \u0437\u043D\u0430\u0447\u0438\u043C\u043E\u0441\u0442\u0438 \u043B\u0438\u0433\u0438 \u0421\u0428\u0410 \u0438 \u041A\u0430\u043D\u0430\u0434\u044B \u0442\u043E\u0433\u043E \u0432\u0440\u0435\u043C\u0435\u043D\u0438). \u0412 \u043C\u0430\u0435 1999 \u0433\u043E\u0434\u0430 \u043F\u043E\u0434\u043F\u0438\u0441\u0430\u043B \u043A\u043E\u043D\u0442\u0440\u0430\u043A\u0442 \u0441 \u043A\u043B\u0443\u0431\u043E\u043C MLS \u00AB\u041B\u043E\u0441-\u0410\u043D\u0434\u0436\u0435\u043B\u0435\u0441 \u0413\u044D\u043B\u0430\u043A\u0441\u0438\u00BB. \u0417\u0430 \u044D\u0442\u043E\u0442 \u043A\u043B\u0443\u0431 \u043E\u043D \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B \u0442\u0440\u0438 \u0441 \u043F\u043E\u043B\u043E\u0432\u0438\u043D\u043E\u0439 \u0441\u0435\u0437\u043E\u043D\u0430, \u0438 \u044D\u0442\u043E \u0432\u0440\u0435\u043C\u044F \u0431\u044B\u043B\u043E \u0432\u0435\u0441\u044C\u043C\u0430 \u0443\u0441\u043F\u0435\u0448\u043D\u044B\u043C \u0434\u043B\u044F \u043D\u0435\u0433\u043E \u0438 \u0434\u043B\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0432 \u0446\u0435\u043B\u043E\u043C. \u042D\u043B\u043B\u0438\u043E\u0442\u0442 \u0432\u044B\u0445\u043E\u0434\u0438\u043B \u043D\u0430 \u043F\u043E\u043B\u0435 \u043F\u043E\u0441\u0442\u043E\u044F\u043D\u043D\u043E \u0438 \u0431\u044B\u043B \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u0432\u0435\u0434\u0443\u0449\u0438\u0445 \u0438\u0433\u0440\u043E\u043A\u043E\u0432 \u043A\u043E\u043C\u0430\u043D\u0434\u044B. \u00AB\u0413\u044D\u043B\u0430\u043A\u0441\u0438\u00BB \u0441 \u043D\u0438\u043C \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u0432\u044B\u0438\u0433\u0440\u0430\u043B \u041A\u0443\u0431\u043E\u043A \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u043E\u0432 \u041A\u041E\u041D\u041A\u0410\u041A\u0410\u0424, \u041A\u0443\u0431\u043E\u043A \u0421\u0428\u0410, \u0440\u0435\u0433\u0443\u043B\u044F\u0440\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 \u0438 \u043F\u043B\u0435\u0439-\u043E\u0444\u0444 MLS. \u0412 \u044F\u043D\u0432\u0430\u0440\u0435 2004 \u0433\u043E\u0434\u0430 \u042D\u043B\u043B\u0438\u043E\u0442\u0442 \u043F\u0435\u0440\u0435\u0448\u0451\u043B \u0432 \u00AB\u041A\u043E\u043B\u0430\u043C\u0431\u0443\u0441 \u041A\u0440\u044E\u00BB. \u0412 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u044D\u0442\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u042D\u043B\u043B\u0438\u043E\u0442\u0442 \u043E\u0442\u044B\u0433\u0440\u0430\u043B \u0434\u0432\u0430 \u0441\u0435\u0437\u043E\u043D\u0430, \u0431\u044B\u043B \u0435\u0451 \u043B\u0438\u0434\u0435\u0440\u043E\u043C, \u0432\u044B\u0438\u0433\u0440\u0430\u043B \u0440\u0435\u0433\u0443\u043B\u044F\u0440\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442 MLS 2004 \u0433.\u0412 \u044F\u043D\u0432\u0430\u0440\u0435 2006 \u0433\u043E\u0434\u0430 \u043F\u0435\u0440\u0435\u0448\u0451\u043B \u043F\u043E \u0441\u0432\u043E\u0431\u043E\u0434\u043D\u043E\u043C\u0443 \u0442\u0440\u0430\u043D\u0441\u0444\u0435\u0440\u0443 \u0432 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u00AB\u0424\u0443\u043B\u0445\u044D\u043C\u00BB. \u041F\u0440\u043E\u0432\u0451\u043B \u0434\u0432\u0430 \u0441 \u043F\u043E\u043B\u043E\u0432\u0438\u043D\u043E\u0439 \u0441\u0435\u0437\u043E\u043D\u0430 \u0432 \u0441\u0442\u0430\u043D\u0435 \u00AB\u0434\u0430\u0447\u043D\u0438\u043A\u043E\u0432\u00BB, \u0432 \u044D\u0442\u043E \u0432\u0440\u0435\u043C\u044F \u0435\u0433\u043E \u043F\u0440\u0435\u0441\u043B\u0435\u0434\u043E\u0432\u0430\u043B\u0438 \u0442\u0440\u0430\u0432\u043C\u044B, \u0438 \u043E\u043D \u0438\u0433\u0440\u0430\u043B \u043A\u0440\u0430\u0439\u043D\u0435 \u043C\u0430\u043B\u043E. \u0412 \u043C\u0430\u0435 2008 \u0433\u043E\u0434\u0430 \u043F\u043E\u043A\u0438\u043D\u0443\u043B \u00AB\u0424\u0443\u043B\u0445\u044D\u043C\u00BB \u0438 \u0431\u043E\u043B\u0435\u0435 \u043F\u043E\u043B\u0443\u0433\u043E\u0434\u0430 \u0438\u0441\u043A\u0430\u043B \u043D\u043E\u0432\u044B\u0439 \u043A\u043B\u0443\u0431. \u0412 \u043D\u0430\u0447\u0430\u043B\u0435 2009 \u0433\u043E\u0434\u0430 \u0432\u0435\u0440\u043D\u0443\u043B\u0441\u044F \u0432 MLS, \u043F\u043E\u0434\u043F\u0438\u0441\u0430\u0432 \u043A\u043E\u043D\u0442\u0440\u0430\u043A\u0442 \u0441 \u00AB\u0421\u0430\u043D-\u0425\u043E\u0441\u0435 \u042D\u0440\u0442\u043A\u0432\u0435\u0439\u043A\u0441\u00BB, \u0433\u0434\u0435 \u043F\u0440\u043E\u0432\u0451\u043B \u0441\u0435\u0437\u043E\u043D-2009. 22 \u043C\u0430\u0440\u0442\u0430 2010 \u0433\u043E\u0434\u0430 \u043F\u043E\u043A\u0438\u043D\u0443\u043B \u043A\u043B\u0443\u0431.\u0412 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u043F\u0440\u043E\u0432\u0451\u043B \u0431\u043E\u043B\u0435\u0435 50 \u043C\u0430\u0442\u0447\u0435\u0439, \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u0438\u043C \u0438\u0437 \u0432\u0435\u0434\u0443\u0449\u0438\u0445 \u0438\u0433\u0440\u043E\u043A\u043E\u0432 \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u044B \u043A\u043E\u043C\u0430\u043D\u0434\u044B, \u043F\u0440\u0438\u043D\u044F\u043B \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0434\u0432\u0443\u0445 \u041A\u0443\u0431\u043A\u0430\u0445 \u043A\u043E\u043D\u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0439 (2003 \u0438 2009) \u0438 \u0432 \u041E\u043B\u0438\u043C\u043F\u0438\u0430\u0434\u0435-2008. \u042F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0434\u0432\u0443\u043A\u0440\u0430\u0442\u043D\u044B\u043C \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u0435\u043C \u041A\u0443\u0431\u043A\u0430 \u043D\u0430\u0446\u0438\u0439 \u041E\u0424\u041A \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439."@ru ,
+		"Simon John Elliott (ur. 10 lipca 1974 r. w Wellingtonie w Nowej Zelandii) \u2013 nowozelandzki pi\u0142karz, reprezentant kraju graj\u0105cy na pozycji defensywnego pomocnika. Obecnie wyst\u0119puje w klubie A-League Wellington Phoenix. Powo\u0142any przez trenera Rickiego Herberta na Puchar Konfederacji 2009, gdzie Nowa Zelandia odpad\u0142a w fazie grupowej, oraz na M\u015A 2010."@pl ,
+		"Simon John Elliott (Wellington, 10 giugno 1974) \u00E8 un ex calciatore neozelandese, centrocampista."@it ,
+		"Simon John Elliott (Wellington, 10 de Junho de 1974) \u00E9 um futebolista profissional neozeland\u00EAs, atualmente est\u00E1 sem time."@pt ,
+		"Simon John Elliott (born 10 June 1974 in Wellington) is a retired New Zealand International footballer." ,
+		"\u0633\u064A\u0645\u0648\u0646 \u062C\u0648\u0646 \u0625\u0644\u064A\u0648\u062A\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 10 \u064A\u0648\u0646\u064A\u0648 1974 \u0641\u064A \u0648\u064A\u0644\u0646\u063A\u0646\u062A\u0648\u0646 \u0641\u064A \u0646\u064A\u0648\u0632\u064A\u0644\u0646\u062F\u0627\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u062C\u0627\u0645\u0639\u0629 \u0633\u062A\u0627\u0646\u0641\u0648\u0631\u062F \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A \u0641\u064A \u0639\u0627\u0645 1998\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 25 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 9 \u0623\u0647\u062F\u0627\u0641\u060C \u0648\u0641\u064A \u0639\u0627\u0645 1999 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0644\u0648\u0633 \u0623\u0646\u062C\u0644\u0648\u0633 \u063A\u0627\u0644\u0627\u0643\u0633\u064A \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2003\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 126 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 10 \u0623\u0647\u062F\u0627\u0641\u060C \u0648\u0641\u064A \u0645\u0648\u0633\u0645 2004/2005 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0643\u0648\u0644\u0648\u0645\u0628\u0648\u0633 \u0643\u0631\u0648\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 26 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2005 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0641\u0648\u0644\u0647\u0627\u0645 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A.\u0648 \u0642\u062F \u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0646\u064A\u0648\u0632\u064A\u0644\u0646\u062F\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 1999."@ar ,
+		"Simon John Elliott (* 10. Juni 1974 in Wellington) ist ein ehemaliger neuseel\u00E4ndischer Fu\u00DFballspieler, der zuletzt beim US-amerikanischen Verein CD Chivas USA aktiv war. Au\u00DFerdem spielte er f\u00FCr die neuseel\u00E4ndische Nationalmannschaft."@de ,
+		"Simon Elliott (10 de junio de 1974 en Wellington) es un ex futbolista neozeland\u00E9s que jugaba de mediocampista. Desempe\u00F1\u00F3 su carrera en diversos clubes de Nueva Zelanda y los Estados Unidos, exceptuando por un paso de dos a\u00F1os por el Fulham ingl\u00E9s. En total, cosech\u00F3 10 t\u00EDtulos, uno en su pa\u00EDs de origen y nueve en clubes estadounidenses, logrando todos los t\u00EDtulos posibles en la Major League Soccer norteamericana.Con la selecci\u00F3n neozelandesa disput\u00F3 69 partidos y convirti\u00F3 6 goles. Es el segundo futbolista que m\u00E1s veces represent\u00F3 a Nueva Zelanda. Con los All Whites se coron\u00F3 campe\u00F3n en la Copa de las Naciones de la OFC en 2002 y 2008, adem\u00E1s de jugar la Copa FIFA Confederaciones en 2003 y 2009 y la Copa Mundial en 2010."@es ,
+		"\u897F\u8499\u00B7\u7EA6\u7FF0\u00B7\u827E\u7565\u7279\uFF08Simon John Elliott\uFF0C1974\u5E746\u670810\u65E5\uFF0D\uFF09\uFF0C\u65B0\u897F\u5170\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u73B0\u6548\u529B\u4E8E\u7F8E\u56FD\u8DB3\u7403\u5927\u8054\u76DF\u5723\u4F55\u585E\u5730\u9707\uFF0C\u573A\u4E0A\u4F4D\u7F6E\u4E2D\u540E\u536B\u3002\u827E\u7565\u7279\u5927\u5B66\u5C31\u8BFB\u4E8E\u7F8E\u56FD\u65AF\u5766\u798F\u5927\u5B66\uFF0C1999\u5E74\u52A0\u76DF\u6D1B\u6749\u77F6\u94F6\u6CB3\uFF0C\u5F00\u59CB\u804C\u4E1A\u751F\u6DAF\uFF0C\u6B21\u5E74\u83B7\u5F97\u7F8E\u56FD\u804C\u4E1A\u5927\u8054\u76DF\u6700\u6709\u4EF7\u503C\u7403\u5458\u79F0\u53F7\u30022004\u5E74\uFF0C\u4ED6\u88AB\u4EA4\u6613\u53BB\u4E86\u54E5\u4F26\u5E03\u6C34\u624B\u30022006\u5E74\u4EE5\u81EA\u7531\u7403\u5458\u8EAB\u4EFD\u540C\u82F1\u8D85\u5BCC\u52D2\u59C6\u8DB3\u7403\u4FF1\u4E50\u90E8\u7B7E\u7EA6\u3002\u4F46\u57282007\u5E74\u56E0\u4E3A\u4E25\u91CD\u53D7\u4F24\u800C\u9519\u8FC7\u4E86\u6574\u4E2A\u8D5B\u5B63\u30022008\u5E74\uFF0C\u827E\u7565\u7279\u91CD\u8FD4\u5927\u8054\u76DF\uFF0C\u52A0\u76DF\u5723\u4F55\u585E\u5730\u9707\u961F\u81F3\u4ECA\u3002"@zh ;
+	dbpedia-owl:wikiPageID	1136239 ;
+	dbpedia-owl:wikiPageRevisionID	596298669 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Simon_Elliott	dbpprop:birthDate	"1974-06-10+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Wellington, New Zealand" ;
+	dbpprop:dateOfBirth	"1974-06-10+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Wellington, New Zealand" ;
+	dbpprop:shortDescription	"New Zealand association footballer" ;
+	dbpedia-owl:birthDate	"1974-06-10+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ,
+		dbpedia:Wellington ;
+	dbpedia-owl:birthYear	"1974+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	250 ;
+	dbpprop:goals	0 ,
+		1 ,
+		14 ,
+		13 ,
+		10 ;
+	dbpprop:bg	"white" ;
+	dbpprop:caps	4 ,
+		3 ,
+		12 ,
+		15 ,
+		24 ,
+		27 ,
+		36 ,
+		59 ,
+		122 ;
+	dbpprop:years	2006 ,
+		2004 ,
+		2010 ,
+		2011 ,
+		2009 ,
+		1992 ,
+		1993 ,
+		1999 ,
+		1996 ,
+		1997 ;
+	dbpprop:youthclubs	dbpedia:Waterside_Karori ,
+		<http://dbpedia.org/resource/Wellington_College_(New_Zealand)> ,
+		dbpedia:Stanford_Cardinal ;
+	dbpedia-owl:careerStation	dbpedia:Simon_Elliott__14 ,
+		dbpedia:Simon_Elliott__2 ,
+		dbpedia:Simon_Elliott__3 ,
+		dbpedia:Simon_Elliott__4 ,
+		dbpedia:Simon_Elliott__6 ,
+		dbpedia:Simon_Elliott__11 ,
+		dbpedia:Simon_Elliott__9 ,
+		dbpedia:Simon_Elliott__7 ,
+		dbpedia:Simon_Elliott__8 ,
+		dbpedia:Simon_Elliott__5 ,
+		dbpedia:Simon_Elliott__1 ,
+		dbpedia:Simon_Elliott__10 ,
+		dbpedia:Simon_Elliott__12 ,
+		dbpedia:Simon_Elliott__13 ;
+	dbpprop:position	dbpedia:Midfielder ;
+	dbpedia-owl:position	dbpedia:Midfielder ;
+	dbpedia-owl:height	1.803399999999999892 .
+@prefix ns34:	<http://dbpedia.org/datatype/> .
+@prefix ns35:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Simon_Elliott	ns35:height	"180.34"^^ns34:centimetre ;
+	dbpprop:fullname	"Simon John Elliott" ;
+	dbpprop:clubs	dbpedia:LA_Galaxy ,
+		dbpedia:Chivas_USA ,
+		dbpedia:Miramar_Rangers ,
+		dbpedia:Wellington_United ,
+		dbpedia:Wellington_Olympic_AFC ,
+		<http://dbpedia.org/resource/Fulham_F.C.> ,
+		dbpedia:San_Jose_Earthquakes ,
+		dbpedia:Western_Suburbs ,
+		<http://dbpedia.org/resource/Boston_Bulldogs_(soccer)> ,
+		dbpedia:Columbus_Crew ,
+		dbpedia:Wellington_Phoenix_FC ;
+	dbpedia-owl:team	dbpedia:LA_Galaxy ,
+		dbpedia:Miramar_Rangers ,
+		dbpedia:Wellington_United ,
+		dbpedia:New_Zealand_national_under-23_football_team ,
+		dbpedia:Wellington_Olympic_AFC ,
+		dbpedia:New_Zealand_national_football_team ,
+		dbpedia:Western_Suburbs ,
+		<http://dbpedia.org/resource/Fulham_F.C.> ,
+		<http://dbpedia.org/resource/Boston_Bulldogs_(soccer)> ,
+		dbpedia:San_Jose_Earthquakes ,
+		dbpedia:Columbus_Crew ,
+		dbpedia:Waterside_Karori ,
+		dbpedia:Stanford_Cardinal ,
+		<http://dbpedia.org/resource/Wellington_College_(New_Zealand)> ,
+		dbpedia:New_Zealand_national_under-20_football_team ,
+		dbpedia:Wellington_Phoenix_FC .
+@prefix ns36:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Simon_Elliott	dbpprop:wordnet_type	ns36:synset-soccer_player-noun-1 ;
+	dbpprop:title	"New Zealand Squads" ;
+	dbpprop:pcupdate	"2011-10-20+02:00"^^xsd:date ;
+	dbpprop:youthyears	1980 ,
+		1989 ,
+		1997 .
+@prefix ns37:	<http://www.mlssoccer.com/players/> .
+dbpedia:Simon_Elliott	dbpedia-owl:wikiPageExternalLink	ns37:simon-elliott ,
+		<http://www.nzfootball.co.nz/index.php?id=294> ;
+	dbpprop:fg	"black" ;
+	dbpprop:nationalcaps	69 ,
+		3 ;
+	dbpprop:nationalgoals	0 ,
+		6 ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team ,
+		dbpedia:New_Zealand_national_under-20_football_team ,
+		dbpedia:New_Zealand_national_under-23_football_team ;
+	dbpprop:nationalyears	1995 ,
+		2008 ;
+	dbpprop:ntupdate	"2010-06-02+02:00"^^xsd:date ;
+	dbpprop:totalcaps	302 ;
+	dbpprop:totalgoals	38 .
+<http://dbpedia.org/resource/2005%E2%80%9306_Fulham_F.C._season>	dbpprop:name	dbpedia:Simon_Elliott ;
+	dbpedia-owl:currentMember	dbpedia:Simon_Elliott .
+<http://dbpedia.org/resource/2006%E2%80%9307_Fulham_F.C._season>	dbpprop:name	dbpedia:Simon_Elliott ;
+	dbpedia-owl:currentMember	dbpedia:Simon_Elliott .
+<http://dbpedia.org/resource/2011_Chivas_USA_season>	dbpprop:name	dbpedia:Simon_Elliott .
+<http://dbpedia.org/resource/2007%E2%80%9308_Fulham_F.C._season__Simon_Elliott__1>	dbpedia-owl:currentMember	dbpedia:Simon_Elliott .
+<http://dbpedia.org/resource/2010%E2%80%9311_Wellington_Phoenix_FC_season__Simon_Elliott__1>	dbpedia-owl:currentMember	dbpedia:Simon_Elliott .
+<http://dbpedia.org/resource/2009_San_Jose_Earthquakes_season__Simon_Elliott__1>	dbpedia-owl:currentMember	dbpedia:Simon_Elliott .
+<http://dbpedia.org/resource/2011_Chivas_USA_season__Simon_Elliott__1>	dbpedia-owl:currentMember	dbpedia:Simon_Elliott .

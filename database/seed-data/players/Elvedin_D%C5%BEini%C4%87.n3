@@ -1,0 +1,184 @@
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Zag%C5%82%C4%99bie_Lubin>	dbpprop:name	<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns2:	<http://en.wikipedia.org/wiki/> .
+ns2:Elvedin_Džinić	foaf:primaryTopic	<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:List_of_Slovenia_national_football_team_World_Cup_and_European_Championship_squads	dbpprop:name	<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87> .
+dbpedia:List_of_Belgian_football_transfers_summer_2013	dbpprop:name	<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:List_of_Belgian_football_transfers_summer_2013	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87> .
+<http://dbpedia.org/resource/List_of_Bulgarian_football_transfers_winter_2013%E2%80%9314>	dbpprop:name	<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87>	rdf:type	dbpedia-owl:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87>	rdf:type	yago:Athlete109820263 ,
+		dbpedia-owl:Person ,
+		dbpedia-owl:Athlete ,
+		yago:FootballPlayer110101634 ,
+		yago:Whole100003553 ,
+		<http://dbpedia.org/class/yago/R.CharleroiS.C.Players> ,
+		yago:Object100002684 ,
+		yago:PeopleFromMaribor .
+@prefix ns7:	<http://schema.org/> .
+<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87>	rdf:type	ns7:Person ,
+		yago:NKMariborPlayers ,
+		yago:SlovenianFootballers ,
+		yago:SloveniaInternationalFootballers ,
+		yago:Player110439851 ,
+		yago:SlovenianExpatriateFootballers ,
+		yago:ExpatriateFootballersInBelgium ,
+		dbpedia-owl:SoccerPlayer .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87>	rdf:type	dul:NaturalPerson ,
+		yago:Contestant109613191 .
+@prefix ns9:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87>	rdf:type	ns9:Q5 ,
+		dul:Agent ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:PhysicalEntity100001930 ,
+		foaf:Person ,
+		yago:BelgianSecondDivisionFootballers ,
+		ns9:Q215627 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87>	rdf:type	owl:Thing ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.06zldn_> ,
+		<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87> .
+@prefix ns11:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87>	owl:sameAs	ns11:Elvedin_Džinić .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87>	rdfs:label	"Elvedin D\u017Eini\u010D"@fr ,
+		"Elvedin D\u017Eini\u010D"@es ,
+		"Elvedin D\u017Eini\u0107" ,
+		"Elvedin D\u017Eini\u010D"@pt ,
+		"Elvedin D\u017Eini\u010D"@pl ,
+		"\u0414\u0436\u0438\u043D\u0438\u0447, \u042D\u043B\u0432\u0435\u0434\u0438\u043D"@ru ,
+		"\u0625\u0644\u0641\u064A\u062F\u064A\u0646 \u062F\u0632\u064A\u0646\u064A\u062A\u0634"@ar ,
+		"Elvedin D\u017Eini\u010D"@it ,
+		"\u57C3\u723E\u97CB\u4E01\u00B7\u5B63\u5C3C\u5947"@zh ,
+		"Elvedin D\u017Eini\u010D"@nl ,
+		"Elvedin D\u017Eini\u010D"@de .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87>	dcterms:subject	category:Sportspeople_from_Maribor ,
+		category:Slovenian_expatriate_footballers ,
+		category:NK_Maribor_players ,
+		category:PFC_Botev_Plovdiv_players ,
+		category:Living_people ,
+		category:Expatriate_footballers_in_Bulgaria ,
+		category:Belgian_Second_Division_footballers ,
+		category:Expatriate_footballers_in_Poland ,
+		<http://dbpedia.org/resource/Category:NK_%C5%BDelezni%C4%8Dar_Maribor_players> ,
+		category:Expatriate_footballers_in_Belgium ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:1985_births> ,
+		<http://dbpedia.org/resource/Category:R._Charleroi_S.C._players> ,
+		category:Association_football_defenders ,
+		category:Slovenia_under-21_international_footballers ,
+		category:Slovenian_footballers .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87>	dc:description	"Slovenian footballer" ,
+		"Slovenian footballer" ;
+	foaf:givenName	"Elvedin" ;
+	foaf:name	"Elvedin D\u017Eini\u0107" ,
+		"D\u017Eini\u0107, Elvedin" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Elvedin_D\u017Eini\u0107?oldid=604374497> ;
+	rdfs:comment	"Elvedin D\u017Eini\u0107 (born 25 August 1985 in Maribor) is a Slovenian football defender, who plays for Zag\u0142\u0119bie Lubin." ,
+		"\u57C3\u723E\u97CB\u4E01\u00B7\u5B63\u5C3C\u5947\uFF08Elvedin D\u017Eini\u010D\uFF09\u662F\u65AF\u6D1B\u6587\u5C3C\u4E9E\u7684\u4E00\u4F4D\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u5728\u5834\u4E0A\u53F8\u8077\u5F8C\u885B\u3002\u4ED6\u73FE\u5728\u6548\u529B\u4E8E\u6BD4\u5229\u6642\u7403\u968A\u7687\u5BB6\u6C99\u52D2\u7F85\u74E6\u8DB3\u7403\u4FF1\u6A02\u90E8\u3002"@zh ,
+		"Elvedin D\u017Eini\u010D (Zavidovi\u0107i, 25 agosto 1985) \u00E8 un calciatore sloveno, difensore del Zaglebie Lubin."@it ,
+		"Elvedin D\u017Eini\u010D (ur. 25 sierpnia 1985 w Zavidovi\u0107i) \u2013 s\u0142owe\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji obro\u0144cy w polskim klubie Zag\u0142\u0119bie Lubin."@pl ,
+		"Elvedin D\u017Eini\u010D, n\u00E9 le 25 ao\u00FBt 1985 \u00E0 Zavidovi\u0107i, est un footballeur international slov\u00E8ne. Il \u00E9volue actuellement au Botev Plovdiv dans le championnat de Bulgarie au poste de d\u00E9fenseur. Il fait partie des 23 joueurs slov\u00E8nes s\u00E9lectionn\u00E9s pour participer \u00E0 la coupe du monde 2010."@fr ,
+		"\u042D\u043B\u0432\u0435\u0434\u0438\u0301\u043D \u0414\u0436\u0438\u0301\u043D\u0438\u0447 (\u0441\u043B\u043E\u0432\u0435\u043D. Elvedin D\u017Eini\u010D. 25 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1985, \u0417\u0430\u0432\u0438\u0434\u043E\u0432\u0438\u0447\u0438, \u0421\u0420 \u0411\u043E\u0441\u043D\u0438\u044F \u0438 \u0413\u0435\u0440\u0446\u0435\u0433\u043E\u0432\u0438\u043D\u0430, \u0421\u0424\u0420\u042E) \u2014 \u0441\u043B\u043E\u0432\u0435\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0431\u043E\u043B\u0433\u0430\u0440\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0411\u043E\u0442\u0435\u0432\u00BB \u0438\u0437 \u041F\u043B\u043E\u0432\u0434\u0438\u0432\u0430 \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u043B\u043E\u0432\u0435\u043D\u0438\u0438."@ru ,
+		"\u0625\u0644\u0641\u064A\u062F\u064A\u0646 \u062F\u0632\u064A\u0646\u064A\u062A\u0634 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Elvedin D\u017Eini\u010D) (\u0645\u0648\u0627\u0644\u064A\u062F 25 \u0623\u063A\u0633\u0637\u0633 1985 \u0641\u064A \u0632\u0627\u0641\u064A\u062F\u0648\u0641\u064A\u062A\u0634\u064A) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0633\u0644\u0648\u0641\u064A\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0645\u0627\u0631\u064A\u0628\u0648\u0631 \u0627\u0644\u0633\u0644\u0648\u0641\u064A\u0646\u064A ."@ar ,
+		"Elvedin D\u017Eini\u0107 (Maribor, RFS Yugoslavia, 25 de agosto de 1985) es un futbolista esloveno que juega como defensor en el Zag\u0142\u0119bie Lubin de la Ekstraklasa de Polonia."@es ,
+		"Elvedin D\u017Eini\u010D (* 25. August 1985, Zavidovi\u0107i, SFR Jugoslawien heute Bosnien-Herzegowina ) ist ein slowenischer Fu\u00DFballspieler. Der Abwehrspieler steht zur Zeit beim polnischen Erstligisten Zag\u0142\u0119bie Lubin unter Vertrag."@de ,
+		"Elvedin D\u017Eini\u010D (Zavidovi\u0107i, 25 de agosto de 1985) \u00E9 um futebolista profissional esloveno que atua como zagueiro, milita no Charleroi da B\u00E9lgica."@pt ,
+		"Elvedin D\u017Eini\u010D (Maribor, 25 augustus 1985) is een Sloveense verdediger die sinds de winter 2010 voor de Sporting Charleroi uitkomt. Eerder speelde hij voor NK Maribor."@nl ;
+	foaf:surname	"D\u017Eini\u0107" ;
+	foaf:isPrimaryTopicOf	ns2:Elvedin_Džinić .
+@prefix ns17:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87>	dbpprop:hasPhotoCollection	ns17:Elvedin_Džinić ;
+	dbpprop:name	"D\u017Eini\u0107, Elvedin" ,
+		"Elvedin D\u017Eini\u0107" ;
+	dbpedia-owl:abstract	"\u0625\u0644\u0641\u064A\u062F\u064A\u0646 \u062F\u0632\u064A\u0646\u064A\u062A\u0634 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Elvedin D\u017Eini\u010D) (\u0645\u0648\u0627\u0644\u064A\u062F 25 \u0623\u063A\u0633\u0637\u0633 1985 \u0641\u064A \u0632\u0627\u0641\u064A\u062F\u0648\u0641\u064A\u062A\u0634\u064A) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0633\u0644\u0648\u0641\u064A\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0645\u0627\u0631\u064A\u0628\u0648\u0631 \u0627\u0644\u0633\u0644\u0648\u0641\u064A\u0646\u064A ."@ar ,
+		"Elvedin D\u017Eini\u010D (Zavidovi\u0107i, 25 agosto 1985) \u00E8 un calciatore sloveno, difensore del Zaglebie Lubin."@it ,
+		"\u042D\u043B\u0432\u0435\u0434\u0438\u0301\u043D \u0414\u0436\u0438\u0301\u043D\u0438\u0447 (\u0441\u043B\u043E\u0432\u0435\u043D. Elvedin D\u017Eini\u010D. 25 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1985, \u0417\u0430\u0432\u0438\u0434\u043E\u0432\u0438\u0447\u0438, \u0421\u0420 \u0411\u043E\u0441\u043D\u0438\u044F \u0438 \u0413\u0435\u0440\u0446\u0435\u0433\u043E\u0432\u0438\u043D\u0430, \u0421\u0424\u0420\u042E) \u2014 \u0441\u043B\u043E\u0432\u0435\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0431\u043E\u043B\u0433\u0430\u0440\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0411\u043E\u0442\u0435\u0432\u00BB \u0438\u0437 \u041F\u043B\u043E\u0432\u0434\u0438\u0432\u0430 \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u043B\u043E\u0432\u0435\u043D\u0438\u0438."@ru ,
+		"Elvedin D\u017Eini\u010D (* 25. August 1985, Zavidovi\u0107i, SFR Jugoslawien heute Bosnien-Herzegowina ) ist ein slowenischer Fu\u00DFballspieler. Der Abwehrspieler steht zur Zeit beim polnischen Erstligisten Zag\u0142\u0119bie Lubin unter Vertrag."@de ,
+		"Elvedin D\u017Eini\u010D (Zavidovi\u0107i, 25 de agosto de 1985) \u00E9 um futebolista profissional esloveno que atua como zagueiro, milita no Charleroi da B\u00E9lgica."@pt ,
+		"Elvedin D\u017Eini\u0107 (born 25 August 1985 in Maribor) is a Slovenian football defender, who plays for Zag\u0142\u0119bie Lubin." ,
+		"Elvedin D\u017Eini\u0107 (Maribor, RFS Yugoslavia, 25 de agosto de 1985) es un futbolista esloveno que juega como defensor en el Zag\u0142\u0119bie Lubin de la Ekstraklasa de Polonia."@es ,
+		"\u57C3\u723E\u97CB\u4E01\u00B7\u5B63\u5C3C\u5947\uFF08Elvedin D\u017Eini\u010D\uFF09\u662F\u65AF\u6D1B\u6587\u5C3C\u4E9E\u7684\u4E00\u4F4D\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u5728\u5834\u4E0A\u53F8\u8077\u5F8C\u885B\u3002\u4ED6\u73FE\u5728\u6548\u529B\u4E8E\u6BD4\u5229\u6642\u7403\u968A\u7687\u5BB6\u6C99\u52D2\u7F85\u74E6\u8DB3\u7403\u4FF1\u6A02\u90E8\u3002"@zh ,
+		"Elvedin D\u017Eini\u010D, n\u00E9 le 25 ao\u00FBt 1985 \u00E0 Zavidovi\u0107i, est un footballeur international slov\u00E8ne. Il \u00E9volue actuellement au Botev Plovdiv dans le championnat de Bulgarie au poste de d\u00E9fenseur. Il fait partie des 23 joueurs slov\u00E8nes s\u00E9lectionn\u00E9s pour participer \u00E0 la coupe du monde 2010."@fr ,
+		"Elvedin D\u017Eini\u010D (Maribor, 25 augustus 1985) is een Sloveense verdediger die sinds de winter 2010 voor de Sporting Charleroi uitkomt. Eerder speelde hij voor NK Maribor."@nl ,
+		"Elvedin D\u017Eini\u010D (ur. 25 sierpnia 1985 w Zavidovi\u0107i) \u2013 s\u0142owe\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji obro\u0144cy w polskim klubie Zag\u0142\u0119bie Lubin."@pl ;
+	dbpedia-owl:wikiPageID	23591579 ;
+	dbpedia-owl:wikiPageRevisionID	604374497 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87>	dbpprop:birthDate	"1985-08-25+02:00"^^xsd:date ;
+	dbpprop:birthPlace	dbpedia:Socialist_Federal_Republic_of_Yugoslavia ,
+		dbpedia:Maribor ;
+	dbpprop:dateOfBirth	"1985-08-25+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Maribor, SFR Yugoslavia" ;
+	dbpprop:shortDescription	"Slovenian footballer" ;
+	dbpedia-owl:birthDate	"1985-08-25+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Socialist_Federal_Republic_of_Yugoslavia ,
+		dbpedia:Maribor ;
+	dbpedia-owl:birthYear	"1985+02:00"^^xsd:gYear ;
+	dbpprop:goals	16 ,
+		4 ,
+		0 ;
+	dbpprop:caps	65 ,
+		140 ,
+		10 ,
+		0 ;
+	dbpprop:years	2005 ,
+		2011 ,
+		2014 ,
+		2013 ;
+	dbpprop:youthclubs	dbpedia:NK_Maribor ,
+		<http://dbpedia.org/resource/NK_%C5%BDelezni%C4%8Dar_Maribor> ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87__3> ,
+		<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87__2> ,
+		<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87__4> ,
+		<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87__1> ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.8500000000000000888 .
+@prefix ns19:	<http://dbpedia.org/datatype/> .
+@prefix ns20:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87>	ns20:height	"185.0"^^ns19:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/Zag%C5%82%C4%99bie_Lubin> ;
+	dbpprop:fullname	"Elvedin D\u017Eini\u0107" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/R._Charleroi_S.C.> ,
+		<http://dbpedia.org/resource/Zag%C5%82%C4%99bie_Lubin> ,
+		dbpedia:NK_Maribor ,
+		dbpedia:PFC_Botev_Plovdiv ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/R._Charleroi_S.C.> ,
+		<http://dbpedia.org/resource/Zag%C5%82%C4%99bie_Lubin> ,
+		<http://dbpedia.org/resource/NK_%C5%BDelezni%C4%8Dar_Maribor> ,
+		dbpedia:NK_Maribor ,
+		dbpedia:Slovenia_national_under-21_football_team ,
+		dbpedia:PFC_Botev_Plovdiv ;
+	dbpprop:pcupdate	"2013-12-18+02:00"^^xsd:date ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.prvaliga.si/klubi/mostvo/igralec.asp?idi=36191&id=21&all=1> ;
+	dbpprop:nationalcaps	1 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:Slovenia_national_under-21_football_team .
+dbpedia:List_of_Bulgarian_football_transfers_summer_2013	dbpprop:name	<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87> .
+<http://dbpedia.org/resource/List_of_Belgian_football_transfers_winter_2010%E2%80%9311>	dbpprop:name	<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87> .
+<http://dbpedia.org/resource/Zag%C5%82%C4%99bie_Lubin__Elvedin_D%C5%BEini%C4%87__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87> .
+dbpedia:Elvedin_Džinić	owl:sameAs	<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87> .
+<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%8D>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87> .
+dbpedia:Elvedin_Dzinic	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Elvedin_D%C5%BEini%C4%87> .

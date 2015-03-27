@@ -1,0 +1,223 @@
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://dbpedia.org/resource/Matej_Mavri%C4%8D>	rdf:type	foaf:Person .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Matej_Mavri%C4%8D>	rdf:type	dbpedia-owl:SoccerPlayer .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Matej_Mavri%C4%8D>	rdf:type	yago:Contestant109613191 ,
+		yago:ExpatriateFootballersInAustria ,
+		yago:TuSKoblenzPlayers ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Matej_Mavri%C4%8D>	rdf:type	ns4:Q215627 ,
+		yago:LivingPeople .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Matej_Mavri%C4%8D>	rdf:type	owl:Thing ,
+		yago:NKPrimorjePlayers ,
+		yago:NDGoricaPlayers .
+@prefix ns6:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Matej_Mavri%C4%8D>	rdf:type	ns6:SoccerPlayer .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Matej_Mavri%C4%8D>	rdf:type	dul:NaturalPerson ,
+		ns4:Q5 ,
+		dul:Agent ,
+		dbpedia-owl:Agent ,
+		yago:ExpatriateFootballersInNorway ,
+		dbpedia-owl:Person ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		yago:SlovenianFootballers ,
+		yago:NorwegianPremierLeaguePlayers ,
+		yago:SloveniaInternationalFootballers ,
+		yago:SlovenianExpatriateFootballers ,
+		yago:PeopleFromKoper ,
+		yago:Whole100003553 ,
+		yago:ExpatriateFootballersInGermany ,
+		yago:Athlete109820263 ,
+		yago:Object100002684 ,
+		yago:FootballPlayer110101634 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Player110439851 ,
+		dbpedia-owl:Athlete ,
+		yago:MoldeFKPlayers .
+@prefix ns8:	<http://schema.org/> .
+<http://dbpedia.org/resource/Matej_Mavri%C4%8D>	rdf:type	ns8:Person ,
+		yago:SlovenianExpatriatesInGermany .
+@prefix ns9:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Matej_Mavri%C4%8D>	owl:sameAs	ns9:Matej_Mavrič ,
+		<http://rdf.freebase.com/ns/m.0947kq> ,
+		<http://dbpedia.org/resource/Matej_Mavri%C4%8D> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Matej_Mavri%C4%8D>	rdfs:label	"Matej Mavri\u010D"@it ,
+		"\u0645\u0627\u062A\u064A \u0645\u0627\u0641\u0631\u064A\u062A\u0634"@ar ,
+		"Matej Mavri\u010D"@de ,
+		"Matej Mavri\u010D" ,
+		"\u041C\u0430\u0432\u0440\u0438\u0447, \u041C\u0430\u0442\u0435\u0439"@ru ,
+		"Matej Mavri\u010D"@pl ,
+		"Matej Mavri\u010D"@pt ,
+		"\u30DE\u30C6\u30A4\u30FB\u30DE\u30F4\u30EA\u30C3\u30C1"@ja ,
+		"Matej Mavri\u010D"@es ,
+		"\u99AC\u8FEA\u7A4D\u00B7\u99AC\u7DAD\u6B77"@zh ,
+		"Matej Mavri\u010D"@nl ,
+		"Matej Mavri\u010D"@fr .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Matej_Mavri%C4%8D>	dcterms:subject	category:Association_football_defenders ,
+		<http://dbpedia.org/resource/Category:1979_births> ,
+		category:Expatriate_footballers_in_Germany ,
+		category:TuS_Koblenz_players ,
+		category:Living_people ,
+		category:Slovenia_under-21_international_footballers ,
+		category:Slovenian_footballers ,
+		category:Slovenia_international_footballers ,
+		category:Slovenian_expatriate_footballers ,
+		category:Molde_FK_players ,
+		category:FC_Koper_players ,
+		category:Expatriate_footballers_in_Norway ,
+		<http://dbpedia.org/resource/Category:2._Bundesliga_players> ,
+		category:Norwegian_Premier_League_players ,
+		category:Expatriate_footballers_in_Austria ,
+		category:NK_Primorje_players ,
+		category:People_from_Koper ,
+		category:ND_Gorica_players ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Slovenian_expatriates_in_Germany .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Matej_Mavri%C4%8D>	dc:description	"Slovenian footballer" ,
+		"Slovenian footballer" ;
+	foaf:givenName	"Matej" ;
+	foaf:name	"Matej Mavri\u010D" ,
+		"Mavri\u010D, Matej" ,
+		"Matej Ro\u017Ei\u010D Mavri\u010D" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Matej_Mavri%C4%8D>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Matej_Mavri\u010D?oldid=604376760> ;
+	rdfs:comment	"Matej Mavri\u010D (Koper, 29 januari 1979) is een Sloveens professioneel voetballer die momenteel als centraal verdediger actief is voor FC Koper."@nl ,
+		"Matej Mavri\u010D (* 29. Januar 1979 in Koper, SFR Jugoslawien) ist ein slowenischer Fu\u00DFballspieler."@de ,
+		"Matej Mavric n\u00E9 le 29 janvier 1979 \u00E0 Koper est un footballeur international slov\u00E8ne \u00E9voluant actuellement au FC Koper."@fr ,
+		"\u0645\u0627\u062A\u064A \u0645\u0627\u0641\u0631\u064A\u062A\u0634 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Matej Mavri\u010D) (\u0645\u0648\u0627\u0644\u064A\u062F 29 \u064A\u0646\u0627\u064A\u0631 1979 \u0641\u064A \u0643\u0648\u0628\u0631) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0633\u0644\u0648\u0641\u064A\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0643\u0627\u0628\u0641\u064A\u0646\u0628\u064A\u0631\u063A \u0627\u0644\u0646\u0645\u0633\u0627\u0648\u064A ."@ar ,
+		"Matej Mavri\u010D (Capodistria, 29 gennaio 1979) \u00E8 un calciatore sloveno, difensore del Koper e della Nazionale slovena."@it ,
+		"Matej Mavri\u010D Rozi\u010D, (Koper, 29 de janeiro de 1979) \u00E9 um futebolista esloveno. Costuma jogar como zagueiro. Foi recentemente contratado pelo Kapfenberger SV, da \u00C1ustria."@pt ,
+		"\u30DE\u30C6\u30A4\u30FB\u30DE\u30F4\u30EA\u30C3\u30C1\u30FB\u30ED\u30B8\u30C3\u30C1\uFF08Matej Mavri\u010D Rozi\u010D\u30011979\u5E741\u670829\u65E5 - \uFF09\u306F\u3001\u30B9\u30ED\u30D9\u30CB\u30A2\u30FB\u30B3\u30DA\u30EB\u51FA\u8EAB\u306E\u5143\u540C\u56FD\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u73FE\u5F79\u6642\u4EE3\u306E\u30DD\u30B8\u30B7\u30E7\u30F3\u306FDF\u3002"@ja ,
+		"Matej Mavri\u010D (ur. 29 stycznia 1979 w Koperze) \u2013 pi\u0142karz s\u0142owe\u0144ski graj\u0105cy na pozycji \u015Brodkowego obro\u0144cy. Mierzy 187 cm wzrostu, wa\u017Cy 85 kg."@pl ,
+		"\u99AC\u8FEA\u7A4D\u00B7\u99AC\u7DAD\u6B77\uFF08\u82F1\u8BED\uFF1AMatej Mavri\u010D\uFF0C1979\u5E741\u670829\u65E5\uFF0D\uFF09\uFF0C\u662F\u4E00\u540D\u65AF\u6D1B\u6587\u5C3C\u4E9E\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u53F8\u804C\u5F8C\u885B\uFF0C\u76EE\u524D\u6548\u529B\u5FB7\u4E59\u7403\u961F\u79D1\u5E03\u502B\u65AF\u3002"@zh ,
+		"Matej Mavri\u010D Ro\u017Ei\u010D (Koper, RFS Yugoslavia, 29 de enero de 1979) es un futbolista esloveno que juega como defensor en el FC Koper de la Prva SNL de Eslovenia."@es ,
+		"Matej Ro\u017Ei\u010D Mavri\u010D (born 29 January 1979 in Koper) is a retired Slovenian international footballer." ,
+		"\u041C\u0430\u0442\u0435\u0439 \u041C\u0430\u0432\u0440\u0438\u0447 (\u0441\u043B\u043E\u0432\u0435\u043D. Matej Mavri\u010D; 29 \u044F\u043D\u0432\u0430\u0440\u044F 1979, \u041A\u043E\u043F\u0435\u0440, \u0421\u0424\u0420\u042E) \u2014 \u0441\u043B\u043E\u0432\u0435\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u00AB\u041A\u043E\u043F\u0435\u0440\u0430\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u043B\u043E\u0432\u0435\u043D\u0438\u0438."@ru ;
+	foaf:surname	"Mavri\u010D" .
+@prefix ns15:	<http://en.wikipedia.org/wiki/> .
+<http://dbpedia.org/resource/Matej_Mavri%C4%8D>	foaf:isPrimaryTopicOf	ns15:Matej_Mavrič .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix ns17:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Matej_Mavri%C4%8D>	dbpprop:hasPhotoCollection	ns17:Matej_Mavrič ;
+	dbpprop:name	"Matej Mavri\u010D" ,
+		"Mavri\u010D, Matej" ;
+	dbpedia-owl:abstract	"\u041C\u0430\u0442\u0435\u0439 \u041C\u0430\u0432\u0440\u0438\u0447 (\u0441\u043B\u043E\u0432\u0435\u043D. Matej Mavri\u010D; 29 \u044F\u043D\u0432\u0430\u0440\u044F 1979, \u041A\u043E\u043F\u0435\u0440, \u0421\u0424\u0420\u042E) \u2014 \u0441\u043B\u043E\u0432\u0435\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u00AB\u041A\u043E\u043F\u0435\u0440\u0430\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u043B\u043E\u0432\u0435\u043D\u0438\u0438."@ru ,
+		"Matej Mavric n\u00E9 le 29 janvier 1979 \u00E0 Koper est un footballeur international slov\u00E8ne \u00E9voluant actuellement au FC Koper."@fr ,
+		"\u30DE\u30C6\u30A4\u30FB\u30DE\u30F4\u30EA\u30C3\u30C1\u30FB\u30ED\u30B8\u30C3\u30C1\uFF08Matej Mavri\u010D Rozi\u010D\u30011979\u5E741\u670829\u65E5 - \uFF09\u306F\u3001\u30B9\u30ED\u30D9\u30CB\u30A2\u30FB\u30B3\u30DA\u30EB\u51FA\u8EAB\u306E\u5143\u540C\u56FD\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u73FE\u5F79\u6642\u4EE3\u306E\u30DD\u30B8\u30B7\u30E7\u30F3\u306FDF\u3002"@ja ,
+		"Matej Mavri\u010D Rozi\u010D, (Koper, 29 de janeiro de 1979) \u00E9 um futebolista esloveno. Costuma jogar como zagueiro. Foi recentemente contratado pelo Kapfenberger SV, da \u00C1ustria."@pt ,
+		"Matej Ro\u017Ei\u010D Mavri\u010D (born 29 January 1979 in Koper) is a retired Slovenian international footballer." ,
+		"Matej Mavri\u010D (Capodistria, 29 gennaio 1979) \u00E8 un calciatore sloveno, difensore del Koper e della Nazionale slovena."@it ,
+		"Matej Mavri\u010D (ur. 29 stycznia 1979 w Koperze) \u2013 pi\u0142karz s\u0142owe\u0144ski graj\u0105cy na pozycji \u015Brodkowego obro\u0144cy. Mierzy 187 cm wzrostu, wa\u017Cy 85 kg."@pl ,
+		"Matej Mavri\u010D Ro\u017Ei\u010D (Koper, RFS Yugoslavia, 29 de enero de 1979) es un futbolista esloveno que juega como defensor en el FC Koper de la Prva SNL de Eslovenia."@es ,
+		"\u99AC\u8FEA\u7A4D\u00B7\u99AC\u7DAD\u6B77\uFF08\u82F1\u8BED\uFF1AMatej Mavri\u010D\uFF0C1979\u5E741\u670829\u65E5\uFF0D\uFF09\uFF0C\u662F\u4E00\u540D\u65AF\u6D1B\u6587\u5C3C\u4E9E\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u53F8\u804C\u5F8C\u885B\uFF0C\u76EE\u524D\u6548\u529B\u5FB7\u4E59\u7403\u961F\u79D1\u5E03\u502B\u65AF\u3002"@zh ,
+		"Matej Mavri\u010D (* 29. Januar 1979 in Koper, SFR Jugoslawien) ist ein slowenischer Fu\u00DFballspieler."@de ,
+		"\u0645\u0627\u062A\u064A \u0645\u0627\u0641\u0631\u064A\u062A\u0634 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Matej Mavri\u010D) (\u0645\u0648\u0627\u0644\u064A\u062F 29 \u064A\u0646\u0627\u064A\u0631 1979 \u0641\u064A \u0643\u0648\u0628\u0631) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0633\u0644\u0648\u0641\u064A\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0643\u0627\u0628\u0641\u064A\u0646\u0628\u064A\u0631\u063A \u0627\u0644\u0646\u0645\u0633\u0627\u0648\u064A ."@ar ,
+		"Matej Mavri\u010D (Koper, 29 januari 1979) is een Sloveens professioneel voetballer die momenteel als centraal verdediger actief is voor FC Koper."@nl ;
+	dbpedia-owl:wikiPageID	3300662 ;
+	dbpedia-owl:wikiPageRevisionID	604376760 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Matej_Mavri%C4%8D>	dbpprop:birthDate	"1979-01-29+02:00"^^xsd:date .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Matej_Mavri%C4%8D>	dbpprop:birthPlace	dbpedia:Koper ,
+		dbpedia:Socialist_Federal_Republic_of_Yugoslavia ;
+	dbpprop:dateOfBirth	"1979-01-29+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Koper, SFR Yugoslavia" ;
+	dbpprop:shortDescription	"Slovenian footballer" ;
+	dbpedia-owl:birthDate	"1979-01-29+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Koper ,
+		dbpedia:Socialist_Federal_Republic_of_Yugoslavia ;
+	dbpedia-owl:birthYear	"1979+02:00"^^xsd:gYear ;
+	dbpprop:goals	12 ,
+		8 ,
+		7 ,
+		4 ,
+		3 ,
+		1 ;
+	dbpprop:caps	101 ,
+		90 ,
+		52 ,
+		37 ,
+		32 ,
+		34 ,
+		11 ;
+	dbpprop:years	1997 ,
+		2010 ,
+		2012 ,
+		2000 ,
+		2007 ,
+		2004 ;
+	dbpprop:youthclubs	<http://dbpedia.org/resource/NK_Piran_(defunct)> ,
+		dbpedia:NK_Primorje ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Matej_Mavri%C4%8D__4> ,
+		<http://dbpedia.org/resource/Matej_Mavri%C4%8D__8> ,
+		<http://dbpedia.org/resource/Matej_Mavri%C4%8D__5> ,
+		<http://dbpedia.org/resource/Matej_Mavri%C4%8D__6> ,
+		<http://dbpedia.org/resource/Matej_Mavri%C4%8D__7> ,
+		<http://dbpedia.org/resource/Matej_Mavri%C4%8D__2> ,
+		<http://dbpedia.org/resource/Matej_Mavri%C4%8D__3> ,
+		<http://dbpedia.org/resource/Matej_Mavri%C4%8D__1> ,
+		<http://dbpedia.org/resource/Matej_Mavri%C4%8D__9> ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.8700000000000001066 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Matej_Mavri%C4%8D>	ns21:height	"187.0"^^ns20:centimetre ;
+	dbpprop:fullname	"Matej Ro\u017Ei\u010D Mavri\u010D" ;
+	dbpprop:clubs	dbpedia:ND_Gorica ,
+		"\u2192 TuS Koblenz" ,
+		dbpedia:Kapfenberger_SV ,
+		dbpedia:FC_Koper ,
+		dbpedia:NK_Primorje ,
+		dbpedia:Molde_FK ,
+		dbpedia:TuS_Koblenz ;
+	dbpedia-owl:team	dbpedia:ND_Gorica ,
+		dbpedia:Slovenia_national_football_team ,
+		dbpedia:Slovenia_national_under-21_football_team ,
+		dbpedia:Kapfenberger_SV ,
+		dbpedia:NK_Primorje ,
+		dbpedia:FC_Koper ,
+		dbpedia:Molde_FK ,
+		<http://dbpedia.org/resource/NK_Piran_(defunct)> ,
+		dbpedia:TuS_Koblenz ;
+	dbpprop:pcupdate	"2013-08-17+02:00"^^xsd:date ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.prvaliga.si/klubi/mostvo/igralec.asp?idi=15478&id=1&all=1> ,
+		<http://www.nzs.si/index.php?t=reprezentancaPortret&id=15478> ;
+	dbpprop:nationalcaps	10 ,
+		37 ;
+	dbpprop:nationalgoals	0 ,
+		1 ;
+	dbpprop:nationalteam	dbpedia:Slovenia_national_football_team ,
+		dbpedia:Slovenia_national_under-21_football_team ;
+	dbpprop:nationalyears	2002 ,
+		1998 ;
+	dbpedia-owl:alias	"Mavri\u010D, Matej Ro\u017Ei\u010D" ;
+	dbpprop:alternativeNames	"Mavri\u010D, Matej Ro\u017Ei\u010D" ;
+	dbpprop:ntupdate	"2011-06-04+02:00"^^xsd:date .
+dbpedia:Matej_Mavrič	owl:sameAs	<http://dbpedia.org/resource/Matej_Mavri%C4%8D> .
+<http://dbpedia.org/resource/2007_Molde_FK_season__Matej_Mavri%C4%8D__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Matej_Mavri%C4%8D> .
+<http://dbpedia.org/resource/2007_Molde_FK_season__Matej_Mavri%C4%8D__2>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Matej_Mavri%C4%8D> .
+dbpedia:Matej_Mavric	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Matej_Mavri%C4%8D> .
+ns15:Matej_Mavrič	foaf:primaryTopic	<http://dbpedia.org/resource/Matej_Mavri%C4%8D> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Matej_Mavri%C4%8D> .
+dbpedia:List_of_Slovenia_national_football_team_World_Cup_and_European_Championship_squads	dbpprop:name	<http://dbpedia.org/resource/Matej_Mavri%C4%8D> .
+dbpedia:List_of_German_football_transfers_summer_2007	dbpprop:name	<http://dbpedia.org/resource/Matej_Mavri%C4%8D> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Matej_Mavri%C4%8D> .
+<http://dbpedia.org/resource/2007_Molde_FK_season>	dbpprop:name	<http://dbpedia.org/resource/Matej_Mavri%C4%8D> .

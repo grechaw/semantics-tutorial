@@ -1,0 +1,172 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_de_République_turque_de_Chypre_du_Nord_de_football	owl:sameAs	dbpedia:Northern_Cyprus_national_football_team .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Fußballnationalmannschaft_der_Türkischen_Republik_Nordzypern	owl:sameAs	dbpedia:Northern_Cyprus_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q603750	owl:sameAs	dbpedia:Northern_Cyprus_national_football_team .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Selección_de_fútbol_de_la_República_Turca_del_Norte_de_Chipre	owl:sameAs	dbpedia:Northern_Cyprus_national_football_team .
+@prefix ns6:	<http://it.dbpedia.org/resource/> .
+ns6:Selezione_di_calcio_di_Cipro_del_Nord	owl:sameAs	dbpedia:Northern_Cyprus_national_football_team .
+@prefix ns7:	<http://ja.dbpedia.org/resource/> .
+ns7:サッカー北キプロス代表	owl:sameAs	dbpedia:Northern_Cyprus_national_football_team .
+@prefix ns8:	<http://ko.dbpedia.org/resource/> .
+ns8:북키프로스_축구_국가대표팀	owl:sameAs	dbpedia:Northern_Cyprus_national_football_team .
+@prefix ns9:	<http://nl.dbpedia.org/resource/> .
+ns9:Noord-Cypriotisch_voetbalelftal	owl:sameAs	dbpedia:Northern_Cyprus_national_football_team .
+@prefix ns10:	<http://pl.dbpedia.org/resource/> .
+ns10:Reprezentacja_Cypru_Północnego_w_piłce_nożnej	owl:sameAs	dbpedia:Northern_Cyprus_national_football_team .
+@prefix ns11:	<http://pt.dbpedia.org/resource/> .
+ns11:Seleção_de_Futebol_do_Chipre_do_Norte	owl:sameAs	dbpedia:Northern_Cyprus_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Northern_Cyprus_national_football_team	rdf:type	dul:SocialPerson .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Northern_Cyprus_national_football_team	rdf:type	dbpedia-owl:Agent ,
+		<http://dbpedia.org/class/yago/EuropeanN.F.-BoardTeams> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Northern_Cyprus_national_football_team	rdf:type	yago:YagoPermanentlyLocatedEntity ,
+		owl:Thing ,
+		yago:YagoLegalActorGeo .
+@prefix ns16:	<http://schema.org/> .
+dbpedia:Northern_Cyprus_national_football_team	rdf:type	ns16:Organization ,
+		dbpedia-owl:Organisation ,
+		ns16:SportsTeam ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ,
+		yago:YagoLegalActor ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dul:Agent ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam .
+@prefix ns17:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Northern_Cyprus_national_football_team	owl:sameAs	ns17:Kuzey_Kıbrıs_Türk_Cumhuriyeti_Millî_Futbol_Takımı .
+@prefix ns18:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Northern_Cyprus_national_football_team	owl:sameAs	ns18:منتخب_قبرص_الشمالية_لكرة_القدم .
+@prefix ns19:	<http://wikidata.org/entity/> .
+dbpedia:Northern_Cyprus_national_football_team	owl:sameAs	ns19:Q603750 .
+@prefix ns20:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Northern_Cyprus_national_football_team	owl:sameAs	ns20:Pohjois-Kyproksen_jalkapallomaajoukkue ,
+		ns5:Selección_de_fútbol_de_la_República_Turca_del_Norte_de_Chipre ,
+		ns3:Fußballnationalmannschaft_der_Türkischen_Republik_Nordzypern .
+@prefix ns21:	<http://he.dbpedia.org/resource/> .
+dbpedia:Northern_Cyprus_national_football_team	owl:sameAs	ns21:נבחרת_הרפובליקה_הטורקית_של_צפון_קפריסין_בכדורגל .
+@prefix ns22:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Northern_Cyprus_national_football_team	owl:sameAs	ns22:Šiaurės_Kipro_vyrų_futbolo_rinktinė ,
+		ns9:Noord-Cypriotisch_voetbalelftal .
+@prefix ns23:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Northern_Cyprus_national_football_team	owl:sameAs	ns23:تیم_ملی_فوتبال_قبرس_شمالی ,
+		ns7:サッカー北キプロス代表 ,
+		ns4:Q603750 ,
+		ns10:Reprezentacja_Cypru_Północnego_w_piłce_nożnej ,
+		ns6:Selezione_di_calcio_di_Cipro_del_Nord ,
+		ns1:Équipe_de_République_turque_de_Chypre_du_Nord_de_football ,
+		dbpedia:Northern_Cyprus_national_football_team ,
+		ns8:북키프로스_축구_국가대표팀 .
+@prefix ns24:	<http://yago-knowledge.org/resource/> .
+dbpedia:Northern_Cyprus_national_football_team	owl:sameAs	ns24:Northern_Cyprus_national_football_team ,
+		ns11:Seleção_de_Futebol_do_Chipre_do_Norte ,
+		<http://rdf.freebase.com/ns/m.0dntxn> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Northern_Cyprus_national_football_team	rdfs:label	"Sele\u00E7\u00E3o de Futebol do Chipre do Norte"@pt ,
+		"\u30B5\u30C3\u30AB\u30FC\u5317\u30AD\u30D7\u30ED\u30B9\u4EE3\u8868"@ja ,
+		"Fu\u00DFballnationalmannschaft der T\u00FCrkischen Republik Nordzypern"@de ,
+		"Noord-Cypriotisch voetbalelftal"@nl ,
+		"\u00C9quipe de R\u00E9publique turque de Chypre du Nord de football"@fr ,
+		"Selezione di calcio di Cipro del Nord"@it ,
+		"Selecci\u00F3n de f\u00FAtbol de la Rep\u00FAblica Turca del Norte de Chipre"@es ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0642\u0628\u0631\u0635 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"Northern Cyprus national football team" ,
+		"Reprezentacja Cypru P\u00F3\u0142nocnego w pi\u0142ce no\u017Cnej"@pl .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+dbpedia:Northern_Cyprus_national_football_team	dcterms:subject	<http://dbpedia.org/resource/Category:European_N.F.-Board_teams> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Northern_Cyprus_national_football_team	dcterms:subject	category:Football_in_Northern_Cyprus .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbpedia:Northern_Cyprus_national_football_team	foaf:name	"Kuzey K\u0131br\u0131s T\u00FCrk Cumhuriyeti" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Northern_Cyprus_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Northern_Cyprus_national_football_team?oldid=596540408> ;
+	rdfs:comment	"The Northern Cyprus national football team (Turkish: Kuzey K\u0131br\u0131s Mill\u00EE Futbol Tak\u0131m\u0131) represents Northern Cyprus, a de facto country, in association football. They are a member of the New Federations Board for non-FIFA-affiliated nations. Northern Cyprus' home stadium is Nicosia Atat\u00FCrk Stadium in North Nicosia and their head coach is F\u0131rat Canova. They are the current FIFI Wild Cup champions, having won the event in Germany in June 2006." ,
+		"Die nordzyprische Fu\u00DFballnationalmannschaft ist eine von den Fu\u00DFballverb\u00E4nden UEFA und FIFA nicht anerkannte Fu\u00DFballauswahl. Nordzypern ist Mitglied des NF-Board, des Fu\u00DFballverbandes f\u00FCr Nationalmannschaften, die nicht Mitglieder der FIFA sind."@de ,
+		"La Selecci\u00F3n de f\u00FAtbol de la Rep\u00FAblica Turca del Norte de Chipre es el representativo nacional de este estado de facto."@es ,
+		"\u30B5\u30C3\u30AB\u30FC\u5317\u30AD\u30D7\u30ED\u30B9\u4EE3\u8868\u306F\u3001\u30AD\u30D7\u30ED\u30B9\u30FB\u30C8\u30EB\u30B3\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A (Cyprus Turkish Football Federation) \u306B\u3088\u308A\u7DE8\u6210\u3055\u308C\u308B\u5317\u30AD\u30D7\u30ED\u30B9\u30FB\u30C8\u30EB\u30B3\u5171\u548C\u56FD\uFF08\u5317\u30AD\u30D7\u30ED\u30B9\uFF09\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u5317\u30AD\u30D7\u30ED\u30B9\u306F\u4E3B\u6A29\u56FD\u5BB6\u3068\u3057\u3066\u56FD\u969B\u7684\u306A\u627F\u8A8D\u304C\u5F97\u3089\u308C\u3066\u3044\u306A\u3044\u305F\u3081\u3001\u4EE3\u8868\u30C1\u30FC\u30E0\u306F\u56FD\u969B\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08FIFA\uFF09\u53CA\u3073\u6B27\u5DDE\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08UEFA\uFF09\u306B\u52A0\u76DF\u3057\u3066\u3044\u306A\u3044\u3002\u300C\u73FE\u6642\u70B9\u3067\u72EC\u7ACB\u3092\u9054\u6210\u3057\u3066\u3044\u306A\u3044\u56FD\u300D\u306E\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u304C\u96C6\u3046NF-Board\u306E\u30E1\u30F3\u30D0\u30FC\u3067\u3042\u308B\u30022009\u5E74\u73FE\u5728\u3001FIFI\u30EF\u30A4\u30EB\u30C9\u30AB\u30C3\u30D7\uFF082006\u5E74\u30CF\u30F3\u30D6\u30EB\u30AF\u5927\u4F1A\uFF09\u304A\u3088\u3073ELF\u30AB\u30C3\u30D7 (ELF Cup) \uFF082006\u5E74\u5317\u30AD\u30D7\u30ED\u30B9\u5927\u4F1A\uFF09\u306E\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3067\u3042\u308B\u3002"@ja ,
+		"Het Noord-Cypriotisch voetbalelftal is een team van voetballers dat Turkse Republiek Noord-Cyprus vertegenwoordigt bij internationale wedstrijden. Noord-Cyprus is lid van de CENF, een continentale bond van de NF-Board die bestemd is voor de landen die geen lid zijn van de FIFA en de UEFA. Noord-Cyprus is dus uitgesloten van deelname aan het WK en het EK.Het team werd winnaar van eerste editie van de ELF Cup in 2006."@nl ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0642\u0628\u0631\u0635 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0648\u0647\u0648 \u0645\u0646\u062A\u062E\u0628 \u064A\u0645\u062B\u0644 \u0627\u0642\u0644\u064A\u0645 \u0634\u0645\u0627\u0644 \u0642\u0628\u0631\u0635 \u0648\u064A\u0644\u0639\u0628 \u0641\u064A \u0628\u0637\u0648\u0644\u0627\u062A \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0627\u0642\u0627\u0644\u064A\u0645 \u0627\u0644\u062A\u0627\u0628\u0639\u0629 \u0644\u0644\u062C\u0646\u0629 viva \u0641\u064A \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u062F\u0648\u0644\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0648\u0627\u062D\u0631\u0632 \u0644\u0642\u0628\u0647\u0627 \u0641\u064A 2006 \u0648\u0644\u062F\u064A\u0647 \u0645\u0644\u0639\u0628 \u0644\u0645\u0628\u0627\u0631\u064A\u0627\u062A\u0647 \u0647\u0648 \u0645\u0644\u0639\u0628 \u0627\u062A\u0627\u062A\u0648\u0631\u0643 \u0641\u064A \u0646\u064A\u0642\u0648\u0633\u064A\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629"@ar ,
+		"Reprezentacja Cypru P\u00F3\u0142nocnego w pi\u0142ce no\u017Cnej jest jedn\u0105 z najlepiej zorganizowanych reprezentacji nienale\u017C\u0105cych do FIFA i UEFA, poniewa\u017C nie s\u0105 cz\u0142onkiem ONZ. O cz\u0142onkostwo w tej organizacji Turcy mieszkaj\u0105cy na Cyprze zabiegaj\u0105 ju\u017C od 1955, kiedy to Cypryjski Zwi\u0105zek Pi\u0142ki No\u017Cnej postanowi\u0142 tymczasowo zawiesi\u0107 udzia\u0142 klub\u00F3w z Cypru P\u00F3\u0142nocnego w celu unikni\u0119cia konflikt\u00F3w mi\u0119dzy grecko a tureckoj\u0119zycznymi obywatelami tego kraju."@pl ,
+		"L'\u00C9quipe de la R\u00E9publique turque de Chypre du Nord est l'\u00E9quipe non reconnue internationalement de la R\u00E9publique turque de Chypre du Nord. Elle n'est pas membre de la FIFA, ni par l'UEFA et ne participe donc pas aux tournois internationaux."@fr ,
+		"La Selezione di calcio della Repubblica Turca di Cipro Nord \u00E8 la rappresentativa della Repubblica Turca di Cipro Nord, una nazione de facto ed \u00E8 membro ufficiale della NF-Board dal 25 marzo 2006.\u00C8 campione in carica della FIFI Wild Cup avendola vinta in Germania nel giugno del 2006 e della ELF Cup, avendo vinto la prima, e sinora unica, edizione del 2006 di cui \u00E8 stata anche paese ospitante."@it ,
+		"A Sele\u00E7\u00E3o de Futebol do Chipre do Norte \u00E9 uma equipe de futebol que representa a Rep\u00FAblica Turca de Chipre do Norte, um pa\u00EDs reconhecido apenas pela Turquia. N\u00E3o \u00E9 afiliada \u00E0 Federa\u00E7\u00E3o Internacional de Futebol nem \u00E0 UEFA e, por este motivo, n\u00E3o pode disputar a Copa do Mundo nem Eurocopas.Filiada \u00E0 NF-Board, a sele\u00E7\u00E3o disputou a VIVA World Cup de 2012 onde alcan\u00E7ou a final, perdendo por 2 a 1 frente ao Curdist\u00E3o Iraquiano.== Refer\u00EAncias =="@pt .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Northern_Cyprus_national_football_team	dbpprop:mostCaps	<http://dbpedia.org/resource/Serkan_%C3%96net> .
+@prefix ns31:	<http://en.wikipedia.org/wiki/> .
+dbpedia:Northern_Cyprus_national_football_team	foaf:isPrimaryTopicOf	ns31:Northern_Cyprus_national_football_team .
+@prefix ns32:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Northern_Cyprus_national_football_team	dbpprop:hasPhotoCollection	ns32:Northern_Cyprus_national_football_team ;
+	dbpprop:name	"Kuzey K\u0131br\u0131s T\u00FCrk Cumhuriyeti" ;
+	dbpedia-owl:abstract	"La Selecci\u00F3n de f\u00FAtbol de la Rep\u00FAblica Turca del Norte de Chipre es el representativo nacional de este estado de facto. La Rep\u00FAblica Turca del Norte de Chipre es un miembro asociado a la NF-Board, cuyo representante es la Federaci\u00F3n de f\u00FAtbol de la Rep\u00FAblica Turca del Norte de Chipre, pero no es miembro de la FIFA, as\u00ED que sus partidos no son reconocidos por esta entidad.Chipre del Norte es uno de los equipos no afiliados a FIFA m\u00E1s exitosos, ya que es el campe\u00F3n vigente de la Copa ELF y de la FIFI Wild Cup."@es ,
+		"La Selezione di calcio della Repubblica Turca di Cipro Nord \u00E8 la rappresentativa della Repubblica Turca di Cipro Nord, una nazione de facto ed \u00E8 membro ufficiale della NF-Board dal 25 marzo 2006.\u00C8 campione in carica della FIFI Wild Cup avendola vinta in Germania nel giugno del 2006 e della ELF Cup, avendo vinto la prima, e sinora unica, edizione del 2006 di cui \u00E8 stata anche paese ospitante."@it ,
+		"A Sele\u00E7\u00E3o de Futebol do Chipre do Norte \u00E9 uma equipe de futebol que representa a Rep\u00FAblica Turca de Chipre do Norte, um pa\u00EDs reconhecido apenas pela Turquia. N\u00E3o \u00E9 afiliada \u00E0 Federa\u00E7\u00E3o Internacional de Futebol nem \u00E0 UEFA e, por este motivo, n\u00E3o pode disputar a Copa do Mundo nem Eurocopas.Filiada \u00E0 NF-Board, a sele\u00E7\u00E3o disputou a VIVA World Cup de 2012 onde alcan\u00E7ou a final, perdendo por 2 a 1 frente ao Curdist\u00E3o Iraquiano.== Refer\u00EAncias =="@pt ,
+		"Die nordzyprische Fu\u00DFballnationalmannschaft ist eine von den Fu\u00DFballverb\u00E4nden UEFA und FIFA nicht anerkannte Fu\u00DFballauswahl. Nordzypern ist Mitglied des NF-Board, des Fu\u00DFballverbandes f\u00FCr Nationalmannschaften, die nicht Mitglieder der FIFA sind."@de ,
+		"\u30B5\u30C3\u30AB\u30FC\u5317\u30AD\u30D7\u30ED\u30B9\u4EE3\u8868\u306F\u3001\u30AD\u30D7\u30ED\u30B9\u30FB\u30C8\u30EB\u30B3\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A (Cyprus Turkish Football Federation) \u306B\u3088\u308A\u7DE8\u6210\u3055\u308C\u308B\u5317\u30AD\u30D7\u30ED\u30B9\u30FB\u30C8\u30EB\u30B3\u5171\u548C\u56FD\uFF08\u5317\u30AD\u30D7\u30ED\u30B9\uFF09\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u5317\u30AD\u30D7\u30ED\u30B9\u306F\u4E3B\u6A29\u56FD\u5BB6\u3068\u3057\u3066\u56FD\u969B\u7684\u306A\u627F\u8A8D\u304C\u5F97\u3089\u308C\u3066\u3044\u306A\u3044\u305F\u3081\u3001\u4EE3\u8868\u30C1\u30FC\u30E0\u306F\u56FD\u969B\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08FIFA\uFF09\u53CA\u3073\u6B27\u5DDE\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08UEFA\uFF09\u306B\u52A0\u76DF\u3057\u3066\u3044\u306A\u3044\u3002\u300C\u73FE\u6642\u70B9\u3067\u72EC\u7ACB\u3092\u9054\u6210\u3057\u3066\u3044\u306A\u3044\u56FD\u300D\u306E\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u304C\u96C6\u3046NF-Board\u306E\u30E1\u30F3\u30D0\u30FC\u3067\u3042\u308B\u30022009\u5E74\u73FE\u5728\u3001FIFI\u30EF\u30A4\u30EB\u30C9\u30AB\u30C3\u30D7\uFF082006\u5E74\u30CF\u30F3\u30D6\u30EB\u30AF\u5927\u4F1A\uFF09\u304A\u3088\u3073ELF\u30AB\u30C3\u30D7 (ELF Cup) \uFF082006\u5E74\u5317\u30AD\u30D7\u30ED\u30B9\u5927\u4F1A\uFF09\u306E\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u3067\u3042\u308B\u3002"@ja ,
+		"Reprezentacja Cypru P\u00F3\u0142nocnego w pi\u0142ce no\u017Cnej jest jedn\u0105 z najlepiej zorganizowanych reprezentacji nienale\u017C\u0105cych do FIFA i UEFA, poniewa\u017C nie s\u0105 cz\u0142onkiem ONZ. O cz\u0142onkostwo w tej organizacji Turcy mieszkaj\u0105cy na Cyprze zabiegaj\u0105 ju\u017C od 1955, kiedy to Cypryjski Zwi\u0105zek Pi\u0142ki No\u017Cnej postanowi\u0142 tymczasowo zawiesi\u0107 udzia\u0142 klub\u00F3w z Cypru P\u00F3\u0142nocnego w celu unikni\u0119cia konflikt\u00F3w mi\u0119dzy grecko a tureckoj\u0119zycznymi obywatelami tego kraju. Z tego powodu tureckoj\u0119zyczni Cypryjczycy postanowili za\u0142o\u017Cy\u0107 w\u0142asn\u0105 federacj\u0119 pi\u0142karsk\u0105, kt\u00F3rej odm\u00F3wiono w tym samym roku cz\u0142onkostwa w FIFA. Po utworzeniu nieuznawanej przez spo\u0142eczno\u015B\u0107 mi\u0119dzynarodow\u0105 Tureckiej Republiki P\u00F3\u0142nocnego Cypru (1983) FIFA z powodu problem\u00F3w politycznych na wyspie zaprowadzi\u0142a bojkot reprezentacji. Cz\u0142onkowie FIFA nie mog\u0105 rozgrywa\u0107 z ni\u0105 mecz\u00F3w pod gro\u017Ab\u0105 zawieszenia. Cypr P\u00F3\u0142nocny uwa\u017Ca to za dyskryminacj\u0119, wielokrotnie odbywa\u0142y si\u0119 protesty w tej sprawie. Jak dot\u0105d reprezentacja rozgrywa mecze jedynie z innymi zespo\u0142ami niezrzeszonymi w FIFA.W 2006 roku wzi\u0119\u0142a udzia\u0142 w pierwszych mistrzostwach dla takich dru\u017Cyn, FIFI Wild Cup. Wygra\u0142a je, pokonuj\u0105c po drodze Grenlandi\u0119 1:0, Zanzibar 3:1 i Gibraltar 2:0. W finale ponownie pokona\u0142a Zanzibar 0:0 (4:1 w rzutach karnych).Cypr P\u00F3\u0142nocny mia\u0142 tak\u017Ce zosta\u0107 gospodarzem kolejnego tego typu turnieju - VIVA World Cup 2006. Jednak na skutek szeregu nieporozumie\u0144 z NF-Board turniej zosta\u0142 odebrany Cyprowi P\u00F3\u0142nocnemu i przekazany Oksytanii. Stadion narodowy mie\u015Bci si\u0119 w P\u00F3\u0142nocnej Nikozji o nazwie Lefko\u015Fa Atat\u00FCrk Stad\u0131. Wed\u0142ug danych z 9 czerwca 2012 roku reprezentacja ta rozegra\u0142a 34 nieoficjalne mecze z czego wygra\u0142a 21, zremisowa\u0142a 4 i przegra\u0142a 9"@pl ,
+		"The Northern Cyprus national football team (Turkish: Kuzey K\u0131br\u0131s Mill\u00EE Futbol Tak\u0131m\u0131) represents Northern Cyprus, a de facto country, in association football. They are a member of the New Federations Board for non-FIFA-affiliated nations. Northern Cyprus' home stadium is Nicosia Atat\u00FCrk Stadium in North Nicosia and their head coach is F\u0131rat Canova. They are the current FIFI Wild Cup champions, having won the event in Germany in June 2006. They are also the current ELF Cup champions, having won the event at home in November 2006." ,
+		"Het Noord-Cypriotisch voetbalelftal is een team van voetballers dat Turkse Republiek Noord-Cyprus vertegenwoordigt bij internationale wedstrijden. Noord-Cyprus is lid van de CENF, een continentale bond van de NF-Board die bestemd is voor de landen die geen lid zijn van de FIFA en de UEFA. Noord-Cyprus is dus uitgesloten van deelname aan het WK en het EK.Het team werd winnaar van eerste editie van de ELF Cup in 2006."@nl ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0642\u0628\u0631\u0635 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0648\u0647\u0648 \u0645\u0646\u062A\u062E\u0628 \u064A\u0645\u062B\u0644 \u0627\u0642\u0644\u064A\u0645 \u0634\u0645\u0627\u0644 \u0642\u0628\u0631\u0635 \u0648\u064A\u0644\u0639\u0628 \u0641\u064A \u0628\u0637\u0648\u0644\u0627\u062A \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0644\u0627\u0642\u0627\u0644\u064A\u0645 \u0627\u0644\u062A\u0627\u0628\u0639\u0629 \u0644\u0644\u062C\u0646\u0629 viva \u0641\u064A \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u062F\u0648\u0644\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0648\u0627\u062D\u0631\u0632 \u0644\u0642\u0628\u0647\u0627 \u0641\u064A 2006 \u0648\u0644\u062F\u064A\u0647 \u0645\u0644\u0639\u0628 \u0644\u0645\u0628\u0627\u0631\u064A\u0627\u062A\u0647 \u0647\u0648 \u0645\u0644\u0639\u0628 \u0627\u062A\u0627\u062A\u0648\u0631\u0643 \u0641\u064A \u0646\u064A\u0642\u0648\u0633\u064A\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629"@ar ,
+		"L'\u00C9quipe de la R\u00E9publique turque de Chypre du Nord est l'\u00E9quipe non reconnue internationalement de la R\u00E9publique turque de Chypre du Nord. Elle n'est pas membre de la FIFA, ni par l'UEFA et ne participe donc pas aux tournois internationaux."@fr ;
+	dbpedia-owl:wikiPageID	5482710 ;
+	dbpedia-owl:wikiPageRevisionID	596540408 ;
+	dbpprop:topScorer	dbpedia:Yasin_Kansu ;
+	dbpprop:coach	"F\u0131rat Canova" ;
+	dbpedia-owl:coach	<http://dbpedia.org/resource/F%C4%B1rat_Canova> ;
+	dbpprop:association	"K\u0131br\u0131s T\u00FCrk Futbol Federasyonu" ;
+	dbpprop:body	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:confederation	<http://dbpedia.org/resource/N.F.-Board> ;
+	dbpprop:leftarm	"FF0000" ,
+		"FFFFFF" ;
+	dbpprop:patternB	"_thinredsides" ,
+		"_thinwhitesides" ;
+	dbpprop:rightarm	"FF0000" ,
+		"FFFFFF" ;
+	dbpprop:shorts	"FF0000" ,
+		"FFFFFF" ;
+	dbpprop:socks	"FF0000" ,
+		"FFFFFF" ;
+	dbpprop:badge	"Kuzey K\u0131br\u0131s T\u00FCrk Cumhuriyeti.png" ;
+	dbpprop:firstGame	"Turkish Cypriots 0 - 5 Turkey" ;
+	dbpprop:largestLoss	"Turkey 5 - 0 TFS Cyprus" ,
+		"Turkish Cypriots 0 - 5 Turkey" ;
+	dbpprop:largestWin	"Northern Cyprus 15 - 0" ;
+	dbpprop:regionalCupApps	1 ;
+	dbpprop:regionalCupBest	2 ;
+	dbpprop:regionalCupFirst	2012 ;
+	dbpprop:regionalName	dbpedia:Viva_World_Cup ;
+	dbpprop:eloRank	105 ;
+	dbpedia-owl:wikiPageExternalLink	<http://service.spiegel.de/cache/international/0,1518,419651,00.html> ,
+		<http://www.ktff.net/> ,
+		<http://www.thenewanatolian.com/tna-8147.html> ,
+		<http://www.embargoed.org/press_releases.php?id=61> ,
+		<http://www.rsssf.com/tablesn/ncyp-intres.html> ,
+		<http://www.turkishcypyouth.org/forums/index.php?s=43c206394f3253caec2f994985861a07&showtopic=443> .
+@prefix ns33:	<http://groups.yahoo.com/group/> .
+dbpedia:Northern_Cyprus_national_football_team	dbpedia-owl:wikiPageExternalLink	ns33:cyprussoccer ;
+	dbpprop:homeStadium	<http://dbpedia.org/resource/Nicosia_Atat%C3%BCrk_Stadium> ;
+	dbpedia-owl:stadium	<http://dbpedia.org/resource/Nicosia_Atat%C3%BCrk_Stadium> ;
+	dbpprop:nfBoardRank	5 .
+ns31:Northern_Cyprus_national_football_team	foaf:primaryTopic	dbpedia:Northern_Cyprus_national_football_team .
+ns18:منتخب_قبرص_الشمالية_لكرة_القدم	owl:sameAs	dbpedia:Northern_Cyprus_national_football_team .
+ns23:تیم_ملی_فوتبال_قبرس_شمالی	owl:sameAs	dbpedia:Northern_Cyprus_national_football_team .
+ns20:Pohjois-Kyproksen_jalkapallomaajoukkue	owl:sameAs	dbpedia:Northern_Cyprus_national_football_team .
+ns21:נבחרת_הרפובליקה_הטורקית_של_צפון_קפריסין_בכדורגל	owl:sameAs	dbpedia:Northern_Cyprus_national_football_team .
+ns22:Šiaurės_Kipro_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Northern_Cyprus_national_football_team .
+ns17:Kuzey_Kıbrıs_Türk_Cumhuriyeti_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Northern_Cyprus_national_football_team .
+dbpedia:FIFI_Wild_Cup	dbpprop:team	dbpedia:Northern_Cyprus_national_football_team .
+dbpedia:North_Cyprus_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Northern_Cyprus_national_football_team .
+dbpedia:Northern_cyprus_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Northern_Cyprus_national_football_team .
+dbpedia:Turkish_Cyprus_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Northern_Cyprus_national_football_team .
+dbpedia:Turkish_Republic_of_Northern_Cyprus_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Northern_Cyprus_national_football_team .

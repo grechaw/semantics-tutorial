@@ -1,0 +1,270 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Thomas_Sørensen	foaf:primaryTopic	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:UEFA_Euro_2004_squads	dbpprop:name	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/2009_South_Korea_national_football_team_season>	dbpprop:home1player	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/Stoke_City_F.C.>	dbpprop:name	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/2006%E2%80%9307_Aston_Villa_F.C._season>	dbpprop:name	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/2003%E2%80%9304_Aston_Villa_F.C._season>	dbpprop:name	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/2004%E2%80%9305_Aston_Villa_F.C._season>	dbpprop:name	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> ;
+	dbpprop:p	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/2005%E2%80%9306_Aston_Villa_F.C._season>	dbpprop:name	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/2000%E2%80%9301_Sunderland_A.F.C._season>	dbpprop:name	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/1998%E2%80%9399_Sunderland_A.F.C._season>	dbpprop:name	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/2001%E2%80%9302_Sunderland_A.F.C._season>	dbpprop:name	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/2002%E2%80%9303_Sunderland_A.F.C._season>	dbpprop:name	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/2009%E2%80%9310_in_Danish_football>	dbpprop:name	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/2007%E2%80%9308_in_Danish_football>	dbpprop:name	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/2008%E2%80%9309_in_Danish_football>	dbpprop:name	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/2007%E2%80%9308_Aston_Villa_F.C._season>	dbpprop:name	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Thomas_S%C3%B8rensen>	rdf:type	dul:NaturalPerson .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Thomas_S%C3%B8rensen>	rdf:type	yago:Player110439851 .
+@prefix ns7:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Thomas_S%C3%B8rensen>	rdf:type	ns7:Q5 ,
+		dul:Agent ,
+		yago:AssociationFootballGoalkeepers ,
+		yago:HockeyPlayer110179291 ,
+		yago:Goalkeeper110134001 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 .
+@prefix ns8:	<http://schema.org/> .
+<http://dbpedia.org/resource/Thomas_S%C3%B8rensen>	rdf:type	ns8:Person ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:ExpatriateFootballersInEngland .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Thomas_S%C3%B8rensen>	rdf:type	dbpedia-owl:SoccerPlayer ,
+		<http://dbpedia.org/class/yago/SunderlandA.F.C.Players> ,
+		yago:SoccerPlayer110618342 ,
+		ns7:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Thomas_S%C3%B8rensen>	rdf:type	owl:Thing ,
+		yago:UEFAEuro2000Players ,
+		dbpedia-owl:Athlete ,
+		yago:PremierLeaguePlayers ,
+		yago:DanishFootballers ,
+		yago:OdenseBoldklubPlayers ,
+		yago:DanishSuperligaPlayers ,
+		yago:Whole100003553 ,
+		yago:TheFootballLeaguePlayers ,
+		yago:Object100002684 ,
+		<http://dbpedia.org/class/yago/StokeCityF.C.Players> ,
+		yago:UEFAEuro2004Players ,
+		yago:PhysicalEntity100001930 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		foaf:Person ,
+		<http://dbpedia.org/class/yago/AstonVillaF.C.Players> .
+@prefix ns11:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Thomas_S%C3%B8rensen>	rdf:type	ns11:SoccerPlayer ,
+		ns11:Athlete ,
+		yago:DanishExpatriateFootballers ,
+		yago:VejleBoldklubPlayers ,
+		yago:DenmarkInternationalFootballers ,
+		yago:DenmarkUnder-21InternationalFootballers ,
+		dbpedia-owl:Agent ,
+		yago:Contestant109613191 ,
+		dbpedia-owl:Person ,
+		yago:Athlete109820263 ,
+		yago:FootballPlayer110101634 ,
+		<http://dbpedia.org/class/yago/2002FIFAWorldCupPlayers> ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.03n4qg> ,
+		<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+@prefix ns12:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Thomas_S%C3%B8rensen>	owl:sameAs	ns12:Thomas_Sørensen .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Thomas_S%C3%B8rensen>	rdfs:label	"\u30C8\u30FC\u30DE\u30B9\u30FB\u30BB\u30FC\u30EC\u30F3\u30BB\u30F3"@ja ,
+		"\u062A\u0648\u0645\u0627\u0633 \u0633\u0648\u0631\u064A\u0646\u0633\u0646"@ar ,
+		"Thomas S\u00F8rensen"@nl ,
+		"Thomas S\u00F8rensen"@fr ,
+		"\u6E6F\u99AC\u58EB\u00B7\u8607\u9023\u905C"@zh ,
+		"Thomas S\u00F8rensen"@de ,
+		"Thomas S\u00F8rensen"@pt ,
+		"Thomas S\u00F8rensen"@pl ,
+		"\u0421\u0451\u0440\u0435\u043D\u0441\u0435\u043D, \u0422\u043E\u043C\u0430\u0441"@ru ,
+		"Thomas S\u00F8rensen"@es ,
+		"Thomas S\u00F8rensen" ,
+		"Thomas S\u00F8rensen"@it .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Thomas_S%C3%B8rensen>	dcterms:subject	category:FC_Svendborg_players ,
+		category:Premier_League_players ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:The_Football_League_players ,
+		category:Expatriate_footballers_in_England ,
+		<http://dbpedia.org/resource/Category:1976_births> ,
+		category:Danish_footballers ,
+		category:Danish_Superliga_players ,
+		category:Odense_Boldklub_players ,
+		category:UEFA_Euro_2004_players ,
+		<http://dbpedia.org/resource/Category:Aston_Villa_F.C._players> ,
+		category:Association_football_goalkeepers ,
+		category:FIFA_Century_Club ,
+		category:Denmark_international_footballers ,
+		category:Danish_expatriate_footballers ,
+		category:Denmark_under-21_international_footballers ,
+		<http://dbpedia.org/resource/Category:Stoke_City_F.C._players> ,
+		category:Living_people ,
+		category:Denmark_youth_international_footballers ,
+		<http://dbpedia.org/resource/Category:Sunderland_A.F.C._players> ,
+		<http://dbpedia.org/resource/Category:2002_FIFA_World_Cup_players> ,
+		category:Vejle_Boldklub_players ,
+		category:UEFA_Euro_2000_players ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/S\u00F8rensen,_Thomas.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Thomas_S%C3%B8rensen>	dc:description	"Footballer" ,
+		"Footballer" ;
+	foaf:givenName	"Thomas" ;
+	foaf:name	"Thomas S\u00F8rensen" ,
+		"S\u00F8rensen, Thomas" ,
+		"Thomas L\u00F8vendahl S\u00F8rensen" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Thomas_S%C3%B8rensen>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Thomas_S\u00F8rensen?oldid=606547139> ;
+	rdfs:comment	"Thomas L\u00F8vendahl S\u00F8rensen, n\u00E9 le 12 juin 1976 \u00E0 Fredericia, est un footballeur danois \u00E9voluant au poste de gardien de but. Il joue pour le club anglais de Stoke City. Il est le gardien titulaire de l'\u00E9quipe du Danemark de football depuis la retraite de Peter Schmeichel. Sa premi\u00E8re s\u00E9lection en \u00E9quipe nationale a eu lieu le 17 novembre 1999.Le 20 d\u00E9cembre 2011, il signe un nouveau contrat \u00E0 Stoke City pour une dur\u00E9e de 2 ans et demi."@fr ,
+		"Thomas L\u00F8vendahl S\u00F8rensen (Fredericia, 12 giugno 1976) \u00E8 un calciatore danese, portiere dello Stoke City."@it ,
+		"Thomas Lovendahl S\u00F8rensen (ur. 12 czerwca 1976 roku w Fredericia w Danii) \u2013 du\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji bramkarza. Obecnie gra w zespole Stoke City.Pierwszym jego klubem by\u0142o Odense. W reprezentacji m\u0142odzie\u017Cowej Danii zadebiutowa\u0142 we wrze\u015Bniu 1993 roku, mia\u0142 w\u00F3wczas 17 lat. Pocz\u0105tkowo siedzia\u0142 na \u0142awce rezerwowych, zast\u0119puj\u0105c od czasu do czasu Larsa H\u00F8gha. Potem zosta\u0142 wypo\u017Cyczony do Vejle BK, gdzie w czasie sze\u015Bciu miesi\u0119cy wyst\u0105pi\u0142 zaledwie sze\u015B\u0107 razy."@pl ,
+		"\u6E6F\u99AC\u58EB\u00B7\u8607\u9023\u905C\uFF08Thomas S\u00F8rensen\uFF0C1976\u5E746\u670812\u65E5\uFF0D\uFF09\u662F\u4E00\u540D\u4E39\u9EA5\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u64D4\u4EFB\u5B88\u9580\u54E1\uFF0C\u73FE\u6642\u6548\u529B\u82F1\u8D85\u7403\u6703\u53F2\u7BE4\u57CE\u3002\u8607\u9023\u905C\u662F\u4E39\u9EA5\u570B\u5BB6\u968A\u7684\u9996\u5E2D\u5B88\u9580\u54E1\uFF0C\u5DF2\u4EE3\u8868\u570B\u5BB6\u51FA\u8CFD\u8D85\u904E100\u5834\u3002"@zh ,
+		"\u30C8\u30FC\u30DE\u30B9\u30FB\u30BB\u30FC\u30EC\u30F3\u30BB\u30F3\uFF08Thomas L\u00F8vendahl S\u00F8rensen, 1976\u5E746\u670812\u65E5 - \uFF09\u306F\u30C7\u30F3\u30DE\u30FC\u30AF\u3001\u30AA\u30FC\u30C7\u30F3\u30BB\u51FA\u8EAB\u306E\u540C\u56FD\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30B4\u30FC\u30EB\u30AD\u30FC\u30D1\u30FC\u3002\u30D7\u30EC\u30DF\u30A2\u30EA\u30FC\u30B0\u3001\u30B9\u30C8\u30FC\u30AF\u30FB\u30B7\u30C6\u30A3FC\u6240\u5C5E\u3002"@ja ,
+		"Thomas L\u00F8vendahl S\u00F8rensen (born 12 June 1976) is a Danish footballer who plays as a goalkeeper for Premier League club Stoke City.S\u00F8rensen started his career with his local side Odense BK. After impressing on loan at Vejle Boldklub and Svendborg he was signed by English side Sunderland in 1998. After five years as first choice 'keeper on Wearside he joined Aston Villa for \u00A32 million." ,
+		"\u0422\u043E\u043C\u0430\u0441 \u041B\u0451\u0432\u0435\u043D\u0434\u0430\u043B\u044C \u0421\u0451\u0440\u0435\u043D\u0441\u0435\u043D (\u0434\u0430\u0442. Thomas L\u00F8vendahl S\u00F8rensen; 12 \u0438\u044E\u043D\u044F 1976, \u0424\u0440\u0435\u0434\u0435\u0440\u0438\u0441\u0438\u044F, \u0414\u0430\u043D\u0438\u044F) \u2014 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u044B\u0439 \u0432\u0440\u0430\u0442\u0430\u0440\u044C. \u0412 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0438\u0439 \u043C\u043E\u043C\u0435\u043D\u0442 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u0437\u0430 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u043A\u043B\u0443\u0431 \u00AB\u0421\u0442\u043E\u043A \u0421\u0438\u0442\u0438\u00BB. \u042F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0431\u044B\u0432\u0448\u0438\u043C \u0438\u0433\u0440\u043E\u043A\u043E\u043C \u0434\u0430\u0442\u0441\u043A\u043E\u0439 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439, \u0437\u0430 \u043A\u043E\u0442\u043E\u0440\u0443\u044E \u043F\u0440\u043E\u0432\u0451\u043B 101 \u043C\u0430\u0442\u0447."@ru ,
+		"Thomas L\u00F8vendahl S\u00F8rensen (Fredericia, 12 juni 1976) is een Deens doelman in het betaald voetbal. Hij tekende in juli 2008 een contract bij Stoke City FC dat hij in november 2009 verlengde tot aan de zomer van 2011. Op 17 november 1999 debuteerde hij in het Deens voetbalelftal, waarvoor hij in totaal 101 interlands speelde."@nl ,
+		"Thomas L\u00F8vendahl S\u00F8rensen (nacido en Fredericia, Dinamarca, 12 de junio de 1976), es un futbolista dan\u00E9s que actualmente juega como portero para el Stoke City Football Club de la Liga Premier de Inglaterra.S\u00F8rensen inici\u00F3 su carrera jugando en el club dan\u00E9s Odense BK, y dio el salto a la Premier League de Inglaterra en 1998 fichando con el Sunderland A.F.C.. Desde esa fecha ha permanecido en el f\u00FAtbol ingl\u00E9s habiendo jugado m\u00E1s de 400 partidos con el Sunderland, el Aston Villa F.C."@es ,
+		"Thomas L\u00F8vendahl S\u00F8rensen (* 12. Juni 1976 in Fredericia) ist ein d\u00E4nischer Fu\u00DFballtorwart. Nach dem Beginn der Profilaufbahn in seinem Heimatland wechselte er im Alter von 22 Jahren nach England, wo er seit 1998 zun\u00E4chst f\u00FCr den AFC Sunderland und ab 2003 f\u00FCr Aston Villa zwischen den Pfosten stand, bevor er im August 2008 bei Stoke City anheuerte."@de ,
+		"\u062A\u0648\u0645\u0627\u0633 \u0644\u0648\u0641\u0646\u062F\u0627\u0647\u0644 \u0633\u0648\u0631\u064A\u0646\u0633\u0646 (\u0628\u0627\u0644\u062F\u0646\u0645\u0627\u0631\u0643\u064A\u0629: Thomas L\u00F8vendahl S\u00F8rensen)\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 12 \u064A\u0648\u0646\u064A\u0648 1976 \u0641\u064A \u0641\u0631\u064A\u062F\u064A\u0631\u064A\u0643\u0627 \u0641\u064A \u0627\u0644\u062F\u0646\u0645\u0627\u0631\u0643\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u062F\u0646\u0645\u0627\u0631\u0643\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0623\u0648\u062F\u064A\u0646\u0633\u064A \u0641\u064A \u0639\u0627\u0645 1994\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 1996\u060C \u0648\u0641\u064A \u0639\u0627\u0645 1996 \u0623\u0639\u064A\u0631 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0641\u064A\u0644\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 6 \u0645\u0628\u0627\u0631\u064A\u0627\u062A\u060C \u0648\u0641\u064A \u0645\u0648\u0633\u0645 1997/1998 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0633\u0641\u0646\u062F\u0628\u0648\u0631\u063A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 50 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0641\u064A \u0639\u0627\u0645 1998 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0633\u0646\u062F\u0631\u0644\u0627\u0646\u062F \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2003\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 171 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2003 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0623\u0633\u062A\u0648\u0646 \u0641\u064A\u0644\u0627 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A."@ar ,
+		"Thomas L\u00F8vendahl S\u00F8rensen (Fredericia, 12 de junho de 1976) \u00E9 um futebolista dinamarqu\u00EAs que atua como goleiro. Atualmente, joga pelo Stoke City.O jogador tamb\u00E9m \u00E9 frequentemente convocado para defender a Sele\u00E7\u00E3o Dinamarquesa, onde \u00E9 titular. Pela sele\u00E7\u00E3o de seu pa\u00EDs, S\u00F8rensen disputou a Eurocopa de 2000, a Copa do Mundo de 2002, a Eurocopa de 2004 e a Copa do Mundo de 2010."@pt ;
+	foaf:surname	"S\u00F8rensen" ;
+	foaf:isPrimaryTopicOf	ns1:Thomas_Sørensen .
+@prefix ns18:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Thomas_S%C3%B8rensen>	dbpprop:hasPhotoCollection	ns18:Thomas_Sørensen ;
+	dbpprop:caption	"S\u00F8rensen in 2007" ;
+	dbpprop:name	"S\u00F8rensen, Thomas" ,
+		"Thomas S\u00F8rensen" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/S\u00F8rensen,_Thomas.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u0422\u043E\u043C\u0430\u0441 \u041B\u0451\u0432\u0435\u043D\u0434\u0430\u043B\u044C \u0421\u0451\u0440\u0435\u043D\u0441\u0435\u043D (\u0434\u0430\u0442. Thomas L\u00F8vendahl S\u00F8rensen; 12 \u0438\u044E\u043D\u044F 1976, \u0424\u0440\u0435\u0434\u0435\u0440\u0438\u0441\u0438\u044F, \u0414\u0430\u043D\u0438\u044F) \u2014 \u043F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u044B\u0439 \u0432\u0440\u0430\u0442\u0430\u0440\u044C. \u0412 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0438\u0439 \u043C\u043E\u043C\u0435\u043D\u0442 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u0435\u0442 \u0437\u0430 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u043A\u043B\u0443\u0431 \u00AB\u0421\u0442\u043E\u043A \u0421\u0438\u0442\u0438\u00BB. \u042F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0431\u044B\u0432\u0448\u0438\u043C \u0438\u0433\u0440\u043E\u043A\u043E\u043C \u0434\u0430\u0442\u0441\u043A\u043E\u0439 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439, \u0437\u0430 \u043A\u043E\u0442\u043E\u0440\u0443\u044E \u043F\u0440\u043E\u0432\u0451\u043B 101 \u043C\u0430\u0442\u0447."@ru ,
+		"\u062A\u0648\u0645\u0627\u0633 \u0644\u0648\u0641\u0646\u062F\u0627\u0647\u0644 \u0633\u0648\u0631\u064A\u0646\u0633\u0646 (\u0628\u0627\u0644\u062F\u0646\u0645\u0627\u0631\u0643\u064A\u0629: Thomas L\u00F8vendahl S\u00F8rensen)\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 12 \u064A\u0648\u0646\u064A\u0648 1976 \u0641\u064A \u0641\u0631\u064A\u062F\u064A\u0631\u064A\u0643\u0627 \u0641\u064A \u0627\u0644\u062F\u0646\u0645\u0627\u0631\u0643\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u062F\u0646\u0645\u0627\u0631\u0643\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0623\u0648\u062F\u064A\u0646\u0633\u064A \u0641\u064A \u0639\u0627\u0645 1994\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 1996\u060C \u0648\u0641\u064A \u0639\u0627\u0645 1996 \u0623\u0639\u064A\u0631 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0641\u064A\u0644\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 6 \u0645\u0628\u0627\u0631\u064A\u0627\u062A\u060C \u0648\u0641\u064A \u0645\u0648\u0633\u0645 1997/1998 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0633\u0641\u0646\u062F\u0628\u0648\u0631\u063A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 50 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0641\u064A \u0639\u0627\u0645 1998 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0633\u0646\u062F\u0631\u0644\u0627\u0646\u062F \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2003\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 171 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2003 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0623\u0633\u062A\u0648\u0646 \u0641\u064A\u0644\u0627 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A."@ar ,
+		"Thomas Lovendahl S\u00F8rensen (ur. 12 czerwca 1976 roku w Fredericia w Danii) \u2013 du\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji bramkarza. Obecnie gra w zespole Stoke City.Pierwszym jego klubem by\u0142o Odense. W reprezentacji m\u0142odzie\u017Cowej Danii zadebiutowa\u0142 we wrze\u015Bniu 1993 roku, mia\u0142 w\u00F3wczas 17 lat. Pocz\u0105tkowo siedzia\u0142 na \u0142awce rezerwowych, zast\u0119puj\u0105c od czasu do czasu Larsa H\u00F8gha. Potem zosta\u0142 wypo\u017Cyczony do Vejle BK, gdzie w czasie sze\u015Bciu miesi\u0119cy wyst\u0105pi\u0142 zaledwie sze\u015B\u0107 razy. Po powrocie do swojego pierwszego klubu znowu zosta\u0142 wypo\u017Cyczony, tym razem do Svendborg fB.Gra\u0142 w tym klubie tylko jeden sezon, p\u00F3\u017Aniej zosta\u0142 kupiony przez angielski Sunderland A.F.C.. Mened\u017Cer Peter Reid zap\u0142aci\u0142 za 22-letniego Du\u0144czyka 510 000 funt\u00F3w w lipcu 1998. Thomasowi bardzo dobrze wiod\u0142o si\u0119 w tym kraju, gdzie zdoby\u0142 w mistrzostwo The Championship ju\u017C w pierwszym sezonie pobytu w klubie oraz ustanowi\u0142 rekord nie wpuszczaj\u0105c bramki a\u017C w 29 meczach. Nadszed\u0142 czas na debiut w seniorskiej kadrze Danii. Nast\u0105pi\u0142o to w listopadzie 1999 roku, zast\u0119puj\u0105c kontuzjowanego Petera Schmeichela. By\u0142 rezerwowym bramkarzem na Euro 2000. Kiedy jedna z legend Manchesteru United zako\u0144czy\u0142a karier\u0119, to w\u0142a\u015Bnie S\u00F8rensen stan\u0105\u0142 mi\u0119dzy s\u0142upkami reprezentacji.Powo\u0142any na mundial 2002 znakomicie broni\u0142 w trzech meczach, kiedy rewelacyjna w potyczkach grupowych Dania pokona\u0142a Urugwaj oraz broni\u0105cych tytu\u0142u Francuz\u00F3w. Pu\u015Bci\u0142 jednak trzy bramki w potyczce z Angli\u0105 i przez fataln\u0105 postaw\u0119 defensywy, Skandynawowie po\u017Cegnali si\u0119 z imprez\u0105.Po Mistrzostwach \u015Awiata wr\u00F3ci\u0142 do Anglii i zacz\u0119\u0142y si\u0119 jego problemy. By\u0142 ulubie\u0144cem kibic\u00F3w, lecz po wyst\u0119pach w M\u015A wzros\u0142o zainteresowanie jego osob\u0105. Otrzyma\u0142 propozycje z dw\u00F3ch czo\u0142owych klub\u00F3w w Anglii \u2013 wspomnianego Manchesteru United oraz Arsenalu. Trener chcia\u0142 za wszelk\u0105 cen\u0119 go zatrzyma\u0107, lecz ten ju\u017C podj\u0105\u0142 decyzje o odej\u015Bciu z klubu. Wtedy przysz\u0142a oferta z Aston Villi i ostatecznie za 2,25 milion\u00F3w funt\u00F3w przeszed\u0142 do klubu z Villa Park. W Aston Villi broni\u0142 do ko\u0144ca sezonu 2007/2008. Nast\u0119pnie na zasadzie wolnego transferu przeszed\u0142 do beniaminka Premiership, Stoke City.P\u00F3\u017Aniej gra\u0142 na Mistrzostwach Europy 2004. By\u0142 to jeden z najlepszych turniej\u00F3w w jego karierze, poniewa\u017C zosta\u0142 zawodnikiem meczu, kiedy dzi\u0119ki jego znakomitym interwencjom Dania zremisowa\u0142a z W\u0142ochami. Po zwyci\u0119stwie z Bu\u0142gari\u0105 zosta\u0142a jednak rozbita przez Czech\u00F3w.Jak dot\u0105d, bramkarz zaliczy\u0142 86 wyst\u0119py w rodzimej reprezentacji (stan na 5 marca 2010)."@pl ,
+		"Thomas L\u00F8vendahl S\u00F8rensen (born 12 June 1976) is a Danish footballer who plays as a goalkeeper for Premier League club Stoke City.S\u00F8rensen started his career with his local side Odense BK. After impressing on loan at Vejle Boldklub and Svendborg he was signed by English side Sunderland in 1998. After five years as first choice 'keeper on Wearside he joined Aston Villa for \u00A32 million. He was first choice at Villa until a fall out with Martin O'Neill saw him out of the side and he was released in May 2008. He joined Stoke City in June 2008 on a free transfer. He was first choice goalkeeper at Stoke for three seasons helping the club consolidate in the Premier League. He eventually began to lose his place in the side to the younger Asmir Begovi\u0107 and became his back-up.Between 2000 and 2012, he was the starting goalkeeper for the Denmark national football team, the successor to the legendary Peter Schmeichel, and he played 101 matches for his country. He was part of Denmark's 2002 FIFA World Cup, UEFA Euro 2004, and 2010 FIFA World Cup squads." ,
+		"Thomas L\u00F8vendahl S\u00F8rensen (* 12. Juni 1976 in Fredericia) ist ein d\u00E4nischer Fu\u00DFballtorwart. Nach dem Beginn der Profilaufbahn in seinem Heimatland wechselte er im Alter von 22 Jahren nach England, wo er seit 1998 zun\u00E4chst f\u00FCr den AFC Sunderland und ab 2003 f\u00FCr Aston Villa zwischen den Pfosten stand, bevor er im August 2008 bei Stoke City anheuerte. Zwischen 1999 und 2012 absolvierte er zudem 101 L\u00E4nderspiele f\u00FCr die d\u00E4nische Nationalmannschaft und als Nachfolger des 2001 zur\u00FCckgetretenen Peter Schmeichel war er Stammkeeper der Auswahl bei drei Endrundenturnieren (WM 2002, Euro 2004 und WM 2010)."@de ,
+		"Thomas L\u00F8vendahl S\u00F8rensen (Fredericia, 12 de junho de 1976) \u00E9 um futebolista dinamarqu\u00EAs que atua como goleiro. Atualmente, joga pelo Stoke City.O jogador tamb\u00E9m \u00E9 frequentemente convocado para defender a Sele\u00E7\u00E3o Dinamarquesa, onde \u00E9 titular. Pela sele\u00E7\u00E3o de seu pa\u00EDs, S\u00F8rensen disputou a Eurocopa de 2000, a Copa do Mundo de 2002, a Eurocopa de 2004 e a Copa do Mundo de 2010."@pt ,
+		"\u6E6F\u99AC\u58EB\u00B7\u8607\u9023\u905C\uFF08Thomas S\u00F8rensen\uFF0C1976\u5E746\u670812\u65E5\uFF0D\uFF09\u662F\u4E00\u540D\u4E39\u9EA5\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u64D4\u4EFB\u5B88\u9580\u54E1\uFF0C\u73FE\u6642\u6548\u529B\u82F1\u8D85\u7403\u6703\u53F2\u7BE4\u57CE\u3002\u8607\u9023\u905C\u662F\u4E39\u9EA5\u570B\u5BB6\u968A\u7684\u9996\u5E2D\u5B88\u9580\u54E1\uFF0C\u5DF2\u4EE3\u8868\u570B\u5BB6\u51FA\u8CFD\u8D85\u904E100\u5834\u3002"@zh ,
+		"Thomas L\u00F8vendahl S\u00F8rensen, n\u00E9 le 12 juin 1976 \u00E0 Fredericia, est un footballeur danois \u00E9voluant au poste de gardien de but. Il joue pour le club anglais de Stoke City. Il est le gardien titulaire de l'\u00E9quipe du Danemark de football depuis la retraite de Peter Schmeichel. Sa premi\u00E8re s\u00E9lection en \u00E9quipe nationale a eu lieu le 17 novembre 1999.Le 20 d\u00E9cembre 2011, il signe un nouveau contrat \u00E0 Stoke City pour une dur\u00E9e de 2 ans et demi."@fr ,
+		"Thomas L\u00F8vendahl S\u00F8rensen (nacido en Fredericia, Dinamarca, 12 de junio de 1976), es un futbolista dan\u00E9s que actualmente juega como portero para el Stoke City Football Club de la Liga Premier de Inglaterra.S\u00F8rensen inici\u00F3 su carrera jugando en el club dan\u00E9s Odense BK, y dio el salto a la Premier League de Inglaterra en 1998 fichando con el Sunderland A.F.C.. Desde esa fecha ha permanecido en el f\u00FAtbol ingl\u00E9s habiendo jugado m\u00E1s de 400 partidos con el Sunderland, el Aston Villa F.C. y su club actual, el Stoke City.Fue convocado a la selecci\u00F3n mayor de Dinamarca en 1999 y luego del retiro del legendario Peter Schmeichel ha sido una de las primera opciones en el arco para la selecci\u00F3n danesa. S\u00F8rensen ha jugado en la Copa Mundial de f\u00FAtbol de 2002, la Euro 2004 y la Copa Mundial de f\u00FAtbol 2010."@es ,
+		"\u30C8\u30FC\u30DE\u30B9\u30FB\u30BB\u30FC\u30EC\u30F3\u30BB\u30F3\uFF08Thomas L\u00F8vendahl S\u00F8rensen, 1976\u5E746\u670812\u65E5 - \uFF09\u306F\u30C7\u30F3\u30DE\u30FC\u30AF\u3001\u30AA\u30FC\u30C7\u30F3\u30BB\u51FA\u8EAB\u306E\u540C\u56FD\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30B4\u30FC\u30EB\u30AD\u30FC\u30D1\u30FC\u3002\u30D7\u30EC\u30DF\u30A2\u30EA\u30FC\u30B0\u3001\u30B9\u30C8\u30FC\u30AF\u30FB\u30B7\u30C6\u30A3FC\u6240\u5C5E\u3002"@ja ,
+		"Thomas L\u00F8vendahl S\u00F8rensen (Fredericia, 12 juni 1976) is een Deens doelman in het betaald voetbal. Hij tekende in juli 2008 een contract bij Stoke City FC dat hij in november 2009 verlengde tot aan de zomer van 2011. Op 17 november 1999 debuteerde hij in het Deens voetbalelftal, waarvoor hij in totaal 101 interlands speelde."@nl ,
+		"Thomas L\u00F8vendahl S\u00F8rensen (Fredericia, 12 giugno 1976) \u00E8 un calciatore danese, portiere dello Stoke City."@it ;
+	dbpedia-owl:wikiPageID	900625 ;
+	dbpedia-owl:wikiPageRevisionID	606547139 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Thomas_S%C3%B8rensen>	dbpprop:birthDate	"1976-06-12+02:00"^^xsd:date ;
+	dbpprop:birthPlace	dbpedia:Denmark ,
+		dbpedia:Fredericia ;
+	dbpprop:dateOfBirth	"1976-06-12+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Fredericia, Denmark" ;
+	dbpprop:shortDescription	"Footballer" ;
+	dbpedia-owl:birthDate	"1976-06-12+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Denmark ,
+		dbpedia:Fredericia ;
+	dbpedia-owl:birthYear	"1976+02:00"^^xsd:gYear ;
+	dbpprop:goals	0 ;
+	dbpprop:bg	"#e11b22" ;
+	dbpprop:id	14684 ;
+	dbpprop:caps	171 ,
+		139 ,
+		45 ,
+		6 ,
+		0 ,
+		98 ;
+	dbpprop:years	1995 ,
+		1993 ,
+		1998 ,
+		1997 ,
+		2008 ,
+		2003 ;
+	dbpprop:youthclubs	"Assens" ,
+		"Errits\u00F8" ,
+		dbpedia:Odense_Boldklub ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen__7> ,
+		<http://dbpedia.org/resource/Thomas_S%C3%B8rensen__8> ,
+		<http://dbpedia.org/resource/Thomas_S%C3%B8rensen__9> ,
+		<http://dbpedia.org/resource/Thomas_S%C3%B8rensen__1> ,
+		<http://dbpedia.org/resource/Thomas_S%C3%B8rensen__2> ,
+		<http://dbpedia.org/resource/Thomas_S%C3%B8rensen__3> ,
+		<http://dbpedia.org/resource/Thomas_S%C3%B8rensen__4> ,
+		<http://dbpedia.org/resource/Thomas_S%C3%B8rensen__5> ,
+		<http://dbpedia.org/resource/Thomas_S%C3%B8rensen__6> ;
+	dbpprop:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbpedia-owl:height	1.9599999999999999645 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Thomas_S%C3%B8rensen>	ns21:height	"196.0"^^ns20:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/Stoke_City_F.C.> ;
+	dbpprop:clubnumber	29 ;
+	dbpprop:fullname	"Thomas L\u00F8vendahl S\u00F8rensen" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/Stoke_City_F.C.> ,
+		"\u2192 Svendborg" ,
+		<http://dbpedia.org/resource/Sunderland_A.F.C.> ,
+		"\u2192 Vejle" ,
+		<http://dbpedia.org/resource/Aston_Villa_F.C.> ,
+		dbpedia:Odense_Boldklub ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/Aston_Villa_F.C.> ,
+		dbpedia:Odense_Boldklub ,
+		dbpedia:Vejle_Boldklub ,
+		<http://dbpedia.org/resource/Stoke_City_F.C.> ,
+		dbpedia:Denmark_national_under-21_football_team ,
+		dbpedia:Denmark_national_under-19_football_team ,
+		<http://dbpedia.org/resource/Assens,_Denmark> ,
+		<http://dbpedia.org/resource/Sunderland_A.F.C.> ,
+		dbpedia:FC_Svendborg .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Thomas_S%C3%B8rensen>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Denmark squads" ;
+	dbpprop:pcupdate	"--01-01+02:00"^^xsd:gMonthDay ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.dbu.dk/landshold/Landsholdsdatabasen/LBaseplayerInfo.aspx?playerid=2285> ,
+		<http://www.stokecityfc.com/page/ProfilesDetail/0,,10310~5998,00.html> ,
+		<http://thomas-sorensen-daily.tumblr.com/> ,
+		<http://news.bbc.co.uk/sport2/shared/bsp/hi/football/statistics/players/s/sorensen_38752.stm> ,
+		<http://www.premierleague.com/page/PlayerProfile/0,,12306~5998,00.html> ;
+	dbpprop:fg	"white" ;
+	dbpprop:nationalcaps	101 ,
+		3 ,
+		1 ,
+		25 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	"Denmark B" ,
+		dbpedia:Denmark_national_football_team ,
+		dbpedia:Denmark_national_under-21_football_team ,
+		dbpedia:Denmark_national_under-19_football_team ;
+	dbpprop:nationalyears	1996 ,
+		1999 ,
+		1993 ;
+	dbpedia-owl:number	29 ;
+	dbpedia-owl:alias	"S\u00F8rensen, Thomas L\u00F8vendahl" ;
+	dbpprop:alternativeNames	"S\u00F8rensen, Thomas L\u00F8vendahl" ;
+	dbpprop:ntupdate	"--10-15+02:00"^^xsd:gMonthDay .
+<http://dbpedia.org/resource/2002_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+dbpedia:Thomas_Sørensen	owl:sameAs	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/S%C3%B8rensen>	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/Stoke_City_F.C.__Thomas_S%C3%B8rensen__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/2007%E2%80%9308_Aston_Villa_F.C._season__Thomas_S%C3%B8rensen__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/1999%E2%80%932000_Sunderland_A.F.C._season__Thomas_S%C3%B8rensen__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/2004%E2%80%9305_Aston_Villa_F.C._season__Thomas_S%C3%B8rensen__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/2002%E2%80%9303_Sunderland_A.F.C._season__Thomas_S%C3%B8rensen__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/2003%E2%80%9304_Aston_Villa_F.C._season__Thomas_S%C3%B8rensen__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/2005%E2%80%9306_Aston_Villa_F.C._season__Thomas_Sorensen__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/2006%E2%80%9307_Aston_Villa_F.C._season__Thomas_S%C3%B8rensen__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/2000%E2%80%9301_Sunderland_A.F.C._season__Thomas_S%C3%B8rensen__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/2001%E2%80%9302_Sunderland_A.F.C._season__Thomas_Sorensen__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/1998%E2%80%9399_Sunderland_A.F.C._season__Thomas_S%C3%B8rensen__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+dbpedia:Thomas_Sorensen	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+dbpedia:Thomas_Sorenson	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+dbpedia:UEFA_Euro_2000_squads	dbpprop:name	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .
+<http://dbpedia.org/resource/1999%E2%80%932000_Sunderland_A.F.C._season>	dbpprop:name	<http://dbpedia.org/resource/Thomas_S%C3%B8rensen> .

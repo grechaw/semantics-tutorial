@@ -1,0 +1,644 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xml:base="http://www.daml.org/2001/12/factbook/er">
+  <rdf:Description rdf:about='#A31705'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Senhit</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31514'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>near Kulul within the Denakil depression</NS0:name>
+    <NS0:elevation>-75</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31896'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>3048</NS0:minRunway>
+    <NS0:count>2</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122811'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#ET'/>
+    <NS0:percent>26.5</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31765'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31701'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Semhar</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122806'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#SU'/>
+    <NS0:percent>27.2</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31889'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>2438</NS0:minRunway>
+    <NS0:maxRunway>3047</NS0:maxRunway>
+    <NS0:count>1 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31697'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Sahil</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31597'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122801'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#SU'/>
+    <NS0:distance>605</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31562'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31693'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Hamasen</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31883'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>3048</NS0:minRunway>
+    <NS0:count>1</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31500'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>15.0</NS0:latitude>
+    <NS0:longitude>39.0</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31689'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Denkel</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122796'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#ET'/>
+    <NS0:distance>912</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31865'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31685'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Barka</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31876'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Massawa</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122791'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#DJ'/>
+    <NS0:distance>113</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#Province'>
+    <rdf:type rdf:resource='http://www.w3.org/2000/01/rdf-schema#Class'/>
+    <rdfs:subClassOf rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AdministrativeDivision'/>
+    <rdfs:label>Province</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31825'>
+    <NS0:note>c.i.f., 1999</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31681'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Akale Guzay</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31872'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Assab</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122830'>
+    <NS0:note>1998</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31674'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CapitalCity'/>
+    <NS0:name>Asmara (formerly Asmera)</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31851'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31751'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31662'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#other_Cushitic_languages'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31880'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31658'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Tigrinya'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31929'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31762'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31754'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31654'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Tigre_and_Kunama'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31538'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31650'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Arabic'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31839'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#manufactured_goods'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31646'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Amharic'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31835'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#food'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31843'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31642'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Afar'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31831'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#petroleum_products'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31638'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Protestant'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31827'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#machinery'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31757'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31634'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Roman_Catholic'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31870'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31932'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31821'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#small_manufactures'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31630'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Coptic_Christian'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31626'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Muslim'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31817'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#food'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31624'>
+    <NS0:note>Red Sea coast dwellers</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31813'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#textiles'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31790'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31620'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Saho'/>
+    <NS0:percent>3</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31809'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#sorghum'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31615'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Afar'/>
+    <NS0:percent>4</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31805'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#livestock'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31559'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31860'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31610'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Tigre_and_Kunama'/>
+    <NS0:percent>40</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31600'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31605'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#ethnic_Tigrinya'/>
+    <NS0:percent>50</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31863'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31591'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:ratio>0.99</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31586'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>65</NS0:minAge>
+    <NS0:ratio>1.02</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31535'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1998</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31553'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>July 2001</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31773'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#industry_and_services'/>
+    <NS0:percent>20</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31580'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>15</NS0:minAge>
+    <NS0:maxAge>64</NS0:maxAge>
+    <NS0:ratio>0.98</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31768'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#agriculture'/>
+    <NS0:percent>80</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31574'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>14</NS0:maxAge>
+    <NS0:ratio>1</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31568'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>0</NS0:maxAge>
+    <NS0:ratio>1.03</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31556'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31846'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31783'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31565'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31594'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31856'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122847'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#UK'/>
+    <NS0:percent>4.5</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31788'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31858'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122842'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#GM'/>
+    <NS0:percent>5.7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31923'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:maxRunway>913</NS0:maxRunway>
+    <NS0:count>2 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122837'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#TC'/>
+    <NS0:percent>16.2</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31916'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>914</NS0:minRunway>
+    <NS0:maxRunway>1523</NS0:maxRunway>
+    <NS0:count>7</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122832'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#IT'/>
+    <NS0:percent>17.4</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#ER'>
+    <NS0:background>Eritrea was awarded to Ethiopia in 1952 as part of a federation. Ethiopia&apos;s annexation of Eritrea as a province 10 years later sparked a 30-year struggle for independence that ended in 1991 with Eritrean rebels defeating governmental forces; independence was overwhelmingly approved in a 1993 referendum. A two and a half year border war with Ethiopia that erupted in 1998 ended under UN auspices on 12 December 2000.</NS0:background>
+    <NS0:location>Eastern Africa, bordering the Red Sea, between Djibouti and Sudan</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A31500'/>
+    <NS0:mapReferences>Africa</NS0:mapReferences>
+    <NS0:totalArea>121320</NS0:totalArea>
+    <NS0:landArea>121320</NS0:landArea>
+    <NS0:waterArea>0</NS0:waterArea>
+    <NS0:comparativeArea>slightly larger than Pennsylvania</NS0:comparativeArea>
+    <NS0:landBoundaries>1630</NS0:landBoundaries>
+    <NS0:territorialSea>12</NS0:territorialSea>
+    <NS0:climate>hot, dry desert strip along Red Sea coast; cooler and wetter in the central highlands (up to 61 cm of rainfall annually); semiarid in western hills and lowlands; rainfall heaviest during June-September except in coastal desert</NS0:climate>
+    <NS0:terrain>dominated by extension of Ethiopian north-south trending highlands, descending on the east to a coastal desert plain, on the northwest to hilly terrain and on the southwest to flat-to-rolling plains</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A31514'/>
+    <NS0:highestPoint rdf:resource='#A31519'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#gold'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#potash'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#zinc'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#copper'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#salt'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#possibly_oil_and_natural_gas'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#fish'/>
+    <NS0:arableLand>12</NS0:arableLand>
+    <NS0:permanentCrops>1</NS0:permanentCrops>
+    <NS0:permanentPastures>49</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>6</NS0:forestsAndWoodland>
+    <NS0:otherLandUse rdf:ID='A31535'>32</NS0:otherLandUse>
+    <NS0:irrigatedLand rdf:ID='A31538'>280</NS0:irrigatedLand>
+    <NS0:naturalHazard>frequent droughts</NS0:naturalHazard>
+    <NS0:naturalHazard>locust swarms</NS0:naturalHazard>
+    <NS0:environmentalIssue>deforestation</NS0:environmentalIssue>
+    <NS0:environmentalIssue>desertification</NS0:environmentalIssue>
+    <NS0:environmentalIssue>soil erosion</NS0:environmentalIssue>
+    <NS0:environmentalIssue>overgrazing</NS0:environmentalIssue>
+    <NS0:environmentalIssue>loss of infrastructure from civil warfare</NS0:environmentalIssue>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Biodiversity'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Climate_Change'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Desertification'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Endangered_Species'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#none_of_the_selected_agreements'/>
+    <NS0:population rdf:ID='A31553'>4298269</NS0:population>
+    <NS0:populationGrowthRate rdf:ID='A31556'>3.84</NS0:populationGrowthRate>
+    <NS0:birthRate rdf:ID='A31559'>42.52</NS0:birthRate>
+    <NS0:deathRate rdf:ID='A31562'>12.07</NS0:deathRate>
+    <NS0:netMigrationRate rdf:ID='A31565'>7.91</NS0:netMigrationRate>
+    <NS0:sexRatio rdf:resource='#A31568'/>
+    <NS0:sexRatio rdf:resource='#A31574'/>
+    <NS0:sexRatio rdf:resource='#A31580'/>
+    <NS0:sexRatio rdf:resource='#A31586'/>
+    <NS0:sexRatio rdf:ID='A31594' rdf:resource='#A31591'/>
+    <NS0:infantMortalityRate rdf:ID='A31597'>75.14</NS0:infantMortalityRate>
+    <NS0:totalFertilityRate rdf:ID='A31600'>5.87</NS0:totalFertilityRate>
+    <NS0:nationalityNoun>Eritrean(s)</NS0:nationalityNoun>
+    <NS0:nationalityAdjective>Eritrean</NS0:nationalityAdjective>
+    <NS0:ethnicGroup rdf:resource='#A31605'/>
+    <NS0:ethnicGroup rdf:resource='#A31610'/>
+    <NS0:ethnicGroup rdf:resource='#A31615'/>
+    <NS0:ethnicGroup rdf:ID='A31624' rdf:resource='#A31620'/>
+    <NS0:religion rdf:resource='#A31626'/>
+    <NS0:religion rdf:resource='#A31630'/>
+    <NS0:religion rdf:resource='#A31634'/>
+    <NS0:religion rdf:resource='#A31638'/>
+    <NS0:language rdf:resource='#A31642'/>
+    <NS0:language rdf:resource='#A31646'/>
+    <NS0:language rdf:resource='#A31650'/>
+    <NS0:language rdf:resource='#A31654'/>
+    <NS0:language rdf:resource='#A31658'/>
+    <NS0:language rdf:resource='#A31662'/>
+    <NS0:literacyDefinition>NA</NS0:literacyDefinition>
+    <NS0:literacyTotal>25</NS0:literacyTotal>
+    <NS0:conventionalLongCountryName>State of Eritrea</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Eritrea</NS0:conventionalShortCountryName>
+    <NS0:localLongCountryName>Hagere Ertra</NS0:localLongCountryName>
+    <NS0:localShortCountryName>Ertra</NS0:localShortCountryName>
+    <NS0:formerCountryName>Eritrea Autonomous Region in Ethiopia</NS0:formerCountryName>
+    <NS0:governmentType rdf:resource='http://www.daml.org/2001/12/factbook/governmentTypes#transitional_government'/>
+    <NS0:capital rdf:resource='#A31674'/>
+    <NS0:administrativeDivision rdf:resource='#A31681'/>
+    <NS0:administrativeDivision rdf:resource='#A31685'/>
+    <NS0:administrativeDivision rdf:resource='#A31689'/>
+    <NS0:administrativeDivision rdf:resource='#A31693'/>
+    <NS0:administrativeDivision rdf:resource='#A31697'/>
+    <NS0:administrativeDivision rdf:resource='#A31701'/>
+    <NS0:administrativeDivision rdf:resource='#A31705'/>
+    <NS0:administrativeDivision rdf:resource='#A31709'/>
+    <NS0:independence>24 May 1993 (from Ethiopia)</NS0:independence>
+    <NS0:constitution>the transitional constitution, decreed on 19 May 1993, was replaced by a new constitution adopted on 23 May 1997, but not yet implemented</NS0:constitution>
+    <NS0:legalSystem>operates on the basis of transitional laws that incorporate pre-independence statutes of the Eritrean People&apos;s Liberation Front, revised Ethiopian laws, customary laws, and post independence enacted laws</NS0:legalSystem>
+    <NS0:suffrage>18 years of age; universal</NS0:suffrage>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ACP'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#AfDB'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CCC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ECA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#FAO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IBRD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICAO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICFTU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IDA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFAD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IGAD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ILO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IMF'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IMO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Intelsat'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Interpol'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IOC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ITU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NAM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OAU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OPCW'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UN'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNCTAD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNESCO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNIDO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UPU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WFTU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WHO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WIPO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WMO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WToO'/>
+    <NS0:flagDescription>red isosceles triangle (based on the hoist side) dividing the flag into two right triangles; the upper triangle is green, the lower one is blue; a gold wreath encircling a gold olive branch is centered on the hoist side of the red triangle</NS0:flagDescription>
+    <NS0:economyOverview>With independence from Ethiopia on 24 May 1993, Eritrea faced the economic problems of a small, desperately poor country. The economy is largely based on subsistence agriculture, with 80% of the population involved in farming and herding. The small industrial sector consists mainly of light industries with outmoded technologies. Domestic output (GDP) is substantially augmented by worker remittances from abroad. Government revenues come from custom duties and taxes on income and sales. Road construction is a top domestic priority. In the long term, Eritrea may benefit from the development of offshore oil, offshore fishing, and tourism. Eritrea&apos;s economic future depends on its ability to master fundamental social and economic problems, e.g., by reducing illiteracy, promoting job creation, expanding technical training, attracting foreign investment, and streamlining the bureaucracy. Eritrea&apos;s agriculture over the last two years was severely weakened by war and drought, and many farmlands must wait to be demined. Another major difficulty is the ports, which prior to the war were Ethiopia&apos;s preferred outlets but since have seen trade dry up.</NS0:economyOverview>
+    <NS0:grossDomesticProduct rdf:ID='A31751'>2900000000</NS0:grossDomesticProduct>
+    <NS0:grossDomesticProductRealGrowth rdf:ID='A31754'>-1</NS0:grossDomesticProductRealGrowth>
+    <NS0:grossDomesticProductPerCapita rdf:ID='A31757'>710</NS0:grossDomesticProductPerCapita>
+    <NS0:grossDomesticProductAgriculture>16</NS0:grossDomesticProductAgriculture>
+    <NS0:grossDomesticProductIndustry>27</NS0:grossDomesticProductIndustry>
+    <NS0:grossDomesticProductServices rdf:ID='A31762'>57</NS0:grossDomesticProductServices>
+    <NS0:inflationRate rdf:ID='A31765'>14</NS0:inflationRate>
+    <NS0:occupation rdf:resource='#A31768'/>
+    <NS0:occupation rdf:resource='#A31773'/>
+    <NS0:budgetRevenues>283900000</NS0:budgetRevenues>
+    <NS0:budgetExpenditures>351600000</NS0:budgetExpenditures>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#food_processing'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#beverages'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#clothing_and_textiles'/>
+    <NS0:electricityProduction rdf:ID='A31783'>165000000</NS0:electricityProduction>
+    <NS0:electricityProductionFossilFuel>100</NS0:electricityProductionFossilFuel>
+    <NS0:electricityProductionHydro>0</NS0:electricityProductionHydro>
+    <NS0:electricityProductionNuclear>0</NS0:electricityProductionNuclear>
+    <NS0:electricityProductionOther rdf:ID='A31788'>0</NS0:electricityProductionOther>
+    <NS0:electricityConsumption rdf:ID='A31790'>153500000</NS0:electricityConsumption>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#sorghum'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#lentils'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#vegetables'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#corn'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#cotton'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#tobacco'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#coffee'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#sisal'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#livestock'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#goats'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#fish'/>
+    <NS0:exports rdf:ID='A31803'>26000000</NS0:exports>
+    <NS0:exportsCommodity rdf:resource='#A31805'/>
+    <NS0:exportsCommodity rdf:resource='#A31809'/>
+    <NS0:exportsCommodity rdf:resource='#A31813'/>
+    <NS0:exportsCommodity rdf:resource='#A31817'/>
+    <NS0:exportsCommodity rdf:resource='#A31821'/>
+    <NS0:imports rdf:ID='A31825'>560000000</NS0:imports>
+    <NS0:importsCommodity rdf:resource='#A31827'/>
+    <NS0:importsCommodity rdf:resource='#A31831'/>
+    <NS0:importsCommodity rdf:resource='#A31835'/>
+    <NS0:importsCommodity rdf:resource='#A31839'/>
+    <NS0:externalDebt rdf:ID='A31843'>281000000</NS0:externalDebt>
+    <NS0:economicAidRecipient rdf:ID='A31846'>77000000</NS0:economicAidRecipient>
+    <NS0:currency>nakfa (ERN)</NS0:currency>
+    <NS0:currencyCode>ERN</NS0:currencyCode>
+    <NS0:fiscalYear>calendar year</NS0:fiscalYear>
+    <NS0:mainTelephoneLines rdf:ID='A31851'>23578</NS0:mainTelephoneLines>
+    <NS0:telephoneSystemGeneralAssessment>NA</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>very inadequate; most telephones are in Asmara; government is seeking international tenders to improve the system</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>NA</NS0:telephoneSystemInternational>
+    <NS0:radios rdf:ID='A31856'>345000</NS0:radios>
+    <NS0:televisionBroadcastStations rdf:ID='A31858'>1</NS0:televisionBroadcastStations>
+    <NS0:televisions rdf:ID='A31860'>1000</NS0:televisions>
+    <NS0:internetCountryCode>.er</NS0:internetCountryCode>
+    <NS0:internetServiceProviders rdf:ID='A31863'>4</NS0:internetServiceProviders>
+    <NS0:internetUsers rdf:ID='A31865'>500</NS0:internetUsers>
+    <NS0:railwaysTotal>317</NS0:railwaysTotal>
+    <NS0:highwaysTotal>3850</NS0:highwaysTotal>
+    <NS0:highwaysPaved>810</NS0:highwaysPaved>
+    <NS0:highwaysUnpaved rdf:ID='A31870'>3040</NS0:highwaysUnpaved>
+    <NS0:port rdf:resource='#A31872'/>
+    <NS0:port rdf:resource='#A31876'/>
+    <NS0:airports rdf:ID='A31880'>20</NS0:airports>
+    <NS0:airportBreakdown rdf:resource='#A31883'/>
+    <NS0:airportBreakdown rdf:resource='#A31889'/>
+    <NS0:airportBreakdown rdf:resource='#A31896'/>
+    <NS0:airportBreakdown rdf:resource='#A31902'/>
+    <NS0:airportBreakdown rdf:resource='#A31909'/>
+    <NS0:airportBreakdown rdf:resource='#A31916'/>
+    <NS0:airportBreakdown rdf:resource='#A31923'/>
+    <NS0:militaryExpenditures rdf:ID='A31929'>160000000</NS0:militaryExpenditures>
+    <NS0:militaryExpendituresPercentGDP rdf:ID='A31932'>29.4</NS0:militaryExpendituresPercentGDP>
+    <NS0:internationalDispute>as a result of the 12 December 2000 peace agreement ending a two-year war with Ethiopia, the UN will administer a 25-km wide temporary security zone within Eritrea until a joint boundary commission delimits and demarcates a final boundary</NS0:internationalDispute>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/er-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/er-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/er-map.jpg</NS0:map>
+    <NS0:border rdf:resource='#A122791'/>
+    <NS0:border rdf:resource='#A122796'/>
+    <NS0:border rdf:resource='#A122801'/>
+    <NS0:exportPartner rdf:resource='#A122806'/>
+    <NS0:exportPartner rdf:resource='#A122811'/>
+    <NS0:exportPartner rdf:resource='#A122816'/>
+    <NS0:exportPartner rdf:resource='#A122821'/>
+    <NS0:exportPartner rdf:ID='A122830' rdf:resource='#A122826'/>
+    <NS0:importPartner rdf:resource='#A122832'/>
+    <NS0:importPartner rdf:resource='#A122837'/>
+    <NS0:importPartner rdf:resource='#A122842'/>
+    <NS0:importPartner rdf:resource='#A122847'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31803'>
+    <NS0:note>f.o.b., 1999</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122826'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#IT'/>
+    <NS0:percent>5.3</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31909'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>1524</NS0:minRunway>
+    <NS0:maxRunway>2437</NS0:maxRunway>
+    <NS0:count>5</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122821'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#TC'/>
+    <NS0:percent>7.3</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31902'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>2438</NS0:minRunway>
+    <NS0:maxRunway>3047</NS0:maxRunway>
+    <NS0:count>2</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31519'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Soira</NS0:name>
+    <NS0:elevation>3018</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A31709'>
+    <rdf:type rdf:resource='#Province'/>
+    <NS0:name>Seraye</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A122816'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#JA'/>
+    <NS0:percent>13.2</NS0:percent>
+  </rdf:Description>
+</rdf:RDF>

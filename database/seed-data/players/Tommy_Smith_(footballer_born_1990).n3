@@ -1,0 +1,208 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://fr.dbpedia.org/resource/Tommy_Smith_(football,_1990)>	owl:sameAs	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://de.dbpedia.org/resource/Tommy_Smith_(Fu\u00DFballspieler,_1990)>	owl:sameAs	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+@prefix ns1:	<http://wikidata.dbpedia.org/resource/> .
+ns1:Q462503	owl:sameAs	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+@prefix ns2:	<http://es.dbpedia.org/resource/> .
+ns2:Tommy_Smith	owl:sameAs	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+@prefix ns3:	<http://it.dbpedia.org/resource/> .
+ns3:Thomas_Jefferson_Smith	owl:sameAs	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://pl.dbpedia.org/resource/Tommy_Smith_(ur._1990)>	owl:sameAs	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+@prefix ns4:	<http://pt.dbpedia.org/resource/> .
+ns4:Tommy_Smith	owl:sameAs	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:New_Zealand_national_football_team	dbpprop:name	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://dbpedia.org/resource/2013_OSN_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://dbpedia.org/resource/2007_FIFA_U-17_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)>	rdf:type	foaf:Person .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)>	rdf:type	dbpedia-owl:Athlete ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Person ,
+		ns1:Q215627 ,
+		owl:Thing ,
+		dbpedia-owl:SoccerPlayer ,
+		ns1:Q5 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)>	rdf:type	dul:Agent ,
+		dul:NaturalPerson .
+@prefix ns11:	<http://schema.org/> .
+<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)>	rdf:type	ns11:Person ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.041855n> ,
+		ns3:Thomas_Jefferson_Smith ,
+		<http://sv.dbpedia.org/resource/Tommy_Smith_(fotbollsspelare_f\u00F6dd_1990)> ,
+		<http://zh.dbpedia.org/resource/\u6E6F\u7C73\u00B7\u53F2\u5BC6\u592B_(1990\u5E74\u51FA\u751F)> ,
+		<http://de.dbpedia.org/resource/Tommy_Smith_(Fu\u00DFballspieler,_1990)> ,
+		ns2:Tommy_Smith ,
+		<http://ru.dbpedia.org/resource/\u0421\u043C\u0438\u0442,_\u0422\u043E\u043C\u043C\u0438_(1990)> ,
+		<http://ar.dbpedia.org/resource/\u062A\u0648\u0645\u064A_\u0633\u0645\u064A\u062B_(\u0644\u0627\u0639\u0628_\u0643\u0631\u0629_\u0642\u062F\u0645_\u0646\u064A\u0648\u0632\u064A\u0644\u0646\u062F\u064A)> .
+@prefix ns12:	<http://uk.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)>	owl:sameAs	ns12:Томмі_Сміт ,
+		<http://pl.dbpedia.org/resource/Tommy_Smith_(ur._1990)> ,
+		<http://fr.dbpedia.org/resource/Tommy_Smith_(football,_1990)> ,
+		<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> ,
+		ns4:Tommy_Smith ,
+		<http://mr.dbpedia.org/resource/\u091F\u0949\u092E\u0940_\u0938\u094D\u092E\u093F\u0925_(\u092B\u0941\u091F\u092C\u0949\u0932_\u0916\u0947\u0933\u093E\u0921\u0942_\u091C\u0928\u094D\u092E_\u0967\u096F\u096F\u0966)> ,
+		<http://no.dbpedia.org/resource/Tommy_Smith_(1990)> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)>	rdfs:label	"Tommy Smith (footballer born 1990)" .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)>	dcterms:subject	category:People_from_Macclesfield ,
+		category:English_footballers ,
+		<http://dbpedia.org/resource/Category:Brentford_F.C._players> ,
+		category:New_Zealand_association_footballers ,
+		category:Living_people ,
+		category:Olympic_footballers_of_New_Zealand ,
+		category:Footballers_at_the_2012_Summer_Olympics ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:New_Zealand_international_footballers ,
+		<http://dbpedia.org/resource/Category:Colchester_United_F.C._players> ,
+		category:The_Football_League_players ,
+		category:Association_football_defenders ,
+		category:England_youth_international_footballers ,
+		<http://dbpedia.org/resource/Category:Stevenage_F.C._players> ,
+		<http://dbpedia.org/resource/Category:Ipswich_Town_F.C._players> ,
+		<http://dbpedia.org/resource/Category:1990_births> ,
+		category:Football_Conference_players ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Tommy_Smith_-_It_8.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)>	dc:description	"Footballer" ,
+		"Footballer" ;
+	foaf:givenName	"Tommy" ;
+	foaf:name	"Thomas Jefferson Smith" ,
+		"Smith, Tommy" ,
+		"Tommy Smith" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Tommy_Smith_(footballer_born_1990)?oldid=601385100> ;
+	rdfs:comment	"Thomas Jefferson \"Tommy\" Smith (born 31 March 1990) is an English-born New Zealand international footballer who plays for Ipswich Town and captains the New Zealand national football team. A graduate of the Ipswich academy, he is a left-sided defensive player, most adept at centre back or left back. He spent the second half of the 2007\u201308 season on loan at Stevenage in the Conference National before making his Ipswich debut in August 2008." ;
+	foaf:surname	"Smith" ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Tommy_Smith_(footballer_born_1990)> ;
+	dbpprop:hasPhotoCollection	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Tommy_Smith_(footballer_born_1990)> ;
+	dbpprop:caption	"Smith in 2009" ;
+	dbpprop:name	"Smith, Tommy" ,
+		"Tommy Smith" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Tommy_Smith_-_It_8.jpg?width=300> ;
+	dbpedia-owl:abstract	"Thomas Jefferson \"Tommy\" Smith (born 31 March 1990) is an English-born New Zealand international footballer who plays for Ipswich Town and captains the New Zealand national football team. A graduate of the Ipswich academy, he is a left-sided defensive player, most adept at centre back or left back. He spent the second half of the 2007\u201308 season on loan at Stevenage in the Conference National before making his Ipswich debut in August 2008. He is Ipswich's longest serving player and is the current Ipswich Town Supporters Player of the Season having won the award for the 2012\u201313 season." ;
+	dbpedia-owl:wikiPageID	18785471 ;
+	dbpedia-owl:wikiPageRevisionID	601385100 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)>	dbpprop:birthDate	"1990-03-31+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Macclesfield, England" ;
+	dbpprop:dateOfBirth	"1990-03-31+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Macclesfield, England" ;
+	dbpprop:shortDescription	"Footballer" ;
+	dbpedia-owl:birthDate	"1990-03-31+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Macclesfield ;
+	dbpedia-owl:birthYear	"1990+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	300 ;
+	dbpprop:goals	14 ,
+		0 ;
+	dbpprop:bg	"white" ;
+	dbpprop:caps	139 ,
+		15 ,
+		8 ,
+		6 ;
+	dbpprop:years	2010 ,
+		2011 ,
+		2008 ,
+		2007 ;
+	dbpprop:youthclubs	<http://dbpedia.org/resource/Crewe_Alexandra_F.C.> ,
+		dbpedia:North_Shore_United ,
+		<http://dbpedia.org/resource/Ipswich_Town_F.C.> ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)__5> ,
+		<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)__3> ,
+		<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)__1> ,
+		<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)__4> ,
+		<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)__6> ,
+		<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)__7> ,
+		<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)__2> ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.8795999999999999375 .
+@prefix ns19:	<http://dbpedia.org/datatype/> .
+@prefix ns20:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)>	ns20:height	"187.96"^^ns19:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/Ipswich_Town_F.C.> ;
+	dbpprop:clubnumber	5 ;
+	dbpprop:fullname	"Thomas Jefferson Smith" ;
+	dbpprop:clubs	"\u2192 Colchester United" ,
+		"\u2192 Stevenage Borough" ,
+		<http://dbpedia.org/resource/Ipswich_Town_F.C.> ,
+		"\u2192 Brentford" ;
+	dbpedia-owl:team	dbpedia:North_Shore_United ,
+		dbpedia:England_national_under-17_football_team ,
+		<http://dbpedia.org/resource/Ipswich_Town_F.C.> ,
+		dbpedia:New_Zealand_national_football_team ,
+		<http://dbpedia.org/resource/Crewe_Alexandra_F.C.> ,
+		dbpedia:England_national_under-18_football_team ,
+		<http://dbpedia.org/resource/Colchester_United_F.C.> ,
+		<http://dbpedia.org/resource/Stevenage_F.C.> ,
+		<http://dbpedia.org/resource/Brentford_F.C.> ;
+	dbpprop:title	"New Zealand squads" ;
+	dbpprop:pcupdate	"--03-26+02:00"^^xsd:gMonthDay ;
+	dbpedia-owl:wikiPageExternalLink	<http://nzfootball.co.nz/index.php?id=11&tx_ttnews%5BpS%5D=1275314400&tx_ttnews%5BpL%5D=2591999&tx_ttnews%5Barc%5D=1&tx_ttnews%5Bpointer%5D=2&tx_ttnews%5Btt_news%5D=587&tx_ttnews%5BbackPid%5D=195&cHash=3643c52e2d> ,
+		<http://nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=451&tx_ttnews%5BbackPid%5D=1&cHash=761b9e10a4> ,
+		<http://nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=558&tx_ttnews%5BbackPid%5D=3&cHash=5b6fcdd008> ,
+		<http://nzfootball.co.nz/index.php?id=11&tx_ttnews%5BpS%5D=1154354400&tx_ttnews%5BpL%5D=2678399&tx_ttnews%5Barc%5D=1&tx_ttnews%5Btt_news%5D=592&tx_ttnews%5BbackPid%5D=236&cHash=227204e493> ,
+		<http://nzfootball.co.nz/index.php?id=11&tx_ttnews%5BpS%5D=1272636000&tx_ttnews%5BpL%5D=2678399&tx_ttnews%5Barc%5D=1&tx_ttnews%5Btt_news%5D=566&tx_ttnews%5BbackPid%5D=195&cHash=70a6e0f064> ,
+		<http://nzfootball.co.nz/index.php?id=11&tx_ttnews%5BpS%5D=1272636000&tx_ttnews%5BpL%5D=2678399&tx_ttnews%5Barc%5D=1&tx_ttnews%5Btt_news%5D=577&tx_ttnews%5BbackPid%5D=195&cHash=b717116a1d> ,
+		<http://www.itfc.premiumtv.co.uk/page/Academy/0,,10272~899251,00.html> ,
+		<http://www.nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=1873&cHash=ed21c94114> ,
+		<http://www.nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=1920&tx_ttnews%5BbackPid%5D=10&cHash=7f15764407> ,
+		<http://www.nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=2204&tx_ttnews%5BbackPid%5D=1&cHash=e4bac844a0> ,
+		<http://www.nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=600&tx_ttnews%5BbackPid%5D=10&cHash=d8ca706643> ,
+		<http://www.nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=1702&cHash=a33dd226fa> ,
+		<http://www.nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=1818&cHash=43e68a6d3e> ,
+		<http://www.nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=1823&cHash=dec010cfb3> ,
+		<http://www.nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=1870&tx_ttnews%5BbackPid%5D=10&cHash=b326d55a1c> ,
+		<http://www.nzfootball.co.nz/index.php?id=1124> ,
+		<http://www.nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=1473&cHash=d7440fc335> ,
+		<http://www.nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=1680&tx_ttnews%5BbackPid%5D=10&cHash=b6888f8259> ,
+		<http://www.nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=1684&tx_ttnews%5BbackPid%5D=10&cHash=c5b9e5f908> ,
+		<http://nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=969&tx_ttnews%5BbackPid%5D=10&cHash=04c6840426> ,
+		<http://www.nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=1665&cHash=59028688ba> ,
+		<http://www.nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=1668&cHash=b3a68c6929> ,
+		<http://www.nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=1695&tx_ttnews%5BbackPid%5D=1&cHash=9f711dc963> ,
+		<http://www.nzfootball.co.nz/index.php?id=11&tx_ttnews%5Btt_news%5D=1705&tx_ttnews%5BbackPid%5D=10&cHash=79cb1261bd> ;
+	dbpprop:fg	"black" ;
+	dbpprop:nationalcaps	27 ,
+		3 ,
+		1 ;
+	dbpprop:nationalgoals	0 ,
+		2 ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team ,
+		dbpedia:England_national_under-17_football_team ,
+		dbpedia:England_national_under-18_football_team ;
+	dbpprop:nationalyears	2007 ,
+		2008 ,
+		2010 ;
+	dbpedia-owl:number	5 ;
+	dbpprop:ntupdate	"--11-20+02:00"^^xsd:gMonthDay .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://dbpedia.org/resource/2009%E2%80%9310_Brentford_F.C._season>	dbpprop:name	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://dbpedia.org/resource/2012_OFC_Nations_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://ar.dbpedia.org/resource/\u062A\u0648\u0645\u064A_\u0633\u0645\u064A\u062B_(\u0644\u0627\u0639\u0628_\u0643\u0631\u0629_\u0642\u062F\u0645_\u0646\u064A\u0648\u0632\u064A\u0644\u0646\u062F\u064A)>	owl:sameAs	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://mr.dbpedia.org/resource/\u091F\u0949\u092E\u0940_\u0938\u094D\u092E\u093F\u0925_(\u092B\u0941\u091F\u092C\u0949\u0932_\u0916\u0947\u0933\u093E\u0921\u0942_\u091C\u0928\u094D\u092E_\u0967\u096F\u096F\u0966)>	owl:sameAs	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://no.dbpedia.org/resource/Tommy_Smith_(1990)>	owl:sameAs	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://ru.dbpedia.org/resource/\u0421\u043C\u0438\u0442,_\u0422\u043E\u043C\u043C\u0438_(1990)>	owl:sameAs	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://sv.dbpedia.org/resource/Tommy_Smith_(fotbollsspelare_f\u00F6dd_1990)>	owl:sameAs	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+ns12:Томмі_Сміт	owl:sameAs	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://zh.dbpedia.org/resource/\u6E6F\u7C73\u00B7\u53F2\u5BC6\u592B_(1990\u5E74\u51FA\u751F)>	owl:sameAs	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://dbpedia.org/resource/Ipswich_Town_F.C.>	dbpprop:name	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://dbpedia.org/resource/2007%E2%80%9308_Ipswich_Town_F.C._season__Tommy_Smith__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://en.wikipedia.org/wiki/Tommy_Smith_(footballer_born_1990)>	foaf:primaryTopic	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+dbpedia:New_Zealand_national_under-23_football_team	dbpprop:name	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Ipswich_Town_F.C._season__Tommy_Smith__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://dbpedia.org/resource/Ipswich_Town_F.C.__Tommy_Smith__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Ipswich_Town_F.C._season>	dbpprop:name	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://dbpedia.org/resource/2009%E2%80%9310_Ipswich_Town_F.C._season>	dbpprop:name	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+dbpedia:Tommy_Smith	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://dbpedia.org/resource/2008%E2%80%9309_Ipswich_Town_F.C._season>	dbpprop:name	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://dbpedia.org/resource/2007%E2%80%9308_Ipswich_Town_F.C._season>	dbpprop:name	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://dbpedia.org/resource/2009%E2%80%9310_Brentford_F.C._season__Tommy_Smith__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .
+<http://dbpedia.org/resource/2008%E2%80%9309_Ipswich_Town_F.C._season__Tommy_Smith__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Tommy_Smith_(footballer_born_1990)> .

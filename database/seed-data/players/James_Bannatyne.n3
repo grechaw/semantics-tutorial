@@ -1,0 +1,220 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:James_Bannatyne	owl:sameAs	dbpedia:James_Bannatyne .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:James_Bannatyne	owl:sameAs	dbpedia:James_Bannatyne .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q462558	owl:sameAs	dbpedia:James_Bannatyne .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:James_Bannatyne	owl:sameAs	dbpedia:James_Bannatyne .
+@prefix ns6:	<http://it.dbpedia.org/resource/> .
+ns6:James_Bannatyne	owl:sameAs	dbpedia:James_Bannatyne .
+@prefix ns7:	<http://pl.dbpedia.org/resource/> .
+ns7:James_Bannatyne	owl:sameAs	dbpedia:James_Bannatyne .
+@prefix ns8:	<http://pt.dbpedia.org/resource/> .
+ns8:James_Bannatyne	owl:sameAs	dbpedia:James_Bannatyne .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Petone_FC__James_Bannatyne__1	dbpedia-owl:currentMember	dbpedia:James_Bannatyne .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns11:	<http://en.wikipedia.org/wiki/> .
+ns11:James_Bannatyne	foaf:primaryTopic	dbpedia:James_Bannatyne .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:James_Bannatyne .
+@prefix ns13:	<http://ar.dbpedia.org/resource/> .
+ns13:جايمس_باناتين	owl:sameAs	dbpedia:James_Bannatyne .
+@prefix ns14:	<http://fi.dbpedia.org/resource/> .
+ns14:James_Bannatyne	owl:sameAs	dbpedia:James_Bannatyne .
+@prefix ns15:	<http://mr.dbpedia.org/resource/> .
+ns15:जेम्स_बॅनाटाइन	owl:sameAs	dbpedia:James_Bannatyne .
+@prefix ns16:	<http://no.dbpedia.org/resource/> .
+ns16:James_Bannatyne	owl:sameAs	dbpedia:James_Bannatyne .
+<http://ru.dbpedia.org/resource/\u0411\u0430\u043D\u043D\u0430\u0442\u0438\u043D,_\u0414\u0436\u0435\u0439\u043C\u0441>	owl:sameAs	dbpedia:James_Bannatyne .
+@prefix ns17:	<http://sv.dbpedia.org/resource/> .
+ns17:James_Bannatyne	owl:sameAs	dbpedia:James_Bannatyne .
+@prefix ns18:	<http://uk.dbpedia.org/resource/> .
+ns18:Джеймс_Беннатін	owl:sameAs	dbpedia:James_Bannatyne .
+<http://dbpedia.org/resource/2009_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:James_Bannatyne .
+<http://dbpedia.org/resource/2008_OFC_Nations_Cup_squads>	dbpprop:name	dbpedia:James_Bannatyne .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:James_Bannatyne	rdf:type	yago:AssociationFootballGoalkeepersWhoHaveScored ,
+		ns4:Q5 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:James_Bannatyne	rdf:type	dul:Agent ,
+		dbpedia-owl:Athlete ,
+		dul:NaturalPerson ,
+		<http://dbpedia.org/class/yago/NationalSoccerLeague(Australia)Players> ,
+		yago:TeamWellingtonPlayers ,
+		<http://dbpedia.org/class/yago/FootballKingzF.C.Players> ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Person ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:Player110439851 ,
+		yago:YagoLegalActorGeo ,
+		yago:Athlete109820263 ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:FootballPlayer110101634 .
+@prefix ns22:	<http://schema.org/> .
+dbpedia:James_Bannatyne	rdf:type	ns22:Person ,
+		yago:PeopleFromLowerHutt ,
+		yago:Contestant109613191 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		foaf:Person ,
+		<http://dbpedia.org/class/yago/2009FIFAConfederationsCupPlayers> ,
+		yago:NewZealandAssociationFootballers ,
+		yago:NewZealandInternationalFootballers ,
+		yago:AssociationFootballGoalkeepers ,
+		yago:PhysicalEntity100001930 ,
+		yago:HockeyPlayer110179291 ,
+		yago:Goalkeeper110134001 ,
+		yago:Whole100003553 ,
+		yago:Object100002684 ,
+		ns4:Q215627 ,
+		dbpedia-owl:SoccerPlayer ,
+		owl:Thing ,
+		yago:SoccerPlayer110618342 ,
+		yago:CanterburyUnitedPlayers ;
+	owl:sameAs	ns17:James_Bannatyne ,
+		ns15:जेम्स_बॅनाटाइन .
+@prefix ns23:	<http://yago-knowledge.org/resource/> .
+dbpedia:James_Bannatyne	owl:sameAs	ns23:James_Bannatyne ,
+		ns18:Джеймс_Беннатін ,
+		ns4:Q462558 ,
+		ns3:James_Bannatyne ,
+		ns8:James_Bannatyne ,
+		<http://ru.dbpedia.org/resource/\u0411\u0430\u043D\u043D\u0430\u0442\u0438\u043D,_\u0414\u0436\u0435\u0439\u043C\u0441> ,
+		ns14:James_Bannatyne ,
+		ns5:James_Bannatyne ,
+		ns6:James_Bannatyne ,
+		<http://rdf.freebase.com/ns/m.09l8z_> ,
+		ns7:James_Bannatyne ,
+		dbpedia:James_Bannatyne .
+@prefix ns24:	<http://wikidata.org/entity/> .
+dbpedia:James_Bannatyne	owl:sameAs	ns24:Q462558 ,
+		ns1:James_Bannatyne ,
+		ns16:James_Bannatyne ,
+		ns13:جايمس_باناتين .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:James_Bannatyne	rdfs:label	"James Bannatyne"@pl ,
+		"James Bannatyne" ,
+		"\u0411\u0430\u043D\u043D\u0430\u0442\u0438\u043D, \u0414\u0436\u0435\u0439\u043C\u0441"@ru ,
+		"\u062C\u0627\u064A\u0645\u0633 \u0628\u0627\u0646\u0627\u062A\u064A\u0646"@ar ,
+		"James Bannatyne"@es ,
+		"James Bannatyne"@pt ,
+		"James Bannatyne"@fr ,
+		"James Bannatyne"@it ,
+		"James Bannatyne"@de .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+dbpedia:James_Bannatyne	dcterms:subject	<http://dbpedia.org/resource/Category:1975_births> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:James_Bannatyne	dcterms:subject	category:New_Zealand_association_footballers ,
+		category:Team_Wellington_players ,
+		category:People_from_Lower_Hutt ,
+		category:Living_people ,
+		category:Association_football_goalkeepers ,
+		category:Association_football_goalkeepers_who_have_scored ,
+		<http://dbpedia.org/resource/Category:National_Soccer_League_(Australia)_players> ,
+		<http://dbpedia.org/resource/Category:Football_Kingz_F.C._players> ,
+		category:New_Zealand_international_footballers ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2009_FIFA_Confederations_Cup_players> ,
+		category:Canterbury_United_players .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:James_Bannatyne	dc:description	"New Zealand association footballer" ,
+		"New Zealand association footballer" ;
+	foaf:givenName	"James" ;
+	foaf:name	"James Bannatyne" ,
+		"Bannatyne, James" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:James_Bannatyne	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/James_Bannatyne?oldid=540454823> ;
+	rdfs:comment	"James Bannatyne (born 30 June 1975) is a former association football goalkeeper who last played for Team Wellington in the New Zealand Football Championship currently the goalkeeping coach for Central United in Auckland." ,
+		"\u0414\u0436\u0435\u0439\u043C\u0441 \u0411\u0430\u043D\u043D\u0430\u0442\u0438\u043D (\u0430\u043D\u0433\u043B. James Bannatyne; 30 \u0438\u044E\u043D\u044F 1975, \u041B\u043E\u0432\u0435\u0440 \u0425\u0430\u0442) \u2014 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432\u0440\u0430\u0442\u0430\u0440\u044C \u043A\u043B\u0443\u0431\u0430 \u00AB\u0412\u0435\u043B\u043B\u0438\u043D\u0433\u0442\u043E\u043D\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041D\u043E\u0432\u043E\u0439 \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u0438."@ru ,
+		"James Bannatyne (* 30. Juni 1975 in Lower Hutt) ist ein neuseel\u00E4ndischer Fu\u00DFballtorh\u00FCter, der seit 2006 beim Team Wellington aktiv ist und seit 2001 in der Neuseel\u00E4ndischen Fu\u00DFballnationalmannschaft spielt. Er gewann mit der Auswahl seines Heimatlandes den OFC-Nationen-Pokal 2002, als er in der 58. Minute f\u00FCr Jason Batty eingewechselt wurde."@de ,
+		"James Bannatyne (Lower Hutt, 30 giugno 1975) \u00E8 un ex calciatore neozelandese.Ai Mondiali 2010 era, assieme ad altri tre connazionali, tra i pochi calciatori dilettanti presenti alla competizione, in quanto svolgeva la professione di rappresentante."@it ,
+		"James Bannatyne (ur. 30 czerwca 1975 r. w Lower Hutt w Nowej Zelandii) \u2013 nowozelandzki pi\u0142karz, reprezentant kraju graj\u0105cy na pozycji bramkarza. Obecnie wyst\u0119puje w klubie A-League Team Wellington. Powo\u0142any przez trenera Rickiego Herberta na Puchar Konfederacji 2009, gdzie Nowa Zelandia odpad\u0142a w fazie grupowej, oraz na M\u015A 2010."@pl ,
+		"James Bannatyne (Lower Hutt, 30 de Junho de 1975) \u00E9 um futebolista neozeland\u00EAs, milita no Team Wellington, \u00E9 goleiro de oficio."@pt ,
+		"James Bannatyne, n\u00E9 le 30 juin 1975 \u00E0 Lower Hutt, est un footballeur international n\u00E9o-z\u00E9landais \u00E9voluant au poste de gardien de but."@fr ,
+		"James Bannatyne (30 de junio de 1975 en Lower Hutt) es un ex futbolista neozeland\u00E9s que jugaba de arquero. Fue parte del los planteles de Nueva Zelanda que disputaron la Copa FIFA Confederaciones 2009 y la Copa Mundial de 2010.Actualmente es el encargado de las estad\u00EDsticas en la OFC TV."@es ,
+		"\u062C\u0627\u064A\u0645\u0633 \u0628\u0627\u0646\u0627\u062A\u064A\u0646\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 30 \u064A\u0648\u0646\u064A\u0648 1975\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u064A.\u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u062A\u064A\u0645 \u0648\u064A\u0644\u064A\u0646\u063A\u062A\u0648\u0646.\u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2001."@ar ;
+	foaf:surname	"Bannatyne" ;
+	foaf:isPrimaryTopicOf	ns11:James_Bannatyne .
+@prefix ns30:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:James_Bannatyne	dbpprop:hasPhotoCollection	ns30:James_Bannatyne ;
+	dbpprop:name	"James Bannatyne" ,
+		"Bannatyne, James" ;
+	dbpedia-owl:abstract	"James Bannatyne (Lower Hutt, 30 giugno 1975) \u00E8 un ex calciatore neozelandese.Ai Mondiali 2010 era, assieme ad altri tre connazionali, tra i pochi calciatori dilettanti presenti alla competizione, in quanto svolgeva la professione di rappresentante."@it ,
+		"\u062C\u0627\u064A\u0645\u0633 \u0628\u0627\u0646\u0627\u062A\u064A\u0646\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 30 \u064A\u0648\u0646\u064A\u0648 1975\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u064A.\u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u062A\u064A\u0645 \u0648\u064A\u0644\u064A\u0646\u063A\u062A\u0648\u0646.\u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2001."@ar ,
+		"\u0414\u0436\u0435\u0439\u043C\u0441 \u0411\u0430\u043D\u043D\u0430\u0442\u0438\u043D (\u0430\u043D\u0433\u043B. James Bannatyne; 30 \u0438\u044E\u043D\u044F 1975, \u041B\u043E\u0432\u0435\u0440 \u0425\u0430\u0442) \u2014 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432\u0440\u0430\u0442\u0430\u0440\u044C \u043A\u043B\u0443\u0431\u0430 \u00AB\u0412\u0435\u043B\u043B\u0438\u043D\u0433\u0442\u043E\u043D\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041D\u043E\u0432\u043E\u0439 \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u0438."@ru ,
+		"James Bannatyne (born 30 June 1975) is a former association football goalkeeper who last played for Team Wellington in the New Zealand Football Championship currently the goalkeeping coach for Central United in Auckland. He represented New Zealand at international level, generally as backup to Glen Moss and Mark Paston, and played one season for the Football Kingz in the now-defunct Australian National Soccer League.Bannatyne made his full All Whites debut in a 2\u20130 win over Cook Islands on 18 June 2001. He was included in the New Zealand squad for the 2009 FIFA Confederations Cup in South Africa, along with fellow non-professionals Aaron Scott and Andrew Barron.On 10 May 2010, Bannatyne was named in New Zealand's final 23-man squad to compete at the 2010 FIFA World Cup. He retired from international football after returning from the World Cup." ,
+		"James Bannatyne (Lower Hutt, 30 de Junho de 1975) \u00E9 um futebolista neozeland\u00EAs, milita no Team Wellington, \u00E9 goleiro de oficio."@pt ,
+		"James Bannatyne (ur. 30 czerwca 1975 r. w Lower Hutt w Nowej Zelandii) \u2013 nowozelandzki pi\u0142karz, reprezentant kraju graj\u0105cy na pozycji bramkarza. Obecnie wyst\u0119puje w klubie A-League Team Wellington. Powo\u0142any przez trenera Rickiego Herberta na Puchar Konfederacji 2009, gdzie Nowa Zelandia odpad\u0142a w fazie grupowej, oraz na M\u015A 2010."@pl ,
+		"James Bannatyne (* 30. Juni 1975 in Lower Hutt) ist ein neuseel\u00E4ndischer Fu\u00DFballtorh\u00FCter, der seit 2006 beim Team Wellington aktiv ist und seit 2001 in der Neuseel\u00E4ndischen Fu\u00DFballnationalmannschaft spielt. Er gewann mit der Auswahl seines Heimatlandes den OFC-Nationen-Pokal 2002, als er in der 58. Minute f\u00FCr Jason Batty eingewechselt wurde."@de ,
+		"James Bannatyne, n\u00E9 le 30 juin 1975 \u00E0 Lower Hutt, est un footballeur international n\u00E9o-z\u00E9landais \u00E9voluant au poste de gardien de but."@fr ,
+		"James Bannatyne (30 de junio de 1975 en Lower Hutt) es un ex futbolista neozeland\u00E9s que jugaba de arquero. Fue parte del los planteles de Nueva Zelanda que disputaron la Copa FIFA Confederaciones 2009 y la Copa Mundial de 2010.Actualmente es el encargado de las estad\u00EDsticas en la OFC TV."@es ;
+	dbpedia-owl:wikiPageID	3555763 ;
+	dbpedia-owl:wikiPageRevisionID	540454823 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:James_Bannatyne	dbpprop:birthDate	"1975-06-30+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Lower Hutt, New Zealand" ;
+	dbpprop:dateOfBirth	"1975-06-30+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Lower Hutt, New Zealand" ;
+	dbpprop:shortDescription	"New Zealand association footballer" ;
+	dbpedia-owl:birthDate	"1975-06-30+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ,
+		dbpedia:Lower_Hutt ;
+	dbpedia-owl:birthYear	"1975+02:00"^^xsd:gYear ;
+	dbpprop:goals	0 ,
+		1 ;
+	dbpprop:bg	"white" ;
+	dbpprop:caps	4 ,
+		30 ,
+		24 ;
+	dbpprop:years	2002 ,
+		2000 ,
+		2001 ,
+		2006 ,
+		2005 ,
+		1996 ,
+		1988 ;
+	dbpedia-owl:careerStation	dbpedia:James_Bannatyne__1 ,
+		dbpedia:James_Bannatyne__2 ,
+		dbpedia:James_Bannatyne__3 ,
+		dbpedia:James_Bannatyne__5 ,
+		dbpedia:James_Bannatyne__4 ;
+	dbpprop:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbpedia-owl:height	1.9499999999999999556 .
+@prefix ns32:	<http://dbpedia.org/datatype/> .
+@prefix ns33:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:James_Bannatyne	ns33:height	"195.0"^^ns32:centimetre ;
+	dbpprop:currentclub	"Retired" ;
+	dbpprop:fullname	"James Bannatyne" ;
+	dbpprop:clubs	dbpedia:Miramar_Rangers ,
+		<http://dbpedia.org/resource/Yeading_F.C.> ,
+		dbpedia:Football_Kingz_FC ,
+		dbpedia:Petone ,
+		dbpedia:Team_Wellington ,
+		dbpedia:Canterbury_United_FC ;
+	dbpedia-owl:team	dbpedia:Miramar_Rangers ,
+		<http://dbpedia.org/resource/Yeading_F.C.> ,
+		dbpedia:Football_Kingz_FC ,
+		dbpedia:Petone ,
+		dbpedia:Team_Wellington ,
+		dbpedia:Canterbury_United_FC ,
+		dbpedia:New_Zealand_national_football_team .
+@prefix ns34:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:James_Bannatyne	dbpprop:wordnet_type	ns34:synset-soccer_player-noun-1 ;
+	dbpprop:title	"New Zealand Squads" ;
+	dbpprop:clubUpdate	"2009-12-23+02:00"^^xsd:date ;
+	dbpprop:nationalteamUpdate	"2009-12-23+02:00"^^xsd:date ;
+	dbpprop:fg	"black" ;
+	dbpprop:nationalcaps	3 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_football_team ;
+	dbpprop:nationalyears	2001 .
+dbpedia:Petone_FC	dbpprop:name	dbpedia:James_Bannatyne .

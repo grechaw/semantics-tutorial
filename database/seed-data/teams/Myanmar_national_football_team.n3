@@ -1,0 +1,616 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Ratomir_Dujkovi%C4%87>	dbpedia-owl:managerClub	dbpedia:Myanmar_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Ratomir_Dujkovi%C4%87>	dbpprop:managerclubs	dbpedia:Myanmar_national_football_team .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns4:	<http://fr.dbpedia.org/resource/> .
+ns4:Équipe_de_Birmanie_de_football	owl:sameAs	dbpedia:Myanmar_national_football_team .
+@prefix ns5:	<http://de.dbpedia.org/resource/> .
+ns5:Myanmarische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Myanmar_national_football_team .
+@prefix ns6:	<http://wikidata.dbpedia.org/resource/> .
+ns6:Q271753	owl:sameAs	dbpedia:Myanmar_national_football_team .
+@prefix ns7:	<http://cs.dbpedia.org/resource/> .
+ns7:Myanmarská_fotbalová_reprezentace	owl:sameAs	dbpedia:Myanmar_national_football_team .
+@prefix ns8:	<http://es.dbpedia.org/resource/> .
+ns8:Selección_de_fútbol_de_Birmania	owl:sameAs	dbpedia:Myanmar_national_football_team .
+@prefix ns9:	<http://id.dbpedia.org/resource/> .
+ns9:Tim_nasional_sepak_bola_Myanmar	owl:sameAs	dbpedia:Myanmar_national_football_team .
+@prefix ns10:	<http://it.dbpedia.org/resource/> .
+ns10:Nazionale_di_calcio_della_Birmania	owl:sameAs	dbpedia:Myanmar_national_football_team .
+@prefix ns11:	<http://ja.dbpedia.org/resource/> .
+ns11:サッカーミャンマー代表	owl:sameAs	dbpedia:Myanmar_national_football_team .
+@prefix ns12:	<http://ko.dbpedia.org/resource/> .
+ns12:미얀마_축구_국가대표팀	owl:sameAs	dbpedia:Myanmar_national_football_team .
+@prefix ns13:	<http://nl.dbpedia.org/resource/> .
+ns13:Myanmarees_voetbalelftal	owl:sameAs	dbpedia:Myanmar_national_football_team .
+@prefix ns14:	<http://pl.dbpedia.org/resource/> .
+ns14:Reprezentacja_Mjanmy_w_piłce_nożnej	owl:sameAs	dbpedia:Myanmar_national_football_team .
+@prefix ns15:	<http://pt.dbpedia.org/resource/> .
+ns15:Seleção_Birmanesa_de_Futebol	owl:sameAs	dbpedia:Myanmar_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns17:	<http://en.wikipedia.org/wiki/> .
+ns17:Myanmar_national_football_team	foaf:primaryTopic	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/Alex_Weir_(footballer)>	dbpedia-owl:managerClub	dbpedia:Myanmar_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Myanmar_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Myanmar_national_football_team	rdf:type	dul:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Myanmar_national_football_team	rdf:type	yago:YagoLegalActorGeo ,
+		yago:YagoLegalActor ,
+		dbpedia-owl:Agent ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:AsianNationalAssociationFootballTeams ,
+		yago:NationalSportsTeamsOfBurma ,
+		yago:FootballTeam108080025 .
+@prefix ns21:	<http://schema.org/> .
+dbpedia:Myanmar_national_football_team	rdf:type	ns21:Organization ,
+		owl:Thing ,
+		dbpedia-owl:Organisation ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		foaf:Person ,
+		dul:SocialPerson ,
+		ns21:SportsTeam .
+@prefix ns22:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns22:Echipa_națională_de_fotbal_a_Myanmarului .
+@prefix ns23:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns23:Myanmar_Millî_Futbol_Takımı ,
+		ns11:サッカーミャンマー代表 ,
+		ns9:Tim_nasional_sepak_bola_Myanmar .
+@prefix ns24:	<http://he.dbpedia.org/resource/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns24:נבחרת_מיאנמר_בכדורגל .
+@prefix ns25:	<http://yago-knowledge.org/resource/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns25:Myanmar_national_football_team .
+@prefix ns26:	<http://et.dbpedia.org/resource/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns26:Birma_jalgpallikoondis ,
+		ns8:Selección_de_fútbol_de_Birmania .
+@prefix ns27:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns27:منتخب_بورما_لكرة_القدم .
+@prefix ns28:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns28:Сборная_Мьянмы_по_футболу .
+@prefix ns29:	<http://wikidata.org/entity/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns29:Q271753 ,
+		ns5:Myanmarische_Fußballnationalmannschaft ,
+		ns14:Reprezentacja_Mjanmy_w_piłce_nożnej .
+@prefix ns30:	<http://my.dbpedia.org/resource/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns30:မြန်မာ_အမျိုးသား_ဘောလုံးအသင်း ,
+		dbpedia:Myanmar_national_football_team .
+@prefix ns31:	<http://th.dbpedia.org/resource/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns31:ฟุตบอลทีมชาติพม่า .
+@prefix ns32:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns32:म्यानमार_फुटबॉल_संघ .
+@prefix ns33:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns33:Myanmarin_jalkapallomaajoukkue .
+@prefix ns34:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns34:緬甸國家足球隊 ,
+		ns4:Équipe_de_Birmanie_de_football ,
+		ns7:Myanmarská_fotbalová_reprezentace .
+@prefix ns35:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns35:Mianmaro_vyrų_futbolo_rinktinė ,
+		<http://uk.dbpedia.org/resource/\u0417\u0431\u0456\u0440\u043D\u0430_\u041C\u0027\u044F\u043D\u043C\u0438_\u0437_\u0444\u0443\u0442\u0431\u043E\u043B\u0443> ,
+		ns12:미얀마_축구_국가대표팀 ,
+		ns15:Seleção_Birmanesa_de_Futebol .
+@prefix ns36:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns36:Mianmari_labdarúgó-válogatott ,
+		<http://rdf.freebase.com/ns/m.04q41k> .
+@prefix ns37:	<http://ms.dbpedia.org/resource/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns37:Pasukan_bola_sepak_kebangsaan_Myanmar .
+@prefix ns38:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns38:Myanmar_national_football_team .
+@prefix ns39:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns39:Myanmar_national_football_team .
+@prefix ns40:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns40:تیم_ملی_فوتبال_میانمار ,
+		ns10:Nazionale_di_calcio_della_Birmania ,
+		ns13:Myanmarees_voetbalelftal ,
+		ns6:Q271753 .
+@prefix ns41:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns41:Đội_tuyển_bóng_đá_quốc_gia_Myanma .
+@prefix ns42:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Myanmar_national_football_team	owl:sameAs	ns42:Burmas_herrlandslag_i_fotboll .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Myanmar_national_football_team	rdfs:label	"\u7DEC\u7538\u570B\u5BB6\u8DB3\u7403\u968A"@zh ,
+		"Myanmarees voetbalelftal"@nl ,
+		"Myanmar national football team" ,
+		"Myanmarische Fu\u00DFballnationalmannschaft"@de ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u041C\u044C\u044F\u043D\u043C\u044B \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"\u00C9quipe de Birmanie de football"@fr ,
+		"\u30B5\u30C3\u30AB\u30FC\u30DF\u30E3\u30F3\u30DE\u30FC\u4EE3\u8868"@ja ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0645\u064A\u0627\u0646\u0645\u0627\u0631 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"Sele\u00E7\u00E3o Birmanesa de Futebol"@pt ,
+		"Reprezentacja Mjanmy w pi\u0142ce no\u017Cnej"@pl ,
+		"Selecci\u00F3n de f\u00FAtbol de Birmania"@es ,
+		"Nazionale di calcio della Birmania"@it .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Myanmar_national_football_team	dcterms:subject	category:Burma_national_football_team ,
+		category:National_sports_teams_of_Burma ,
+		category:Asian_national_association_football_teams ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Thuwunna_Stadium.JPG> ;
+	foaf:name	"Myanmar National Football Team" ,
+		"Myanmar" ;
+	foaf:nick	"The White Angels" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Myanmar_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Myanmar_national_football_team?oldid=606173742> ;
+	rdfs:comment	"Reprezentacja Mjanmy w pi\u0142ce no\u017Cnej powsta\u0142a w 1947. Birma\u0144ski Zwi\u0105zek Pi\u0142karski w 1954 zosta\u0142 cz\u0142onkiem AFC, a w 1957 FIFA. W 1968 zaj\u0119\u0142a drugie miejsce w Pucharze Azji. W 2007 gra\u0142a w eliminacjach Mistrzostw \u015Awiata, przegrywaj\u0105c 0:7 i 0:4 z Chinami. Obecnie w rankingu FIFA zajmuje 167 miejsce."@pl ,
+		"\u7DEC\u7538\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u4EE3\u8868\u7DEC\u7538\u7684\u570B\u5BB6\u8DB3\u7403\u968A\u3002\u7403\u968A\u7531\u7DEC\u7538\u8DB3\u5354\u6240\u7BA1\u7406\u3002\u7403\u968A\u66FE\u596A\u5F971968\u5E74\u7684\u4E9E\u6D32\u76C3\u4E9E\u8ECD\uFF0C\u4F46\u6B64\u5F8C\u7121\u4EE5\u70BA\u7E7C\u30022007\u5E74\uFF0C\u9996\u6B21\u53C3\u52A0\u4E16\u754C\u76C3\u7684\u5916\u570D\u8CFD\uFF0C\u5169\u56DE\u5408\u4EE50-7\u548C0-4\u88AB\u4E2D\u570B\u64CA\u6557\uFF0C\u56E0\u800C\u63D0\u65E9\u51FA\u5C40\u3002"@zh ,
+		"A Sele\u00E7\u00E3o Birmanesa de Futebol representa Myanmar (Birm\u00E2nia) nas competi\u00E7\u00F5es de futebol da FIFA. A sele\u00E7\u00E3o foi fundada em 1947 e em 1948 ocorreu a afilia\u00E7\u00E3o \u00E0 institui\u00E7\u00E3o.At\u00E9 1989 era conhecida como sele\u00E7\u00E3o de futebol da Birm\u00E2nia, quando o ent\u00E3o governo militar decidiu alterar o nome do pa\u00EDs.J\u00E1 foi vice-campe\u00E3 da Copa da \u00C1sia e disputou uma Olimp\u00EDada."@pt ,
+		"The Myanmar national football team is the national team of Myanmar and is controlled by the Myanmar Football Federation. It was known as the Burma national football team until 1989, when Burma was renamed Myanmar. It finished second in the 1968 Asian Cup. They have participated in the Summer Olympics in 1972 and in the Asian Games." ,
+		"La Selecci\u00F3n de f\u00FAtbol de Birmania es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Federaci\u00F3n de F\u00FAtbol de Birmania, perteneciente a la AFC.Su mayor \u00E9xito ha sido ser segundo en la Copa Asi\u00E1tica 1968 con el nombre de Birmania, aunque no ha tenido mucho \u00E9xito desde entonces. Lleg\u00F3 a clasificarse para los Juegos Ol\u00EDmpicos de 1972 pero no pas\u00F3 de la primera fase."@es ,
+		"La Nazionale di calcio della Birmania (\u1019\u103C\u1014\u103A\u1019\u102C\u1037\u101C\u1000\u103A\u101B\u103D\u1031\u1038\u1005\u1004\u103A\u1018\u1031\u102C\u101C\u102F\u1036\u1038\u1021\u101E\u1004\u103A\u1038) \u00E8 la rappresentativa calcistica nazionale della Birmania, posta sotto l'egida della Federazione calcistica birmana (Myanmar Football Federation) ed affiliata all'AFC.Non ha mai riscosso grandi successi internazionali, se non un secondo posto nella Coppa d'Asia del 1968."@it ,
+		"\u30B5\u30C3\u30AB\u30FC\u30DF\u30E3\u30F3\u30DE\u30FC\u4EE3\u8868\uFF08\u30B5\u30C3\u30AB\u30FC\u30DF\u30E3\u30F3\u30DE\u30FC\u3060\u3044\u3072\u3087\u3046\uFF09\u306F\u3001\u30DF\u30E3\u30F3\u30DE\u30FC\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08MFF\uFF09\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30A2\u30B8\u30A2\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u304A\u3088\u3073ASEAN\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u6240\u5C5E\u3002\u73FE\u5728\u306E\u30DF\u30E3\u30F3\u30DE\u30FC\u304C\u300C\u30D3\u30EB\u30DE\u300D\u3068\u547C\u3070\u308C\u3066\u3044\u305F\uFF08\u30DF\u30E3\u30F3\u30DE\u30FC#\u56FD\u540D\u3092\u53C2\u7167\uFF09\u5F53\u6642\u306E1960\u5E74\u4EE3\u306B\u306F\u30A2\u30B8\u30A2\u4E0A\u4F4D\u306E\u6210\u7E3E\u3092\u591A\u304F\u6B8B\u3057\u3066\u304A\u308A\u3001AFC\u30A2\u30B8\u30A2\u30AB\u30C3\u30D71968\u3067\u6E96\u512A\u52DD\u3001\u30A2\u30B8\u30A2\u7AF6\u6280\u5927\u4F1A\u3067\u306F1966\u5E74\u30681970\u5E74\u306B\u512A\u52DD\u3092\u679C\u305F\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"Het Myanmarse voetbalelftal is een team van voetballers dat Myanmar vertegenwoordigt bij internationale wedstrijden en competities, zoals de kwalificatiewedstrijden voor het Wereldkampioenschap voetbal, de Asian Cup en het ASEAN voetbalkampioenschap.Tot 1989 heette het land Birma. De nationale ploeg werd tweede bij de strijd om de Asian Cup 1968, maar heeft sindsdien niet veel succes weten te behalen. Myanmar speelde pas in 2007 zijn eerste WK-kwalificatiewedstrijd."@nl ,
+		"Die myanmarische Fu\u00DFballnationalmannschaft ist die Auswahl der Myanmar Football Federation und damit die Mannschaft des s\u00FCdostasiatischen Staates Myanmar (bis 1989 Birma). Sie vertritt Myanmar bei kontinentalen sowie regionalen Turnieren.Heimst\u00E4tte der Nationalmannschaft sind das Thuwanna-Stadion und das Bogyoke-Aung-San-Stadion der ehemaligen Hauptstadt Rangoon. Es finden allerdings nur wenige L\u00E4nderspiele in Myanmar statt."@de ,
+		"L'\u00E9quipe de Birmanie de football est une s\u00E9lection des meilleurs joueurs birmans sous l'\u00E9gide de la F\u00E9d\u00E9ration de Birmanie de football."@fr ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u041C\u044C\u044F\u043D\u043C\u044B \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u041C\u044C\u044F\u043D\u043C\u044B, \u0443\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u043C\u0430\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0435\u0439 \u041C\u044C\u044F\u043D\u043C\u044B. \u0414\u043E 1989 \u0433\u043E\u0434\u0430, \u043A\u043E\u0433\u0434\u0430 \u0411\u0438\u0440\u043C\u0430 \u0431\u044B\u043B\u0430 \u043F\u0435\u0440\u0435\u0438\u043C\u0435\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 \u041C\u044C\u044F\u043D\u043C\u0443, \u043D\u043E\u0441\u0438\u043B\u0430 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0438\u0440\u043C\u044B \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u041D\u0430 \u041A\u0443\u0431\u043A\u0435 \u0410\u0437\u0438\u0438 1968 \u0433\u043E\u0434\u0430 \u0437\u0430\u043D\u044F\u043B\u0430 \u0432\u0442\u043E\u0440\u043E\u0435 \u043C\u0435\u0441\u0442\u043E, \u043D\u043E \u043F\u043E\u0442\u043E\u043C \u043D\u0435 \u043F\u043E\u043F\u0430\u0434\u0430\u043B\u0430 \u043D\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442."@ru ;
+	foaf:isPrimaryTopicOf	ns17:Myanmar_national_football_team ;
+	dbpprop:club	dbpedia:Southern_Myanmar_United_FC ,
+		<http://dbpedia.org/resource/Ayeyawady_United_F.C.> ,
+		<http://dbpedia.org/resource/Zeyashwemye_F.C.> ,
+		<http://dbpedia.org/resource/Kanbawza_F.C.> ,
+		<http://dbpedia.org/resource/Yadanarbon_F.C.> ,
+		<http://dbpedia.org/resource/Phuket_F.C.> ,
+		<http://dbpedia.org/resource/Okktha_United_F.C.> ,
+		dbpedia:Magway_FC ,
+		dbpedia:Manawmye_FC ,
+		<http://dbpedia.org/resource/Yangon_United_F.C.> ,
+		dbpedia:Perak_FA ;
+	dbpprop:captain	dbpedia:Thiha_Sithu .
+@prefix ns47:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Myanmar_national_football_team	dbpprop:hasPhotoCollection	ns47:Myanmar_national_football_team ;
+	dbpprop:name	dbpedia:Kyaw_Zayar_Win ,
+		dbpedia:Pai_Soe ,
+		dbpedia:Aung_Thike ,
+		dbpedia:Pyae_Phyo_Aung ,
+		dbpedia:Nanda_Kyaw ,
+		dbpedia:Kyaw_Ko_Ko ,
+		dbpedia:Htoo_Htoo_Aung ,
+		dbpedia:Maung_Maung_Soe ,
+		dbpedia:Soe_Min_Oo ,
+		dbpedia:Yaza_Win_Thein ,
+		dbpedia:Yan_Aung_Win ,
+		dbpedia:Min_Min_Thu ,
+		dbpedia:Aung_Hein_Kyaw ,
+		dbpedia:Thein_Than_Win ,
+		dbpedia:Myo_Min_Latt ,
+		dbpedia:Thet_Naing ,
+		dbpedia:Soe_Kyaw_Kyaw ,
+		dbpedia:Phyo_Ko_Ko_Thein ,
+		dbpedia:Nyi_Nyi_Min ,
+		dbpedia:Zaw_Zaw_Oo ,
+		dbpedia:Naing_Lin_Oo ,
+		dbpedia:Han_Win_Aung ,
+		dbpedia:Kyi_Lin ,
+		dbpedia:Yan_Paing ,
+		dbpedia:Sithu_Aung ,
+		dbpedia:Nanda_Lin_Kyaw_Chit ,
+		dbpedia:David_Htan ,
+		dbpedia:Yan_Aung_Kyaw ,
+		dbpedia:Mai_Aih_Naing ,
+		"Myanmar National Football Team" ,
+		<http://dbpedia.org/resource/Pyae_Phyo_Aung_(goalkeeper)> ,
+		dbpedia:Zaw_Min_Tun ,
+		dbpedia:Kaung_Sithu ,
+		dbpedia:Tun_Lin_Soe ,
+		dbpedia:Ye_Zaw_Htet_Aung ,
+		dbpedia:Khin_Maung_Lwin ,
+		dbpedia:Myo_Zaw_Oo ,
+		dbpedia:Aung_Chan_Moe ,
+		dbpedia:Aung_Moe ,
+		"Myanmar" ,
+		dbpedia:Aung_Myint_Tun ,
+		dbpedia:Kyaw_Zin_Phyo ,
+		dbpedia:Khin_Maung_Tun ,
+		<http://dbpedia.org/resource/Moe_Win_(footballer)> ,
+		dbpedia:Thiha_Sithu ,
+		dbpedia:Soe_Myat_Thu ,
+		dbpedia:Aung_Zaw ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Thuwunna_Stadium.JPG?width=300> ;
+	dbpedia-owl:abstract	"La Nazionale di calcio della Birmania (\u1019\u103C\u1014\u103A\u1019\u102C\u1037\u101C\u1000\u103A\u101B\u103D\u1031\u1038\u1005\u1004\u103A\u1018\u1031\u102C\u101C\u102F\u1036\u1038\u1021\u101E\u1004\u103A\u1038) \u00E8 la rappresentativa calcistica nazionale della Birmania, posta sotto l'egida della Federazione calcistica birmana (Myanmar Football Federation) ed affiliata all'AFC.Non ha mai riscosso grandi successi internazionali, se non un secondo posto nella Coppa d'Asia del 1968. Al 1\u00BA giugno 2013 la squadra maschile occupa il 155\u00BA posto nel mondo ed il 27\u00B0 in Asia nel ranking FIFA, mentre quella femminile, al giugno 2009, rispettivamente il 44\u00B0 ed il 9\u00BA posto."@it ,
+		"\u30B5\u30C3\u30AB\u30FC\u30DF\u30E3\u30F3\u30DE\u30FC\u4EE3\u8868\uFF08\u30B5\u30C3\u30AB\u30FC\u30DF\u30E3\u30F3\u30DE\u30FC\u3060\u3044\u3072\u3087\u3046\uFF09\u306F\u3001\u30DF\u30E3\u30F3\u30DE\u30FC\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\uFF08MFF\uFF09\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30A2\u30B8\u30A2\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u304A\u3088\u3073ASEAN\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u6240\u5C5E\u3002\u73FE\u5728\u306E\u30DF\u30E3\u30F3\u30DE\u30FC\u304C\u300C\u30D3\u30EB\u30DE\u300D\u3068\u547C\u3070\u308C\u3066\u3044\u305F\uFF08\u30DF\u30E3\u30F3\u30DE\u30FC#\u56FD\u540D\u3092\u53C2\u7167\uFF09\u5F53\u6642\u306E1960\u5E74\u4EE3\u306B\u306F\u30A2\u30B8\u30A2\u4E0A\u4F4D\u306E\u6210\u7E3E\u3092\u591A\u304F\u6B8B\u3057\u3066\u304A\u308A\u3001AFC\u30A2\u30B8\u30A2\u30AB\u30C3\u30D71968\u3067\u6E96\u512A\u52DD\u3001\u30A2\u30B8\u30A2\u7AF6\u6280\u5927\u4F1A\u3067\u306F1966\u5E74\u30681970\u5E74\u306B\u512A\u52DD\u3092\u679C\u305F\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"La Selecci\u00F3n de f\u00FAtbol de Birmania es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Federaci\u00F3n de F\u00FAtbol de Birmania, perteneciente a la AFC.Su mayor \u00E9xito ha sido ser segundo en la Copa Asi\u00E1tica 1968 con el nombre de Birmania, aunque no ha tenido mucho \u00E9xito desde entonces. Lleg\u00F3 a clasificarse para los Juegos Ol\u00EDmpicos de 1972 pero no pas\u00F3 de la primera fase. Esa buena \u00E9poca ha quedado bastante atr\u00E1s.Su primera participaci\u00F3n en el torneo clasificatorio para la Copa Mundial de F\u00FAtbol, fue para el certamen de 2010. En dos partidos de la Clasificaci\u00F3n de AFC para la Copa Mundial de F\u00FAtbol de 2010, Myanmar cay\u00F3 con China 7:0 y 4:0.Su selecci\u00F3n juvenil conquist\u00F3 en dos ocasiones el campeonato juvenil asi\u00E1tico (1968 y 1970) y otras cinco en compartido con otra selecci\u00F3n (1961 con India, 1963 con Corea del Sur, 1964 y 1966 con Israel y en 1969 con Tailandia)."@es ,
+		"A Sele\u00E7\u00E3o Birmanesa de Futebol representa Myanmar (Birm\u00E2nia) nas competi\u00E7\u00F5es de futebol da FIFA. A sele\u00E7\u00E3o foi fundada em 1947 e em 1948 ocorreu a afilia\u00E7\u00E3o \u00E0 institui\u00E7\u00E3o.At\u00E9 1989 era conhecida como sele\u00E7\u00E3o de futebol da Birm\u00E2nia, quando o ent\u00E3o governo militar decidiu alterar o nome do pa\u00EDs.J\u00E1 foi vice-campe\u00E3 da Copa da \u00C1sia e disputou uma Olimp\u00EDada."@pt ,
+		"\u7DEC\u7538\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u4EE3\u8868\u7DEC\u7538\u7684\u570B\u5BB6\u8DB3\u7403\u968A\u3002\u7403\u968A\u7531\u7DEC\u7538\u8DB3\u5354\u6240\u7BA1\u7406\u3002\u7403\u968A\u66FE\u596A\u5F971968\u5E74\u7684\u4E9E\u6D32\u76C3\u4E9E\u8ECD\uFF0C\u4F46\u6B64\u5F8C\u7121\u4EE5\u70BA\u7E7C\u30022007\u5E74\uFF0C\u9996\u6B21\u53C3\u52A0\u4E16\u754C\u76C3\u7684\u5916\u570D\u8CFD\uFF0C\u5169\u56DE\u5408\u4EE50-7\u548C0-4\u88AB\u4E2D\u570B\u64CA\u6557\uFF0C\u56E0\u800C\u63D0\u65E9\u51FA\u5C40\u3002"@zh ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u041C\u044C\u044F\u043D\u043C\u044B \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u041C\u044C\u044F\u043D\u043C\u044B, \u0443\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u043C\u0430\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0435\u0439 \u041C\u044C\u044F\u043D\u043C\u044B. \u0414\u043E 1989 \u0433\u043E\u0434\u0430, \u043A\u043E\u0433\u0434\u0430 \u0411\u0438\u0440\u043C\u0430 \u0431\u044B\u043B\u0430 \u043F\u0435\u0440\u0435\u0438\u043C\u0435\u043D\u043E\u0432\u0430\u043D\u0430 \u0432 \u041C\u044C\u044F\u043D\u043C\u0443, \u043D\u043E\u0441\u0438\u043B\u0430 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435 \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0411\u0438\u0440\u043C\u044B \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u041D\u0430 \u041A\u0443\u0431\u043A\u0435 \u0410\u0437\u0438\u0438 1968 \u0433\u043E\u0434\u0430 \u0437\u0430\u043D\u044F\u043B\u0430 \u0432\u0442\u043E\u0440\u043E\u0435 \u043C\u0435\u0441\u0442\u043E, \u043D\u043E \u043F\u043E\u0442\u043E\u043C \u043D\u0435 \u043F\u043E\u043F\u0430\u0434\u0430\u043B\u0430 \u043D\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442."@ru ,
+		"Die myanmarische Fu\u00DFballnationalmannschaft ist die Auswahl der Myanmar Football Federation und damit die Mannschaft des s\u00FCdostasiatischen Staates Myanmar (bis 1989 Birma). Sie vertritt Myanmar bei kontinentalen sowie regionalen Turnieren.Heimst\u00E4tte der Nationalmannschaft sind das Thuwanna-Stadion und das Bogyoke-Aung-San-Stadion der ehemaligen Hauptstadt Rangoon. Es finden allerdings nur wenige L\u00E4nderspiele in Myanmar statt. Aufgrund der Isolation des Landes tr\u00E4gt die Mannschaft nur wenige Spiele aus, diese sind meist Pflichtspiele bei Regionalmeisterschaften."@de ,
+		"L'\u00E9quipe de Birmanie de football est une s\u00E9lection des meilleurs joueurs birmans sous l'\u00E9gide de la F\u00E9d\u00E9ration de Birmanie de football."@fr ,
+		"Reprezentacja Mjanmy w pi\u0142ce no\u017Cnej powsta\u0142a w 1947. Birma\u0144ski Zwi\u0105zek Pi\u0142karski w 1954 zosta\u0142 cz\u0142onkiem AFC, a w 1957 FIFA. W 1968 zaj\u0119\u0142a drugie miejsce w Pucharze Azji. W 2007 gra\u0142a w eliminacjach Mistrzostw \u015Awiata, przegrywaj\u0105c 0:7 i 0:4 z Chinami. Obecnie w rankingu FIFA zajmuje 167 miejsce."@pl ,
+		"The Myanmar national football team is the national team of Myanmar and is controlled by the Myanmar Football Federation. It was known as the Burma national football team until 1989, when Burma was renamed Myanmar. It finished second in the 1968 Asian Cup. They have participated in the Summer Olympics in 1972 and in the Asian Games. The Myanmar team was dominant in Southeast Asia in the 1960s and 1970s, having won the Asian Games twice; in 1966 and 1970, and the football event of the Southeast Asian Games on five successive occasions; in 1965, 1967, 1969, 1971 and 1973. Since then, Myanmar's highest achievement is the silver medal in 1993. Myanmar played its first World Cup qualifiers in 2007, losing 0\u20137 and 0\u20134 to China." ,
+		"Het Myanmarse voetbalelftal is een team van voetballers dat Myanmar vertegenwoordigt bij internationale wedstrijden en competities, zoals de kwalificatiewedstrijden voor het Wereldkampioenschap voetbal, de Asian Cup en het ASEAN voetbalkampioenschap.Tot 1989 heette het land Birma. De nationale ploeg werd tweede bij de strijd om de Asian Cup 1968, maar heeft sindsdien niet veel succes weten te behalen. Myanmar speelde pas in 2007 zijn eerste WK-kwalificatiewedstrijd."@nl ;
+	dbpedia-owl:wikiPageID	1285668 ;
+	dbpedia-owl:wikiPageRevisionID	606173742 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Myanmar_national_football_team	dbpprop:dateOfBirth	"1988-07-03+02:00"^^xsd:date ;
+	dbpedia-owl:birthDate	"1988-07-03+02:00"^^xsd:date ;
+	dbpprop:latest	"--08-15+02:00"^^xsd:gMonthDay ,
+		"--11-17+02:00"^^xsd:gMonthDay ,
+		"--02-06+02:00"^^xsd:gMonthDay ,
+		"--11-27+02:00"^^xsd:gMonthDay ,
+		"--09-11+02:00"^^xsd:gMonthDay ,
+		"--11-30+02:00"^^xsd:gMonthDay ;
+	dbpprop:clubnat	"THA" ,
+		"MYA" ,
+		"MAS" ;
+	dbpprop:goals	10 ,
+		9 ,
+		2 ,
+		0 ,
+		1 ,
+		6 ,
+		4 ,
+		5 ;
+	dbpprop:caps	58 ,
+		49 ,
+		36 ,
+		31 ,
+		16 ,
+		18 ,
+		19 ,
+		21 ,
+		8 ,
+		9 ,
+		10 ,
+		13 ,
+		14 ,
+		15 ,
+		0 ,
+		1 ,
+		2 ,
+		3 ,
+		5 ,
+		7 ;
+	dbpprop:age	"1993-06-15+02:00"^^xsd:date ,
+		"1990-03-05+02:00"^^xsd:date ,
+		"1987-03-22+02:00"^^xsd:date ,
+		"1990-05-15+02:00"^^xsd:date ,
+		"1996-09-03+02:00"^^xsd:date ,
+		"1988-12-27+02:00"^^xsd:date ,
+		"1988-03-30+02:00"^^xsd:date ,
+		"1992-09-04+02:00"^^xsd:date ,
+		"1987-09-19+02:00"^^xsd:date ,
+		"1992-09-09+02:00"^^xsd:date ,
+		"1992-10-21+02:00"^^xsd:date ,
+		"1988-03-08+02:00"^^xsd:date ,
+		"1991-05-02+02:00"^^xsd:date ,
+		"1991-07-08+02:00"^^xsd:date ,
+		"1996-10-16+02:00"^^xsd:date ,
+		"1988-04-05+02:00"^^xsd:date ,
+		"1990-05-03+02:00"^^xsd:date ,
+		"1994-02-01+02:00"^^xsd:date ,
+		"1991-07-19+02:00"^^xsd:date ,
+		"1993-01-24+02:00"^^xsd:date ,
+		"1991-04-01+02:00"^^xsd:date ,
+		"1992-12-20+02:00"^^xsd:date ,
+		"1994-10-01+02:00"^^xsd:date ,
+		"1986-12-17+02:00"^^xsd:date ,
+		"1991-02-16+02:00"^^xsd:date ,
+		"1983-11-27+02:00"^^xsd:date ,
+		"1989-07-31+02:00"^^xsd:date ,
+		"1988-04-09+02:00"^^xsd:date ,
+		"1990-10-18+02:00"^^xsd:date ,
+		"1995-02-20+02:00"^^xsd:date ,
+		"1988-07-03+02:00"^^xsd:date ,
+		"1993-01-22+02:00"^^xsd:date ,
+		"1989-08-04+02:00"^^xsd:date ,
+		"1988-06-09+02:00"^^xsd:date ,
+		"1985-09-18+02:00"^^xsd:date ,
+		"1991-06-27+02:00"^^xsd:date ,
+		"1989-03-27+02:00"^^xsd:date ,
+		"1992-05-20+02:00"^^xsd:date ,
+		"1990-05-13+02:00"^^xsd:date ,
+		"1991-11-25+02:00"^^xsd:date ;
+	dbpprop:coach	<http://dbpedia.org/resource/Radojko_Avramovi%C4%87> ;
+	dbpprop:patternSh	"_white_stripes" ;
+	dbpedia-owl:coach	<http://dbpedia.org/resource/Radojko_Avramovi%C4%87> ;
+	dbpprop:patternSo	"_adidasonwhite" ;
+	dbpprop:association	dbpedia:Myanmar_Football_Federation ;
+	dbpprop:body	0 ;
+	dbpprop:confederation	dbpedia:Asian_Football_Confederation ;
+	dbpprop:fifaRank	1741 ;
+	dbpprop:fifaTrigramme	"MYA" ;
+	dbpprop:leftarm	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:patternB	"_myanh" ,
+		"_myana" ;
+	dbpprop:rightarm	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:shorts	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:socks	"FFFFFF" ,
+		"FF0000" ;
+	dbpprop:no	12 ,
+		13 ,
+		14 ,
+		15 ,
+		8 ,
+		9 ,
+		4 ,
+		6 ,
+		7 ,
+		1 ,
+		3 ,
+		29 ,
+		25 ,
+		26 ,
+		27 ,
+		22 ,
+		23 ,
+		16 ,
+		18 ,
+		36 ,
+		37 ,
+		38 ,
+		34 ,
+		49 ;
+	dbpprop:pos	"GK" ,
+		"DF" ,
+		"FW" ,
+		"MF" ;
+	dbpprop:badge	"Myanmar Football Federation.png" ;
+	dbpprop:firstGame	2 ;
+	dbpprop:largestLoss	9 ;
+	dbpprop:largestWin	9 ;
+	dbpprop:regionalCupApps	1 ;
+	dbpprop:regionalCupBest	"Runners-up" ;
+	dbpprop:regionalCupFirst	1968 ;
+	dbpprop:regionalName	dbpedia:AFC_Asian_Cup ;
+	dbpprop:eloMax	31 ;
+	dbpprop:eloMaxDate	"ca. May 1972" ;
+	dbpprop:eloMin	186 ;
+	dbpprop:eloMinDate	"2013-03-04+02:00"^^xsd:date ;
+	dbpprop:eloRank	185 ;
+	dbpprop:fifaMax	97 ;
+	dbpprop:fifaMaxDate	"April 1996" ;
+	dbpprop:fifaMin	184 ;
+	dbpprop:fifaMinDate	"August, October 2012" ;
+	dbpprop:subConfederation	dbpedia:ASEAN_Football_Federation ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.bumibolasports.com> ,
+		<http://themff.org/> ;
+	dbpprop:homeStadium	"Zayyarthiri Stadium" ,
+		"Bogyoke Aung San Stadium" ,
+		dbpedia:Thuwunna_Stadium ;
+	dbpedia-owl:stadium	dbpedia:Zayarthiri_Stadium ,
+		dbpedia:Bogyoke_Aung_San_Stadium ,
+		dbpedia:Thuwunna_Stadium ;
+	dbpprop:nickname	"The White Angels" .
+dbpedia:Bert_Trautmann	dbpedia-owl:managerClub	dbpedia:Myanmar_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Myanmar_national_football_team .
+dbpedia:Ivo_Sajh	dbpedia-owl:managerClub	dbpedia:Myanmar_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Myanmar_national_football_team .
+dbpedia:Kyi_Lin	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Nanda_Lin_Kyaw_Chit	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+ns27:منتخب_بورما_لكرة_القدم	owl:sameAs	dbpedia:Myanmar_national_football_team .
+ns26:Birma_jalgpallikoondis	owl:sameAs	dbpedia:Myanmar_national_football_team .
+ns40:تیم_ملی_فوتبال_میانمار	owl:sameAs	dbpedia:Myanmar_national_football_team .
+ns33:Myanmarin_jalkapallomaajoukkue	owl:sameAs	dbpedia:Myanmar_national_football_team .
+ns24:נבחרת_מיאנמר_בכדורגל	owl:sameAs	dbpedia:Myanmar_national_football_team .
+ns39:Myanmar_national_football_team	owl:sameAs	dbpedia:Myanmar_national_football_team .
+ns36:Mianmari_labdarúgó-válogatott	owl:sameAs	dbpedia:Myanmar_national_football_team .
+ns35:Mianmaro_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Myanmar_national_football_team .
+ns32:म्यानमार_फुटबॉल_संघ	owl:sameAs	dbpedia:Myanmar_national_football_team .
+ns37:Pasukan_bola_sepak_kebangsaan_Myanmar	owl:sameAs	dbpedia:Myanmar_national_football_team .
+ns30:မြန်မာ_အမျိုးသား_ဘောလုံးအသင်း	owl:sameAs	dbpedia:Myanmar_national_football_team .
+ns22:Echipa_națională_de_fotbal_a_Myanmarului	owl:sameAs	dbpedia:Myanmar_national_football_team .
+ns28:Сборная_Мьянмы_по_футболу	owl:sameAs	dbpedia:Myanmar_national_football_team .
+ns38:Myanmar_national_football_team	owl:sameAs	dbpedia:Myanmar_national_football_team .
+ns42:Burmas_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Myanmar_national_football_team .
+ns31:ฟุตบอลทีมชาติพม่า	owl:sameAs	dbpedia:Myanmar_national_football_team .
+ns23:Myanmar_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Myanmar_national_football_team .
+<http://uk.dbpedia.org/resource/\u0417\u0431\u0456\u0440\u043D\u0430_\u041C\u0027\u044F\u043D\u043C\u0438_\u0437_\u0444\u0443\u0442\u0431\u043E\u043B\u0443>	owl:sameAs	dbpedia:Myanmar_national_football_team .
+ns41:Đội_tuyển_bóng_đá_quốc_gia_Myanma	owl:sameAs	dbpedia:Myanmar_national_football_team .
+ns34:緬甸國家足球隊	owl:sameAs	dbpedia:Myanmar_national_football_team .
+dbpedia:Myo_Zaw_Oo	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Aung_Aung_Oo	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Thet_Naing	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Suk_Bahadur	dbpprop:clubs	dbpedia:Myanmar_national_football_team ;
+	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Mai_Aih_Naing	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Yan_Aung_Win	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Kyaw_Zin_Phyo	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Win_Min_Htut	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Tun_Lin_Soe	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Aung_Zaw	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/1965_in_Japanese_football>	dbpprop:team	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/1962_in_Japanese_football>	dbpprop:team	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/2010_Thai_Port_F.C._season>	dbpprop:team	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/Milan_%C5%BDivadinovi%C4%87>	dbpprop:managerclubs	dbpedia:Myanmar_national_football_team .
+dbpedia:Min_Min_Thu	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Aung_Moe	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Aung_Myo_Thant	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Aye_San	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Yaza_Win_Thein	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Khin_Maung_Lwin	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/Moe_Win_(footballer)>	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Aung_Thike	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/Milorad_Mitrovi%C4%87_(footballer_born_1908)__6>	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/Radojko_Avramovi%C4%87__13>	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/Drago_Mami%C4%87>	dbpprop:managerclubs	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/Radojko_Avramovi%C4%87>	dbpedia-owl:managerClub	dbpedia:Myanmar_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Myanmar_national_football_team .
+dbpedia:Dave_Booth	dbpedia-owl:managerClub	dbpedia:Myanmar_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Myanmar_national_football_team .
+dbpedia:Thiha_Sithu	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Soe_Min_Oo	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Aung_Kyaw_Moe	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/1975_in_Japanese_football>	dbpprop:team	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/1970_in_Japanese_football>	dbpprop:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Ye_Zaw_Htet_Aung__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Zaw_Linn_Tun__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Aung_Moe__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Khin_Maung_Lwin__2	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Mai_Aih_Naing__2	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Ivo_Sajh__10	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Soe_Kyaw_Kyaw__3	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Nyarna_Lwin__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Tun_Lin_Soe__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Zaw_Min_Tun__2	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Pyae_Phyo_Aung__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Aung_Hein_Kyaw__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Naing_Lin_Oo__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Yaza_Win_Thein__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Myo_Min_Tun__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Pai_Soe__2	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Aung_Aung_Oo__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Kyi_Lin__2	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Aung_Kyaw_Moe__3	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Thet_Naing__2	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Win_Min_Htut__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/Ratomir_Dujkovi%C4%87__11>	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Phyo_Ko_Ko_Thein__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Kyaw_Khing_Win__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Nyi_Nyi_Min__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Khin_Maung_Tun__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Kyaw_Zin_Htet__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/Pyae_Phyo_Aung_(goalkeeper)__1>	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Yan_Paing__2	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Kyaw_Zin_Phyo__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Aung_Thike__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Han_Win_Aung__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Sithu_Aung__3	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Suk_Bahadur__3	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Yan_Aung_Win__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Kaung_Sithu__2	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Thein_Than_Win__2	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Aung_Myo_Thant__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Marko_Valok__3	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Min_Min_Thu__2	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/Moe_Win_(footballer)__1>	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Tin_Myint_Aung__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:David_Htan__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Yan_Aung_Kyaw__2	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Kyaw_Zayar_Win__4	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Zaw_Zaw_Oo__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Aung_Chan_Moe__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Myo_Zaw_Oo__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Soe_Myat_Min__2	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Aung_Myint_Tun__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Tun_Tun_Win__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Bert_Trautmann__7	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Aye_San__3	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Kyaw_Ko_Ko__2	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Sein_Hlaing__3	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Soe_Min_Oo__6	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Dave_Booth__6	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Myo_Min_Latt__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Sein_Hlaing__6	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Thiha_Sithu__2	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Aung_Zaw__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Nanda_Lin_Kyaw_Chit__1	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Burma_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Myanmar_national_football_team .
+dbpedia:Myanmar_national_football_team_results	dbpedia-owl:wikiPageRedirects	dbpedia:Myanmar_national_football_team .
+dbpedia:Kyaw_Ko_Ko	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Khin_Maung_Tun	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/1976_in_Japanese_football>	dbpprop:team	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/1955_in_Japanese_football>	dbpprop:team	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/1979_in_Japanese_football>	dbpprop:team	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/1994_in_Japanese_football>	dbpprop:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Marko_Valok	dbpedia-owl:managerClub	dbpedia:Myanmar_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/Milorad_Mitrovi%C4%87_(footballer_born_1908)>	dbpedia-owl:managerClub	dbpedia:Myanmar_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Myanmar_national_football_team .
+dbpedia:Marcos_Falopa	dbpprop:managerclubs	dbpedia:Myanmar_national_football_team .
+dbpedia:Park_Sung-wha	dbpprop:managerclubs	dbpedia:Myanmar_national_football_team .
+dbpedia:Sann_Win	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/Ivan_Kolev_(manager)>	dbpprop:managerclubs	dbpedia:Myanmar_national_football_team .
+dbpedia:Soe_Myat_Min	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Sein_Hlaing	dbpedia-owl:managerClub	dbpedia:Myanmar_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Myanmar_national_football_team ;
+	dbpprop:clubs	dbpedia:Myanmar_national_football_team ;
+	dbpedia-owl:team	dbpedia:Myanmar_national_football_team .
+dbpedia:Nyi_Nyi_Min	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Zaw_Zaw_Oo	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Naing_Lin_Oo	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Soe_Kyaw_Kyaw	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Phyo_Ko_Ko_Thein	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Tin_Myint_Aung	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Pyae_Phyo_Aung	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Aung_Chan_Moe	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Zaw_Linn_Tun	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Thein_Than_Win	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Soe_Myat_Thu	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Pai_Soe	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Myo_Min_Latt	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+<http://dbpedia.org/resource/Pyae_Phyo_Aung_(goalkeeper)>	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Kyaw_Zin_Htet	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Kyaw_Khing_Win	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Zaw_Min_Tun	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Yan_Aung_Kyaw	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Kyaw_Zayar_Win	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Myo_Hlaing_Win	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:David_Htan	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Myo_Min_Tun	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Ye_Zaw_Htet_Aung	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Han_Win_Aung	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Aung_Myint_Tun	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Min_Thu	dbpprop:nationalyears	dbpedia:Myanmar_national_football_team .
+dbpedia:Kaung_Sithu	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Tun_Tun_Win	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Aung_Hein_Kyaw	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Nyarna_Lwin	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Sithu_Aung	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .
+dbpedia:Yan_Paing	dbpedia-owl:team	dbpedia:Myanmar_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Myanmar_national_football_team .

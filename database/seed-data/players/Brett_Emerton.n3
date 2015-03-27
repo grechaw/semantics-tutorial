@@ -1,0 +1,369 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Brett_Emerton	owl:sameAs	dbpedia:Brett_Emerton .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Brett_Emerton	owl:sameAs	dbpedia:Brett_Emerton .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q294419	owl:sameAs	dbpedia:Brett_Emerton .
+@prefix ns5:	<http://el.dbpedia.org/resource/> .
+ns5:Μπρετ_Έμερτον	owl:sameAs	dbpedia:Brett_Emerton .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Brett_Emerton	owl:sameAs	dbpedia:Brett_Emerton .
+@prefix ns7:	<http://id.dbpedia.org/resource/> .
+ns7:Brett_Emerton	owl:sameAs	dbpedia:Brett_Emerton .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Brett_Emerton	owl:sameAs	dbpedia:Brett_Emerton .
+@prefix ns9:	<http://ja.dbpedia.org/resource/> .
+ns9:ブレット・エマートン	owl:sameAs	dbpedia:Brett_Emerton .
+@prefix ns10:	<http://ko.dbpedia.org/resource/> .
+ns10:브렛_에머턴	owl:sameAs	dbpedia:Brett_Emerton .
+@prefix ns11:	<http://nl.dbpedia.org/resource/> .
+ns11:Brett_Emerton	owl:sameAs	dbpedia:Brett_Emerton .
+@prefix ns12:	<http://pl.dbpedia.org/resource/> .
+ns12:Brett_Emerton	owl:sameAs	dbpedia:Brett_Emerton .
+@prefix ns13:	<http://pt.dbpedia.org/resource/> .
+ns13:Brett_Emerton	owl:sameAs	dbpedia:Brett_Emerton .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns15:	<http://en.wikipedia.org/wiki/> .
+ns15:Brett_Emerton	foaf:primaryTopic	dbpedia:Brett_Emerton .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Football_for_Hope	dbpprop:name	dbpedia:Brett_Emerton .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Football_for_Hope	dbpedia-owl:currentMember	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2001_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/Football_at_the_2000_Summer_Olympics_%E2%80%93_Men\u0027s_team_squads>	dbpprop:name	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2012%E2%80%9313_Sydney_FC_season>	dbpprop:name	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2013%E2%80%9314_Sydney_FC_season>	dbpprop:name	dbpedia:Brett_Emerton .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Brett_Emerton	rdf:type	yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		dbpedia-owl:SoccerPlayer ,
+		dbpedia-owl:Agent ,
+		yago:SoccerPlayer110618342 ,
+		dbpedia-owl:Person ,
+		yago:Whole100003553 ,
+		<http://dbpedia.org/class/yago/2006FIFAWorldCupPlayers> ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		yago:AustralianExpatriateSoccerPlayers ,
+		<http://dbpedia.org/class/yago/2001FIFAConfederationsCupPlayers> .
+@prefix ns20:	<http://schema.org/> .
+dbpedia:Brett_Emerton	rdf:type	ns20:Person ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		<http://dbpedia.org/class/yago/2011AFCAsianCupPlayers> ,
+		yago:Absentee109757653 ,
+		dbpedia-owl:Athlete ,
+		yago:AustraliaInternationalSoccerPlayers ,
+		<http://dbpedia.org/class/yago/NationalSoccerLeague(Australia)Players> ,
+		yago:FeyenoordPlayers ,
+		yago:PremierLeaguePlayers ,
+		ns4:Q215627 ,
+		owl:Thing ,
+		yago:FootballersAtThe2000SummerOlympics ,
+		yago:Athlete109820263 ,
+		<http://dbpedia.org/class/yago/2007AFCAsianCupPlayers> ,
+		yago:FootballPlayer110101634 ,
+		yago:Player110439851 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Brett_Emerton	rdf:type	dul:NaturalPerson ,
+		yago:AustralianExpatriatesInTheNetherlands ,
+		ns4:Q5 ,
+		yago:A-LeaguePlayers ,
+		yago:AustralianSoccerPlayers ,
+		<http://dbpedia.org/class/yago/BlackburnRoversF.C.Players> ,
+		yago:SydneyFCPlayers ,
+		dul:Agent ,
+		foaf:Person ,
+		yago:SydneyOlympicFCPlayers ,
+		yago:OlympicSoccerPlayersOfAustralia ,
+		yago:EredivisiePlayers ,
+		yago:ExpatriateFootballersInTheNetherlands ,
+		<http://dbpedia.org/class/yago/2005FIFAConfederationsCupPlayers> ,
+		yago:Contestant109613191 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:ExpatriateFootballersInEngland .
+@prefix ns22:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Brett_Emerton	owl:sameAs	ns22:Brett_Emerton ,
+		ns8:Brett_Emerton ,
+		ns6:Brett_Emerton .
+@prefix ns23:	<http://th.dbpedia.org/resource/> .
+dbpedia:Brett_Emerton	owl:sameAs	ns23:เบร็ตต์_เอเมอร์ตัน .
+@prefix ns24:	<http://be_x_old.dbpedia.org/resource/> .
+dbpedia:Brett_Emerton	owl:sameAs	ns24:Брэт_Эмэртан ,
+		ns10:브렛_에머턴 ,
+		ns1:Brett_Emerton .
+@prefix ns25:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Brett_Emerton	owl:sameAs	ns25:Brett_Emerton ,
+		ns11:Brett_Emerton .
+@prefix ns26:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Brett_Emerton	owl:sameAs	ns26:بريت_إيمرتون ,
+		ns12:Brett_Emerton ,
+		<http://ru.dbpedia.org/resource/\u042D\u043C\u0435\u0440\u0442\u043E\u043D,_\u0411\u0440\u0435\u0442\u0442> ,
+		ns9:ブレット・エマートン .
+@prefix ns27:	<http://wikidata.org/entity/> .
+dbpedia:Brett_Emerton	owl:sameAs	ns27:Q294419 .
+@prefix ns28:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Brett_Emerton	owl:sameAs	ns28:Brett_Emerton ,
+		<http://rdf.freebase.com/ns/m.02qh9h> ,
+		ns3:Brett_Emerton .
+@prefix ns29:	<http://ca.dbpedia.org/resource/> .
+dbpedia:Brett_Emerton	owl:sameAs	ns29:Brett_Emerton .
+@prefix ns30:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Brett_Emerton	owl:sameAs	ns30:Brett_Emerton ,
+		ns4:Q294419 .
+@prefix ns31:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Brett_Emerton	owl:sameAs	ns31:Brett_Emerton .
+@prefix ns32:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Brett_Emerton	owl:sameAs	ns32:布雷特·埃默顿 ,
+		ns13:Brett_Emerton ,
+		dbpedia:Brett_Emerton ,
+		ns5:Μπρετ_Έμερτον .
+@prefix ns33:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Brett_Emerton	owl:sameAs	ns33:Brett_Emerton ,
+		ns7:Brett_Emerton .
+@prefix ns34:	<http://ga.dbpedia.org/resource/> .
+dbpedia:Brett_Emerton	owl:sameAs	ns34:Brett_Emerton .
+@prefix ns35:	<http://yago-knowledge.org/resource/> .
+dbpedia:Brett_Emerton	owl:sameAs	ns35:Brett_Emerton .
+@prefix ns36:	<http://la.dbpedia.org/resource/> .
+dbpedia:Brett_Emerton	owl:sameAs	ns36:Brett_Emerton .
+@prefix ns37:	<http://da.dbpedia.org/resource/> .
+dbpedia:Brett_Emerton	owl:sameAs	ns37:Brett_Emerton .
+@prefix ns38:	<http://no.dbpedia.org/resource/> .
+dbpedia:Brett_Emerton	owl:sameAs	ns38:Brett_Emerton .
+@prefix ns39:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Brett_Emerton	owl:sameAs	ns39:Бретт_Емертон .
+@prefix ns40:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Brett_Emerton	owl:sameAs	ns40:ब्रेट_एमर्टन .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Brett_Emerton	rdfs:label	"Brett Emerton"@de ,
+		"\u042D\u043C\u0435\u0440\u0442\u043E\u043D, \u0411\u0440\u0435\u0442\u0442"@ru ,
+		"Brett Emerton" ,
+		"Brett Emerton"@fr ,
+		"Brett Emerton"@it ,
+		"Brett Emerton"@pl ,
+		"Brett Emerton"@es ,
+		"Brett Emerton"@pt ,
+		"Brett Emerton"@nl ,
+		"\u0628\u0631\u064A\u062A \u0625\u064A\u0645\u0631\u062A\u0648\u0646"@ar ,
+		"\u30D6\u30EC\u30C3\u30C8\u30FB\u30A8\u30DE\u30FC\u30C8\u30F3"@ja ,
+		"\u5E03\u96F7\u7279\u00B7\u57C3\u9ED8\u987F"@zh .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+dbpedia:Brett_Emerton	dcterms:subject	<http://dbpedia.org/resource/Category:2007_AFC_Asian_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2001_FIFA_Confederations_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2005_FIFA_Confederations_Cup_players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Brett_Emerton	dcterms:subject	category:New_South_Wales_Institute_of_Sport_alumni ,
+		<http://dbpedia.org/resource/Category:2006_FIFA_World_Cup_players> ,
+		category:Footballers_at_the_2000_Summer_Olympics ,
+		category:Australian_expatriates_in_the_Netherlands ,
+		category:Olympic_soccer_players_of_Australia ,
+		category:Association_football_midfielders ,
+		category:Macarthur_Rams_FC_players ,
+		category:Feyenoord_players ,
+		<http://dbpedia.org/resource/Category:National_Soccer_League_(Australia)_players> ,
+		category:Australia_international_soccer_players ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2011_AFC_Asian_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Expatriate_footballers_in_England ,
+		<http://dbpedia.org/resource/Category:Blackburn_Rovers_F.C._players> ,
+		category:Australian_Institute_of_Sport_soccer_players ,
+		category:Sydney_FC_players ,
+		category:A-League_players ,
+		category:Australian_soccer_players ,
+		category:Sydney_Olympic_FC_players ,
+		category:Australian_expatriate_soccer_players ,
+		category:Sportspeople_from_Sydney ,
+		category:Expatriate_footballers_in_the_Netherlands ,
+		category:Australian_expatriate_sportspeople_in_the_United_Kingdom ,
+		category:Eredivisie_players ,
+		category:Premier_League_players ,
+		<http://dbpedia.org/resource/Category:1979_births> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Brett_Emerton_-_Sydney_FC.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Brett_Emerton	dc:description	"Australian football (soccer) player" ,
+		"Australian football (soccer) player" ;
+	foaf:givenName	"Brett" ;
+	foaf:name	"Emerton, Brett" ,
+		"Brett Michael Emerton" ,
+		"Brett Emerton" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Brett_Emerton	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Brett_Emerton?oldid=605142747> ;
+	rdfs:comment	"Brett Michael Emerton (born 22 February 1979) is a retired Australian professional footballer who played for Sydney FC, Blackburn Rovers and the Australian national team. He is the third most capped player for Australia. Able to play as a wide midfielder or defender, Emerton was known for his \"speed, ball control and creativity.\"" ,
+		"\u0628\u0631\u064A\u062A \u0645\u0627\u064A\u0643\u0644 \u0625\u064A\u0645\u0631\u062A\u0648\u0646\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 22 \u0641\u0628\u0631\u0627\u064A\u0631 1979 \u0641\u064A \u0633\u064A\u062F\u0646\u064A \u0641\u064A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0623\u0633\u062A\u0631\u0627\u0644\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0633\u064A\u062F\u0646\u064A \u0623\u0648\u0644\u0645\u0628\u064A\u0643 \u0641\u064A \u0639\u0627\u0645 1996\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2000\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 93 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 14 \u0647\u062F\u0641\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2000 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0641\u064A\u064A\u0646\u0648\u0631\u062F \u0631\u0648\u062A\u0631\u062F\u0627\u0645 \u0627\u0644\u0647\u0648\u0644\u0646\u062F\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2003\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 62 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 11 \u0647\u062F\u0641\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2003 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0628\u0644\u0627\u0643\u0628\u064A\u0631\u0646 \u0631\u0648\u0641\u0631\u0632 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A.\u0648 \u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645."@ar ,
+		"Brett Emerton (Bankstown, Nova Gales do Sul, 22 de Fevereiro de 1979) \u00E9 um jogador de futebol da Austr\u00E1lia. Atualmente joga no Sydney Football Club, clube da Austr\u00E1lia. Emerton \u00E9 meio-campista, e faz parte da sele\u00E7\u00E3o australiana."@pt ,
+		"Brett Emerton (ur. 22 lutego 1979 w Bankstown) \u2013 pi\u0142karz australijski, kt\u00F3ry gra\u0142 na pozycji pomocnika lub obro\u0144cy."@pl ,
+		"Brett Emerton (Bankstown, 22 februari 1979) is een Australisch voormalig betaald voetballer die bij voorkeur op het middenveld speelt. In februari 1998 debuteerde hij in het Australisch voetbalelftal, waarvoor hij meer dan negentig interlands speelde.Emerton begon zijn carri\u00E8re als profvoetballer in Sydney bij Sydney Olympic (toen nog onder de naam UTS Olympic). Hij speelde daar 94 wedstrijden, waarin hij 16 keer scoorde."@nl ,
+		"Brett Emerton (22 f\u00E9vrier 1979 \u00E0 Bankstown - ), est un footballeur australien \u00E9voluant au poste de milieu. International australien."@fr ,
+		"Brett Emerton (* 22. Februar 1979 in Bankstown im S\u00FCdwesten von Sydney) ist ein ehemaliger australischer Fu\u00DFballspieler. Zuletzt spielte er beim australischen Erstligisten FC SydneyDer Mittelfeldspieler begann seine Profikarriere im Jahre 1997 bei Sydney Olympic in Australien und wechselte dann zu Beginn der Saison 2000/01 in die Niederlande zu Feyenoord Rotterdam und spielte in der Ehrendivision. Hier entwickelte er sich und wechselte schlie\u00DFlich zu Blackburn, wo er 2003 unterschrieb."@de ,
+		"\u0411\u0440\u0435\u0442\u0442 \u041C\u0430\u0439\u043A\u043B \u042D\u0301\u043C\u0435\u0440\u0442\u043E\u043D (\u0430\u043D\u0433\u043B. Brett Michael Emerton; \u0440\u043E\u0434. 22 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1979, \u0411\u044D\u043D\u043A\u0441\u0442\u0430\u0443\u043D, \u041D\u043E\u0432\u044B\u0439 \u042E\u0436\u043D\u044B\u0439 \u0423\u044D\u043B\u044C\u0441) \u2014 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A. \u0418\u0433\u0440\u043E\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0421\u0438\u0434\u043D\u0435\u0439\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438."@ru ,
+		"Brett Michael Emerton (Sydney, 22 febbraio 1979) \u00E8 un ex calciatore australiano, di ruolo centrocampista."@it ,
+		"\u30D6\u30EC\u30C3\u30C8\u30FB\u30DE\u30A4\u30B1\u30EB\u30FB\u30A8\u30DE\u30FC\u30C8\u30F3\uFF08Brett Michael Emerton, 1979\u5E742\u670822\u65E5 - \uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u51FA\u8EAB\u306E\u5143\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u73FE\u5F79\u6642\u4EE3\u306E\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\u30022002\u5E74\u306B\u30AA\u30BB\u30A2\u30CB\u30A2\u5E74\u9593\u6700\u512A\u79C0\u9078\u624B\u8CDE\u306B\u9078\u3070\u308C\u305F\u3002"@ja ,
+		"Brett Michael Emerton (n. el 22 de febrero de 1979 en Bankstown, S\u00EDdney, Australia) es un futbolista internacional australiano. Juega de centrocampista, generalmente en la banda derecha aunque tambi\u00E9n puede desenvolverse como mediocentro o como defensa, tanto central como lateral derecho. Su equipo actual es el Sydney FC de la A-League."@es ,
+		"\u6BD4\u723E\u6CBB\u00B7\u7C73\u9AD8\u00B7\u827E\u99AC\u9813\uFF08\u82F1\u8BED\uFF1ABrett Michael Emerton\uFF0C1979\u5E742\u670822\u65E5\uFF0D\uFF09\uFF0C\u6FB3\u6D32\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u53F8\u8077\u53F3\u4E2D\u5834\uFF0C\u53EF\u4EE5\u5BA2\u4E32\u6F14\u53F3\u5F8C\u885B\u3001\u653B\u64CA\u4E2D\u5834\u53CA\u5DE6\u7FFC\uFF0C\u591A\u624D\u591A\u85DD\u3001\u901F\u5EA6\u8207\u6280\u8853\u517C\u5099\u3002\u73FE\u6642\u6548\u529B\u65BC\u6FB3\u5927\u5229\u4E9E\u8077\u696D\u8DB3\u7403\u806F\u8CFD\u6089\u5C3C\u8DB3\u7403\u6703\uFF0C\u4EA6\u662F\u6FB3\u6D32\u570B\u5BB6\u968A\u7684\u4E3B\u529B\u7403\u54E1\u3002\u827E\u99AC\u9813\u662F2002\u5E74\u6FB3\u5927\u5229\u4E9E\u8DB3\u7403\u5148\u751F\u5F97\u4E3B\uFF0C\u7576\u5E74\u4ED6\u64CA\u5012\u4E86\u57FA\u7DAD\u723E\u548C\u7DAD\u5EA6\u5361\u7B49\u77E5\u540D\u7403\u54E1\u596A\u734E\u3002"@zh ;
+	foaf:surname	"Emerton" ;
+	foaf:isPrimaryTopicOf	ns15:Brett_Emerton .
+@prefix ns46:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Brett_Emerton	dbpprop:hasPhotoCollection	ns46:Brett_Emerton ;
+	dbpprop:name	"Brett Emerton" ,
+		"Emerton, Brett" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Brett_Emerton_-_Sydney_FC.jpg?width=300> ;
+	dbpedia-owl:abstract	"Brett Emerton (Bankstown, 22 februari 1979) is een Australisch voormalig betaald voetballer die bij voorkeur op het middenveld speelt. In februari 1998 debuteerde hij in het Australisch voetbalelftal, waarvoor hij meer dan negentig interlands speelde.Emerton begon zijn carri\u00E8re als profvoetballer in Sydney bij Sydney Olympic (toen nog onder de naam UTS Olympic). Hij speelde daar 94 wedstrijden, waarin hij 16 keer scoorde. Emerton vertrok in 2000 naar Rotterdam, waar hij drie seizoenen als rechter verdediger en verdedigende middenvelder voor Feyenoord uitkwam. Hij speelde van 2000 tot 2003 92 wedstrijden en scoorde daarin 11 keer. In 2002 won hij met Feyenoord de UEFA-cup. In 2003 vertrok Emerton naar Blackburn Rovers in Engeland. In de 247 wedstrijden die hij daar speelde scoorde hij 13 keer. In augustus 2011 vertrok hij naar Sydney FC, waar hij een contract tot 2014 tekende. In januari 2014 be\u00EBindigde hij zijn loopbaan.Emerton nam in 2000 met Australi\u00EB deel aan de Olympische Spelen van Sydney. Hij was aanvoerder van de Olyroos. Emerton is een vaste waarde in de Australische selectie en hij nam deel aan het WK 2006 en het WK 2010. Hij behoorde tot de selectie voor de Asian Cup 2007, het eerste Aziatische toernooi waaraan Australi\u00EB deelnam na de overstap van de OFC naar de AFC in januari 2007.In 2002 werd Emerton verkozen tot Oceanisch Voetballer van het Jaar."@nl ,
+		"Brett Emerton (* 22. Februar 1979 in Bankstown im S\u00FCdwesten von Sydney) ist ein ehemaliger australischer Fu\u00DFballspieler. Zuletzt spielte er beim australischen Erstligisten FC SydneyDer Mittelfeldspieler begann seine Profikarriere im Jahre 1997 bei Sydney Olympic in Australien und wechselte dann zu Beginn der Saison 2000/01 in die Niederlande zu Feyenoord Rotterdam und spielte in der Ehrendivision. Hier entwickelte er sich und wechselte schlie\u00DFlich zu Blackburn, wo er 2003 unterschrieb. Bei den Blackburn Rovers absolvierte er \u00FCber 200 Spiele bis er im August 2011 in seine Heimat, in die A-League, zum FC Sydney wechselte und einen Dreijahresvertrag unterschrieb..Emerton spielte 95-mal f\u00FCr die australische Fu\u00DFballnationalmannschaft und nahm unter anderem am Konf\u00F6derationen-Pokal 2005, der Fu\u00DFball-Weltmeisterschaft 2006 sowie an der Fu\u00DFball-Weltmeisterschaft 2010 teil. Im Jahre 2002 wurde er zu Ozeaniens Fu\u00DFballer des Jahres gew\u00E4hlt. Nach Torh\u00FCter Mark Schwarzer (102 L\u00E4nderspiele) und Lucas Neill (96 L\u00E4nderspiele) ist er der Spieler mit den drittmeisten L\u00E4nderspielen f\u00FCr Australien. Sein letztes L\u00E4nderspiel bestritt er am 9. Dezember 2012 beim 8:0 gegen Taiwan. Am 16. Januar 2014 gab er das Ende seiner Karriere aus Verletzungsgr\u00FCnden bekannt."@de ,
+		"\u6BD4\u723E\u6CBB\u00B7\u7C73\u9AD8\u00B7\u827E\u99AC\u9813\uFF08\u82F1\u8BED\uFF1ABrett Michael Emerton\uFF0C1979\u5E742\u670822\u65E5\uFF0D\uFF09\uFF0C\u6FB3\u6D32\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u53F8\u8077\u53F3\u4E2D\u5834\uFF0C\u53EF\u4EE5\u5BA2\u4E32\u6F14\u53F3\u5F8C\u885B\u3001\u653B\u64CA\u4E2D\u5834\u53CA\u5DE6\u7FFC\uFF0C\u591A\u624D\u591A\u85DD\u3001\u901F\u5EA6\u8207\u6280\u8853\u517C\u5099\u3002\u73FE\u6642\u6548\u529B\u65BC\u6FB3\u5927\u5229\u4E9E\u8077\u696D\u8DB3\u7403\u806F\u8CFD\u6089\u5C3C\u8DB3\u7403\u6703\uFF0C\u4EA6\u662F\u6FB3\u6D32\u570B\u5BB6\u968A\u7684\u4E3B\u529B\u7403\u54E1\u3002\u827E\u99AC\u9813\u662F2002\u5E74\u6FB3\u5927\u5229\u4E9E\u8DB3\u7403\u5148\u751F\u5F97\u4E3B\uFF0C\u7576\u5E74\u4ED6\u64CA\u5012\u4E86\u57FA\u7DAD\u723E\u548C\u7DAD\u5EA6\u5361\u7B49\u77E5\u540D\u7403\u54E1\u596A\u734E\u3002"@zh ,
+		"Brett Michael Emerton (born 22 February 1979) is a retired Australian professional footballer who played for Sydney FC, Blackburn Rovers and the Australian national team. He is the third most capped player for Australia. Able to play as a wide midfielder or defender, Emerton was known for his \"speed, ball control and creativity.\"" ,
+		"Brett Emerton (22 f\u00E9vrier 1979 \u00E0 Bankstown - ), est un footballeur australien \u00E9voluant au poste de milieu. International australien."@fr ,
+		"\u0628\u0631\u064A\u062A \u0645\u0627\u064A\u0643\u0644 \u0625\u064A\u0645\u0631\u062A\u0648\u0646\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 22 \u0641\u0628\u0631\u0627\u064A\u0631 1979 \u0641\u064A \u0633\u064A\u062F\u0646\u064A \u0641\u064A \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0623\u0633\u062A\u0631\u0627\u0644\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0633\u064A\u062F\u0646\u064A \u0623\u0648\u0644\u0645\u0628\u064A\u0643 \u0641\u064A \u0639\u0627\u0645 1996\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2000\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 93 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 14 \u0647\u062F\u0641\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2000 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0641\u064A\u064A\u0646\u0648\u0631\u062F \u0631\u0648\u062A\u0631\u062F\u0627\u0645 \u0627\u0644\u0647\u0648\u0644\u0646\u062F\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2003\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 62 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 11 \u0647\u062F\u0641\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2003 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0628\u0644\u0627\u0643\u0628\u064A\u0631\u0646 \u0631\u0648\u0641\u0631\u0632 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A.\u0648 \u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0623\u0633\u062A\u0631\u0627\u0644\u064A\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645."@ar ,
+		"Brett Emerton (ur. 22 lutego 1979 w Bankstown) \u2013 pi\u0142karz australijski, kt\u00F3ry gra\u0142 na pozycji pomocnika lub obro\u0144cy."@pl ,
+		"Brett Emerton (Bankstown, Nova Gales do Sul, 22 de Fevereiro de 1979) \u00E9 um jogador de futebol da Austr\u00E1lia. Atualmente joga no Sydney Football Club, clube da Austr\u00E1lia. Emerton \u00E9 meio-campista, e faz parte da sele\u00E7\u00E3o australiana."@pt ,
+		"Brett Michael Emerton (n. el 22 de febrero de 1979 en Bankstown, S\u00EDdney, Australia) es un futbolista internacional australiano. Juega de centrocampista, generalmente en la banda derecha aunque tambi\u00E9n puede desenvolverse como mediocentro o como defensa, tanto central como lateral derecho. Su equipo actual es el Sydney FC de la A-League."@es ,
+		"Brett Michael Emerton (Sydney, 22 febbraio 1979) \u00E8 un ex calciatore australiano, di ruolo centrocampista."@it ,
+		"\u30D6\u30EC\u30C3\u30C8\u30FB\u30DE\u30A4\u30B1\u30EB\u30FB\u30A8\u30DE\u30FC\u30C8\u30F3\uFF08Brett Michael Emerton, 1979\u5E742\u670822\u65E5 - \uFF09\u306F\u3001\u30AA\u30FC\u30B9\u30C8\u30E9\u30EA\u30A2\u51FA\u8EAB\u306E\u5143\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u73FE\u5F79\u6642\u4EE3\u306E\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\u30022002\u5E74\u306B\u30AA\u30BB\u30A2\u30CB\u30A2\u5E74\u9593\u6700\u512A\u79C0\u9078\u624B\u8CDE\u306B\u9078\u3070\u308C\u305F\u3002"@ja ,
+		"\u0411\u0440\u0435\u0442\u0442 \u041C\u0430\u0439\u043A\u043B \u042D\u0301\u043C\u0435\u0440\u0442\u043E\u043D (\u0430\u043D\u0433\u043B. Brett Michael Emerton; \u0440\u043E\u0434. 22 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1979, \u0411\u044D\u043D\u043A\u0441\u0442\u0430\u0443\u043D, \u041D\u043E\u0432\u044B\u0439 \u042E\u0436\u043D\u044B\u0439 \u0423\u044D\u043B\u044C\u0441) \u2014 \u0430\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A. \u0418\u0433\u0440\u043E\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0421\u0438\u0434\u043D\u0435\u0439\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0410\u0432\u0441\u0442\u0440\u0430\u043B\u0438\u0438."@ru ;
+	dbpedia-owl:wikiPageID	564225 ;
+	dbpedia-owl:wikiPageRevisionID	605142747 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Brett_Emerton	dbpprop:birthDate	"1979-02-22+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Bankstown, Sydney, Australia" ;
+	dbpprop:dateOfBirth	"1979-02-22+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Bankstown, New South Wales, Australia" ;
+	dbpprop:shortDescription	"Australian football  player" ;
+	dbpedia-owl:birthDate	"1979-02-22+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Australia_national_association_football_team ,
+		dbpedia:Bankstown ;
+	dbpedia-owl:birthYear	"1979+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	275 ;
+	dbpprop:goals	16 ,
+		13 ,
+		11 ,
+		7 ;
+	dbpprop:bg	"gold" ,
+		"#FCD116" ;
+	dbpprop:id	23499 ;
+	dbpprop:caps	247 ,
+		92 ,
+		94 ,
+		57 ;
+	dbpprop:years	1996 ,
+		2011 ,
+		2003 ,
+		2000 ;
+	dbpprop:youthclubs	"Macarthur Rams" ,
+		dbpedia:New_South_Wales_Institute_of_Sport ,
+		"Gunners Soccer Club" ,
+		dbpedia:Marconi_Stallions_FC ,
+		dbpedia:Australian_Institute_of_Sport ;
+	dbpedia-owl:careerStation	dbpedia:Brett_Emerton__1 ,
+		dbpedia:Brett_Emerton__2 ,
+		dbpedia:Brett_Emerton__3 ,
+		dbpedia:Brett_Emerton__4 ,
+		dbpedia:Brett_Emerton__6 ,
+		dbpedia:Brett_Emerton__5 ,
+		dbpedia:Brett_Emerton__7 ;
+	dbpprop:position	dbpedia:Association_football_positions ,
+		<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ,
+		dbpedia:Association_football_positions ;
+	dbpedia-owl:height	1.8500000000000000888 .
+@prefix ns48:	<http://dbpedia.org/datatype/> .
+@prefix ns49:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Brett_Emerton	ns49:height	"185.0"^^ns48:centimetre ;
+	dbpprop:fullname	"Brett Michael Emerton" ;
+	dbpprop:clubs	dbpedia:Sydney_Olympic_FC ,
+		dbpedia:Feyenoord ,
+		<http://dbpedia.org/resource/Blackburn_Rovers_F.C.> ,
+		dbpedia:Sydney_FC ;
+	dbpedia-owl:team	dbpedia:Australia_national_under-20_association_football_team ,
+		dbpedia:Sydney_Olympic_FC ,
+		dbpedia:Australia_national_under-17_association_football_team ,
+		dbpedia:Australia_national_under-23_association_football_team ,
+		dbpedia:Feyenoord ,
+		<http://dbpedia.org/resource/Blackburn_Rovers_F.C.> ,
+		dbpedia:Sydney_FC ,
+		dbpedia:Marconi_Stallions_FC .
+@prefix ns50:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Brett_Emerton	dbpprop:wordnet_type	ns50:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Australia Squads" ,
+		"Awards" ;
+	dbpprop:pcupdate	"2014-01-15+02:00"^^xsd:date ;
+	dbpprop:youthyears	1996 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.rovers.premiumtv.co.uk/page/ProfilesDetail/0,,10303~22155,00.html> ,
+		<http://www.fifa.com/worldfootball/statisticsandrecords/players/player=178306/> ,
+		<http://www.footballaustralia.com.au/socceroos/players/Brett-Emerton/392> ,
+		<http://www.ozfootball.net/ark/Players/E/EM.html> ;
+	dbpprop:fg	"#008751" ,
+		"navy" ;
+	dbpprop:nationalcaps	95 ,
+		11 ,
+		25 ,
+		16 ;
+	dbpprop:nationalgoals	20 ,
+		1 ,
+		7 ;
+	dbpprop:nationalteam	dbpedia:Australia_national_under-17_association_football_team ,
+		dbpedia:Australia_national_under-23_association_football_team ,
+		dbpedia:Australia_national_association_football_team ,
+		dbpedia:Australia_national_under-20_association_football_team ;
+	dbpprop:nationalyears	1996 ,
+		1997 ,
+		1998 ,
+		1994 ;
+	dbpprop:ntupdate	"2013-03-07+02:00"^^xsd:date ;
+	dbpprop:totalcaps	490 ;
+	dbpprop:totalgoals	47 .
+<http://dbpedia.org/resource/2006%E2%80%9307_Blackburn_Rovers_F.C._season>	dbpprop:name	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2009%E2%80%9310_Blackburn_Rovers_F.C._season>	dbpprop:name	dbpedia:Brett_Emerton .
+ns26:بريت_إيمرتون	owl:sameAs	dbpedia:Brett_Emerton .
+ns24:Брэт_Эмэртан	owl:sameAs	dbpedia:Brett_Emerton .
+ns29:Brett_Emerton	owl:sameAs	dbpedia:Brett_Emerton .
+ns37:Brett_Emerton	owl:sameAs	dbpedia:Brett_Emerton .
+ns30:Brett_Emerton	owl:sameAs	dbpedia:Brett_Emerton .
+ns34:Brett_Emerton	owl:sameAs	dbpedia:Brett_Emerton .
+ns31:Brett_Emerton	owl:sameAs	dbpedia:Brett_Emerton .
+ns22:Brett_Emerton	owl:sameAs	dbpedia:Brett_Emerton .
+ns36:Brett_Emerton	owl:sameAs	dbpedia:Brett_Emerton .
+ns25:Brett_Emerton	owl:sameAs	dbpedia:Brett_Emerton .
+ns40:ब्रेट_एमर्टन	owl:sameAs	dbpedia:Brett_Emerton .
+ns38:Brett_Emerton	owl:sameAs	dbpedia:Brett_Emerton .
+<http://ru.dbpedia.org/resource/\u042D\u043C\u0435\u0440\u0442\u043E\u043D,_\u0411\u0440\u0435\u0442\u0442>	owl:sameAs	dbpedia:Brett_Emerton .
+ns28:Brett_Emerton	owl:sameAs	dbpedia:Brett_Emerton .
+ns33:Brett_Emerton	owl:sameAs	dbpedia:Brett_Emerton .
+ns23:เบร็ตต์_เอเมอร์ตัน	owl:sameAs	dbpedia:Brett_Emerton .
+ns39:Бретт_Емертон	owl:sameAs	dbpedia:Brett_Emerton .
+ns32:布雷特·埃默顿	owl:sameAs	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2013_EAFF_East_Asian_Cup_Preliminary_Competition_Round_2_squads>	dbpprop:name	dbpedia:Brett_Emerton .
+dbpedia:Kasey_Wehrman	dbpprop:after	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2010%E2%80%9311_Blackburn_Rovers_F.C._season>	dbpprop:name	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/1999_FIFA_World_Youth_Championship_squads>	dbpprop:name	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2011%E2%80%9312_Sydney_FC_season>	dbpprop:name	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2005_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2007_AFC_Asian_Cup_squads>	dbpprop:name	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2007%E2%80%9308_Blackburn_Rovers_F.C._season>	dbpprop:name	dbpedia:Brett_Emerton .
+dbpedia:Mile_Sterjovski	dbpprop:before	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2006_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2004%E2%80%9305_Blackburn_Rovers_F.C._season>	dbpprop:name	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2003%E2%80%9304_Blackburn_Rovers_F.C._season>	dbpprop:name	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2012%E2%80%9313_Sydney_FC_season__Brett_Emerton__1>	dbpedia-owl:currentMember	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2001%E2%80%9302_Feyenoord_season__Brett_Emerton__1>	dbpedia-owl:currentMember	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2009%E2%80%9310_Blackburn_Rovers_F.C._season__Brett_Emerton__1>	dbpedia-owl:currentMember	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2003%E2%80%9304_Blackburn_Rovers_F.C._season__Brett_Emerton__1>	dbpedia-owl:currentMember	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2004%E2%80%9305_Blackburn_Rovers_F.C._season__Brett_Emerton__1>	dbpedia-owl:currentMember	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2005%E2%80%9306_Blackburn_Rovers_F.C._season__Brett_Emerton__1>	dbpedia-owl:currentMember	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2006%E2%80%9307_Blackburn_Rovers_F.C._season__Brett_Emerton__1>	dbpedia-owl:currentMember	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2007%E2%80%9308_Blackburn_Rovers_F.C._season__Brett_Emerton__1>	dbpedia-owl:currentMember	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2011%E2%80%9312_Sydney_FC_season__Brett_Emerton__1>	dbpedia-owl:currentMember	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2013%E2%80%9314_Sydney_FC_season__Brett_Emerton__1>	dbpedia-owl:currentMember	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2010%E2%80%9311_Blackburn_Rovers_F.C._season__Brett_Emerton__1>	dbpedia-owl:currentMember	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2001%E2%80%9302_Feyenoord_season>	dbpprop:name	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2011_AFC_Asian_Cup_squads>	dbpprop:name	dbpedia:Brett_Emerton .
+<http://dbpedia.org/resource/2005%E2%80%9306_Blackburn_Rovers_F.C._season>	dbpprop:name	dbpedia:Brett_Emerton .

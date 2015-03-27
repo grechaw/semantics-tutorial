@@ -1,0 +1,364 @@
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2003%E2%80%9304_First_League_of_Serbia_and_Montenegro>	dbpprop:leagueTopscorer	<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	rdf:type	<http://dbpedia.org/class/yago/2006FIFAWorldCupPlayers> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	rdf:type	dbpedia-owl:Athlete .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	rdf:type	yago:FKMornarPlayers ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		yago:SerbianSuperLigaPlayers ,
+		yago:LivingThing100004258 ,
+		yago:Contestant109613191 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	rdf:type	dul:NaturalPerson ,
+		yago:PhysicalEntity100001930 ,
+		yago:YagoLegalActor ,
+		yago:RacingDeSantanderFootballers ,
+		yago:LivingPeople ,
+		yago:SerbianFootballers ,
+		yago:SerbianExpatriateFootballers .
+@prefix ns5:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	rdf:type	ns5:Q5 ,
+		yago:SerbiaInternationalFootballers ,
+		dul:Agent ,
+		yago:Object100002684 ,
+		yago:Whole100003553 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	rdf:type	owl:Thing ,
+		ns5:Q215627 ,
+		yago:ExpatriateFootballersInEngland ,
+		yago:Athlete109820263 ,
+		yago:PremierLeaguePlayers ,
+		yago:FootballPlayer110101634 ,
+		yago:RedStarBelgradeFootballers ,
+		yago:Player110439851 ,
+		yago:ValenciaCFFootballers .
+@prefix ns7:	<http://schema.org/> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	rdf:type	ns7:Person ,
+		yago:TheFootballLeaguePlayers .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	rdf:type	foaf:Person ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Person ,
+		yago:AssociationFootballForwards ,
+		yago:BasketballPlayer109842047 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:LaLigaFootballers ,
+		yago:Forward110105733 ,
+		yago:ExpatriateFootballersInSpain .
+@prefix ns9:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	rdf:type	ns9:SoccerPlayer ,
+		yago:FKSpartakSuboticaPlayers ,
+		<http://dbpedia.org/class/yago/BirminghamCityF.C.Players> ,
+		yago:FKKolubaraPlayers ,
+		dbpedia-owl:SoccerPlayer ,
+		<http://dbpedia.org/class/yago/PeopleFromBa%C4%8DkaTopola> ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.086nc1> ,
+		<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87> .
+@prefix ns10:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	owl:sameAs	ns10:Nikola_Žigić .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	rdfs:label	"Nikola \u017Digi\u0107"@de ,
+		"Nikola \u017Digi\u0107"@it ,
+		"Nikola \u017Digi\u0107" ,
+		"\u0646\u064A\u0643\u0648\u0644\u0627 \u0632\u064A\u063A\u064A\u062A\u0634"@ar ,
+		"\u5C3C\u53E4\u62C9\u00B7\u65E5\u5409\u5947"@zh ,
+		"\u0416\u0438\u0433\u0438\u0447, \u041D\u0438\u043A\u043E\u043B\u0430"@ru ,
+		"Nikola \u017Digi\u0107"@es ,
+		"Nikola \u017Digi\u0107"@fr ,
+		"\u30CB\u30B3\u30E9\u30FB\u30B8\u30AE\u30C3\u30C1"@ja ,
+		"Nikola \u017Digi\u0107"@pt ,
+		"Nikola \u017Digi\u0107"@pl ,
+		"Nikola \u017Digi\u0107"@nl .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	dcterms:subject	category:Premier_League_players ,
+		category:The_Football_League_players ,
+		<http://dbpedia.org/resource/Category:1980_births> ,
+		category:Valencia_CF_footballers ,
+		category:La_Liga_footballers ,
+		category:Expatriate_footballers_in_Spain ,
+		category:Association_football_forwards ,
+		<http://dbpedia.org/resource/Category:People_from_Ba%C4%8Dka_Topola> ,
+		category:Serbian_expatriates_in_Spain ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2006_FIFA_World_Cup_players> ,
+		category:Serbian_expatriate_footballers ,
+		category:Serbian_footballers ,
+		category:Serbian_SuperLiga_players ,
+		category:Serbia_international_footballers ,
+		category:Racing_de_Santander_footballers ,
+		category:Expatriate_footballers_in_England ,
+		category:Serbia_and_Montenegro_international_footballers ,
+		category:Red_Star_Belgrade_footballers ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:FK_Mornar_players ,
+		<http://dbpedia.org/resource/Category:Birmingham_City_F.C._players> ,
+		category:FK_Spartak_Subotica_players ,
+		<http://dbpedia.org/resource/Category:FK_Ba%C4%8Dka_Topola_players> ,
+		category:Serbian_expatriates_in_England ,
+		category:FK_Kolubara_players ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Zigic_vs_Antwerp.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	dc:description	"Professional footballer" ,
+		"Professional footballer" ;
+	foaf:givenName	"Nikola" ;
+	foaf:name	"Zigic, Nikola" ,
+		"Nikola Zigic" ,
+		"Nikola \u017Digi\u0107" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Nikola_\u017Digi\u0107?oldid=606476889> ;
+	rdfs:comment	"Nikola \u017Digi\u0107, n\u00E9 le 25 septembre 1980 \u00E0 Ba\u010Dka Topola (Serbie), est un footballeur serbe.Il joue au poste d'attaquant avec l'\u00E9quipe de Serbie et le club du Birmingham City Football Club (2,02 m pour 90 kg)."@fr ,
+		"Nikola \u017Digi\u0107 (serbisch-kyrillisch \u041D\u0438\u043A\u043E\u043B\u0430 \u0416\u0438\u0433\u0438\u045B, * 25. September 1980 in Ba\u010Dka Topola, SFR Jugoslawien) ist ein serbischer Fu\u00DFballspieler und Rekordtorsch\u00FCtze der serbischen Nationalmannschaft.\u017Digi\u0107 ist ein serbischer Fu\u00DFballst\u00FCrmer. W\u00E4hrend der WM 2006 in Deutschland st\u00FCrmte er neben Mateja Ke\u017Eman f\u00FCr die serbische Nationalmannschaft."@de ,
+		"Nikola \u017Digi\u0107 (Ba\u010Dka Topola, Voivodina, Yugoslavia, 25 de septiembre de 1980) es un futbolista serbio. Juega de delantero y su actual es el Birmingham City FC de la Football League Championship de Inglaterra."@es ,
+		"Nikola \u017Digi\u0107 (Serbian Cyrillic: \u041D\u0438\u043A\u043E\u043B\u0430 \u0416\u0438\u0433\u0438\u045B [n\u01D0kola \u0292\u01D0\u02D0\u0261it\u0361\u0255]; born 25 September 1980) is a Serbian footballer who plays for English club Birmingham City as a centre forward. At 2.02 m (6 ft 7 1\u20442 in), \u017Digi\u0107 is among the tallest professional players in the world.\u017Digi\u0107 started his career in the youth academy at AIK Ba\u010Dka Topola in 1991, and joined the senior side in 1998. During his time at the club, he scored 68 goals in 76 league matches, before leaving in 2001 for Mornar." ,
+		"Nikola \u017Digi\u0107 (Servisch: \u041D\u0438\u043A\u043E\u043B\u0430 \u0416\u0438\u0433\u0438\u045B) (Ba\u010Dka Topola (Vojvodina), 25 september 1980) is een Servisch betaald voetballer die bij voorkeur als centrumspits speelt. Hij tekende in mei 2010 een vierjarig contract bij Birmingham City FC. In maart 2004 speelde hij zijn eerste van meer dan 45 interlands, eerst voor het Servisch & Montenegrijns- en later voor het Servisch voetbalelftal."@nl ,
+		"Nikola \u017Digi\u0107 (em s\u00E9rvio, \u041D\u0438\u043A\u043E\u043B\u0430 \u0416\u0438\u0433\u0438\u045B; Ba\u010Dka Topola, 25 de setembro de 1980) \u00E9 um futebolista s\u00E9rvio que atua como atacante. Atualmente, joga pelo Birmingham City."@pt ,
+		"Nikola \u017Digi\u0107 (in serbo \u041D\u0438\u043A\u043E\u043B\u0430 \u0416\u0438\u0433\u0438\u045B; Ba\u010Dka Topola, 25 settembre 1980) \u00E8 un calciatore serbo, attaccante del Birmingham City."@it ,
+		"Nikola \u017Digi\u0107 (serb. \u041D\u0438\u043A\u043E\u043B\u0430 \u0416\u0438\u0433\u0438\u045B ur. 25 wrze\u015Bnia 1980 w Ba\u010Dkiej Topoli) \u2013 serbski pi\u0142karz graj\u0105cy na pozycji napastnika. Mierzy 203 cm wzrostu i jest jednym z najwy\u017Cszych obok Kristoffa Van Houta, Jana Kollera, Petera Croucha i \u017Deljko Kalaca pi\u0142karzy \u015Bwiata. Obecnie wyst\u0119puje w Birmingham City."@pl ,
+		"\u0646\u064A\u0643\u0648\u0644\u0627 \u0632\u064A\u063A\u064A\u062A\u0634\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 25 \u0633\u0628\u062A\u0645\u0628\u0631 1980 \u0641\u064A \u0628\u0627\u0643\u0627 \u062A\u0648\u0628\u0648\u0644\u0627 \u0641\u064A \u0635\u0631\u0628\u064A\u0627\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0635\u0631\u0628\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0628\u0627\u0643\u0627 \u062A\u0648\u0628\u0648\u0644\u0627 \u0641\u064A \u0639\u0627\u0645 1998\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2002\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 76 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 68 \u0647\u062F\u0641\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2002 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0645\u0648\u0631\u0646\u0627\u0631 \u0628\u0627\u0631\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 23 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 15 \u0647\u062F\u0641\u060C \u0648\u0641\u064A \u0645\u0648\u0633\u0645 2002/2003 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0627\u0644\u0646\u062C\u0645 \u0627\u0644\u0623\u062D\u0645\u0631\u060C \u0648\u0644\u0639\u0628 \u0641\u064A \u0646\u0641\u0633 \u0627\u0644\u0645\u0648\u0633\u0645 \u0645\u0639 \u0646\u0627\u062F\u064A \u0643\u0648\u0644\u0648\u0628\u0627\u0631\u0627 \u0644\u0627\u0632\u0627\u0631\u064A\u0641\u0627\u062A\u0634\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 8 \u0645\u0628\u0627\u0631\u064A\u0627\u062A \u0648\u0633\u062C\u0644 3 \u0623\u0647\u062F\u0627\u0641\u060C \u0648\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0633\u0627\u0646\u062A \u0625\u062A\u064A\u0627\u0646 \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0648\u0646\u0627\u062F\u064A \u0633\u0628\u0627\u0631\u062A\u0627\u0643 \u0633\u0648\u0628\u0648\u062A\u064A\u0643\u0627\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 11 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 14 \u0647\u062F\u0641\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2003 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0627\u0644\u0646\u062C\u0645 \u0627\u0644\u0623\u062D\u0645\u0631\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2006\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 77 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 55 \u0647\u062F\u0641\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2006 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0631\u064A\u0633\u0646\u063A \u0633\u0627\u0646\u062A\u0627\u0646\u062F\u0631 \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A.\u0648 \u0642\u062F \u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0635\u0631\u0628\u064A\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2004."@ar ,
+		"\u041D\u0438\u043A\u043E\u0301\u043B\u0430 \u0416\u0438\u0301\u0433\u0438\u0447 (\u0441\u0435\u0440\u0431. \u041D\u0438\u043A\u043E\u043B\u0430 \u0416\u0438\u0433\u0438\u045B / Nikola \u017Digi\u0107; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 25 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1980, \u0411\u0430\u0447\u043A\u0430-\u0422\u043E\u043F\u043E\u043B\u0430, \u0421\u0424\u0420\u042E) \u2014 \u0441\u0435\u0440\u0431\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0438\u0439 \u0437\u0430 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u043A\u043B\u0443\u0431 \u00AB\u0411\u0438\u0440\u043C\u0438\u043D\u0433\u0435\u043C \u0421\u0438\u0442\u0438\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u0421\u0435\u0440\u0431\u0438\u0438."@ru ,
+		"\u30CB\u30B3\u30E9\u30FB\u30B8\u30AE\u30C3\u30C1\uFF08\u041D\u0438\u043A\u043E\u043B\u0430 \u0416\u0438\u0433\u0438\u045B, Nikola \u017Digi\u0107, 1980\u5E749\u670825\u65E5 - \uFF09\u306F\u3001\u30BB\u30EB\u30D3\u30A2\u30FB\u30D0\u30C1\u30E5\u30AB\u30FB\u30C8\u30DD\u30E9\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30BB\u30EB\u30D3\u30A2\u4EE3\u8868\u3067\u3042\u308B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9\u3002\u30D5\u30C3\u30C8\u30DC\u30FC\u30EB\u30EA\u30FC\u30B0\u30FB\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u30B7\u30C3\u30D7\u3001\u30D0\u30FC\u30DF\u30F3\u30AC\u30E0\u30FB\u30B7\u30C6\u30A3FC\u6240\u5C5E\u3002"@ja ,
+		"\u5C3C\u53E4\u62C9\u00B7\u65E5\u5409\u5947\uFF08\u585E\u723E\u7DAD\u4E9E\u8A9E\uFF1ANikola \u017Digi\u0107\uFF0C1980\u5E749\u670825\u65E5\uFF0D\uFF09\uFF0C\u585E\u5C14\u7EF4\u4E9A\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u53F8\u804C\u524D\u950B\uFF0C\u6548\u529B\u65BC\u82F1\u51A0\u4F2F\u660E\u7FF0\u8DB3\u7403\u6703\u3002"@zh ;
+	foaf:surname	"Zigic" .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	dbpprop:m	2.0200000000000000178 ;
+	dbpprop:n	14 ,
+		15 ,
+		12 ,
+		13 ,
+		10 ,
+		11 ,
+		8 ,
+		9 ,
+		6 ,
+		7 ,
+		4 ,
+		5 ,
+		2 ,
+		3 ,
+		1 ,
+		20 ,
+		18 ,
+		19 ,
+		16 ,
+		17 .
+@prefix ns17:	<http://en.wikipedia.org/wiki/> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	foaf:isPrimaryTopicOf	ns17:Nikola_Žigić .
+@prefix ns18:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	dbpprop:hasPhotoCollection	ns18:Nikola_Žigić ;
+	dbpprop:caption	"With Birmingham City in 2012 pre-season" ;
+	dbpprop:name	"Nikola \u017Digi\u0107" ,
+		"Zigic, Nikola" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Zigic_vs_Antwerp.jpg?width=300> ;
+	dbpedia-owl:abstract	"Nikola \u017Digi\u0107 (em s\u00E9rvio, \u041D\u0438\u043A\u043E\u043B\u0430 \u0416\u0438\u0433\u0438\u045B; Ba\u010Dka Topola, 25 de setembro de 1980) \u00E9 um futebolista s\u00E9rvio que atua como atacante. Atualmente, joga pelo Birmingham City."@pt ,
+		"Nikola \u017Digi\u0107 (Servisch: \u041D\u0438\u043A\u043E\u043B\u0430 \u0416\u0438\u0433\u0438\u045B) (Ba\u010Dka Topola (Vojvodina), 25 september 1980) is een Servisch betaald voetballer die bij voorkeur als centrumspits speelt. Hij tekende in mei 2010 een vierjarig contract bij Birmingham City FC. In maart 2004 speelde hij zijn eerste van meer dan 45 interlands, eerst voor het Servisch & Montenegrijns- en later voor het Servisch voetbalelftal."@nl ,
+		"Nikola \u017Digi\u0107 (in serbo \u041D\u0438\u043A\u043E\u043B\u0430 \u0416\u0438\u0433\u0438\u045B; Ba\u010Dka Topola, 25 settembre 1980) \u00E8 un calciatore serbo, attaccante del Birmingham City."@it ,
+		"Nikola \u017Digi\u0107 (Ba\u010Dka Topola, Voivodina, Yugoslavia, 25 de septiembre de 1980) es un futbolista serbio. Juega de delantero y su actual es el Birmingham City FC de la Football League Championship de Inglaterra."@es ,
+		"Nikola \u017Digi\u0107 (serb. \u041D\u0438\u043A\u043E\u043B\u0430 \u0416\u0438\u0433\u0438\u045B ur. 25 wrze\u015Bnia 1980 w Ba\u010Dkiej Topoli) \u2013 serbski pi\u0142karz graj\u0105cy na pozycji napastnika. Mierzy 203 cm wzrostu i jest jednym z najwy\u017Cszych obok Kristoffa Van Houta, Jana Kollera, Petera Croucha i \u017Deljko Kalaca pi\u0142karzy \u015Bwiata. Obecnie wyst\u0119puje w Birmingham City."@pl ,
+		"Nikola \u017Digi\u0107 (Serbian Cyrillic: \u041D\u0438\u043A\u043E\u043B\u0430 \u0416\u0438\u0433\u0438\u045B [n\u01D0kola \u0292\u01D0\u02D0\u0261it\u0361\u0255]; born 25 September 1980) is a Serbian footballer who plays for English club Birmingham City as a centre forward. At 2.02 m (6 ft 7 1\u20442 in), \u017Digi\u0107 is among the tallest professional players in the world.\u017Digi\u0107 started his career in the youth academy at AIK Ba\u010Dka Topola in 1991, and joined the senior side in 1998. During his time at the club, he scored 68 goals in 76 league matches, before leaving in 2001 for Mornar. He spent one season at Mornar, scoring 15 goals in 23 league games, before switching to Kolubara in 2002, scoring 3 goals in 8 league games. A brief spell at Spartak Subotica in 2003 followed, where he scored 14 goals in 11 league games. He joined First League of Serbia and Montenegro side Red Star Belgrade in 2003, and made 110 appearances for them, scoring 71 goals. A move to Spain in August 2006 followed, with \u017Digi\u0107 joining La Liga side Racing Santander. He spent a single season at Santander, scoring 11 goals in 33 games, before signing for La Liga side Valencia in August 2008. He scored 14 goals in 46 games, but was rarely the first choice striker, and he spent most of the 2008\u201309 season on loan to Racing Santander, scoring 13 goals in 19 games during his second spell at the club. \u017Digi\u0107 joined current club Birmingham City in May 2010.He made his senior international debut for Serbia and Montenegro in June 2005, and has since won 57 caps for his country, scoring 20 goals. He was part of both the 2006 FIFA World Cup and 2010 FIFA World Cup squads, and briefly captained his country in 2011. Following the breakup of Serbia and Montenegro in 2006, he has played internationally for Serbia." ,
+		"Nikola \u017Digi\u0107 (serbisch-kyrillisch \u041D\u0438\u043A\u043E\u043B\u0430 \u0416\u0438\u0433\u0438\u045B, * 25. September 1980 in Ba\u010Dka Topola, SFR Jugoslawien) ist ein serbischer Fu\u00DFballspieler und Rekordtorsch\u00FCtze der serbischen Nationalmannschaft.\u017Digi\u0107 ist ein serbischer Fu\u00DFballst\u00FCrmer. W\u00E4hrend der WM 2006 in Deutschland st\u00FCrmte er neben Mateja Ke\u017Eman f\u00FCr die serbische Nationalmannschaft. Er spielte ebenfalls f\u00FCr die Nationalmannschaft bei der WM 2010 in S\u00FCdafrika.Er spielte von 1998 bis 2002 in seiner Heimatstadt bei AIK Ba\u010Dka Topola, kam dann nach einigen weiteren Stationen 2003 zu Roter Stern Belgrad und wechselte schlie\u00DFlich 2006 zum spanischen Erstligisten Racing Santander. Im August 2007 wechselte er f\u00FCr eine Abl\u00F6sesumme von ca. 20 Millionen Euro zum FC Valencia. Bei Valencia konnte er an seine guten Zeiten bei Santander nicht ankn\u00FCpfen und wurde nach eineinhalb Jahren im Januar 2009 wieder an Santander ausgeliehen. Dort fand er wieder zu alter St\u00E4rke zur\u00FCck und konnte in den ersten sieben Partien f\u00FCnf Tore erzielen. Am 26. Mai 2010 wurde bekannt, dass Nikola \u017Digi\u0107 f\u00FCr eine Abl\u00F6se von 6 Millionen Pfund zu Birmingham City wechselt. Dort unterschrieb er bis 2014."@de ,
+		"\u041D\u0438\u043A\u043E\u0301\u043B\u0430 \u0416\u0438\u0301\u0433\u0438\u0447 (\u0441\u0435\u0440\u0431. \u041D\u0438\u043A\u043E\u043B\u0430 \u0416\u0438\u0433\u0438\u045B / Nikola \u017Digi\u0107; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 25 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1980, \u0411\u0430\u0447\u043A\u0430-\u0422\u043E\u043F\u043E\u043B\u0430, \u0421\u0424\u0420\u042E) \u2014 \u0441\u0435\u0440\u0431\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439, \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u044E\u0449\u0438\u0439 \u0437\u0430 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u043A\u043B\u0443\u0431 \u00AB\u0411\u0438\u0440\u043C\u0438\u043D\u0433\u0435\u043C \u0421\u0438\u0442\u0438\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u0421\u0435\u0440\u0431\u0438\u0438."@ru ,
+		"\u30CB\u30B3\u30E9\u30FB\u30B8\u30AE\u30C3\u30C1\uFF08\u041D\u0438\u043A\u043E\u043B\u0430 \u0416\u0438\u0433\u0438\u045B, Nikola \u017Digi\u0107, 1980\u5E749\u670825\u65E5 - \uFF09\u306F\u3001\u30BB\u30EB\u30D3\u30A2\u30FB\u30D0\u30C1\u30E5\u30AB\u30FB\u30C8\u30DD\u30E9\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30BB\u30EB\u30D3\u30A2\u4EE3\u8868\u3067\u3042\u308B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9\u3002\u30D5\u30C3\u30C8\u30DC\u30FC\u30EB\u30EA\u30FC\u30B0\u30FB\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u30B7\u30C3\u30D7\u3001\u30D0\u30FC\u30DF\u30F3\u30AC\u30E0\u30FB\u30B7\u30C6\u30A3FC\u6240\u5C5E\u3002"@ja ,
+		"Nikola \u017Digi\u0107, n\u00E9 le 25 septembre 1980 \u00E0 Ba\u010Dka Topola (Serbie), est un footballeur serbe.Il joue au poste d'attaquant avec l'\u00E9quipe de Serbie et le club du Birmingham City Football Club (2,02 m pour 90 kg)."@fr ,
+		"\u0646\u064A\u0643\u0648\u0644\u0627 \u0632\u064A\u063A\u064A\u062A\u0634\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 25 \u0633\u0628\u062A\u0645\u0628\u0631 1980 \u0641\u064A \u0628\u0627\u0643\u0627 \u062A\u0648\u0628\u0648\u0644\u0627 \u0641\u064A \u0635\u0631\u0628\u064A\u0627\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0635\u0631\u0628\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0628\u0627\u0643\u0627 \u062A\u0648\u0628\u0648\u0644\u0627 \u0641\u064A \u0639\u0627\u0645 1998\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2002\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 76 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 68 \u0647\u062F\u0641\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2002 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0645\u0648\u0631\u0646\u0627\u0631 \u0628\u0627\u0631\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 23 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 15 \u0647\u062F\u0641\u060C \u0648\u0641\u064A \u0645\u0648\u0633\u0645 2002/2003 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0627\u0644\u0646\u062C\u0645 \u0627\u0644\u0623\u062D\u0645\u0631\u060C \u0648\u0644\u0639\u0628 \u0641\u064A \u0646\u0641\u0633 \u0627\u0644\u0645\u0648\u0633\u0645 \u0645\u0639 \u0646\u0627\u062F\u064A \u0643\u0648\u0644\u0648\u0628\u0627\u0631\u0627 \u0644\u0627\u0632\u0627\u0631\u064A\u0641\u0627\u062A\u0634\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 8 \u0645\u0628\u0627\u0631\u064A\u0627\u062A \u0648\u0633\u062C\u0644 3 \u0623\u0647\u062F\u0627\u0641\u060C \u0648\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0633\u0627\u0646\u062A \u0625\u062A\u064A\u0627\u0646 \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0648\u0646\u0627\u062F\u064A \u0633\u0628\u0627\u0631\u062A\u0627\u0643 \u0633\u0648\u0628\u0648\u062A\u064A\u0643\u0627\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 11 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 14 \u0647\u062F\u0641\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2003 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0627\u0644\u0646\u062C\u0645 \u0627\u0644\u0623\u062D\u0645\u0631\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2006\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 77 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 55 \u0647\u062F\u0641\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2006 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0631\u064A\u0633\u0646\u063A \u0633\u0627\u0646\u062A\u0627\u0646\u062F\u0631 \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A.\u0648 \u0642\u062F \u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0635\u0631\u0628\u064A\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2004."@ar ,
+		"\u5C3C\u53E4\u62C9\u00B7\u65E5\u5409\u5947\uFF08\u585E\u723E\u7DAD\u4E9E\u8A9E\uFF1ANikola \u017Digi\u0107\uFF0C1980\u5E749\u670825\u65E5\uFF0D\uFF09\uFF0C\u585E\u5C14\u7EF4\u4E9A\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u53F8\u804C\u524D\u950B\uFF0C\u6548\u529B\u65BC\u82F1\u51A0\u4F2F\u660E\u7FF0\u8DB3\u7403\u6703\u3002"@zh ;
+	dbpedia-owl:wikiPageID	2848634 ;
+	dbpedia-owl:wikiPageRevisionID	606476889 ;
+	dbpprop:birthDate	"1980-09-25+02:00"^^xsd:date ;
+	dbpprop:birthPlace	<http://dbpedia.org/resource/Ba%C4%8Dka_Topola> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	dbpprop:birthPlace	dbpedia:Socialist_Federal_Republic_of_Yugoslavia ;
+	dbpprop:dateOfBirth	"1980-09-25+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	<http://dbpedia.org/resource/Ba%C4%8Dka_Topola> ,
+		dbpedia:Socialist_Federal_Republic_of_Yugoslavia ;
+	dbpprop:shortDescription	"Professional footballer" ;
+	dbpedia-owl:birthDate	"1980-09-25+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	<http://dbpedia.org/resource/Ba%C4%8Dka_Topola> ,
+		dbpedia:Socialist_Federal_Republic_of_Yugoslavia ;
+	dbpedia-owl:birthYear	"1980+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	200 ;
+	dbpprop:sc	2 ,
+		3 ,
+		0 ,
+		1 ;
+	dbpprop:co	"Ukraine" ,
+		"Kazakhstan" ,
+		"Germany" ,
+		"Canada" ,
+		"Azerbaijan" ,
+		"Faroe Islands" ,
+		"Bulgaria" ,
+		"England" ,
+		"Serbia" ,
+		"China" ;
+	dbpprop:ci	"Toronto" ,
+		"Baku" ,
+		"Beograd" ,
+		"Almaty" ,
+		"Nanjing" ,
+		"Kiev" ,
+		"London" ,
+		"T\u00F3rshavn" ,
+		"Munich" ,
+		"Sofia" ;
+	dbpprop:comp	dbpedia:Exhibition_game ,
+		dbpedia:UEFA_Euro_2008_qualifying ,
+		dbpedia:UEFA_Euro_2012_qualifying_Group_C ,
+		2010 ,
+		2006 ;
+	dbpprop:fr	0 ,
+		1 ,
+		2 ,
+		3 ,
+		5 ;
+	dbpprop:st	"Rogers Centre" ,
+		"Lobanovsky Dynamo Stadium" ,
+		"Nanjing Olympic Sports Center" ,
+		"T\u00F3rsv\u00F8llur" ,
+		"Craven Cottage" ,
+		"Tofik Bakhramov Stadium" ,
+		"Stadion Crvena Zvezda" ,
+		"Vasil Levski National Stadium" ,
+		"Allianz Arena" ,
+		"Stadion Partizan" ,
+		"Almaty Central Stadium" ;
+	dbpprop:after	<http://dbpedia.org/resource/Branislav_Ivanovi%C4%87> ;
+	dbpprop:before	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> ;
+	dbpprop:goals	47 ,
+		31 ,
+		11 ,
+		14 ,
+		15 ,
+		13 ,
+		3 ,
+		5 ,
+		68 ;
+	dbpprop:bg	"Gold" ;
+	dbpprop:d	"2008-10-11+02:00"^^xsd:date ,
+		"2010-11-17+02:00"^^xsd:date ,
+		"2009-04-01+02:00"^^xsd:date ,
+		"2010-09-03+02:00"^^xsd:date ,
+		"2010-09-07+02:00"^^xsd:date ,
+		"2006-09-02+02:00"^^xsd:date ,
+		"2007-03-24+02:00"^^xsd:date ,
+		"2006-10-07+02:00"^^xsd:date ,
+		"2009-10-10+02:00"^^xsd:date ,
+		"2006-06-21+02:00"^^xsd:date ,
+		"2009-11-18+02:00"^^xsd:date ,
+		"2008-09-06+02:00"^^xsd:date ,
+		"2005-11-13+02:00"^^xsd:date ,
+		"2006-10-11+02:00"^^xsd:date ,
+		"2007-10-17+02:00"^^xsd:date ,
+		"2005-06-08+02:00"^^xsd:date ,
+		"2005-08-15+02:00"^^xsd:date ,
+		"2010-10-08+02:00"^^xsd:date ,
+		"2007-11-21+02:00"^^xsd:date ;
+	dbpprop:caps	28 ,
+		19 ,
+		23 ,
+		8 ,
+		11 ,
+		32 ,
+		76 ,
+		79 ,
+		127 ;
+	dbpprop:years	1998 ,
+		2010 ,
+		2011 ,
+		2009 ,
+		2006 ,
+		2007 ,
+		2002 ,
+		2003 ,
+		2001 ;
+	dbpprop:youthclubs	<http://dbpedia.org/resource/FK_Ba%C4%8Dka_Topola> ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87__7> ,
+		<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87__9> ,
+		<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87__1> ,
+		<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87__4> ,
+		<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87__3> ,
+		<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87__5> ,
+		<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87__11> ,
+		<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87__2> ,
+		<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87__8> ,
+		<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87__6> ,
+		<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87__10> ;
+	dbpprop:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:height	2.0200000000000000178 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	ns21:height	"202.0"^^ns20:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/Birmingham_City_F.C.> ;
+	dbpprop:clubnumber	19 ;
+	dbpprop:fullname	"Nikola \u017Digi\u0107" ;
+	dbpprop:clubs	dbpedia:Racing_de_Santander ,
+		dbpedia:FK_Mornar ,
+		"Birmingham City" ,
+		dbpedia:Red_Star_Belgrade ,
+		<http://dbpedia.org/resource/FK_Ba%C4%8Dka_Topola> ,
+		"\u2192 Spartak Subotica" ,
+		dbpedia:Valencia_CF ,
+		"\u2192 Racing Santander" ,
+		dbpedia:FK_Kolubara ;
+	dbpedia-owl:team	dbpedia:FK_Spartak_Zlatibor_Voda ,
+		dbpedia:FK_Kolubara ,
+		dbpedia:Racing_de_Santander ,
+		dbpedia:FK_Mornar ,
+		dbpedia:Serbia_national_football_team ,
+		<http://dbpedia.org/resource/Birmingham_City_F.C.> ,
+		dbpedia:Red_Star_Belgrade ,
+		<http://dbpedia.org/resource/FK_Ba%C4%8Dka_Topola> ,
+		dbpedia:Valencia_CF .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Serbia captain" ,
+		"Awards" ;
+	dbpprop:youthyears	1991 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.bdfutbol.com/en/j/j2085.html> ,
+		<http://www.reprezentacija.rs/index.php?option=com_content&view=article&id=1655&Itemid=12> .
+@prefix ns23:	<http://www.premierleague.com/en-gb/players/profile.overview.html/> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	dbpedia-owl:wikiPageExternalLink	ns23:nikola-zigic ;
+	dbpprop:clubUpdate	"2014-04-30+02:00"^^xsd:date ;
+	dbpprop:bordercolor	"Black" ;
+	dbpprop:fg	"Black" ;
+	dbpprop:nationalcaps	57 ;
+	dbpprop:nationalgoals	20 ;
+	dbpprop:nationalteam	dbpedia:Serbia_national_football_team ;
+	dbpprop:nationalyears	2004 ;
+	dbpedia-owl:number	19 ;
+	dbpprop:o	"Azerbaijan" ,
+		"Slovenia" ,
+		"Poland" ,
+		"C\u00F4te d'Ivoire" ,
+		"Italy" ,
+		"Armenia" ,
+		"Lithuania" ,
+		"Faroe Islands" ,
+		"Kazakhstan" ,
+		"Estonia" ,
+		"Romania" ,
+		"Sweden" ,
+		"China" ,
+		"Korea Republic" ,
+		"Belgium" ,
+		"Bulgaria" ;
+	dbpprop:frac	4 .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	dbpprop:after	<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87> .
+ns17:Nikola_Žigić	foaf:primaryTopic	<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87> .
+dbpedia:Nikola	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87> .
+<http://dbpedia.org/resource/2009_South_Korea_national_football_team_season>	dbpprop:away11player	<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87> .
+<http://dbpedia.org/resource/Branislav_Ivanovi%C4%87>	dbpprop:before	<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87> .
+dbpedia:Nikola_Žigić	owl:sameAs	<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87> .
+<http://dbpedia.org/resource/%C5%BDigi%C4%87>	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87> .
+dbpedia:Nikola_Zigic	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87> .
+<http://dbpedia.org/resource/2006_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87> .
+dbpedia:Serbia_and_Montenegro_national_football_team	dbpprop:name	<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87> .
+dbpedia:Serbia_national_football_team	dbpprop:text	<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Valencia_CF_season>	dbpprop:p	<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87> .

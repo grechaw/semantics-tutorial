@@ -1,0 +1,271 @@
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2004_CONCACAF_Men\u0027s_Pre-Olympic_Tournament_squads>	dbpprop:name	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Walter_Juli%C3%A1n_Mart%C3%ADnez>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://en.wikipedia.org/wiki/Walter_Mart\u00EDnez_(footballer)>	foaf:primaryTopic	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> .
+<http://dbpedia.org/resource/2011_CONCACAF_Gold_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:List_of_Chinese_football_transfers_winter_2013	dbpprop:name	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)>	rdf:type	dul:Agent .
+@prefix ns6:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)>	rdf:type	ns6:Q5 ,
+		dul:NaturalPerson ,
+		dbpedia-owl:SoccerPlayer ,
+		dbpedia-owl:Athlete ,
+		foaf:Person ,
+		dbpedia-owl:Person ,
+		dbpedia-owl:Agent .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)>	rdf:type	owl:Thing ,
+		ns6:Q215627 .
+@prefix ns8:	<http://schema.org/> .
+<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)>	rdf:type	ns8:Person ;
+	owl:sameAs	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> ,
+		<http://rdf.freebase.com/ns/m.02vkwf_> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)>	rdfs:label	"Walter Mart\u00EDnez (footballer)" ,
+		"\u041C\u0430\u0440\u0442\u0438\u043D\u0435\u0441, \u0412\u0430\u043B\u044C\u0442\u0435\u0440"@ru ,
+		"Walter Mart\u00EDnez"@pt ,
+		"Walter Mart\u00EDnez"@pl ,
+		"Walter Martinez"@fr ,
+		"W\u00E1lter Mart\u00EDnez"@it ,
+		"Walter Mart\u00EDnez (futbolista)"@es ,
+		"\u0648\u0627\u0644\u062A\u0631 \u0645\u0627\u0631\u062A\u064A\u0646\u064A\u0632"@ar ,
+		"\u6C83\u5C14\u7279\u00B7\u9A6C\u4E01\u5185\u65AF"@zh ,
+		"Walter Juli\u00E1n Mart\u00EDnez"@de .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)>	dcterms:subject	category:Major_League_Soccer_players ,
+		category:Beijing_Guoan_players ,
+		<http://dbpedia.org/resource/Category:C.D.S._Vida_players> ,
+		category:Honduran_footballers ,
+		category:Association_football_midfielders ,
+		<http://dbpedia.org/resource/Category:C.D._Marath%C3%B3n_players> ,
+		<http://dbpedia.org/resource/Category:2011_CONCACAF_Gold_Cup_players> ,
+		<http://dbpedia.org/resource/Category:1982_births> ,
+		category:Honduran_people_of_African_descent ,
+		category:Honduran_expatriate_footballers ,
+		category:Honduras_international_footballers ,
+		category:Living_people ,
+		category:Expatriate_footballers_in_China ,
+		<http://dbpedia.org/resource/Category:C.D._Victoria_players> ,
+		<http://dbpedia.org/resource/Category:2007_CONCACAF_Gold_Cup_players> ,
+		<http://dbpedia.org/resource/Category:Deportivo_Alav%C3%A9s_footballers> ,
+		category:San_Jose_Earthquakes_players ,
+		category:Honduran_expatriates_in_China ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:People_from_Tegucigalpa ,
+		<http://dbpedia.org/resource/Category:Liga_Nacional_de_F%C3%BAtbol_de_Honduras_footballers> ,
+		<http://dbpedia.org/resource/Category:2009_CONCACAF_Gold_Cup_players> ,
+		category:Expatriate_footballers_in_Spain ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Walter_Mart\u00EDnez_San_Jose_Earthquakes.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)>	dc:description	"Honduran footballer" ,
+		"Honduran footballer" ;
+	foaf:givenName	"Walter" ;
+	foaf:name	"Walter Juli\u00E1n Mart\u00EDnez Ramos" ,
+		"Martinez, Walter" ,
+		"Walter Mart\u00EDnez" ,
+		"Walter Martinez" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Walter_Mart\u00EDnez_(footballer)?oldid=604854280> ;
+	rdfs:comment	"\u0648\u0627\u0644\u062A\u0631 \u0645\u0627\u0631\u062A\u064A\u0646\u064A\u0632 \u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 28 \u0645\u0627\u0631\u0633 1982 \u0641\u064A \u062A\u064A\u063A\u0648\u0633\u064A\u063A\u0627\u0644\u0628\u0627 \u0641\u064A \u0627\u0644\u0647\u0646\u062F\u0648\u0631\u0627\u0633 \u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0647\u0646\u062F\u0648\u0631\u0627\u0633\u064A.\u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0628\u0643\u064A\u0646 \u063A\u0648\u0627\u0646.\u064A\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0647\u0646\u062F\u0648\u0631\u0627\u0633 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0646\u0630 \u0639\u0627\u0645 2002."@ar ,
+		"Walter Juli\u00E1n Mart\u00EDnez Ramos (born on 28 March 1982) aka Pery, is a Honduran football striker who last played for San Jose Earthquakes in Major League Soccer." ,
+		"Walter Julian Mart\u00EDnez Ramos (Tegucigalpa, 28 de mar\u00E7o de 1982) \u00E9 um futebolista profissional hondurenho, milita no San Jos\u00E9 Earthquakes."@pt ,
+		"Walter Juli\u00E1n Mart\u00EDnez Ramos (ur. 28 marca 1982 w Tegucigalpie) \u2013 pi\u0142karz honduraski graj\u0105cy na pozycji napastnika. Mierzy 168 cm wzrostu, wa\u017Cy 66 kg."@pl ,
+		"Walter Juli\u00E1n Mart\u00EDnez (* 24. M\u00E4rz 1982 in Tegucigalpa) ist ein honduranischer Fu\u00DFballspieler."@de ,
+		"Walter Juli\u00E1n Mart\u00EDnez (nacido el 28 de marzo de 1982) es un futbolista hondure\u00F1o. Hizo su debut con el Club Deportivo Victoria en el 2001. Actualmente juega para el San Jose Earthquakes de la Conferencia Oeste de la Major League Soccer."@es ,
+		"\u0412\u0430\u0301\u043B\u044C\u0442\u0435\u0440 \u0425\u0443\u043B\u0438\u0430\u0301\u043D \u041C\u0430\u0440\u0442\u0438\u0301\u043D\u0435\u0441 \u0420\u0430\u0301\u043C\u043E\u0441 (\u0438\u0441\u043F. Walter Juli\u00E1n Mart\u00EDnez Ramos; \u0440\u043E\u0434. 28 \u043C\u0430\u0440\u0442\u0430 1982, \u0422\u0435\u0433\u0443\u0441\u0438\u0433\u0430\u043B\u044C\u043F\u0430, \u0413\u043E\u043D\u0434\u0443\u0440\u0430\u0441) \u2014 \u0433\u043E\u043D\u0434\u0443\u0440\u0430\u0441\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0438\u0433\u0440\u0430\u0435\u0442 \u043D\u0430 \u043F\u043E\u0437\u0438\u0446\u0438\u0438 \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A\u0430 \u0432 \u043A\u043B\u0443\u0431\u0435 \u00AB\u0427\u0443\u043D\u0446\u0438\u043D\u00BB, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0435\u043C \u041F\u0435\u0440\u0432\u0443\u044E \u043B\u0438\u0433\u0443 \u041A\u0438\u0442\u0430\u044F \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 ."@ru ,
+		"Walter Juli\u00E1n Mart\u00EDnez Ramos, plus couramment appel\u00E9 Walter Mart\u00EDnez est un footballeur international hondurien n\u00E9 le 28 mars 1982 \u00E0 Tegucigalpa (Honduras) et qui \u00E9volue au poste d'attaquant."@fr ,
+		"W\u00E1lter Juli\u00E1n Mart\u00EDnez Ramos (Tegucigalpa, 28 marzo 1982) \u00E8 un calciatore honduregno, centrocampista-attaccante del Deportivo Alav\u00E9s."@it ,
+		"\u6C83\u5C14\u7279\u00B7\u6731\u5229\u5B89\u00B7\u9A6C\u4E01\u5185\u65AF\u00B7\u62C9\u83AB\u65AF\uFF08Walter Juli\u00E1n Mart\u00EDnez Ramos\uFF0C1982\u5E743\u670828\u65E5\uFF0D\uFF09\uFF0C\u662F\u6D2A\u90FD\u62C9\u65AF\u804C\u4E1A\u8DB3\u7403\u8FD0\u52A8\u5458\u3001\u6D2A\u90FD\u62C9\u65AF\u570B\u5BB6\u8DB3\u7403\u968A\u6210\u54E1\u4E4B\u4E00\uFF0C\u5728\u4E2D\u56FD\u8DB3\u7403\u754C\u56E0\u4E3A\u7D22\u5C14\u00B7\u9A6C\u4E01\u5185\u65AF\u7684\u5173\u7CFB\u4E5F\u88AB\u79F0\u4F5C\u201C\u5C0F\u9A6C\u4E01\u5185\u65AF\u201D\u3002\u9A6C\u4E01\u5185\u65AF\u57282007-2008\u5E74\u6548\u529B\u4E8E\u4E2D\u56FD\u7403\u961F\u5317\u4EAC\u56FD\u5B89\uFF0C2010\u5E74\u9A6C\u4E01\u5185\u65AF\u5165\u9009\u4E86\u6D2A\u90FD\u62C9\u65AF\u961F\u53C2\u52A0\u5357\u975E\u4E16\u754C\u676F\u768423\u4EBA\u540D\u5355\uFF0C\u5728\u540C\u5E747\u6708\u9A6C\u4E01\u5185\u65AF\u518D\u6B21\u4E0E\u5317\u4EAC\u56FD\u5B89\u7B7E\u7EA6\uFF0C\u53CC\u65B9\u7B7E\u8BA2\u4E3A\u671F\u4E00\u5E74\u534A\u7684\u5408\u540C\u30022012\u5E74\uFF0C\u5728\u548C\u5317\u4EAC\u56FD\u5B89\u7684\u5408\u540C\u7ED3\u675F\u540E\uFF0C\u9A6C\u4E01\u5185\u65AF\u52A0\u76DF\u4E2D\u56FD\u8DB3\u7403\u7532\u7EA7\u8054\u8D5B\u5347\u73ED\u9A6C\u91CD\u5E86\u961F\u3002"@zh ;
+	foaf:surname	"Martinez" ;
+	dbpprop:n	"Walter \"Pery\" Martinez" ,
+		6 ,
+		7 ,
+		4 ,
+		5 ,
+		2 ,
+		3 ,
+		1 ,
+		12 ,
+		10 ,
+		11 ,
+		8 ,
+		9 ;
+	foaf:isPrimaryTopicOf	<http://en.wikipedia.org/wiki/Walter_Mart\u00EDnez_(footballer)> ;
+	dbpprop:hasPhotoCollection	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Walter_Mart\u00EDnez_(footballer)> ;
+	dbpprop:name	"Walter Mart\u00EDnez" ,
+		"Martinez, Walter" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Walter_Mart\u00EDnez_San_Jose_Earthquakes.jpg?width=300> ;
+	dbpedia-owl:abstract	"W\u00E1lter Juli\u00E1n Mart\u00EDnez Ramos (Tegucigalpa, 28 marzo 1982) \u00E8 un calciatore honduregno, centrocampista-attaccante del Deportivo Alav\u00E9s."@it ,
+		"\u0648\u0627\u0644\u062A\u0631 \u0645\u0627\u0631\u062A\u064A\u0646\u064A\u0632 \u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 28 \u0645\u0627\u0631\u0633 1982 \u0641\u064A \u062A\u064A\u063A\u0648\u0633\u064A\u063A\u0627\u0644\u0628\u0627 \u0641\u064A \u0627\u0644\u0647\u0646\u062F\u0648\u0631\u0627\u0633 \u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0647\u0646\u062F\u0648\u0631\u0627\u0633\u064A.\u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0628\u0643\u064A\u0646 \u063A\u0648\u0627\u0646.\u064A\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0647\u0646\u062F\u0648\u0631\u0627\u0633 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0646\u0630 \u0639\u0627\u0645 2002."@ar ,
+		"Walter Juli\u00E1n Mart\u00EDnez Ramos (ur. 28 marca 1982 w Tegucigalpie) \u2013 pi\u0142karz honduraski graj\u0105cy na pozycji napastnika. Mierzy 168 cm wzrostu, wa\u017Cy 66 kg."@pl ,
+		"Walter Juli\u00E1n Mart\u00EDnez (nacido el 28 de marzo de 1982) es un futbolista hondure\u00F1o. Hizo su debut con el Club Deportivo Victoria en el 2001. Actualmente juega para el San Jose Earthquakes de la Conferencia Oeste de la Major League Soccer."@es ,
+		"Walter Juli\u00E1n Mart\u00EDnez Ramos, plus couramment appel\u00E9 Walter Mart\u00EDnez est un footballeur international hondurien n\u00E9 le 28 mars 1982 \u00E0 Tegucigalpa (Honduras) et qui \u00E9volue au poste d'attaquant."@fr ,
+		"Walter Julian Mart\u00EDnez Ramos (Tegucigalpa, 28 de mar\u00E7o de 1982) \u00E9 um futebolista profissional hondurenho, milita no San Jos\u00E9 Earthquakes."@pt ,
+		"\u0412\u0430\u0301\u043B\u044C\u0442\u0435\u0440 \u0425\u0443\u043B\u0438\u0430\u0301\u043D \u041C\u0430\u0440\u0442\u0438\u0301\u043D\u0435\u0441 \u0420\u0430\u0301\u043C\u043E\u0441 (\u0438\u0441\u043F. Walter Juli\u00E1n Mart\u00EDnez Ramos; \u0440\u043E\u0434. 28 \u043C\u0430\u0440\u0442\u0430 1982, \u0422\u0435\u0433\u0443\u0441\u0438\u0433\u0430\u043B\u044C\u043F\u0430, \u0413\u043E\u043D\u0434\u0443\u0440\u0430\u0441) \u2014 \u0433\u043E\u043D\u0434\u0443\u0440\u0430\u0441\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0438\u0433\u0440\u0430\u0435\u0442 \u043D\u0430 \u043F\u043E\u0437\u0438\u0446\u0438\u0438 \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A\u0430 \u0432 \u043A\u043B\u0443\u0431\u0435 \u00AB\u0427\u0443\u043D\u0446\u0438\u043D\u00BB, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0435\u043C \u041F\u0435\u0440\u0432\u0443\u044E \u043B\u0438\u0433\u0443 \u041A\u0438\u0442\u0430\u044F \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 ."@ru ,
+		"\u6C83\u5C14\u7279\u00B7\u6731\u5229\u5B89\u00B7\u9A6C\u4E01\u5185\u65AF\u00B7\u62C9\u83AB\u65AF\uFF08Walter Juli\u00E1n Mart\u00EDnez Ramos\uFF0C1982\u5E743\u670828\u65E5\uFF0D\uFF09\uFF0C\u662F\u6D2A\u90FD\u62C9\u65AF\u804C\u4E1A\u8DB3\u7403\u8FD0\u52A8\u5458\u3001\u6D2A\u90FD\u62C9\u65AF\u570B\u5BB6\u8DB3\u7403\u968A\u6210\u54E1\u4E4B\u4E00\uFF0C\u5728\u4E2D\u56FD\u8DB3\u7403\u754C\u56E0\u4E3A\u7D22\u5C14\u00B7\u9A6C\u4E01\u5185\u65AF\u7684\u5173\u7CFB\u4E5F\u88AB\u79F0\u4F5C\u201C\u5C0F\u9A6C\u4E01\u5185\u65AF\u201D\u3002\u9A6C\u4E01\u5185\u65AF\u57282007-2008\u5E74\u6548\u529B\u4E8E\u4E2D\u56FD\u7403\u961F\u5317\u4EAC\u56FD\u5B89\uFF0C2010\u5E74\u9A6C\u4E01\u5185\u65AF\u5165\u9009\u4E86\u6D2A\u90FD\u62C9\u65AF\u961F\u53C2\u52A0\u5357\u975E\u4E16\u754C\u676F\u768423\u4EBA\u540D\u5355\uFF0C\u5728\u540C\u5E747\u6708\u9A6C\u4E01\u5185\u65AF\u518D\u6B21\u4E0E\u5317\u4EAC\u56FD\u5B89\u7B7E\u7EA6\uFF0C\u53CC\u65B9\u7B7E\u8BA2\u4E3A\u671F\u4E00\u5E74\u534A\u7684\u5408\u540C\u30022012\u5E74\uFF0C\u5728\u548C\u5317\u4EAC\u56FD\u5B89\u7684\u5408\u540C\u7ED3\u675F\u540E\uFF0C\u9A6C\u4E01\u5185\u65AF\u52A0\u76DF\u4E2D\u56FD\u8DB3\u7403\u7532\u7EA7\u8054\u8D5B\u5347\u73ED\u9A6C\u91CD\u5E86\u961F\u3002"@zh ,
+		"Walter Juli\u00E1n Mart\u00EDnez (* 24. M\u00E4rz 1982 in Tegucigalpa) ist ein honduranischer Fu\u00DFballspieler."@de ,
+		"Walter Juli\u00E1n Mart\u00EDnez Ramos (born on 28 March 1982) aka Pery, is a Honduran football striker who last played for San Jose Earthquakes in Major League Soccer." ;
+	dbpedia-owl:wikiPageID	11982701 ;
+	dbpedia-owl:wikiPageRevisionID	604854280 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)>	dbpprop:birthDate	"1982-03-28+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Tegucigalpa, Honduras" ;
+	dbpprop:dateOfBirth	"1982-03-28+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Tegucigalpa, Honduras" ;
+	dbpprop:shortDescription	"Honduran footballer" ;
+	dbpedia-owl:birthDate	"1982-03-28+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Tegucigalpa ,
+		dbpedia:Honduras_national_football_team ;
+	dbpedia-owl:birthYear	"1982+02:00"^^xsd:gYear ;
+	dbpprop:sc	6 ,
+		4 ,
+		2 ,
+		1 ;
+	dbpprop:co	"New Zealand" ,
+		"United States" ,
+		"Honduras" ,
+		"USA" ;
+	dbpprop:ci	"Auckland" ,
+		"Philadelphia" ,
+		"Miami" ,
+		"Atlanta" ,
+		"San Pedro Sula" ,
+		"La Ceiba" ,
+		"Foxborough" ,
+		"Tegucigalpa" ,
+		"Panama City, Panama" ;
+	dbpprop:comp	<http://dbpedia.org/resource/2010_FIFA_World_Cup_qualification_(CONCACAF)> ,
+		dbpedia:Exhibition_game ,
+		2011 ,
+		2009 ,
+		<http://dbpedia.org/resource/2009_UNCAF_Nations_Cup> ;
+	dbpprop:fr	1 ,
+		2 ,
+		3 ,
+		4 ,
+		7 ;
+	dbpprop:st	"Gillette Stadium" ,
+		"Estadio Tiburcio Car\u00EDas Andino" ,
+		"FIU Stadium" ,
+		"Estadio Nilmo Edwards" ,
+		"North Harbour Stadium" ,
+		"Estadio Ol\u00EDmpico Metropolitano" ,
+		"Herndon Stadium" ,
+		"Lincoln Financial Field" ,
+		"Estadio Rommel Fern\u00E1ndez" ,
+		"Dolphin Stadium" ;
+	dbpprop:goals	2 ,
+		3 ,
+		0 ,
+		9 ,
+		14 ,
+		12 ,
+		13 ;
+	dbpprop:bg	"blue" ;
+	dbpprop:d	"2006-10-10+02:00"^^xsd:date ,
+		"2011-06-10+02:00"^^xsd:date ,
+		"2007-10-14+02:00"^^xsd:date ,
+		"2007-11-17+02:00"^^xsd:date ,
+		"2009-07-11+02:00"^^xsd:date ,
+		"2011-01-13+02:00"^^xsd:date ,
+		"2008-10-11+02:00"^^xsd:date ,
+		"2009-07-18+02:00"^^xsd:date ,
+		"2009-01-22+02:00"^^xsd:date ,
+		"2008-06-07+02:00"^^xsd:date ,
+		"2010-10-09+02:00"^^xsd:date ,
+		"2009-01-24+02:00"^^xsd:date ;
+	dbpprop:caps	37 ,
+		44 ,
+		53 ,
+		3 ,
+		8 ,
+		15 ,
+		18 ,
+		20 ,
+		29 ,
+		31 ;
+	dbpprop:years	2006 ,
+		2007 ,
+		2004 ,
+		2005 ,
+		2001 ,
+		2012 ,
+		2013 ,
+		2010 ,
+		2009 ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)__9> ,
+		<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)__2> ,
+		<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)__8> ,
+		<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)__7> ,
+		<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)__10> ,
+		<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)__3> ,
+		<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)__11> ,
+		<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)__1> ,
+		<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)__4> ,
+		<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)__6> ,
+		<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)__5> ;
+	dbpprop:position	dbpedia:Midfielder ,
+		<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Forward_(association_football)> ,
+		dbpedia:Midfielder ;
+	dbpedia-owl:height	1.6799999999999999378 .
+@prefix ns15:	<http://dbpedia.org/datatype/> .
+@prefix ns16:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)>	ns16:height	"168.0"^^ns15:centimetre ;
+	dbpprop:fullname	"Walter Juli\u00E1n Mart\u00EDnez Ramos" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/Chongqing_F.C.> ,
+		<http://dbpedia.org/resource/C.D._Marath%C3%B3n> ,
+		<http://dbpedia.org/resource/C.D._Victoria> ,
+		<http://dbpedia.org/resource/Beijing_Guoan_F.C.> ,
+		<http://dbpedia.org/resource/C.D.S._Vida> ,
+		<http://dbpedia.org/resource/Deportivo_Alav%C3%A9s> ,
+		dbpedia:San_Jose_Earthquakes ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/Chongqing_F.C.> ,
+		dbpedia:Honduras_national_football_team ,
+		<http://dbpedia.org/resource/C.D._Marath%C3%B3n> ,
+		<http://dbpedia.org/resource/C.D._Victoria> ,
+		<http://dbpedia.org/resource/Beijing_Guoan_F.C.> ,
+		<http://dbpedia.org/resource/C.D.S._Vida> ,
+		<http://dbpedia.org/resource/Deportivo_Alav%C3%A9s> ,
+		dbpedia:San_Jose_Earthquakes ;
+	dbpprop:title	"Honduras squads" ;
+	dbpprop:pcupdate	"2013-11-03+02:00"^^xsd:date ;
+	dbpedia-owl:wikiPageExternalLink	<http://sodasoccer.com/search/player/ED2DECBD20421E09.html> ;
+	dbpprop:fg	"White" ;
+	dbpprop:nationalcaps	49 ;
+	dbpprop:nationalgoals	12 ;
+	dbpprop:nationalteam	dbpedia:Honduras_national_football_team ;
+	dbpprop:nationalyears	2002 ;
+	dbpprop:o	"Panama" ,
+		"Haiti" ,
+		"Belize" ,
+		"Costa Rica" ,
+		"Canada" ,
+		"Grenada" ,
+		"Nicaragua" ,
+		"Guatemala" ,
+		"New Zealand" .
+<http://dbpedia.org/resource/2007_CONCACAF_Gold_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> .
+dbpedia:UNCAF_Nations_Cup_2009_squads	dbpprop:name	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> .
+dbpedia:UNCAF_Nations_Cup_2003_squads	dbpprop:name	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> .
+dbpedia:List_of_Chinese_football_transfers_winter_2012	dbpprop:name	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> .
+<http://dbpedia.org/resource/Walter_Mart%C3%ADnez>	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> .
+<http://dbpedia.org/resource/2012_Beijing_Guoan_F.C._season>	dbpprop:name	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> .
+<http://dbpedia.org/resource/Walter_Mart\u00EDnez_(footballer)>	owl:sameAs	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> .
+<http://dbpedia.org/resource/2004-05_C.D._Marath%C3%B3n_season__Walter_Mart%C3%ADnez__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> .
+<http://dbpedia.org/resource/2012_Beijing_Guoan_F.C._season__Walter_Juli%C3%A1n_Mart%C3%ADnez__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> .
+<http://dbpedia.org/resource/W%C3%A1lter_Juli%C3%A1n_Mart%C3%ADnez>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> .
+dbpedia:Walter_Julian_Martinez	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> .
+<http://dbpedia.org/resource/2004-05_C.D._Marath%C3%B3n_season>	dbpprop:name	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> .
+<http://dbpedia.org/resource/2011_Copa_Centroamericana_squads>	dbpprop:name	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> .
+dbpedia:List_of_Chinese_football_transfers_summer_2010	dbpprop:name	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Walter_Mart%C3%ADnez_(footballer)> .

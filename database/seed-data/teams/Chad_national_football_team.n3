@@ -1,0 +1,333 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Nassama_Asselme	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Nassama_Asselme	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Esaie_Djikoloum	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Cesar_Madalangue	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns4:	<http://fr.dbpedia.org/resource/> .
+ns4:Équipe_du_Tchad_de_football	owl:sameAs	dbpedia:Chad_national_football_team .
+@prefix ns5:	<http://de.dbpedia.org/resource/> .
+ns5:Tschadische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Chad_national_football_team .
+@prefix ns6:	<http://wikidata.dbpedia.org/resource/> .
+ns6:Q275675	owl:sameAs	dbpedia:Chad_national_football_team .
+@prefix ns7:	<http://cs.dbpedia.org/resource/> .
+ns7:Čadská_fotbalová_reprezentace	owl:sameAs	dbpedia:Chad_national_football_team .
+@prefix ns8:	<http://es.dbpedia.org/resource/> .
+ns8:Selección_de_fútbol_de_Chad	owl:sameAs	dbpedia:Chad_national_football_team .
+@prefix ns9:	<http://id.dbpedia.org/resource/> .
+ns9:Tim_nasional_sepak_bola_Chad	owl:sameAs	dbpedia:Chad_national_football_team .
+@prefix ns10:	<http://it.dbpedia.org/resource/> .
+ns10:Nazionale_di_calcio_del_Ciad	owl:sameAs	dbpedia:Chad_national_football_team .
+@prefix ns11:	<http://ja.dbpedia.org/resource/> .
+ns11:サッカーチャド代表	owl:sameAs	dbpedia:Chad_national_football_team .
+@prefix ns12:	<http://ko.dbpedia.org/resource/> .
+ns12:차드_축구_국가대표팀	owl:sameAs	dbpedia:Chad_national_football_team .
+@prefix ns13:	<http://nl.dbpedia.org/resource/> .
+ns13:Tsjadisch_voetbalelftal	owl:sameAs	dbpedia:Chad_national_football_team .
+@prefix ns14:	<http://pl.dbpedia.org/resource/> .
+ns14:Reprezentacja_Czadu_w_piłce_nożnej	owl:sameAs	dbpedia:Chad_national_football_team .
+@prefix ns15:	<http://pt.dbpedia.org/resource/> .
+ns15:Seleção_Chadiana_de_Futebol	owl:sameAs	dbpedia:Chad_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns17:	<http://en.wikipedia.org/wiki/> .
+ns17:Chad_national_football_team	foaf:primaryTopic	dbpedia:Chad_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Chad_national_football_team	rdf:type	yago:YagoLegalActorGeo ,
+		yago:YagoLegalActor ,
+		yago:FootballTeam108080025 ,
+		dbpedia-owl:Organisation ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam .
+@prefix ns20:	<http://schema.org/> .
+dbpedia:Chad_national_football_team	rdf:type	ns20:SportsTeam ,
+		yago:NationalSportsTeamsOfChad .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Chad_national_football_team	rdf:type	dul:Agent ,
+		dul:SocialPerson ,
+		yago:AfricanNationalAssociationFootballTeams ,
+		ns20:Organization ,
+		owl:Thing ,
+		dbpedia-owl:Agent ,
+		yago:YagoPermanentlyLocatedEntity .
+@prefix ns22:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Chad_national_football_team	owl:sameAs	ns22:Tchads_herrlandslag_i_fotboll ,
+		dbpedia:Chad_national_football_team ,
+		ns15:Seleção_Chadiana_de_Futebol ,
+		ns11:サッカーチャド代表 .
+@prefix ns23:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Chad_national_football_team	owl:sameAs	ns23:Chad_national_football_team .
+@prefix ns24:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Chad_national_football_team	owl:sameAs	ns24:Сборная_Чада_по_футболу .
+@prefix ns25:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Chad_national_football_team	owl:sameAs	ns25:चाड_फुटबॉल_संघ .
+@prefix ns26:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Chad_national_football_team	owl:sameAs	ns26:Čado_vyrų_futbolo_rinktinė .
+@prefix ns27:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Chad_national_football_team	owl:sameAs	ns27:تیم_ملی_فوتبال_چاد .
+@prefix ns28:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Chad_national_football_team	owl:sameAs	ns28:Đội_tuyển_bóng_đá_quốc_gia_Tchad .
+@prefix ns29:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Chad_national_football_team	owl:sameAs	ns29:Tšadin_jalkapallomaajoukkue .
+@prefix ns30:	<http://da.dbpedia.org/resource/> .
+dbpedia:Chad_national_football_team	owl:sameAs	ns30:Tchads_fodboldlandshold ,
+		ns10:Nazionale_di_calcio_del_Ciad ,
+		ns7:Čadská_fotbalová_reprezentace .
+@prefix ns31:	<http://lv.dbpedia.org/resource/> .
+dbpedia:Chad_national_football_team	owl:sameAs	ns31:Čadas_futbola_izlase .
+@prefix ns32:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Chad_national_football_team	owl:sameAs	ns32:Çad_Millî_Futbol_Takımı .
+@prefix ns33:	<http://wikidata.org/entity/> .
+dbpedia:Chad_national_football_team	owl:sameAs	ns33:Q275675 ,
+		ns9:Tim_nasional_sepak_bola_Chad ,
+		ns5:Tschadische_Fußballnationalmannschaft ,
+		ns8:Selección_de_fútbol_de_Chad ,
+		<http://he.dbpedia.org/resource/\u05E0\u05D1\u05D7\u05E8\u05EA_\u05E6\u0027\u05D0\u05D3_\u05D1\u05DB\u05D3\u05D5\u05E8\u05D2\u05DC> ,
+		ns12:차드_축구_국가대표팀 .
+@prefix ns34:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Chad_national_football_team	owl:sameAs	ns34:منتخب_تشاد_لكرة_القدم .
+@prefix ns35:	<http://yago-knowledge.org/resource/> .
+dbpedia:Chad_national_football_team	owl:sameAs	ns35:Chad_national_football_team ,
+		ns13:Tsjadisch_voetbalelftal .
+@prefix ns36:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Chad_national_football_team	owl:sameAs	ns36:Chad_national_football_team ,
+		ns14:Reprezentacja_Czadu_w_piłce_nożnej .
+@prefix ns37:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Chad_national_football_team	owl:sameAs	ns37:乍得國家足球隊 .
+@prefix ns38:	<http://sk.dbpedia.org/resource/> .
+dbpedia:Chad_national_football_team	owl:sameAs	ns38:Čadské_národné_futbalové_mužstvo ,
+		ns6:Q275675 ,
+		ns4:Équipe_du_Tchad_de_football .
+@prefix ns39:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Chad_national_football_team	owl:sameAs	ns39:Echipa_națională_de_fotbal_a_Ciadului .
+@prefix ns40:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Chad_national_football_team	owl:sameAs	ns40:Збірна_Чаду_з_футболу ,
+		<http://rdf.freebase.com/ns/m.04l69g> .
+@prefix ns41:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Chad_national_football_team	owl:sameAs	ns41:Csádi_labdarúgó-válogatott .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Chad_national_football_team	rdfs:label	"\u4E4D\u5F97\u570B\u5BB6\u8DB3\u7403\u968A"@zh ,
+		"Chad national football team" ,
+		"Tschadische Fu\u00DFballnationalmannschaft"@de ,
+		"Nazionale di calcio del Ciad"@it ,
+		"Selecci\u00F3n de f\u00FAtbol de Chad"@es ,
+		"Reprezentacja Czadu w pi\u0142ce no\u017Cnej"@pl ,
+		"\u00C9quipe du Tchad de football"@fr ,
+		"Sele\u00E7\u00E3o Chadiana de Futebol"@pt ,
+		"Tsjadisch voetbalelftal"@nl ,
+		"\u0645\u0646\u062A\u062E\u0628 \u062A\u0634\u0627\u062F \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0427\u0430\u0434\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"\u30B5\u30C3\u30AB\u30FC\u30C1\u30E3\u30C9\u4EE3\u8868"@ja .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Chad_national_football_team	dcterms:subject	category:African_national_association_football_teams ,
+		category:Chad_national_football_team ,
+		category:National_sports_teams_of_Chad ;
+	foaf:name	"Chad" ;
+	foaf:nick	"Les Sao" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Chad_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Chad_national_football_team?oldid=598969545> ;
+	rdfs:comment	"Het Tsjadisch voetbalelftal is een team van voetballers dat Tsjaad vertegenwoordigt bij internationale wedstrijden zoals de CEMAC Cup en de kwalificatiewedstrijden voor het WK en de Afrika Cup.De F\u00E9d\u00E9ration Tchadienne de Football werd in 1962 opgericht en is aangesloten de CAF en de FIFA (sinds 1964). Het Tsjadisch voetbalelftal behaalde in maart 2012 met de 112e plaats de hoogste positie op de FIFA-wereldranglijst, in juli 2006 werd met de 190e plaats de laagste positie bereikt."@nl ,
+		"\u30B5\u30C3\u30AB\u30FC\u30C1\u30E3\u30C9\u4EE3\u8868\uFF08\u00C9quipe du Tchad de football\uFF09\u306F\u3001\u30C1\u30E3\u30C9\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30C1\u30E3\u30C9\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002FIFA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u3001\u30A2\u30D5\u30EA\u30AB\u30CD\u30A4\u30B7\u30E7\u30F3\u30BA\u30AB\u30C3\u30D7\u3068\u3082\u306B\u672C\u5927\u4F1A\u51FA\u5834\u306F\u306A\u3044\u30022008\u5E743\u6708\u3001FIFA\u304B\u3089\u30C1\u30E3\u30C9\u653F\u5E9C\u306E\u30C1\u30E3\u30C9\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u3078\u306E\u4ECB\u5165\u3092\u7406\u7531\u306B\u3001\u30C1\u30E3\u30C9\u306B\u5BFE\u3057\u3066\u56FD\u969B\u5927\u4F1A\u53C2\u52A0\u306E\u7981\u6B62\u51E6\u5206\u3092\u79D1\u3055\u308C\u305F\uFF08\u540C\u5E745\u6708\u89E3\u9664\uFF09\u3002"@ja ,
+		"The Chad national football team, nicknamed Sao, represents Chad in international football. The team is controlled by the F\u00E9d\u00E9ration Tchadienne de Football, the governing body for football in the country, and has been managed by Modou Kouta. The team has never qualified for the World Cup finals or Africa Cup of Nations. Home matches are played at the Idriss Mahamat Ouya Stadium, capacity 30,000." ,
+		"\u67E5\u5FB7\u8DB3\u7403\u4EE3\u8868\u968A\u662F\u67E5\u5FB7\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u67E5\u5FB7\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u975E\u6D32\u8DB3\u5354\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u4E4D\u5FB7\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4EFB\u4F55\u570B\u969B\u5927\u8CFD\u7684\u6C7A\u8CFD\u9031\uFF0C\u7121\u8AD6\u5728\u4E16\u754C\u76C3\u53CA\u975E\u6D32\u570B\u5BB6\u76C3\u5916\u570D\u8CFD\u968E\u6BB5\u5F9E\u672A\u53D6\u5F97\u904E\u51FA\u7DDA\u8CC7\u683C\u3002"@zh ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0427\u0430\u0434\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 - \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u0427\u0430\u0434 \u043D\u0430 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0430\u0445 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u0421\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u043E\u0439 \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u0441\u043B\u0430\u0431\u044B\u0445 \u0432 \u043C\u0438\u0440\u0435."@ru ,
+		"\u0645\u0646\u062A\u062E\u0628 \u062A\u0634\u0627\u062F \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0644\u0642\u0628 \u0628\u0633\u0627\u0648 \u0648\u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0641\u064A \u062A\u0634\u0627\u062F \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u062A\u0634\u0627\u062F \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u0639\u0636\u0648 \u0641\u064A \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0623\u0641\u0631\u064A\u0642\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0648\u064A\u0639\u062A\u0628\u0631 \u0623\u062D\u062F \u0623\u0636\u0639\u0641 \u0645\u0646\u062A\u062E\u0628\u0627\u062A \u0627\u0644\u0642\u0627\u0631\u0629 ."@ar ,
+		"La Selecci\u00F3n de f\u00FAtbol de Chad es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la F\u00E9d\u00E9ration Tchadienne de Football, perteneciente a la CAF desde 1962 y a la FIFA desde 1964."@es ,
+		"Die tschadische Fu\u00DFballnationalmannschaft, auch Sao genannt, ist die offizielle Fu\u00DFball-Auswahl Tschads und unterliegt der F\u00E9d\u00E9ration Tchadienne de Football Association."@de ,
+		"Reprezentacja Czadu w pi\u0142ce no\u017Cnej \u2013 kadra Czadu w pi\u0142ce no\u017Cnej m\u0119\u017Cczyzn. Powsta\u0142a w 1962 i jest kontrolowana przez Czadyjsk\u0105 Federacj\u0119 Pi\u0142ki No\u017Cnej (F\u00E9d\u00E9ration Tchadienne de Football). Cz\u0142onkiem CAF i FIFA zosta\u0142a w 1988. Jest jedn\u0105 z najs\u0142abszych dru\u017Cyn kontynentu afryka\u0144skiego. Nigdy nie awansowa\u0142a do fina\u0142\u00F3w Mistrzostw \u015Awiata ani Pucharu Narod\u00F3w Afryki. Trenerem reprezentacji jest Yann Djim. Przydomek reprezentacji Czadu to \"Sao\".Reprezentacja Czadu zajmuje obecnie (18."@pl ,
+		"L'\u00E9quipe du Tchad de football rassemble les meilleurs joueurs tchadiens de football. Elle repr\u00E9sente la F\u00E9d\u00E9ration tchadienne de football lors des rencontres internationales. C'est une \u00E9quipe qui monte en puissance d'ann\u00E9es en ann\u00E9es et qui pourrait devenir une \u00E9quipe avec un niveau respectable en Afrique."@fr ,
+		"La nazionale di calcio del Ciad \u00E8 la rappresentativa calcistica nazionale dell'omonima nazione africana ed \u00E8 posta sotto l'egida della F\u00E9d\u00E9ration Tchadienne de Football. Il Ciad \u00E8 uno dei membri pi\u00F9 deboli della confederazione africana e non ha mai preso parte n\u00E9 alla fase finale dei Mondiali di calcio n\u00E9 alla Coppa d'Africa."@it ,
+		"A Sele\u00E7\u00E3o Chadiana de Futebol representa o Chade nas competi\u00E7\u00F5es de futebol da FIFA. Nunca disputou Copas do Mundo nem edi\u00E7\u00F5es da Copa Africana de Na\u00E7\u00F5es em sua hist\u00F3ria.Realizou sua primeira partida oficial em 1961, contra o N\u00EDger; ambos empataram em 2 a 2. A maior vit\u00F3ria veio em 2002, com um placar de 5 a 0 frente a S\u00E3o Tom\u00E9 e Pr\u00EDncipe. J\u00E1 sua maior derrota aconteceu tamb\u00E9m em 1961, quando sofreu 14 gols da Sele\u00E7\u00E3o Francesa de Amadores."@pt ;
+	foaf:isPrimaryTopicOf	ns17:Chad_national_football_team ;
+	dbpprop:captain	dbpedia:Marius_Mbaiam .
+@prefix ns46:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Chad_national_football_team	dbpprop:hasPhotoCollection	ns46:Chad_national_football_team ;
+	dbpprop:name	"Chad" ;
+	dbpedia-owl:abstract	"La Selecci\u00F3n de f\u00FAtbol de Chad es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la F\u00E9d\u00E9ration Tchadienne de Football, perteneciente a la CAF desde 1962 y a la FIFA desde 1964."@es ,
+		"L'\u00E9quipe du Tchad de football rassemble les meilleurs joueurs tchadiens de football. Elle repr\u00E9sente la F\u00E9d\u00E9ration tchadienne de football lors des rencontres internationales. C'est une \u00E9quipe qui monte en puissance d'ann\u00E9es en ann\u00E9es et qui pourrait devenir une \u00E9quipe avec un niveau respectable en Afrique."@fr ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0427\u0430\u0434\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 - \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u0427\u0430\u0434 \u043D\u0430 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u043C\u0430\u0442\u0447\u0430\u0445 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u0421\u0447\u0438\u0442\u0430\u0435\u0442\u0441\u044F \u043E\u0434\u043D\u043E\u0439 \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u0441\u043B\u0430\u0431\u044B\u0445 \u0432 \u043C\u0438\u0440\u0435."@ru ,
+		"A Sele\u00E7\u00E3o Chadiana de Futebol representa o Chade nas competi\u00E7\u00F5es de futebol da FIFA. Nunca disputou Copas do Mundo nem edi\u00E7\u00F5es da Copa Africana de Na\u00E7\u00F5es em sua hist\u00F3ria.Realizou sua primeira partida oficial em 1961, contra o N\u00EDger; ambos empataram em 2 a 2. A maior vit\u00F3ria veio em 2002, com um placar de 5 a 0 frente a S\u00E3o Tom\u00E9 e Pr\u00EDncipe. J\u00E1 sua maior derrota aconteceu tamb\u00E9m em 1961, quando sofreu 14 gols da Sele\u00E7\u00E3o Francesa de Amadores."@pt ,
+		"La nazionale di calcio del Ciad \u00E8 la rappresentativa calcistica nazionale dell'omonima nazione africana ed \u00E8 posta sotto l'egida della F\u00E9d\u00E9ration Tchadienne de Football. Il Ciad \u00E8 uno dei membri pi\u00F9 deboli della confederazione africana e non ha mai preso parte n\u00E9 alla fase finale dei Mondiali di calcio n\u00E9 alla Coppa d'Africa. In passato il Ciad ha prodotto discreti giocatori capaci di meritatarsi un ingaggio da parte di alcuni club francesi di prima fascia, i pi\u00F9 celebri sono stati Japhet N'Doram e Nabatingue Toko.Attualmente occupa la 149\u00AA posizione nel Ranking mondiale FIFA a pari merito col Burundi.Il capitano \u00E8 il portiere Armel Koulara"@it ,
+		"\u0645\u0646\u062A\u062E\u0628 \u062A\u0634\u0627\u062F \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0644\u0642\u0628 \u0628\u0633\u0627\u0648 \u0648\u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0641\u064A \u062A\u0634\u0627\u062F \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u062A\u0634\u0627\u062F \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u0639\u0636\u0648 \u0641\u064A \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0623\u0641\u0631\u064A\u0642\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0648\u064A\u0639\u062A\u0628\u0631 \u0623\u062D\u062F \u0623\u0636\u0639\u0641 \u0645\u0646\u062A\u062E\u0628\u0627\u062A \u0627\u0644\u0642\u0627\u0631\u0629 ."@ar ,
+		"Reprezentacja Czadu w pi\u0142ce no\u017Cnej \u2013 kadra Czadu w pi\u0142ce no\u017Cnej m\u0119\u017Cczyzn. Powsta\u0142a w 1962 i jest kontrolowana przez Czadyjsk\u0105 Federacj\u0119 Pi\u0142ki No\u017Cnej (F\u00E9d\u00E9ration Tchadienne de Football). Cz\u0142onkiem CAF i FIFA zosta\u0142a w 1988. Jest jedn\u0105 z najs\u0142abszych dru\u017Cyn kontynentu afryka\u0144skiego. Nigdy nie awansowa\u0142a do fina\u0142\u00F3w Mistrzostw \u015Awiata ani Pucharu Narod\u00F3w Afryki. Trenerem reprezentacji jest Yann Djim. Przydomek reprezentacji Czadu to \"Sao\".Reprezentacja Czadu zajmuje obecnie (18. maja 2011) 41.miejsce w afryce."@pl ,
+		"The Chad national football team, nicknamed Sao, represents Chad in international football. The team is controlled by the F\u00E9d\u00E9ration Tchadienne de Football, the governing body for football in the country, and has been managed by Modou Kouta. The team has never qualified for the World Cup finals or Africa Cup of Nations. Home matches are played at the Idriss Mahamat Ouya Stadium, capacity 30,000." ,
+		"Het Tsjadisch voetbalelftal is een team van voetballers dat Tsjaad vertegenwoordigt bij internationale wedstrijden zoals de CEMAC Cup en de kwalificatiewedstrijden voor het WK en de Afrika Cup.De F\u00E9d\u00E9ration Tchadienne de Football werd in 1962 opgericht en is aangesloten de CAF en de FIFA (sinds 1964). Het Tsjadisch voetbalelftal behaalde in maart 2012 met de 112e plaats de hoogste positie op de FIFA-wereldranglijst, in juli 2006 werd met de 190e plaats de laagste positie bereikt."@nl ,
+		"Die tschadische Fu\u00DFballnationalmannschaft, auch Sao genannt, ist die offizielle Fu\u00DFball-Auswahl Tschads und unterliegt der F\u00E9d\u00E9ration Tchadienne de Football Association."@de ,
+		"\u67E5\u5FB7\u8DB3\u7403\u4EE3\u8868\u968A\u662F\u67E5\u5FB7\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u67E5\u5FB7\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u975E\u6D32\u8DB3\u5354\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u4E4D\u5FB7\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4EFB\u4F55\u570B\u969B\u5927\u8CFD\u7684\u6C7A\u8CFD\u9031\uFF0C\u7121\u8AD6\u5728\u4E16\u754C\u76C3\u53CA\u975E\u6D32\u570B\u5BB6\u76C3\u5916\u570D\u8CFD\u968E\u6BB5\u5F9E\u672A\u53D6\u5F97\u904E\u51FA\u7DDA\u8CC7\u683C\u3002"@zh ,
+		"\u30B5\u30C3\u30AB\u30FC\u30C1\u30E3\u30C9\u4EE3\u8868\uFF08\u00C9quipe du Tchad de football\uFF09\u306F\u3001\u30C1\u30E3\u30C9\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30C1\u30E3\u30C9\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002FIFA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u3001\u30A2\u30D5\u30EA\u30AB\u30CD\u30A4\u30B7\u30E7\u30F3\u30BA\u30AB\u30C3\u30D7\u3068\u3082\u306B\u672C\u5927\u4F1A\u51FA\u5834\u306F\u306A\u3044\u30022008\u5E743\u6708\u3001FIFA\u304B\u3089\u30C1\u30E3\u30C9\u653F\u5E9C\u306E\u30C1\u30E3\u30C9\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u3078\u306E\u4ECB\u5165\u3092\u7406\u7531\u306B\u3001\u30C1\u30E3\u30C9\u306B\u5BFE\u3057\u3066\u56FD\u969B\u5927\u4F1A\u53C2\u52A0\u306E\u7981\u6B62\u51E6\u5206\u3092\u79D1\u3055\u308C\u305F\uFF08\u540C\u5E745\u6708\u89E3\u9664\uFF09\u3002"@ja ;
+	dbpedia-owl:wikiPageID	1238889 ;
+	dbpedia-owl:wikiPageRevisionID	598969545 ;
+	dbpprop:asstManager	"Emmanuel Boukar" ,
+		"Toukam Julien" ;
+	dbpprop:coach	"Modou Kouta" ;
+	dbpprop:association	<http://dbpedia.org/resource/F%C3%A9d%C3%A9ration_Tchadienne_de_Football> ;
+	dbpprop:badgeSize	200 ;
+	dbpprop:body	"FFFF00" ,
+		"FF0000" ,
+		5 ,
+		0 ,
+		1 ;
+	dbpprop:confederation	"CAF" ;
+	dbpprop:fifaRank	1582 ;
+	dbpprop:fifaTrigramme	"CHA" ;
+	dbpprop:leftarm	"FFFF00" ,
+		5 ,
+		0 ,
+		1 ,
+		"FF0000" ;
+	dbpprop:rightarm	"FFFF00" ,
+		5 ,
+		0 ,
+		1 ,
+		"FF0000" ;
+	dbpprop:shorts	"FFFF00" ,
+		0 ,
+		"FFFF33" ,
+		"FF0000" ;
+	dbpprop:socks	"FFFF00" ,
+		0 ,
+		"FFFF33" ,
+		"FF0000" ;
+	dbpprop:title	"'11-'12 Home" ,
+		2008 ,
+		2009 ,
+		2010 ,
+		2011 ,
+		2007 ,
+		1991 ;
+	dbpprop:badge	"Chad FA.png" ;
+	dbpprop:firstGame	2 ;
+	dbpprop:largestLoss	"Official" ,
+		11 ,
+		14 ,
+		"Unofficial" ;
+	dbpprop:largestWin	5 ;
+	dbpprop:eloMax	120 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Chad_national_football_team	dbpprop:eloMaxDate	"1990-04-28+02:00"^^xsd:date ;
+	dbpprop:eloMin	150 ;
+	dbpprop:eloMinDate	"1999-11-08+02:00"^^xsd:date ;
+	dbpprop:eloRank	145 ;
+	dbpprop:fifaMax	112 ;
+	dbpprop:fifaMaxDate	"March 2012, June 2012" ;
+	dbpprop:fifaMin	190 ;
+	dbpprop:fifaMinDate	"June 1997" ;
+	dbpprop:subConfederation	<http://dbpedia.org/resource/Central_African_Football_Federations\u0027_Union> ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.ftfaonline.com/> ,
+		<http://tchadsport.centerblog.net/> ,
+		<http://www.africansoccerunion.com/content/view/491/100/lang,english/> ;
+	dbpprop:homeStadium	dbpedia:Stade_Omnisports_Idriss_Mahamat_Ouya ;
+	dbpedia-owl:stadium	dbpedia:Stade_Omnisports_Idriss_Mahamat_Ouya ;
+	dbpprop:nickname	"Les Sao" .
+dbpedia:Marius_Mbaiam	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+<http://dbpedia.org/resource/Japhet_N\u0027Doram>	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Nabatingue_Toko	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Mahamat_Hissein	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Ndakom_Valerie_Ndeidoum	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Misdongarde_Betolngar	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Francis_Oumar_Belonga	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Armel_Koulara	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Morgan_Betorangal	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+<http://dbpedia.org/resource/Armand_Dj%C3%A9rab%C3%A9>	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Marco_Mourmada	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Ezechiel_Ndouasel	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Mamadou_Bouba	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Sitamadji_Allarassem	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Armel_Koulara__4	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Esaie_Djikoloum__2	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Karl_Max_Barthelemy__6	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Jules_Hamidou__3	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Mahamat_Labbo__2	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Azrack_Mahamat__9	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+<http://dbpedia.org/resource/Constant_Madtoingu%C3%A9__1>	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Morgan_Betorangal__4	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+<http://dbpedia.org/resource/Armand_Dj%C3%A9rab%C3%A9__7>	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+<http://dbpedia.org/resource/K%C3%A9vin_Nicaise__5>	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Ezechiel_Ndouasel__7	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Jean-Paul_Akono__4	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Nassama_Asselme__3	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Francis_Oumar_Belonga__8	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Abbas_Maigue__1	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+<http://dbpedia.org/resource/Japhet_N\u0027Doram__4>	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Cesar_Madalangue__1	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Mahamat_Hissein__10	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Mamadou_Bouba__1	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Hassan_Hissein__3	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Marius_Mbaiam__8	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Misdongarde_Betolngar__8	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Ndakom_Valerie_Ndeidoum__5	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Marco_Mourmada__3	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Sitamadji_Allarassem__4	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Yaya_Kerim__2	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+dbpedia:Ahmat_Brahim	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Leger_Djime__1	dbpedia-owl:team	dbpedia:Chad_national_football_team .
+ns34:منتخب_تشاد_لكرة_القدم	owl:sameAs	dbpedia:Chad_national_football_team .
+ns30:Tchads_fodboldlandshold	owl:sameAs	dbpedia:Chad_national_football_team .
+ns27:تیم_ملی_فوتبال_چاد	owl:sameAs	dbpedia:Chad_national_football_team .
+ns29:Tšadin_jalkapallomaajoukkue	owl:sameAs	dbpedia:Chad_national_football_team .
+<http://he.dbpedia.org/resource/\u05E0\u05D1\u05D7\u05E8\u05EA_\u05E6\u0027\u05D0\u05D3_\u05D1\u05DB\u05D3\u05D5\u05E8\u05D2\u05DC>	owl:sameAs	dbpedia:Chad_national_football_team .
+ns23:Chad_national_football_team	owl:sameAs	dbpedia:Chad_national_football_team .
+ns41:Csádi_labdarúgó-válogatott	owl:sameAs	dbpedia:Chad_national_football_team .
+ns26:Čado_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Chad_national_football_team .
+ns31:Čadas_futbola_izlase	owl:sameAs	dbpedia:Chad_national_football_team .
+ns25:चाड_फुटबॉल_संघ	owl:sameAs	dbpedia:Chad_national_football_team .
+ns39:Echipa_națională_de_fotbal_a_Ciadului	owl:sameAs	dbpedia:Chad_national_football_team .
+ns24:Сборная_Чада_по_футболу	owl:sameAs	dbpedia:Chad_national_football_team .
+ns36:Chad_national_football_team	owl:sameAs	dbpedia:Chad_national_football_team .
+ns38:Čadské_národné_futbalové_mužstvo	owl:sameAs	dbpedia:Chad_national_football_team .
+ns22:Tchads_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Chad_national_football_team .
+ns32:Çad_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Chad_national_football_team .
+ns40:Збірна_Чаду_з_футболу	owl:sameAs	dbpedia:Chad_national_football_team .
+ns28:Đội_tuyển_bóng_đá_quốc_gia_Tchad	owl:sameAs	dbpedia:Chad_national_football_team .
+ns37:乍得國家足球隊	owl:sameAs	dbpedia:Chad_national_football_team .
+dbpedia:Jules_Hamidou	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Azrack_Mahamat	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Leger_Djime	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Mahamat_Labbo	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Anzor_Kavazashvili	dbpedia-owl:managerClub	dbpedia:Chad_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Chad_national_football_team .
+dbpedia:Karl_Max_Barthelemy	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Abbas_Maigue	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Yaya_Kerim	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Hassan_Hissein	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+<http://dbpedia.org/resource/Constant_Madtoingu%C3%A9>	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Jean-Paul_Akono	dbpedia-owl:managerClub	dbpedia:Chad_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Chad_national_football_team .
+<http://dbpedia.org/resource/K%C3%A9vin_Nicaise>	dbpedia-owl:team	dbpedia:Chad_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Chad_national_football_team .
+dbpedia:Anzor_Kavazashvili__8	dbpedia-owl:team	dbpedia:Chad_national_football_team .

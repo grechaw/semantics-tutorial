@@ -1,0 +1,190 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Rúben_Amorim	foaf:primaryTopic	<http://dbpedia.org/resource/R%C3%BAben_Amorim> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/R%C3%BAben_Amorim>	rdf:type	yago:Contestant109613191 ,
+		foaf:Person .
+@prefix ns4:	<http://schema.org/> .
+<http://dbpedia.org/resource/R%C3%BAben_Amorim>	rdf:type	ns4:Person ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		<http://dbpedia.org/class/yago/S.C.BragaPlayers> ,
+		yago:PortugueseFootballers ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/R%C3%BAben_Amorim>	rdf:type	dbpedia-owl:Athlete ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 .
+@prefix ns6:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/R%C3%BAben_Amorim>	rdf:type	ns6:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/R%C3%BAben_Amorim>	rdf:type	owl:Thing ,
+		dbpedia-owl:SoccerPlayer ,
+		<http://dbpedia.org/class/yago/S.L.BenficaFootballers> ,
+		yago:PeopleFromLisbon ,
+		yago:PortugalYouthInternationalFootballers .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/R%C3%BAben_Amorim>	rdf:type	dul:Agent ,
+		ns6:Q5 ,
+		dul:NaturalPerson ,
+		yago:PrimeiraLigaPlayers ,
+		yago:PhysicalEntity100001930 ,
+		yago:Whole100003553 ,
+		yago:Object100002684 ,
+		dbpedia-owl:Person ,
+		dbpedia-owl:Agent ,
+		yago:Player110439851 ,
+		yago:FootballPlayer110101634 ,
+		<http://dbpedia.org/class/yago/C.F.OsBelenensesPlayers> ,
+		yago:PortugalUnder-21InternationalFootballers ,
+		yago:Athlete109820263 ,
+		yago:PortugalInternationalFootballers ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.02vr2w0> .
+@prefix ns9:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/R%C3%BAben_Amorim>	owl:sameAs	ns9:Rúben_Amorim ,
+		<http://dbpedia.org/resource/R%C3%BAben_Amorim> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/R%C3%BAben_Amorim>	rdfs:label	"R\u00FAben Amorim"@pt ,
+		"\u0410\u043C\u043E\u0440\u0438\u043C, \u0420\u0443\u0431\u0435\u043D"@ru ,
+		"Ruben Amorim"@de ,
+		"\u30EB\u30D9\u30F3\u30FB\u30A2\u30E2\u30EA\u30E0"@ja ,
+		"R\u00FAben Amorim" ,
+		"R\u00FAben Amorim"@it ,
+		"R\u00FAben Amorim"@pl ,
+		"R\u00FAben Amorim"@fr ,
+		"R\u00FAben Amorim"@nl ,
+		"\u0631\u0648\u0628\u064A\u0646 \u0623\u0645\u0648\u0631\u064A\u0645"@ar .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+<http://dbpedia.org/resource/R%C3%BAben_Amorim>	dcterms:subject	<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/R%C3%BAben_Amorim>	dcterms:subject	category:Portugal_international_footballers ,
+		category:Portugal_under-21_international_footballers ,
+		<http://dbpedia.org/resource/Category:S.L._Benfica_footballers> ,
+		category:Primeira_Liga_players ,
+		category:Portuguese_footballers ,
+		category:Portugal_youth_international_footballers ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:C.F._Os_Belenenses_players> ,
+		category:Association_football_midfielders ,
+		category:Association_football_utility_players ,
+		category:Sportspeople_from_Lisbon ,
+		<http://dbpedia.org/resource/Category:S.C._Braga_players> ,
+		<http://dbpedia.org/resource/Category:1985_births> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/R%C3%BAben_Amorim>	dc:description	"Portuguese footballer" ,
+		"Portuguese footballer" ;
+	foaf:givenName	"Ruben" ;
+	foaf:name	"Amorim, Ruben" ,
+		"Ruben Amorim" ,
+		"R\u00FAben Amorim" ,
+		"R\u00FAben Filipe Marques Amorim" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/R%C3%BAben_Amorim>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/R\u00FAben_Amorim?oldid=605786163> ;
+	rdfs:comment	"R\u00FAben Amorim (ur. 27 stycznia 1985 roku w Lizbonie) \u2013 portugalski pi\u0142karz wyst\u0119puj\u0105cy najcz\u0119\u015Bciej na pozycji defensywnego pomocnika. Obecnie gra w SC Braga."@pl ,
+		"R\u00FAben Filipe Marques Amorim (born 27 January 1985) is a Portuguese professional footballer who plays for S.L. Benfica mainly as a midfielder.His style is similar to countryman Tiago, with both playing the same position, operating in central midfield, both defensive and offensive (Amorim, however, is also able to play as a right back)." ,
+		"\u30EB\u30D9\u30F3\u30FB\u30D5\u30A3\u30EA\u30DA\u30FB\u30DE\u30EB\u30B1\u30B9\u30FB\u30A2\u30E2\u30EA\u30E0\uFF08Ruben Filipe Marques Amorim, 1985\u5E741\u670827\u65E5 - \uFF09\u306F\u3001\u30DD\u30EB\u30C8\u30AC\u30EB\u30FB\u30EA\u30B9\u30DC\u30F3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002SC\u30D6\u30E9\u30AC\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\u3002\u540C\u80DE\u306E\u30C6\u30A3\u30A2\u30B4\u30FB\u30E1\u30F3\u30C7\u30B9\u306E\u3088\u3046\u306B\u30BB\u30F3\u30C8\u30E9\u30EBMF\u3068\u3057\u3066\u5B88\u5099\u7684\u306B\u3082\u653B\u6483\u7684\u306B\u3082\u4E21\u65B9\u30D7\u30EC\u30FC\u304C\u51FA\u6765\u3001\u30A2\u30E2\u30EA\u30E0\u306F\u3055\u3089\u306B\u53F3SH\u3084\u53F3SB\u3068\u3057\u3066\u3082\u30D7\u30EC\u30FC\u3059\u308B\u3002"@ja ,
+		"\u0631\u0648\u0628\u064A\u0646 \u0641\u064A\u0644\u064A\u0628\u064A \u0645\u0627\u0631\u0643\u064A\u0632 \u0623\u0645\u0648\u0631\u064A\u0645 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Ruben Filipe Marques Amorim) (\u0645\u0648\u0627\u0644\u064A\u062F 27 \u064A\u0646\u0627\u064A\u0631 1985 \u0641\u064A \u0644\u0634\u0628\u0648\u0646\u0629) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0628\u0631\u062A\u063A\u0627\u0644\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0628\u0646\u0641\u064A\u0643\u0627 \u0627\u0644\u0628\u0631\u062A\u063A\u0627\u0644\u064A ."@ar ,
+		"R\u00FAben Filipe Marques Amorim (Lisboa, 27 de Janeiro de 1985) \u00E9 um futebolista portugu\u00EAs, que joga actualmente no Sport Lisboa e Benfica.Come\u00E7ou a sua forma\u00E7\u00E3o no Benfica tendo sido dispensado. O Sporting Clube de Portugal contratou-o onde uma vez mais acabou por ser dispensado. Teve ainda uma passagem pelo C.A.C."@pt ,
+		"R\u00FAben Filipe Marques Amorim (Lisbona, 27 gennaio 1985) \u00E8 un calciatore portoghese, centrocampista del Benfica e della Nazionale portoghese."@it ,
+		"R\u00FAben Filipe Marques Amorim est un footballeur portugais n\u00E9 le 27 janvier 1985 \u00E0 Lisbonne. Il \u00E9volue au poste de milieu de terrain."@fr ,
+		"R\u00FAben Filipe Marques Amorim (* 27. Januar 1985 in Lissabon) ist ein portugiesischer Fu\u00DFballer, der beim portugiesischen Rekordmeister Benfica Lissabon unter Vertrag steht.Amorim ist auf diversen Positionen einsetzbar. Er kann sowohl im zentralen, defensiven oder offensiven Mittelfeld spielen, als auch als Rechtsverteidiger fungieren."@de ,
+		"\u0420\u0443\u0431\u0435\u0301\u043D \u0424\u0438\u043B\u0438\u0301\u043F\u0435 \u041C\u0430\u0301\u0440\u043A\u0435\u0448 \u0410\u043C\u043E\u0440\u0438\u0301\u043C (\u043F\u043E\u0440\u0442. Ruben Filipe Marques Amorim; 27 \u044F\u043D\u0432\u0430\u0440\u044F 1985, \u041B\u0438\u0441\u0441\u0430\u0431\u043E\u043D, \u041F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u0438\u044F) \u2014 \u043F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u044C\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u0438\u0433\u0440\u0430\u044E\u0449\u0438\u0439 \u043D\u0430 \u043F\u043E\u0437\u0438\u0446\u0438\u0438 \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A\u0430 \u0432 \u00AB\u0411\u0440\u0430\u0433\u0430\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u0438\u0438."@ru ,
+		"R\u00FAben Filipe Marques Amorim (Lissabon, 27 januari 1985) is een Portugees voetballer die als centrale middenvelder speelt. Hij speelt momenteel bij SL Benfica."@nl ;
+	foaf:surname	"Amorim" ;
+	foaf:isPrimaryTopicOf	ns1:Rúben_Amorim .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix ns16:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/R%C3%BAben_Amorim>	dbpprop:hasPhotoCollection	ns16:Rúben_Amorim ;
+	dbpprop:name	"Amorim, Ruben" ,
+		"R\u00FAben Amorim" ;
+	dbpedia-owl:abstract	"\u0420\u0443\u0431\u0435\u0301\u043D \u0424\u0438\u043B\u0438\u0301\u043F\u0435 \u041C\u0430\u0301\u0440\u043A\u0435\u0448 \u0410\u043C\u043E\u0440\u0438\u0301\u043C (\u043F\u043E\u0440\u0442. Ruben Filipe Marques Amorim; 27 \u044F\u043D\u0432\u0430\u0440\u044F 1985, \u041B\u0438\u0441\u0441\u0430\u0431\u043E\u043D, \u041F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u0438\u044F) \u2014 \u043F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u044C\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0435\u0435 \u0432\u0440\u0435\u043C\u044F \u0438\u0433\u0440\u0430\u044E\u0449\u0438\u0439 \u043D\u0430 \u043F\u043E\u0437\u0438\u0446\u0438\u0438 \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A\u0430 \u0432 \u00AB\u0411\u0440\u0430\u0433\u0430\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u0438\u0438."@ru ,
+		"\u0631\u0648\u0628\u064A\u0646 \u0641\u064A\u0644\u064A\u0628\u064A \u0645\u0627\u0631\u0643\u064A\u0632 \u0623\u0645\u0648\u0631\u064A\u0645 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Ruben Filipe Marques Amorim) (\u0645\u0648\u0627\u0644\u064A\u062F 27 \u064A\u0646\u0627\u064A\u0631 1985 \u0641\u064A \u0644\u0634\u0628\u0648\u0646\u0629) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0628\u0631\u062A\u063A\u0627\u0644\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0628\u0646\u0641\u064A\u0643\u0627 \u0627\u0644\u0628\u0631\u062A\u063A\u0627\u0644\u064A ."@ar ,
+		"R\u00FAben Filipe Marques Amorim (Lisboa, 27 de Janeiro de 1985) \u00E9 um futebolista portugu\u00EAs, que joga actualmente no Sport Lisboa e Benfica.Come\u00E7ou a sua forma\u00E7\u00E3o no Benfica tendo sido dispensado. O Sporting Clube de Portugal contratou-o onde uma vez mais acabou por ser dispensado. Teve ainda uma passagem pelo C.A.C. da Pontinha e Gin\u00E1sio de Corroios de onde depois se transferiu para o Belenenses.Ap\u00F3s 5 anos em evid\u00EAncia no Belenenses onde jogava habitualmente como m\u00E9dio centro, R\u00FAben Amorim assinou um contrato de quatro anos pelo Benfica, tendo sido apresentado oficialmente a 7 de Julho de 2008.Conta com uma internacionaliza\u00E7\u00E3o por Portugal na selec\u00E7\u00E3o \"B\" e dez pelos sub-21.Foi chamado para o Campeonato do Mundo FIFA de 2010 para substituir o lesionado Nani."@pt ,
+		"R\u00FAben Amorim (ur. 27 stycznia 1985 roku w Lizbonie) \u2013 portugalski pi\u0142karz wyst\u0119puj\u0105cy najcz\u0119\u015Bciej na pozycji defensywnego pomocnika. Obecnie gra w SC Braga."@pl ,
+		"\u30EB\u30D9\u30F3\u30FB\u30D5\u30A3\u30EA\u30DA\u30FB\u30DE\u30EB\u30B1\u30B9\u30FB\u30A2\u30E2\u30EA\u30E0\uFF08Ruben Filipe Marques Amorim, 1985\u5E741\u670827\u65E5 - \uFF09\u306F\u3001\u30DD\u30EB\u30C8\u30AC\u30EB\u30FB\u30EA\u30B9\u30DC\u30F3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002SC\u30D6\u30E9\u30AC\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\u3002\u540C\u80DE\u306E\u30C6\u30A3\u30A2\u30B4\u30FB\u30E1\u30F3\u30C7\u30B9\u306E\u3088\u3046\u306B\u30BB\u30F3\u30C8\u30E9\u30EBMF\u3068\u3057\u3066\u5B88\u5099\u7684\u306B\u3082\u653B\u6483\u7684\u306B\u3082\u4E21\u65B9\u30D7\u30EC\u30FC\u304C\u51FA\u6765\u3001\u30A2\u30E2\u30EA\u30E0\u306F\u3055\u3089\u306B\u53F3SH\u3084\u53F3SB\u3068\u3057\u3066\u3082\u30D7\u30EC\u30FC\u3059\u308B\u3002"@ja ,
+		"R\u00FAben Filipe Marques Amorim (Lisbona, 27 gennaio 1985) \u00E8 un calciatore portoghese, centrocampista del Benfica e della Nazionale portoghese."@it ,
+		"R\u00FAben Filipe Marques Amorim (Lissabon, 27 januari 1985) is een Portugees voetballer die als centrale middenvelder speelt. Hij speelt momenteel bij SL Benfica."@nl ,
+		"R\u00FAben Filipe Marques Amorim est un footballeur portugais n\u00E9 le 27 janvier 1985 \u00E0 Lisbonne. Il \u00E9volue au poste de milieu de terrain."@fr ,
+		"R\u00FAben Filipe Marques Amorim (born 27 January 1985) is a Portuguese professional footballer who plays for S.L. Benfica mainly as a midfielder.His style is similar to countryman Tiago, with both playing the same position, operating in central midfield, both defensive and offensive (Amorim, however, is also able to play as a right back)." ,
+		"R\u00FAben Filipe Marques Amorim (* 27. Januar 1985 in Lissabon) ist ein portugiesischer Fu\u00DFballer, der beim portugiesischen Rekordmeister Benfica Lissabon unter Vertrag steht.Amorim ist auf diversen Positionen einsetzbar. Er kann sowohl im zentralen, defensiven oder offensiven Mittelfeld spielen, als auch als Rechtsverteidiger fungieren."@de ;
+	dbpedia-owl:wikiPageID	12138301 ;
+	dbpedia-owl:wikiPageRevisionID	605786163 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/R%C3%BAben_Amorim>	dbpprop:birthDate	"1985-01-27+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Lisbon, Portugal" ;
+	dbpprop:dateOfBirth	"1985-01-27+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Lisbon, Portugal" ;
+	dbpprop:shortDescription	"Portuguese footballer" ;
+	dbpedia-owl:birthDate	"1985-01-27+02:00"^^xsd:date .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/R%C3%BAben_Amorim>	dbpedia-owl:birthPlace	dbpedia:Lisbon ,
+		dbpedia:Portugal_national_football_team ;
+	dbpedia-owl:birthYear	"1985+02:00"^^xsd:gYear ;
+	dbpprop:goals	4 ,
+		5 ;
+	dbpprop:caps	85 ,
+		96 ,
+		30 ;
+	dbpprop:years	2003 ,
+		2008 ,
+		2012 ;
+	dbpprop:youthclubs	<http://dbpedia.org/resource/C.F._Os_Belenenses> ,
+		<http://dbpedia.org/resource/S.L._Benfica> ,
+		"CAC Pontinha" ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/R%C3%BAben_Amorim__4> ,
+		<http://dbpedia.org/resource/R%C3%BAben_Amorim__9> ,
+		<http://dbpedia.org/resource/R%C3%BAben_Amorim__1> ,
+		<http://dbpedia.org/resource/R%C3%BAben_Amorim__7> ,
+		<http://dbpedia.org/resource/R%C3%BAben_Amorim__6> ,
+		<http://dbpedia.org/resource/R%C3%BAben_Amorim__5> ,
+		<http://dbpedia.org/resource/R%C3%BAben_Amorim__3> ,
+		<http://dbpedia.org/resource/R%C3%BAben_Amorim__8> ,
+		<http://dbpedia.org/resource/R%C3%BAben_Amorim__2> ;
+	dbpprop:position	dbpedia:Midfielder ;
+	dbpedia-owl:position	dbpedia:Midfielder ;
+	dbpedia-owl:height	1.8000000000000000444 .
+@prefix ns19:	<http://dbpedia.org/datatype/> .
+@prefix ns20:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/R%C3%BAben_Amorim>	ns20:height	"180.0"^^ns19:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/S.L._Benfica> ;
+	dbpprop:clubnumber	6 ;
+	dbpprop:fullname	"R\u00FAben Filipe Marques Amorim" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/C.F._Os_Belenenses> ,
+		<http://dbpedia.org/resource/S.L._Benfica> ,
+		"\u2192 Braga" ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/C.F._Os_Belenenses> ,
+		<http://dbpedia.org/resource/S.L._Benfica> ,
+		<http://dbpedia.org/resource/S.C._Braga> ,
+		dbpedia:Portugal_national_under-21_football_team ,
+		dbpedia:Portugal_national_under-20_football_team ,
+		dbpedia:Portugal_national_football_team ;
+	dbpprop:pcupdate	"2014-03-31+02:00"^^xsd:date ;
+	dbpprop:youthyears	2002 ,
+		1998 ,
+		2000 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.footballzz.co.uk/jogador.php?id=1803&search=1> ,
+		<http://www.transfermarkt.de/en/ruben-amorim/profil/spieler_25101.html> ,
+		<http://www.foradejogo.net/player.php?player=198501270001&language=2> ;
+	dbpprop:nationalcaps	13 ,
+		10 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:Portugal_national_football_team ,
+		dbpedia:Portugal_national_under-21_football_team ,
+		dbpedia:Portugal_national_under-20_football_team ;
+	dbpprop:nationalyears	2010 ,
+		2004 ,
+		2005 ;
+	dbpedia-owl:number	6 ;
+	dbpprop:ntupdate	"2013-09-10+02:00"^^xsd:date .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/R%C3%BAben_Amorim> .
+dbpedia:Amorim	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/R%C3%BAben_Amorim> .
+dbpedia:Portugal_national_football_team	dbpprop:name	<http://dbpedia.org/resource/R%C3%BAben_Amorim> .
+<http://dbpedia.org/resource/2013%E2%80%9314_S.L._Benfica_season>	dbpprop:p	<http://dbpedia.org/resource/R%C3%BAben_Amorim> .
+dbpedia:Rúben_Amorim	owl:sameAs	<http://dbpedia.org/resource/R%C3%BAben_Amorim> .
+<http://dbpedia.org/resource/S.L._Benfica>	dbpprop:name	<http://dbpedia.org/resource/R%C3%BAben_Amorim> .
+<http://dbpedia.org/resource/S.L._Benfica__R%C3%BAben_Amorim__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/R%C3%BAben_Amorim> .
+dbpedia:Ruben_Amorim	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/R%C3%BAben_Amorim> .

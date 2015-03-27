@@ -1,0 +1,215 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Bajram_Fetai	dbpedia-owl:team	dbpedia:Denmark_League_XI_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Bajram_Fetai	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q5257944	owl:sameAs	dbpedia:Denmark_League_XI_national_football_team .
+<http://dbpedia.org/resource/Christian_Keller_(footballer)>	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+<http://dbpedia.org/resource/Rajko_Leki%C4%87>	dbpedia-owl:team	dbpedia:Denmark_League_XI_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Anders_Due	dbpedia-owl:team	dbpedia:Denmark_League_XI_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns6:	<http://schema.org/> .
+dbpedia:Denmark_League_XI_national_football_team	rdf:type	ns6:Organization ,
+		dbpedia-owl:Agent .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Denmark_League_XI_national_football_team	rdf:type	dul:SocialPerson ,
+		ns6:SportsTeam ,
+		dul:Agent ,
+		dbpedia-owl:Organisation ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		owl:Thing .
+@prefix ns8:	<http://wikidata.org/entity/> .
+dbpedia:Denmark_League_XI_national_football_team	owl:sameAs	ns8:Q5257944 ,
+		dbpedia:Denmark_League_XI_national_football_team ,
+		<http://rdf.freebase.com/ns/m.09v65vh> ,
+		ns4:Q5257944 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Denmark_League_XI_national_football_team	rdfs:label	"Denmark League XI national football team" .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Denmark_League_XI_national_football_team	dcterms:subject	category:Representative_teams_of_association_football_leagues ,
+		category:Denmark_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbpedia:Denmark_League_XI_national_football_team	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_United_Arab_Emirates.svg> ;
+	foaf:name	"Denmark League XI national football team" ;
+	foaf:nick	"Ligalandsholdet (lit. \"The league national football team\")" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Denmark_League_XI_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Denmark_League_XI_national_football_team?oldid=597536992> ;
+	rdfs:comment	"The Denmark League XI national football team is an unofficial national football team run by the Danish Football Association.The team generally consists of Danish players playing in the Danish Superliga, or other leagues if the clubs there agree to release them. It is only assembled in the start of the year, during the winter break in the Superliga.The matches of the League XI have generally not been recognised as official matches by the Danish FA, although FIFA recognised matches until 2007." .
+@prefix ns14:	<http://en.wikipedia.org/wiki/> .
+dbpedia:Denmark_League_XI_national_football_team	foaf:isPrimaryTopicOf	ns14:Denmark_League_XI_national_football_team ;
+	dbpprop:club	<http://dbpedia.org/resource/Aston_Villa_F.C.> ,
+		<http://dbpedia.org/resource/Cardiff_City_F.C.> ,
+		dbpedia:Esbjerg_fB ,
+		dbpedia:AC_Horsens ,
+		dbpedia:Lyngby_Boldklub ,
+		dbpedia:Akademisk_Boldklub ,
+		<http://dbpedia.org/resource/FC_Nordsj%C3%A6lland> ,
+		dbpedia:Odense_Boldklub ,
+		<http://dbpedia.org/resource/Br%C3%B8ndby_IF> ,
+		dbpedia:AaB_Fodbold ,
+		dbpedia:Randers_FC ,
+		dbpedia:Silkeborg_IF ,
+		dbpedia:RB_Leipzig ,
+		dbpedia:Aarhus_Gymnastikforening ,
+		<http://dbpedia.org/resource/F.C._Copenhagen> .
+@prefix ns15:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Denmark_League_XI_national_football_team	dbpprop:hasPhotoCollection	ns15:Denmark_League_XI_national_football_team ;
+	dbpprop:name	<http://dbpedia.org/resource/Jens_J%C3%B8nsson> ,
+		dbpedia:Kasper_Larsen ,
+		dbpedia:Kris_Stadsgaard ,
+		dbpedia:Nicolai_Stokholm ,
+		"Denmark League XI national football team" ,
+		dbpedia:Kasper_Lorentzen ,
+		dbpedia:Casper_Sloth ,
+		dbpedia:Steffen_Rasmussen ,
+		dbpedia:Nicolai_Brock-Madsen ,
+		dbpedia:Mark_Gundelach ,
+		dbpedia:Anders_Christiansen ,
+		dbpedia:Lars_Jacobsen ,
+		dbpedia:Nicklas_Helenius ,
+		<http://dbpedia.org/resource/Frederik_R%C3%B8nnow> ,
+		dbpedia:Kasper_Kusk ,
+		dbpedia:Jores_Okore ,
+		dbpedia:Jonas_Knudsen ,
+		dbpedia:Henrik_Dalsgaard ,
+		dbpedia:Uffe_Bech ,
+		dbpedia:Emil_Larsen ,
+		<http://dbpedia.org/resource/Daniel_A._Pedersen> ,
+		dbpedia:Jesper_Hansen ,
+		<http://dbpedia.org/resource/David_Jensen_(footballer)> ,
+		dbpedia:Yussuf_Poulsen ,
+		dbpedia:Mikkel_Kirkeskov ,
+		dbpedia:Bashkim_Kadrii ,
+		<http://dbpedia.org/resource/Daniel_H%C3%B8egh> ,
+		<http://dbpedia.org/resource/Nicolai_J%C3%B8rgensen> ,
+		dbpedia:Dennis_Rommedahl ,
+		dbpedia:Andreas_Cornelius ,
+		dbpedia:Mathias_Gehrt ,
+		dbpedia:Michael_Silberbauer ,
+		dbpedia:Bassel_Jradi ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_United_Arab_Emirates.svg?width=300> ;
+	dbpedia-owl:abstract	"The Denmark League XI national football team is an unofficial national football team run by the Danish Football Association.The team generally consists of Danish players playing in the Danish Superliga, or other leagues if the clubs there agree to release them. It is only assembled in the start of the year, during the winter break in the Superliga.The matches of the League XI have generally not been recognised as official matches by the Danish FA, although FIFA recognised matches until 2007." ;
+	dbpedia-owl:wikiPageID	25839582 ;
+	dbpedia-owl:wikiPageRevisionID	597536992 ;
+	dbpprop:clubnat	"WAL" ,
+		"GER" ,
+		"ENG" ,
+		"DEN" ;
+	dbpprop:goals	0 ,
+		1 ,
+		4 ;
+	dbpprop:caps	8 ,
+		0 ,
+		1 ,
+		2 ,
+		3 ,
+		7 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Denmark_League_XI_national_football_team	dbpprop:age	"1993-01-10+02:00"^^xsd:date ,
+		"1992-07-27+02:00"^^xsd:date ,
+		"1992-08-04+02:00"^^xsd:date ,
+		"1992-01-07+02:00"^^xsd:date ,
+		"1991-05-08+02:00"^^xsd:date ,
+		"1991-06-22+02:00"^^xsd:date ,
+		"1993-03-16+02:00"^^xsd:date ,
+		"1993-07-06+02:00"^^xsd:date ,
+		"1991-11-10+02:00"^^xsd:date ,
+		"1976-04-01+02:00"^^xsd:date ,
+		"1985-09-30+02:00"^^xsd:date ,
+		"1991-01-15+02:00"^^xsd:date ,
+		"1992-03-26+02:00"^^xsd:date ,
+		"1990-06-08+02:00"^^xsd:date ,
+		"1991-01-06+02:00"^^xsd:date ,
+		"1989-07-27+02:00"^^xsd:date ,
+		"1992-08-11+02:00"^^xsd:date ,
+		"1985-11-19+02:00"^^xsd:date ,
+		"1979-09-20+02:00"^^xsd:date ,
+		"1993-01-09+02:00"^^xsd:date ,
+		"1992-09-16+02:00"^^xsd:date ,
+		"1992-06-07+02:00"^^xsd:date ,
+		"1981-07-07+02:00"^^xsd:date ,
+		"1993-01-25+02:00"^^xsd:date ,
+		"1978-07-22+02:00"^^xsd:date ,
+		"1994-06-15+02:00"^^xsd:date ,
+		"1993-01-13+02:00"^^xsd:date ,
+		"1985-08-01+02:00"^^xsd:date ,
+		"1991-07-09+02:00"^^xsd:date ,
+		"1982-09-30+02:00"^^xsd:date ,
+		"1992-03-25+02:00"^^xsd:date ,
+		"1991-09-05+02:00"^^xsd:date ;
+	dbpprop:asstManager	dbpedia:Torben_Storm ,
+		dbpedia:Peter_Bonde ;
+	dbpprop:coach	dbpedia:Morten_Olsen ;
+	dbpprop:patternSh	"_adidasonwhite" ,
+		"_adidaswhite" ;
+	dbpedia-owl:coach	dbpedia:Morten_Olsen ;
+	dbpprop:patternSo	"_3_stripes_white" ,
+		"_3_stripes_red" ;
+	dbpprop:association	dbpedia:Danish_Football_Association ;
+	dbpprop:badgeSize	100 ;
+	dbpprop:body	"FF0000" ;
+	dbpprop:leftarm	"FF0000" ;
+	dbpprop:patternB	"_den09a" .
+@prefix ns17:	<http://dbpedia.org/datatype/> .
+dbpedia:Denmark_League_XI_national_football_team	dbpprop:patternB	"36000.0"^^ns17:second ;
+	dbpprop:patternLa	"36000.0"^^ns17:second ,
+		"_adidasstripesonwhite" ;
+	dbpprop:patternRa	"36000.0"^^ns17:second ,
+		"_adidasstripesonwhite" ;
+	dbpprop:rightarm	"FF0000" ;
+	dbpprop:shorts	"FF0000" ;
+	dbpprop:socks	"FF0000" ,
+		"FFFFFF" ;
+	dbpprop:pos	"MF" ,
+		"DF" ,
+		"FW" ,
+		"GK" ;
+	dbpprop:firstGame	"League XI 3 - 1 FC Luzern" ,
+		"Against another national team22x20px|border |alt=|link= UAE 3 - 1 League XI" ;
+	dbpprop:largestLoss	3 ,
+		"League XI 0 - 3" ;
+	dbpprop:largestWin	22 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.dbu.dk/page.aspx?id=6113> ;
+	dbpprop:nickname	"Ligalandsholdet" .
+ns14:Denmark_League_XI_national_football_team	foaf:primaryTopic	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Jimmy_Nielsen	dbpedia-owl:team	dbpedia:Denmark_League_XI_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Jerry_Lucena__6	dbpedia-owl:team	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Kenneth_Emil_Petersen	dbpedia-owl:team	dbpedia:Denmark_League_XI_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Andreas_Cornelius	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Yussuf_Poulsen	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+<http://dbpedia.org/resource/Hjalte_N%C3%B8rregaard>	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Jerry_Lucena	dbpedia-owl:team	dbpedia:Denmark_League_XI_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Niki_Zimling	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Tommy_Bechmann	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+<http://dbpedia.org/resource/S%C3%B8ren_Berg>	dbpedia-owl:team	dbpedia:Denmark_League_XI_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+<http://dbpedia.org/resource/Rajko_Leki%C4%87__15>	dbpedia-owl:team	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Jimmy_Nielsen__9	dbpedia-owl:team	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Kasper_Kusk__6	dbpedia-owl:team	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Bajram_Fetai__10	dbpedia-owl:team	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Anders_Due__6	dbpedia-owl:team	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Denmark_League_XI	dbpedia-owl:wikiPageRedirects	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Mikkel_Kirkeskov	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Henrik_Dalsgaard__4	dbpedia-owl:team	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Kenneth_Emil_Petersen__6	dbpedia-owl:team	dbpedia:Denmark_League_XI_national_football_team .
+<http://dbpedia.org/resource/S%C3%B8ren_Berg__6>	dbpedia-owl:team	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Casper_Sloth	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Danny_Olsen	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Steffen_Rasmussen	dbpedia-owl:team	dbpedia:Denmark_League_XI_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Henrik_Dalsgaard	dbpedia-owl:team	dbpedia:Denmark_League_XI_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+<http://dbpedia.org/resource/Rasmus_W%C3%BCrtz>	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Kasper_Kusk	dbpedia-owl:team	dbpedia:Denmark_League_XI_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+<http://dbpedia.org/resource/Lasse_Nielsen_(footballer_born_1988)>	dbpprop:nationalteam	dbpedia:Denmark_League_XI_national_football_team .
+dbpedia:Steffen_Rasmussen__3	dbpedia-owl:team	dbpedia:Denmark_League_XI_national_football_team .

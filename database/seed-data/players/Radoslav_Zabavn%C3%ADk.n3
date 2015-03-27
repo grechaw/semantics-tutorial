@@ -1,0 +1,241 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Radoslav_Zabavník	foaf:primaryTopic	<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk>	rdf:type	<http://dbpedia.org/class/yago/PeopleFromKo%C5%A1ice> ,
+		<http://dbpedia.org/class/yago/Fu%C3%9Fball-BundesligaPlayers> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk>	rdf:type	dbpedia-owl:Athlete .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk>	rdf:type	yago:Player110439851 ,
+		yago:SlovakFirstLeaguePlayers ,
+		yago:FootballPlayer110101634 ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Athlete109820263 ,
+		yago:Absentee109757653 ,
+		yago:SlovakExpatriatesInGermany ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk>	rdf:type	dul:Agent .
+@prefix ns6:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk>	rdf:type	ns6:Q5 ,
+		yago:FCTerekGroznyPlayers ,
+		dbpedia-owl:Person ,
+		dbpedia-owl:Agent ,
+		yago:ExpatriateFootballersInTheCzechRepublic ,
+		dul:NaturalPerson .
+@prefix ns7:	<http://schema.org/> .
+<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk>	rdf:type	ns7:Person ,
+		yago:RussianPremierLeaguePlayers ,
+		yago:ExpatriateFootballersInRussia ,
+		yago:GambrinusLigaPlayers ,
+		yago:PFCCSKASofiaPlayers ,
+		yago:ExpatriateFootballersInGermany ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:SlovakExpatriatesInTheCzechRepublic .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk>	rdf:type	owl:Thing ,
+		ns6:Q215627 ,
+		yago:ACSpartaPraguePlayers .
+@prefix ns9:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk>	rdf:type	ns9:SoccerPlayer ,
+		yago:ExpatriateFootballersInBulgaria ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:PhysicalEntity100001930 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:BulgarianAProfessionalFootballGroupPlayers ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:Object100002684 ,
+		yago:Whole100003553 ,
+		yago:Contestant109613191 ,
+		yago:SlovakFootballers ,
+		yago:SlovakiaInternationalFootballers ,
+		yago:SlovakExpatriateFootballers ,
+		yago:SlovakExpatriatesInRussia ,
+		<http://dbpedia.org/class/yago/M%C5%A0K%C5%BDilinaPlayers> ,
+		<http://dbpedia.org/class/yago/1.FSVMainz05Players> ,
+		foaf:Person ,
+		<http://dbpedia.org/class/yago/MFKKo%C5%A1icePlayers> .
+@prefix ns10:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk>	owl:sameAs	ns10:Radoslav_Zabavník ,
+		<http://rdf.freebase.com/ns/m.02rf101> ,
+		<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk>	rdfs:label	"\u62C9\u5EA6\u65AF\u62C9\u592B\u00B7\u85A9\u5DF4\u5C3C\u514B"@zh ,
+		"Radoslav Zabavn\u00EDk" ,
+		"\u0631\u0627\u062F\u0648\u0633\u0644\u0627\u0641 \u0632\u0627\u0628\u0627\u0641\u0646\u064A\u0643"@ar ,
+		"Radoslav Zabavn\u00EDk"@es ,
+		"\u0417\u0430\u0431\u0430\u0432\u043D\u0438\u043A, \u0420\u0430\u0434\u043E\u0441\u043B\u0430\u0432"@ru ,
+		"Radoslav Zabavn\u00EDk"@de ,
+		"Radoslav Zabavn\u00EDk"@it ,
+		"Radoslav Zabavn\u00EDk"@nl ,
+		"Radoslav Zabavn\u00EDk"@pl ,
+		"Radoslav Zabavn\u00EDk"@pt ,
+		"Radoslav Zabavn\u00EDk"@fr .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk>	dcterms:subject	category:SV_Sandhausen_players ,
+		category:AC_Sparta_Prague_players ,
+		category:FC_Terek_Grozny_players ,
+		category:Gambrinus_liga_players ,
+		<http://dbpedia.org/resource/Category:1980_births> ,
+		category:Slovak_footballers ,
+		<http://dbpedia.org/resource/Category:M%C5%A0K_%C5%BDilina_players> ,
+		category:PFC_CSKA_Sofia_players ,
+		category:Expatriate_footballers_in_Russia ,
+		category:Slovakia_international_footballers ,
+		category:Russian_Premier_League_players ,
+		category:Slovak_expatriate_footballers ,
+		category:Slovak_expatriates_in_Russia ,
+		category:Bulgarian_A_Professional_Football_Group_players ,
+		<http://dbpedia.org/resource/Category:Sportspeople_from_Ko%C5%A1ice> ,
+		category:Slovak_expatriates_in_the_Czech_Republic ,
+		<http://dbpedia.org/resource/Category:1._FSV_Mainz_05_players> ,
+		category:Expatriate_footballers_in_the_Czech_Republic ,
+		category:Expatriate_footballers_in_Germany ,
+		category:Slovak_First_League_players ,
+		category:Slovak_expatriates_in_Germany ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Expatriate_footballers_in_Bulgaria ,
+		<http://dbpedia.org/resource/Category:MFK_Ko%C5%A1ice_players> ,
+		category:Bundesliga_players ,
+		category:Living_people ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Radoslav_Zabavn\u00EDk.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk>	dc:description	"Slovak footballer" ,
+		"Slovak footballer" ;
+	foaf:givenName	"Radoslav" ;
+	foaf:name	"Zabavn\u00EDk, Radoslav" ,
+		"Radoslav Zabavn\u00EDk" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Radoslav_Zabavn\u00EDk?oldid=564548076> ;
+	rdfs:comment	"Radoslav Zabavn\u00EDk (* 16. September 1980 in Ko\u0161ice) ist ein slowakischer Fu\u00DFballspieler. Aktuell steht er beim SV Sandhausen in der 2. Bundesliga unter Vertrag. Als Defensiv-Allrounder ist er vielseitig in der Abwehr einsetzbar."@de ,
+		"Radoslav Zabavn\u00EDk (Ko\u0161ice, Checoslovaquia, 16 de septiembre de 1980) es un futbolista eslovaco, se desempe\u00F1a como lateral ambidiestro y actualmente en el FSV Mainz 05 alem\u00E1n.Debut\u00F3 con la selecci\u00F3n de f\u00FAtbol de Eslovaquia en 2003, participando con su pa\u00EDs en el mayor hito de la corta carrera futbol\u00EDstica de dicho pa\u00EDs, la Copa Mundial de F\u00FAtbol de 2010."@es ,
+		"Radoslav Zabavn\u00EDk (Ko\u0161ice, 16 de setembro de 1980) \u00E9 um futebolista eslovaco, que atua na posi\u00E7\u00E3o de lateral-direito e na meia.J\u00E1 atuou no FC Terek Grozny, CSKA Sofia e AC Sparta Praha. Desde o in\u00EDcio de 2010, joga pelo Mainz 05. Participou da Copa do Mundo FIFA de 2010 pela Sele\u00E7\u00E3o Eslovaca de Futebol."@pt ,
+		"Radoslav Zabavn\u00EDk (born 16 September 1980) is a Slovak football defender who currently plays for SV Sandhausen." ,
+		"\u0420\u0430\u0434\u043E\u0441\u043B\u0430\u0432 \u0417\u0430\u0431\u0430\u0432\u043D\u0438\u043A (\u0441\u043B\u043E\u0432\u0430\u0446\u043A. Radoslav Zabavn\u00EDk, 16 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1980, \u041A\u043E\u0448\u0438\u0446\u0435, \u0427\u0435\u0445\u043E\u0441\u043B\u043E\u0432\u0430\u043A\u0438\u044F) \u2014 \u0441\u043B\u043E\u0432\u0430\u0446\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A. \u0421 2003 \u0433\u043E\u0434\u0430 \u0438\u0433\u0440\u0430\u0435\u0442 \u0432 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u043B\u043E\u0432\u0430\u043A\u0438\u0438."@ru ,
+		"Radoslav Zabavn\u00EDk est un footballeur international slovaque n\u00E9 le 16 septembre 1980 \u00E0 Ko\u0161ice en Slovaquie. Il \u00E9volue actuellement comme d\u00E9fenseur pour le SV Sandhausen en 2.Bundesliga."@fr ,
+		"Radoslav Zabavn\u00EDk (Ko\u0161ice, 16 september 1980) is een profvoetballer uit Slowakije, die sinds de zomer van 2010 als verdediger onder contract staat bij de Duitse voetbalclub 1. FSV Mainz 05. Hij is sinds 2003 een vaste waarde in het Slowaaks voetbalelftal."@nl ,
+		"Radoslav Zabavn\u00EDk (ur. 16 wrze\u015Bnia 1980 w Koszycach), pi\u0142karz s\u0142owacki graj\u0105cy na pozycji bocznego obro\u0144cy. Mierzy 180 cm wzrostu, wa\u017Cy 78 kg."@pl ,
+		"Radoslav Zabavn\u00EDk (Ko\u0161ice, 16 settembre 1980) \u00E8 un calciatore slovacco, difensore del Sandhausen."@it ,
+		"\u0631\u0627\u062F\u0648\u0633\u0644\u0627\u0641 \u0632\u0627\u0628\u0627\u0641\u0646\u064A\u0643 (\u0645\u0648\u0627\u0644\u064A\u062F 16 \u0633\u0628\u062A\u0645\u0628\u0631 1980 \u0641\u064A \u0643\u0648\u0634\u064A\u062A\u0633\u0647 - \u062A\u0634\u064A\u0643\u0648\u0633\u0644\u0648\u0641\u0627\u0643\u064A\u0627) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0633\u0644\u0648\u0641\u0627\u0643\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0645\u0627\u064A\u0646\u0632 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0645\u0646\u0630 2010 \u0641\u064A \u0645\u0631\u0643\u0632 \u0642\u0644\u0628 \u0627\u0644\u062F\u0641\u0627\u0639 \u0643\u0645\u0627 \u064A\u062C\u064A\u062F \u0627\u0644\u0644\u0639\u0628 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0638\u0647\u064A\u0631 \u0627\u0644\u0623\u064A\u0645\u0646 \u0648\u0627\u0644\u0623\u064A\u0633\u0631 \u0648\u0627\u0644\u0648\u0633\u0637 \u0627\u0644\u0645\u062F\u0627\u0641\u0639 ."@ar ,
+		"\u62C9\u5EA6\u65AF\u62C9\u592B\u00B7\u85A9\u5DF4\u5C3C\u514B\uFF08Radoslav Zabavn\u00EDk\uFF0C1980\u5E749\u670816\u65E5\uFF0D\uFF09\uFF0C\u65AF\u6D1B\u4F10\u514B\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u53F8\u8077\u5F8C\u885B\uFF0C\u73FE\u6642\u6548\u529B\u5FB7\u7532\u7403\u968A\u7DEC\u6069\u65AF\u3002"@zh ;
+	foaf:surname	"Zabavn\u00EDk" ;
+	foaf:isPrimaryTopicOf	ns1:Radoslav_Zabavník .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix ns17:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk>	dbpprop:hasPhotoCollection	ns17:Radoslav_Zabavník ;
+	dbpprop:name	"Radoslav Zabavn\u00EDk" ,
+		"Zabavn\u00EDk, Radoslav" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Radoslav_Zabavn\u00EDk.jpg?width=300> ;
+	dbpedia-owl:abstract	"Radoslav Zabavn\u00EDk (Ko\u0161ice, 16 settembre 1980) \u00E8 un calciatore slovacco, difensore del Sandhausen."@it ,
+		"\u0631\u0627\u062F\u0648\u0633\u0644\u0627\u0641 \u0632\u0627\u0628\u0627\u0641\u0646\u064A\u0643 (\u0645\u0648\u0627\u0644\u064A\u062F 16 \u0633\u0628\u062A\u0645\u0628\u0631 1980 \u0641\u064A \u0643\u0648\u0634\u064A\u062A\u0633\u0647 - \u062A\u0634\u064A\u0643\u0648\u0633\u0644\u0648\u0641\u0627\u0643\u064A\u0627) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0633\u0644\u0648\u0641\u0627\u0643\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0645\u0627\u064A\u0646\u0632 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0645\u0646\u0630 2010 \u0641\u064A \u0645\u0631\u0643\u0632 \u0642\u0644\u0628 \u0627\u0644\u062F\u0641\u0627\u0639 \u0643\u0645\u0627 \u064A\u062C\u064A\u062F \u0627\u0644\u0644\u0639\u0628 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0638\u0647\u064A\u0631 \u0627\u0644\u0623\u064A\u0645\u0646 \u0648\u0627\u0644\u0623\u064A\u0633\u0631 \u0648\u0627\u0644\u0648\u0633\u0637 \u0627\u0644\u0645\u062F\u0627\u0641\u0639 ."@ar ,
+		"Radoslav Zabavn\u00EDk (ur. 16 wrze\u015Bnia 1980 w Koszycach), pi\u0142karz s\u0142owacki graj\u0105cy na pozycji bocznego obro\u0144cy. Mierzy 180 cm wzrostu, wa\u017Cy 78 kg."@pl ,
+		"Radoslav Zabavn\u00EDk est un footballeur international slovaque n\u00E9 le 16 septembre 1980 \u00E0 Ko\u0161ice en Slovaquie. Il \u00E9volue actuellement comme d\u00E9fenseur pour le SV Sandhausen en 2.Bundesliga."@fr ,
+		"Radoslav Zabavn\u00EDk (Ko\u0161ice, 16 de setembro de 1980) \u00E9 um futebolista eslovaco, que atua na posi\u00E7\u00E3o de lateral-direito e na meia.J\u00E1 atuou no FC Terek Grozny, CSKA Sofia e AC Sparta Praha. Desde o in\u00EDcio de 2010, joga pelo Mainz 05. Participou da Copa do Mundo FIFA de 2010 pela Sele\u00E7\u00E3o Eslovaca de Futebol."@pt ,
+		"\u62C9\u5EA6\u65AF\u62C9\u592B\u00B7\u85A9\u5DF4\u5C3C\u514B\uFF08Radoslav Zabavn\u00EDk\uFF0C1980\u5E749\u670816\u65E5\uFF0D\uFF09\uFF0C\u65AF\u6D1B\u4F10\u514B\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u53F8\u8077\u5F8C\u885B\uFF0C\u73FE\u6642\u6548\u529B\u5FB7\u7532\u7403\u968A\u7DEC\u6069\u65AF\u3002"@zh ,
+		"Radoslav Zabavn\u00EDk (* 16. September 1980 in Ko\u0161ice) ist ein slowakischer Fu\u00DFballspieler. Aktuell steht er beim SV Sandhausen in der 2. Bundesliga unter Vertrag. Als Defensiv-Allrounder ist er vielseitig in der Abwehr einsetzbar."@de ,
+		"Radoslav Zabavn\u00EDk (Ko\u0161ice, Checoslovaquia, 16 de septiembre de 1980) es un futbolista eslovaco, se desempe\u00F1a como lateral ambidiestro y actualmente en el FSV Mainz 05 alem\u00E1n.Debut\u00F3 con la selecci\u00F3n de f\u00FAtbol de Eslovaquia en 2003, participando con su pa\u00EDs en el mayor hito de la corta carrera futbol\u00EDstica de dicho pa\u00EDs, la Copa Mundial de F\u00FAtbol de 2010."@es ,
+		"\u0420\u0430\u0434\u043E\u0441\u043B\u0430\u0432 \u0417\u0430\u0431\u0430\u0432\u043D\u0438\u043A (\u0441\u043B\u043E\u0432\u0430\u0446\u043A. Radoslav Zabavn\u00EDk, 16 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1980, \u041A\u043E\u0448\u0438\u0446\u0435, \u0427\u0435\u0445\u043E\u0441\u043B\u043E\u0432\u0430\u043A\u0438\u044F) \u2014 \u0441\u043B\u043E\u0432\u0430\u0446\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A. \u0421 2003 \u0433\u043E\u0434\u0430 \u0438\u0433\u0440\u0430\u0435\u0442 \u0432 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u043B\u043E\u0432\u0430\u043A\u0438\u0438."@ru ,
+		"Radoslav Zabavn\u00EDk (born 16 September 1980) is a Slovak football defender who currently plays for SV Sandhausen." ,
+		"Radoslav Zabavn\u00EDk (Ko\u0161ice, 16 september 1980) is een profvoetballer uit Slowakije, die sinds de zomer van 2010 als verdediger onder contract staat bij de Duitse voetbalclub 1. FSV Mainz 05. Hij is sinds 2003 een vaste waarde in het Slowaaks voetbalelftal."@nl ;
+	dbpedia-owl:wikiPageID	11471519 ;
+	dbpedia-owl:wikiPageRevisionID	564548076 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk>	dbpprop:birthDate	"1980-09-16+02:00"^^xsd:date .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk>	dbpprop:birthPlace	dbpedia:Czechoslovakia ,
+		<http://dbpedia.org/resource/Ko%C5%A1ice> ;
+	dbpprop:dateOfBirth	"1980-09-16+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Ko\u0161ice, Czechoslovakia" ;
+	dbpprop:shortDescription	"Slovak footballer" ;
+	dbpedia-owl:birthDate	"1980-09-16+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	<http://dbpedia.org/resource/Ko%C5%A1ice> ,
+		dbpedia:Czechoslovakia ;
+	dbpedia-owl:birthYear	"1980+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	250 ;
+	dbpprop:goals	0 ,
+		1 ,
+		7 ,
+		9 ;
+	dbpprop:caps	0 ,
+		41 ,
+		51 ,
+		62 ,
+		65 ,
+		68 ;
+	dbpprop:years	2004 ,
+		2005 ,
+		2002 ,
+		2013 ,
+		2010 ,
+		2008 ,
+		1998 ;
+	dbpprop:youthclubs	<http://dbpedia.org/resource/MFK_Ko%C5%A1ice> ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk__2> ,
+		<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk__3> ,
+		<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk__1> ,
+		<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk__6> ,
+		<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk__8> ,
+		<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk__5> ,
+		<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk__7> ,
+		<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk__9> ,
+		<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk__4> ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.8300000000000000711 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk>	ns21:height	"183.0"^^ns20:centimetre ;
+	dbpprop:currentclub	dbpedia:SV_Sandhausen ;
+	dbpprop:clubnumber	3 ;
+	dbpprop:fullname	"Radoslav Zabavn\u00EDk" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/MFK_Ko%C5%A1ice> ,
+		dbpedia:SV_Sandhausen ,
+		dbpedia:FC_Terek_Grozny ,
+		dbpedia:AC_Sparta_Prague ,
+		dbpedia:PFC_CSKA_Sofia ,
+		<http://dbpedia.org/resource/1._FSV_Mainz_05> ,
+		<http://dbpedia.org/resource/M%C5%A0K_%C5%BDilina> ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/MFK_Ko%C5%A1ice> ,
+		dbpedia:SV_Sandhausen ,
+		dbpedia:Slovakia_national_football_team ,
+		dbpedia:FC_Terek_Grozny ,
+		dbpedia:AC_Sparta_Prague ,
+		dbpedia:PFC_CSKA_Sofia ,
+		<http://dbpedia.org/resource/1._FSV_Mainz_05> ,
+		<http://dbpedia.org/resource/M%C5%A0K_%C5%BDilina> .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:pcupdate	"2013-05-17+02:00"^^xsd:date ;
+	dbpprop:youthyears	1988 ;
+	dbpedia-owl:wikiPageExternalLink	<http://fotbal.idnes.cz/db_fotbal.asp?hrac=3005368> ,
+		<http://www.rfpl.org/clubs.shtml?team=21&act=players&id=9915&year=2008> ;
+	dbpprop:nationalcaps	57 ;
+	dbpprop:nationalgoals	1 ;
+	dbpprop:nationalteam	dbpedia:Slovakia_national_football_team ;
+	dbpprop:nationalyears	2003 ;
+	dbpedia-owl:number	3 ;
+	dbpprop:ntupdate	"2012-11-15+02:00"^^xsd:date .
+<http://dbpedia.org/resource/List_of_Russian_football_transfers_winter_2009%E2%80%9310>	dbpprop:name	<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk> .
+<http://dbpedia.org/resource/2010%E2%80%9311_SC_Freiburg_season>	dbpprop:goals	<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk> .
+<http://dbpedia.org/resource/List_of_German_football_transfers_winter_2009%E2%80%9310>	dbpprop:name	<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk> .
+dbpedia:Slovakia_at_the_FIFA_World_Cup	dbpprop:name	<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk> .
+dbpedia:List_of_German_football_transfers_summer_2013	dbpprop:name	<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk> .
+<http://dbpedia.org/resource/2010_FC_Terek_Grozny_season>	dbpprop:name	<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk> .
+dbpedia:SV_Sandhausen	dbpprop:name	<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk> .
+<http://dbpedia.org/resource/2005%E2%80%9306_PFC_CSKA_Sofia_season>	dbpprop:name	<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk> .
+<http://dbpedia.org/resource/SV_Sandhausen__Radoslav_Zabavn%C3%ADk__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk> .
+dbpedia:Radoslav_Zabavník	owl:sameAs	<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk> .
+<http://dbpedia.org/resource/2005%E2%80%9306_PFC_CSKA_Sofia_season__Radoslav_Zabavnik__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk> .
+<http://dbpedia.org/resource/2010_FC_Terek_Grozny_season__Radoslav_Zabavn%C3%ADk__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk> .
+dbpedia:Radoslav_Zabavnik	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Radoslav_Zabavn%C3%ADk> .

@@ -1,0 +1,751 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xmlns:rdfs='http://www.w3.org/2000/01/rdf-schema#'
+  xml:base="http://www.daml.org/2001/12/factbook/kg">
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#KG'>
+    <NS0:background>A Central Asian country of incredible natural beauty and proud nomadic traditions, Kyrgyzstan was annexed by Russia in 1864; it achieved independence from the Soviet Union in 1991. Current concerns include: privatization of state-owned enterprises, expansion of democracy and political freedoms, inter-ethnic relations, and terrorism.</NS0:background>
+    <NS0:location>Central Asia, west of China</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A55653'/>
+    <NS0:mapReferences>Commonwealth of Independent States</NS0:mapReferences>
+    <NS0:totalArea>198500</NS0:totalArea>
+    <NS0:landArea>191300</NS0:landArea>
+    <NS0:waterArea>7200</NS0:waterArea>
+    <NS0:comparativeArea>slightly smaller than South Dakota</NS0:comparativeArea>
+    <NS0:landBoundaries>3878</NS0:landBoundaries>
+    <NS0:coastline rdf:ID='A55664'>0</NS0:coastline>
+    <NS0:climate>dry continental to polar in high Tien Shan; subtropical in southwest (Fergana Valley); temperate in northern foothill zone</NS0:climate>
+    <NS0:terrain>peaks of Tien Shan and associated valleys and basins encompass entire nation</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A55668'/>
+    <NS0:highestPoint rdf:resource='#A55673'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#abundant_hydropower;_significant_deposits_of_gold_and_rare_earth_metals;_locally_exploitable_coal'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#oil'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#and_natural_gas;_other_deposits_of_nepheline'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#mercury'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#bismuth'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#lead'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#and_zinc'/>
+    <NS0:arableLand>7</NS0:arableLand>
+    <NS0:permanentCrops>0</NS0:permanentCrops>
+    <NS0:permanentPastures>44</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>4</NS0:forestsAndWoodland>
+    <NS0:otherLandUse rdf:ID='A55689'>45</NS0:otherLandUse>
+    <NS0:irrigatedLand rdf:ID='A55692'>9000</NS0:irrigatedLand>
+    <NS0:naturalHazard>NA</NS0:naturalHazard>
+    <NS0:environmentalIssue>water pollution</NS0:environmentalIssue>
+    <NS0:environmentalIssue>many people get their water directly from contaminated streams and wells</NS0:environmentalIssue>
+    <NS0:environmentalIssue>as a result, water-borne diseases are prevalent</NS0:environmentalIssue>
+    <NS0:environmentalIssue>increasing soil salinity from faulty irrigation practices</NS0:environmentalIssue>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Air_Pollution'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Biodiversity'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Climate_Change'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Desertification'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Hazardous_Wastes'/>
+    <NS0:environmentalAgreementPartyTo rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#Ozone_Layer_Protection'/>
+    <NS0:environmentalAgreementSigned rdf:resource='http://www.daml.org/2001/12/factbook/environmentalAgreements#none_of_the_selected_agreements'/>
+    <NS0:population rdf:ID='A55707'>4753003</NS0:population>
+    <NS0:populationGrowthRate rdf:ID='A55710'>1.44</NS0:populationGrowthRate>
+    <NS0:birthRate rdf:ID='A55713'>26.18</NS0:birthRate>
+    <NS0:deathRate rdf:ID='A55716'>9.13</NS0:deathRate>
+    <NS0:netMigrationRate rdf:ID='A55719'>-2.66</NS0:netMigrationRate>
+    <NS0:sexRatio rdf:resource='#A55722'/>
+    <NS0:sexRatio rdf:resource='#A55728'/>
+    <NS0:sexRatio rdf:resource='#A55734'/>
+    <NS0:sexRatio rdf:resource='#A55740'/>
+    <NS0:sexRatio rdf:ID='A55748' rdf:resource='#A55745'/>
+    <NS0:infantMortalityRate rdf:ID='A55751'>76.5</NS0:infantMortalityRate>
+    <NS0:totalFertilityRate rdf:ID='A55754'>3.19</NS0:totalFertilityRate>
+    <NS0:nationalityNoun>Kyrgyzstani(s)</NS0:nationalityNoun>
+    <NS0:nationalityAdjective>Kyrgyzstani</NS0:nationalityAdjective>
+    <NS0:ethnicGroup rdf:resource='#A55759'/>
+    <NS0:ethnicGroup rdf:resource='#A55764'/>
+    <NS0:ethnicGroup rdf:resource='#A55769'/>
+    <NS0:ethnicGroup rdf:resource='#A55774'/>
+    <NS0:ethnicGroup rdf:resource='#A55779'/>
+    <NS0:ethnicGroup rdf:resource='#A55784'/>
+    <NS0:religion rdf:resource='#A55789'/>
+    <NS0:religion rdf:resource='#A55794'/>
+    <NS0:religion rdf:resource='#A55799'/>
+    <NS0:language rdf:ID='A55807' rdf:resource='#A55804'/>
+    <NS0:language rdf:resource='#A55809'/>
+    <NS0:literacyDefinition>age 15 and over can read and write</NS0:literacyDefinition>
+    <NS0:literacyTotal>97</NS0:literacyTotal>
+    <NS0:literacyMale>99</NS0:literacyMale>
+    <NS0:literacyFemale rdf:ID='A55816'>96</NS0:literacyFemale>
+    <NS0:conventionalLongCountryName>Kyrgyz Republic</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Kyrgyzstan</NS0:conventionalShortCountryName>
+    <NS0:localLongCountryName>Kyrgyz Respublikasy</NS0:localLongCountryName>
+    <NS0:localShortCountryName>none</NS0:localShortCountryName>
+    <NS0:formerCountryName>Kirghiz Soviet Socialist Republic</NS0:formerCountryName>
+    <NS0:governmentType rdf:resource='http://www.daml.org/2001/12/factbook/governmentTypes#republic'/>
+    <NS0:capital rdf:resource='#A55825'/>
+    <NS0:administrativeDivision rdf:resource='#A55835'/>
+    <NS0:administrativeDivision rdf:resource='#A55839'/>
+    <NS0:administrativeDivision rdf:resource='#A55843'/>
+    <NS0:administrativeDivision rdf:resource='#A55847'/>
+    <NS0:administrativeDivision rdf:resource='#A55851'/>
+    <NS0:administrativeDivision rdf:resource='#A55855'/>
+    <NS0:administrativeDivision rdf:resource='#A55859'/>
+    <NS0:administrativeDivision rdf:resource='#A55863'/>
+    <NS0:independence>31 August 1991 (from Soviet Union)</NS0:independence>
+    <NS0:constitution>adopted 5 May 1993; note - amendment proposed by President AKAYEV and passed in a national referendum on 10 February 1996 significantly expands the powers of the president at the expense of the legislature</NS0:constitution>
+    <NS0:legalSystem>based on civil law system</NS0:legalSystem>
+    <NS0:suffrage>18 years of age; universal</NS0:suffrage>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#AsDB'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CCC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CIS'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#EAPC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#EBRD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ECE'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ECO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ESCAP'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#FAO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IBRD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICAO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ICRM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IDA'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IDB'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFAD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IFRCS'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ILO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IMF'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Intelsat'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Interpol'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IOC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IOM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ISO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ITU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#NAM'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OIC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OPCW'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#OSCE'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#PFP'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UN'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNAMSIL'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNCTAD'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNESCO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNIDO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNMIK'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UPU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WFTU'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WHO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WIPO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WMO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WToO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WTrO'/>
+    <NS0:flagDescription>red field with a yellow sun in the center having 40 rays representing the 40 Kirghiz tribes; on the obverse side the rays run counterclockwise, on the reverse, clockwise; in the center of the sun is a red ring crossed by two sets of three lines, a stylized representation of the roof of the traditional Kirghiz yurt</NS0:flagDescription>
+    <NS0:economyOverview>Kyrgyzstan is a small, poor, mountainous country with a predominantly agricultural economy. Cotton, wool, and meat are the main agricultural products and exports. Industrial exports include gold, mercury, uranium, and electricity. Kyrgyzstan has been one of the most progressive countries of the former Soviet Union in carrying out market reforms. Following a successful stabilization program, which lowered inflation from 88% in 1994 to 15% for 1997, attention is turning toward stimulating growth. Much of the government&apos;s stock in enterprises has been sold. Drops in production had been severe since the breakup of the Soviet Union in December 1991, but by mid-1995 production began to recover and exports began to increase. Pensioners, unemployed workers, and government workers with salary arrears continue to suffer. Foreign assistance played a substantial role in the country&apos;s economic turnaround in 1996-97. Growth was held down to 2.1% in 1998 largely because of the spillover from Russia&apos;s economic difficulties, but moved ahead to 3.6% in 1999 and an estimated 5.7% in 2000. The government has adopted a series of measures to combat such persistent problems as excessive external debt, inflation, and inadequate revenue collection.</NS0:economyOverview>
+    <NS0:grossDomesticProduct rdf:ID='A55916'>12600000000</NS0:grossDomesticProduct>
+    <NS0:grossDomesticProductRealGrowth rdf:ID='A55919'>5.7</NS0:grossDomesticProductRealGrowth>
+    <NS0:grossDomesticProductPerCapita rdf:ID='A55922'>2700</NS0:grossDomesticProductPerCapita>
+    <NS0:grossDomesticProductAgriculture>39</NS0:grossDomesticProductAgriculture>
+    <NS0:grossDomesticProductIndustry>22</NS0:grossDomesticProductIndustry>
+    <NS0:grossDomesticProductServices rdf:ID='A55927'>39</NS0:grossDomesticProductServices>
+    <NS0:populationBelowPovertyLine rdf:ID='A55930'>51</NS0:populationBelowPovertyLine>
+    <NS0:householdIncomeLowest10Percent>2.7</NS0:householdIncomeLowest10Percent>
+    <NS0:householdIncomeHighest10Percent rdf:ID='A55934'>31.7</NS0:householdIncomeHighest10Percent>
+    <NS0:inflationRate rdf:ID='A55936'>18.7</NS0:inflationRate>
+    <NS0:laborForce>1700000</NS0:laborForce>
+    <NS0:occupation rdf:resource='#A55940'/>
+    <NS0:occupation rdf:resource='#A55945'/>
+    <NS0:occupation rdf:ID='A55954' rdf:resource='#A55950'/>
+    <NS0:unemploymentRate rdf:ID='A55957'>6</NS0:unemploymentRate>
+    <NS0:budgetRevenues>207400000</NS0:budgetRevenues>
+    <NS0:budgetExpenditures>238700000</NS0:budgetExpenditures>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#small_machinery'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#textiles'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#food_processing'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#cement'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#shoes'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#sawn_logs'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#refrigerators'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#furniture'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#electric_motors'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#gold'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#rare_earth_metals'/>
+    <NS0:industrialProductionGrowthRate rdf:ID='A55973'>7</NS0:industrialProductionGrowthRate>
+    <NS0:electricityProduction rdf:ID='A55976'>12981000000</NS0:electricityProduction>
+    <NS0:electricityProductionFossilFuel>6.67</NS0:electricityProductionFossilFuel>
+    <NS0:electricityProductionHydro>93.33</NS0:electricityProductionHydro>
+    <NS0:electricityProductionNuclear>0</NS0:electricityProductionNuclear>
+    <NS0:electricityProductionOther rdf:ID='A55981'>0</NS0:electricityProductionOther>
+    <NS0:electricityConsumption rdf:ID='A55983'>10236000000</NS0:electricityConsumption>
+    <NS0:electricityExports rdf:ID='A55985'>2020000000</NS0:electricityExports>
+    <NS0:electricityImports rdf:ID='A55987'>184000000</NS0:electricityImports>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#tobacco'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#cotton'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#potatoes'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#vegetables'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#grapes'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#fruits_and_berries'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#sheep'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#goats'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#cattle'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#wool'/>
+    <NS0:exports rdf:ID='A55999'>482000000</NS0:exports>
+    <NS0:exportsCommodity rdf:resource='#A56002'/>
+    <NS0:exportsCommodity rdf:resource='#A56006'/>
+    <NS0:exportsCommodity rdf:resource='#A56010'/>
+    <NS0:exportsCommodity rdf:resource='#A56014'/>
+    <NS0:exportsCommodity rdf:resource='#A56018'/>
+    <NS0:exportsCommodity rdf:resource='#A56022'/>
+    <NS0:exportsCommodity rdf:resource='#A56026'/>
+    <NS0:imports rdf:ID='A56030'>579000000</NS0:imports>
+    <NS0:importsCommodity rdf:resource='#A56033'/>
+    <NS0:importsCommodity rdf:resource='#A56037'/>
+    <NS0:importsCommodity rdf:resource='#A56041'/>
+    <NS0:externalDebt rdf:ID='A56045'>1400000000</NS0:externalDebt>
+    <NS0:economicAidRecipient rdf:ID='A56048'>329400000</NS0:economicAidRecipient>
+    <NS0:currency>Kyrgyzstani som (KGS)</NS0:currency>
+    <NS0:currencyCode>KGS</NS0:currencyCode>
+    <NS0:fiscalYear>calendar year</NS0:fiscalYear>
+    <NS0:mainTelephoneLines rdf:ID='A56053'>351000</NS0:mainTelephoneLines>
+    <NS0:telephoneSystemGeneralAssessment>poorly developed; about 100,000 unsatisfied applications for household telephones</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>principally microwave radio relay; one cellular provider, probably limited to Bishkek region</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>connections with other CIS countries by landline or microwave radio relay and with other countries by leased connections with Moscow international gateway switch and by satellite; satellite earth stations - 1 Intersputnik and 1 Intelsat; connected internationally by the Trans-Asia-Europe (TAE) fiber-optic line</NS0:telephoneSystemInternational>
+    <NS0:radios rdf:ID='A56058'>520000</NS0:radios>
+    <NS0:televisions rdf:ID='A56060'>210000</NS0:televisions>
+    <NS0:internetCountryCode>.kg</NS0:internetCountryCode>
+    <NS0:internetUsers rdf:ID='A56063'>10000</NS0:internetUsers>
+    <NS0:highwaysTotal rdf:ID='A56065'>18500</NS0:highwaysTotal>
+    <NS0:highwaysPaved rdf:ID='A56067'>16854</NS0:highwaysPaved>
+    <NS0:waterways rdf:ID='A56069'>600</NS0:waterways>
+    <NS0:port rdf:resource='#A56071'/>
+    <NS0:airports rdf:ID='A56075'>50</NS0:airports>
+    <NS0:airportBreakdown rdf:resource='#A56078'/>
+    <NS0:airportBreakdown rdf:resource='#A56084'/>
+    <NS0:airportBreakdown rdf:resource='#A56091'/>
+    <NS0:airportBreakdown rdf:resource='#A56098'/>
+    <NS0:airportBreakdown rdf:resource='#A56105'/>
+    <NS0:airportBreakdown rdf:resource='#A56112'/>
+    <NS0:airportBreakdown rdf:resource='#A56119'/>
+    <NS0:airportBreakdown rdf:resource='#A56126'/>
+    <NS0:militaryAge>18</NS0:militaryAge>
+    <NS0:malesOfMilitaryAge rdf:ID='A56133'>1203001</NS0:malesOfMilitaryAge>
+    <NS0:malesFitForMilitaryService rdf:ID='A56136'>975744</NS0:malesFitForMilitaryService>
+    <NS0:malesReachingMilitaryAgeAnnually rdf:ID='A56139'>50590</NS0:malesReachingMilitaryAgeAnnually>
+    <NS0:militaryExpenditures rdf:ID='A56142'>12000000</NS0:militaryExpenditures>
+    <NS0:militaryExpendituresPercentGDP rdf:ID='A56144'>1</NS0:militaryExpendituresPercentGDP>
+    <NS0:internationalDispute>territorial dispute with Tajikistan on southwestern boundary in Isfara Valley area</NS0:internationalDispute>
+    <NS0:internationalDispute>periodic target of Islamic insurgents from Uzbekistan, Tajikistan, and Afghanistan</NS0:internationalDispute>
+    <NS0:illicitDrugs>limited illicit cultivator of cannabis and opium poppy, mostly for CIS consumption</NS0:illicitDrugs>
+    <NS0:illicitDrugs>limited government eradication program</NS0:illicitDrugs>
+    <NS0:illicitDrugs>increasingly used as transshipment point for illicit drugs to Russia and Western Europe from Southwest Asia</NS0:illicitDrugs>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/kg-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/kg-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/kg-map.jpg</NS0:map>
+    <NS0:border rdf:resource='#A125319'/>
+    <NS0:border rdf:resource='#A125324'/>
+    <NS0:border rdf:resource='#A125329'/>
+    <NS0:border rdf:resource='#A125334'/>
+    <NS0:exportPartner rdf:resource='#A125339'/>
+    <NS0:exportPartner rdf:resource='#A125344'/>
+    <NS0:exportPartner rdf:resource='#A125349'/>
+    <NS0:exportPartner rdf:resource='#A125354'/>
+    <NS0:exportPartner rdf:ID='A125363' rdf:resource='#A125359'/>
+    <NS0:importPartner rdf:resource='#A125365'/>
+    <NS0:importPartner rdf:resource='#A125370'/>
+    <NS0:importPartner rdf:resource='#A125375'/>
+    <NS0:importPartner rdf:resource='#A125380'/>
+    <NS0:importPartner rdf:resource='#A125385'/>
+    <NS0:importPartner rdf:ID='A125393' rdf:resource='#A125390'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56067'>
+    <NS0:note>these roads are said to be hard-surfaced, and include, in addition to conventionally paved roads, some that are surfaced with gravel or other coarse aggregate, making them trafficable in all weather</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55769'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Uzbek'/>
+    <NS0:percent>12.9</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55764'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Russian'/>
+    <NS0:percent>18</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55759'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Kirghiz'/>
+    <NS0:percent>52.4</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55950'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#services'/>
+    <NS0:percent>30</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55807'>
+    <NS0:note>Kyrgyz</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56030'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>f.o.b., 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55945'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#industry'/>
+    <NS0:percent>15</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56060'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55940'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#agriculture'/>
+    <NS0:percent>55</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55957'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1998</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55707'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>July 2001</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55745'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:ratio>0.95</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56126'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:maxRunway>913</NS0:maxRunway>
+    <NS0:count>32 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56139'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55751'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56063'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55740'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>65</NS0:minAge>
+    <NS0:ratio>0.61</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56119'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>914</NS0:minRunway>
+    <NS0:maxRunway>1523</NS0:maxRunway>
+    <NS0:count>6</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55734'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>15</NS0:minAge>
+    <NS0:maxAge>64</NS0:maxAge>
+    <NS0:ratio>0.96</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56112'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>1524</NS0:minRunway>
+    <NS0:maxRunway>2437</NS0:maxRunway>
+    <NS0:count>5</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55728'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>14</NS0:maxAge>
+    <NS0:ratio>1.02</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55987'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55983'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56105'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>2438</NS0:minRunway>
+    <NS0:maxRunway>3047</NS0:maxRunway>
+    <NS0:count>3</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55722'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>0</NS0:maxAge>
+    <NS0:ratio>1.05</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55954'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56098'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>914</NS0:minRunway>
+    <NS0:maxRunway>1523</NS0:maxRunway>
+    <NS0:count>1 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56045'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125393'>
+    <NS0:note>1999</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56091'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>1524</NS0:minRunway>
+    <NS0:maxRunway>2437</NS0:maxRunway>
+    <NS0:count>1</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56075'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55692'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56084'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>2438</NS0:minRunway>
+    <NS0:maxRunway>3047</NS0:maxRunway>
+    <NS0:count>1</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56144'>
+    <NS0:note>FY99</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56078'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>3048</NS0:minRunway>
+    <NS0:count>1</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#City'>
+    <rdf:type rdf:resource='http://www.w3.org/2000/01/rdf-schema#Class'/>
+    <rdfs:subClassOf rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AdministrativeDivision'/>
+    <rdfs:label>City</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55816'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1989</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55976'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56053'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56071'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Balykchy</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125363'>
+    <NS0:note>1999</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55664'>
+    <NS0:note>landlocked</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55719'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55922'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125390'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#CH'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55713'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55936'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55673'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Jengish Chokusu (Pik Pobedy)</NS0:name>
+    <NS0:elevation>7439</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55863'>
+    <rdf:type rdf:resource='#Oblastlar'/>
+    <NS0:name>Ysyk-Kol Oblasty</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55716'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125385'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#UZ'/>
+    <NS0:percent>8</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55859'>
+    <rdf:type rdf:resource='#Oblastlar'/>
+    <NS0:name>Talas Oblasty</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55668'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Kara-Darya</NS0:name>
+    <NS0:elevation>132</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125380'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#GM'/>
+    <NS0:percent>8</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55855'>
+    <rdf:type rdf:resource='#Oblastlar'/>
+    <NS0:name>Osh Oblasty</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55710'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55934'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125375'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#US'/>
+    <NS0:percent>9</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55851'>
+    <rdf:type rdf:resource='#Oblastlar'/>
+    <NS0:name>Naryn Oblasty</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56133'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56041'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#foodstuffs'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55847'>
+    <rdf:type rdf:resource='#Oblastlar'/>
+    <NS0:name>Jalal-Abad Oblasty</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56037'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#machinery_and_equipment'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125370'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#KZ'/>
+    <NS0:percent>12</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55653'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>41.0</NS0:latitude>
+    <NS0:longitude>75.0</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55843'>
+    <rdf:type rdf:resource='#Oblastlar'/>
+    <NS0:name>Chuy Oblasty</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56033'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#oil_and_gas'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55930'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125365'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#RS'/>
+    <NS0:percent>18</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55839'>
+    <rdf:type rdf:resource='#City'/>
+    <NS0:name>Bishkek Shaary</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55748'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125359'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#CH'/>
+    <NS0:percent>6</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55835'>
+    <rdf:type rdf:resource='#Oblastlar'/>
+    <NS0:name>Batken Oblasty</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56026'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#hydropower;_machinery;_shoes'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55919'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56142'>
+    <NS0:note>FY99</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55927'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56022'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#uranium'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55973'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125354'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#UZ'/>
+    <NS0:percent>10</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56018'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#mercury'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55689'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125349'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#KZ'/>
+    <NS0:percent>10</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55825'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CapitalCity'/>
+    <NS0:name>Bishkek</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56014'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#tobacco;_gold'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125344'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#RS'/>
+    <NS0:percent>16</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55981'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56010'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#meat'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56006'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#wool'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125339'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#GM'/>
+    <NS0:percent>33</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56002'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#cotton'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#Oblastlar'>
+    <rdf:type rdf:resource='http://www.w3.org/2000/01/rdf-schema#Class'/>
+    <rdfs:subClassOf rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AdministrativeDivision'/>
+    <rdfs:label>Oblastlar</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125334'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#UZ'/>
+    <NS0:distance>1099</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55809'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Russian_-_official_language'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125329'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#TI'/>
+    <NS0:distance>870</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55804'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Kirghiz_-_official_language'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55916'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125324'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#KZ'/>
+    <NS0:distance>1051</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55799'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#other'/>
+    <NS0:percent>5</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55999'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>f.o.b., 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125319'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#CH'/>
+    <NS0:distance>858</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55794'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Russian_Orthodox'/>
+    <NS0:percent>20</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56069'>
+    <NS0:year>1990</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55985'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56065'>
+    <NS0:note>including 140 km of expressways</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55789'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Muslim'/>
+    <NS0:percent>75</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55784'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#other'/>
+    <NS0:percent>11.8</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56048'>
+    <NS0:year>1995</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55754'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55779'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#German'/>
+    <NS0:percent>2.4</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56136'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A55774'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Ukrainian'/>
+    <NS0:percent>2.5</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A56058'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+</rdf:RDF>

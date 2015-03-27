@@ -1,0 +1,238 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Lucas_Thwala	owl:sameAs	dbpedia:Lucas_Thwala .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Lucas_Thwala	owl:sameAs	dbpedia:Lucas_Thwala .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q335748	owl:sameAs	dbpedia:Lucas_Thwala .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Lucas_Thwala	owl:sameAs	dbpedia:Lucas_Thwala .
+@prefix ns6:	<http://it.dbpedia.org/resource/> .
+ns6:Lucas_Thwala	owl:sameAs	dbpedia:Lucas_Thwala .
+@prefix ns7:	<http://ja.dbpedia.org/resource/> .
+ns7:ルーカス・トゥワラ	owl:sameAs	dbpedia:Lucas_Thwala .
+@prefix ns8:	<http://pl.dbpedia.org/resource/> .
+ns8:Lucas_Thwala	owl:sameAs	dbpedia:Lucas_Thwala .
+@prefix ns9:	<http://pt.dbpedia.org/resource/> .
+ns9:Lucas_Thwala	owl:sameAs	dbpedia:Lucas_Thwala .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns11:	<http://en.wikipedia.org/wiki/> .
+ns11:Lucas_Thwala	foaf:primaryTopic	dbpedia:Lucas_Thwala .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Lucas_Thwala .
+<http://ru.dbpedia.org/resource/\u0422\u0432\u0430\u043B\u0430,_\u041B\u0443\u043A\u0430\u0441>	owl:sameAs	dbpedia:Lucas_Thwala .
+@prefix ns13:	<http://am.dbpedia.org/resource/> .
+ns13:ሉካስ_ትዋላ	owl:sameAs	dbpedia:Lucas_Thwala .
+@prefix ns14:	<http://ar.dbpedia.org/resource/> .
+ns14:لوكاس_توالا	owl:sameAs	dbpedia:Lucas_Thwala .
+@prefix ns15:	<http://fi.dbpedia.org/resource/> .
+ns15:Lucas_Thwala	owl:sameAs	dbpedia:Lucas_Thwala .
+@prefix ns16:	<http://hu.dbpedia.org/resource/> .
+ns16:Lucas_Thwala	owl:sameAs	dbpedia:Lucas_Thwala .
+@prefix ns17:	<http://mr.dbpedia.org/resource/> .
+ns17:लुकास_थ्वाला	owl:sameAs	dbpedia:Lucas_Thwala .
+@prefix ns18:	<http://nn.dbpedia.org/resource/> .
+ns18:Lucas_Thwala	owl:sameAs	dbpedia:Lucas_Thwala .
+@prefix ns19:	<http://no.dbpedia.org/resource/> .
+ns19:Lucas_Thwala	owl:sameAs	dbpedia:Lucas_Thwala .
+@prefix ns20:	<http://sv.dbpedia.org/resource/> .
+ns20:Lucas_Thwala	owl:sameAs	dbpedia:Lucas_Thwala .
+@prefix ns21:	<http://tr.dbpedia.org/resource/> .
+ns21:Lucas_Thwala	owl:sameAs	dbpedia:Lucas_Thwala .
+@prefix ns22:	<http://uk.dbpedia.org/resource/> .
+ns22:Лукас_Твала	owl:sameAs	dbpedia:Lucas_Thwala .
+@prefix ns23:	<http://zh.dbpedia.org/resource/> .
+ns23:卢卡斯·特瓦拉	owl:sameAs	dbpedia:Lucas_Thwala .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Lucas_Thwala	rdf:type	dul:NaturalPerson ,
+		<http://dbpedia.org/class/yago/SouthAfricaInternationalFootball(soccer)Players> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Lucas_Thwala	rdf:type	dbpedia-owl:Person ,
+		dbpedia-owl:SoccerPlayer ,
+		dbpedia-owl:Agent ,
+		ns4:Q215627 ,
+		owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Lucas_Thwala	rdf:type	yago:Whole100003553 ,
+		yago:PlatinumStarsPlayers ,
+		yago:Object100002684 ,
+		yago:OrlandoPiratesPlayers ,
+		yago:PhysicalEntity100001930 ,
+		yago:SouthAfricanAssociationFootballPlayers ,
+		yago:Contestant109613191 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:AssociationFootballDefenders ,
+		foaf:Person ,
+		dbpedia-owl:Athlete ,
+		yago:Player110439851 ,
+		yago:FootballPlayer110101634 ,
+		yago:Defender109614684 ,
+		yago:Athlete109820263 ,
+		yago:Preserver110466918 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		<http://dbpedia.org/class/yago/2005CONCACAFGoldCupPlayers> ,
+		yago:YagoLegalActorGeo .
+@prefix ns28:	<http://schema.org/> .
+dbpedia:Lucas_Thwala	rdf:type	ns28:Person ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		dul:Agent ,
+		ns4:Q5 ;
+	owl:sameAs	ns6:Lucas_Thwala ,
+		ns16:Lucas_Thwala ,
+		ns18:Lucas_Thwala ,
+		ns5:Lucas_Thwala ,
+		ns4:Q335748 ,
+		<http://ru.dbpedia.org/resource/\u0422\u0432\u0430\u043B\u0430,_\u041B\u0443\u043A\u0430\u0441> ,
+		dbpedia:Lucas_Thwala ,
+		ns15:Lucas_Thwala ,
+		<http://rdf.freebase.com/ns/m.02q1y9q> ,
+		ns23:卢卡斯·特瓦拉 ,
+		ns1:Lucas_Thwala .
+@prefix ns29:	<http://nl.dbpedia.org/resource/> .
+dbpedia:Lucas_Thwala	owl:sameAs	ns29:Lucas_Thwala .
+@prefix ns30:	<http://yago-knowledge.org/resource/> .
+dbpedia:Lucas_Thwala	owl:sameAs	ns30:Lucas_Thwala ,
+		ns14:لوكاس_توالا ,
+		ns3:Lucas_Thwala .
+@prefix ns31:	<http://wikidata.org/entity/> .
+dbpedia:Lucas_Thwala	owl:sameAs	ns31:Q335748 ,
+		ns9:Lucas_Thwala ,
+		ns22:Лукас_Твала ,
+		ns7:ルーカス・トゥワラ ,
+		ns20:Lucas_Thwala ,
+		ns21:Lucas_Thwala ,
+		ns13:ሉካስ_ትዋላ ,
+		ns19:Lucas_Thwala ,
+		ns17:लुकास_थ्वाला ,
+		ns8:Lucas_Thwala .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Lucas_Thwala	rdfs:label	"\u30EB\u30FC\u30AB\u30B9\u30FB\u30C8\u30A5\u30EF\u30E9"@ja ,
+		"Lucas Thwala"@pt ,
+		"\u0644\u0648\u0643\u0627\u0633 \u062A\u0648\u0627\u0644\u0627"@ar ,
+		"Lucas Thwala" ,
+		"Lucas Thwala"@it ,
+		"Lucas Thwala"@fr ,
+		"\u5362\u5361\u65AF\u00B7\u7279\u74E6\u62C9"@zh ,
+		"Lucas Thwala"@es ,
+		"\u0422\u0432\u0430\u043B\u0430, \u041B\u0443\u043A\u0430\u0441"@ru ,
+		"Lucas Thwala"@pl ,
+		"Lucas Thwala"@nl ,
+		"Lucas Thwala"@de .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+dbpedia:Lucas_Thwala	dcterms:subject	<http://dbpedia.org/resource/Category:2005_CONCACAF_Gold_Cup_players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Lucas_Thwala	dcterms:subject	category:Orlando_Pirates_players ,
+		<http://dbpedia.org/resource/Category:SuperSport_United_F.C._players> ,
+		category:Association_football_defenders ,
+		<http://dbpedia.org/resource/Category:Platinum_Stars_F.C._players> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Living_people ,
+		category:South_African_soccer_players ,
+		<http://dbpedia.org/resource/Category:1981_births> ,
+		category:South_Africa_international_soccer_players ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Thwala.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Lucas_Thwala	dc:description	"Association footballer" ,
+		"Association footballer" ;
+	foaf:givenName	"Lucas" ;
+	foaf:name	"Thwala, Lucas" ,
+		"Lucas Bongane Thwala" ,
+		"Lucas Thwala" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Lucas_Thwala	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Lucas_Thwala?oldid=604380082> ;
+	rdfs:comment	"Lucas Thwala (n\u00E9 le 19 octobre 1981 \u00E0 Jeppies Reef) est un footballeur international sud-africain \u00E9voluant actuellement au Supersport United.Portail de l\u2019Afrique du Sud Portail de l\u2019Afrique du Sud Portail du football Portail du football"@fr ,
+		"Lucas Thwala (Nelspruit, 19 ottobre 1981) \u00E8 un calciatore sudafricano, difensore del Platinum Stars, in prestito dall'Orlando Pirates, e della Nazionale sudafricana."@it ,
+		"Lucas Bongane Thwala (ur. 19 pa\u017Adziernika 1981) \u2013 pi\u0142karz z Republiki Po\u0142udniowej Afryki wyst\u0119puj\u0105cy na pozycji obro\u0144cy.Thwala mo\u017Ce gra\u0107 na \u015Brodku lub po lewej stronie obrony. Zawodnikiem Orlando Pirates jest od 2004 roku. W reprezentacji swojego kraju zagra\u0142 23 razy i strzeli\u0142 jedn\u0105 bramk\u0119. Zadebiutowa\u0142 w niej 23 lutego 2005 roku w spotkaniu z Seszelami. Znajdowa\u0142 si\u0119 w kadrze na Z\u0142oty Puchar CONCACAF 2005, w 2010 zosta\u0142 powo\u0142any na do sk\u0142adu na mistrzostwa \u015Bwiata."@pl ,
+		"\u76E7\u5361\u65AF\u00B7\u6CF0\u83EF\u62FF\uFF08Lucas Thwala\uFF0C1981\u5E7410\u670819\u65E5\uFF0D\uFF09\uFF0C\u5357\u975E\u804C\u4E1A\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u73B0\u6548\u529B\u5967\u862D\u591A\u6D77\u76DC\u3002"@zh ,
+		"Lucas Bongane Thwala (Nelspruit, 19 oktober 1981) is een Zuid-Afrikaans professioneel voetballer, die momenteel clubloos is. De linksback was als laatst actief voor Supersport United."@nl ,
+		"Lucas Twala (Nelspruit, Sud\u00E1frica, 19 de octubre de 1981) es un futbolista sud\u00E1fricano. Juega de defensa y su equipo actual es el SuperSport United de la Premier Soccer League de Sud\u00E1frica. Es internacional con la selecci\u00F3n de f\u00FAtbol de Sud\u00E1frica."@es ,
+		"Lucas Bongane Thwala (born 19 October 1981 in Nelspruit, Mpumalanga) is a South African soccer defender who currently plays for SuperSport United in the Premier Soccer League." ,
+		"\u0644\u0648\u0643\u0627\u0633 \u0628\u0648\u0646\u063A\u0627\u0646\u064A \u062A\u0648\u0627\u0644\u0627 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Lucas Bongane Thwala) (\u0645\u0648\u0627\u0644\u064A\u062F 19 \u0623\u0643\u062A\u0648\u0628\u0631 1981 \u0641\u064A \u0646\u064A\u0644\u0633\u0628\u0631\u0648\u064A\u062A) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0623\u0648\u0631\u0644\u0627\u0646\u062F\u0648 \u0628\u064A\u0631\u0627\u062A\u0633 \u0627\u0644\u062C\u0646\u0648\u0628 \u0627\u0644\u0623\u0641\u0631\u064A\u0642\u064A ."@ar ,
+		"Lucas Thwala (Nelspruit, 19 de outubro de 1981) \u00E9 um futebolista profissional sul-africano que atua como defensor. Milita no Orlando Pirates.Integra o elenco da Sele\u00E7\u00E3o Sul-Africana de Futebol que disputa a Copa do Mundo FIFA de 2010."@pt ,
+		"\u30EB\u30FC\u30AB\u30B9\u30FB\u30C8\u30A5\u30EF\u30E9\uFF08Lucas Thwala, 1981\u5E7410\u67089\u65E5 - \uFF09\u306F\u3001\u5357\u30A2\u30D5\u30EA\u30AB\u5171\u548C\u56FD\u30FB\u30CD\u30EB\u30B9\u30D7\u30ED\u30A4\u30C8\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FDF\u30022004\u5E74\u3088\u308A\u30AA\u30FC\u30E9\u30F3\u30C9\u30FB\u30D1\u30A4\u30EC\u30FC\u30C4FC\u3067\u30D7\u30EC\u30FC\u3057\u3066\u3044\u308B\u30022005\u5E74\u3088\u308A\u5357\u30A2\u30D5\u30EA\u30AB\u4EE3\u8868\u3068\u3057\u3066\u51FA\u5834\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"Lucas Thwala (* 19. Oktober 1981 in Nelspruit) ist ein s\u00FCdafrikanischer Fu\u00DFballspieler und ehemaliger Nationalspieler seines Landes. Derzeit spielt der Linksf\u00FC\u00DFler f\u00FCr das SuperSport United, zuvor war er bei den Platinum Stars, Orlando Pirates und Saints FC Johannesburg aktiv."@de ,
+		"\u041B\u0443\u0301\u043A\u0430\u0441 \u0422\u0432\u0430\u0301\u043B\u0430 (\u0437\u0443\u043B\u0443 Lucas Thwala; 19 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1981, \u041D\u0435\u043B\u0441\u043F\u0440\u0435\u0439\u0442, \u042E\u0410\u0420) \u2014 \u044E\u0436\u043D\u043E\u0430\u0444\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0421\u0443\u043F\u0435\u0440\u0441\u043F\u043E\u0440\u0442 \u042E\u043D\u0430\u0439\u0442\u0435\u0434\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u042E\u0410\u0420."@ru ;
+	foaf:surname	"Thwala" ;
+	foaf:isPrimaryTopicOf	ns11:Lucas_Thwala .
+@prefix ns37:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Lucas_Thwala	dbpprop:hasPhotoCollection	ns37:Lucas_Thwala ;
+	dbpprop:name	"Thwala, Lucas" ,
+		"Lucas Thwala" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Thwala.jpg?width=300> ;
+	dbpedia-owl:abstract	"Lucas Thwala (Nelspruit, 19 ottobre 1981) \u00E8 un calciatore sudafricano, difensore del Platinum Stars, in prestito dall'Orlando Pirates, e della Nazionale sudafricana."@it ,
+		"\u30EB\u30FC\u30AB\u30B9\u30FB\u30C8\u30A5\u30EF\u30E9\uFF08Lucas Thwala, 1981\u5E7410\u67089\u65E5 - \uFF09\u306F\u3001\u5357\u30A2\u30D5\u30EA\u30AB\u5171\u548C\u56FD\u30FB\u30CD\u30EB\u30B9\u30D7\u30ED\u30A4\u30C8\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FDF\u30022004\u5E74\u3088\u308A\u30AA\u30FC\u30E9\u30F3\u30C9\u30FB\u30D1\u30A4\u30EC\u30FC\u30C4FC\u3067\u30D7\u30EC\u30FC\u3057\u3066\u3044\u308B\u30022005\u5E74\u3088\u308A\u5357\u30A2\u30D5\u30EA\u30AB\u4EE3\u8868\u3068\u3057\u3066\u51FA\u5834\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"Lucas Thwala (* 19. Oktober 1981 in Nelspruit) ist ein s\u00FCdafrikanischer Fu\u00DFballspieler und ehemaliger Nationalspieler seines Landes. Derzeit spielt der Linksf\u00FC\u00DFler f\u00FCr das SuperSport United, zuvor war er bei den Platinum Stars, Orlando Pirates und Saints FC Johannesburg aktiv."@de ,
+		"Lucas Thwala (n\u00E9 le 19 octobre 1981 \u00E0 Jeppies Reef) est un footballeur international sud-africain \u00E9voluant actuellement au Supersport United.Portail de l\u2019Afrique du Sud Portail de l\u2019Afrique du Sud Portail du football Portail du football"@fr ,
+		"Lucas Bongane Thwala (Nelspruit, 19 oktober 1981) is een Zuid-Afrikaans professioneel voetballer, die momenteel clubloos is. De linksback was als laatst actief voor Supersport United."@nl ,
+		"\u0644\u0648\u0643\u0627\u0633 \u0628\u0648\u0646\u063A\u0627\u0646\u064A \u062A\u0648\u0627\u0644\u0627 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Lucas Bongane Thwala) (\u0645\u0648\u0627\u0644\u064A\u062F 19 \u0623\u0643\u062A\u0648\u0628\u0631 1981 \u0641\u064A \u0646\u064A\u0644\u0633\u0628\u0631\u0648\u064A\u062A) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u062C\u0646\u0648\u0628 \u0623\u0641\u0631\u064A\u0642\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0623\u0648\u0631\u0644\u0627\u0646\u062F\u0648 \u0628\u064A\u0631\u0627\u062A\u0633 \u0627\u0644\u062C\u0646\u0648\u0628 \u0627\u0644\u0623\u0641\u0631\u064A\u0642\u064A ."@ar ,
+		"Lucas Twala (Nelspruit, Sud\u00E1frica, 19 de octubre de 1981) es un futbolista sud\u00E1fricano. Juega de defensa y su equipo actual es el SuperSport United de la Premier Soccer League de Sud\u00E1frica. Es internacional con la selecci\u00F3n de f\u00FAtbol de Sud\u00E1frica."@es ,
+		"Lucas Thwala (Nelspruit, 19 de outubro de 1981) \u00E9 um futebolista profissional sul-africano que atua como defensor. Milita no Orlando Pirates.Integra o elenco da Sele\u00E7\u00E3o Sul-Africana de Futebol que disputa a Copa do Mundo FIFA de 2010."@pt ,
+		"Lucas Bongane Thwala (born 19 October 1981 in Nelspruit, Mpumalanga) is a South African soccer defender who currently plays for SuperSport United in the Premier Soccer League." ,
+		"Lucas Bongane Thwala (ur. 19 pa\u017Adziernika 1981) \u2013 pi\u0142karz z Republiki Po\u0142udniowej Afryki wyst\u0119puj\u0105cy na pozycji obro\u0144cy.Thwala mo\u017Ce gra\u0107 na \u015Brodku lub po lewej stronie obrony. Zawodnikiem Orlando Pirates jest od 2004 roku. W reprezentacji swojego kraju zagra\u0142 23 razy i strzeli\u0142 jedn\u0105 bramk\u0119. Zadebiutowa\u0142 w niej 23 lutego 2005 roku w spotkaniu z Seszelami. Znajdowa\u0142 si\u0119 w kadrze na Z\u0142oty Puchar CONCACAF 2005, w 2010 zosta\u0142 powo\u0142any na do sk\u0142adu na mistrzostwa \u015Bwiata."@pl ,
+		"\u041B\u0443\u0301\u043A\u0430\u0441 \u0422\u0432\u0430\u0301\u043B\u0430 (\u0437\u0443\u043B\u0443 Lucas Thwala; 19 \u043E\u043A\u0442\u044F\u0431\u0440\u044F 1981, \u041D\u0435\u043B\u0441\u043F\u0440\u0435\u0439\u0442, \u042E\u0410\u0420) \u2014 \u044E\u0436\u043D\u043E\u0430\u0444\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0421\u0443\u043F\u0435\u0440\u0441\u043F\u043E\u0440\u0442 \u042E\u043D\u0430\u0439\u0442\u0435\u0434\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u042E\u0410\u0420."@ru ,
+		"\u76E7\u5361\u65AF\u00B7\u6CF0\u83EF\u62FF\uFF08Lucas Thwala\uFF0C1981\u5E7410\u670819\u65E5\uFF0D\uFF09\uFF0C\u5357\u975E\u804C\u4E1A\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u73B0\u6548\u529B\u5967\u862D\u591A\u6D77\u76DC\u3002"@zh ;
+	dbpedia-owl:wikiPageID	10103619 ;
+	dbpedia-owl:wikiPageRevisionID	604380082 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Lucas_Thwala	dbpprop:birthDate	"1981-10-19+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Nelspruit, South Africa" ;
+	dbpprop:dateOfBirth	"1981-10-19+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Nelspruit, South Africa" ;
+	dbpprop:shortDescription	"Association footballer" ;
+	dbpedia-owl:birthDate	"1981-10-19+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:South_Africa_national_football_team ,
+		dbpedia:Nelspruit ;
+	dbpedia-owl:birthYear	"1981+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	210 ;
+	dbpprop:goals	0 ,
+		12 ;
+	dbpprop:bg	"#F7EB29" ;
+	dbpprop:caps	7 ,
+		0 ,
+		90 ;
+	dbpprop:years	2004 ,
+		2012 ;
+	dbpprop:youthclubs	dbpedia:Orlando_Pirates ,
+		"Saints" ;
+	dbpedia-owl:careerStation	dbpedia:Lucas_Thwala__1 ,
+		dbpedia:Lucas_Thwala__4 ,
+		dbpedia:Lucas_Thwala__2 ,
+		dbpedia:Lucas_Thwala__3 ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.7099999999999999645 .
+@prefix ns39:	<http://dbpedia.org/datatype/> .
+@prefix ns40:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Lucas_Thwala	ns40:height	"171.0"^^ns39:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/SuperSport_United_F.C.> ;
+	dbpprop:clubnumber	14 ;
+	dbpprop:fullname	"Lucas Bongane Thwala" ;
+	dbpprop:clubs	"\u2192 Platinum Stars" ,
+		<http://dbpedia.org/resource/SuperSport_United_F.C.> ,
+		dbpedia:Orlando_Pirates ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/Platinum_Stars_F.C.> ,
+		dbpedia:South_Africa_national_football_team ,
+		<http://dbpedia.org/resource/SuperSport_United_F.C.> ,
+		dbpedia:Orlando_Pirates .
+@prefix ns41:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Lucas_Thwala	dbpprop:wordnet_type	ns41:synset-soccer_player-noun-1 ;
+	dbpprop:title	"South Africa squads" ;
+	dbpprop:pcupdate	"2012-07-25+02:00"^^xsd:date ;
+	dbpprop:bordercolor	"#006400" ;
+	dbpprop:fg	"#006400" ;
+	dbpprop:nationalcaps	26 ;
+	dbpprop:nationalgoals	1 ;
+	dbpprop:nationalteam	dbpedia:South_Africa_national_football_team ;
+	dbpprop:nationalyears	2005 ;
+	dbpedia-owl:number	14 ;
+	dbpedia-owl:alias	"Thwala, Lucas Bongane" ;
+	dbpprop:alternativeNames	"Thwala, Lucas Bongane" ;
+	dbpprop:ntupdate	"2012-06-05+02:00"^^xsd:date .
+<http://dbpedia.org/resource/2005_CONCACAF_Gold_Cup_squads>	dbpprop:name	dbpedia:Lucas_Thwala .
+dbpedia:South_Africa_at_the_FIFA_World_Cup	dbpprop:name	dbpedia:Lucas_Thwala .

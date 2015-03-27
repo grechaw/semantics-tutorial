@@ -1,0 +1,219 @@
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/List_of_Russian_football_transfers_winter_2010%E2%80%9311>	dbpprop:name	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/List_of_Russian_football_transfers_winter_2010%E2%80%9311>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta>	rdf:type	<http://dbpedia.org/class/yago/MFKPetr%C5%BEalkaPlayers> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta>	rdf:type	yago:Player110439851 ,
+		<http://dbpedia.org/class/yago/FKP%C3%BAchovPlayers> ,
+		yago:Athlete109820263 ,
+		yago:FootballPlayer110101634 .
+@prefix ns4:	<http://schema.org/> .
+<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta>	rdf:type	ns4:Person ,
+		yago:Contestant109613191 ,
+		yago:PhysicalEntity100001930 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		<http://dbpedia.org/class/yago/PeopleFromNov%C3%A9Z%C3%A1mkyDistrict> ,
+		yago:LivingPeople ,
+		yago:SlovakExpatriateFootballers ,
+		yago:SlovakExpatriatesInRussia ,
+		<http://dbpedia.org/class/yago/%C5%A0KSlovanBratislavaPlayers> ,
+		yago:Whole100003553 ,
+		yago:SlovakFootballers ,
+		yago:SlovakiaInternationalFootballers ,
+		yago:AssociationFootballCentralDefenders ,
+		yago:Object100002684 .
+@prefix ns5:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta>	rdf:type	ns5:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta>	rdf:type	owl:Thing ,
+		dbpedia-owl:Athlete ,
+		yago:RussianPremierLeaguePlayers ,
+		yago:ExpatriateFootballersInRussia ,
+		ns5:Q5 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta>	rdf:type	dul:Agent ,
+		dul:NaturalPerson .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta>	rdf:type	foaf:Person ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		yago:FCRostovPlayers ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:Defender109614684 ,
+		dbpedia-owl:Agent ,
+		yago:SlovakFirstLeaguePlayers ,
+		<http://dbpedia.org/class/yago/FKDuklaBansk%C3%A1BystricaPlayers> ,
+		dbpedia-owl:Person ,
+		yago:Preserver110466918 .
+@prefix ns9:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta>	owl:sameAs	ns9:Kornel_Saláta ,
+		<http://rdf.freebase.com/ns/m.04cw039> ,
+		<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta>	rdfs:label	"\u0643\u0648\u0631\u0646\u064A\u0644 \u0633\u0627\u0644\u0627\u062A\u0627"@ar ,
+		"Kornel Sal\u00E1ta"@nl ,
+		"Kornel Sal\u00E1ta"@es ,
+		"Kornel Sal\u00E1ta" ,
+		"\u0421\u0430\u043B\u0430\u0442\u0430, \u041A\u043E\u0440\u043D\u0435\u043B"@ru ,
+		"Kornel Sal\u00E1ta"@pl ,
+		"Kornel Sal\u00E1ta"@pt ,
+		"Kornel Sal\u00E1ta"@it ,
+		"Kornel Sal\u00E1ta"@fr ,
+		"Kornel Sal\u00E1ta"@de .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta>	dcterms:subject	<http://dbpedia.org/resource/Category:People_from_Nov%C3%A9_Z%C3%A1mky_District> ,
+		<http://dbpedia.org/resource/Category:FK_Dukla_Bansk%C3%A1_Bystrica_players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta>	dcterms:subject	category:FC_Tom_Tomsk_players ,
+		category:Slovak_First_League_players ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:1985_births> ,
+		<http://dbpedia.org/resource/Category:FK_P%C3%BAchov_players> ,
+		category:FC_Rostov_players ,
+		<http://dbpedia.org/resource/Category:MFK_Petr%C5%BEalka_players> ,
+		<http://dbpedia.org/resource/Category:%C5%A0K_Slovan_Bratislava_players> ,
+		category:Russian_Premier_League_players ,
+		category:Expatriate_footballers_in_Russia ,
+		category:Hungarians_in_Slovakia ,
+		category:Slovakia_international_footballers ,
+		category:Slovak_expatriate_footballers ,
+		category:Slovak_expatriates_in_Russia ,
+		category:Slovak_footballers ,
+		category:Living_people ,
+		category:Association_football_central_defenders ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Kornel_Sal\u00E1ta_2012.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta>	dc:description	"Footballer" ,
+		"Footballer" ;
+	foaf:givenName	"Kornel" ;
+	foaf:name	"Salata, Kornel" ,
+		"Kornel Sal\u00E1ta" ,
+		"Kornel Salata" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Kornel_Sal\u00E1ta?oldid=602772331> ;
+	rdfs:comment	"Kornel Sal\u00E1ta (Kamenica nad Hronom, 24 januari 1985) is een Slowaaks professioneel voetballer, die momenteel als verdediger uitkomt voor Tom Tomsk en het Slowaaks voetbalelftal."@nl ,
+		"Kornel Sal\u00E1ta (Kamenica nad Hronom, Checoslovaquia, 24 de enero de 1985) es un futbolista eslovaco que se desempe\u00F1a como defensor en el FC Tom Tomsk de la Liga Premier de Rusia, cedido por el FC Rostov. Sal\u00E1ta proviene de la minor\u00EDa h\u00FAngara en Eslovaquia. \u00C9l habla tanto h\u00FAngaro y eslovaco con fluidez."@es ,
+		"Kornel Sal\u00E1ta (ur. 4 stycznia 1985 w Kamenicy nad Hronom) - pi\u0142karz s\u0142owacki graj\u0105cy na pozycji \u015Brodkowego obro\u0144cy. Mierzy 191 cm wzrostu, wa\u017Cy 89 kg."@pl ,
+		"Kornel Sal\u00E1ta (Kamenica nad Hronom, 24 gennaio 1985) \u00E8 un calciatore slovacco, centrocampista dello Tom' Tomsk, in prestito dal Rostov, e della Nazionale slovacca."@it ,
+		"Kornel Sal\u00E1ta (born 24 January 1985) is a Slovak football defender who currently plays for the Russian Premier League club Tom Tomsk on loan from FC Rostov and the Slovakia national football team." ,
+		"Kornel Sal\u00E1ta, (Kamenica nad Hronom, 24 de janeiro de 1985), \u00E9 um futebolista Eslovaco que atua como zagueiro. Atualmente, joga pelo Tom Tomsk."@pt ,
+		"Kornel Sal\u00E1ta est un footballeur international slovaque n\u00E9 le 24 janvier 1985 \u00E0 Kamenica nad Hronom."@fr ,
+		"\u041A\u043E\u0301\u0440\u043D\u0435\u043B \u0421\u0430\u043B\u0430\u0301\u0442\u0430 (\u0441\u043B\u043E\u0432\u0430\u0446\u043A. Kornel Sal\u00E1ta; 24 \u044F\u043D\u0432\u0430\u0440\u044F 1985, \u041A\u0430\u043C\u0435\u043D\u0438\u0446\u0430-\u043D\u0430\u0434-\u0413\u0440\u043E\u043D\u043E\u043C) \u2014 \u0441\u043B\u043E\u0432\u0430\u0446\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0422\u043E\u043C\u044C\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u043B\u043E\u0432\u0430\u043A\u0438\u0438."@ru ,
+		"Kornel Sal\u00E1ta (* 24. Januar 1985 in Kamenica nad Hronom, Tschechoslowakei, heute Slowakei) ist ein slowakischer Fu\u00DFballspieler. Der Abwehrspieler, der auch im defensiven Mittelfeld eingesetzt werden kann, steht seit 2011 beim FK Rostow unter Vertrag und ist in der Saison 2013/ 2014 an Tom Tomsk ausgeliehen."@de ,
+		"\u0643\u0648\u0631\u0646\u064A\u0644 \u0633\u0627\u0644\u0627\u062A\u0627 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Kornel Sal\u00E1ta) (\u0645\u0648\u0627\u0644\u064A\u062F 24 \u064A\u0646\u0627\u064A\u0631 1985 \u0641\u064A \u0643\u0627\u0645\u064A\u0646\u064A\u0643\u0627 \u0646\u0627\u062F \u0647\u0631\u0648\u0646\u0648\u0645) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0633\u0644\u0648\u0641\u0627\u0643\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0633\u0644\u0648\u0641\u0627\u0646 \u0628\u0631\u0627\u062A\u064A\u0633\u0644\u0627\u0641\u0627 \u0627\u0644\u0633\u0644\u0648\u0641\u0627\u0643\u064A."@ar ;
+	foaf:surname	"Salata" .
+@prefix ns15:	<http://en.wikipedia.org/wiki/> .
+<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta>	foaf:isPrimaryTopicOf	ns15:Kornel_Saláta .
+@prefix ns16:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta>	dbpprop:hasPhotoCollection	ns16:Kornel_Saláta ;
+	dbpprop:name	"Salata, Kornel" ,
+		"Kornel Sal\u00E1ta" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Kornel_Sal\u00E1ta_2012.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u041A\u043E\u0301\u0440\u043D\u0435\u043B \u0421\u0430\u043B\u0430\u0301\u0442\u0430 (\u0441\u043B\u043E\u0432\u0430\u0446\u043A. Kornel Sal\u00E1ta; 24 \u044F\u043D\u0432\u0430\u0440\u044F 1985, \u041A\u0430\u043C\u0435\u043D\u0438\u0446\u0430-\u043D\u0430\u0434-\u0413\u0440\u043E\u043D\u043E\u043C) \u2014 \u0441\u043B\u043E\u0432\u0430\u0446\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0422\u043E\u043C\u044C\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u043B\u043E\u0432\u0430\u043A\u0438\u0438."@ru ,
+		"Kornel Sal\u00E1ta (Kamenica nad Hronom, Checoslovaquia, 24 de enero de 1985) es un futbolista eslovaco que se desempe\u00F1a como defensor en el FC Tom Tomsk de la Liga Premier de Rusia, cedido por el FC Rostov. Sal\u00E1ta proviene de la minor\u00EDa h\u00FAngara en Eslovaquia. \u00C9l habla tanto h\u00FAngaro y eslovaco con fluidez."@es ,
+		"Kornel Sal\u00E1ta (Kamenica nad Hronom, 24 gennaio 1985) \u00E8 un calciatore slovacco, centrocampista dello Tom' Tomsk, in prestito dal Rostov, e della Nazionale slovacca."@it ,
+		"Kornel Sal\u00E1ta, (Kamenica nad Hronom, 24 de janeiro de 1985), \u00E9 um futebolista Eslovaco que atua como zagueiro. Atualmente, joga pelo Tom Tomsk."@pt ,
+		"Kornel Sal\u00E1ta (Kamenica nad Hronom, 24 januari 1985) is een Slowaaks professioneel voetballer, die momenteel als verdediger uitkomt voor Tom Tomsk en het Slowaaks voetbalelftal."@nl ,
+		"Kornel Sal\u00E1ta (ur. 4 stycznia 1985 w Kamenicy nad Hronom) - pi\u0142karz s\u0142owacki graj\u0105cy na pozycji \u015Brodkowego obro\u0144cy. Mierzy 191 cm wzrostu, wa\u017Cy 89 kg."@pl ,
+		"Kornel Sal\u00E1ta (born 24 January 1985) is a Slovak football defender who currently plays for the Russian Premier League club Tom Tomsk on loan from FC Rostov and the Slovakia national football team." ,
+		"Kornel Sal\u00E1ta est un footballeur international slovaque n\u00E9 le 24 janvier 1985 \u00E0 Kamenica nad Hronom."@fr ,
+		"\u0643\u0648\u0631\u0646\u064A\u0644 \u0633\u0627\u0644\u0627\u062A\u0627 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Kornel Sal\u00E1ta) (\u0645\u0648\u0627\u0644\u064A\u062F 24 \u064A\u0646\u0627\u064A\u0631 1985 \u0641\u064A \u0643\u0627\u0645\u064A\u0646\u064A\u0643\u0627 \u0646\u0627\u062F \u0647\u0631\u0648\u0646\u0648\u0645) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0633\u0644\u0648\u0641\u0627\u0643\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0633\u0644\u0648\u0641\u0627\u0646 \u0628\u0631\u0627\u062A\u064A\u0633\u0644\u0627\u0641\u0627 \u0627\u0644\u0633\u0644\u0648\u0641\u0627\u0643\u064A."@ar ,
+		"Kornel Sal\u00E1ta (* 24. Januar 1985 in Kamenica nad Hronom, Tschechoslowakei, heute Slowakei) ist ein slowakischer Fu\u00DFballspieler. Der Abwehrspieler, der auch im defensiven Mittelfeld eingesetzt werden kann, steht seit 2011 beim FK Rostow unter Vertrag und ist in der Saison 2013/ 2014 an Tom Tomsk ausgeliehen."@de ;
+	dbpedia-owl:wikiPageID	18128087 ;
+	dbpedia-owl:wikiPageRevisionID	602772331 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta>	dbpprop:birthDate	"1985-01-24+02:00"^^xsd:date .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta>	dbpprop:birthPlace	dbpedia:Kamenica_nad_Hronom ,
+		dbpedia:Czechoslovakia ;
+	dbpprop:dateOfBirth	"1985-01-24+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Kamenica nad Hronom, Czechoslovakia" ;
+	dbpprop:shortDescription	"Footballer" ;
+	dbpedia-owl:birthDate	"1985-01-24+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Kamenica_nad_Hronom ,
+		dbpedia:Czechoslovakia ;
+	dbpedia-owl:birthYear	"1985+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	200 ;
+	dbpprop:goals	9 ,
+		4 ,
+		5 ,
+		0 ;
+	dbpprop:caps	7 ,
+		29 ,
+		17 ,
+		47 ,
+		59 ,
+		49 ;
+	dbpprop:years	2011 ,
+		2009 ,
+		2013 ,
+		2006 ,
+		2007 ,
+		2005 ;
+	dbpprop:youthclubs	"FK \u0160t\u00FArovo" ,
+		"VTJ Sokol Kamenica nad Hronom" ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta__5> ,
+		<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta__6> ,
+		<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta__7> ,
+		<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta__2> ,
+		<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta__3> ,
+		<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta__4> ,
+		<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta__1> ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	0.0 .
+@prefix ns19:	<http://dbpedia.org/datatype/> .
+@prefix ns20:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta>	ns20:height	"0.0"^^ns19:centimetre ;
+	dbpprop:currentclub	dbpedia:FC_Tom_Tomsk ;
+	dbpprop:clubnumber	30 ;
+	dbpprop:fullname	"Kornel Sal\u00E1ta" ;
+	dbpprop:clubs	dbpedia:FC_Rostov ,
+		"\u2192 Bansk\u00E1 Bystrica" ,
+		<http://dbpedia.org/resource/FK_P%C3%BAchov> ,
+		"\u2192 Tom Tomsk" ,
+		<http://dbpedia.org/resource/%C5%A0K_Slovan_Bratislava> ,
+		<http://dbpedia.org/resource/FC_Petr%C5%BEalka_1898> ;
+	dbpedia-owl:team	dbpedia:FC_Rostov ,
+		dbpedia:FC_Tom_Tomsk ,
+		<http://dbpedia.org/resource/FK_P%C3%BAchov> ,
+		dbpedia:Slovakia_national_football_team ,
+		<http://dbpedia.org/resource/%C5%A0K_Slovan_Bratislava> ,
+		<http://dbpedia.org/resource/FC_Petr%C5%BEalka_1898> ,
+		<http://dbpedia.org/resource/FK_Dukla_Bansk%C3%A1_Bystrica> ;
+	dbpprop:pcupdate	"2014-04-04+02:00"^^xsd:date ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.skslovan.com/timy/?hrac=hrac.17> ,
+		<http://www.transfermarkt.co.uk/en/kornel-salata/profil/spieler_74725.html> ;
+	dbpprop:nationalcaps	28 ;
+	dbpprop:nationalgoals	1 ;
+	dbpprop:nationalteam	dbpedia:Slovakia_national_football_team ;
+	dbpprop:nationalyears	2008 ;
+	dbpedia-owl:number	30 ;
+	dbpprop:ntupdate	"2014-03-06+02:00"^^xsd:date .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> .
+<http://dbpedia.org/resource/2011%E2%80%9312_FC_Rostov_season__Kornel_Sal%C3%A1ta__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> .
+ns15:Kornel_Saláta	foaf:primaryTopic	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> .
+dbpedia:Slovakia_at_the_FIFA_World_Cup	dbpprop:name	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> .
+dbpedia:List_of_Russian_football_transfers_summer_2013	dbpprop:name	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> .
+<http://dbpedia.org/resource/2013%E2%80%9314_FC_Rostov_season>	dbpprop:name	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> .
+<http://dbpedia.org/resource/2011%E2%80%9312_FC_Rostov_season>	dbpprop:name	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> .
+<http://dbpedia.org/resource/2012%E2%80%9313_FC_Rostov_season>	dbpprop:name	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> .
+dbpedia:FC_Tom_Tomsk	dbpprop:name	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> .
+dbpedia:Slovakia_national_football_team	dbpprop:name	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> .
+<http://dbpedia.org/resource/FC_Tom_Tomsk__ornel_Sal%C3%A1ta__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> .
+<http://dbpedia.org/resource/2012%E2%80%9313_FC_Rostov_season__Kornel_Sal%C3%A1ta__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> .
+dbpedia:Kornel_Saláta	owl:sameAs	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> .
+<http://dbpedia.org/resource/2013%E2%80%9314_FC_Rostov_season__Kornel_Sal%C3%A1ta__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> .
+<http://dbpedia.org/resource/2013%E2%80%9314_FC_Rostov_season__Kornel_Sal%C3%A1ta__2>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> .
+<http://dbpedia.org/resource/2011%E2%80%9312_FC_Rostov_season__Kornel_Sal%C3%A1ta__2>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> .
+dbpedia:Kornel_Salata	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Kornel_Sal%C3%A1ta> .

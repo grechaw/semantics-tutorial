@@ -1,0 +1,229 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/2007%E2%80%9308_ACF_Fiorentina_season__Per_Kr%C3%B8ldrup__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+<http://dbpedia.org/resource/2008%E2%80%9309_ACF_Fiorentina_season__Per_Kr%C3%B8ldrup__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns2:	<http://en.wikipedia.org/wiki/> .
+ns2:Per_Krøldrup	foaf:primaryTopic	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/S.C._Olhanense>	dbpprop:name	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:UEFA_Euro_2004_squads	dbpprop:name	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+<http://dbpedia.org/resource/2009_South_Korea_national_football_team_season>	dbpprop:home3player	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+<http://dbpedia.org/resource/2009%E2%80%9310_in_Danish_football>	dbpprop:name	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+<http://dbpedia.org/resource/2007%E2%80%9308_in_Danish_football>	dbpprop:name	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+<http://dbpedia.org/resource/2008%E2%80%9309_in_Danish_football>	dbpprop:name	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+<http://dbpedia.org/resource/2011%E2%80%9312_ACF_Fiorentina_season>	dbpprop:p	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+<http://dbpedia.org/resource/2008%E2%80%9309_ACF_Fiorentina_season>	dbpprop:name	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+<http://dbpedia.org/resource/2010%E2%80%9311_ACF_Fiorentina_season>	dbpprop:p	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+<http://dbpedia.org/resource/2009%E2%80%9310_ACF_Fiorentina_season>	dbpprop:text	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> ;
+	dbpprop:p	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+<http://dbpedia.org/resource/2012%E2%80%9313_ACF_Fiorentina_season>	dbpprop:p	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+<http://dbpedia.org/resource/2007%E2%80%9308_ACF_Fiorentina_season>	dbpprop:name	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+<http://dbpedia.org/resource/2005%E2%80%9306_Everton_F.C._season>	dbpprop:name	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup>	rdf:type	<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup>	rdf:type	dul:NaturalPerson .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup>	rdf:type	yago:AalborgChangPlayers ,
+		dul:Agent .
+@prefix ns8:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup>	rdf:type	ns8:Athlete .
+@prefix ns9:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup>	rdf:type	ns9:Q5 ,
+		yago:PremierLeaguePlayers ,
+		<http://dbpedia.org/class/yago/EvertonF.C.Players> ,
+		yago:FootballPlayer110101634 ,
+		yago:Athlete109820263 ,
+		yago:Player110439851 .
+@prefix ns10:	<http://schema.org/> .
+<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup>	rdf:type	ns10:Person ,
+		yago:DenmarkInternationalFootballers ,
+		yago:DanishExpatriateFootballers ,
+		yago:UdineseCalcioPlayers ,
+		yago:DanishFootballers ,
+		yago:ACFFiorentinaPlayers ,
+		yago:SerieAFootballers ,
+		ns8:SoccerPlayer ,
+		dbpedia-owl:SoccerPlayer ,
+		foaf:Person ,
+		yago:ExpatriateFootballersInItaly ,
+		yago:UEFAEuro2004Players ,
+		yago:PeopleFromVesthimmerlandMunicipality ,
+		yago:ExpatriateFootballersInEngland ,
+		yago:Contestant109613191 ,
+		yago:Object100002684 ,
+		yago:Whole100003553 ,
+		yago:PhysicalEntity100001930 ,
+		dbpedia-owl:Athlete .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup>	rdf:type	owl:Thing ,
+		ns9:Q215627 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		dbpedia-owl:Person ,
+		dbpedia-owl:Agent ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.053tts> ,
+		<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+@prefix ns12:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup>	owl:sameAs	ns12:Per_Krøldrup .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup>	rdfs:label	"Per Kr\u00F8ldrup"@pt ,
+		"Per Kr\u00F8ldrup"@it ,
+		"Per Kr\u00F8ldrup"@nl ,
+		"Per Kr\u00F8ldrup"@pl ,
+		"\u041A\u0440\u0451\u043B\u044C\u0434\u0440\u0443\u043F, \u041F\u0435\u0440"@ru ,
+		"Per Kr\u00F8ldrup" ,
+		"\u4F69\u5C14\u00B7\u514B\u7F57\u5C14\u5FB7\u9C81\u666E"@zh ,
+		"Per Kr\u00F8ldrup"@es ,
+		"Per Kr\u00F8ldrup"@de ,
+		"Per Kr\u00F8ldrup"@fr ,
+		"\u0628\u064A\u0631 \u0643\u0631\u0648\u0644\u062F\u0631\u0648\u0628"@ar ,
+		"\u30DA\u30A2\u30FB\u30AF\u30ED\u30EB\u30C9\u30EB\u30C3\u30D7"@ja .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup>	dcterms:subject	<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:S.C._Olhanense_players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup>	dcterms:subject	category:Expatriate_footballers_in_England ,
+		category:Expatriate_footballers_in_Portugal ,
+		category:Danish_footballers ,
+		category:Primeira_Liga_players ,
+		category:Serie_A_footballers ,
+		category:Living_people ,
+		category:Expatriate_footballers_in_Italy ,
+		category:Danish_expatriate_footballers ,
+		category:Denmark_international_footballers ,
+		category:ACF_Fiorentina_players ,
+		<http://dbpedia.org/resource/Category:1979_births> ,
+		category:Boldklubben_af_1893_players ,
+		category:Aalborg_Chang_players ,
+		category:Danish_expatriates_in_Portugal ,
+		<http://dbpedia.org/resource/Category:Everton_F.C._players> ,
+		category:People_from_Vesthimmerland_Municipality ,
+		category:Udinese_Calcio_players ,
+		category:UEFA_Euro_2004_players ,
+		category:Delfino_Pescara_1936_players ,
+		category:Premier_League_players ;
+	foaf:homepage	<http://it.violachannel.tv/dettaglio-team/items/player_356.html> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup>	dc:description	"Danish footballer" ,
+		"Danish footballer" ;
+	foaf:givenName	"Per" ;
+	foaf:name	"Per Kroldrup" ,
+		"Per Kr\u00F8ldrup" ,
+		"Kroldrup, Per" ,
+		"Per Billeskov Kr\u00F8ldrup" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Per_Kr\u00F8ldrup?oldid=603052848> ;
+	rdfs:comment	"Per Billeskov Kr\u00F8ldrup est un footballeur danois qui joue au poste de d\u00E9fenseur central dans le club du SC Olhanense. Il est n\u00E9 le 31 juillet 1979 \u00E0 Fars\u00F8 (Jutland-du-Nord)."@fr ,
+		"Per Billeskov Kr\u00F8ldrup (Fars\u00F8, 31 luglio 1979) \u00E8 un calciatore danese, difensore dell'Olhanense."@it ,
+		"\u4F69\u5C14\u00B7\u514B\u7F57\u5C14\u5FB7\u9C81\u666E\uFF08Per Kr\u00F8ldrup\uFF0C1979\u5E747\u670831\u65E5\uFF0D\uFF09\uFF0C\u662F\u4E00\u540D\u4E39\u9EA6\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u53F8\u804C\u540E\u536B\u3002"@zh ,
+		"Per Billeskov Kr\u00F8ldrup (ur 31 lipca 1979 w Fars\u00F8), jest du\u0144skim profesjonalnym pi\u0142karzem, kt\u00F3ry gra najcz\u0119\u015Bciej jako \u015Brodkowy obro\u0144ca we w\u0142oskiej dru\u017Cynie wyst\u0119puj\u0105cej w Serie A, ACF Fiorentina. Kr\u00F8ldrup jest reprezentantem swojego kraju i by\u0142 w sk\u0142adzie na Mistrzostwa Europy w Pi\u0142ce No\u017Cnej 2004 w Portugalii."@pl ,
+		"Per Billeskov Kr\u00F8ldrup (Fars\u00F8, 31 de julho de 1979) \u00E9 um futebolista dinamarqu\u00EAs que atualmente joga na Fiorentina e a Sele\u00E7\u00E3o Dinamarquesa, com a qual disputou a Eurocopa de 2004."@pt ,
+		"\u30DA\u30A2\u30FB\u30D3\u30EC\u30B9\u30B3\u30D5\u30FB\u30AF\u30ED\u30EB\u30C9\u30EB\u30C3\u30D7\u3001\uFF08Per Billeskov Kr\u00F8ldrup, 1979\u5E747\u670831\u65E5 - \uFF09\u306F\u30C7\u30F3\u30DE\u30FC\u30AF\u738B\u56FD\u30D5\u30A1\u30EB\u30BD (Fars\u00F8) \u51FA\u8EAB\u306E\u540C\u56FD\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3067\u3042\u308B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002"@ja ,
+		"Per Billeskov Kr\u00F8ldrup (born 31 July 1979 in Fars\u00F8) is a Danish professional footballer who is currently for the Primeira Liga club Olhanense.He has played 33 games for the Denmark national football team, and was part of their squad for the 2004 European Championship." ,
+		"Per Billeskov Kr\u00F8ldrup (Fars\u00F8, Dinamarca, 31 de julio de 1979) es un futbolista dan\u00E9s. Juega de defensa y su equipo actual es el Pescara Calcio."@es ,
+		"Per Billeskov Kr\u00F8ldrup (* 31. Juli 1979 in Fars\u00F8) ist ein d\u00E4nischer Fu\u00DFballspieler."@de ,
+		"\u041F\u0435\u0440 \u0411\u0438\u043B\u043B\u0435\u0301\u0441\u043A\u043E\u0432 \u041A\u0440\u0451\u0301\u043B\u044C\u0434\u0440\u0443\u043F (\u0434\u0430\u0442. Per Billeskov Kr\u00F8ldrup; 31 \u0438\u044E\u043B\u044F 1979, \u0424\u0430\u0440\u0441\u0451) \u2014 \u0434\u0430\u0442\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u00AB\u041E\u043B\u044C\u044F\u043D\u0435\u043D\u0441\u0438\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0414\u0430\u043D\u0438\u0438."@ru ,
+		"\u0628\u064A\u0631 \u0628\u0644\u064A\u0633\u0643\u0648\u0641 \u0643\u0631\u0648\u0644\u062F\u0631\u0628 (\u0628\u0627\u0644\u062F\u0646\u0645\u0627\u0631\u0643\u064A\u0629:Per Kr\u00F8ldrup)\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 31 \u064A\u0648\u0644\u064A\u0648 1979 \u0641\u064A \u0641\u0627\u0631\u0648\u0633\u0648 \u0641\u064A \u0627\u0644\u062F\u0646\u0645\u0627\u0631\u0643\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u062F\u0646\u0645\u0627\u0631\u0643\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0628\u0648\u0644\u062F\u0643\u0648\u0644\u0628\u0646 93 \u0641\u064A \u0639\u0627\u0645 1999\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2001\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2001 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0623\u0648\u062F\u0648\u0646\u064A\u0632\u064A \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2005\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 91 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 3 \u0623\u0647\u062F\u0627\u0641\u060C \u0648\u0641\u064A \u0645\u0648\u0633\u0645 2005/2006 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0625\u064A\u0641\u0631\u062A\u0648\u0646 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u0645\u0628\u0627\u0631\u0627\u062A\u064A\u0646\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2006 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0641\u064A\u0648\u0631\u0646\u062A\u064A\u0646\u0627.\u0648 \u0642\u062F \u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u062F\u0646\u0645\u0627\u0631\u0643 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2004."@ar ,
+		"Per Kr\u00F8ldrup (Fars\u00F8, 31 juli 1979) is een Deens betaald voetballer die bij voorkeur in de verdediging speelt. Na een half jaar in dienst van Everton FC keerde hij in de winterstop van het seizoen 2005/06 bij Fiorentina terug naar de Serie A, waarin hij in 2001/02 met Udinese Calcio debuteerde op het hoogste niveau. Eerder speelde hij in eigen land met Boldklubben 1893 drie jaar in een lagere divisie."@nl ;
+	foaf:surname	"Kroldrup" ;
+	foaf:isPrimaryTopicOf	ns2:Per_Krøldrup .
+@prefix ns18:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup>	dbpprop:hasPhotoCollection	ns18:Per_Krøldrup ;
+	dbpprop:name	"Kroldrup, Per" ,
+		"Per Kr\u00F8ldrup" ;
+	dbpedia-owl:abstract	"Per Kr\u00F8ldrup (Fars\u00F8, 31 juli 1979) is een Deens betaald voetballer die bij voorkeur in de verdediging speelt. Na een half jaar in dienst van Everton FC keerde hij in de winterstop van het seizoen 2005/06 bij Fiorentina terug naar de Serie A, waarin hij in 2001/02 met Udinese Calcio debuteerde op het hoogste niveau. Eerder speelde hij in eigen land met Boldklubben 1893 drie jaar in een lagere divisie."@nl ,
+		"Per Billeskov Kr\u00F8ldrup (Fars\u00F8, 31 luglio 1979) \u00E8 un calciatore danese, difensore dell'Olhanense."@it ,
+		"\u041F\u0435\u0440 \u0411\u0438\u043B\u043B\u0435\u0301\u0441\u043A\u043E\u0432 \u041A\u0440\u0451\u0301\u043B\u044C\u0434\u0440\u0443\u043F (\u0434\u0430\u0442. Per Billeskov Kr\u00F8ldrup; 31 \u0438\u044E\u043B\u044F 1979, \u0424\u0430\u0440\u0441\u0451) \u2014 \u0434\u0430\u0442\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u00AB\u041E\u043B\u044C\u044F\u043D\u0435\u043D\u0441\u0438\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0414\u0430\u043D\u0438\u0438."@ru ,
+		"\u4F69\u5C14\u00B7\u514B\u7F57\u5C14\u5FB7\u9C81\u666E\uFF08Per Kr\u00F8ldrup\uFF0C1979\u5E747\u670831\u65E5\uFF0D\uFF09\uFF0C\u662F\u4E00\u540D\u4E39\u9EA6\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u53F8\u804C\u540E\u536B\u3002"@zh ,
+		"\u0628\u064A\u0631 \u0628\u0644\u064A\u0633\u0643\u0648\u0641 \u0643\u0631\u0648\u0644\u062F\u0631\u0628 (\u0628\u0627\u0644\u062F\u0646\u0645\u0627\u0631\u0643\u064A\u0629:Per Kr\u00F8ldrup)\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 31 \u064A\u0648\u0644\u064A\u0648 1979 \u0641\u064A \u0641\u0627\u0631\u0648\u0633\u0648 \u0641\u064A \u0627\u0644\u062F\u0646\u0645\u0627\u0631\u0643\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u062F\u0646\u0645\u0627\u0631\u0643\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0628\u0648\u0644\u062F\u0643\u0648\u0644\u0628\u0646 93 \u0641\u064A \u0639\u0627\u0645 1999\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2001\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2001 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0623\u0648\u062F\u0648\u0646\u064A\u0632\u064A \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2005\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 91 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 3 \u0623\u0647\u062F\u0627\u0641\u060C \u0648\u0641\u064A \u0645\u0648\u0633\u0645 2005/2006 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0625\u064A\u0641\u0631\u062A\u0648\u0646 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u0645\u0628\u0627\u0631\u0627\u062A\u064A\u0646\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2006 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0641\u064A\u0648\u0631\u0646\u062A\u064A\u0646\u0627.\u0648 \u0642\u062F \u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u062F\u0646\u0645\u0627\u0631\u0643 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2004."@ar ,
+		"Per Billeskov Kr\u00F8ldrup (ur 31 lipca 1979 w Fars\u00F8), jest du\u0144skim profesjonalnym pi\u0142karzem, kt\u00F3ry gra najcz\u0119\u015Bciej jako \u015Brodkowy obro\u0144ca we w\u0142oskiej dru\u017Cynie wyst\u0119puj\u0105cej w Serie A, ACF Fiorentina. Kr\u00F8ldrup jest reprezentantem swojego kraju i by\u0142 w sk\u0142adzie na Mistrzostwa Europy w Pi\u0142ce No\u017Cnej 2004 w Portugalii."@pl ,
+		"Per Billeskov Kr\u00F8ldrup (* 31. Juli 1979 in Fars\u00F8) ist ein d\u00E4nischer Fu\u00DFballspieler."@de ,
+		"Per Billeskov Kr\u00F8ldrup (born 31 July 1979 in Fars\u00F8) is a Danish professional footballer who is currently for the Primeira Liga club Olhanense.He has played 33 games for the Denmark national football team, and was part of their squad for the 2004 European Championship." ,
+		"Per Billeskov Kr\u00F8ldrup (Fars\u00F8, Dinamarca, 31 de julio de 1979) es un futbolista dan\u00E9s. Juega de defensa y su equipo actual es el Pescara Calcio."@es ,
+		"\u30DA\u30A2\u30FB\u30D3\u30EC\u30B9\u30B3\u30D5\u30FB\u30AF\u30ED\u30EB\u30C9\u30EB\u30C3\u30D7\u3001\uFF08Per Billeskov Kr\u00F8ldrup, 1979\u5E747\u670831\u65E5 - \uFF09\u306F\u30C7\u30F3\u30DE\u30FC\u30AF\u738B\u56FD\u30D5\u30A1\u30EB\u30BD (Fars\u00F8) \u51FA\u8EAB\u306E\u540C\u56FD\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3067\u3042\u308B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002"@ja ,
+		"Per Billeskov Kr\u00F8ldrup (Fars\u00F8, 31 de julho de 1979) \u00E9 um futebolista dinamarqu\u00EAs que atualmente joga na Fiorentina e a Sele\u00E7\u00E3o Dinamarquesa, com a qual disputou a Eurocopa de 2004."@pt ,
+		"Per Billeskov Kr\u00F8ldrup est un footballeur danois qui joue au poste de d\u00E9fenseur central dans le club du SC Olhanense. Il est n\u00E9 le 31 juillet 1979 \u00E0 Fars\u00F8 (Jutland-du-Nord)."@fr ;
+	dbpedia-owl:wikiPageID	1467137 ;
+	dbpedia-owl:wikiPageRevisionID	603052848 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup>	dbpprop:birthDate	"1979-07-31+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Fars\u00F8, Denmark" ;
+	dbpprop:dateOfBirth	"1979-07-31+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Fars\u00F8, Denmark" ;
+	dbpprop:shortDescription	"Danish footballer" ;
+	dbpedia-owl:birthDate	"1979-07-31+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	<http://dbpedia.org/resource/Fars%C3%B8> ,
+		dbpedia:Denmark_national_football_team ;
+	dbpedia-owl:birthYear	"1979+02:00"^^xsd:gYear ;
+	dbpprop:goals	3 ,
+		0 ,
+		4 ,
+		8 ;
+	dbpprop:caps	17 ,
+		1 ,
+		5 ,
+		117 ,
+		91 ,
+		57 ;
+	dbpprop:years	1999 ,
+		2006 ,
+		2005 ,
+		2001 ,
+		2013 ;
+	dbpprop:youthclubs	dbpedia:Boldklubben_af_1893 ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup__1> ,
+		<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup__2> ,
+		<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup__4> ,
+		<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup__3> ,
+		<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup__6> ,
+		<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup__8> ,
+		<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup__7> ,
+		<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup__5> ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.9399999999999999467 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup>	ns21:height	"194.0"^^ns20:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/S.C._Olhanense> ;
+	dbpprop:clubnumber	3 ;
+	dbpprop:fullname	"Per Billeskov Kr\u00F8ldrup" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/S.C._Olhanense> ,
+		dbpedia:ACF_Fiorentina ,
+		dbpedia:Delfino_Pescara_1936 ,
+		dbpedia:Udinese_Calcio ,
+		dbpedia:Boldklubben_af_1893 ,
+		<http://dbpedia.org/resource/Everton_F.C.> ;
+	dbpedia-owl:team	dbpedia:Denmark_national_football_team ,
+		<http://dbpedia.org/resource/S.C._Olhanense> ,
+		dbpedia:ACF_Fiorentina ,
+		dbpedia:Delfino_Pescara_1936 ,
+		dbpedia:Udinese_Calcio ,
+		dbpedia:Boldklubben_af_1893 ,
+		<http://dbpedia.org/resource/Everton_F.C.> .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:pcupdate	"2013-04-13+02:00"^^xsd:date ;
+	dbpprop:youthyears	1998 ;
+	dbpedia-owl:wikiPageExternalLink	<http://englishviola.com/per-kroldrup/4535353273> ,
+		<http://it.violachannel.tv/dettaglio-team/items/player_356.html> ;
+	dbpprop:nationalcaps	33 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:Denmark_national_football_team ;
+	dbpprop:nationalyears	2004 ;
+	dbpedia-owl:number	3 ;
+	dbpprop:ntupdate	"2010-10-12+02:00"^^xsd:date .
+dbpedia:Per_Krøldrup	owl:sameAs	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+<http://dbpedia.org/resource/2005%E2%80%9306_Everton_F.C._season__Per_Kr%C3%B8ldrup__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+dbpedia:Kroldrup	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+dbpedia:Per_Koldrup	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+dbpedia:Per_Kroldrup	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .
+<http://dbpedia.org/resource/S.C._Olhanense__Per_Kroldrup__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Per_Kr%C3%B8ldrup> .

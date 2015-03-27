@@ -1,0 +1,1419 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_de_Russie_de_football	owl:sameAs	dbpedia:Russia_national_football_team .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Russische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Russia_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q726080	owl:sameAs	dbpedia:Russia_national_football_team .
+@prefix ns5:	<http://cs.dbpedia.org/resource/> .
+ns5:Ruská_fotbalová_reprezentace	owl:sameAs	dbpedia:Russia_national_football_team .
+<http://el.dbpedia.org/resource/\u0395\u03B8\u03BD\u03B9\u03BA\u03AE_\u03A1\u03C9\u03C3\u03AF\u03B1\u03C2_(\u03C0\u03BF\u03B4\u03CC\u03C3\u03C6\u03B1\u03B9\u03C1\u03BF_\u03B1\u03BD\u03B4\u03C1\u03CE\u03BD)>	owl:sameAs	dbpedia:Russia_national_football_team .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Selección_de_fútbol_de_Rusia	owl:sameAs	dbpedia:Russia_national_football_team .
+@prefix ns7:	<http://id.dbpedia.org/resource/> .
+ns7:Tim_nasional_sepak_bola_Rusia	owl:sameAs	dbpedia:Russia_national_football_team .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Nazionale_di_calcio_della_Russia	owl:sameAs	dbpedia:Russia_national_football_team .
+@prefix ns9:	<http://ja.dbpedia.org/resource/> .
+ns9:サッカーロシア代表	owl:sameAs	dbpedia:Russia_national_football_team .
+@prefix ns10:	<http://ko.dbpedia.org/resource/> .
+ns10:러시아_축구_국가대표팀	owl:sameAs	dbpedia:Russia_national_football_team .
+@prefix ns11:	<http://nl.dbpedia.org/resource/> .
+ns11:Russisch_voetbalelftal	owl:sameAs	dbpedia:Russia_national_football_team .
+@prefix ns12:	<http://pl.dbpedia.org/resource/> .
+ns12:Reprezentacja_Rosji_w_piłce_nożnej	owl:sameAs	dbpedia:Russia_national_football_team .
+@prefix ns13:	<http://pt.dbpedia.org/resource/> .
+ns13:Seleção_Russa_de_Futebol	owl:sameAs	dbpedia:Russia_national_football_team .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Roman_Shirokov	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Roman_Shirokov	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Russia_national_football_team	rdf:type	yago:EuropeanNationalAssociationFootballTeams ,
+		owl:Thing .
+@prefix ns18:	<http://schema.org/> .
+dbpedia:Russia_national_football_team	rdf:type	ns18:Organization .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Russia_national_football_team	rdf:type	dul:SocialPerson ,
+		ns18:SportsTeam ,
+		yago:YagoLegalActorGeo ,
+		dul:Agent ,
+		yago:YagoLegalActor ,
+		yago:FootballTeam108080025 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:NationalSportsTeamsOfRussia ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Organisation ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 .
+@prefix ns20:	<http://kk.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns20:Ресей_Ұлттық_футбол_құрама_командасы ,
+		ns1:Équipe_de_Russie_de_football .
+@prefix ns21:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns21:Rysslands_herrlandslag_i_fotboll .
+@prefix ns22:	<http://da.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns22:Ruslands_fodboldlandshold ,
+		ns12:Reprezentacja_Rosji_w_piłce_nożnej .
+@prefix ns23:	<http://www.bbc.co.uk/things/a80d80f4-c47e-4417-b1c7-de1af76a03a7#> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns23:id .
+@prefix ns24:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns24:منتخب_روسيا_لكرة_القدم .
+@prefix ns25:	<http://sr.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns25:Фудбалска_репрезентација_Русије .
+@prefix ns26:	<http://wikidata.org/entity/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns26:Q726080 .
+@prefix ns27:	<http://eo.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns27:Rusia_nacia_teamo_de_futbalo .
+@prefix ns28:	<http://ka.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns28:რუსეთის_ეროვნული_საფეხბურთო_ნაკრები .
+@prefix ns29:	<http://sl.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns29:Ruska_nogometna_reprezentanca .
+@prefix ns30:	<http://hr.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns30:Ruska_nogometna_reprezentacija .
+@prefix ns31:	<http://ca.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns31:Selecció_de_futbol_de_Rússia .
+@prefix ns32:	<http://mk.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns32:Фудбалска_репрезентација_на_Русија .
+@prefix ns33:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns33:俄羅斯國家足球隊 .
+@prefix ns34:	<http://sq.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns34:Kombëtarja_ruse_e_futbollit .
+@prefix ns35:	<http://bg.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns35:Национален_отбор_по_футбол_на_Русия .
+@prefix ns36:	<http://la.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns36:Turma_Nationalis_Pedilusoria_Russica .
+@prefix ns37:	<http://jv.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns37:Tim_nasional_bal-balan_Rusia ,
+		ns13:Seleção_Russa_de_Futebol .
+@prefix ns38:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns38:تیم_ملی_فوتبال_روسیه ,
+		ns6:Selección_de_fútbol_de_Rusia .
+@prefix ns39:	<http://mn.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns39:Орос_улсын_хөлбөмбөгийн_шигшээ_баг ,
+		<http://rdf.freebase.com/ns/m.03262k> .
+@prefix ns40:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns40:Russia_national_football_team ,
+		ns11:Russisch_voetbalelftal .
+@prefix ns41:	<http://th.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns41:ฟุตบอลทีมชาติรัสเซีย .
+@prefix ns42:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns42:Rusya_Millî_Futbol_Takımı .
+@prefix ns43:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns43:Orosz_labdarúgó-válogatott .
+@prefix ns44:	<http://uz.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns44:Rossiya_milliy_futbol_terma_jamoasi .
+@prefix ns45:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns45:Venäjän_jalkapallomaajoukkue .
+@prefix ns46:	<http://lv.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns46:Krievijas_futbola_izlase .
+@prefix ns47:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns47:Russia_national_football_team .
+@prefix ns48:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns48:Збірна_Росії_з_футболу ,
+		ns8:Nazionale_di_calcio_della_Russia .
+@prefix ns49:	<http://et.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns49:Venemaa_jalgpallikoondis ,
+		dbpedia:Russia_national_football_team .
+@prefix ns50:	<http://bs.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns50:Nogometna_reprezentacija_Rusije .
+@prefix ns51:	<http://be_x_old.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns51:Зборная_Расеі_па_футболе .
+@prefix ns52:	<http://mt.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns52:Tim_nazzjonali_tal-futbol_tar-Russja ,
+		ns4:Q726080 ,
+		<http://el.dbpedia.org/resource/\u0395\u03B8\u03BD\u03B9\u03BA\u03AE_\u03A1\u03C9\u03C3\u03AF\u03B1\u03C2_(\u03C0\u03BF\u03B4\u03CC\u03C3\u03C6\u03B1\u03B9\u03C1\u03BF_\u03B1\u03BD\u03B4\u03C1\u03CE\u03BD)> .
+@prefix ns53:	<http://he.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns53:נבחרת_רוסיה_בכדורגל ,
+		ns7:Tim_nasional_sepak_bola_Rusia ,
+		ns9:サッカーロシア代表 .
+@prefix ns54:	<http://yago-knowledge.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns54:Russia_national_football_team .
+@prefix ns55:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns55:Đội_tuyển_bóng_đá_quốc_gia_Nga .
+@prefix ns56:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns56:Echipa_națională_de_fotbal_a_Rusiei .
+@prefix ns57:	<http://sk.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns57:Ruské_národné_futbalové_mužstvo .
+@prefix ns58:	<http://az.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns58:Rusiya_milli_futbol_komandası .
+@prefix ns59:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns59:Rusijos_vyrų_futbolo_rinktinė .
+@prefix ns60:	<http://wuu.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns60:俄罗斯国家足球队 .
+@prefix ns61:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns61:रशिया_फुटबॉल_संघ ,
+		ns10:러시아_축구_국가대표팀 .
+@prefix ns62:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns62:Сборная_России_по_футболу ,
+		ns3:Russische_Fußballnationalmannschaft ,
+		ns5:Ruská_fotbalová_reprezentace .
+@prefix ns63:	<http://gl.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns63:Selección_de_fútbol_de_Rusia .
+@prefix ns64:	<http://no.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns64:Russlands_herrelandslag_i_fotball .
+@prefix ns65:	<http://be.dbpedia.org/resource/> .
+dbpedia:Russia_national_football_team	owl:sameAs	ns65:Зборная_Расіі_па_футболе .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Russia_national_football_team	rdfs:label	"\u30B5\u30C3\u30AB\u30FC\u30ED\u30B7\u30A2\u4EE3\u8868"@ja ,
+		"Russisch voetbalelftal"@nl ,
+		"Russia national football team" ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0420\u043E\u0441\u0441\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"Russische Fu\u00DFballnationalmannschaft"@de ,
+		"\u00C9quipe de Russie de football"@fr ,
+		"Sele\u00E7\u00E3o Russa de Futebol"@pt ,
+		"Nazionale di calcio della Russia"@it ,
+		"Reprezentacja Rosji w pi\u0142ce no\u017Cnej"@pl ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0631\u0648\u0633\u064A\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"Selecci\u00F3n de f\u00FAtbol de Rusia"@es ,
+		"\u4FC4\u7F85\u65AF\u570B\u5BB6\u8DB3\u7403\u968A"@zh .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Russia_national_football_team	dcterms:subject	category:National_sports_teams_of_Russia ,
+		category:Russia_national_football_team ,
+		category:European_national_association_football_teams .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbpedia:Russia_national_football_team	foaf:homepage	<http://www.rfs.ru/> ;
+	dbpprop:expanded	"yes" ;
+	foaf:name	"Russia" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Russia_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Russia_national_football_team?oldid=605857277> ;
+	rdfs:comment	"A Sele\u00E7\u00E3o Russa de Futebol representa a R\u00FAssia nas competi\u00E7\u00F5es de futebol da FIFA.Surgiu ap\u00F3s a dissolu\u00E7\u00E3o da Sele\u00E7\u00E3o da CEI, criada apenas para disputar a Eurocopa de 1992, para a qual a sele\u00E7\u00E3o da URSS, extinta juntamente com o pa\u00EDs no ano anterior, j\u00E1 estava classificada.Entretanto, v\u00E1rios jogadores n\u00E3o-russos cujos pa\u00EDses conquistaram a independ\u00EAncia preferiram adotar a R\u00FAssia como pa\u00EDs e sele\u00E7\u00E3o."@pt ,
+		"La Nazionale di calcio russa (rus. \u041D\u0430\u0446\u0438\u043E\u043D\u0430\u0301\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0420\u043E\u0441\u0441\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443) \u00E8 la rappresentativa calcistica della Russia ed \u00E8 posta sotto l'egida della Rossijskij Futbol'nyj Sojuz.Sia la FIFA che l'UEFA considerano la nazionale russa come unica erede dell'Unione Sovietica.Nella Classifica mondiale della FIFA, creata ad agosto 1993, la Russia ha ottenuto come miglior piazzamento il 3\u00BA posto di aprile 1996, mentre la posizione peggiore \u00E8 stata il 40\u00BA posto di dicembre 1998."@it ,
+		"\u30B5\u30C3\u30AB\u30FC\u30ED\u30B7\u30A2\u4EE3\u8868\uFF08\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0420\u043E\u0441\u0441\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443\uFF09\u306F\u3001\u30ED\u30B7\u30A2\u30B5\u30C3\u30AB\u30FC\u9023\u5408\uFF08RFU\uFF09\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30ED\u30B7\u30A2\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"La Selecci\u00F3n de f\u00FAtbol de Rusia es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Uni\u00F3n del F\u00FAtbol de Rusia, perteneciente a la UEFA.El primer partido disputado por Rusia se realiz\u00F3 durante los Juegos Ol\u00EDmpicos de Estocolmo 1912. Sin embargo, este equipo s\u00F3lo jug\u00F3 9 partidos (entre 1912 y 1914). Pocos a\u00F1os despu\u00E9s volvieron a los campos de juego en 1923, pero como el equipo de la Uni\u00F3n Sovi\u00E9tica."@es ,
+		"L'\u00E9quipe de Russie de football (en russe : \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0420\u043E\u0441\u0441\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443) est la s\u00E9lection de joueurs russes repr\u00E9sentant le pays lors des comp\u00E9titions internationales de football masculin, sous l'\u00E9gide de la F\u00E9d\u00E9ration de Russie de football.Cette s\u00E9lection prend en juillet 1992 la suite de l'\u00E9quipe de la CEI, qui elle-m\u00EAme avait remplac\u00E9 l'\u00E9quipe d'Union sovi\u00E9tique en janvier 1992."@fr ,
+		"\u4FC4\u7F85\u65AF\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u4EE3\u8868\u4FC4\u7F85\u65AF\u7684\u5B98\u65B9\u8DB3\u7403\u968A\uFF0C\u7531\u4FC4\u7F85\u65AF\u8DB3\u7403\u806F\u6703\u7BA1\u7406\uFF0C\u73FE\u4EFB\u4E3B\u6559\u7DF4\u662F\u610F\u5927\u5229\u4EBA\u5361\u6BD4\u8DEF\u3002\u4FC4\u7F85\u65AF\u7684\u5B98\u65B9\u8DB3\u7403\u968A\u65E9\u5728\u6C99\u4FC4\u6642\u4EE3\u5DF2\u6709\u7D00\u9304\uFF0C\u7576\u6642\u7B2C\u4E00\u5834\u570B\u969B\u8CFD\u4E431912\u5E74\u5C0D\u8CFD\u82AC\u862D\uFF0C\u7576\u6642\u843D\u65571\u6BD42\u3002\u81EA1991\u5E74\u8607\u806F\u89E3\u9AD4\u5F8C\u6210\u7ACB\u4E86\u591A\u500B\u570B\u5BB6\uFF0C\u4FC4\u7F85\u65AF\u662F\u5176\u4E2D\u4E4B\u4E00\u3002\u800C\u4FC4\u7F85\u65AF\u570B\u5BB6\u8DB3\u7403\u968A\u5247\u4E43\u662F\u7531\u8607\u806F\u570B\u5BB6\u8DB3\u7403\u968A\u5206\u88C2\u51FA\u4F86\u3002\u81EA\u6210\u7ACB\u4EE5\u4F86\u4FC4\u7F85\u65AF\u53EA\u66FE\u6649\u7D1A1994\u5E74\u548C2002\u5E74\u5169\u5C46\u4E16\u754C\u76C3\u6C7A\u8CFD\u5468\uFF0C\u4F46\u5169\u5C46\u7686\u5728\u9996\u8F2A\u5206\u7D44\u8CFD\u51FA\u5C40\u3002\u57282006\u5E74\u4E16\u754C\u76C3\u5916\u570D\u8CFD\uFF0C\u4FC4\u7F85\u65AF\u66FE\u5927\u6557\u7D66\u8461\u8404\u72591-7\u3002\u6B50\u6D32\u570B\u5BB6\u76C3\u65B9\u9762\uFF0C\u4FC4\u7F85\u65AF\u5247\u6649\u7D1A\u904E\u56DB\u5C46\u6C7A\u8CFD\u5468\uFF081996\u30012004\u30012008\u30012012\uFF09\uFF0C\u5176\u4E2D\u57282008\u5E74\u6B50\u6D32\u570B\u5BB6\u76C3\uFF0C\u4FC4\u7F85\u65AF\u6649\u7D1A\u516B\u5F37\u5F8C\u4EE53-1\u64CA\u6557\u8377\u862D\uFF0C\u9996\u6B21\u6649\u8EAB\u56DB\u5F37\uFF0C\u4F46\u6700\u5F8C\u5728\u6E96\u6C7A\u8CFD\u4EE50-3\u5927\u6557\u7D66\u5F8C\u4F86\u596A\u5F97\u51A0\u8ECD\u7684\u897F\u73ED\u7259\u3002\u9019\u4E5F\u662F\u4ED6\u5011\u5728\u8607\u806F\u89E3\u9AD4\u4EE5\u5F8C\u7684\u6700\u597D\u6210\u7E3E\u3002\u8FD1\u5E74\u4FC4\u7F85\u65AF\u96D6\u7136\u88AB\u8996\u70BA\u6B50\u6D32\u5176\u4E2D\u4E00\u652F\u6709\u5BE6\u529B\u7684\u7403\u968A\uFF0C\u4F46\u5F80\u5F80\u5728\u5927\u8CFD\u4E2D\u7684\u95DC\u9375\u6642\u523B\u8868\u73FE\u5931\u6E96\u3002\u57282010\u5E74\u4E16\u754C\u676F\u5916\u570D\u8CFD\uFF0C\u4FC4\u7F85\u65AF\u53D6\u5F97\u9644\u52A0\u8CFD\u8CC7\u683C\uFF0C\u8207\u5BE6\u529B\u4E00\u822C\u7684\u65AF\u6D1B\u6587\u5C3C\u4E9E\u722D\u596A\u51FA\u7DDA\u6C7A\u8CFD\u5468\u8CC7\u683C\uFF0C\u672C\u4EE5\u70BA\u4FC4\u7F85\u65AF\u52DD\u5238\u5728\u63E1\uFF0C\u600E\u77E5\u4FC4\u7F85\u65AF\u5728\u4E00\u5EA6\u9818\u5148\u5169\u7403\u4E4B\u4E0B\uFF0C\u537B\u88AB\u5C0D\u624B\u7E3D\u6BD4\u6578\u8FFD\u5E732-2\uFF0C\u4FC4\u7F85\u65AF\u66F4\u56E0\u4F5C\u5BA2\u5165\u7403\u4E0D\u53CA\u5C0D\u624B\u88AB\u6DD8\u6C70\u3002\u81F32012\u5E74\u6B50\u6D32\u570B\u5BB6\u76C3\uFF0C\u4FC4\u7F85\u65AF\u9996\u5834\u5206\u7D44\u8CFD\u4EE54-1\u5927\u52DD\u6377\u514B\uFF0C\u4E00\u5EA6\u6210\u70BA\u51FA\u7DDA\u71B1\u9580\uFF0C\u4F46\u6700\u5F8C\u4E00\u5834\u5206\u7D44\u8CFD\u537B\u7206\u51B7\u88AB\u5E0C\u81D8\u4EE51-0\u6253\u6557\uFF0C\u88AB\u6DD8\u6C70\u51FA\u5C40\u30022014\u5E74\u4E16\u754C\u76C3\u5916\u570D\u8CFD\uFF0C\u4FC4\u7F85\u65AF\u58D3\u5012\u540C\u7D44\u7684\u52C1\u6575\u8461\u8404\u7259\uFF0C\u53D6\u5F97\u5C0F\u7D44\u9996\u540D\u76F4\u63A5\u51FA\u7DDA\u6C7A\u8CFD\u5468\u3002\u4FC4\u7F85\u65AF\u7684\u7403\u8863\u8D5E\u52A9\u5546\u662F\u963F\u8FEA\u9054\u65AF\u3002"@zh ,
+		"Het Russisch voetbalelftal is een team van voetballers dat Rusland vertegenwoordigt in internationale wedstrijden. Van 1923 tot 1992 kwamen Russische voetballers uit voor het voetbalelftal van de Sovjet-Unie. Op het EK voetbal van 1992 was het land actief als deel van het Gemenebest van Onafhankelijke Staten. Het grootste succes tot op heden is het bereiken van de halve finale op het EK 2008.De eerste jaren vanaf 1992 waren niet al te succesvol."@nl ,
+		"\u0421\u0431\u043E\u0301\u0440\u043D\u0430\u044F \u0420\u043E\u0441\u0441\u0438\u0301\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u0301\u043B\u0443 (\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u0441 1992 \u0433\u043E\u0434\u0430) \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u0420\u043E\u0441\u0441\u0438\u044E \u043D\u0430 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F\u0445 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u041E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u0430\u044F \u043F\u0440\u0430\u0432\u043E\u043F\u0440\u0435\u0435\u043C\u043D\u0438\u0446\u0430 \u0441\u0431\u043E\u0440\u043D\u044B\u0445 \u0420\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u043E\u0439 \u0438\u043C\u043F\u0435\u0440\u0438\u0438, \u0420\u0421\u0424\u0421\u0420, \u0421\u0421\u0421\u0420 \u0438 \u0421\u041D\u0413. \u0420\u0443\u043A\u043E\u0432\u043E\u0434\u044F\u0449\u0430\u044F \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F \u2014 \u0420\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u044B\u0439 \u0441\u043E\u044E\u0437. \u041D\u0430\u0438\u0432\u044B\u0441\u0448\u0438\u043C \u0434\u043E\u0441\u0442\u0438\u0436\u0435\u043D\u0438\u0435\u043C \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0440\u0430\u0437\u0434\u0435\u043B\u0435\u043D\u043D\u043E\u0435 \u0441 \u0422\u0443\u0440\u0446\u0438\u0435\u0439 3-\u0435 \u043C\u0435\u0441\u0442\u043E \u043D\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0415\u0432\u0440\u043E\u043F\u044B 2008 (\u0441 1984 \u0433\u043E\u0434\u0430 \u043D\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0415\u0432\u0440\u043E\u043F\u044B \u043C\u0430\u0442\u0447\u0438 \u0437\u0430 \u0442\u0440\u0435\u0442\u044C\u0435 \u043C\u0435\u0441\u0442\u043E \u043D\u0435 \u043F\u0440\u043E\u0432\u043E\u0434\u044F\u0442\u0441\u044F)."@ru ,
+		"The Russia national football team (Russian: \u041D\u0430\u0446\u0438\u043E\u043D\u0430\u0301\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0301\u0440\u043D\u0430\u044F \u0420\u043E\u0441\u0441\u0438\u0301\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u0301\u043B\u0443) represents Russia in association football and is controlled by the Russian Football Union (Russian: \u0420\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0438\u0439 \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u044B\u0439 \u0421\u043E\u044E\u0437, Rossiyskiy Futbo\u013Enyy Soyuz), the governing body for football in Russia. Russia's home grounds are Luzhniki Stadium, Lokomotiv Stadium (both in Moscow), and Petrovsky Stadium in St.Petersburg." ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0631\u0648\u0633\u064A\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 (\u0628\u0627\u0644\u0631\u0648\u0633\u064A\u0629: \u041D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0420\u043E\u0441\u0441\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443) \u0627\u0644\u0645\u0645\u062B\u0644 \u0627\u0644\u0631\u0633\u0645\u064A \u0644\u0631\u0648\u0633\u064A\u0627 \u0641\u064A \u0644\u0639\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0648\u0627\u0644\u0648\u0627\u0642\u0639 \u062A\u062D\u062A \u0645\u0638\u0644\u0629 \u0627\u062A\u062D\u0627\u062F \u0631\u0648\u0633\u064A\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 (\u0628\u0627\u0644\u0631\u0648\u0633\u064A\u0629: \u0420\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0438\u0439 \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u044B\u0439 \u0421\u043E\u044E\u0437) \u0627\u0644\u0645\u0646\u0648\u0637 \u0628\u0625\u062F\u0627\u0631\u0629 \u0634\u0624\u0648\u0646 \u0634\u0624\u0624\u0646 \u0627\u0644\u0644\u0639\u0628\u0629 \u0641\u064A \u0627\u0644\u0628\u0644\u0627\u062F\u060C \u0648\u064A\u062A\u062E\u0630 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0631\u0648\u0633\u064A \u0627\u0644\u0639\u062F\u064A\u062F \u0645\u0646 \u0627\u0644\u0645\u0644\u0627\u0639\u0628 \u0627\u0644\u0631\u0633\u0645\u064A\u0629 \u0644\u0647\u061B \u064A\u0623\u062A\u064A \u0641\u064A \u0645\u0642\u062F\u0645\u062A\u0647\u0627 \u0633\u062A\u0627\u062F \u0644\u0648\u062C\u0646\u064A\u0643\u064A \u0628\u0627\u0644\u0639\u0627\u0635\u0645\u0629 \u0627\u0644\u0631\u0648\u0633\u064A\u0629 \u0645\u0648\u0633\u0643\u0648 \u0648\u0647\u0648 \u0627\u0644\u0645\u0644\u0639\u0628 \u0627\u0644\u0645\u0639\u062A\u0645\u062F \u0645\u0646 \u0642\u0628\u0644 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0631\u0648\u0633\u064A \u0643\u0645\u0644\u0639\u0628 \u0631\u0626\u064A\u0633\u064A \u0644\u0644\u0645\u0642\u0627\u0628\u0644\u0627\u062A \u0627\u0644\u062F\u0648\u0644\u064A\u0629\u060C \u0643\u0630\u0644\u0643 \u0633\u062A\u0627\u062F \u0644\u0648\u0643\u0648\u0645\u0648\u062A\u064A\u0641 \u0628\u0645\u0648\u0633\u0643\u0648 \u0648\u0633\u062A\u0627\u062F \u0628\u062A\u0631\u0648\u0641\u0633\u0643\u064A \u0628\u0633\u0627\u0646\u062A \u0628\u0637\u0631\u0633\u0628\u0631\u063A\u060C \u0648\u064A\u062A\u0648\u0644\u064A \u0627\u0644\u0642\u064A\u0627\u062F\u0629 \u0627\u0644\u0641\u0646\u064A\u0629 \u0644\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0647\u0648\u0644\u0646\u062F\u064A \u062F\u064A\u0643 \u0623\u062F\u0641\u0648\u0643\u0627\u062A \u0648\u0627\u0644\u0630\u064A \u062A\u0639\u0627\u0642\u062F \u0645\u0639\u0647 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0631\u0648\u0633\u064A \u0641\u064A \u0645\u0627\u064A\u0648 2010 \u062E\u0644\u0641\u0627 \u0644\u0645\u0648\u0627\u0637\u0646\u0647 \u063A\u0648\u0633 \u0647\u064A\u062F\u064A\u0646\u0643 \u0648\u0627\u0644\u0630\u064A \u0642\u0627\u062F \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0631\u0648\u0633\u064A \u062E\u0644\u0627\u0644 \u063A\u0645\u0627\u0631 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 2008 \u0644\u064A\u062D\u0642\u0642 \u0623\u0641\u0636\u0644 \u0625\u0646\u062C\u0627\u0632\u0627\u062A \u0627\u0644\u0643\u0631\u0629 \u0627\u0644\u0631\u0648\u0633\u064A\u0629 \u0641\u064A \u0627\u0644\u0639\u0635\u0631 \u0627\u0644\u062D\u062F\u064A\u062B \u0628\u062A\u062E\u0637\u064A \u062F\u0648\u0631 \u0627\u0644\u0645\u062C\u0645\u0648\u0639\u0627\u062A \u0644\u0623\u0648\u0644 \u0645\u0631\u0629 \u0641\u064A \u062A\u0627\u0631\u064A\u062E\u0647 \u0641\u064A \u0623\u064A \u0645\u0646 \u0627\u0644\u0628\u0637\u0648\u0644\u0627\u062A \u0627\u0644\u0643\u0628\u0631\u0649 \u0648\u0648\u0635\u0648\u0644\u0647 \u0644\u0644\u062F\u0648\u0631 \u0642\u0628\u0644 \u0627\u0644\u0646\u0647\u0627\u0626\u064A \u0641\u064A \u062B\u0627\u0644\u062B \u0645\u0634\u0627\u0631\u0643\u0627\u062A \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0631\u0648\u0633\u064A \u0628\u0627\u0644\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 \u0628\u0639\u062F \u0645\u0634\u0627\u0631\u0643\u062A\u064A\u0646 \u0633\u0627\u0628\u0642\u062A\u064A\u0646 \u0639\u0627\u0645\u064A 1996 \u06482004 \u0642\u0628\u0644 \u062A\u0623\u0647\u0644\u0647 \u0627\u0644\u0623\u062E\u064A\u0631 \u0639\u0627\u0645 2012\u060C \u0643\u0645\u0627 \u0634\u0627\u0631\u0643 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0631\u0648\u0633\u064A \u0641\u064A \u0628\u0637\u0648\u0644\u062A\u064A\u0646 \u0644\u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0639\u0627\u0645\u064A 1994 \u06482002 \u0648\u0625\u0646 \u0644\u0645 \u062A\u0636\u0627\u0647\u064A \u062A\u0644\u0643 \u0627\u0644\u0625\u0646\u062C\u0627\u0632\u0627\u062A \u0645\u062B\u064A\u0644\u062A\u0647\u0627 \u0627\u0644\u062A\u0627\u0631\u064A\u062E\u064A\u0629 \u0644\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0633\u0648\u0641\u064A\u062A\u064A.\u0645\u0646 \u062C\u0627\u0646\u0628\u0647 \u0627\u0639\u062A\u0631\u0641 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u062F\u0648\u0644\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 (\u0627\u0644\u0641\u064A\u0641\u0627) \u0628\u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0631\u0648\u0633\u064A \u0643\u0648\u0631\u064A\u062B \u0634\u0631\u0639\u064A \u0644\u0628\u0637\u0648\u0644\u0627\u062A \u0648\u0625\u0646\u062C\u0627\u0632\u0627\u062A \u0645\u0646\u062A\u062E\u0628\u064A \u0627\u062A\u062D\u0627\u062F \u0627\u0644\u062F\u0648\u0644 \u0627\u0644\u0645\u0633\u062A\u0642\u0644\u0629 \u0648\u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0633\u0648\u0641\u064A\u062A\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645."@ar ,
+		"Die russische Fu\u00DFballnationalmannschaft (russisch \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0420\u043E\u0441\u0441\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443/Sbornaja Rossii po futbolu) ist die Vertretung Russlands im Fu\u00DFball und wird vom russischen Fu\u00DFballverband Rossijski Futbolny Sojus organisiert."@de ,
+		"Reprezentacja Rosji w pi\u0142ce no\u017Cnej m\u0119\u017Cczyzn \u2013 zesp\u00F3\u0142 pi\u0142karski, bior\u0105cy udzia\u0142 w imieniu Rosji w meczach i sportowych imprezach mi\u0119dzynarodowych, powo\u0142ywany przez selekcjonera, w kt\u00F3rym mog\u0105 wyst\u0119powa\u0107 wy\u0142\u0105cznie zawodnicy posiadaj\u0105cy obywatelstwo rosyjskie."@pl ;
+	dbpprop:mostCaps	dbpedia:Viktor_Onopko .
+@prefix ns71:	<http://en.wikipedia.org/wiki/> .
+dbpedia:Russia_national_football_team	foaf:isPrimaryTopicOf	ns71:Russia_national_football_team ;
+	dbpprop:club	dbpedia:FC_Rostov ,
+		dbpedia:FC_Lokomotiv_Moscow ,
+		dbpedia:Sevilla_FC ,
+		dbpedia:FC_Anzhi_Makhachkala ,
+		dbpedia:FC_Zenit_Saint_Petersburg ,
+		dbpedia:FC_Krasnodar ,
+		dbpedia:FC_Spartak_Moscow ,
+		dbpedia:FC_Dynamo_Moscow ,
+		dbpedia:FC_Rubin_Kazan ,
+		dbpedia:PFC_CSKA_Moscow ;
+	dbpprop:captain	dbpedia:Sergei_Ignashevich .
+@prefix ns72:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Russia_national_football_team	dbpprop:hasPhotoCollection	ns72:Russia_national_football_team ;
+	dbpprop:name	dbpedia:Fyodor_Smolov ,
+		dbpedia:Sergei_Ignashevich ,
+		dbpedia:Oleg_Shatov ,
+		dbpedia:Kirill_Nababkin ,
+		dbpedia:Aleksei_Ionov ,
+		dbpedia:Anton_Shunin ,
+		dbpedia:Sergey_Viktorovich_Ryzhikov ,
+		dbpedia:Vladimir_Gabulov ,
+		dbpedia:Aleksandr_Samedov ,
+		dbpedia:Aleksandr_Kokorin ,
+		dbpedia:Denis_Glushakov ,
+		dbpedia:Yevgeni_Makeyev ,
+		dbpedia:Aleksei_Berezutski ,
+		dbpedia:Vasili_Berezutski ,
+		dbpedia:Dmitri_Kombarov ,
+		dbpedia:Denis_Cheryshev ,
+		dbpedia:Artyom_Dzyuba ,
+		dbpedia:Vladimir_Granat ,
+		dbpedia:Aleksandr_Ryazantsev ,
+		dbpedia:Yuri_Lodigin ,
+		dbpedia:Aleksei_Anatolyevich_Kozlov ,
+		dbpedia:Aleksandr_Kerzhakov ,
+		dbpedia:Viktor_Fayzulin ,
+		dbpedia:Aleksandr_Anyukov ,
+		dbpedia:Igor_Smolnikov ,
+		"Russia" ,
+		<http://dbpedia.org/resource/Dmitri_Tarasov_(footballer)> ,
+		dbpedia:Pavel_Mamayev ,
+		dbpedia:Vitali_Dyakov ,
+		<http://dbpedia.org/resource/Maksim_Grigoryev_(footballer_born_1990)> ,
+		dbpedia:Roman_Shirokov ,
+		dbpedia:Alan_Dzagoev ,
+		dbpedia:Igor_Akinfeev ,
+		dbpedia:Andrey_Yeshchenko ,
+		dbpedia:Yuri_Zhirkov ,
+		dbpedia:Igor_Denisov ,
+		dbpedia:Maksim_Aleksandrovich_Belyayev ,
+		dbpedia:Vladimir_Bystrov ,
+		dbpedia:Georgi_Schennikov ;
+	dbpedia-owl:abstract	"\u4FC4\u7F85\u65AF\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u4EE3\u8868\u4FC4\u7F85\u65AF\u7684\u5B98\u65B9\u8DB3\u7403\u968A\uFF0C\u7531\u4FC4\u7F85\u65AF\u8DB3\u7403\u806F\u6703\u7BA1\u7406\uFF0C\u73FE\u4EFB\u4E3B\u6559\u7DF4\u662F\u610F\u5927\u5229\u4EBA\u5361\u6BD4\u8DEF\u3002\u4FC4\u7F85\u65AF\u7684\u5B98\u65B9\u8DB3\u7403\u968A\u65E9\u5728\u6C99\u4FC4\u6642\u4EE3\u5DF2\u6709\u7D00\u9304\uFF0C\u7576\u6642\u7B2C\u4E00\u5834\u570B\u969B\u8CFD\u4E431912\u5E74\u5C0D\u8CFD\u82AC\u862D\uFF0C\u7576\u6642\u843D\u65571\u6BD42\u3002\u81EA1991\u5E74\u8607\u806F\u89E3\u9AD4\u5F8C\u6210\u7ACB\u4E86\u591A\u500B\u570B\u5BB6\uFF0C\u4FC4\u7F85\u65AF\u662F\u5176\u4E2D\u4E4B\u4E00\u3002\u800C\u4FC4\u7F85\u65AF\u570B\u5BB6\u8DB3\u7403\u968A\u5247\u4E43\u662F\u7531\u8607\u806F\u570B\u5BB6\u8DB3\u7403\u968A\u5206\u88C2\u51FA\u4F86\u3002\u81EA\u6210\u7ACB\u4EE5\u4F86\u4FC4\u7F85\u65AF\u53EA\u66FE\u6649\u7D1A1994\u5E74\u548C2002\u5E74\u5169\u5C46\u4E16\u754C\u76C3\u6C7A\u8CFD\u5468\uFF0C\u4F46\u5169\u5C46\u7686\u5728\u9996\u8F2A\u5206\u7D44\u8CFD\u51FA\u5C40\u3002\u57282006\u5E74\u4E16\u754C\u76C3\u5916\u570D\u8CFD\uFF0C\u4FC4\u7F85\u65AF\u66FE\u5927\u6557\u7D66\u8461\u8404\u72591-7\u3002\u6B50\u6D32\u570B\u5BB6\u76C3\u65B9\u9762\uFF0C\u4FC4\u7F85\u65AF\u5247\u6649\u7D1A\u904E\u56DB\u5C46\u6C7A\u8CFD\u5468\uFF081996\u30012004\u30012008\u30012012\uFF09\uFF0C\u5176\u4E2D\u57282008\u5E74\u6B50\u6D32\u570B\u5BB6\u76C3\uFF0C\u4FC4\u7F85\u65AF\u6649\u7D1A\u516B\u5F37\u5F8C\u4EE53-1\u64CA\u6557\u8377\u862D\uFF0C\u9996\u6B21\u6649\u8EAB\u56DB\u5F37\uFF0C\u4F46\u6700\u5F8C\u5728\u6E96\u6C7A\u8CFD\u4EE50-3\u5927\u6557\u7D66\u5F8C\u4F86\u596A\u5F97\u51A0\u8ECD\u7684\u897F\u73ED\u7259\u3002\u9019\u4E5F\u662F\u4ED6\u5011\u5728\u8607\u806F\u89E3\u9AD4\u4EE5\u5F8C\u7684\u6700\u597D\u6210\u7E3E\u3002\u8FD1\u5E74\u4FC4\u7F85\u65AF\u96D6\u7136\u88AB\u8996\u70BA\u6B50\u6D32\u5176\u4E2D\u4E00\u652F\u6709\u5BE6\u529B\u7684\u7403\u968A\uFF0C\u4F46\u5F80\u5F80\u5728\u5927\u8CFD\u4E2D\u7684\u95DC\u9375\u6642\u523B\u8868\u73FE\u5931\u6E96\u3002\u57282010\u5E74\u4E16\u754C\u676F\u5916\u570D\u8CFD\uFF0C\u4FC4\u7F85\u65AF\u53D6\u5F97\u9644\u52A0\u8CFD\u8CC7\u683C\uFF0C\u8207\u5BE6\u529B\u4E00\u822C\u7684\u65AF\u6D1B\u6587\u5C3C\u4E9E\u722D\u596A\u51FA\u7DDA\u6C7A\u8CFD\u5468\u8CC7\u683C\uFF0C\u672C\u4EE5\u70BA\u4FC4\u7F85\u65AF\u52DD\u5238\u5728\u63E1\uFF0C\u600E\u77E5\u4FC4\u7F85\u65AF\u5728\u4E00\u5EA6\u9818\u5148\u5169\u7403\u4E4B\u4E0B\uFF0C\u537B\u88AB\u5C0D\u624B\u7E3D\u6BD4\u6578\u8FFD\u5E732-2\uFF0C\u4FC4\u7F85\u65AF\u66F4\u56E0\u4F5C\u5BA2\u5165\u7403\u4E0D\u53CA\u5C0D\u624B\u88AB\u6DD8\u6C70\u3002\u81F32012\u5E74\u6B50\u6D32\u570B\u5BB6\u76C3\uFF0C\u4FC4\u7F85\u65AF\u9996\u5834\u5206\u7D44\u8CFD\u4EE54-1\u5927\u52DD\u6377\u514B\uFF0C\u4E00\u5EA6\u6210\u70BA\u51FA\u7DDA\u71B1\u9580\uFF0C\u4F46\u6700\u5F8C\u4E00\u5834\u5206\u7D44\u8CFD\u537B\u7206\u51B7\u88AB\u5E0C\u81D8\u4EE51-0\u6253\u6557\uFF0C\u88AB\u6DD8\u6C70\u51FA\u5C40\u30022014\u5E74\u4E16\u754C\u76C3\u5916\u570D\u8CFD\uFF0C\u4FC4\u7F85\u65AF\u58D3\u5012\u540C\u7D44\u7684\u52C1\u6575\u8461\u8404\u7259\uFF0C\u53D6\u5F97\u5C0F\u7D44\u9996\u540D\u76F4\u63A5\u51FA\u7DDA\u6C7A\u8CFD\u5468\u3002\u4FC4\u7F85\u65AF\u7684\u7403\u8863\u8D5E\u52A9\u5546\u662F\u963F\u8FEA\u9054\u65AF\u3002"@zh ,
+		"The Russia national football team (Russian: \u041D\u0430\u0446\u0438\u043E\u043D\u0430\u0301\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0301\u0440\u043D\u0430\u044F \u0420\u043E\u0441\u0441\u0438\u0301\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u0301\u043B\u0443) represents Russia in association football and is controlled by the Russian Football Union (Russian: \u0420\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0438\u0439 \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u044B\u0439 \u0421\u043E\u044E\u0437, Rossiyskiy Futbo\u013Enyy Soyuz), the governing body for football in Russia. Russia's home grounds are Luzhniki Stadium, Lokomotiv Stadium (both in Moscow), and Petrovsky Stadium in St.Petersburg. Russia qualified for three World Cups (1994, 2002, 2014), will host one in 2018 and four European Championships (1996, 2004, 2008, 2012). Euro 2008 marks the first time they have passed the group stages of a major tournament, these advances are not counting the Soviet Union national team." ,
+		"\u30B5\u30C3\u30AB\u30FC\u30ED\u30B7\u30A2\u4EE3\u8868\uFF08\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0420\u043E\u0441\u0441\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443\uFF09\u306F\u3001\u30ED\u30B7\u30A2\u30B5\u30C3\u30AB\u30FC\u9023\u5408\uFF08RFU\uFF09\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30ED\u30B7\u30A2\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"A Sele\u00E7\u00E3o Russa de Futebol representa a R\u00FAssia nas competi\u00E7\u00F5es de futebol da FIFA.Surgiu ap\u00F3s a dissolu\u00E7\u00E3o da Sele\u00E7\u00E3o da CEI, criada apenas para disputar a Eurocopa de 1992, para a qual a sele\u00E7\u00E3o da URSS, extinta juntamente com o pa\u00EDs no ano anterior, j\u00E1 estava classificada.Entretanto, v\u00E1rios jogadores n\u00E3o-russos cujos pa\u00EDses conquistaram a independ\u00EAncia preferiram adotar a R\u00FAssia como pa\u00EDs e sele\u00E7\u00E3o. Na Copa de 1994, o primeiro torneio oficial disputado como R\u00FAssia, figuraram nada menos que 9 jogadores estrangeiros no time: os ucranianos Yuri Nikiforov, Vladyslav Ternavs'kyi, Illya Tsymbalar, Viktor Onopko e Serhiy Yuran; o bielorrusso Syarhey Harlukovich (o \u00FAnico, ao lado do russo Alexander Borodyuk, a ter disputado Copas pela URSS e pela R\u00FAssia); Andrey Pyatnitskiy (nascido no Uzbequist\u00E3o); o georgiano Omar Tetradze; e Valeriy Karpin (nascido na Est\u00F4nia). Al\u00E9m deles, figurantes de minorias \u00E9tnicas na R\u00FAssia, como Oleg Salenko (russo de origem ucraniana) e Stanislav Cherchesty (osseta).Na edi\u00E7\u00E3o de 2002, a hist\u00F3ria se repetiu: Nikiforov e Onopko tiveram a companhia de outro compatriota, Serhiy Semak; Karpin e Cherchesty foram novamente convocados; e outra minoria \u00E9tnica, os t\u00E1rtaros, foram representados por Ruslan Ni\u011Fm\u00E4tullin e Marat \u0130zmailev.Desde o colapso do comunismo, os russos n\u00E3o conseguem obter os mesmos resultados da antiga URSS no futebol: foram eliminados na primeira fase nas duas Copas e Eurocopas que disputaram (1994 e 2002; 1996 e 2004, respectivamente) e n\u00E3o se classificaram para nenhuma Olimp\u00EDada. Sob o comando do t\u00E9cnico holand\u00EAs Guus Hiddink, criou-se um otimismo entre a torcida russa, especialmente depois da classifica\u00E7\u00E3o dram\u00E1tica para a Eurocopa de 2008.Na Euro, os russos demonstraram volta \u00E0 boa fase, sendo a grande surpresa do torneio, que revelou tardiamente \u00E0 Europa bons jogadores da atual safra, como o goleiro Igor Akinfeyev, os meias Dmitri Torbinskiy, Yuri Zhirkov e Konstantin Zyryanov e os atacantes Roman Pavlyuchenko e Andrei Arshavin, maestro da equipe. Esteve prestes a conseguir a vaga para a Copa do Mundo FIFA de 2010, mas a regra do gol fora de casa colocou fim \u00E0s chances russas contra a Eslov\u00EAnia: derrota por 1 a 0 em Maribor e vit\u00F3ria por 2 a 1 em Moscou (por ter marcado dois gols fora, enquanto a R\u00FAssia n\u00E3o marcou nenhum em Maribor, a Eslov\u00EAnia garantiu a vaga). Em junho de 2010, Hiddink \u00E9 substitu\u00EDdo por seu compatriota Dick Advocaat.Na Eurocopa de 2012, ap\u00F3s uma goleada de 4 x 1 contra a Rep\u00FAblica Tcheca e grande favoritismo em seu grupo, a sele\u00E7\u00E3o russa caiu diante da Gr\u00E9cia, motivo de grande decep\u00E7\u00E3o para os torcedores. Em julho, Advocaat deixa o cargo e em seu lugar, foi contratado o italiano Fabio Capello.Na Univers\u00EDada, obtiveram uma medalha de bronze em 1995. A R\u00FAssia sediar\u00E1 a Copa do Mundo de 2018."@pt ,
+		"La Selecci\u00F3n de f\u00FAtbol de Rusia es el equipo representativo del pa\u00EDs en las competiciones oficiales. Su organizaci\u00F3n est\u00E1 a cargo de la Uni\u00F3n del F\u00FAtbol de Rusia, perteneciente a la UEFA.El primer partido disputado por Rusia se realiz\u00F3 durante los Juegos Ol\u00EDmpicos de Estocolmo 1912. Sin embargo, este equipo s\u00F3lo jug\u00F3 9 partidos (entre 1912 y 1914). Pocos a\u00F1os despu\u00E9s volvieron a los campos de juego en 1923, pero como el equipo de la Uni\u00F3n Sovi\u00E9tica. Rusia, como parte de la Uni\u00F3n Sovi\u00E9tica, particip\u00F3 en 7 Campeonatos Mundiales (llegando a la semifinal en 1966) y en 7 Eurocopas, donde obtuvo el t\u00EDtulo en 1960. La Uni\u00F3n Sovi\u00E9tica, adem\u00E1s obtuvo un t\u00EDtulo en la Copa Mundial de F\u00FAtbol Sub-20 en 1977, otro en la sub-17 de 1987 y dos medallas de oro en los Juegos Ol\u00EDmpicos.Tras la desintegraci\u00F3n de la Uni\u00F3n Sovi\u00E9tica en 1991 y la independencia de Rusia como estado soberano, renace el equipo ruso en 1992. El seleccionado ruso es considerado a nivel internacional como la sucesora del antiguo combinado sovi\u00E9tico, m\u00E1s los logros obtenidos en tiempos pasados han abrumado a la nueva selecci\u00F3n que ha intentado infructuosamente alcanzar el \u00E9xito de su predecesora, la cual adem\u00E1s contaba con el talento de jugadores de otros pa\u00EDses, como Ucrania.En su nueva etapa como equipo independiente, Rusia ha alcanzado en dos oportunidades la fase final de la Copa Mundial de F\u00FAtbol y en tres la de la Eurocopa, alcanzando su mayor logro en la edici\u00F3n de 2008 donde cay\u00F3 en semifinales contra Espa\u00F1a."@es ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0631\u0648\u0633\u064A\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 (\u0628\u0627\u0644\u0631\u0648\u0633\u064A\u0629: \u041D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0420\u043E\u0441\u0441\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443) \u0627\u0644\u0645\u0645\u062B\u0644 \u0627\u0644\u0631\u0633\u0645\u064A \u0644\u0631\u0648\u0633\u064A\u0627 \u0641\u064A \u0644\u0639\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0648\u0627\u0644\u0648\u0627\u0642\u0639 \u062A\u062D\u062A \u0645\u0638\u0644\u0629 \u0627\u062A\u062D\u0627\u062F \u0631\u0648\u0633\u064A\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 (\u0628\u0627\u0644\u0631\u0648\u0633\u064A\u0629: \u0420\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0438\u0439 \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u044B\u0439 \u0421\u043E\u044E\u0437) \u0627\u0644\u0645\u0646\u0648\u0637 \u0628\u0625\u062F\u0627\u0631\u0629 \u0634\u0624\u0648\u0646 \u0634\u0624\u0624\u0646 \u0627\u0644\u0644\u0639\u0628\u0629 \u0641\u064A \u0627\u0644\u0628\u0644\u0627\u062F\u060C \u0648\u064A\u062A\u062E\u0630 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0631\u0648\u0633\u064A \u0627\u0644\u0639\u062F\u064A\u062F \u0645\u0646 \u0627\u0644\u0645\u0644\u0627\u0639\u0628 \u0627\u0644\u0631\u0633\u0645\u064A\u0629 \u0644\u0647\u061B \u064A\u0623\u062A\u064A \u0641\u064A \u0645\u0642\u062F\u0645\u062A\u0647\u0627 \u0633\u062A\u0627\u062F \u0644\u0648\u062C\u0646\u064A\u0643\u064A \u0628\u0627\u0644\u0639\u0627\u0635\u0645\u0629 \u0627\u0644\u0631\u0648\u0633\u064A\u0629 \u0645\u0648\u0633\u0643\u0648 \u0648\u0647\u0648 \u0627\u0644\u0645\u0644\u0639\u0628 \u0627\u0644\u0645\u0639\u062A\u0645\u062F \u0645\u0646 \u0642\u0628\u0644 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0631\u0648\u0633\u064A \u0643\u0645\u0644\u0639\u0628 \u0631\u0626\u064A\u0633\u064A \u0644\u0644\u0645\u0642\u0627\u0628\u0644\u0627\u062A \u0627\u0644\u062F\u0648\u0644\u064A\u0629\u060C \u0643\u0630\u0644\u0643 \u0633\u062A\u0627\u062F \u0644\u0648\u0643\u0648\u0645\u0648\u062A\u064A\u0641 \u0628\u0645\u0648\u0633\u0643\u0648 \u0648\u0633\u062A\u0627\u062F \u0628\u062A\u0631\u0648\u0641\u0633\u0643\u064A \u0628\u0633\u0627\u0646\u062A \u0628\u0637\u0631\u0633\u0628\u0631\u063A\u060C \u0648\u064A\u062A\u0648\u0644\u064A \u0627\u0644\u0642\u064A\u0627\u062F\u0629 \u0627\u0644\u0641\u0646\u064A\u0629 \u0644\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0647\u0648\u0644\u0646\u062F\u064A \u062F\u064A\u0643 \u0623\u062F\u0641\u0648\u0643\u0627\u062A \u0648\u0627\u0644\u0630\u064A \u062A\u0639\u0627\u0642\u062F \u0645\u0639\u0647 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0631\u0648\u0633\u064A \u0641\u064A \u0645\u0627\u064A\u0648 2010 \u062E\u0644\u0641\u0627 \u0644\u0645\u0648\u0627\u0637\u0646\u0647 \u063A\u0648\u0633 \u0647\u064A\u062F\u064A\u0646\u0643 \u0648\u0627\u0644\u0630\u064A \u0642\u0627\u062F \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0631\u0648\u0633\u064A \u062E\u0644\u0627\u0644 \u063A\u0645\u0627\u0631 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 2008 \u0644\u064A\u062D\u0642\u0642 \u0623\u0641\u0636\u0644 \u0625\u0646\u062C\u0627\u0632\u0627\u062A \u0627\u0644\u0643\u0631\u0629 \u0627\u0644\u0631\u0648\u0633\u064A\u0629 \u0641\u064A \u0627\u0644\u0639\u0635\u0631 \u0627\u0644\u062D\u062F\u064A\u062B \u0628\u062A\u062E\u0637\u064A \u062F\u0648\u0631 \u0627\u0644\u0645\u062C\u0645\u0648\u0639\u0627\u062A \u0644\u0623\u0648\u0644 \u0645\u0631\u0629 \u0641\u064A \u062A\u0627\u0631\u064A\u062E\u0647 \u0641\u064A \u0623\u064A \u0645\u0646 \u0627\u0644\u0628\u0637\u0648\u0644\u0627\u062A \u0627\u0644\u0643\u0628\u0631\u0649 \u0648\u0648\u0635\u0648\u0644\u0647 \u0644\u0644\u062F\u0648\u0631 \u0642\u0628\u0644 \u0627\u0644\u0646\u0647\u0627\u0626\u064A \u0641\u064A \u062B\u0627\u0644\u062B \u0645\u0634\u0627\u0631\u0643\u0627\u062A \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0631\u0648\u0633\u064A \u0628\u0627\u0644\u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 \u0628\u0639\u062F \u0645\u0634\u0627\u0631\u0643\u062A\u064A\u0646 \u0633\u0627\u0628\u0642\u062A\u064A\u0646 \u0639\u0627\u0645\u064A 1996 \u06482004 \u0642\u0628\u0644 \u062A\u0623\u0647\u0644\u0647 \u0627\u0644\u0623\u062E\u064A\u0631 \u0639\u0627\u0645 2012\u060C \u0643\u0645\u0627 \u0634\u0627\u0631\u0643 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0631\u0648\u0633\u064A \u0641\u064A \u0628\u0637\u0648\u0644\u062A\u064A\u0646 \u0644\u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0639\u0627\u0645\u064A 1994 \u06482002 \u0648\u0625\u0646 \u0644\u0645 \u062A\u0636\u0627\u0647\u064A \u062A\u0644\u0643 \u0627\u0644\u0625\u0646\u062C\u0627\u0632\u0627\u062A \u0645\u062B\u064A\u0644\u062A\u0647\u0627 \u0627\u0644\u062A\u0627\u0631\u064A\u062E\u064A\u0629 \u0644\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0633\u0648\u0641\u064A\u062A\u064A.\u0645\u0646 \u062C\u0627\u0646\u0628\u0647 \u0627\u0639\u062A\u0631\u0641 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u062F\u0648\u0644\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 (\u0627\u0644\u0641\u064A\u0641\u0627) \u0628\u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0631\u0648\u0633\u064A \u0643\u0648\u0631\u064A\u062B \u0634\u0631\u0639\u064A \u0644\u0628\u0637\u0648\u0644\u0627\u062A \u0648\u0625\u0646\u062C\u0627\u0632\u0627\u062A \u0645\u0646\u062A\u062E\u0628\u064A \u0627\u062A\u062D\u0627\u062F \u0627\u0644\u062F\u0648\u0644 \u0627\u0644\u0645\u0633\u062A\u0642\u0644\u0629 \u0648\u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0633\u0648\u0641\u064A\u062A\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645."@ar ,
+		"La Nazionale di calcio russa (rus. \u041D\u0430\u0446\u0438\u043E\u043D\u0430\u0301\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0420\u043E\u0441\u0441\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443) \u00E8 la rappresentativa calcistica della Russia ed \u00E8 posta sotto l'egida della Rossijskij Futbol'nyj Sojuz.Sia la FIFA che l'UEFA considerano la nazionale russa come unica erede dell'Unione Sovietica.Nella Classifica mondiale della FIFA, creata ad agosto 1993, la Russia ha ottenuto come miglior piazzamento il 3\u00BA posto di aprile 1996, mentre la posizione peggiore \u00E8 stata il 40\u00BA posto di dicembre 1998. Occupa il 10\u00BA posto della classifica."@it ,
+		"Reprezentacja Rosji w pi\u0142ce no\u017Cnej m\u0119\u017Cczyzn \u2013 zesp\u00F3\u0142 pi\u0142karski, bior\u0105cy udzia\u0142 w imieniu Rosji w meczach i sportowych imprezach mi\u0119dzynarodowych, powo\u0142ywany przez selekcjonera, w kt\u00F3rym mog\u0105 wyst\u0119powa\u0107 wy\u0142\u0105cznie zawodnicy posiadaj\u0105cy obywatelstwo rosyjskie. Za jego funkcjonowanie odpowiedzialny jest Rosyjski Zwi\u0105zek Pi\u0142ki No\u017Cnej (RFS).Na arenie mi\u0119dzynarodowej po raz pierwszy pojawi\u0142a si\u0119 jeszcze w czasach Imperium Rosyjskiego, bior\u0105c udzia\u0142 w Igrzyskach Olimpijskich w Sztokholmie w 1912 roku, a powr\u00F3ci\u0142a na ni\u0105 po rozpadzie Zwi\u0105zku Radzieckiego. Najwi\u0119kszy sukces w rozgrywkach mi\u0119dzynarodowych odnios\u0142a na Euro 2008, gdzie dotar\u0142a do p\u00F3\u0142fina\u0142u."@pl ,
+		"\u0421\u0431\u043E\u0301\u0440\u043D\u0430\u044F \u0420\u043E\u0441\u0441\u0438\u0301\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u0301\u043B\u0443 (\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u0435\u0442 \u0441 1992 \u0433\u043E\u0434\u0430) \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u0420\u043E\u0441\u0441\u0438\u044E \u043D\u0430 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u0441\u043E\u0440\u0435\u0432\u043D\u043E\u0432\u0430\u043D\u0438\u044F\u0445 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443. \u041E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u0430\u044F \u043F\u0440\u0430\u0432\u043E\u043F\u0440\u0435\u0435\u043C\u043D\u0438\u0446\u0430 \u0441\u0431\u043E\u0440\u043D\u044B\u0445 \u0420\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u043E\u0439 \u0438\u043C\u043F\u0435\u0440\u0438\u0438, \u0420\u0421\u0424\u0421\u0420, \u0421\u0421\u0421\u0420 \u0438 \u0421\u041D\u0413. \u0420\u0443\u043A\u043E\u0432\u043E\u0434\u044F\u0449\u0430\u044F \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F \u2014 \u0420\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u044B\u0439 \u0441\u043E\u044E\u0437. \u041D\u0430\u0438\u0432\u044B\u0441\u0448\u0438\u043C \u0434\u043E\u0441\u0442\u0438\u0436\u0435\u043D\u0438\u0435\u043C \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0440\u0430\u0437\u0434\u0435\u043B\u0435\u043D\u043D\u043E\u0435 \u0441 \u0422\u0443\u0440\u0446\u0438\u0435\u0439 3-\u0435 \u043C\u0435\u0441\u0442\u043E \u043D\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0415\u0432\u0440\u043E\u043F\u044B 2008 (\u0441 1984 \u0433\u043E\u0434\u0430 \u043D\u0430 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0415\u0432\u0440\u043E\u043F\u044B \u043C\u0430\u0442\u0447\u0438 \u0437\u0430 \u0442\u0440\u0435\u0442\u044C\u0435 \u043C\u0435\u0441\u0442\u043E \u043D\u0435 \u043F\u0440\u043E\u0432\u043E\u0434\u044F\u0442\u0441\u044F). \u041A \u044D\u0442\u043E\u043C\u0443 \u0434\u043E\u0441\u0442\u0438\u0436\u0435\u043D\u0438\u044E \u0435\u0451 \u043F\u0440\u0438\u0432\u0435\u043B \u043D\u0438\u0434\u0435\u0440\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0442\u0440\u0435\u043D\u0435\u0440 \u0413\u0443\u0441 \u0425\u0438\u0434\u0434\u0438\u043D\u043A. \u041F\u043E \u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u044E \u043D\u0430 13 \u043C\u0430\u0440\u0442\u0430 2014 \u0433\u043E\u0434\u0430, \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0437\u0430\u043D\u0438\u043C\u0430\u0435\u0442 18-\u0435 \u043C\u0435\u0441\u0442\u043E \u0432 \u0440\u0435\u0439\u0442\u0438\u043D\u0433\u0435 \u0424\u0418\u0424\u0410, \u0430 \u0432 \u043A\u043E\u043D\u0442\u0438\u043D\u0435\u043D\u0442\u0430\u043B\u044C\u043D\u043E\u043C \u2014 12-\u0435."@ru ,
+		"Die russische Fu\u00DFballnationalmannschaft (russisch \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0420\u043E\u0441\u0441\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443/Sbornaja Rossii po futbolu) ist die Vertretung Russlands im Fu\u00DFball und wird vom russischen Fu\u00DFballverband Rossijski Futbolny Sojus organisiert. Russland qualifizierte sich bislang f\u00FCr drei Fu\u00DFball-Weltmeisterschaften (1994, 2002, 2014 und 2018 als Gastgeber-Land) und vier Europameisterschaften (1996, 2004, 2008, 2012).Die FIFA erkl\u00E4rte die russische Fu\u00DFballnationalmannschaft zum direkten Nachfolger der Nationalmannschaften der GUS und der UdSSR."@de ,
+		"Het Russisch voetbalelftal is een team van voetballers dat Rusland vertegenwoordigt in internationale wedstrijden. Van 1923 tot 1992 kwamen Russische voetballers uit voor het voetbalelftal van de Sovjet-Unie. Op het EK voetbal van 1992 was het land actief als deel van het Gemenebest van Onafhankelijke Staten. Het grootste succes tot op heden is het bereiken van de halve finale op het EK 2008.De eerste jaren vanaf 1992 waren niet al te succesvol. Twee keer werd het WK gehaald en twee keer het EK, maar verder dan de eerste ronde kwamen de Russen nooit. In 2006 werd de Nederlandse trainer Guus Hiddink benoemd tot bondscoach (met Igor Kornejev als zijn assistent) met als doel het Russische voetbal groots op de kaart te zetten. De Russen behaalden in de kwalificatiereeks voor het EK 2008 in Oostenrijk en Zwitserland de tweede plaats achter Kroati\u00EB waardoor ze zich, ten koste van Engeland, voor de EK eindronde plaatsten. Op dat toernooi bereikten ze de halve finale door onder meer Nederland in de kwartfinale te verslaan. De finale haalde het team niet; daarvoor was Spanje met 3-0 te sterk."@nl ,
+		"L'\u00E9quipe de Russie de football (en russe : \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0420\u043E\u0441\u0441\u0438\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443) est la s\u00E9lection de joueurs russes repr\u00E9sentant le pays lors des comp\u00E9titions internationales de football masculin, sous l'\u00E9gide de la F\u00E9d\u00E9ration de Russie de football.Cette s\u00E9lection prend en juillet 1992 la suite de l'\u00E9quipe de la CEI, qui elle-m\u00EAme avait remplac\u00E9 l'\u00E9quipe d'Union sovi\u00E9tique en janvier 1992. Une \u00E9quipe de la Russie imp\u00E9riale avait bri\u00E8vement exist\u00E9, entre 1912 et le d\u00E9clenchement de la Premi\u00E8re Guerre mondiale en 1914.La Russie fait ses d\u00E9buts en comp\u00E9tition internationale d\u00E8s sa premi\u00E8re tentative, lors de la Coupe du monde 1994. Apr\u00E8s 2002, elle se qualifie pour sa 3e Coupe du monde en 2014 au Br\u00E9sil. Le pays est de plus l'organisateur de la Coupe du monde de 2018. Sur le plan continental, la Russie se qualifie pour le phase finale du championnat d'Europe en 1996, 2004, 2008 et 2012. En 2008, il y r\u00E9alise sa meilleure performance en n'\u00E9tant battu qu'en demi-finale.Le surnom de l'\u00E9quipe est \u00AB \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u00BB (Sbornaya) que l'on traduit par \u00E9quipe nationale."@fr ;
+	dbpedia-owl:wikiPageID	25127146 ;
+	dbpedia-owl:wikiPageRevisionID	605857277 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Russia_national_football_team	dbpprop:latest	"--08-14+02:00"^^xsd:gMonthDay ,
+		"--11-19+02:00"^^xsd:gMonthDay ,
+		"--10-15+02:00"^^xsd:gMonthDay ,
+		"--09-10+02:00"^^xsd:gMonthDay ,
+		"--06-07+02:00"^^xsd:gMonthDay ;
+	dbpprop:topScorer	dbpedia:Vladimir_Beschastnykh ;
+	dbpprop:tiebreakers	"yes" ;
+	dbpprop:clubnat	"Russia" ,
+		"Spain" ,
+		"Russia]]" ;
+	dbpprop:goals	24 ,
+		12 ,
+		8 ,
+		4 ,
+		5 ,
+		2 ,
+		3 ,
+		0 ,
+		1 ;
+	dbpprop:bg	"red" ;
+	dbpprop:gf	0 ;
+	dbpprop:ga	0 ;
+	dbpprop:l	0 ;
+	dbpprop:w	0 ;
+	dbpprop:d	0 ;
+	dbpprop:caps	94 ,
+		77 ,
+		78 ,
+		75 ,
+		66 ,
+		30 ,
+		25 ,
+		20 ,
+		16 ,
+		19 ,
+		14 ,
+		8 ,
+		9 ,
+		10 ,
+		4 ,
+		5 ,
+		0 ,
+		1 ,
+		2 ,
+		3 ,
+		60 ,
+		51 ,
+		47 ,
+		41 ;
+	dbpprop:age	"1982-11-27+02:00"^^xsd:date ,
+		"1989-01-31+02:00"^^xsd:date ,
+		"1988-08-22+02:00"^^xsd:date ,
+		"1990-12-26+02:00"^^xsd:date ,
+		"1991-04-27+02:00"^^xsd:date ,
+		"1980-09-19+02:00"^^xsd:date ,
+		"1982-06-20+02:00"^^xsd:date ,
+		"1984-01-31+02:00"^^xsd:date ,
+		"1990-06-17+02:00"^^xsd:date ,
+		"1986-09-08+02:00"^^xsd:date ,
+		"1991-03-19+02:00"^^xsd:date ,
+		"1989-02-18+02:00"^^xsd:date ,
+		"1989-07-24+02:00"^^xsd:date ,
+		"1990-02-09+02:00"^^xsd:date ,
+		"1983-08-20+02:00"^^xsd:date ,
+		"1986-04-22+02:00"^^xsd:date ,
+		"1987-01-22+02:00"^^xsd:date ,
+		"1987-05-22+02:00"^^xsd:date ,
+		"1988-08-08+02:00"^^xsd:date ,
+		"1991-09-30+02:00"^^xsd:date ,
+		"1990-07-06+02:00"^^xsd:date ,
+		"1986-09-05+02:00"^^xsd:date ,
+		"1987-01-27+02:00"^^xsd:date ,
+		"1986-11-16+02:00"^^xsd:date ,
+		"1983-10-19+02:00"^^xsd:date ,
+		"1982-09-28+02:00"^^xsd:date ,
+		"1984-07-19+02:00"^^xsd:date ,
+		"1990-05-26+02:00"^^xsd:date ,
+		"1979-07-14+02:00"^^xsd:date ,
+		"1981-07-06+02:00"^^xsd:date ,
+		"1988-09-17+02:00"^^xsd:date ,
+		"1984-05-17+02:00"^^xsd:date ,
+		"1987-03-18+02:00"^^xsd:date ,
+		"1990-07-29+02:00"^^xsd:date ,
+		"1986-04-08+02:00"^^xsd:date ,
+		"1984-02-09+02:00"^^xsd:date ;
+	dbpprop:coach	dbpedia:Fabio_Capello ;
+	dbpprop:patternSh	"_adidas_red" ,
+		"_bra04a" ,
+		"_white_stripes" ,
+		"_acm1011t1" ,
+		"_russia1415a" ,
+		"_rus963" ,
+		"_rus11a" ,
+		"_russia94a" ,
+		"_rus09a" .
+@prefix ns74:	<http://dbpedia.org/datatype/> .
+dbpedia:Russia_national_football_team	dbpprop:patternSh	"345600.0"^^ns74:second ,
+		"_blue_stripes" ,
+		"_rus96a" ,
+		"_adidaswhite" ,
+		"32400.0"^^ns74:second ,
+		"36000.0"^^ns74:second ,
+		"14400.0"^^ns74:second ,
+		"_adidasonwhite" ,
+		"46800.0"^^ns74:second ,
+		"_russia94" ;
+	dbpedia-owl:coach	dbpedia:Fabio_Capello ;
+	dbpprop:patternSo	"_rus10a" ,
+		"345600.0"^^ns74:second ,
+		"_color_3_stripes_red" ,
+		"_russia1415a" ,
+		"36000.0"^^ns74:second ,
+		"_rus09a" ,
+		"_rus12a" ,
+		"43200.0"^^ns74:second ,
+		"3639600.0"^^ns74:second ,
+		"_redstripe" ,
+		"_color_3_stripes_white" ,
+		"46800.0"^^ns74:second ;
+	dbpprop:association	"\u0420\u043E\u0441\u0441\u0438\u0439\u0441\u043A\u0438\u0439 \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u044B\u0439 \u0421\u043E\u044E\u0437" ;
+	dbpprop:badgeSize	200 ;
+	dbpprop:body	9 ,
+		0 ,
+		"FF0000" ,
+		990012 ,
+		"FFFFFF" ;
+	dbpprop:confederation	dbpedia:UEFA ;
+	dbpprop:fifaRank	18 ;
+	dbpprop:fifaTrigramme	"RUS" ;
+	dbpprop:leftarm	0 ,
+		9 ,
+		"FF0000" ,
+		800517 ,
+		"FFFFFF" ;
+	dbpprop:patternB	"_russia94a" ,
+		"_rus97a" ,
+		"_russia1415a" ,
+		"_rus11a" ,
+		"_whitehalf" ,
+		"345600.0"^^ns74:second ,
+		"_rus963" ,
+		"39600.0"^^ns74:second ,
+		"7200.0"^^ns74:second ,
+		"_Russia 2008_away" ,
+		"_chi98a" ,
+		"43200.0"^^ns74:second ,
+		"_rus08a" ,
+		"28800.0"^^ns74:second ,
+		"46800.0"^^ns74:second ,
+		"_whitecollar" ,
+		"_russia94" ,
+		"_rus97" ,
+		"_rus10a" ,
+		"_rus1998a" ,
+		"_rus96a" ,
+		"_rus12a" ,
+		"352800.0"^^ns74:second ,
+		"_Russia 2008" ,
+		"7192800.0"^^ns74:second ,
+		"_ussr1990_away" ,
+		"0.0"^^ns74:second ,
+		"32400.0"^^ns74:second ,
+		"_rus04a" ,
+		"36000.0"^^ns74:second ,
+		"_rus09a" ,
+		"_bra02a" ,
+		"14400.0"^^ns74:second ;
+	dbpprop:patternLa	"_whiteshoulders" ,
+		"_rus97a" ,
+		"_russia1415a" ,
+		"_rus11a" ,
+		"345600.0"^^ns74:second ,
+		"_rus963" ,
+		"_thinborderonwhite" ,
+		"_peter1011a" ,
+		"_rus94a" ,
+		"43200.0"^^ns74:second ,
+		"46800.0"^^ns74:second ,
+		"_russia94" ,
+		"_rus97" ,
+		"_rus10a" ,
+		"_blueshoulders" ,
+		"_rus1998a" ,
+		"_blue_lower" ,
+		"_rus96a" ,
+		"_fcb0809t" ,
+		"_shoulder_stripes_red_stripes" ,
+		"_thinwhiteborder" ,
+		"7192800.0"^^ns74:second ,
+		"32400.0"^^ns74:second ,
+		"_rus09a" ,
+		"36000.0"^^ns74:second ;
+	dbpprop:patternRa	"14400.0"^^ns74:second ,
+		"_whiteshoulders" ,
+		"_rus97a" ,
+		"_russia1415a" ,
+		"_rus11a" ,
+		"345600.0"^^ns74:second ,
+		"_rus963" ,
+		"_peter1011a" ,
+		"_rus94a" ,
+		"43200.0"^^ns74:second ,
+		"46800.0"^^ns74:second ,
+		"_russia94" ,
+		"_rus97" ,
+		"_rus10a" ,
+		"_rus1998a" ,
+		"_blueshoulders" ,
+		"_bra04a" ,
+		"_blue_lower" ,
+		"_rus96a" ,
+		"_fcb0809t" ,
+		"_shoulder_stripes_red_stripes" ,
+		"7192800.0"^^ns74:second ,
+		"32400.0"^^ns74:second ,
+		"36000.0"^^ns74:second ,
+		"_rus09a" ;
+	dbpprop:rightarm	9 ,
+		0 ,
+		"FF0000" ,
+		800517 ,
+		"FFFFFF" ;
+	dbpprop:shorts	9 ,
+		0 ,
+		"EFD88F" ,
+		"FF0000" ,
+		990012 ,
+		"FFFFFF" ;
+	dbpprop:socks	9 ,
+		0 ,
+		"FF0000" ,
+		"D4AF37" ,
+		990012 ,
+		"FFFFFA" ,
+		"FFFFFF" ;
+	dbpprop:mgrtitle	"Manager" ;
+	dbpprop:no	8 ,
+		9 ,
+		10 ,
+		11 ,
+		12 ,
+		13 ,
+		14 ,
+		15 ,
+		1 ,
+		2 ,
+		3 ,
+		4 ,
+		5 ,
+		7 ,
+		25 ,
+		26 ,
+		27 ,
+		17 ,
+		18 ,
+		19 ,
+		20 ,
+		21 ,
+		22 ,
+		23 ;
+	dbpprop:title	"Russia Squads \u2013 UEFA European Championship" ,
+		1992 ,
+		1993 ,
+		1994 ,
+		1995 ,
+		1996 ,
+		1997 ,
+		1998 ,
+		"Russia Squads \u2013 FIFA World Cup" ,
+		2008 ,
+		2009 ,
+		2011 ,
+		2012 ,
+		2013 ,
+		2014 ,
+		2000 ,
+		2002 ,
+		2004 ,
+		2005 ,
+		2006 ,
+		2007 ;
+	dbpprop:pos	"FW" ,
+		"DF" ,
+		"GK" ,
+		"MF" ;
+	dbpprop:badge	"Russian Football Union.png" ;
+	dbpprop:firstGame	2 ;
+	dbpprop:largestLoss	7 ;
+	dbpprop:largestWin	0 ;
+	dbpprop:regionalCupApps	4 ;
+	dbpprop:regionalCupBest	"First, 1960" ;
+	dbpprop:regionalCupFirst	1996 ;
+	dbpprop:regionalName	dbpedia:UEFA_European_Championship ;
+	dbpprop:eloMax	7 ;
+	dbpprop:eloMaxDate	"August 2009" ;
+	dbpprop:eloMin	34 ;
+	dbpprop:eloMinDate	"June 2005" ;
+	dbpprop:eloRank	15 ;
+	dbpprop:fifaMax	3 ;
+	dbpprop:fifaMaxDate	"April 1996" ;
+	dbpprop:fifaMin	40 ;
+	dbpprop:fifaMinDate	"December 1998" ;
+	dbpprop:worldCupBest	18 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.rufoot.ru/> ,
+		<http://www.rsssf.com/miscellaneous/rus-recintlp.html> ,
+		<http://roadtoworldcup2014.blogspot.com/2013/10/russia.html> ,
+		<http://www.hep.lu.se/staff/smirnova/archive/team_e.html> ,
+		<http://www.planetworldcup.com/NATIONS/rus.html> ,
+		<http://www.planetworldcup.com/NATIONS/rus_qualify.html> ,
+		<http://www.planetworldcup.com/NATIONS/rus_squads.html> ,
+		<http://www.rfs.ru/> ,
+		<http://www.rsssf.com/tablesr/rus-intres.html> ,
+		<http://www.rusteam.permian.ru/> ,
+		<http://www.russia-matches.ucoz.ru> ,
+		<http://www.russiateam.com> ;
+	dbpprop:fg	"#FFF" ;
+	dbpprop:homeStadium	"Petrovsky" ,
+		"Lokomotiv" ,
+		dbpedia:Luzhniki_Stadium ;
+	dbpedia-owl:stadium	<http://dbpedia.org/resource/Lokomotiv_Stadium_(Moscow)> ,
+		dbpedia:Petrovsky_Stadium ,
+		dbpedia:Luzhniki_Stadium ;
+	dbpprop:fixtures	"yes" .
+dbpedia:Roman_Shirokov__10	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Galiamin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Podpaly	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Stanislav_Cherchesov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Veniamin_Mandrykin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Piatnitski	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Yevgeni_Bushmanov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Novosadov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Rinat_Dasayev	dbpedia-owl:managerClub	dbpedia:Russia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Russia_national_football_team .
+dbpedia:Yuri_Semin	dbpedia-owl:managerClub	dbpedia:Russia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Russia_national_football_team .
+dbpedia:Ivan_Saenko	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Yuri_Drozdov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Anatoli_Kanishchev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Andrey_Tikhonov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_Niederhaus	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Denis_Laktionov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Boris_Ignatyev	dbpedia-owl:managerClub	dbpedia:Russia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Russia_national_football_team .
+dbpedia:Yegor_Titov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Viktor_Bulatov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Alexei_Kosolapov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Filippenkov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Vladislav_Lemish	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Kolyvanov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Ilshat_Faizulin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Mostovoi	dbpedia-owl:birthPlace	dbpedia:Russia_national_football_team ;
+	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_Beschastnykh	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Kiriakov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Andrey_Chernyshov	dbpedia-owl:managerClub	dbpedia:Russia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Russia_national_football_team ;
+	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Podshivalov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Alenichev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Artyom_Bezrodny	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Shalimov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Christian_Panucci	dbpedia-owl:managerClub	dbpedia:Russia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Russia_national_football_team ;
+	dbpprop:currentclub	dbpedia:Russia_national_football_team ;
+	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Oleg_Veretennikov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Marat_Izmailov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Roman_Sharonov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Karyaka	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Yanovskiy	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Mukhsin_Mukhamadiev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Gerasimenko	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Valery_Yesipov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Mandreko	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Sergey_Samodin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Akhrik_Tsveiba	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Sychev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_But	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Oleg_Sergeyev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Shmarko	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Fedkov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Cheryshev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_Tatarchuk	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Dmitry_Yakovlevsky	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Rolan_Gusev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Popov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Yevgeni_Varlamov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Borodyuk	dbpedia-owl:managerClub	dbpedia:Russia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Russia_national_football_team ;
+	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Gorlukovich	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Viktor_Budyanskiy	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Lediakhov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Khlestov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Yuriy_Nikiforov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Ruslan_Pimenov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Mokh	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Afanasyev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Viktor_Onopko	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Ananko	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Yevgenyevich_Ivanov	dbpedia-owl:deathPlace	dbpedia:Russia_national_football_team ;
+	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Nikolai_Pisarev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Kanchelskis	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Anatolyevich_Kozlov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Lyubomir_Kantonistov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Dobrovolski	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Roman_Pavlyuchenko	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Roman_Adamov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Filimonov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Bulykin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Kharine	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Vadim_Evseev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Bakharev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Gennadiy_Nizhegorodov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Yuri_Kovtun	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Nikolai_Olenikov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Oleg_Kornaukhov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Leonid_Zolkin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_Mishin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Lev_Favorsky	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Pavel_Zolkin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Dmitri_Vasilyev_(footballer_born_1977)>	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Sergei_Ovchinnikov_(footballer_born_1970)>	dbpedia-owl:managerClub	dbpedia:Russia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Russia_national_football_team ;
+	dbpprop:currentclub	dbpedia:Russia_national_football_team ;
+	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Boris_Ignatyev__12	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Fabio_Capello	dbpedia-owl:managerClub	dbpedia:Russia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Russia_national_football_team ;
+	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Alexander_Tarkhanov	dbpedia-owl:managerClub	dbpedia:Russia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Maksim_Grigoryev_(footballer_born_1990)>	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Dmitri_Kuznetsov_(footballer_born_1965)>	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Valeri_Karpin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+ns71:Russia_national_football_team	foaf:primaryTopic	dbpedia:Russia_national_football_team .
+ns24:منتخب_روسيا_لكرة_القدم	owl:sameAs	dbpedia:Russia_national_football_team .
+ns58:Rusiya_milli_futbol_komandası	owl:sameAs	dbpedia:Russia_national_football_team .
+ns65:Зборная_Расіі_па_футболе	owl:sameAs	dbpedia:Russia_national_football_team .
+ns51:Зборная_Расеі_па_футболе	owl:sameAs	dbpedia:Russia_national_football_team .
+ns35:Национален_отбор_по_футбол_на_Русия	owl:sameAs	dbpedia:Russia_national_football_team .
+ns50:Nogometna_reprezentacija_Rusije	owl:sameAs	dbpedia:Russia_national_football_team .
+ns31:Selecció_de_futbol_de_Rússia	owl:sameAs	dbpedia:Russia_national_football_team .
+ns22:Ruslands_fodboldlandshold	owl:sameAs	dbpedia:Russia_national_football_team .
+ns27:Rusia_nacia_teamo_de_futbalo	owl:sameAs	dbpedia:Russia_national_football_team .
+ns49:Venemaa_jalgpallikoondis	owl:sameAs	dbpedia:Russia_national_football_team .
+ns38:تیم_ملی_فوتبال_روسیه	owl:sameAs	dbpedia:Russia_national_football_team .
+ns45:Venäjän_jalkapallomaajoukkue	owl:sameAs	dbpedia:Russia_national_football_team .
+ns63:Selección_de_fútbol_de_Rusia	owl:sameAs	dbpedia:Russia_national_football_team .
+ns53:נבחרת_רוסיה_בכדורגל	owl:sameAs	dbpedia:Russia_national_football_team .
+ns47:Russia_national_football_team	owl:sameAs	dbpedia:Russia_national_football_team .
+ns30:Ruska_nogometna_reprezentacija	owl:sameAs	dbpedia:Russia_national_football_team .
+ns43:Orosz_labdarúgó-válogatott	owl:sameAs	dbpedia:Russia_national_football_team .
+ns37:Tim_nasional_bal-balan_Rusia	owl:sameAs	dbpedia:Russia_national_football_team .
+ns28:რუსეთის_ეროვნული_საფეხბურთო_ნაკრები	owl:sameAs	dbpedia:Russia_national_football_team .
+ns20:Ресей_Ұлттық_футбол_құрама_командасы	owl:sameAs	dbpedia:Russia_national_football_team .
+ns36:Turma_Nationalis_Pedilusoria_Russica	owl:sameAs	dbpedia:Russia_national_football_team .
+ns59:Rusijos_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Russia_national_football_team .
+ns46:Krievijas_futbola_izlase	owl:sameAs	dbpedia:Russia_national_football_team .
+ns32:Фудбалска_репрезентација_на_Русија	owl:sameAs	dbpedia:Russia_national_football_team .
+ns39:Орос_улсын_хөлбөмбөгийн_шигшээ_баг	owl:sameAs	dbpedia:Russia_national_football_team .
+ns61:रशिया_फुटबॉल_संघ	owl:sameAs	dbpedia:Russia_national_football_team .
+ns52:Tim_nazzjonali_tal-futbol_tar-Russja	owl:sameAs	dbpedia:Russia_national_football_team .
+ns64:Russlands_herrelandslag_i_fotball	owl:sameAs	dbpedia:Russia_national_football_team .
+ns56:Echipa_națională_de_fotbal_a_Rusiei	owl:sameAs	dbpedia:Russia_national_football_team .
+ns62:Сборная_России_по_футболу	owl:sameAs	dbpedia:Russia_national_football_team .
+ns40:Russia_national_football_team	owl:sameAs	dbpedia:Russia_national_football_team .
+ns57:Ruské_národné_futbalové_mužstvo	owl:sameAs	dbpedia:Russia_national_football_team .
+ns29:Ruska_nogometna_reprezentanca	owl:sameAs	dbpedia:Russia_national_football_team .
+ns34:Kombëtarja_ruse_e_futbollit	owl:sameAs	dbpedia:Russia_national_football_team .
+ns25:Фудбалска_репрезентација_Русије	owl:sameAs	dbpedia:Russia_national_football_team .
+ns21:Rysslands_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Russia_national_football_team .
+ns41:ฟุตบอลทีมชาติรัสเซีย	owl:sameAs	dbpedia:Russia_national_football_team .
+ns42:Rusya_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Russia_national_football_team .
+ns48:Збірна_Росії_з_футболу	owl:sameAs	dbpedia:Russia_national_football_team .
+ns44:Rossiya_milliy_futbol_terma_jamoasi	owl:sameAs	dbpedia:Russia_national_football_team .
+ns55:Đội_tuyển_bóng_đá_quốc_gia_Nga	owl:sameAs	dbpedia:Russia_national_football_team .
+ns60:俄罗斯国家足球队	owl:sameAs	dbpedia:Russia_national_football_team .
+ns33:俄羅斯國家足球隊	owl:sameAs	dbpedia:Russia_national_football_team .
+dbpedia:Pavel_Mamayev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Viktor_Vasin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Artyom_Dzyuba	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Andrei_Akimov_(footballer)>	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Fyodor_Rimsha	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Ivan_Vorontsov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Valentin_Vasilyevich_Sysoyev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Vladimir_Markov_(footballer)>	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Suvorov	dbpedia-owl:birthPlace	dbpedia:Russia_national_football_team ;
+	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Uversky	dbpedia-owl:birthPlace	dbpedia:Russia_national_football_team ;
+	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Kokorin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Samedov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Denis_Glushakov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Kombarov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Vyacheslav_Dayev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Yevgeni_Makeyev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Sheshukov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Roman_Sharonov__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Samedov__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Yuran	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Khokhlov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Guus_Hiddink	dbpprop:managerclubs	dbpedia:Russia_national_football_team .
+dbpedia:Italo_Galbiati	dbpprop:currentclub	dbpedia:Russia_national_football_team ;
+	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Oleksandr_Horshkov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Tochilin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Bugayev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Radchenko	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Mikhail_Gershkovich	dbpedia-owl:managerClub	dbpedia:Russia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Sennikov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Arifullin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Rebko	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Shirko	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Valery_Kechinov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Nazar_Petrosyan	dbpedia-owl:managerClub	dbpedia:Russia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_Dyadyun	dbpedia-owl:birthPlace	dbpedia:Russia_national_football_team .
+dbpedia:Bakhva_Tedeyev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Valery_Gazzaev	dbpedia-owl:managerClub	dbpedia:Russia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Russia_national_football_team .
+dbpedia:Georgi_Schennikov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Tukmanov	dbpedia-owl:managerClub	dbpedia:Russia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Russia_national_football_team .
+dbpedia:Georgi_Yartsev	dbpedia-owl:managerClub	dbpedia:Russia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Chichkin__12	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Nikita_Khromov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Pyotr_Sorokin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Nikolai_Kynin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Grigori_Bogemsky	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Dmitri_Tarasov_(footballer)>	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Pyotr_Petrovich_Sokolov_(soccer_player)>	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Vasily_Butusov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Matrin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Lenar_Gilmullin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Nikolai_Denisov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Mikhail_Nikolayevich_Smirnov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Vasily_Zhitarev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Sergei_Romanov_(footballer)>	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Leonid_Smirnov_(footballer)>	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_Lash	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Mikhail_Yakovlev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Denis_Cheryshev	dbpedia-owl:birthPlace	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Nikolayevich_Martynov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Ivan_Yegorov_(footballer)>	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Aleksandr_Petrov_(footballer_born_1893)>	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Filippov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Russia_vs_Ukraine_(1999)>	dbpprop:team	dbpedia:Russia_national_football_team ;
+	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Alenichev__9	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Simutenkov__10	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Viktor_Onopko__8	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Yegor_Titov__5	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Afanasyev__8	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Gorlukovich__13	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Valeri_Chizhov__14	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Smolnikov__13	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Sklyarov__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Leonid_Smirnov_(footballer)__4>	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Kolotovkin__13	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Stanislav_Cherchesov__11	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vasily_Butusov__3	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_Niederhaus__13	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Nikolayevich_Martynov__1	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Andrey_Tikhonov__10	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Artyom_Dzyuba__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Semshov__8	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Pavlov__5	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vasili_Kulkov__16	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Ivanovich_Filippov__1	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Karyaka__11	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Arkadi_Tyapkin__1	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Alexander_Vladimirovich_Panov__14	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Mokh__11	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Artyom_Bezrodny__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Dmitry_Yakovlevsky__10	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Yanovskiy__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Mikhail_Yakovlev__2	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Nikita_Bazhenov__4	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Oleg_Teryokhin__9	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Viktor_Vasin__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Rinat_Dasayev__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Ruslan_Nigmatullin__13	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Sergei_Ovchinnikov_(footballer_born_1970)__15>	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Sergei_Ovchinnikov_(footballer_born_1970)__9>	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Evgeni_Aldonin__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Mostovoi__9	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_Beschastnykh__13	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Aleksei_Troitsky_(footballer)__7>	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Torbinski__5	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Gennadiy_Nizhegorodov__10	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Oleg_Romantsev__8	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Kiriakov__11	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Podpaly__13	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Artyom_Yenin__12	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Radchenko__15	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Dmitri_Vasilyev_(footballer_born_1977)__5>	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Georgi_Schennikov__3	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Dobrovolski__13	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Omari_Tetradze__12	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Pavel_Zolkin__4	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Renat_Yanbayev__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_Lash__5	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vyacheslav_Dayev__9	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Albert_Borzenkov__14	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Ryazantsev__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Anton_Shunin__4	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Ananko__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Pavel_Pogrebnyak__11	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vladislav_Lemish__12	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Christian_Panucci__12	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Bulykin__13	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Kirichenko__10	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Georgi_Yartsev__19	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Kerzhakov__5	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Arifullin__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Karakosov__1	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Suvorov__1	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Khlestov__8	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Leonid_Zolkin__5	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Oleg_Romantsev__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Roman_Adamov__12	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Ignashevich__5	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Valery_Gazzaev__16	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Valery_Yesipov__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vasily_Zhitarev__4	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Veniamin_Mandrykin__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Novosadov__12	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Yevgenyevich_Ivanov__13	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Sennikov__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Mikhail_Gershkovich__9	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Roman_Pavlyuchenko__10	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Nekrasov__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Uversky__2	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Kondrashov__8	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Andrey_Chernyshov__16	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Nikolai_Olenikov__11	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Valentin_Vasilyevich_Sysoyev__1	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Viktor_Budyanskiy__9	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Yuri_Matveyev__13	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Andrey_Yeshchenko__12	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Lagunov__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Oleg_Veretennikov__16	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Pyotr_Petrovich_Sokolov_(soccer_player)__2>	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Sergey_Viktorovich_Ryzhikov__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_Lebed__14	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Diniyar_Bilyaletdinov__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Galiamin__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Lyubomir_Kantonistov__16	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Oleg_Kornaukhov__13	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Roman_Pavlyuchenko__9	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Kormiltsev__8	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vadim_Evseev__8	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Marat_Izmailov__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Semak__9	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Anyukov__4	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Denis_Kolodin__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Loskov__5	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Ivan_Vorontsov__1	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_Bystrov__5	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Yevgeni_Bushmanov__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Yevgeni_Kharlachyov__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Kanchelskis__14	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Valeri_Karpin__10	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Alan_Dzagoev__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Artur_Pagayev__4	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Bakhva_Tedeyev__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Mikhail_Romanov_(footballer)__1>	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Oleksandr_Horshkov__9	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Rolan_Gusev__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Filippov__4	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Sergey_Grishin_(footballer,_born_1973)__11>	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Yuri_Lodigin__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Nikolai_Gromov__2	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_Mishin__1	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Yuri_Kovtun__9	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Anatolyevich_Kozlov__5	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Anatoli_Kanishchev__10	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Denis_Boyarintsev__12	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Ilshat_Faizulin__14	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Ivan_Yegorov_(footballer)__4>	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Yuriy_Nikiforov__12	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Alexey_Smertin__11	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Krotov__3	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Arseniy_Logashov__8	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Mukhsin_Mukhamadiev__14	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Filippenkov__12	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Viktor_Bulatov__15	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vyacheslav_Malafeev__3	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Yevgeni_Makeyev__4	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Borodyuk__12	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Sheshukov__10	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Tukmanov__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Bugayev__9	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Andrey_Chernyshov__17	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Fyodor_Rimsha__4	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Lenar_Gilmullin__2	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Aleksandr_Petrov_(footballer_born_1893)__2>	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Tochilin__3	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Filimonov__14	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Berezutski__4	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Matrin__1	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Akinfeev__3	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Shalimov__13	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Maksim_Grigoryev_(footballer_born_1990)__6>	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Rebko__8	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Alexander_Tarkhanov__11	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Solomatin__11	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Nikita_Khromov__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Nikolai_Korotkov_(footballer)__4>	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Yevgeni_Varlamov__9	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Yuri_Zhirkov__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Shmarko__11	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Gerasimenko__10	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Andrey_Chernyshov__23	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Cheryshev__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Fyodor_Smolov__8	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Pyotr_Bystrov__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vasili_Berezutski__3	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_Gabulov__11	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_Granat__5	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Yuri_Drozdov__10	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Borodyuk__17	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Bukharov__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Popov__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Dmitri_Tarasov_(footballer)__5>	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Grigori_Bogemsky__5	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Denisov__4	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Kirill_Nababkin__5	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Nikolai_Kynin__2	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Ramiz_Mamedov__13	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Yuran__13	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Andrey_Arshavin__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Gadzhi_Gadzhiyev__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Grigori_Nikitin__2	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Lev_Favorsky__1	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Denis_Glushakov__9	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Dmitri_Kuznetsov_(footballer_born_1965)__17>	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Nikolai_Latysh__16	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vladislav_Ternavsky__15	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Borodyuk__15	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Bakharev__11	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Boris_Popovich__1	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Konstantin_Zyryanov__5	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Maksim_Buznikin__13	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Mikhail_Nikolayevich_Smirnov__3	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Valery_Kechinov__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Borodyuk__14	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Denis_Laktionov__10	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Pavel_Sadyrin__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Alan_Kusov__14	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Kokorin__3	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Ionov__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Andrey_Kobelev__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Denis_Zubko__14	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Lediakhov__9	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Oleg_Shatov__5	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Pavel_Mamayev__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Pyotr_Sorokin__3	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Roman_Vorobyov__9	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Sergei_Romanov_(footballer)__3>	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_Tatarchuk__14	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vladislav_Radimov__9	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Shirko__8	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Alexei_Kosolapov__15	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Andrei_Akimov_(footballer)__2>	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Fedkov__15	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Chugainov__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Ilya_Tsymbalar__9	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Nazar_Petrosyan__8	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Nikolai_Pisarev__10	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Vladimir_Markov_(footballer)__4>	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Zaur_Khapov__5	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Igonin__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Anton_Bobyor__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Kharine__10	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Kolyvanov__11	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Maksim_Bokov__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Nikolai_Denisov__3	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Oleg_Sergeyev__13	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Rashid_Rakhimov__11	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Ruslan_Pimenov__9	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Taras_Burlak__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Valeri_Minko__5	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_But__8	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Yuri_Semin__12	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Russia_FC	dbpedia-owl:wikiPageRedirects	dbpedia:Russia_national_football_team .
+dbpedia:Russia_National_Football_Team	dbpedia-owl:wikiPageRedirects	dbpedia:Russia_national_football_team .
+dbpedia:Russia_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Russia_national_football_team .
+dbpedia:Russian_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Russia_national_football_team .
+dbpedia:Russian_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Russia_national_football_team .
+dbpedia:Russian_soccer_tram	dbpedia-owl:wikiPageRedirects	dbpedia:Russia_national_football_team .
+dbpedia:Gadzhi_Gadzhiyev	dbpedia-owl:birthPlace	dbpedia:Russia_national_football_team ;
+	dbpedia-owl:managerClub	dbpedia:Russia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Russia_national_football_team .
+dbpedia:Andrey_Yeshchenko	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Fyodor_Smolov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Bukharov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Diniyar_Bilyaletdinov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_Bystrov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Zaur_Khapov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Denisov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Yuri_Zhirkov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Ruslan_Nigmatullin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Ionov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Arseniy_Logashov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Ilya_Tsymbalar	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Oleg_Shatov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Alan_Kusov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Solomatin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Sergey_Viktorovich_Ryzhikov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Omari_Tetradze	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Nekrasov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Igonin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Sergey_Grishin_(footballer,_born_1973)>	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_Gabulov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Artur_Pagayev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Renat_Yanbayev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Kombarov__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Korneev__10	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Korneev__12	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Konstantin_Zyryanov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Anyukov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Smolnikov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Kerzhakov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Viktor_Fayzulin	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Vyacheslav_Malafeev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Yuri_Lodigin	dbpedia-owl:birthPlace	dbpedia:Russia_national_football_team ;
+	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Ryazantsev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Andrey_Arshavin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Simutenkov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Vladislav_Radimov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Semak	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Maksim_Demenko	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Semshov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Andrey_Kobelev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Kolotovkin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Denis_Zubko	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Maksim_Bokov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Vasili_Kulkov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Yuri_Matveyev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Pavel_Sadyrin	dbpedia-owl:managerClub	dbpedia:Russia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Russia_national_football_team .
+dbpedia:Alexander_Vladimirovich_Panov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Kondrashov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Pavel_Pogrebnyak	dbpedia-owl:birthPlace	dbpedia:Russia_national_football_team ;
+	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_Lebed	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Oleg_Salenko	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Dick_Advocaat	dbpprop:managerclubs	dbpedia:Russia_national_football_team .
+dbpedia:Anatoliy_Byshovets	dbpprop:managerclubs	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Chugainov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Korneev	dbpedia-owl:managerClub	dbpedia:Russia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Russia_national_football_team ;
+	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Roman_Vorobyov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Alexey_Smertin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Akinfeev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Igor_Sklyarov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Ignashevich	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Yevgeni_Kharlachyov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Evgeni_Aldonin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Loskov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Denis_Kolodin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/2002_in_Japanese_football>	dbpprop:team	dbpedia:Russia_national_football_team .
+dbpedia:Oleg_Romantsev	dbpedia-owl:managerClub	dbpedia:Russia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Berezutski	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Vasili_Berezutski	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Torbinski	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Roman_Shishkin__4	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Khokhlov__8	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Ivan_Saenko__6	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Pavlov	dbpedia-owl:managerClub	dbpedia:Russia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Russia_national_football_team .
+dbpedia:Nikolai_Latysh	dbpedia-owl:managerClub	dbpedia:Russia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Russia_national_football_team .
+dbpedia:UEFA_Euro_2012_statistics	dbpprop:leastCleanSheetsTeam	dbpedia:Russia_national_football_team .
+dbpedia:Rashid_Rakhimov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Maksim_Demenko__12	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Lagunov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Sergei_Kormiltsev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Valeri_Chizhov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Valeri_Minko	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksei_Karakosov	dbpedia-owl:birthPlace	dbpedia:Russia_national_football_team ;
+	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Artyom_Yenin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Alan_Dzagoev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Andrei_Chichkin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Kirill_Nababkin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Nikita_Bazhenov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Pyotr_Bystrov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Denis_Boyarintsev	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Nikolai_Gromov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Taras_Burlak	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Grigori_Nikitin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Oleg_Teryokhin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Anton_Shunin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Albert_Borzenkov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Leonid_Pakhomov	dbpprop:managerclubs	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Ivanovich_Filippov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Nikolai_Korotkov_(footballer)>	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Roman_Shishkin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Maksim_Buznikin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Boris_Popovich	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Kirichenko	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Vladimir_Granat	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Aleksandr_Krotov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Fabio_Capello__15	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Anton_Bobyor	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Oleg_Salenko__12	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Dmitri_Sychev__7	dbpedia-owl:team	dbpedia:Russia_national_football_team .
+dbpedia:Vladislav_Ternavsky	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Ramiz_Mamedov	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+dbpedia:Arkadi_Tyapkin	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Aleksei_Troitsky_(footballer)>	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .
+<http://dbpedia.org/resource/Mikhail_Romanov_(footballer)>	dbpedia-owl:team	dbpedia:Russia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Russia_national_football_team .

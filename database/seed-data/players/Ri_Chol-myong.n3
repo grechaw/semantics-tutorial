@@ -1,0 +1,140 @@
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:North_Korea_at_the_2010_Asian_Games	dbpprop:name	dbpedia:Ri_Chol-myong .
+dbpedia:Pyongyang_City_Sports_Club	dbpprop:name	dbpedia:Ri_Chol-myong .
+<http://dbpedia.org/resource/2007_FIFA_U-20_World_Cup_squads>	dbpprop:name	dbpedia:Ri_Chol-myong .
+<http://dbpedia.org/resource/2005_FIFA_U-17_World_Championship_squads>	dbpprop:name	dbpedia:Ri_Chol-myong .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Ri_Chol-myong .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns3:	<http://en.wikipedia.org/wiki/> .
+ns3:Ri_Chol-myong	foaf:primaryTopic	dbpedia:Ri_Chol-myong .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns5:	<http://wikidata.dbpedia.org/resource/> .
+dbpedia:Ri_Chol-myong	rdf:type	ns5:Q5 ,
+		ns5:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbpedia:Ri_Chol-myong	rdf:type	owl:Thing .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Ri_Chol-myong	rdf:type	dbpedia-owl:SoccerPlayer .
+@prefix ns8:	<http://schema.org/> .
+dbpedia:Ri_Chol-myong	rdf:type	ns8:Person ,
+		foaf:Person ,
+		dbpedia-owl:Person ,
+		dbpedia-owl:Agent .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Ri_Chol-myong	rdf:type	dul:NaturalPerson ,
+		dbpedia-owl:Athlete ,
+		dul:Agent .
+@prefix ns10:	<http://wikidata.org/entity/> .
+dbpedia:Ri_Chol-myong	owl:sameAs	ns10:Q554081 .
+@prefix ns11:	<http://ko.dbpedia.org/resource/> .
+dbpedia:Ri_Chol-myong	owl:sameAs	ns11:리철명 .
+@prefix ns12:	<http://de.dbpedia.org/resource/> .
+dbpedia:Ri_Chol-myong	owl:sameAs	ns12:Ri_Chol-myong ,
+		<http://rdf.freebase.com/ns/m.0c01fs_> ,
+		ns5:Q554081 .
+@prefix ns13:	<http://es.dbpedia.org/resource/> .
+dbpedia:Ri_Chol-myong	owl:sameAs	ns13:Ri_Chol-myong .
+@prefix ns14:	<http://it.dbpedia.org/resource/> .
+dbpedia:Ri_Chol-myong	owl:sameAs	ns14:Ri_Chol-Myong .
+@prefix ns15:	<http://pl.dbpedia.org/resource/> .
+dbpedia:Ri_Chol-myong	owl:sameAs	ns15:Ri_Chol-myong ,
+		dbpedia:Ri_Chol-myong .
+@prefix ns16:	<http://fr.dbpedia.org/resource/> .
+dbpedia:Ri_Chol-myong	owl:sameAs	ns16:Ri_Chol-myong .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Ri_Chol-myong	rdfs:label	"\u041B\u0438 \u0427\u0445\u043E\u043B\u044C \u041C\u0451\u043D"@ru ,
+		"\u0631\u064A \u062A\u0634\u0648\u0644 \u0645\u064A\u0648\u0646\u063A"@ar ,
+		"Ri Chol-myong"@de ,
+		"Ri Chol-Myong"@it ,
+		"Ri Chol-myong" ,
+		"Ri Chol-myong"@pl ,
+		"\u674E\u54F2\u6C11"@zh ,
+		"Ri Chol-myong"@fr ,
+		"Ri Chol-myong"@es .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Ri_Chol-myong	dcterms:subject	category:Living_people ,
+		<http://dbpedia.org/resource/Category:1988_births> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:North_Korean_footballers ,
+		category:Amrokgang_Sports_Club_players ,
+		category:North_Korea_international_footballers ,
+		category:Association_football_midfielders .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Ri_Chol-myong	dc:description	"Footballer" ,
+		"Footballer" ;
+	foaf:givenName	"Chol-Myong" ;
+	foaf:name	"Ri Chol-Myong" ,
+		"Chol-Myong Ri" ,
+		"Ri, Chol-Myong" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Ri_Chol-myong	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Ri_Chol-myong?oldid=601317883> ;
+	rdfs:comment	"Ri Chol-Myong (hang\u016Dl \uB9AC\uCCA0\uBA85?</span>; Pyongyang, 18 febbraio 1988) \u00E8 un calciatore nordcoreano, centrocampista del Pyongyang City e della Nazionale nordcoreana."@it ,
+		"\u674E\u54F2\u6C11\uFF08\u671D\u9BAE\u8A9E: \uB9AC\uCCA0\uBA85\uFF1B\u82F1\u8A9E: Ri Chol-Myong\uFF1B1988\u5E742\u670818\u65E5\uFF0D\uFF09\u662F\u671D\u9BAE\u8DB3\u7403\u904B\u52D5\u54E1\u3002\u5165\u9078\u904E\u671D\u9BAE\u570B\u5BB6\u8DB3\u7403\u968A\u3002\u73FE\u5728\u6548\u529B\u671D\u9BAE\u8DB3\u7403\u806F\u8CFD\u7403\u6703\u5E73\u58E4\u9AD4\u80B2\u5718\u3002\u4ED6\u57282010\u5E74\u4E9E\u8DB3\u806F\u6311\u6230\u76C3\u5C0D\u5409\u723E\u5409\u65AF\u570B\u5BB6\u8DB3\u7403\u968A\u7684\u6BD4\u8CFD\u4E2D\u5C04\u5165\u500B\u4EBA\u53C3\u8CFD\u7684\u7B2C\u4E00\u500B\u5165\u7403\u3002\u540C\u5E74\uFF0C\u4ED6\u5165\u9078\u4E862010\u5E74\u4E16\u754C\u676F\u8DB3\u7403\u8CFD\u768423\u4EBA\u540D\u55AE\u3002\u674E\u54F2\u6C11\u9084\u4EE3\u8868\u4E86\u671D\u9BAE\u570B\u5BB6\u5967\u904B\u8DB3\u7403\u968A\u53C3\u52A02010\u5E74\u4E9E\u904B\u6703\u3002\u5728\u516B\u5F37\u8CFD\u4E8B\u5C0D\u963F\u806F\u914B\u570B\u5BB6\u5967\u904B\u8DB3\u7403\u968A\u4E2D\u4EE5\u4E92\u5C04\u5341\u4E8C\u78BC\u5206\u52DD\u8CA0\uFF0C\u674E\u54F2\u6C11\u5C04\u5931\u4E86\u6700\u5F8C\u4E00\u500B\u9EDE\u7403\uFF0C\u4EE58-9\u6BD4\u6578\u8CA0\u7D66\u963F\u806F\u914B\u963F\u806F\u914B\u570B\u5BB6\u5967\u904B\u8DB3\u7403\u968A\u3002"@zh ,
+		"Ri Chol-myong (* 18. Februar 1988) ist ein nordkoreanischer Fu\u00DFballspieler."@de ,
+		"Ri Chol-myong (cor\u00E9en : \uB9AC\uCCA0\uBA85), n\u00E9 le 18 f\u00E9vrier 1988 \u00E0 Pyongyang, est un footballeur international nord-cor\u00E9en. Il \u00E9volue actuellement au Pyongyang City SG au poste de milieu de terrain."@fr ,
+		"\u0631\u064A \u062A\u0634\u0648\u0644 \u0645\u064A\u0648\u0646\u063A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Ri Chol-Myong) (\u0645\u0648\u0627\u0644\u064A\u062F 18 \u0641\u0628\u0631\u0627\u064A\u0631 1988 \u0641\u064A \u0628\u064A\u0648\u0646\u064A\u0627\u0646\u063A) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0648\u0631\u064A \u0634\u0645\u0627\u0644\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0623\u0645\u0631\u0648\u0643\u063A\u0627\u0646\u063A \u0627\u0644\u0643\u0648\u0631\u064A \u0627\u0644\u0634\u0645\u0627\u0644\u064A ."@ar ,
+		"Ri Chol-Myong (Hanja: \u674E\u54F2\u6C11,Korean: \uB9AC\uCCA0\uBA85, born 18 February 1988) is a North Korean international football player. He plays for Pyongyang City in the DPR Korea League.He has played on thirteen occasions for the North Korean national team, scoring a goal in the 2010 AFC Challenge Cup against Kyrgyzstan. He has been called up to their 23-man squad for the 2010 FIFA World Cup.Ri Chol-Myong was a part of the squad in the 2010 Asian Games." ,
+		"Ri Chol-myong (Hanja: \u674E\u54F2\u6C11, Coreano: \uB9AC\uCCA0\uBA85, Pyongyang, Corea del Norte, 18 de febrero de 1988) es un futbolista norcoreano que juega como mediocampista en el Pyongyang City de la Liga de f\u00FAtbol de Corea del Norte."@es ,
+		"\u041B\u0438 \u0427\u0445\u043E\u043B\u044C \u041C\u0451\u043D (\u043A\u043E\u0440. \uB9AC\uCCA0\uBA85?, \u674E\u54F2\u654F?; 18 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1988, \u041F\u0445\u0435\u043D\u044C\u044F\u043D, \u041A\u041D\u0414\u0420) \u2014 \u0441\u0435\u0432\u0435\u0440\u043E\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u041F\u0445\u0435\u043D\u044C\u044F\u043D\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u041D\u0414\u0420."@ru ,
+		"Ri Chol-myong (ur. 18 lutego 1988 w Pjongjang) \u2013 p\u00F3\u0142nocnokorea\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji pomocnika w klubie Pyongyang City."@pl ;
+	foaf:surname	"Ri" ;
+	dbpprop:currentnumber	13 ;
+	foaf:isPrimaryTopicOf	ns3:Ri_Chol-myong ;
+	dbpprop:name	"Ri, Chol-Myong" ,
+		"Ri Chol-Myong" ;
+	dbpedia-owl:abstract	"\u674E\u54F2\u6C11\uFF08\u671D\u9BAE\u8A9E: \uB9AC\uCCA0\uBA85\uFF1B\u82F1\u8A9E: Ri Chol-Myong\uFF1B1988\u5E742\u670818\u65E5\uFF0D\uFF09\u662F\u671D\u9BAE\u8DB3\u7403\u904B\u52D5\u54E1\u3002\u5165\u9078\u904E\u671D\u9BAE\u570B\u5BB6\u8DB3\u7403\u968A\u3002\u73FE\u5728\u6548\u529B\u671D\u9BAE\u8DB3\u7403\u806F\u8CFD\u7403\u6703\u5E73\u58E4\u9AD4\u80B2\u5718\u3002\u4ED6\u57282010\u5E74\u4E9E\u8DB3\u806F\u6311\u6230\u76C3\u5C0D\u5409\u723E\u5409\u65AF\u570B\u5BB6\u8DB3\u7403\u968A\u7684\u6BD4\u8CFD\u4E2D\u5C04\u5165\u500B\u4EBA\u53C3\u8CFD\u7684\u7B2C\u4E00\u500B\u5165\u7403\u3002\u540C\u5E74\uFF0C\u4ED6\u5165\u9078\u4E862010\u5E74\u4E16\u754C\u676F\u8DB3\u7403\u8CFD\u768423\u4EBA\u540D\u55AE\u3002\u674E\u54F2\u6C11\u9084\u4EE3\u8868\u4E86\u671D\u9BAE\u570B\u5BB6\u5967\u904B\u8DB3\u7403\u968A\u53C3\u52A02010\u5E74\u4E9E\u904B\u6703\u3002\u5728\u516B\u5F37\u8CFD\u4E8B\u5C0D\u963F\u806F\u914B\u570B\u5BB6\u5967\u904B\u8DB3\u7403\u968A\u4E2D\u4EE5\u4E92\u5C04\u5341\u4E8C\u78BC\u5206\u52DD\u8CA0\uFF0C\u674E\u54F2\u6C11\u5C04\u5931\u4E86\u6700\u5F8C\u4E00\u500B\u9EDE\u7403\uFF0C\u4EE58-9\u6BD4\u6578\u8CA0\u7D66\u963F\u806F\u914B\u963F\u806F\u914B\u570B\u5BB6\u5967\u904B\u8DB3\u7403\u968A\u3002"@zh ,
+		"Ri Chol-Myong (hang\u016Dl \uB9AC\uCCA0\uBA85?</span>; Pyongyang, 18 febbraio 1988) \u00E8 un calciatore nordcoreano, centrocampista del Pyongyang City e della Nazionale nordcoreana."@it ,
+		"Ri Chol-myong (cor\u00E9en : \uB9AC\uCCA0\uBA85), n\u00E9 le 18 f\u00E9vrier 1988 \u00E0 Pyongyang, est un footballeur international nord-cor\u00E9en. Il \u00E9volue actuellement au Pyongyang City SG au poste de milieu de terrain."@fr ,
+		"\u0631\u064A \u062A\u0634\u0648\u0644 \u0645\u064A\u0648\u0646\u063A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Ri Chol-Myong) (\u0645\u0648\u0627\u0644\u064A\u062F 18 \u0641\u0628\u0631\u0627\u064A\u0631 1988 \u0641\u064A \u0628\u064A\u0648\u0646\u064A\u0627\u0646\u063A) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0648\u0631\u064A \u0634\u0645\u0627\u0644\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0623\u0645\u0631\u0648\u0643\u063A\u0627\u0646\u063A \u0627\u0644\u0643\u0648\u0631\u064A \u0627\u0644\u0634\u0645\u0627\u0644\u064A ."@ar ,
+		"Ri Chol-myong (ur. 18 lutego 1988 w Pjongjang) \u2013 p\u00F3\u0142nocnokorea\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji pomocnika w klubie Pyongyang City."@pl ,
+		"\u041B\u0438 \u0427\u0445\u043E\u043B\u044C \u041C\u0451\u043D (\u043A\u043E\u0440. \uB9AC\uCCA0\uBA85?, \u674E\u54F2\u654F?; 18 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1988, \u041F\u0445\u0435\u043D\u044C\u044F\u043D, \u041A\u041D\u0414\u0420) \u2014 \u0441\u0435\u0432\u0435\u0440\u043E\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u041F\u0445\u0435\u043D\u044C\u044F\u043D\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u041D\u0414\u0420."@ru ,
+		"Ri Chol-Myong (Hanja: \u674E\u54F2\u6C11,Korean: \uB9AC\uCCA0\uBA85, born 18 February 1988) is a North Korean international football player. He plays for Pyongyang City in the DPR Korea League.He has played on thirteen occasions for the North Korean national team, scoring a goal in the 2010 AFC Challenge Cup against Kyrgyzstan. He has been called up to their 23-man squad for the 2010 FIFA World Cup.Ri Chol-Myong was a part of the squad in the 2010 Asian Games. Korea DRR lost 8-9 in a penalty shoot-out in the hands of UAE in the quarter-finals. Korea DPR lost because of the penalty Ri missed." ,
+		"Ri Chol-myong (* 18. Februar 1988) ist ein nordkoreanischer Fu\u00DFballspieler."@de ,
+		"Ri Chol-myong (Hanja: \u674E\u54F2\u6C11, Coreano: \uB9AC\uCCA0\uBA85, Pyongyang, Corea del Norte, 18 de febrero de 1988) es un futbolista norcoreano que juega como mediocampista en el Pyongyang City de la Liga de f\u00FAtbol de Corea del Norte."@es ;
+	dbpedia-owl:wikiPageID	27511389 ;
+	dbpedia-owl:wikiPageRevisionID	601317883 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Ri_Chol-myong	dbpprop:birthDate	"1988-02-18+02:00"^^xsd:date ;
+	dbpprop:birthPlace	dbpedia:North_Korea ,
+		dbpedia:Pyongyang ;
+	dbpprop:dateOfBirth	"1988-02-18+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	dbpedia:North_Korea ,
+		dbpedia:Pyongyang ;
+	dbpprop:shortDescription	"Footballer" ;
+	dbpedia-owl:birthDate	"1988-02-18+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:North_Korea ,
+		dbpedia:Pyongyang ;
+	dbpedia-owl:birthYear	"1988+02:00"^^xsd:gYear ;
+	dbpprop:goals	"?" ;
+	dbpprop:caps	"?" ;
+	dbpprop:years	2006 ,
+		2012 ;
+	dbpedia-owl:careerStation	dbpedia:Ri_Chol-myong__1 ,
+		dbpedia:Ri_Chol-myong__2 ,
+		dbpedia:Ri_Chol-myong__3 ;
+	dbpprop:position	dbpedia:Midfielder ;
+	dbpedia-owl:position	dbpedia:Midfielder ;
+	dbpedia-owl:height	1.7299999999999999822 .
+@prefix ns23:	<http://dbpedia.org/datatype/> .
+@prefix ns24:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Ri_Chol-myong	ns24:height	"173.0"^^ns23:centimetre ;
+	dbpprop:currentclub	dbpedia:Pyongyang_City_Sports_Club ;
+	dbpprop:fullname	"Ri Chol-Myong" ;
+	dbpprop:clubs	dbpedia:Pyongyang_City_Sports_Club ;
+	dbpedia-owl:team	dbpedia:Pyongyang_City_Sports_Club ,
+		dbpedia:North_Korea_national_football_team ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.soccerbase.com/players_details.sd?playerid=54769> ;
+	dbpprop:nationalcaps	16 ;
+	dbpprop:nationalgoals	3 ;
+	dbpprop:nationalteam	dbpedia:North_Korea_national_football_team ;
+	dbpprop:nationalyears	2009 .
+<http://dbpedia.org/resource/2009_South_Korea_national_football_team_season>	dbpprop:away14player	dbpedia:Ri_Chol-myong .
+dbpedia:North_Korea_national_football_team	dbpprop:name	dbpedia:Ri_Chol-myong .
+<http://dbpedia.org/resource/Football_at_the_2010_Asian_Games_%E2%80%93_Men\u0027s_team_squads>	dbpprop:name	dbpedia:Ri_Chol-myong .
+<http://dbpedia.org/resource/2010_AFC_Challenge_Cup_squads>	dbpprop:name	dbpedia:Ri_Chol-myong .
+<http://dbpedia.org/resource/2010_Millennial_Anniversary_of_Hanoi_Football_Championship>	dbpprop:name	dbpedia:Ri_Chol-myong .
+<http://dbpedia.org/resource/2012_AFC_Challenge_Cup_squads>	dbpprop:name	dbpedia:Ri_Chol-myong .
+dbpedia:Ri_Chol-Myong	dbpedia-owl:wikiPageRedirects	dbpedia:Ri_Chol-myong .
+dbpedia:Pyongyang_City_Sports_Club__Ri_Chol-Myong__1	dbpedia-owl:currentMember	dbpedia:Ri_Chol-myong .

@@ -1,0 +1,534 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_du_Mozambique_de_football	owl:sameAs	dbpedia:Mozambique_national_football_team .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Mosambikanische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Mozambique_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q254231	owl:sameAs	dbpedia:Mozambique_national_football_team .
+@prefix ns5:	<http://cs.dbpedia.org/resource/> .
+ns5:Mosambická_fotbalová_reprezentace	owl:sameAs	dbpedia:Mozambique_national_football_team .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Selección_de_fútbol_de_Mozambique	owl:sameAs	dbpedia:Mozambique_national_football_team .
+@prefix ns7:	<http://id.dbpedia.org/resource/> .
+ns7:Tim_nasional_sepak_bola_Mozambik	owl:sameAs	dbpedia:Mozambique_national_football_team .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Nazionale_di_calcio_del_Mozambico	owl:sameAs	dbpedia:Mozambique_national_football_team .
+@prefix ns9:	<http://ja.dbpedia.org/resource/> .
+ns9:サッカーモザンビーク代表	owl:sameAs	dbpedia:Mozambique_national_football_team .
+@prefix ns10:	<http://ko.dbpedia.org/resource/> .
+ns10:모잠비크_축구_국가대표팀	owl:sameAs	dbpedia:Mozambique_national_football_team .
+@prefix ns11:	<http://nl.dbpedia.org/resource/> .
+ns11:Mozambikaans_voetbalelftal	owl:sameAs	dbpedia:Mozambique_national_football_team .
+@prefix ns12:	<http://pl.dbpedia.org/resource/> .
+ns12:Reprezentacja_Mozambiku_w_piłce_nożnej	owl:sameAs	dbpedia:Mozambique_national_football_team .
+@prefix ns13:	<http://pt.dbpedia.org/resource/> .
+ns13:Seleção_Moçambicana_de_Futebol	owl:sameAs	dbpedia:Mozambique_national_football_team .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Nelinho_(Mozambican_footballer)>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Nelinho_(Mozambican_footballer)>	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Mart_Nooij__2	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Danito_Parruque__1	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns17:	<http://en.wikipedia.org/wiki/> .
+ns17:Mozambique_national_football_team	foaf:primaryTopic	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Lam%C3%A1_(Mozambican_footballer)>	dbpedia-owl:birthPlace	dbpedia:Mozambique_national_football_team ;
+	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Tom%C3%A1s_Inguana>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Helton_Samo_Cunha	dbpedia-owl:birthPlace	dbpedia:Mozambique_national_football_team ;
+	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Almiro_Lobo	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Tico-Tico	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Chiquinho_Conde	dbpedia-owl:birthPlace	dbpedia:Mozambique_national_football_team ;
+	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Eugenio_Fernando_Bila	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Dario_Khan	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/D%C3%A1rio_Monteiro>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Gert_Engels	dbpedia-owl:managerClub	dbpedia:Mozambique_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Joj%C3%B3_(footballer_born_1970)>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbpedia:Mozambique_national_football_team	rdf:type	dbpedia-owl:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Mozambique_national_football_team	rdf:type	yago:NationalSportsTeamsOfMozambique ,
+		yago:FootballTeam108080025 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Mozambique_national_football_team	rdf:type	dul:Agent .
+@prefix ns21:	<http://schema.org/> .
+dbpedia:Mozambique_national_football_team	rdf:type	ns21:SportsTeam ,
+		dul:SocialPerson ,
+		ns21:Organization ,
+		owl:Thing ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:AfricanNationalAssociationFootballTeams ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		dbpedia-owl:Organisation .
+@prefix ns22:	<http://ca.dbpedia.org/resource/> .
+dbpedia:Mozambique_national_football_team	owl:sameAs	ns22:Selecció_de_futbol_de_Moçambic .
+@prefix ns23:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Mozambique_national_football_team	owl:sameAs	ns23:Echipa_națională_de_fotbal_a_Mozambicului .
+@prefix ns24:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Mozambique_national_football_team	owl:sameAs	ns24:Mozambiki_labdarúgó-válogatott .
+@prefix ns25:	<http://et.dbpedia.org/resource/> .
+dbpedia:Mozambique_national_football_team	owl:sameAs	ns25:Mosambiigi_jalgpallikoondis ,
+		ns12:Reprezentacja_Mozambiku_w_piłce_nożnej ,
+		ns10:모잠비크_축구_국가대표팀 .
+@prefix ns26:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Mozambique_national_football_team	owl:sameAs	ns26:Mozambique_national_football_team .
+@prefix ns27:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Mozambique_national_football_team	owl:sameAs	ns27:منتخب_موزمبيق_لكرة_القدم ,
+		ns3:Mosambikanische_Fußballnationalmannschaft ,
+		ns9:サッカーモザンビーク代表 ,
+		ns4:Q254231 .
+@prefix ns28:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Mozambique_national_football_team	owl:sameAs	ns28:Đội_tuyển_bóng_đá_quốc_gia_Mozambique .
+@prefix ns29:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Mozambique_national_football_team	owl:sameAs	ns29:Mozambique_national_football_team ,
+		<http://el.dbpedia.org/resource/\u0395\u03B8\u03BD\u03B9\u03BA\u03AE_\u039C\u03BF\u03B6\u03B1\u03BC\u03B2\u03AF\u03BA\u03B7\u03C2_(\u03C0\u03BF\u03B4\u03CC\u03C3\u03C6\u03B1\u03B9\u03C1\u03BF_\u03B1\u03BD\u03B4\u03C1\u03CE\u03BD)> .
+@prefix ns30:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Mozambique_national_football_team	owl:sameAs	ns30:Mozambik_Millî_Futbol_Takımı .
+@prefix ns31:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Mozambique_national_football_team	owl:sameAs	ns31:Mozambiko_vyrų_futbolo_rinktinė .
+@prefix ns32:	<http://yago-knowledge.org/resource/> .
+dbpedia:Mozambique_national_football_team	owl:sameAs	ns32:Mozambique_national_football_team .
+@prefix ns33:	<http://he.dbpedia.org/resource/> .
+dbpedia:Mozambique_national_football_team	owl:sameAs	ns33:נבחרת_מוזמביק_בכדורגל ,
+		ns1:Équipe_du_Mozambique_de_football .
+@prefix ns34:	<http://ka.dbpedia.org/resource/> .
+dbpedia:Mozambique_national_football_team	owl:sameAs	ns34:მოზამბიკის_ეროვნული_საფეხბურთო_ნაკრები ,
+		ns8:Nazionale_di_calcio_del_Mozambico .
+@prefix ns35:	<http://wikidata.org/entity/> .
+dbpedia:Mozambique_national_football_team	owl:sameAs	ns35:Q254231 ,
+		ns6:Selección_de_fútbol_de_Mozambique ,
+		<http://rdf.freebase.com/ns/m.04923w> .
+@prefix ns36:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Mozambique_national_football_team	owl:sameAs	ns36:Збірна_Мозамбіку_з_футболу ,
+		dbpedia:Mozambique_national_football_team .
+@prefix ns37:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Mozambique_national_football_team	owl:sameAs	ns37:تیم_ملی_فوتبال_موزامبیک ,
+		ns11:Mozambikaans_voetbalelftal ,
+		ns13:Seleção_Moçambicana_de_Futebol ,
+		ns7:Tim_nasional_sepak_bola_Mozambik .
+@prefix ns38:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Mozambique_national_football_team	owl:sameAs	ns38:Сборная_Мозамбика_по_футболу .
+@prefix ns39:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Mozambique_national_football_team	owl:sameAs	ns39:莫桑比克國家足球隊 .
+@prefix ns40:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Mozambique_national_football_team	owl:sameAs	ns40:Moçambiques_herrlandslag_i_fotboll .
+@prefix ns41:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Mozambique_national_football_team	owl:sameAs	ns41:Mosambikin_jalkapallomaajoukkue ,
+		ns5:Mosambická_fotbalová_reprezentace .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Mozambique_national_football_team	rdfs:label	"Selecci\u00F3n de f\u00FAtbol de Mozambique"@es ,
+		"Reprezentacja Mozambiku w pi\u0142ce no\u017Cnej"@pl ,
+		"Mozambique national football team" ,
+		"\u30B5\u30C3\u30AB\u30FC\u30E2\u30B6\u30F3\u30D3\u30FC\u30AF\u4EE3\u8868"@ja ,
+		"Mosambikanische Fu\u00DFballnationalmannschaft"@de ,
+		"Sele\u00E7\u00E3o Mo\u00E7ambicana de Futebol"@pt ,
+		"Nazionale di calcio del Mozambico"@it ,
+		"Mozambikaans voetbalelftal"@nl ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u041C\u043E\u0437\u0430\u043C\u0431\u0438\u043A\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0645\u0648\u0632\u0645\u0628\u064A\u0642 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"\u83AB\u6851\u6BD4\u514B\u570B\u5BB6\u8DB3\u7403\u968A"@zh ,
+		"\u00C9quipe du Mozambique de football"@fr .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Mozambique_national_football_team	dcterms:subject	category:African_national_association_football_teams ,
+		category:Mozambique_national_football_team ,
+		category:National_sports_teams_of_Mozambique ;
+	foaf:depiction	<http://en.wikipedia.org/wiki/Special:FilePath/MozambiqueFootballLogo.png> ;
+	foaf:name	"Mozambique" ;
+	foaf:nick	"Os Mambas" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Mozambique_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Mozambique_national_football_team?oldid=606091042> ;
+	rdfs:comment	"Die Mosambikanische Fu\u00DFballnationalmannschaft ist die Nationalmannschaft des s\u00FCdostafrikanischen Staates Mosambik. Mosambik ist es bisher noch nicht gelungen, sich f\u00FCr eine Fu\u00DFball-Weltmeisterschaft zu qualifizieren. F\u00FCr die Afrikameisterschaft konnte man sich bisher viermal, zuletzt 2010 qualifizieren, schied aber bei jeder Teilnahme bereits nach der Vorrunde aus."@de ,
+		"\u83AB\u6851\u6BD4\u514B\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u83AB\u6851\u6BD4\u514B\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u83AB\u6851\u6BD4\u514B\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u975E\u6D32\u8DB3\u5354\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u83AB\u6851\u6BD4\u514B\u66FE\u7D933\u6B21\u53C3\u52A0\u975E\u6D32\u570B\u5BB6\u76C3\uFF0C\u4E0D\u904E\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4E16\u754C\u76C3\u6C7A\u8CFD\u9031\u3002"@zh ,
+		"\u30B5\u30C3\u30AB\u30FC\u30E2\u30B6\u30F3\u30D3\u30FC\u30AF\u4EE3\u8868\uFF08Sele\u00E7\u00E3o Mo\u00E7ambicana de Futebol\uFF09\u306F\u3001\u30E2\u30B6\u30F3\u30D3\u30FC\u30AF\u30B5\u30C3\u30AB\u30FC\u9023\u76DF (FMF) \u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30E2\u30B6\u30F3\u30D3\u30FC\u30AF\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"The Mozambique national football team (Portuguese: equipa nacional de futebol de Mo\u00E7ambique), popularly known as Os Mambas, represents Mozambique in association football and is controlled by the Federa\u00E7\u00E3o Mo\u00E7ambicana de Futebol, the governing body for football in Mozambique." ,
+		"L'\u00E9quipe du Mozambique de football est constitu\u00E9e par une s\u00E9lection des meilleurs joueurs mozambicains sous l'\u00E9gide de la F\u00E9d\u00E9ration du Mozambique de football, dont le Pr\u00E9sident fut un certain M\u00E1rio Coluna \u00E0 l'ind\u00E9pendance du Mozambique."@fr ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0645\u0648\u0632\u0645\u0628\u064A\u0642 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0644\u0642\u0628 \u0628\u0627\u0644\u0623\u0641\u0627\u0639\u064A \u0627\u0644\u0633\u0648\u062F\u0627\u0621 \u0648\u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0641\u064A \u0645\u0648\u0632\u0645\u0628\u064A\u0642 \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0645\u0648\u0632\u0627\u0645\u0628\u064A\u0642 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645. \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0645\u0646\u062A\u062E\u0628 \u0645\u0648\u0632\u0646\u0628\u064A\u0642 \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0648\u0644\u0643\u0646\u0647 \u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0641\u0631\u064A\u0642\u064A\u0629 \u0641\u064A 1986\u060C 1996\u060C 1998\u060C \u06482010. \u064A\u062D\u062A\u0644 \u062D\u0627\u0644\u064A\u0627 \u0645\u0646\u062A\u062E\u0628 \u0645\u0648\u0632\u0646\u0628\u064A\u0642 \u0627\u0644\u0645\u0631\u0643\u0632 85 \u0641\u064A \u062A\u0635\u0646\u064A\u0641 \u0627\u0644\u0645\u0646\u062A\u062E\u0628\u0627\u062A \u0627\u0644\u0635\u0627\u062F\u0631 \u0639\u0646 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u062F\u0648\u0644\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0639\u0644\u0645\u0627 \u0628\u0623\u0646 \u0623\u0639\u0644\u0649 \u0645\u0631\u0643\u0632 \u062D\u0642\u0642\u0647 \u0647\u0648 66 \u0641\u064A \u0646\u0648\u0641\u0645\u0628\u0631 1996."@ar ,
+		"La Selecci\u00F3n de f\u00FAtbol de Mozambique (en portugu\u00E9s: equipa nacional de futebol de Mo\u00E7ambique), tambi\u00E9n conocidos como los Mambas, es el equipo representativo de ese pa\u00EDs y est\u00E1 controlado por la Federaci\u00F3n Mozambique\u00F1a de F\u00FAtbol. Es miembro de la CAF y de la FIFA.Nunca se han clasificado para jugar la Copa Mundial."@es ,
+		"La Nazionale di calcio del Mozambico \u00E8 la rappresentativa calcistica del Mozambico ed \u00E8 posta sotto l'egida della Federa\u00E7\u00E3o Mo\u00E7ambicana de Futebol (fondata nel 1976 e affiliata alla FIFA dal 1980).Non ha mai partecipato alla fase finale della Coppa del Mondo, mentre ha all'attivo quattro apparizioni alla Coppa d'Africa (1986, 1996, 1998, 2010), anche se non \u00E8 mai stata capace di superare il primo turno."@it ,
+		"Reprezentacja Mozambiku \u2013 kadra Mozambiku w pi\u0142ce no\u017Cnej m\u0119\u017Cczyzn. Pi\u0119ciokrotnie startowa\u0142a w eliminacjach do mistrzostw \u015Bwiata, ale za ka\u017Cdym razem walk\u0119 o mundial przegrywa\u0142a z kretesem. Trzy razy \u2013 w 1986, 1996 i 1998 \u2013 bra\u0142a udzia\u0142 w rozgrywkach o Puchar Narod\u00F3w Afryki. Jej bilans \u2013 dziewi\u0119\u0107 mecz\u00F3w: 0 zwyci\u0119stw, 1 remis (z Tunezj\u0105 w 1996) i 8 pora\u017Cek.Mozambik uzyska\u0142 niepodleg\u0142o\u015B\u0107 dopiero w 1975 roku. Przez ponad trzysta lat ten by\u0142 koloni\u0105 Portugalii."@pl ,
+		"Het Mozambikaans voetbalelftal is een team van voetballers dat Mozambique vertegenwoordigt bij internationale wedstrijden zoals de (kwalificatie)wedstrijden voor het WK en de Afrika Cup.De Federa\u00E7\u00E3o Mo\u00E7ambicana de Futebol werd in 1976 opgericht en is aangesloten bij de COSAFA, de CAF en de FIFA (sinds 1980)."@nl ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u041C\u043E\u0437\u0430\u043C\u0431\u0438\u043A\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u041C\u043E\u0437\u0430\u043C\u0431\u0438\u043A \u0432 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u0442\u0443\u0440\u043D\u0438\u0440\u0430\u0445 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u0438 \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u0442\u0441\u044F \u041C\u043E\u0437\u0430\u043C\u0431\u0438\u043A\u0441\u043A\u043E\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0435\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0430. \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0441\u0442\u0440\u0430\u043D\u044B \u043E\u0434\u043D\u0430\u0436\u0434\u044B \u0441\u043C\u043E\u0433\u043B\u0430 \u043F\u0440\u043E\u0431\u0438\u0442\u044C\u0441\u044F \u0432 \u0444\u0438\u043D\u0430\u043B\u044C\u043D\u0443\u044E \u0447\u0430\u0441\u0442\u044C \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 1966 \u0433\u043E\u0434\u0430. \u0412 1986, 1996, 1998 \u0438 2010 \u0433\u043E\u0434\u0430\u0445 \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u041C\u043E\u0437\u0430\u043C\u0431\u0438\u043A\u0430 \u0441\u043C\u043E\u0433\u043B\u0430 \u043F\u0440\u043E\u0431\u0438\u0442\u044C\u0441\u044F \u0432 \u0444\u0438\u043D\u0430\u043B\u044C\u043D\u044B\u0439 \u0442\u0443\u0440\u043D\u0438\u0440 \u041A\u0443\u0431\u043A\u0430 \u0430\u0444\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0445 \u043D\u0430\u0446\u0438\u0439, \u0433\u0434\u0435 \u043D\u0435 \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u043B\u0430 \u0434\u0430\u043B\u044C\u0448\u0435 \u0433\u0440\u0443\u043F\u043F\u043E\u0432\u043E\u0433\u043E \u0442\u0443\u0440\u043D\u0438\u0440\u0430.\u0418\u0441\u0442\u043E\u0440\u0438\u044F \u041C\u043E\u0437\u0430\u043C\u0431\u0438\u043A\u0430 \u0442\u0435\u0441\u043D\u043E \u0441\u0432\u044F\u0437\u0430\u043D\u0430 \u0441 \u0431\u044B\u0432\u0448\u0435\u0439 \u043C\u0435\u0442\u0440\u043E\u043F\u043E\u043B\u0438\u0435\u0439 \u2014 \u041F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u0438\u0435\u0439."@ru ,
+		"A Sele\u00E7\u00E3o Mo\u00E7ambicana de Futebol representa Mo\u00E7ambique nas competi\u00E7\u00F5es de futebol da FIFA."@pt ;
+	foaf:isPrimaryTopicOf	ns17:Mozambique_national_football_team ;
+	dbpprop:club	<http://dbpedia.org/resource/Clube_Ferrovi%C3%A1rio_da_Beira> ,
+		<http://dbpedia.org/resource/Clube_Ferrovi%C3%A1rio_de_Nampula> ,
+		<http://dbpedia.org/resource/F.C._Bravos_do_Maquis> ,
+		dbpedia:Desportivo_de_Nacala ,
+		dbpedia:Harrisburg_City_Islanders ,
+		<http://dbpedia.org/resource/S.C.U._Torreense> ,
+		<http://dbpedia.org/resource/Liga_Mu%C3%A7ulmana_de_Maputo> ,
+		dbpedia:FC_Vaslui_II ,
+		dbpedia:Levante_UD ,
+		dbpedia:Orlando_Pirates ,
+		<http://dbpedia.org/resource/Mamelodi_Sundowns_F.C.> ,
+		<http://dbpedia.org/resource/C.D._Maxaquene> ,
+		<http://dbpedia.org/resource/Clube_Ferrovi%C3%A1rio_de_Maputo> ,
+		dbpedia:Desportivo_Maputo ,
+		<http://dbpedia.org/resource/C.D._Nacional> ,
+		dbpedia:CD_Costa_do_Sol ,
+		<http://dbpedia.org/resource/Ajax_Cape_Town_F.C.> ,
+		<http://dbpedia.org/resource/Atalanta_B.C.> ;
+	dbpprop:captain	dbpedia:Domingues .
+@prefix ns46:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Mozambique_national_football_team	dbpprop:hasPhotoCollection	ns46:Mozambique_national_football_team ;
+	dbpprop:name	"Mozambique" ,
+		<http://dbpedia.org/resource/Cl%C3%A9sio_Bauque> ,
+		dbpedia:Kito ,
+		dbpedia:Alvarito_Manhique ,
+		dbpedia:Belito ,
+		dbpedia:Benedito ,
+		dbpedia:Calima_Paulino ,
+		dbpedia:Chico_Muchanga ,
+		dbpedia:Apson_Manjate ,
+		dbpedia:Eduardo_Jumisse ,
+		dbpedia:Imo_Pilale ,
+		<http://dbpedia.org/resource/Josemar_Macha%C3%ADsse> ,
+		dbpedia:Reginaldo_Faife ,
+		dbpedia:Ricardo_Campos ,
+		<http://dbpedia.org/resource/Zainadine_J%C3%BAnior> ,
+		dbpedia:Telinho ,
+		dbpedia:Diogo ,
+		<http://dbpedia.org/resource/Sim%C3%A3o_Mate_Junior> ,
+		dbpedia:Momed_Hagi ,
+		dbpedia:Pinto ,
+		<http://dbpedia.org/resource/M%C3%A1rio_Sinamunda> ,
+		"Afonso" ,
+		<http://dbpedia.org/resource/H%C3%A9lder_Pelembe> ,
+		dbpedia:Gabriel_Macuvele ,
+		dbpedia:Dario_Khan ,
+		<http://dbpedia.org/resource/Captain_(association_football)> ,
+		dbpedia:Domingues ,
+		dbpedia:Maninho ,
+		dbpedia:Mexer ,
+		dbpedia:Almiro_Lobo ,
+		dbpedia:Faisal_Bangal ,
+		dbpedia:Francisco_Mioche ,
+		<http://dbpedia.org/resource/Gerv%C3%A1sio_Cossa> ,
+		dbpedia:Isac_Carvalho ,
+		<http://dbpedia.org/resource/Jo%C3%A3o_Aguiar_(footballer)> ,
+		<http://dbpedia.org/resource/Jo%C3%A3o_Mazive> ,
+		dbpedia:Lanito ,
+		dbpedia:Manuelito_II ,
+		dbpedia:Milton_Nhabombe ,
+		dbpedia:Monis_Chimene ,
+		dbpedia:Nelito ,
+		<http://dbpedia.org/resource/R%C3%BAben> ,
+		dbpedia:Sidique_Mussagy ,
+		dbpedia:Soarito ,
+		dbpedia:Victor_Timana ;
+	dbpedia-owl:thumbnail	<http://en.wikipedia.org/wiki/Special:FilePath/MozambiqueFootballLogo.png?width=300> ;
+	dbpedia-owl:abstract	"L'\u00E9quipe du Mozambique de football est constitu\u00E9e par une s\u00E9lection des meilleurs joueurs mozambicains sous l'\u00E9gide de la F\u00E9d\u00E9ration du Mozambique de football, dont le Pr\u00E9sident fut un certain M\u00E1rio Coluna \u00E0 l'ind\u00E9pendance du Mozambique."@fr ,
+		"Die Mosambikanische Fu\u00DFballnationalmannschaft ist die Nationalmannschaft des s\u00FCdostafrikanischen Staates Mosambik. Mosambik ist es bisher noch nicht gelungen, sich f\u00FCr eine Fu\u00DFball-Weltmeisterschaft zu qualifizieren. F\u00FCr die Afrikameisterschaft konnte man sich bisher viermal, zuletzt 2010 qualifizieren, schied aber bei jeder Teilnahme bereits nach der Vorrunde aus."@de ,
+		"La Nazionale di calcio del Mozambico \u00E8 la rappresentativa calcistica del Mozambico ed \u00E8 posta sotto l'egida della Federa\u00E7\u00E3o Mo\u00E7ambicana de Futebol (fondata nel 1976 e affiliata alla FIFA dal 1980).Non ha mai partecipato alla fase finale della Coppa del Mondo, mentre ha all'attivo quattro apparizioni alla Coppa d'Africa (1986, 1996, 1998, 2010), anche se non \u00E8 mai stata capace di superare il primo turno. Eus\u00E9bio, uno dei migliori calciatori di tutti i tempi, nacque in Mozambico a Louren\u00E7o Marques (successivamente rinominata Maputo).Attualmente occupa la 94\u00AA posizione nel Ranking mondiale FIFA."@it ,
+		"The Mozambique national football team (Portuguese: equipa nacional de futebol de Mo\u00E7ambique), popularly known as Os Mambas, represents Mozambique in association football and is controlled by the Federa\u00E7\u00E3o Mo\u00E7ambicana de Futebol, the governing body for football in Mozambique. Mozambique have never qualified for a FIFA World Cup, but they have qualified for four Africa Cup of Nations in 1986, 1996, 1998 and most recently the 2010 Africa Cup of Nations in Angola, being eliminated in the first round in all four. Mozambique are currently ranked 106th in the FIFA World Rankings, with their highest ever ranking of 66th in November 1996.Mozambique's home ground is Est\u00E1dio do Zimpeto in the capital city Maputo, and can hold 45,000 spectators. The team's current head coach is Gert Engels, who has been in charge since the fall of 2011." ,
+		"\u30B5\u30C3\u30AB\u30FC\u30E2\u30B6\u30F3\u30D3\u30FC\u30AF\u4EE3\u8868\uFF08Sele\u00E7\u00E3o Mo\u00E7ambicana de Futebol\uFF09\u306F\u3001\u30E2\u30B6\u30F3\u30D3\u30FC\u30AF\u30B5\u30C3\u30AB\u30FC\u9023\u76DF (FMF) \u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u30E2\u30B6\u30F3\u30D3\u30FC\u30AF\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002"@ja ,
+		"\u83AB\u6851\u6BD4\u514B\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u83AB\u6851\u6BD4\u514B\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u83AB\u6851\u6BD4\u514B\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u975E\u6D32\u8DB3\u5354\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u83AB\u6851\u6BD4\u514B\u66FE\u7D933\u6B21\u53C3\u52A0\u975E\u6D32\u570B\u5BB6\u76C3\uFF0C\u4E0D\u904E\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4E16\u754C\u76C3\u6C7A\u8CFD\u9031\u3002"@zh ,
+		"A Sele\u00E7\u00E3o Mo\u00E7ambicana de Futebol representa Mo\u00E7ambique nas competi\u00E7\u00F5es de futebol da FIFA."@pt ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0645\u0648\u0632\u0645\u0628\u064A\u0642 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0644\u0642\u0628 \u0628\u0627\u0644\u0623\u0641\u0627\u0639\u064A \u0627\u0644\u0633\u0648\u062F\u0627\u0621 \u0648\u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0641\u064A \u0645\u0648\u0632\u0645\u0628\u064A\u0642 \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0645\u0648\u0632\u0627\u0645\u0628\u064A\u0642 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645. \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0645\u0646\u062A\u062E\u0628 \u0645\u0648\u0632\u0646\u0628\u064A\u0642 \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0648\u0644\u0643\u0646\u0647 \u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0641\u0631\u064A\u0642\u064A\u0629 \u0641\u064A 1986\u060C 1996\u060C 1998\u060C \u06482010. \u064A\u062D\u062A\u0644 \u062D\u0627\u0644\u064A\u0627 \u0645\u0646\u062A\u062E\u0628 \u0645\u0648\u0632\u0646\u0628\u064A\u0642 \u0627\u0644\u0645\u0631\u0643\u0632 85 \u0641\u064A \u062A\u0635\u0646\u064A\u0641 \u0627\u0644\u0645\u0646\u062A\u062E\u0628\u0627\u062A \u0627\u0644\u0635\u0627\u062F\u0631 \u0639\u0646 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u062F\u0648\u0644\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0639\u0644\u0645\u0627 \u0628\u0623\u0646 \u0623\u0639\u0644\u0649 \u0645\u0631\u0643\u0632 \u062D\u0642\u0642\u0647 \u0647\u0648 66 \u0641\u064A \u0646\u0648\u0641\u0645\u0628\u0631 1996."@ar ,
+		"La Selecci\u00F3n de f\u00FAtbol de Mozambique (en portugu\u00E9s: equipa nacional de futebol de Mo\u00E7ambique), tambi\u00E9n conocidos como los Mambas, es el equipo representativo de ese pa\u00EDs y est\u00E1 controlado por la Federaci\u00F3n Mozambique\u00F1a de F\u00FAtbol. Es miembro de la CAF y de la FIFA.Nunca se han clasificado para jugar la Copa Mundial. Eusebio, considerado como el mejor futbolista de todos los tiempos con la selecci\u00F3n de Portugal y uno de los mejores del mundo, Carlos Queiroz, segundo entrenador del Manchester United y antiguo entrenador de Portugal y del Real Madrid, Abel Xavier y Cadete nacieron en Mozambique."@es ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u041C\u043E\u0437\u0430\u043C\u0431\u0438\u043A\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u0435\u0442 \u041C\u043E\u0437\u0430\u043C\u0431\u0438\u043A \u0432 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u044B\u0445 \u0442\u0443\u0440\u043D\u0438\u0440\u0430\u0445 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u0438 \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u0442\u0441\u044F \u041C\u043E\u0437\u0430\u043C\u0431\u0438\u043A\u0441\u043A\u043E\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0435\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0430. \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0441\u0442\u0440\u0430\u043D\u044B \u043E\u0434\u043D\u0430\u0436\u0434\u044B \u0441\u043C\u043E\u0433\u043B\u0430 \u043F\u0440\u043E\u0431\u0438\u0442\u044C\u0441\u044F \u0432 \u0444\u0438\u043D\u0430\u043B\u044C\u043D\u0443\u044E \u0447\u0430\u0441\u0442\u044C \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 1966 \u0433\u043E\u0434\u0430. \u0412 1986, 1996, 1998 \u0438 2010 \u0433\u043E\u0434\u0430\u0445 \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u041C\u043E\u0437\u0430\u043C\u0431\u0438\u043A\u0430 \u0441\u043C\u043E\u0433\u043B\u0430 \u043F\u0440\u043E\u0431\u0438\u0442\u044C\u0441\u044F \u0432 \u0444\u0438\u043D\u0430\u043B\u044C\u043D\u044B\u0439 \u0442\u0443\u0440\u043D\u0438\u0440 \u041A\u0443\u0431\u043A\u0430 \u0430\u0444\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0445 \u043D\u0430\u0446\u0438\u0439, \u0433\u0434\u0435 \u043D\u0435 \u043F\u0440\u043E\u0445\u043E\u0434\u0438\u043B\u0430 \u0434\u0430\u043B\u044C\u0448\u0435 \u0433\u0440\u0443\u043F\u043F\u043E\u0432\u043E\u0433\u043E \u0442\u0443\u0440\u043D\u0438\u0440\u0430.\u0418\u0441\u0442\u043E\u0440\u0438\u044F \u041C\u043E\u0437\u0430\u043C\u0431\u0438\u043A\u0430 \u0442\u0435\u0441\u043D\u043E \u0441\u0432\u044F\u0437\u0430\u043D\u0430 \u0441 \u0431\u044B\u0432\u0448\u0435\u0439 \u043C\u0435\u0442\u0440\u043E\u043F\u043E\u043B\u0438\u0435\u0439 \u2014 \u041F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u0438\u0435\u0439. \u041E\u0434\u0438\u043D \u0438\u0437 \u0432\u0435\u043B\u0438\u0447\u0430\u0439\u0448\u0438\u0445 \u043F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u044C\u0441\u043A\u0438\u0445 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442\u043E\u0432 \u042D\u0439\u0441\u0435\u0431\u0438\u043E \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0443\u0440\u043E\u0436\u0435\u043D\u0446\u0435\u043C \u041C\u043E\u0437\u0430\u043C\u0431\u0438\u043A\u0430. \u0422\u0430\u043A\u0436\u0435 \u0432 \u041C\u043E\u0437\u0430\u043C\u0431\u0438\u043A\u0435 \u0440\u043E\u0434\u0438\u043B\u0438\u0441\u044C \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u0442\u0440\u0435\u043D\u0435\u0440 \u041A\u0430\u0440\u043B\u0443\u0448 \u041A\u0435\u0439\u0440\u0443\u0448 \u0438 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041F\u043E\u0440\u0442\u0443\u0433\u0430\u043B\u0438\u0438 \u0410\u0431\u0435\u043B \u0428\u0430\u0432\u044C\u0435\u0440. \u041F\u043E \u0441\u043E\u0441\u0442\u043E\u044F\u043D\u0438\u044E \u043D\u0430 11 \u0430\u043F\u0440\u0435\u043B\u044F 2012 \u0433\u043E\u0434\u0430, \u043A\u043E\u043C\u0430\u043D\u0434\u0430 \u0437\u0430\u043D\u0438\u043C\u0430\u0435\u0442 116 \u043C\u0435\u0441\u0442\u043E \u0432 \u0440\u0435\u0439\u0442\u0438\u043D\u0433\u0435 \u0424\u0418\u0424\u0410."@ru ,
+		"Het Mozambikaans voetbalelftal is een team van voetballers dat Mozambique vertegenwoordigt bij internationale wedstrijden zoals de (kwalificatie)wedstrijden voor het WK en de Afrika Cup.De Federa\u00E7\u00E3o Mo\u00E7ambicana de Futebol werd in 1976 opgericht en is aangesloten bij de COSAFA, de CAF en de FIFA (sinds 1980). Het Mozambikaans voetbalelftal behaalde in november 1997 met de 66e plaats de hoogste positie op de FIFA-wereldranglijst, in juli 2005 en september 2006 werd met de 134e plaats de laagste positie bereikt."@nl ,
+		"Reprezentacja Mozambiku \u2013 kadra Mozambiku w pi\u0142ce no\u017Cnej m\u0119\u017Cczyzn. Pi\u0119ciokrotnie startowa\u0142a w eliminacjach do mistrzostw \u015Bwiata, ale za ka\u017Cdym razem walk\u0119 o mundial przegrywa\u0142a z kretesem. Trzy razy \u2013 w 1986, 1996 i 1998 \u2013 bra\u0142a udzia\u0142 w rozgrywkach o Puchar Narod\u00F3w Afryki. Jej bilans \u2013 dziewi\u0119\u0107 mecz\u00F3w: 0 zwyci\u0119stw, 1 remis (z Tunezj\u0105 w 1996) i 8 pora\u017Cek.Mozambik uzyska\u0142 niepodleg\u0142o\u015B\u0107 dopiero w 1975 roku. Przez ponad trzysta lat ten by\u0142 koloni\u0105 Portugalii. W\u0142a\u015Bnie w jej dru\u017Cynie narodowej gra\u0142 na prze\u0142omie lat 60. i 70. urodzony w Maputo Eus\u00E9bio, br\u0105zowy medalista i kr\u00F3l strzelc\u00F3w mundialu 1966 oraz zdobywca Z\u0142otej Pi\u0142ki w plebiscycie magazynu France Football w 1965 roku. Z Mozambiku pochodzi r\u00F3wnie\u017C znany trener pi\u0142karski, by\u0142y selekcjoner reprezentacji Portugalii Carlos Queir\u00F3z.Ostatni trener, Mart Nooij zosta\u0142 zwolniony po tym,jak Mozambik nie wyszed\u0142 z grupy na PNA w Angoli w 2010.Reprezentacja Mozambiku zajmuje obecnie (18.maja 2011) 22. miejsce w Afryce."@pl ;
+	dbpedia-owl:wikiPageID	1132599 ;
+	dbpedia-owl:wikiPageRevisionID	606091042 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Mozambique_national_football_team	dbpprop:latest	"--08-03+02:00"^^xsd:gMonthDay ,
+		"--10-13+02:00"^^xsd:gMonthDay ,
+		"--09-08+02:00"^^xsd:gMonthDay ,
+		"--07-14+02:00"^^xsd:gMonthDay ,
+		"--03-24+02:00"^^xsd:gMonthDay ,
+		"--09-09+02:00"^^xsd:gMonthDay ,
+		"--06-16+02:00"^^xsd:gMonthDay ;
+	dbpprop:clubnat	"ANG" ,
+		"MOZ" ,
+		"RSA" ,
+		"ITA" ,
+		"ROM" ,
+		"USA" ,
+		"ESP" ,
+		"POR" ;
+	dbpprop:goals	2 ,
+		3 ,
+		0 ,
+		1 ,
+		8 ,
+		9 ;
+	dbpprop:caps	30 ,
+		32 ,
+		37 ,
+		40 ,
+		48 ,
+		59 ,
+		0 ,
+		1 ,
+		2 ,
+		3 ,
+		4 ,
+		5 ,
+		6 ,
+		7 ,
+		8 ,
+		9 ,
+		12 ,
+		13 ,
+		14 ,
+		15 ,
+		17 ,
+		18 ,
+		19 ,
+		22 ,
+		26 ;
+	dbpprop:age	"1984-04-24+02:00"^^xsd:date ,
+		"1989-04-29+02:00"^^xsd:date ,
+		"1985-07-14+02:00"^^xsd:date ,
+		"1990-04-12+02:00"^^xsd:date ,
+		"1979-08-01+02:00"^^xsd:date ,
+		"1994-10-11+02:00"^^xsd:date ,
+		"1989-03-01+02:00"^^xsd:date ,
+		"1987-10-11+02:00"^^xsd:date ,
+		"1990-06-04+02:00"^^xsd:date ,
+		"1990-11-22+02:00"^^xsd:date ,
+		"1987-08-07+02:00"^^xsd:date ,
+		"1983-11-13+02:00"^^xsd:date ,
+		"1991-03-11+02:00"^^xsd:date ,
+		"1990-09-16+02:00"^^xsd:date ,
+		"1995-01-05+02:00"^^xsd:date ,
+		"1984-05-23+02:00"^^xsd:date ,
+		"1987-09-08+02:00"^^xsd:date ,
+		"1988-05-23+02:00"^^xsd:date ,
+		"1988-07-23+02:00"^^xsd:date ,
+		"1990-08-27+02:00"^^xsd:date ,
+		"1985-08-10+02:00"^^xsd:date ,
+		"1982-09-06+02:00"^^xsd:date ,
+		"1987-09-20+02:00"^^xsd:date ,
+		"1984-06-06+02:00"^^xsd:date ,
+		"1989-06-27+02:00"^^xsd:date ,
+		"1984-02-09+02:00"^^xsd:date ,
+		"1989-01-23+02:00"^^xsd:date ,
+		"1986-05-25+02:00"^^xsd:date ,
+		"1991-03-30+02:00"^^xsd:date ,
+		"1984-01-24+02:00"^^xsd:date ,
+		"1985-05-29+02:00"^^xsd:date ,
+		"1981-02-04+02:00"^^xsd:date ,
+		"1988-06-24+02:00"^^xsd:date ,
+		"1978-02-05+02:00"^^xsd:date ,
+		"1985-07-10+02:00"^^xsd:date ,
+		"1987-02-20+02:00"^^xsd:date ,
+		"1993-10-24+02:00"^^xsd:date ,
+		"1982-04-30+02:00"^^xsd:date ,
+		"1988-10-15+02:00"^^xsd:date ,
+		"1991-11-05+02:00"^^xsd:date ,
+		"1986-04-02+02:00"^^xsd:date ;
+	dbpprop:coach	"Jo\u00E3o Chissano" .
+@prefix ns48:	<http://dbpedia.org/datatype/> .
+dbpedia:Mozambique_national_football_team	dbpprop:patternSh	"3643200.0"^^ns48:second ,
+		"_moc1012a" ;
+	dbpprop:patternSo	"3643200.0"^^ns48:second ;
+	dbpprop:association	<http://dbpedia.org/resource/Federa%C3%A7%C3%A3o_Mo%C3%A7ambicana_de_Futebol> ;
+	dbpprop:badgeSize	200 ;
+	dbpprop:body	"FFFf00" ,
+		"FF0000" ;
+	dbpprop:confederation	"CAF" ;
+	dbpprop:fifaRank	1168 ;
+	dbpprop:fifaTrigramme	"MOZ" ;
+	dbpprop:leftarm	"FFD700" ,
+		"B22222" ;
+	dbpprop:patternB	"3643200.0"^^ns48:second ;
+	dbpprop:patternLa	"3643200.0"^^ns48:second ;
+	dbpprop:patternRa	"3643200.0"^^ns48:second ;
+	dbpprop:rightarm	"FFFf00" ,
+		"FF0000" ;
+	dbpprop:shorts	0 ,
+		"FFF000" ;
+	dbpprop:socks	0 ;
+	dbpprop:no	23 ,
+		17 ,
+		24 ,
+		4 ,
+		6 ,
+		1 ,
+		3 ,
+		9 ;
+	dbpprop:pos	"DF" ,
+		"MF" ,
+		"GK" ,
+		"FW" ;
+	dbpprop:badge	"MozambiqueFootballLogo.png" ;
+	dbpprop:firstGame	1 ;
+	dbpprop:largestLoss	6 ;
+	dbpprop:largestWin	6 ;
+	dbpprop:regionalCupApps	4 ;
+	dbpprop:regionalCupBest	"Round 1" ;
+	dbpprop:regionalCupFirst	1986 ;
+	dbpprop:regionalName	dbpedia:Africa_Cup_of_Nations ;
+	dbpprop:eloMax	85 ;
+	dbpprop:eloMaxDate	"September 1985" ;
+	dbpprop:eloMin	147 ;
+	dbpprop:eloMinDate	"July 2000" ;
+	dbpprop:eloRank	126 ;
+	dbpprop:fifaMax	66 ;
+	dbpprop:fifaMaxDate	"November 1996" ;
+	dbpprop:fifaMin	134 ;
+	dbpprop:fifaMinDate	"July 2005" ;
+	dbpprop:subConfederation	dbpedia:Council_of_Southern_Africa_Football_Associations ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.fifa.com/associations/association=moz/index.html> .
+@prefix ns49:	<http://www.cafonline.com/association/> .
+dbpedia:Mozambique_national_football_team	dbpedia-owl:wikiPageExternalLink	ns49:mozambique ,
+		<http://www.fmf.co.mz> ;
+	dbpprop:homeStadium	<http://dbpedia.org/resource/Est%C3%A1dio_do_Zimpeto> ;
+	dbpedia-owl:stadium	<http://dbpedia.org/resource/Est%C3%A1dio_do_Zimpeto> ;
+	dbpprop:nickname	"Os Mambas" .
+<http://dbpedia.org/resource/Joj%C3%B3_(footballer_born_1970)__11>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Mart_Nooij	dbpedia-owl:managerClub	dbpedia:Mozambique_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Rui_Ca%C3%A7ador>	dbpedia-owl:managerClub	dbpedia:Mozambique_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Jo%C3%A3o_Rafael_Kapango__4>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Fanuel_Massingue__3	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Mexer	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Pa%C3%ADto>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/H%C3%A9lder_Pelembe>	dbpedia-owl:birthPlace	dbpedia:Mozambique_national_football_team ;
+	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Augusto_Matine	dbpedia-owl:managerClub	dbpedia:Mozambique_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Mozambique_national_football_team .
+dbpedia:Eduardo_Jumisse	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Apson_Manjate	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Danito_Parruque	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Fanuel_Massingue	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Cl%C3%A9sio_Bauque>	dbpedia-owl:birthPlace	dbpedia:Mozambique_national_football_team ;
+	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Sim%C3%A3o_Mate_Junior>	dbpedia-owl:birthPlace	dbpedia:Mozambique_national_football_team ;
+	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Manuel_de_Jesus_Lopes__8	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+ns27:منتخب_موزمبيق_لكرة_القدم	owl:sameAs	dbpedia:Mozambique_national_football_team .
+ns22:Selecció_de_futbol_de_Moçambic	owl:sameAs	dbpedia:Mozambique_national_football_team .
+ns25:Mosambiigi_jalgpallikoondis	owl:sameAs	dbpedia:Mozambique_national_football_team .
+ns37:تیم_ملی_فوتبال_موزامبیک	owl:sameAs	dbpedia:Mozambique_national_football_team .
+ns41:Mosambikin_jalkapallomaajoukkue	owl:sameAs	dbpedia:Mozambique_national_football_team .
+ns33:נבחרת_מוזמביק_בכדורגל	owl:sameAs	dbpedia:Mozambique_national_football_team .
+ns29:Mozambique_national_football_team	owl:sameAs	dbpedia:Mozambique_national_football_team .
+ns24:Mozambiki_labdarúgó-válogatott	owl:sameAs	dbpedia:Mozambique_national_football_team .
+ns34:მოზამბიკის_ეროვნული_საფეხბურთო_ნაკრები	owl:sameAs	dbpedia:Mozambique_national_football_team .
+ns31:Mozambiko_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Mozambique_national_football_team .
+ns23:Echipa_națională_de_fotbal_a_Mozambicului	owl:sameAs	dbpedia:Mozambique_national_football_team .
+ns38:Сборная_Мозамбика_по_футболу	owl:sameAs	dbpedia:Mozambique_national_football_team .
+ns26:Mozambique_national_football_team	owl:sameAs	dbpedia:Mozambique_national_football_team .
+ns40:Moçambiques_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Mozambique_national_football_team .
+ns30:Mozambik_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Mozambique_national_football_team .
+ns36:Збірна_Мозамбіку_з_футболу	owl:sameAs	dbpedia:Mozambique_national_football_team .
+ns28:Đội_tuyển_bóng_đá_quốc_gia_Mozambique	owl:sameAs	dbpedia:Mozambique_national_football_team .
+ns39:莫桑比克國家足球隊	owl:sameAs	dbpedia:Mozambique_national_football_team .
+dbpedia:Jerry_Sitoe	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Mexer__4	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Armando_S%C3%A1>	dbpedia-owl:birthPlace	dbpedia:Mozambique_national_football_team ;
+	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Carlos_Fumo_Gon%C3%A7alves>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Maur%C3%ADcio_Pequenino>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Manuel_de_Jesus_Lopes	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Z%C3%A9_Lu%C3%ADs_(Mozambican_footballer)>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Jo%C3%A3o_Rafael_Kapango>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Zainadine_J%C3%BAnior__3>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Domingues__3	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Jerry_Sitoe__9	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Jerry_Sitoe__10	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Carlos_Fumo_Gon%C3%A7alves__14>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Francisco_Massinga__2	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Armando_S%C3%A1__10>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Tico-Tico__10	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Gabriel_Macuvele__1	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Chiquinho_Conde__13	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Almiro_Lobo__7	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Albino_Cossa__1	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Maur%C3%ADcio_Pequenino__3>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Arnaldo_Ouana	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Francisco_Massinga	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Mano_(Mozambican_footballer)>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Campira	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Albino_Cossa	dbpedia-owl:birthPlace	dbpedia:Mozambique_national_football_team ;
+	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Maninho	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/H%C3%A9lder_Muianga>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Josemar_Macha%C3%ADsse>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Gabriel_Macuvele	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Viktor_Bondarenko_(football_manager)>	dbpedia-owl:managerClub	dbpedia:Mozambique_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Mozambique_national_football_team .
+dbpedia:Domingues	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Reginaldo_Faife	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Reginaldo_Faife__2	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/H%C3%A9lder_Muianga__9>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Lam%C3%A1_(Mozambican_footballer)__1>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Apson_Manjate__3	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Sim%C3%A3o_Mate_Junior__5>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Mano_(Mozambican_footballer)__4>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Nelinho_(Mozambican_footballer)__4>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Helton_Samo_Cunha__5	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Pa%C3%ADto__10>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Tom%C3%A1s_Inguana__8>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Maninho__1	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Dario_Khan__7	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Ricardo_Campos__10	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Rui_Ca%C3%A7ador__6>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Gert_Engels__5	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Eugenio_Fernando_Bila__4	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Zainadine_J%C3%BAnior>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/D%C3%A1rio_Monteiro__8>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Augusto_Matine__8	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Eduardo_Jumisse__7	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+dbpedia:Ricardo_Campos	dbpedia-owl:team	dbpedia:Mozambique_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Mozambique_national_football_team .
+dbpedia:Campira__7	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Josemar_Macha%C3%ADsse__4>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/H%C3%A9lder_Pelembe__6>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .
+<http://dbpedia.org/resource/Cl%C3%A9sio_Bauque__3>	dbpedia-owl:team	dbpedia:Mozambique_national_football_team .

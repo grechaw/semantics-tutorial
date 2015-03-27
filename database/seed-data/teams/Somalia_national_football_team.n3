@@ -1,0 +1,310 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_de_Somalie_de_football	owl:sameAs	dbpedia:Somalia_national_football_team .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Somalische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Somalia_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q389097	owl:sameAs	dbpedia:Somalia_national_football_team .
+@prefix ns5:	<http://cs.dbpedia.org/resource/> .
+ns5:Somálská_fotbalová_reprezentace	owl:sameAs	dbpedia:Somalia_national_football_team .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Selección_de_fútbol_de_Somalia	owl:sameAs	dbpedia:Somalia_national_football_team .
+@prefix ns7:	<http://id.dbpedia.org/resource/> .
+ns7:Tim_nasional_sepak_bola_Somalia	owl:sameAs	dbpedia:Somalia_national_football_team .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Nazionale_di_calcio_della_Somalia	owl:sameAs	dbpedia:Somalia_national_football_team .
+@prefix ns9:	<http://ja.dbpedia.org/resource/> .
+ns9:サッカーソマリア代表	owl:sameAs	dbpedia:Somalia_national_football_team .
+@prefix ns10:	<http://ko.dbpedia.org/resource/> .
+ns10:소말리아_축구_국가대표팀	owl:sameAs	dbpedia:Somalia_national_football_team .
+@prefix ns11:	<http://nl.dbpedia.org/resource/> .
+ns11:Somalisch_voetbalelftal	owl:sameAs	dbpedia:Somalia_national_football_team .
+@prefix ns12:	<http://pl.dbpedia.org/resource/> .
+ns12:Reprezentacja_Somalii_w_piłce_nożnej	owl:sameAs	dbpedia:Somalia_national_football_team .
+@prefix ns13:	<http://pt.dbpedia.org/resource/> .
+ns13:Seleção_Somali_de_Futebol	owl:sameAs	dbpedia:Somalia_national_football_team .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Qi_Wusheng	dbpedia-owl:managerClub	dbpedia:Somalia_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Qi_Wusheng	dbpprop:managerclubs	dbpedia:Somalia_national_football_team .
+dbpedia:Ayub_Daud	dbpedia-owl:birthPlace	dbpedia:Somalia_national_football_team ;
+	dbpedia-owl:team	dbpedia:Somalia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Somalia_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns17:	<http://en.wikipedia.org/wiki/> .
+ns17:Somalia_national_football_team	foaf:primaryTopic	dbpedia:Somalia_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Somalia_national_football_team	rdf:type	yago:FootballTeam108080025 ,
+		owl:Thing ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ,
+		dbpedia-owl:Organisation .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Somalia_national_football_team	rdf:type	dul:Agent .
+@prefix ns21:	<http://schema.org/> .
+dbpedia:Somalia_national_football_team	rdf:type	ns21:SportsTeam ,
+		dul:SocialPerson ,
+		yago:AfricanNationalAssociationFootballTeams ,
+		yago:YagoPermanentlyLocatedEntity ,
+		dbpedia-owl:Agent ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		ns21:Organization .
+@prefix ns22:	<http://yago-knowledge.org/resource/> .
+dbpedia:Somalia_national_football_team	owl:sameAs	ns22:Somalia_national_football_team ,
+		ns1:Équipe_de_Somalie_de_football .
+@prefix ns23:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Somalia_national_football_team	owl:sameAs	ns23:Echipa_națională_de_fotbal_a_Somaliei .
+@prefix ns24:	<http://wikidata.org/entity/> .
+dbpedia:Somalia_national_football_team	owl:sameAs	ns24:Q389097 .
+@prefix ns25:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Somalia_national_football_team	owl:sameAs	ns25:Somalia_national_football_team .
+@prefix ns26:	<http://so.dbpedia.org/resource/> .
+dbpedia:Somalia_national_football_team	owl:sameAs	ns26:Xulka_Qaranka_Soomaaliya ,
+		ns4:Q389097 .
+@prefix ns27:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Somalia_national_football_team	owl:sameAs	ns27:Đội_tuyển_bóng_đá_quốc_gia_Somalia .
+@prefix ns28:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Somalia_national_football_team	owl:sameAs	ns28:Somali_Millî_Futbol_Takımı .
+@prefix ns29:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Somalia_national_football_team	owl:sameAs	ns29:منتخب_الصومال_لكرة_القدم .
+@prefix ns30:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Somalia_national_football_team	owl:sameAs	ns30:Szomáliai_labdarúgó-válogatott .
+@prefix ns31:	<http://hif.dbpedia.org/resource/> .
+dbpedia:Somalia_national_football_team	owl:sameAs	ns31:Somalia_national_football_team ,
+		ns5:Somálská_fotbalová_reprezentace ,
+		<http://rdf.freebase.com/ns/m.04kvhc> .
+@prefix ns32:	<http://da.dbpedia.org/resource/> .
+dbpedia:Somalia_national_football_team	owl:sameAs	ns32:Somalias_fodboldlandshold ,
+		ns11:Somalisch_voetbalelftal .
+@prefix ns33:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Somalia_national_football_team	owl:sameAs	ns33:Somalio_vyrų_futbolo_rinktinė ,
+		ns9:サッカーソマリア代表 .
+@prefix ns34:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Somalia_national_football_team	owl:sameAs	ns34:تیم_ملی_فوتبال_سومالی ,
+		ns8:Nazionale_di_calcio_della_Somalia ,
+		ns12:Reprezentacja_Somalii_w_piłce_nożnej ,
+		ns10:소말리아_축구_국가대표팀 .
+@prefix ns35:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Somalia_national_football_team	owl:sameAs	ns35:Збірна_Сомалі_з_футболу .
+@prefix ns36:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Somalia_national_football_team	owl:sameAs	ns36:Somalias_herrlandslag_i_fotboll .
+@prefix ns37:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Somalia_national_football_team	owl:sameAs	ns37:索馬里國家足球隊 ,
+		dbpedia:Somalia_national_football_team ,
+		ns6:Selección_de_fútbol_de_Somalia .
+@prefix ns38:	<http://he.dbpedia.org/resource/> .
+dbpedia:Somalia_national_football_team	owl:sameAs	ns38:נבחרת_סומליה_בכדורגל ,
+		ns7:Tim_nasional_sepak_bola_Somalia .
+@prefix ns39:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Somalia_national_football_team	owl:sameAs	ns39:Somalian_jalkapallomaajoukkue ,
+		ns13:Seleção_Somali_de_Futebol .
+@prefix ns40:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Somalia_national_football_team	owl:sameAs	ns40:Сборная_Сомали_по_футболу ,
+		ns3:Somalische_Fußballnationalmannschaft .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Somalia_national_football_team	rdfs:label	"Reprezentacja Somalii w pi\u0142ce no\u017Cnej"@pl ,
+		"Somalische Fu\u00DFballnationalmannschaft"@de ,
+		"Nazionale di calcio della Somalia"@it ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u043E\u043C\u0430\u043B\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"Somalia national football team" ,
+		"Somalisch voetbalelftal"@nl ,
+		"\u00C9quipe de Somalie de football"@fr ,
+		"\u30B5\u30C3\u30AB\u30FC\u30BD\u30DE\u30EA\u30A2\u4EE3\u8868"@ja ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0635\u0648\u0645\u0627\u0644 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"\u7D22\u99AC\u91CC\u570B\u5BB6\u8DB3\u7403\u968A"@zh ,
+		"Sele\u00E7\u00E3o Somali de Futebol"@pt ,
+		"Selecci\u00F3n de f\u00FAtbol de Somalia"@es .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Somalia_national_football_team	dcterms:subject	category:African_national_association_football_teams ,
+		category:Football_in_Somalia ;
+	foaf:name	"Somalia National Football Team" ;
+	foaf:nick	"The Ocean Stars" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Somalia_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Somalia_national_football_team?oldid=606598408> ;
+	rdfs:comment	"\u30B5\u30C3\u30AB\u30FC\u30BD\u30DE\u30EA\u30A2\u4EE3\u8868\uFF08Somalia national football team\uFF09\u306F\u3001\u30BD\u30DE\u30EA\u30A2\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u306B\u3088\u308A\u69CB\u6210\u3055\u308C\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3002FIFA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u306B\u306F\u51FA\u5834\u3057\u305F\u3053\u3068\u304C\u306A\u3044\u3002"@ja ,
+		"La nazionale di calcio della Somalia \u00E8 la rappresentativa calcistica dell'omonima nazione africana ed \u00E8 posta sotto l'egida della Somali Football Federation (\u00E8 affiliata alla FIFA dal 1961). Non \u00E8 mai riuscita a qualificarsi per la fase finale n\u00E9 della Coppa d'Africa n\u00E9 della Coppa del Mondo."@it ,
+		"Het Somalisch voetbalelftal is een team van voetballers dat Somali\u00EB vertegenwoordigt bij internationale wedstrijden zoals CECAFA Cup en de kwalificatiewedstrijden voor het WK en de Afrika Cup.De Somali Football Federation werd in 1951 opgericht en is aangesloten bij de CECAFA, de CAF en de FIFA (sinds 1962). Het Somalisch voetbalelftal behaalde in april 1995 met de 158e plaats de hoogste positie op de FIFA-wereldranglijst, in november 2013 werd met de 204e plaats de laagste positie bereikt."@nl ,
+		"A Sele\u00E7\u00E3o Somali de Futebol representa a Som\u00E1lia nas competi\u00E7\u00F5es de futebol da FIFA. Seu apelido \u00E9 The Ocean Stars (As estrelas do oceano)."@pt ,
+		"La Selecci\u00F3n de f\u00FAtbol de Somalia es el equipo representativo del pa\u00EDs en las competiciones oficiales. Si bien no ha conseguido alg\u00FAn logro importante, su selecci\u00F3n sub 20 conquist\u00F3 el tercer lugar del Campeonato Juvenil Africano de 1987.En el periodo 1970-1990 el nivel del seleccionado somal\u00ED era de regular para abajo, sin embargo, jugadores como Abdi Mohamed Ahmed, Muridi Abanur, Abdullahi Siyad Mohamed y Nur Abdi Hadj se encargaron de que Somalia tuviera chispazos de buen f\u00FAtbol."@es ,
+		"\u7D22\u99AC\u91CC\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u7D22\u99AC\u91CC\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u7D22\u99AC\u91CC\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u975E\u6D32\u8DB3\u5354\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u7D22\u99AC\u91CC\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4EFB\u4F55\u570B\u969B\u5927\u8CFD\u7684\u6C7A\u8CFD\u9031\uFF0C\u7121\u8AD6\u5728\u4E16\u754C\u76C3\u53CA\u975E\u6D32\u570B\u5BB6\u76C3\u5916\u570D\u8CFD\u968E\u6BB5\u5F9E\u672A\u53D6\u5F97\u904E\u51FA\u7DDA\u8CC7\u683C\u3002"@zh ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u043E\u043C\u0430\u043B\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 (\u043F\u0440\u043E\u0437\u0432\u0438\u0449\u0435 \u0417\u0432\u0451\u0437\u0434\u044B \u041E\u043A\u0435\u0430\u043D\u0430) \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u043E\u043C\u0430\u043B\u0438, \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u043C\u0430\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0435\u0439 \u0421\u043E\u043C\u0430\u043B\u0438."@ru ,
+		"The Somalia national football team (Arabic: \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0635\u0648\u0645\u0627\u0644 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645\u200E, Italian: Federazione Somala Gioco Calcio), nicknamed The Ocean Stars (Arabic: \u0646\u062C\u0648\u0645 \u0627\u0644\u0645\u062D\u064A\u0637\u200E), represents Somalia in men's international football. It is controlled by the Somali Football Federation (SFF), and is a member of the Confederation of African Football (CAF) and the Union of Arab Football Associations (UAFA)." ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0635\u0648\u0645\u0627\u0644 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0627\u0644\u0645\u0644\u0642\u0628 \u0628\u0646\u062C\u0648\u0645 \u0627\u0644\u0645\u062D\u064A\u0637 \u0648\u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0641\u064A \u0627\u0644\u0635\u0648\u0645\u0627\u0644 \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0635\u0648\u0645\u0627\u0644 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0627\u0644\u0630\u064A \u064A\u0639\u062A\u0628\u0631 \u0639\u0636\u0648 \u0641\u064A \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0623\u0641\u0631\u064A\u0642\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0648 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0639\u0631\u0628\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0647 \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 . \u0642\u0631\u0631 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u062F\u0648\u0644\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0646\u0639 \u0625\u0642\u0627\u0645\u0629 \u0627\u0644\u0645\u0628\u0627\u0631\u064A\u0627\u062A \u0627\u0644\u062F\u0648\u0644\u064A\u0629 \u0641\u064A \u0627\u0644\u0635\u0648\u0645\u0627\u0644 \u0628\u0633\u0628\u0628 \u0627\u0644\u062D\u0631\u0628 \u0627\u0644\u0623\u0647\u0644\u064A\u0629 . \u062C\u0645\u064A\u0639 \u0645\u0628\u0627\u0631\u064A\u0627\u062A\u0647 \u0641\u064A \u062A\u0635\u0641\u064A\u0627\u062A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0648\u0623\u0641\u0631\u064A\u0642\u064A\u0627 \u0648\u0627\u0644\u0639\u0631\u0628 \u062A\u0642\u0627\u0645 \u062E\u0627\u0631\u062C \u0628\u0644\u062F\u0647 ."@ar ,
+		"Reprezentacja Somalii \u2013 narodowy zesp\u00F3\u0142 reprezentuj\u0105cy Somali\u0119. Od 1960 roku jest cz\u0142onkiem FIFA.W rankingu FIFA opublikowanym w maju 2011 zesp\u00F3\u0142 Somalii zajmuje 187. lokat\u0119. W Afryce zajmuje natomiast 48 miejsce."@pl ,
+		"L'\u00E9quipe de Somalie de football est constitu\u00E9e par une s\u00E9lection des meilleurs joueurs somaliens sous l'\u00E9gide de la F\u00E9d\u00E9ration de Somalie de football."@fr ,
+		"Die Somalische Fu\u00DFballnationalmannschaft repr\u00E4sentiert den ostafrikanischen Staat Somalia im Fu\u00DFball.Somalia tr\u00E4gt schon seit Anfang der 1960er Jahre, der Zeit nach der Staatsgr\u00FCndung, L\u00E4nderspiele aus. Dabei ist bemerkenswert, dass ein offizieller Verband schon seit 1951 existiert, als das Land noch in Britisch-Somaliland und das Treuhandgebiet Italienisch-Somaliland geteilt war."@de ;
+	foaf:isPrimaryTopicOf	ns17:Somalia_national_football_team ;
+	dbpprop:club	dbpedia:CVV_de_Jodan_Boys ,
+		dbpedia:Real_Salt_Lake ,
+		dbpedia:Khaitan_Sporting_Club ;
+	dbpprop:captain	dbpedia:Rashid_Abdi .
+@prefix ns45:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Somalia_national_football_team	dbpprop:hasPhotoCollection	ns45:Somalia_national_football_team ;
+	dbpprop:name	dbpedia:Dadir_Amin_Ali ,
+		dbpedia:Daud_Abdullahi_Hassan ,
+		dbpedia:Mohamed_Hassan_Ali ,
+		dbpedia:Abdishakur_Mahmoud_Mohamed ,
+		dbpedia:Jabril_Hassan_Mohammed ,
+		dbpedia:Osman_Mohamed ,
+		dbpedia:Yasin_Ahmed ,
+		dbpedia:Yasin_Ali_Egal ,
+		"Somalia National Football Team" ,
+		dbpedia:Adil_Nur_Ali ,
+		dbpedia:Ahmed_Abdulkadir_Dayib ,
+		dbpedia:Baasi_Mohamud_Bana ,
+		dbpedia:Bile_Mohiyadin_Burale ,
+		dbpedia:Sidi_Mohamed_Omar ,
+		dbpedia:AbdiRahman_Ali ,
+		dbpedia:Hassan_Sidow_Hilowle ,
+		dbpedia:Mahad_Mohamed_Haji ,
+		dbpedia:Mahmoud_Abdi_Nur ,
+		dbpedia:Mohamed_Tahlil_Shidane ,
+		dbpedia:Deeq_Abdullahi_Nur ,
+		dbpedia:Hamsa_Mohamed_Muqtar ,
+		dbpedia:Hassan_Ali_Roble ,
+		dbpedia:Hassan_Hussein_Ibrahim ,
+		dbpedia:Samatar_Welie_Darow ,
+		dbpedia:Adan_Hussein_Ibrahim ,
+		dbpedia:Samater_Abdi ,
+		dbpedia:Ahmed_Tahlil_Ali ,
+		<http://dbpedia.org/resource/Shafi%E2%80%99i_Abdi_Farah> ,
+		dbpedia:Ahmed_Osman_Abdulle ,
+		dbpedia:Muhsin_Sharif_Abdalla ,
+		<http://dbpedia.org/resource/Saa%E2%80%99id_Salah_Hussein> ,
+		dbpedia:Sadiq_Mohamed ,
+		dbpedia:Said_Mohamed_Sheekh ;
+	dbpedia-owl:abstract	"L'\u00E9quipe de Somalie de football est constitu\u00E9e par une s\u00E9lection des meilleurs joueurs somaliens sous l'\u00E9gide de la F\u00E9d\u00E9ration de Somalie de football."@fr ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u043E\u043C\u0430\u043B\u0438 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 (\u043F\u0440\u043E\u0437\u0432\u0438\u0449\u0435 \u0417\u0432\u0451\u0437\u0434\u044B \u041E\u043A\u0435\u0430\u043D\u0430) \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u043E\u043C\u0430\u043B\u0438, \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u043C\u0430\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0435\u0439 \u0421\u043E\u043C\u0430\u043B\u0438."@ru ,
+		"\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0635\u0648\u0645\u0627\u0644 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0627\u0644\u0645\u0644\u0642\u0628 \u0628\u0646\u062C\u0648\u0645 \u0627\u0644\u0645\u062D\u064A\u0637 \u0648\u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0641\u064A \u0627\u0644\u0635\u0648\u0645\u0627\u0644 \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0635\u0648\u0645\u0627\u0644 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0627\u0644\u0630\u064A \u064A\u0639\u062A\u0628\u0631 \u0639\u0636\u0648 \u0641\u064A \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0623\u0641\u0631\u064A\u0642\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0648 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0639\u0631\u0628\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 . \u0644\u0645 \u064A\u0633\u0628\u0642 \u0644\u0647 \u0627\u0644\u062A\u0623\u0647\u0644 \u0625\u0644\u0649 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 . \u0642\u0631\u0631 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u062F\u0648\u0644\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0646\u0639 \u0625\u0642\u0627\u0645\u0629 \u0627\u0644\u0645\u0628\u0627\u0631\u064A\u0627\u062A \u0627\u0644\u062F\u0648\u0644\u064A\u0629 \u0641\u064A \u0627\u0644\u0635\u0648\u0645\u0627\u0644 \u0628\u0633\u0628\u0628 \u0627\u0644\u062D\u0631\u0628 \u0627\u0644\u0623\u0647\u0644\u064A\u0629 . \u062C\u0645\u064A\u0639 \u0645\u0628\u0627\u0631\u064A\u0627\u062A\u0647 \u0641\u064A \u062A\u0635\u0641\u064A\u0627\u062A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0648\u0623\u0641\u0631\u064A\u0642\u064A\u0627 \u0648\u0627\u0644\u0639\u0631\u0628 \u062A\u0642\u0627\u0645 \u062E\u0627\u0631\u062C \u0628\u0644\u062F\u0647 ."@ar ,
+		"A Sele\u00E7\u00E3o Somali de Futebol representa a Som\u00E1lia nas competi\u00E7\u00F5es de futebol da FIFA. Seu apelido \u00E9 The Ocean Stars (As estrelas do oceano). Nunca conseguiu se classificar para a Copa do Mundo ou paraalguma edi\u00E7\u00E3o da Copa Africana de Na\u00E7\u00F5esEsteve pr\u00F3xima de se classificar para a segunda fase das Eliminat\u00F3rias Africanas para a Copa de 1982, quando empatou sem gols com N\u00EDger na primeira partida, mas amargou a elimina\u00E7\u00E3o em decorr\u00EAncia da regra do gol fora de casa, que favoreceu os Mena (o jogo terminou em 1 a 1)."@pt ,
+		"La Selecci\u00F3n de f\u00FAtbol de Somalia es el equipo representativo del pa\u00EDs en las competiciones oficiales. Si bien no ha conseguido alg\u00FAn logro importante, su selecci\u00F3n sub 20 conquist\u00F3 el tercer lugar del Campeonato Juvenil Africano de 1987.En el periodo 1970-1990 el nivel del seleccionado somal\u00ED era de regular para abajo, sin embargo, jugadores como Abdi Mohamed Ahmed, Muridi Abanur, Abdullahi Siyad Mohamed y Nur Abdi Hadj se encargaron de que Somalia tuviera chispazos de buen f\u00FAtbol. Las victorias, por s\u00F3lo citar las m\u00E1s importantes, de esta ep\u00F3ca fueron: 2-0 y 1-0 ante Uganda y Kenia, ambos en Mogadiscio y su goleada de 5-2 frente a Mauritania en Casablanca. Con el inicio de la guerra civil, el nivel del combinado somal\u00ED disminuy\u00F3 bastante y tuvo graves consecuencias: no poder jugar m\u00E1s de local, m\u00FAltiples dificultades de poder convocar a los jugadores, falta de un estadio en donde poder jugar como local e incluso, ocasion\u00F3 que algunos futbolistas cambiaran los balones por las armas. Pese a todas estas adversidades, el equipo azul ha podido seguir competiendo en la Copa CECAFA del cual es miembro y en la etapa clasificatoria para la Copa Mundial de la FIFA. En la actualidad, es uno de las selecciones m\u00E1s d\u00E9biles del mundo, pero, a pesar de este deshonor, posee algunas figuras tales como Cisse Adan Abshir, Sidi Abdullah y Khalid Ali Mursa.El 3 de enero del 2009, sorprendi\u00F3 a todo el mundo con su victoria por 1-0 sobre Tanzania, en el marco de la Copa CECAFA 2008."@es ,
+		"The Somalia national football team (Arabic: \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0635\u0648\u0645\u0627\u0644 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645\u200E, Italian: Federazione Somala Gioco Calcio), nicknamed The Ocean Stars (Arabic: \u0646\u062C\u0648\u0645 \u0627\u0644\u0645\u062D\u064A\u0637\u200E), represents Somalia in men's international football. It is controlled by the Somali Football Federation (SFF), and is a member of the Confederation of African Football (CAF) and the Union of Arab Football Associations (UAFA)." ,
+		"\u30B5\u30C3\u30AB\u30FC\u30BD\u30DE\u30EA\u30A2\u4EE3\u8868\uFF08Somalia national football team\uFF09\u306F\u3001\u30BD\u30DE\u30EA\u30A2\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u306B\u3088\u308A\u69CB\u6210\u3055\u308C\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3002FIFA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u306B\u306F\u51FA\u5834\u3057\u305F\u3053\u3068\u304C\u306A\u3044\u3002"@ja ,
+		"\u7D22\u99AC\u91CC\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u7D22\u99AC\u91CC\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u7D22\u99AC\u91CC\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u73FE\u6642\u5C6C\u65BC\u570B\u969B\u8DB3\u5354\u53CA\u975E\u6D32\u8DB3\u5354\u6210\u54E1\u570B\u4E4B\u4E00\u3002\u7D22\u99AC\u91CC\u81F3\u4ECA\u4ECD\u672A\u53C3\u52A0\u904E\u4EFB\u4F55\u570B\u969B\u5927\u8CFD\u7684\u6C7A\u8CFD\u9031\uFF0C\u7121\u8AD6\u5728\u4E16\u754C\u76C3\u53CA\u975E\u6D32\u570B\u5BB6\u76C3\u5916\u570D\u8CFD\u968E\u6BB5\u5F9E\u672A\u53D6\u5F97\u904E\u51FA\u7DDA\u8CC7\u683C\u3002"@zh ,
+		"Die Somalische Fu\u00DFballnationalmannschaft repr\u00E4sentiert den ostafrikanischen Staat Somalia im Fu\u00DFball.Somalia tr\u00E4gt schon seit Anfang der 1960er Jahre, der Zeit nach der Staatsgr\u00FCndung, L\u00E4nderspiele aus. Dabei ist bemerkenswert, dass ein offizieller Verband schon seit 1951 existiert, als das Land noch in Britisch-Somaliland und das Treuhandgebiet Italienisch-Somaliland geteilt war. Die ersten L\u00E4nderspiele verlor Somalia alle \u00FCberaus deutlich.Somalia besa\u00DF nie eine gro\u00DFe Fu\u00DFballnationalmannschaft, Siege sind auch heute noch selten. Das Land hat noch nie an einer Afrika- oder Weltmeisterschaft teilgenommen."@de ,
+		"Het Somalisch voetbalelftal is een team van voetballers dat Somali\u00EB vertegenwoordigt bij internationale wedstrijden zoals CECAFA Cup en de kwalificatiewedstrijden voor het WK en de Afrika Cup.De Somali Football Federation werd in 1951 opgericht en is aangesloten bij de CECAFA, de CAF en de FIFA (sinds 1962). Het Somalisch voetbalelftal behaalde in april 1995 met de 158e plaats de hoogste positie op de FIFA-wereldranglijst, in november 2013 werd met de 204e plaats de laagste positie bereikt."@nl ,
+		"Reprezentacja Somalii \u2013 narodowy zesp\u00F3\u0142 reprezentuj\u0105cy Somali\u0119. Od 1960 roku jest cz\u0142onkiem FIFA.W rankingu FIFA opublikowanym w maju 2011 zesp\u00F3\u0142 Somalii zajmuje 187. lokat\u0119. W Afryce zajmuje natomiast 48 miejsce."@pl ,
+		"La nazionale di calcio della Somalia \u00E8 la rappresentativa calcistica dell'omonima nazione africana ed \u00E8 posta sotto l'egida della Somali Football Federation (\u00E8 affiliata alla FIFA dal 1961). Non \u00E8 mai riuscita a qualificarsi per la fase finale n\u00E9 della Coppa d'Africa n\u00E9 della Coppa del Mondo. Nell'estate del 2006 il calcio nella nazione somala \u00E8 stato vietato, secondo una rigida interpretazione della Shari'a, con una legge emanata dal tribunale delle Corti Islamiche, per questo, e anche per la guerra civile che da tempo infuria nel paese la FIFA ha disposto che le partite della Somalia siano giocate in campo neutro.Attualmente occupa la 187\u00AA posizione nel Ranking mondiale FIFA."@it ;
+	dbpedia-owl:wikiPageID	1235063 ;
+	dbpedia-owl:wikiPageRevisionID	606598408 ;
+	dbpprop:clubnat	"NED" ,
+		"Kuwait" ,
+		"USA" ;
+	dbpprop:coach	dbpedia:Abdinafa_Mahamud ;
+	dbpprop:patternSh	"_adidaswhite" ,
+		"_Palmeiras_0910third" ;
+	dbpedia-owl:coach	dbpedia:Abdinafa_Mahamud ;
+	dbpprop:patternSo	"_color_3_stripes_blue" ,
+		"_color_3_stripes_white" ;
+	dbpprop:association	dbpedia:Somali_Football_Federation ;
+	dbpprop:badgeSize	200 ;
+	dbpprop:body	0 ,
+		"FFFFFF" ;
+	dbpprop:confederation	dbpedia:Confederation_of_African_Football ;
+	dbpprop:fifaRank	2031 ;
+	dbpprop:fifaTrigramme	"SOM" ;
+	dbpprop:leftarm	"FFFFFF" ,
+		0 ;
+	dbpprop:patternB	"_esl10a" .
+@prefix ns46:	<http://dbpedia.org/datatype/> .
+dbpedia:Somalia_national_football_team	dbpprop:patternB	"36000.0"^^ns46:second ;
+	dbpprop:patternLa	"36000.0"^^ns46:second ,
+		"_esl10a" ;
+	dbpprop:patternRa	"36000.0"^^ns46:second ,
+		"_esl10a" ;
+	dbpprop:rightarm	"FFFFFF" ,
+		0 ;
+	dbpprop:shorts	"FFFFFF" ,
+		0 ;
+	dbpprop:socks	"FFFFFF" ,
+		0 ;
+	dbpprop:pos	"FW" ,
+		"MF" ,
+		"DF" ;
+	dbpprop:badge	"Somali FF .png" ;
+	dbpprop:firstGame	14 ;
+	dbpprop:largestLoss	14 ;
+	dbpprop:largestWin	"Somalia 5-2" ;
+	dbpprop:eloRank	202 ;
+	dbpprop:fifaMax	158 ;
+	dbpprop:fifaMaxDate	"April 1995" ;
+	dbpprop:fifaMin	204 ;
+	dbpprop:fifaMinDate	"November 2013" ;
+	dbpprop:subConfederation	dbpedia:CECAFA ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.somsoccer.com/english/news_center.php> ,
+		<http://www.rsssf.com/tabless/som-intres.html> ,
+		<http://www.fifa.com/associations/association=som/index.html> ;
+	dbpprop:homeStadium	dbpedia:Mogadishu_Stadium ;
+	dbpedia-owl:stadium	dbpedia:Mogadishu_Stadium ;
+	dbpprop:nickname	"The Ocean Stars" .
+<http://dbpedia.org/resource/2013_CECAFA_Cup_statistics>	dbpprop:leastGoalsTeam	dbpedia:Somalia_national_football_team ;
+	dbpprop:leastWinsTeam	dbpedia:Somalia_national_football_team ;
+	dbpprop:mostCleanSheetsOpponentTeam	dbpedia:Somalia_national_football_team ;
+	dbpprop:mostConsecutiveCleanSheetsOpponentTeam	dbpedia:Somalia_national_football_team ;
+	dbpprop:leastCleanSheetsTeam	dbpedia:Somalia_national_football_team ;
+	dbpprop:leastDrawsTeam	dbpedia:Somalia_national_football_team ;
+	dbpprop:leastGroupPointsTeam	dbpedia:Somalia_national_football_team ;
+	dbpprop:mostGoalsConcededTeam	dbpedia:Somalia_national_football_team ;
+	dbpprop:mostLossesTeam	dbpedia:Somalia_national_football_team ;
+	dbpprop:worstGoalDifferenceTeam	dbpedia:Somalia_national_football_team .
+dbpedia:Charles_Gyamfi	dbpedia-owl:managerClub	dbpedia:Somalia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Somalia_national_football_team .
+ns29:منتخب_الصومال_لكرة_القدم	owl:sameAs	dbpedia:Somalia_national_football_team .
+ns32:Somalias_fodboldlandshold	owl:sameAs	dbpedia:Somalia_national_football_team .
+ns34:تیم_ملی_فوتبال_سومالی	owl:sameAs	dbpedia:Somalia_national_football_team .
+ns39:Somalian_jalkapallomaajoukkue	owl:sameAs	dbpedia:Somalia_national_football_team .
+ns38:נבחרת_סומליה_בכדורגל	owl:sameAs	dbpedia:Somalia_national_football_team .
+ns31:Somalia_national_football_team	owl:sameAs	dbpedia:Somalia_national_football_team .
+ns30:Szomáliai_labdarúgó-válogatott	owl:sameAs	dbpedia:Somalia_national_football_team .
+ns33:Somalio_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Somalia_national_football_team .
+ns23:Echipa_națională_de_fotbal_a_Somaliei	owl:sameAs	dbpedia:Somalia_national_football_team .
+ns40:Сборная_Сомали_по_футболу	owl:sameAs	dbpedia:Somalia_national_football_team .
+ns25:Somalia_national_football_team	owl:sameAs	dbpedia:Somalia_national_football_team .
+ns26:Xulka_Qaranka_Soomaaliya	owl:sameAs	dbpedia:Somalia_national_football_team .
+ns36:Somalias_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Somalia_national_football_team .
+ns28:Somali_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Somalia_national_football_team .
+ns35:Збірна_Сомалі_з_футболу	owl:sameAs	dbpedia:Somalia_national_football_team .
+ns27:Đội_tuyển_bóng_đá_quốc_gia_Somalia	owl:sameAs	dbpedia:Somalia_national_football_team .
+ns37:索馬里國家足球隊	owl:sameAs	dbpedia:Somalia_national_football_team .
+dbpedia:Yousef_Adam	dbpedia-owl:managerClub	dbpedia:Somalia_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Somalia_national_football_team .
+dbpedia:Abdi_Mohamed_Ahmed	dbpedia-owl:team	dbpedia:Somalia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Somalia_national_football_team .
+dbpedia:Abdinur_Mohamud	dbpedia-owl:team	dbpedia:Somalia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Somalia_national_football_team .
+dbpedia:Eise_Aden_Abshir	dbpedia-owl:team	dbpedia:Somalia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Somalia_national_football_team .
+dbpedia:Jabril_Hassan_Mohammed	dbpedia-owl:team	dbpedia:Somalia_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Somalia_national_football_team .
+dbpedia:Abdinur_Mohamud__2	dbpedia-owl:team	dbpedia:Somalia_national_football_team .
+dbpedia:Qi_Wusheng__1	dbpedia-owl:team	dbpedia:Somalia_national_football_team .
+<http://dbpedia.org/resource/2012_CECAFA_Cup_statistics>	dbpprop:leastWinsTeam	dbpedia:Somalia_national_football_team ;
+	dbpprop:leastYellowsTeamTeam	dbpedia:Somalia_national_football_team ;
+	dbpprop:biggestGoalMarginMatch	dbpedia:Somalia_national_football_team ;
+	dbpprop:leastCleanSheetsTeam	dbpedia:Somalia_national_football_team ;
+	dbpprop:leastDrawsTeam	dbpedia:Somalia_national_football_team ;
+	dbpprop:leastGroupPointsTeam	dbpedia:Somalia_national_football_team ;
+	dbpprop:mostGoalsConcededTeam	dbpedia:Somalia_national_football_team ;
+	dbpprop:mostLossesTeam	dbpedia:Somalia_national_football_team ;
+	dbpprop:worstGoalDifferenceTeam	dbpedia:Somalia_national_football_team .
+<http://dbpedia.org/resource/2012_CECAFA_Cup_scorers>	dbpprop:biggestGoalMarginMatch	dbpedia:Somalia_national_football_team ;
+	dbpprop:leastCleanSheetsTeam	dbpedia:Somalia_national_football_team ;
+	dbpprop:mostGoalsConcededTeam	dbpedia:Somalia_national_football_team ;
+	dbpprop:worstGoalDifferenceTeam	dbpedia:Somalia_national_football_team .
+dbpedia:Abdi_Mohamed_Ahmed__3	dbpedia-owl:team	dbpedia:Somalia_national_football_team .
+dbpedia:Yousef_Adam__2	dbpedia-owl:team	dbpedia:Somalia_national_football_team .
+dbpedia:Somali_National_Players	dbpedia-owl:wikiPageRedirects	dbpedia:Somalia_national_football_team .
+dbpedia:Somalian_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Somalia_national_football_team .
+dbpedia:The_Ocean_Stars	dbpedia-owl:wikiPageRedirects	dbpedia:Somalia_national_football_team .
+dbpedia:Jabril_Hassan_Mohammed__2	dbpedia-owl:team	dbpedia:Somalia_national_football_team .
+dbpedia:Charles_Gyamfi__10	dbpedia-owl:team	dbpedia:Somalia_national_football_team .

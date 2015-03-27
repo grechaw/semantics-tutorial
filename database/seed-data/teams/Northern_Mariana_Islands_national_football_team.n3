@@ -1,0 +1,277 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_des_îles_Mariannes_du_Nord_de_football	owl:sameAs	dbpedia:Northern_Mariana_Islands_national_football_team .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Fußballnationalmannschaft_der_Nördlichen_Marianen	owl:sameAs	dbpedia:Northern_Mariana_Islands_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q754199	owl:sameAs	dbpedia:Northern_Mariana_Islands_national_football_team .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Selección_de_fútbol_de_las_Islas_Marianas_del_Norte	owl:sameAs	dbpedia:Northern_Mariana_Islands_national_football_team .
+@prefix ns6:	<http://it.dbpedia.org/resource/> .
+ns6:Selezione_di_calcio_delle_Isole_Marianne_Settentrionali	owl:sameAs	dbpedia:Northern_Mariana_Islands_national_football_team .
+@prefix ns7:	<http://ja.dbpedia.org/resource/> .
+ns7:サッカー北マリアナ諸島代表	owl:sameAs	dbpedia:Northern_Mariana_Islands_national_football_team .
+@prefix ns8:	<http://ko.dbpedia.org/resource/> .
+ns8:북마리아나_제도_축구_국가대표팀	owl:sameAs	dbpedia:Northern_Mariana_Islands_national_football_team .
+@prefix ns9:	<http://nl.dbpedia.org/resource/> .
+ns9:Mariaans_voetbalelftal	owl:sameAs	dbpedia:Northern_Mariana_Islands_national_football_team .
+@prefix ns10:	<http://pl.dbpedia.org/resource/> .
+ns10:Reprezentacja_Marianów_Północnych_w_piłce_nożnej	owl:sameAs	dbpedia:Northern_Mariana_Islands_national_football_team .
+@prefix ns11:	<http://pt.dbpedia.org/resource/> .
+ns11:Seleção_das_Marianas_Setentrionais_de_Futebol	owl:sameAs	dbpedia:Northern_Mariana_Islands_national_football_team .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Joe_Wang_Miller	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Joe_Wang_Miller	dbpprop:nationalteam	dbpedia:Northern_Mariana_Islands_national_football_team .
+dbpedia:Steven_McKagen__1	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns15:	<http://en.wikipedia.org/wiki/> .
+ns15:Northern_Mariana_Islands_national_football_team	foaf:primaryTopic	dbpedia:Northern_Mariana_Islands_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Northern_Mariana_Islands_national_football_team	rdf:type	yago:Organization108008335 .
+@prefix ns18:	<http://schema.org/> .
+dbpedia:Northern_Mariana_Islands_national_football_team	rdf:type	ns18:Organization ,
+		yago:SocialGroup107950920 ,
+		owl:Thing ,
+		dbpedia-owl:Agent ,
+		yago:YagoLegalActorGeo ,
+		yago:YagoLegalActor .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Northern_Mariana_Islands_national_football_team	rdf:type	dul:SocialPerson ,
+		ns18:SportsTeam ,
+		yago:AsianNationalAssociationFootballTeams ,
+		dul:Agent ,
+		yago:NationalSportsTeamsOfTheNorthernMarianaIslands ,
+		yago:FootballTeam108080025 ,
+		yago:YagoPermanentlyLocatedEntity ,
+		dbpedia-owl:Organisation ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		yago:Team108208560 ,
+		yago:Unit108189659 .
+@prefix ns20:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Northern_Mariana_Islands_national_football_team	owl:sameAs	ns20:Echipa_națională_de_fotbal_a_Insulelor_Marianei_de_Nord ,
+		ns9:Mariaans_voetbalelftal ,
+		ns1:Équipe_des_îles_Mariannes_du_Nord_de_football .
+@prefix ns21:	<http://no.dbpedia.org/resource/> .
+dbpedia:Northern_Mariana_Islands_national_football_team	owl:sameAs	ns21:Nord-Marianenes_herrelandslag_i_fotball .
+@prefix ns22:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Northern_Mariana_Islands_national_football_team	owl:sameAs	ns22:北馬里亞納群島足球代表隊 ,
+		ns11:Seleção_das_Marianas_Setentrionais_de_Futebol ,
+		<http://rdf.freebase.com/ns/m.0ftb4j> ,
+		ns4:Q754199 .
+@prefix ns23:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Northern_Mariana_Islands_national_football_team	owl:sameAs	ns23:Northern_Mariana_Islands_national_football_team .
+@prefix ns24:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Northern_Mariana_Islands_national_football_team	owl:sameAs	ns24:Šiaurės_Marianos_vyrų_futbolo_rinktinė .
+@prefix ns25:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Northern_Mariana_Islands_national_football_team	owl:sameAs	ns25:Сборная_Северных_Марианских_островов_по_футболу ,
+		ns6:Selezione_di_calcio_delle_Isole_Marianne_Settentrionali ,
+		dbpedia:Northern_Mariana_Islands_national_football_team ,
+		ns5:Selección_de_fútbol_de_las_Islas_Marianas_del_Norte .
+@prefix ns26:	<http://he.dbpedia.org/resource/> .
+dbpedia:Northern_Mariana_Islands_national_football_team	owl:sameAs	ns26:נבחרת_איי_מריאנה_הצפוניים_בכדורגל .
+@prefix ns27:	<http://wikidata.org/entity/> .
+dbpedia:Northern_Mariana_Islands_national_football_team	owl:sameAs	ns27:Q754199 .
+@prefix ns28:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Northern_Mariana_Islands_national_football_team	owl:sameAs	ns28:Északi-Mariana-szigeteki_labdarúgó-válogatott ,
+		ns8:북마리아나_제도_축구_국가대표팀 .
+@prefix ns29:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Northern_Mariana_Islands_national_football_team	owl:sameAs	ns29:منتخب_جزر_ماريانا_الشمالية_لكرة_القدم .
+@prefix ns30:	<http://vi.dbpedia.org/resource/> .
+dbpedia:Northern_Mariana_Islands_national_football_team	owl:sameAs	ns30:Đội_tuyển_bóng_đá_quốc_gia_Quần_đảo_Bắc_Mariana ,
+		ns10:Reprezentacja_Marianów_Północnych_w_piłce_nożnej ,
+		ns7:サッカー北マリアナ諸島代表 ,
+		ns3:Fußballnationalmannschaft_der_Nördlichen_Marianen .
+@prefix ns31:	<http://yago-knowledge.org/resource/> .
+dbpedia:Northern_Mariana_Islands_national_football_team	owl:sameAs	ns31:Northern_Mariana_Islands_national_football_team .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Northern_Mariana_Islands_national_football_team	rdfs:label	"Northern Mariana Islands national football team" ,
+		"Selecci\u00F3n de f\u00FAtbol de las Islas Marianas del Norte"@es ,
+		"\u30B5\u30C3\u30AB\u30FC\u5317\u30DE\u30EA\u30A2\u30CA\u8AF8\u5CF6\u4EE3\u8868"@ja ,
+		"Fu\u00DFballnationalmannschaft der N\u00F6rdlichen Marianen"@de ,
+		"\u5317\u99AC\u91CC\u4E9E\u7D0D\u7FA4\u5CF6\u8DB3\u7403\u4EE3\u8868\u968A"@zh ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u0435\u0432\u0435\u0440\u043D\u044B\u0445 \u041C\u0430\u0440\u0438\u0430\u043D\u0441\u043A\u0438\u0445 \u043E\u0441\u0442\u0440\u043E\u0432\u043E\u0432 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"\u0645\u0646\u062A\u062E\u0628 \u062C\u0632\u0631 \u0645\u0627\u0631\u064A\u0627\u0646\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"Sele\u00E7\u00E3o das Marianas Setentrionais de Futebol"@pt ,
+		"Reprezentacja Marian\u00F3w P\u00F3\u0142nocnych w pi\u0142ce no\u017Cnej"@pl ,
+		"Mariaans voetbalelftal"@nl ,
+		"\u00C9quipe des \u00EEles Mariannes du Nord de football"@fr ,
+		"Selezione di calcio delle Isole Marianne Settentrionali"@it .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Northern_Mariana_Islands_national_football_team	dcterms:subject	category:Asian_national_association_football_teams ,
+		category:Northern_Mariana_Islands_national_football_team ,
+		category:National_sports_teams_of_the_Northern_Mariana_Islands ;
+	foaf:homepage	<http://www.nmifa.com/> ;
+	foaf:name	"Northern Mariana Islands" ;
+	foaf:nick	"Blue Ayuyus" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Northern_Mariana_Islands_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Northern_Mariana_Islands_national_football_team?oldid=606093479> ;
+	rdfs:comment	"La selezione di calcio delle Isole Marianne Settentrionali \u00E8 la rappresentativa calcistica dell'omonimo commonwealth. Non \u00E8 membro della FIFA ma \u00E8 stata associata all'OFC fino al 2009, quando \u00E8 passata all'Asian Football Confederation.Ha preso parte al U-14 East Asian Football Federation Youth Festival nel luglio 2006 a Pechino. I risultati: Corea del Nord 0-6, Corea del Sud 0-16, Cina 0-11, Mongolia 0-5, Giappone 0-12, Guam 0-6 e 0-12, Taiwan 0-13."@it ,
+		"Reprezentacja Marian\u00F3w P\u00F3\u0142nocnych w pi\u0142ce no\u017Cnej jest cz\u0142onkiem AFC, jednak nie nale\u017Cy do FIFA.Zesp\u00F3\u0142 wystartowa\u0142 do tej pory w dw\u00F3ch edycjach Micronesian Cup (1998 oraz 1999). W pierwszym swoim starcie w tych rozgrywkach niespodziewanie odni\u00F3s\u0142 ko\u0144cowe zwyci\u0119stwo. Pokona\u0142 w\u00F3wczas w finale zesp\u00F3\u0142 Guamu 3\u20130. W kolejnej edycji zaj\u0105\u0142 drugie miejsce po przegranej z Mikronezj\u0105."@pl ,
+		"Het Mariaans voetbalelftal is een team van voetballers dat de Noordelijke Marianen vertegenwoordigt bij internationale wedstrijden. De voetbalbond van de Noordelijke Marianen is geen lid van de FIFA en is dus uitgesloten van deelname aan het Wereldkampioenschap voetbal. De bond is wel geassocieerd lid van de Aziatische confederatie."@nl ,
+		"La selecci\u00F3n de f\u00FAtbol de las Islas Marianas del Norte, es el equipo que representa a nivel internacional a ese territorio y es controlado por la Asociaci\u00F3n de F\u00FAtbol de las Islas Marianas del Norte. Es un miembro asociado de la Federaci\u00F3n de F\u00FAtbol del Este de Asia y miembro no pleno de la AFC, ya que no pertenece a la FIFA."@es ,
+		"\u5317\u99AC\u5229\u4E9E\u7D0D\u7FA4\u5CF6\u8DB3\u7403\u4EE3\u8868\u968A\u662F\u5317\u99AC\u91CC\u4E9E\u7D0D\u7FA4\u5CF6\u8DB3\u7403\u5354\u6703\u6D3E\u51FA\u7684\u4E00\u652F\u8A8D\u53EF\u5B98\u65B9\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u5176\u81F3\u4ECA\u4ECD\u7136\u672A\u52A0\u5165\u570B\u969B\u8DB3\u5354\u3002\u65BC2010\u5E746\u67088\u65E5\uFF0C\u5728\u5357\u975E\u7D04\u7FF0\u5C3C\u65AF\u5821\u52A0\u62C9\u96F7\u6703\u8B70\u4E2D\u5FC3\u8209\u884C\u7684\u4E9E\u6D32\u8DB3\u7403\u806F\u6703\u7279\u5225\u4EE3\u8868\u5927\u6703\u4E0A\uFF0C\u6C7A\u5B9A\u63A5\u53D7\u5317\u99AC\u91CC\u4E9E\u7D0D\u7FA4\u5CF6\u8DB3\u7403\u5354\u6703\u6210\u70BA\u4E9E\u6D32\u8DB3\u7403\u806F\u6703\u5019\u88DC\u6703\u54E1\u3002\u65BC2006\u5E7412\u6708\uFF0C\u5317\u99AC\u5229\u4E9E\u7D0D\u7FA4\u5CF6\u4EE5\u81E8\u6642\u6703\u54E1\u8EAB\u4EFD\u52A0\u5165\u6771\u4E9E\u8DB3\u7403\u5354\u6703\uFF0C\u65BC2008\u5E749\u6708\u88AB\u78BA\u8A8D\u70BA\u6B63\u5F0F\u6703\u54E1\u3002\u5317\u99AC\u5229\u4E9E\u7D0D\u7FA4\u5CF6\u8DB3\u7403\u4EE3\u8868\u968A\u9996\u6B21\u53C3\u52A0\u7684\u4E3B\u8981\u8CFD\u4E8B\u662F\u5BC6\u514B\u7F85\u5C3C\u897F\u4E9E\u806F\u90A6\u904B\u52D5\u6703\u3002\u5317\u99AC\u91CC\u4E9E\u7D0D\u7FA4\u5CF6\u8DB3\u7403\u5354\u6703\u6703\u9577\u70BAJerry Tan\uFF0C\u5373\u9999\u6E2F\u4F01\u696D\u5BB6\u9673\u5B88\u4EC1\u4E4B\u5B50\uFF1B\u8A72\u5354\u6703\u7684\u8077\u54E1\u4EE5\u81F3\u8DB3\u7403\u6559\u7DF4\u5747\u70BA\u9999\u6E2F\u4EBA\uFF0C\u5176\u8DB3\u7403\u4EE3\u8868\u968A\u6559\u7DF4\u70BA\u66FE\u7D93\u5E36\u9818\u9999\u6E2F\u7532\u7D44\u8DB3\u7403\u806F\u8CFD\u6668\u66E6\u8DB3\u7403\u6703\u6210\u70BA\u300C\u4E94\u51A0\u738B\u300D\u7684\u53E4\u5EC9\u6B0A\uFF0C\u5176\u4ED6\u8DB3\u7403\u6559\u7DF4\u5305\u62EC\u540C\u738B\u570B\u658C\u548C\u9127\u5FD7\u660E\u7B49\u3002"@zh ,
+		"\u30B5\u30C3\u30AB\u30FC\u5317\u30DE\u30EA\u30A2\u30CA\u8AF8\u5CF6\u4EE3\u8868\u306F\u3001\u5317\u30DE\u30EA\u30A2\u30CA\u8AF8\u5CF6\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\uFF08NMIFA\uFF09\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u5317\u30DE\u30EA\u30A2\u30CA\u8AF8\u5CF6\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u4EE3\u8868\u30C1\u30FC\u30E0\u3067\u3042\u308B\u30022009\u5E7410\u6708\u73FE\u5728\u3001NMIFA\u306F\u6771\u30A2\u30B8\u30A2\u30B5\u30C3\u30AB\u30FC\u9023\u76DF(EAFF)\u52A0\u76DF\u3001\u30A2\u30B8\u30A2\u30B5\u30C3\u30AB\u30FC\u9023\u76DF(AFC)\u6E96\u52A0\u76DF\u3060\u304C\u3001\u56FD\u969B\u30B5\u30C3\u30AB\u30FC\u9023\u76DF(FIFA)\u306B\u306F\u672A\u52A0\u76DF\u3067\u3042\u308B\u3002\u305D\u306E\u305F\u3081\u3001\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u672C\u5927\u4F1A\u53CA\u3073\u4E88\u9078\u306A\u3069FIFA\u4E3B\u50AC\u306E\u5927\u4F1A\u306B\u306F\u53C2\u52A0\u3067\u304D\u306A\u3044\u3002"@ja ,
+		"A Sele\u00E7\u00E3o das Marianas Setentrionais de Futebol representa as Marianas Setentrionais, um arquip\u00E9lago que fica a meio caminho entre a Oceania e a \u00C1sia."@pt ,
+		"L'\u00E9quipe des \u00CEles Mariannes du Nord de football est une s\u00E9lection des meilleurs joueurs des \u00CEles Mariannes du Nord sous l'\u00E9gide de la F\u00E9d\u00E9ration des \u00CEles Mariannes du Nord de football.La f\u00E9d\u00E9ration est membre de la F\u00E9d\u00E9ration de football d'Asie de l'Est (EAFF)."@fr ,
+		"\u0645\u0646\u062A\u062E\u0628 \u062C\u0632\u0631 \u0645\u0627\u0631\u064A\u0627\u0646\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0631\u0633\u0645\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u062C\u0632\u0631 \u0645\u0627\u0631\u064A\u0627\u0646\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629 \u0627\u0644\u0648\u0627\u0642\u0639\u0629 \u0641\u064A \u0627\u0644\u0645\u062D\u064A\u0637 \u0627\u0644\u0647\u0627\u062F\u064A \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u062C\u0632\u0631 \u0645\u0627\u0631\u064A\u0627\u0646\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645. \u0648\u0647\u0648 \u0639\u0636\u0648 \u0645\u0646\u062A\u0633\u0628 \u0641\u064A \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0622\u0633\u064A\u0648\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0646\u0630 \u0639\u0627\u0645 2008. \u0648\u0628\u0625\u0645\u0643\u0627\u0646 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629 \u0641\u064A \u0627\u0644\u0645\u0633\u0627\u0628\u0642\u0627\u062A \u0627\u0644\u062A\u064A \u064A\u0646\u0638\u0645\u0647\u0627 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0642\u0627\u0631\u064A. \u0648\u0644\u0643\u0646\u0647 \u063A\u064A\u0631 \u0642\u0627\u062F\u0631 \u0639\u0644\u0649 \u0627\u0644\u0645\u0646\u0627\u0641\u0633\u0629 \u0641\u064A \u062A\u0635\u0641\u064A\u0627\u062A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645."@ar ,
+		"Die Fu\u00DFballnationalmannschaft der N\u00F6rdlichen Marianen ist das Auswahlteam des amerikanischen Au\u00DFengebietes der N\u00F6rdlichen Marianen im Pazifik."@de ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u0435\u0432\u0435\u0440\u043D\u044B\u0445 \u041C\u0430\u0440\u0438\u0430\u043D\u0441\u043A\u0438\u0445 \u043E\u0441\u0442\u0440\u043E\u0432\u043E\u0432 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 (\u0430\u043D\u0433\u043B. Northern Mariana Islands national football team) \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u0421\u0435\u0432\u0435\u0440\u043D\u044B\u0435 \u041C\u0430\u0440\u0438\u0430\u043D\u0441\u043A\u0438\u0435 \u043E\u0441\u0442\u0440\u043E\u0432\u0430 \u043D\u0430 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0440\u0435\u043D\u0435. \u041F\u0435\u0440\u0432\u044B\u0439 \u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0439 \u043C\u0430\u0442\u0447 \u0441\u044B\u0433\u0440\u0430\u043B\u0430 \u0432 2007 \u0433\u043E\u0434\u0443.\u0423\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0410\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0435\u0439 \u0421\u0435\u0432\u0435\u0440\u043D\u044B\u0445 \u041C\u0430\u0440\u0438\u0430\u043D\u0441\u043A\u0438\u0445 \u043E\u0441\u0442\u0440\u043E\u0432\u043E\u0432, \u044F\u0432\u043B\u044F\u044E\u0449\u0435\u0439\u0441\u044F \u0447\u043B\u0435\u043D\u043E\u043C \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u0444\u0443\u0442\u0431\u043E\u043B\u0430 \u0412\u043E\u0441\u0442\u043E\u0447\u043D\u043E\u0439 \u0410\u0437\u0438\u0438 \u0438 \u0430\u0441\u0441\u043E\u0446\u0438\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u043C \u0447\u043B\u0435\u043D\u043E\u043C \u0410\u0437\u0438\u0430\u0442\u0441\u043A\u043E\u0439 \u043A\u043E\u043D\u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u0444\u0443\u0442\u0431\u043E\u043B\u0430 \u0438 \u043D\u0430\u0445\u043E\u0434\u044F\u0449\u0435\u0439\u0441\u044F \u0432 \u0433\u043E\u0440\u043E\u0434\u0435 \u0413\u0430\u0440\u0430\u043F\u0430\u043D \u043D\u0430 \u043E\u0441\u0442\u0440\u043E\u0432\u0435 \u0421\u0430\u0439\u043F\u0430\u043D."@ru ,
+		"The Northern Mariana Islands national football team is the international football team of the Commonwealth of the Northern Mariana Islands, controlled by the Northern Mariana Islands Football Association." ;
+	dbpprop:mostCaps	dbpedia:Joe_Wang_Miller ;
+	foaf:isPrimaryTopicOf	ns15:Northern_Mariana_Islands_national_football_team ;
+	dbpprop:club	dbpedia:Paire_FC ,
+		<http://dbpedia.org/resource/Wild_Bill\u0027s> ,
+		<http://dbpedia.org/resource/Inter_Godfather\u0027s> ,
+		dbpedia:MP_United ,
+		<http://dbpedia.org/resource/Agila_F.C.> ,
+		dbpedia:GSW_Hurricanes ,
+		dbpedia:Fredericksburg_Area_SA .
+@prefix ns36:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Northern_Mariana_Islands_national_football_team	dbpprop:hasPhotoCollection	ns36:Northern_Mariana_Islands_national_football_team ;
+	dbpprop:name	dbpedia:Ruselle_Zapanta ,
+		dbpedia:Peter_Loken ,
+		dbpedia:Kenneth_Domingo ,
+		dbpedia:Enrico_del_Rosario ,
+		dbpedia:Daniel_Westphal ,
+		dbpedia:Daniel_Stafford ,
+		dbpedia:Steven_McKagen ,
+		<http://dbpedia.org/resource/William_Dunn_(Northern_Mariana_Island_footballer)> ,
+		<http://dbpedia.org/resource/Brian_Lee_(footballer)> ,
+		dbpedia:Raphael_Zapanta ,
+		dbpedia:Kirk_Schuler ,
+		dbpedia:Joe_Wang_Miller ,
+		<http://dbpedia.org/resource/Eric_Cooke_(footballer)> ,
+		<http://dbpedia.org/resource/Michael_Barry_(Northern_Mariana_Island_footballer)> ,
+		dbpedia:Lucas_Knecht ,
+		dbpedia:Nicholas_Swaim ,
+		"Northern Mariana Islands" ;
+	dbpedia-owl:abstract	"\u30B5\u30C3\u30AB\u30FC\u5317\u30DE\u30EA\u30A2\u30CA\u8AF8\u5CF6\u4EE3\u8868\u306F\u3001\u5317\u30DE\u30EA\u30A2\u30CA\u8AF8\u5CF6\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\uFF08NMIFA\uFF09\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u308B\u5317\u30DE\u30EA\u30A2\u30CA\u8AF8\u5CF6\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u4EE3\u8868\u30C1\u30FC\u30E0\u3067\u3042\u308B\u30022009\u5E7410\u6708\u73FE\u5728\u3001NMIFA\u306F\u6771\u30A2\u30B8\u30A2\u30B5\u30C3\u30AB\u30FC\u9023\u76DF(EAFF)\u52A0\u76DF\u3001\u30A2\u30B8\u30A2\u30B5\u30C3\u30AB\u30FC\u9023\u76DF(AFC)\u6E96\u52A0\u76DF\u3060\u304C\u3001\u56FD\u969B\u30B5\u30C3\u30AB\u30FC\u9023\u76DF(FIFA)\u306B\u306F\u672A\u52A0\u76DF\u3067\u3042\u308B\u3002\u305D\u306E\u305F\u3081\u3001\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u672C\u5927\u4F1A\u53CA\u3073\u4E88\u9078\u306A\u3069FIFA\u4E3B\u50AC\u306E\u5927\u4F1A\u306B\u306F\u53C2\u52A0\u3067\u304D\u306A\u3044\u3002"@ja ,
+		"A Sele\u00E7\u00E3o das Marianas Setentrionais de Futebol representa as Marianas Setentrionais, um arquip\u00E9lago que fica a meio caminho entre a Oceania e a \u00C1sia. \u00C9 membro da Associa\u00E7\u00E3o de Futebol do Leste Asi\u00E1tico.Por n\u00E3o ser membro da FIFA nem da AFC, as Marianas Setentrionais n\u00E3o est\u00E3o autorizadas a disputar partidas oficiais, apenas amistosos contra times de regi\u00F5es pr\u00F3ximas e as fases preliminares do Campeonato de Futebol do Leste Asi\u00E1tico.Sua estreia foi em 25 de mar\u00E7o de 2007, num amistoso contra Guam; o resultado de \"apenas\" 3 a 2 favor\u00E1vel aos guameses foi considerado expressivo pelos marianos-do-norte.Sua maior vit\u00F3ria foi um 13 a 0 sobre Pohnpei, uma Sele\u00E7\u00E3o amadora da Oceania, em partida realizada em Palau.A maior derrota dos Caranguejos foi um 9 a 0 a favor de Guam, num jogo disputado em Hag\u00E5t\u00F1a."@pt ,
+		"La selezione di calcio delle Isole Marianne Settentrionali \u00E8 la rappresentativa calcistica dell'omonimo commonwealth. Non \u00E8 membro della FIFA ma \u00E8 stata associata all'OFC fino al 2009, quando \u00E8 passata all'Asian Football Confederation.Ha preso parte al U-14 East Asian Football Federation Youth Festival nel luglio 2006 a Pechino. I risultati: Corea del Nord 0-6, Corea del Sud 0-16, Cina 0-11, Mongolia 0-5, Giappone 0-12, Guam 0-6 e 0-12, Taiwan 0-13. Nel dicembre 2006 la EAFF ha ammesso le Isole Marianne Settentrionali come membro provvisorio.La prima squadra partecipa principalmente ai Micronesia Games.Recentemente ha partecipato come membro provvisorio al turno preliminare della East Asian Cup 2008 perdendo entrambe le partite contro Guam."@it ,
+		"Het Mariaans voetbalelftal is een team van voetballers dat de Noordelijke Marianen vertegenwoordigt bij internationale wedstrijden. De voetbalbond van de Noordelijke Marianen is geen lid van de FIFA en is dus uitgesloten van deelname aan het Wereldkampioenschap voetbal. De bond is wel geassocieerd lid van de Aziatische confederatie."@nl ,
+		"La selecci\u00F3n de f\u00FAtbol de las Islas Marianas del Norte, es el equipo que representa a nivel internacional a ese territorio y es controlado por la Asociaci\u00F3n de F\u00FAtbol de las Islas Marianas del Norte. Es un miembro asociado de la Federaci\u00F3n de F\u00FAtbol del Este de Asia y miembro no pleno de la AFC, ya que no pertenece a la FIFA."@es ,
+		"L'\u00E9quipe des \u00CEles Mariannes du Nord de football est une s\u00E9lection des meilleurs joueurs des \u00CEles Mariannes du Nord sous l'\u00E9gide de la F\u00E9d\u00E9ration des \u00CEles Mariannes du Nord de football.La f\u00E9d\u00E9ration est membre de la F\u00E9d\u00E9ration de football d'Asie de l'Est (EAFF). La premi\u00E8re apparition de l'\u00E9quipe sur la sc\u00E8ne internationale a lieu en juillet 2006 \u00E0 P\u00E9kin, lors d'un tournoi de jeunes organis\u00E9 par l'EAFF, o\u00F9 l'\u00E9quipe des Mariannes du Nord est invit\u00E9e.Jusqu'en 2009, l'\u00E9quipe premi\u00E8re ne dispute des matchs que contre leurs voisins de Guam, notamment \u00E0 l'occasion du tour pr\u00E9liminaire de la Coupe d'Asie de l'Est de football 2008 et de la Coupe des Mariannes de football. Le mode de qualification pour l'\u00E9dition 2010 de la Coupe d'Asie de l'Est est ensuite modifi\u00E9, ce qui permet aux Mariannes de disputer des rencontres contre d'autres adversaires, en l'occurrence la Mongolie et Macao.En juillet 2009, l'AFC permet \u00E0 la F\u00E9d\u00E9ration de football des \u00CEles Mariannes du Nord (NMIFA) de devenir un membre associ\u00E9 de la conf\u00E9d\u00E9ration asiatique, car la NMIFA s'est d\u00E9tach\u00E9e de l'OFC (Conf\u00E9d\u00E9ration oc\u00E9anienne de football) en juin 2009, autorisant son rattachement \u00E0 l'AFC. La NMIFA reste un membre provisoire de l'AFC jusqu'au prochain congr\u00E8s de la conf\u00E9d\u00E9ration, qui devrait ratifier l'entr\u00E9e de la f\u00E9d\u00E9ration comme membre permanent."@fr ,
+		"\u0645\u0646\u062A\u062E\u0628 \u062C\u0632\u0631 \u0645\u0627\u0631\u064A\u0627\u0646\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0647\u0648 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0631\u0633\u0645\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u062C\u0632\u0631 \u0645\u0627\u0631\u064A\u0627\u0646\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629 \u0627\u0644\u0648\u0627\u0642\u0639\u0629 \u0641\u064A \u0627\u0644\u0645\u062D\u064A\u0637 \u0627\u0644\u0647\u0627\u062F\u064A \u0648\u064A\u062F\u064A\u0631\u0647 \u0627\u062A\u062D\u0627\u062F \u062C\u0632\u0631 \u0645\u0627\u0631\u064A\u0627\u0646\u0627 \u0627\u0644\u0634\u0645\u0627\u0644\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645. \u0648\u0647\u0648 \u0639\u0636\u0648 \u0645\u0646\u062A\u0633\u0628 \u0641\u064A \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0622\u0633\u064A\u0648\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0646\u0630 \u0639\u0627\u0645 2008. \u0648\u0628\u0625\u0645\u0643\u0627\u0646 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629 \u0641\u064A \u0627\u0644\u0645\u0633\u0627\u0628\u0642\u0627\u062A \u0627\u0644\u062A\u064A \u064A\u0646\u0638\u0645\u0647\u0627 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0642\u0627\u0631\u064A. \u0648\u0644\u0643\u0646\u0647 \u063A\u064A\u0631 \u0642\u0627\u062F\u0631 \u0639\u0644\u0649 \u0627\u0644\u0645\u0646\u0627\u0641\u0633\u0629 \u0641\u064A \u062A\u0635\u0641\u064A\u0627\u062A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645."@ar ,
+		"Reprezentacja Marian\u00F3w P\u00F3\u0142nocnych w pi\u0142ce no\u017Cnej jest cz\u0142onkiem AFC, jednak nie nale\u017Cy do FIFA.Zesp\u00F3\u0142 wystartowa\u0142 do tej pory w dw\u00F3ch edycjach Micronesian Cup (1998 oraz 1999). W pierwszym swoim starcie w tych rozgrywkach niespodziewanie odni\u00F3s\u0142 ko\u0144cowe zwyci\u0119stwo. Pokona\u0142 w\u00F3wczas w finale zesp\u00F3\u0142 Guamu 3\u20130. W kolejnej edycji zaj\u0105\u0142 drugie miejsce po przegranej z Mikronezj\u0105. Mariany P\u00F3\u0142nocne s\u0105 terytorium zale\u017Cnym od Stan\u00F3w Zjednoczonych w Oceanii, ale mimo tego nie nale\u017C\u0105 do Ameryka\u0144skiego Zwi\u0105zku Pi\u0142ki No\u017Cnej.. Stadion reprezentacji nazywa si\u0119 \"Oleai Sports Complex\" i znajduje si\u0119 w Saipan (2 tys. miejsc). Wed\u0142ug danych z 24 listopada 2012 roku reprezentacja ta rozegra\u0142a 14 mecz\u00F3w z czego wygra\u0142a 2, zremisowa\u0142a 1 i przegra\u0142a 11"@pl ,
+		"The Northern Mariana Islands national football team is the international football team of the Commonwealth of the Northern Mariana Islands, controlled by the Northern Mariana Islands Football Association." ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u0435\u0432\u0435\u0440\u043D\u044B\u0445 \u041C\u0430\u0440\u0438\u0430\u043D\u0441\u043A\u0438\u0445 \u043E\u0441\u0442\u0440\u043E\u0432\u043E\u0432 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 (\u0430\u043D\u0433\u043B. Northern Mariana Islands national football team) \u2014 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u0421\u0435\u0432\u0435\u0440\u043D\u044B\u0435 \u041C\u0430\u0440\u0438\u0430\u043D\u0441\u043A\u0438\u0435 \u043E\u0441\u0442\u0440\u043E\u0432\u0430 \u043D\u0430 \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0440\u0435\u043D\u0435. \u041F\u0435\u0440\u0432\u044B\u0439 \u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u044B\u0439 \u043C\u0430\u0442\u0447 \u0441\u044B\u0433\u0440\u0430\u043B\u0430 \u0432 2007 \u0433\u043E\u0434\u0443.\u0423\u043F\u0440\u0430\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0410\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0435\u0439 \u0421\u0435\u0432\u0435\u0440\u043D\u044B\u0445 \u041C\u0430\u0440\u0438\u0430\u043D\u0441\u043A\u0438\u0445 \u043E\u0441\u0442\u0440\u043E\u0432\u043E\u0432, \u044F\u0432\u043B\u044F\u044E\u0449\u0435\u0439\u0441\u044F \u0447\u043B\u0435\u043D\u043E\u043C \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u0444\u0443\u0442\u0431\u043E\u043B\u0430 \u0412\u043E\u0441\u0442\u043E\u0447\u043D\u043E\u0439 \u0410\u0437\u0438\u0438 \u0438 \u0430\u0441\u0441\u043E\u0446\u0438\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u043C \u0447\u043B\u0435\u043D\u043E\u043C \u0410\u0437\u0438\u0430\u0442\u0441\u043A\u043E\u0439 \u043A\u043E\u043D\u0444\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438 \u0444\u0443\u0442\u0431\u043E\u043B\u0430 \u0438 \u043D\u0430\u0445\u043E\u0434\u044F\u0449\u0435\u0439\u0441\u044F \u0432 \u0433\u043E\u0440\u043E\u0434\u0435 \u0413\u0430\u0440\u0430\u043F\u0430\u043D \u043D\u0430 \u043E\u0441\u0442\u0440\u043E\u0432\u0435 \u0421\u0430\u0439\u043F\u0430\u043D."@ru ,
+		"Die Fu\u00DFballnationalmannschaft der N\u00F6rdlichen Marianen ist das Auswahlteam des amerikanischen Au\u00DFengebietes der N\u00F6rdlichen Marianen im Pazifik. Die N\u00F6rdlichen Marianen sind kein Mitglied des Weltfu\u00DFballverbandes FIFA, waren aber von 1983 bis Juni 2009 assoziiertes Mitglied in der Oceania Football Confederation (OFC) und wechselten anschlie\u00DFend zur Asian Football Confederation (AFC).2013 nahm die Mannschaft erstmals an der Qualifikation f\u00FCr den AFC Challenge Cup 2014 teil, verlor aber die drei Spiele gegen Bangladesch, Nepal und Pal\u00E4stina ohne ein Tor erzielen zu k\u00F6nnen."@de ,
+		"\u5317\u99AC\u5229\u4E9E\u7D0D\u7FA4\u5CF6\u8DB3\u7403\u4EE3\u8868\u968A\u662F\u5317\u99AC\u91CC\u4E9E\u7D0D\u7FA4\u5CF6\u8DB3\u7403\u5354\u6703\u6D3E\u51FA\u7684\u4E00\u652F\u8A8D\u53EF\u5B98\u65B9\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u5176\u81F3\u4ECA\u4ECD\u7136\u672A\u52A0\u5165\u570B\u969B\u8DB3\u5354\u3002\u65BC2010\u5E746\u67088\u65E5\uFF0C\u5728\u5357\u975E\u7D04\u7FF0\u5C3C\u65AF\u5821\u52A0\u62C9\u96F7\u6703\u8B70\u4E2D\u5FC3\u8209\u884C\u7684\u4E9E\u6D32\u8DB3\u7403\u806F\u6703\u7279\u5225\u4EE3\u8868\u5927\u6703\u4E0A\uFF0C\u6C7A\u5B9A\u63A5\u53D7\u5317\u99AC\u91CC\u4E9E\u7D0D\u7FA4\u5CF6\u8DB3\u7403\u5354\u6703\u6210\u70BA\u4E9E\u6D32\u8DB3\u7403\u806F\u6703\u5019\u88DC\u6703\u54E1\u3002\u65BC2006\u5E7412\u6708\uFF0C\u5317\u99AC\u5229\u4E9E\u7D0D\u7FA4\u5CF6\u4EE5\u81E8\u6642\u6703\u54E1\u8EAB\u4EFD\u52A0\u5165\u6771\u4E9E\u8DB3\u7403\u5354\u6703\uFF0C\u65BC2008\u5E749\u6708\u88AB\u78BA\u8A8D\u70BA\u6B63\u5F0F\u6703\u54E1\u3002\u5317\u99AC\u5229\u4E9E\u7D0D\u7FA4\u5CF6\u8DB3\u7403\u4EE3\u8868\u968A\u9996\u6B21\u53C3\u52A0\u7684\u4E3B\u8981\u8CFD\u4E8B\u662F\u5BC6\u514B\u7F85\u5C3C\u897F\u4E9E\u806F\u90A6\u904B\u52D5\u6703\u3002\u5317\u99AC\u91CC\u4E9E\u7D0D\u7FA4\u5CF6\u8DB3\u7403\u5354\u6703\u6703\u9577\u70BAJerry Tan\uFF0C\u5373\u9999\u6E2F\u4F01\u696D\u5BB6\u9673\u5B88\u4EC1\u4E4B\u5B50\uFF1B\u8A72\u5354\u6703\u7684\u8077\u54E1\u4EE5\u81F3\u8DB3\u7403\u6559\u7DF4\u5747\u70BA\u9999\u6E2F\u4EBA\uFF0C\u5176\u8DB3\u7403\u4EE3\u8868\u968A\u6559\u7DF4\u70BA\u66FE\u7D93\u5E36\u9818\u9999\u6E2F\u7532\u7D44\u8DB3\u7403\u806F\u8CFD\u6668\u66E6\u8DB3\u7403\u6703\u6210\u70BA\u300C\u4E94\u51A0\u738B\u300D\u7684\u53E4\u5EC9\u6B0A\uFF0C\u5176\u4ED6\u8DB3\u7403\u6559\u7DF4\u5305\u62EC\u540C\u738B\u570B\u658C\u548C\u9127\u5FD7\u660E\u7B49\u3002"@zh ;
+	dbpedia-owl:wikiPageID	6159402 ;
+	dbpedia-owl:wikiPageRevisionID	606093479 ;
+	dbpprop:topScorer	dbpedia:Joe_Wang_Miller ;
+	dbpprop:clubnat	"NMI" ,
+		"PHI" ,
+		"USA" ;
+	dbpprop:goals	3 ,
+		0 ,
+		1 ;
+	dbpprop:caps	5 ,
+		6 ,
+		2 ,
+		3 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Northern_Mariana_Islands_national_football_team	dbpprop:age	"1995-10-11+02:00"^^xsd:date ,
+		"1980-09-02+02:00"^^xsd:date ,
+		"1989-02-03+02:00"^^xsd:date ,
+		"1974-09-26+02:00"^^xsd:date ,
+		"1993-03-30+02:00"^^xsd:date ,
+		"1977-11-08+02:00"^^xsd:date ;
+	dbpprop:coach	dbpedia:Koo_Luam_Khen ;
+	dbpedia-owl:coach	dbpedia:Koo_Luam_Khen ;
+	dbpprop:association	dbpedia:Northern_Mariana_Islands_Football_Association ;
+	dbpprop:badgeSize	200 ;
+	dbpprop:body	"ffffff" ,
+		0 ;
+	dbpprop:confederation	dbpedia:Asian_Football_Confederation ;
+	dbpprop:fifaTrigramme	"NMI" ;
+	dbpprop:leftarm	0 ,
+		"ffffff" ;
+	dbpprop:rightarm	0 ,
+		"ffffff" ;
+	dbpprop:shorts	0 ;
+	dbpprop:socks	0 ,
+		"ffffff" ;
+	dbpprop:no	8 ,
+		9 ,
+		10 ,
+		11 ,
+		13 ,
+		14 ,
+		15 ,
+		2 ,
+		3 ,
+		4 ,
+		5 ,
+		7 ,
+		16 ,
+		18 ,
+		20 ;
+	dbpprop:pos	"FW" ,
+		"MF" ,
+		"GK" ,
+		"DF" ;
+	dbpprop:badge	"NMIFA_crest.svg" ;
+	dbpprop:firstGame	"Northern Mariana Islands 1\u20132" ;
+	dbpprop:largestLoss	9 ;
+	dbpprop:largestWin	2 ;
+	dbpprop:eloRank	231 ;
+	dbpprop:subConfederation	"EAFF" ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.nmifa.com/> .
+@prefix ns38:	<http://www.eaff.com/10fa/fa10/team.html#> .
+dbpedia:Northern_Mariana_Islands_national_football_team	dbpedia-owl:wikiPageExternalLink	ns38:men ;
+	dbpprop:homeStadium	dbpedia:Oleai_Sports_Complex ;
+	dbpedia-owl:stadium	dbpedia:Oleai_Sports_Complex ;
+	dbpprop:nickname	"Blue Ayuyus" .
+<http://dbpedia.org/resource/Michael_Barry_(Northern_Mariana_Island_footballer)__1>	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team .
+ns29:منتخب_جزر_ماريانا_الشمالية_لكرة_القدم	owl:sameAs	dbpedia:Northern_Mariana_Islands_national_football_team .
+ns26:נבחרת_איי_מריאנה_הצפוניים_בכדורגל	owl:sameAs	dbpedia:Northern_Mariana_Islands_national_football_team .
+ns28:Északi-Mariana-szigeteki_labdarúgó-válogatott	owl:sameAs	dbpedia:Northern_Mariana_Islands_national_football_team .
+ns24:Šiaurės_Marianos_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Northern_Mariana_Islands_national_football_team .
+ns21:Nord-Marianenes_herrelandslag_i_fotball	owl:sameAs	dbpedia:Northern_Mariana_Islands_national_football_team .
+ns20:Echipa_națională_de_fotbal_a_Insulelor_Marianei_de_Nord	owl:sameAs	dbpedia:Northern_Mariana_Islands_national_football_team .
+ns25:Сборная_Северных_Марианских_островов_по_футболу	owl:sameAs	dbpedia:Northern_Mariana_Islands_national_football_team .
+ns23:Northern_Mariana_Islands_national_football_team	owl:sameAs	dbpedia:Northern_Mariana_Islands_national_football_team .
+ns30:Đội_tuyển_bóng_đá_quốc_gia_Quần_đảo_Bắc_Mariana	owl:sameAs	dbpedia:Northern_Mariana_Islands_national_football_team .
+ns22:北馬里亞納群島足球代表隊	owl:sameAs	dbpedia:Northern_Mariana_Islands_national_football_team .
+<http://dbpedia.org/resource/Michael_Barry_(Northern_Mariana_Island_footballer)>	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Northern_Mariana_Islands_national_football_team .
+dbpedia:Kirk_Schuler	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Northern_Mariana_Islands_national_football_team .
+dbpedia:Steven_McKagen	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Northern_Mariana_Islands_national_football_team .
+dbpedia:Lucas_Knecht	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Northern_Mariana_Islands_national_football_team .
+dbpedia:Peter_Loken	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Northern_Mariana_Islands_national_football_team .
+dbpedia:Sugao_Kambe	dbpedia-owl:managerClub	dbpedia:Northern_Mariana_Islands_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Northern_Mariana_Islands_national_football_team .
+dbpedia:Daniel_Westphal__1	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team .
+dbpedia:Daniel_Stafford__1	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team .
+<http://dbpedia.org/resource/Eric_Cooke_(footballer)>	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Northern_Mariana_Islands_national_football_team .
+dbpedia:Daniel_Stafford	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Northern_Mariana_Islands_national_football_team .
+dbpedia:Nicholas_Swaim	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Northern_Mariana_Islands_national_football_team .
+<http://dbpedia.org/resource/William_Dunn_(Northern_Mariana_Island_footballer)>	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Northern_Mariana_Islands_national_football_team .
+dbpedia:Daniel_Westphal	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Northern_Mariana_Islands_national_football_team .
+dbpedia:Nicholas_Swaim__1	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team .
+dbpedia:Sugao_Kambe__7	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team .
+dbpedia:Lucas_Knecht__1	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team .
+<http://dbpedia.org/resource/Eric_Cooke_(footballer)__1>	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team .
+dbpedia:Joe_Wang_Miller__4	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team .
+dbpedia:Kirk_Schuler__1	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team .
+dbpedia:Peter_Loken__1	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team .
+<http://dbpedia.org/resource/William_Dunn_(Northern_Mariana_Island_footballer)__1>	dbpedia-owl:team	dbpedia:Northern_Mariana_Islands_national_football_team .
+dbpedia:Northern_Mariana_Islands_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Northern_Mariana_Islands_national_football_team .
+dbpedia:Northern_mariana_islands_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Northern_Mariana_Islands_national_football_team .

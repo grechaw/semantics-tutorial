@@ -1,0 +1,322 @@
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87>	dbpprop:before	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	rdf:type	yago:Whole100003553 ,
+		yago:Object100002684 ,
+		<http://dbpedia.org/class/yago/S.S.LazioPlayers> ,
+		yago:PeopleFromBelgrade ,
+		yago:SerbianFootballers ,
+		yago:SerbianExpatriateFootballers .
+@prefix ns3:	<http://schema.org/> .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	rdf:type	ns3:Person .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	rdf:type	dbpedia-owl:Agent ,
+		dbpedia-owl:Person ,
+		yago:PhysicalEntity100001930 .
+@prefix ns5:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	rdf:type	ns5:Q5 ,
+		yago:Contestant109613191 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	rdf:type	dul:Agent ,
+		dul:NaturalPerson ,
+		yago:Player110439851 ,
+		yago:Athlete109820263 ,
+		yago:FootballPlayer110101634 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	rdf:type	foaf:Person ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		ns5:Q215627 ,
+		yago:LivingPeople .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	rdf:type	owl:Thing ,
+		<http://dbpedia.org/class/yago/2006FIFAWorldCupPlayers> ,
+		dbpedia-owl:SoccerPlayer .
+@prefix ns9:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	rdf:type	ns9:Athlete ,
+		yago:ExpatriateFootballersInItaly ,
+		yago:SerieAFootballers ,
+		yago:UEFAEuro2000Players ,
+		yago:SerbiaInternationalFootballers ,
+		yago:SerbianExpatriatesInItaly ,
+		<http://dbpedia.org/class/yago/1998FIFAWorldCupPlayers> ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		yago:RedStarBelgradeFootballers ,
+		dbpedia-owl:Athlete ,
+		<http://dbpedia.org/class/yago/F.C.InternazionaleMilanoPlayers> ,
+		ns9:SoccerPlayer ;
+	owl:sameAs	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+@prefix ns10:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	owl:sameAs	ns10:Dejan_Stanković ,
+		<http://rdf.freebase.com/ns/m.071ns8> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	rdfs:label	"\u5FB7\u626C\u00B7\u65AF\u5766\u79D1\u7EF4\u5947"@zh ,
+		"\u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u0447, \u0414\u0435\u044F\u043D"@ru ,
+		"Dejan Stankovi\u0107"@pt ,
+		"Dejan Stankovi\u0107"@nl ,
+		"Dejan Stankovi\u0107" ,
+		"\u30C7\u30E4\u30F3\u30FB\u30B9\u30BF\u30F3\u30B3\u30D3\u30C3\u30C1"@ja ,
+		"Dejan Stankovi\u0107"@fr ,
+		"Dejan Stankovi\u0107"@es ,
+		"Dejan Stankovi\u0107"@pl ,
+		"Dejan Stankovi\u0107 (Fu\u00DFballspieler, 1978)"@de ,
+		"Dejan Stankovi\u0107"@it ,
+		"\u062F\u064A\u0627\u0646 \u0633\u062A\u0627\u0646\u0643\u0648\u0641\u064A\u062A\u0634"@ar .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	dcterms:subject	category:Inter_Milan_players ,
+		<http://dbpedia.org/resource/Category:2006_FIFA_World_Cup_players> ,
+		category:Yugoslavia_international_footballers ,
+		category:Yugoslav_footballers ,
+		category:Red_Star_Belgrade_footballers ,
+		category:Expatriate_footballers_in_Italy ,
+		category:Serie_A_footballers ,
+		category:UEFA_Euro_2000_players ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:1978_births> ,
+		category:Living_people ,
+		category:Serbia_and_Montenegro_international_footballers ,
+		category:Serbia_and_Montenegro_expatriate_footballers ,
+		category:Serbia_and_Montenegro_expatriates_in_Italy ,
+		<http://dbpedia.org/resource/Category:1998_FIFA_World_Cup_players> ,
+		category:FIFA_Century_Club ,
+		category:Association_football_midfielders ,
+		<http://dbpedia.org/resource/Category:S.S._Lazio_players> ,
+		category:Serbian_footballers ,
+		category:Serbia_international_footballers ,
+		category:Sportspeople_from_Belgrade ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Dejan_Stankovi\u0107_-_Inter_Mailand_(2).jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	dc:description	"Serbian footballer" ,
+		"Serbian footballer" ;
+	foaf:givenName	"Dejan" ;
+	foaf:name	"Dejan Stankovi\u0107" ,
+		"Stankovic, Dejan" ,
+		"Dejan Stankovic" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Dejan_Stankovi\u0107?oldid=604738567> ;
+	rdfs:comment	"Dejan Stankovi\u0107 (in serbo \u0414\u0435\u0458\u0430\u043D \u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u045B[?]; Belgrado, 11 settembre 1978) \u00E8 un ex calciatore serbo, di ruolo centrocampista.Con 6 scudetti, 5 Coppe Italia e 6 Supercoppe italiane (record individuale assoluto) conquistati, \u00E8 uno dei calciatori pi\u00F9 vincenti nelle competizioni calcistiche italiane. Detiene inoltre, il record assoluto di presenze (103) con la maglia della Nazionale serba."@it ,
+		"Dejan Stankovi\u0107 (Servisch: \u0414\u0435\u0458\u0430\u043D \u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u045B) (Zemun, 11 september 1978) is een Servisch betaald voetballer die bij voorkeur op het middenveld speelt. Hij tekende in de winterstop van het seizoen 2003/04 een contract bij Inter Milan, dat hem overnam van SS Lazio. Stankovi\u0107 speelde in april 1998 zijn eerste van meer dan honderd interlands voor de Joegoslavische-, Servisch-Montenegrijnse- en Servische nationale ploegen. Zijn bijnaam is Deki."@nl ,
+		"Dejan Stankovi\u0107 (cyryl. \u0414\u0435\u0458\u0430\u043D \u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u045B, wym. [d\u032A\u025B\u0302jan s\u032At\u032A\u01CE\u02D0\u014Bk\u0254\u028Bit\u0361\u0255]; ur. 11 wrze\u015Bnia 1978 w Zemun) \u2013 serbski pi\u0142karz graj\u0105cy na pozycji pomocnika. W latach od 2006 do 2011 kapitan reprezentacji Serbii. Jako pierwszy zagra\u0142 na Mistrzostwach \u015Awiata w barwach trzech r\u00F3\u017Cnych reprezentacji: Jugos\u0142awii, Serbii i Czarnog\u00F3ry oraz Serbii."@pl ,
+		"Dejan Stankovi\u0107 \u2014 em s\u00E9rvio, \u0414\u0435\u0458\u0430\u043D \u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u045B \u2014 (Belgrado, 11 de setembro de 1978) \u00E9 um ex-futebolista s\u00E9rvio que atuava como meia."@pt ,
+		"\u0414\u0435\u0301\u044F\u043D \u0421\u0442\u0430\u0301\u043D\u043A\u043E\u0432\u0438\u0447 (\u0441\u0435\u0440\u0431. \u0414\u0435\u0458\u0430\u043D \u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u045B / Dejan Stankovi\u0107; 11 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1978, \u0411\u0435\u043B\u0433\u0440\u0430\u0434) \u2014 \u0431\u044B\u0432\u0448\u0438\u0439 \u0441\u0435\u0440\u0431\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A, \u0431\u044B\u043B \u043A\u0430\u043F\u0438\u0442\u0430\u043D\u043E\u043C \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u0435\u0440\u0431\u0438\u0438."@ru ,
+		"Dejan Stankovi\u0107 (Serbian Cyrillic: \u0414\u0435\u0458\u0430\u043D \u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u045B, Serbian pronunciation: [d\u025B\u0302jan st\u01CE\u02D0\u014Bk\u0254\u028Bit\u0361\u0255], born 11 September 1978) is a retired Serbian association football player. He captained the Serbian national football team until 2011, when he announced his retirement from international football. He is an attacking midfielder who can also play out wide on the wings or track back in a defensive midfield role." ,
+		"\u062F\u064A\u0627\u0646 \u0633\u062A\u0627\u0646\u0643\u0648\u0641\u064A\u062A\u0634 (\u0628\u0627\u0644\u0635\u0631\u0628\u064A\u0629: \u0414\u0435\u0458\u0430\u043D \u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u045B) (\u0648\u0644\u062F \u0641\u064A 11 \u0633\u0628\u062A\u0645\u0628\u0631 1978) \u0647\u0648 \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0635\u0631\u0628\u064A. \u0648\u0644\u062F \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0628\u0644\u063A\u0631\u0627\u062F \u0627\u0644\u062A\u064A \u0643\u0627\u0646\u062A \u0641\u064A \u064A\u0648\u063A\u0648\u0633\u0644\u0627\u0641\u064A\u0627\u060C \u0648\u0647\u064A \u0627\u0644\u0622\u0646 \u0639\u0627\u0635\u0645\u0629 \u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0635\u0631\u0628\u064A\u0627.\u0623\u0646\u0647\u0649 \u062F\u064A\u0627\u0646 \u0633\u062A\u0627\u0646\u0643\u0648\u0641\u064A\u062A\u0634 \u062A\u0639\u0627\u0642\u062F\u0647 \u0645\u0639 \u0625\u0646\u062A\u0631\u0646\u0627\u0633\u064A\u0648\u0646\u0627\u0644\u064A \u0628\u0639\u062F \u062A\u0633\u0639 \u0633\u0646\u0648\u0627\u062A \u0623\u0645\u0636\u0627\u0647\u0627 \u0645\u0639 \u0625\u0646\u062A\u0631 \u0645\u064A\u0644\u0627\u0646 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A \u0641\u064A \u064A\u0648\u0644\u064A\u0648 2013\u060C \u0648\u0642\u062F \u0644\u0639\u0628 \u0645\u0633\u0628\u0642\u0627\u064B \u0641\u064A \u0635\u0641\u0648\u0641 \u0646\u0627\u062F\u064A \u0627\u0644\u0646\u062C\u0645 \u0627\u0644\u0623\u062D\u0645\u0631 \u0627\u0644\u0635\u0631\u0628\u064A\u060C \u0648\u0646\u0627\u062F\u064A \u0644\u0627\u062A\u0633\u064A\u0648 \u0645\u0646 \u0631\u0648\u0645\u0627\u060C \u0625\u064A\u0637\u0627\u0644\u064A\u0627. \u0623\u0648\u0644 \u0638\u0647\u0648\u0631 \u062F\u0648\u0644\u064A \u0644\u0647 \u0643\u0627\u0646\u062A \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u064A\u0648\u063A\u0648\u0633\u0644\u0627\u0641\u064A\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0627\u0644\u0633\u0627\u0628\u0642 \u0623\u0645\u0627\u0645 \u0645\u0646\u062A\u062E\u0628 \u0643\u0648\u0631\u064A\u0627 \u0627\u0644\u062C\u0646\u0648\u0628\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A 22 \u0623\u0628\u0631\u064A\u0644 1998."@ar ,
+		"Dejan Stankovi\u0107 (* 11. September 1978 in Belgrad, SFR Jugoslawien) ist ein ehemaliger serbischer Fu\u00DFballspieler. Von 2004 bis 2013 spielte er f\u00FCr Inter Mailand. Er war Kapit\u00E4n und ist gem\u00E4\u00DF FIFA- und UEFA-Regeln Rekordspieler der serbischen Nationalmannschaft, da Spiele der serbischen, serbisch-montenegrinischen und jugoslawischen Mannschaften in deren Statistiken zusammengefasst werden."@de ,
+		"\u30C7\u30E4\u30F3\u30FB\u30B9\u30BF\u30F3\u30B3\u30D3\u30C3\u30C1\uFF08\u30BB\u30EB\u30D3\u30A2\u8A9E: \u0414\u0435\u0458\u0430\u043D \u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u045B\u3001\u82F1\u8A9E: Dejan Stankovi\u0107\u30011978\u5E749\u670811\u65E5 - \uFF09\u306F\u3001\u30BB\u30EB\u30D3\u30A2\uFF08\u65E7\u30E6\u30FC\u30B4\u30B9\u30E9\u30D3\u30A2\uFF09\u51FA\u8EAB\u306E\u5143\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u5143\u30E6\u30FC\u30B4\u30B9\u30E9\u30D3\u30A2\u3001\u30BB\u30EB\u30D3\u30A2\u30FB\u30E2\u30F3\u30C6\u30CD\u30B0\u30ED\u3001\u30BB\u30EB\u30D3\u30A2\u4EE3\u8868\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\u3002"@ja ,
+		"Dejan Stankovi\u0107 en serbe cyrillique \u0414\u0435\u0458\u0430\u043D \u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u045B, n\u00E9 le 11 septembre 1978 \u00E0 Belgrade (Serbie), est un footballeur serbe, \u00E9voluant au poste de meneur de jeu en \u00E9quipe de Serbie."@fr ,
+		"\u5FB7\u63DA\u00B7\u65AF\u5766\u79D1\u7DAD\u5947\uFF08\u585E\u723E\u7DAD\u4E9E\u8A9E\uFF1A\u0414\u0435\u0458\u0430\u043D \u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u045B\uFF0CDejan Stankovi\u0107\uFF0C1978\u5E749\u670811\u65E5\uFF0D\uFF09\uFF0C\u5DF2\u9000\u5F79\u585E\u723E\u7DAD\u4E9E\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u53F8\u8077\u4E2D\u5834\u3002\u4ED6\u4EE5\u6709\u6548\u51C6\u786E\u7684\u4F20\u7403\u548C\u7CBE\u6E5B\u7684\u8FDC\u5C04\u811A\u6CD5\u800C\u95FB\u540D\u3002"@zh ,
+		"Dejan Stankovi\u0107 (Belgrado, Serbia; 11 de septiembre de 1978) es un futbolista serbio, destacado por su fuerte disparo. Actualmente retirado tras rescindir contrato en el Inter de Mil\u00E1n, con el que ha ganado cuatro Ligas italianas, dos Copas de Italia y tres Supercopas de Italia, adem\u00E1s de una Liga de Campeones de la UEFA."@es ;
+	foaf:surname	"Stankovic" ;
+	dbpprop:n	10 ,
+		11 ,
+		8 ,
+		9 ,
+		14 ,
+		15 ,
+		12 ,
+		13 ,
+		2 ,
+		3 ,
+		1 ,
+		6 ,
+		7 ,
+		4 ,
+		5 .
+@prefix ns16:	<http://en.wikipedia.org/wiki/> .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	foaf:isPrimaryTopicOf	ns16:Dejan_Stanković .
+@prefix ns17:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	dbpprop:hasPhotoCollection	ns17:Dejan_Stanković ;
+	dbpprop:caption	"Stankovi\u0107 with Internazionale in 2009" ;
+	dbpprop:name	"Stankovic, Dejan" ,
+		"Dejan Stankovi\u0107" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Dejan_Stankovi\u0107_-_Inter_Mailand_(2).jpg?width=300> ;
+	dbpedia-owl:abstract	"\u5FB7\u63DA\u00B7\u65AF\u5766\u79D1\u7DAD\u5947\uFF08\u585E\u723E\u7DAD\u4E9E\u8A9E\uFF1A\u0414\u0435\u0458\u0430\u043D \u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u045B\uFF0CDejan Stankovi\u0107\uFF0C1978\u5E749\u670811\u65E5\uFF0D\uFF09\uFF0C\u5DF2\u9000\u5F79\u585E\u723E\u7DAD\u4E9E\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u53F8\u8077\u4E2D\u5834\u3002\u4ED6\u4EE5\u6709\u6548\u51C6\u786E\u7684\u4F20\u7403\u548C\u7CBE\u6E5B\u7684\u8FDC\u5C04\u811A\u6CD5\u800C\u95FB\u540D\u3002"@zh ,
+		"\u062F\u064A\u0627\u0646 \u0633\u062A\u0627\u0646\u0643\u0648\u0641\u064A\u062A\u0634 (\u0628\u0627\u0644\u0635\u0631\u0628\u064A\u0629: \u0414\u0435\u0458\u0430\u043D \u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u045B) (\u0648\u0644\u062F \u0641\u064A 11 \u0633\u0628\u062A\u0645\u0628\u0631 1978) \u0647\u0648 \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0635\u0631\u0628\u064A. \u0648\u0644\u062F \u0641\u064A \u0645\u062F\u064A\u0646\u0629 \u0628\u0644\u063A\u0631\u0627\u062F \u0627\u0644\u062A\u064A \u0643\u0627\u0646\u062A \u0641\u064A \u064A\u0648\u063A\u0648\u0633\u0644\u0627\u0641\u064A\u0627\u060C \u0648\u0647\u064A \u0627\u0644\u0622\u0646 \u0639\u0627\u0635\u0645\u0629 \u062C\u0645\u0647\u0648\u0631\u064A\u0629 \u0635\u0631\u0628\u064A\u0627.\u0623\u0646\u0647\u0649 \u062F\u064A\u0627\u0646 \u0633\u062A\u0627\u0646\u0643\u0648\u0641\u064A\u062A\u0634 \u062A\u0639\u0627\u0642\u062F\u0647 \u0645\u0639 \u0625\u0646\u062A\u0631\u0646\u0627\u0633\u064A\u0648\u0646\u0627\u0644\u064A \u0628\u0639\u062F \u062A\u0633\u0639 \u0633\u0646\u0648\u0627\u062A \u0623\u0645\u0636\u0627\u0647\u0627 \u0645\u0639 \u0625\u0646\u062A\u0631 \u0645\u064A\u0644\u0627\u0646 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A \u0641\u064A \u064A\u0648\u0644\u064A\u0648 2013\u060C \u0648\u0642\u062F \u0644\u0639\u0628 \u0645\u0633\u0628\u0642\u0627\u064B \u0641\u064A \u0635\u0641\u0648\u0641 \u0646\u0627\u062F\u064A \u0627\u0644\u0646\u062C\u0645 \u0627\u0644\u0623\u062D\u0645\u0631 \u0627\u0644\u0635\u0631\u0628\u064A\u060C \u0648\u0646\u0627\u062F\u064A \u0644\u0627\u062A\u0633\u064A\u0648 \u0645\u0646 \u0631\u0648\u0645\u0627\u060C \u0625\u064A\u0637\u0627\u0644\u064A\u0627. \u0623\u0648\u0644 \u0638\u0647\u0648\u0631 \u062F\u0648\u0644\u064A \u0644\u0647 \u0643\u0627\u0646\u062A \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u064A\u0648\u063A\u0648\u0633\u0644\u0627\u0641\u064A\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0627\u0644\u0633\u0627\u0628\u0642 \u0623\u0645\u0627\u0645 \u0645\u0646\u062A\u062E\u0628 \u0643\u0648\u0631\u064A\u0627 \u0627\u0644\u062C\u0646\u0648\u0628\u064A\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A 22 \u0623\u0628\u0631\u064A\u0644 1998. \u0648\u0647\u0648 \u0627\u0644\u0642\u0627\u0626\u062F \u0627\u0644\u062D\u0627\u0644\u064A \u0644\u0645\u0646\u062A\u062E\u0628 \u0635\u0631\u0628\u064A\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645.\u0628\u062F\u0623 \u0643\u0644\u0627\u0639\u0628 \u0645\u062D\u062A\u0631\u0641 \u0641\u064A \u0639\u0627\u0645 1994 \u0641\u064A \u0628\u0644\u062F\u0647 \u064A\u0648\u063A\u0648\u0633\u0644\u0627\u0641\u064A\u0627 \u0627\u0644\u0633\u0627\u0628\u0642\u0629\u060C \u0648\u0642\u062F \u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0627\u0644\u0646\u062C\u0645 \u0627\u0644\u0623\u062D\u0645\u0631 \u0627\u0644\u0645\u0639\u0631\u0648\u0641\u060C \u0648\u0623\u0648\u0644 \u0645\u0648\u0633\u0645 \u0643\u0627\u0646 1994 - 1995. \u0633\u062C\u0644 \u0623\u0648\u0644 \u0623\u0647\u062F\u0627\u0641\u0647 \u0623\u0645\u0627\u0645 \u0646\u0627\u062F\u064A \u0628\u0648\u062F\u0648\u062A\u0634\u0646\u0648\u0633\u062A \u0628\u0648\u062F\u063A\u0648\u0631\u064A\u062A\u0633\u0627 (\u0641\u064A \u0627\u0644\u062C\u0628\u0644 \u0627\u0644\u0623\u0633\u0648\u062F \u062D\u0627\u0644\u064A\u0627\u064B). \u0628\u0639\u062F \u062D\u0638\u0631 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0644\u064A\u0648\u063A\u0648\u0633\u0644\u0627\u0641\u064A\u0627\u060C \u0644\u0645 \u064A\u062A\u0645\u0643\u0646 \u0627\u0644\u0646\u0627\u062F\u064A \u0628\u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629 \u0641\u064A \u0623\u064A\u0629 \u0628\u0637\u0648\u0644\u0629 \u0623\u0648\u0631\u0648\u0628\u064A\u0629. \u0648\u0644\u0643\u0646 \u0628\u0639\u062F \u0623\u0646 \u0631\u0641\u0639 \u0627\u0644\u062D\u0638\u0631 \u0641\u064A \u0645\u0648\u0633\u0645 1996 - 1997\u060C \u0623\u0628\u0644\u0649 \u0633\u062A\u0627\u0646\u0643\u0648\u0641\u064A\u062A\u0634 \u0628\u0644\u0627\u0621 \u062D\u0633\u0646\u0627\u064B \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0623\u0628\u0637\u0627\u0644 \u0627\u0644\u0643\u0624\u0648\u0633 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 \u0627\u0644\u0633\u0627\u0628\u0642\u0629.\u0641\u064A \u0635\u064A\u0641 \u0639\u0627\u0645 1998 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u0648\u0628\u0627\u0644\u062A\u062D\u062F\u064A\u062F \u0625\u0644\u0649 \u0631\u0648\u0645\u0627 \u0644\u0644\u0639\u0628 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0644\u0627\u062A\u0633\u064A\u0648 \u0644\u0642\u0627\u0621 7.5 \u0645\u0644\u064A\u0648\u0646 \u062C\u0646\u064A\u0647 \u0625\u0633\u062A\u0631\u0644\u064A\u0646\u064A. \u0633\u0627\u0647\u0645 \u0628\u0634\u0643\u0644 \u0645\u0645\u064A\u0632 \u0645\u0639 \u0627\u0644\u0646\u0627\u062F\u064A\u060C \u0648\u0645\u0646 \u062B\u0645 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0625\u0646\u062A\u0631 \u0645\u064A\u0644\u0627\u0646 \u0641\u064A \u064A\u0646\u0627\u064A\u0631 \u0639\u0627\u0645 2004 \u0631\u063A\u0645 \u0631\u063A\u0628\u0629 \u0646\u0627\u062F\u064A \u064A\u0648\u0641\u064A\u0646\u062A\u0648\u0633 \u0628\u0627\u0644\u062D\u0635\u0648\u0644 \u0639\u0644\u0649 \u0639\u0642\u062F \u0645\u0639\u0647.\u0639\u0644\u0649 \u0635\u0639\u064A\u062F \u0627\u0644\u0645\u0646\u062A\u062E\u0628\u060C \u0634\u0627\u0631\u0643 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 1998 \u0641\u064A \u0641\u0631\u0646\u0633\u0627 \u0636\u0645\u0646 \u0645\u0646\u062A\u062E\u0628 \u064A\u0648\u063A\u0648\u0633\u0644\u0627\u0641\u064A\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0627\u0644\u0630\u064A \u0648\u0635\u0644 \u0625\u0644\u0649 \u0627\u0644\u062F\u0648\u0631 \u0627\u0644\u062B\u0627\u0646\u064A\u060C \u0648\u0623\u0642\u0635\u064A \u0628\u0639\u062F \u062E\u0633\u0627\u0631\u062A\u0647 \u0623\u0645\u0627\u0645 \u0645\u0646\u062A\u062E\u0628 \u0647\u0648\u0644\u0646\u062F\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645. \u0648\u0634\u0627\u0631\u0643 \u0623\u064A\u0636\u0627\u064B \u0645\u0639 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0641\u064A \u0643\u0623\u0633 \u0627\u0644\u0623\u0645\u0645 \u0627\u0644\u0623\u0648\u0631\u0648\u0628\u064A\u0629 \u0639\u0627\u0645 2000\u060C \u0648\u0627\u0644\u0630\u064A \u0623\u0642\u0635\u0627\u0647 \u0646\u0641\u0633 \u0627\u0644\u0641\u0631\u064A\u0642 (\u0647\u0648\u0644\u0646\u062F\u0627) \u0641\u064A \u0631\u0628\u0639 \u0627\u0644\u0646\u0647\u0627\u0626\u064A. \u0643\u0645\u0627 \u0634\u0627\u0631\u0643 \u0641\u064A \u0628\u0637\u0648\u0644\u0629 \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 2006 \u0641\u064A \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0635\u0631\u0628\u064A\u0627 \u0648\u0627\u0644\u062C\u0628\u0644 \u0627\u0644\u0623\u0633\u0648\u062F \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0627\u0644\u0630\u064A \u062E\u0631\u062C \u0645\u0646 \u0627\u0644\u0628\u0637\u0648\u0644\u0629 \u0628\u062F\u0648\u0646 \u0623\u064A\u0629 \u0646\u0642\u0637\u0629. \u0623\u0639\u0644\u0646 \u062F\u064A\u0627\u0646 \u0633\u062A\u0627\u0646\u0643\u0648\u0641\u064A\u062A\u0634 \u0627\u0639\u062A\u0632\u0627\u0644\u0647 \u0627\u0644\u0644\u0639\u0628 \u062F\u0648\u0644\u064A\u0627\u064B \u0628\u0639\u062F \u0625\u0642\u0635\u0627\u0621 \u0645\u0646\u062A\u062E\u0628 \u0628\u0644\u0627\u062F\u0647 \u0645\u0646\u062A\u062E\u0628 \u0635\u0631\u0628\u064A\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0646 \u062A\u0635\u0641\u064A\u0627\u062A \u0643\u0623\u0633 \u0623\u0648\u0631\u0648\u0628\u0627 2012 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645."@ar ,
+		"Dejan Stankovi\u0107 (in serbo \u0414\u0435\u0458\u0430\u043D \u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u045B[?]; Belgrado, 11 settembre 1978) \u00E8 un ex calciatore serbo, di ruolo centrocampista.Con 6 scudetti, 5 Coppe Italia e 6 Supercoppe italiane (record individuale assoluto) conquistati, \u00E8 uno dei calciatori pi\u00F9 vincenti nelle competizioni calcistiche italiane. Detiene inoltre, il record assoluto di presenze (103) con la maglia della Nazionale serba."@it ,
+		"Dejan Stankovi\u0107 (Serbian Cyrillic: \u0414\u0435\u0458\u0430\u043D \u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u045B, Serbian pronunciation: [d\u025B\u0302jan st\u01CE\u02D0\u014Bk\u0254\u028Bit\u0361\u0255], born 11 September 1978) is a retired Serbian association football player. He captained the Serbian national football team until 2011, when he announced his retirement from international football. He is an attacking midfielder who can also play out wide on the wings or track back in a defensive midfield role. \"Deki\", as he is nicknamed, is best known for his effective, accurate passing, versatility and creativity as well as his ability to score goals from long distance.On 13 June 2010 Stankovi\u0107 became the first player to have represented three different national teams in the FIFA World Cup: FR Yugoslavia, Serbia and Montenegro and Serbia.Stankovi\u0107 grew up in Zemun, a municipality of Belgrade. Both of his parents, Borislav and Dragica, have strong football backgrounds.Stankovi\u0107 began playing football for FK Teleoptik, based in his neighbourhood of Zemun. When spotted by Red Star cadet squad coach Branko Radovi\u0107, however, 14-year-old Dejan transferred to Red Star Belgrade's youth system." ,
+		"\u0414\u0435\u0301\u044F\u043D \u0421\u0442\u0430\u0301\u043D\u043A\u043E\u0432\u0438\u0447 (\u0441\u0435\u0440\u0431. \u0414\u0435\u0458\u0430\u043D \u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u045B / Dejan Stankovi\u0107; 11 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1978, \u0411\u0435\u043B\u0433\u0440\u0430\u0434) \u2014 \u0431\u044B\u0432\u0448\u0438\u0439 \u0441\u0435\u0440\u0431\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A, \u0431\u044B\u043B \u043A\u0430\u043F\u0438\u0442\u0430\u043D\u043E\u043C \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u0435\u0440\u0431\u0438\u0438."@ru ,
+		"Dejan Stankovi\u0107 (cyryl. \u0414\u0435\u0458\u0430\u043D \u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u045B, wym. [d\u032A\u025B\u0302jan s\u032At\u032A\u01CE\u02D0\u014Bk\u0254\u028Bit\u0361\u0255]; ur. 11 wrze\u015Bnia 1978 w Zemun) \u2013 serbski pi\u0142karz graj\u0105cy na pozycji pomocnika. W latach od 2006 do 2011 kapitan reprezentacji Serbii. Jako pierwszy zagra\u0142 na Mistrzostwach \u015Awiata w barwach trzech r\u00F3\u017Cnych reprezentacji: Jugos\u0142awii, Serbii i Czarnog\u00F3ry oraz Serbii."@pl ,
+		"Dejan Stankovi\u0107 (Servisch: \u0414\u0435\u0458\u0430\u043D \u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u045B) (Zemun, 11 september 1978) is een Servisch betaald voetballer die bij voorkeur op het middenveld speelt. Hij tekende in de winterstop van het seizoen 2003/04 een contract bij Inter Milan, dat hem overnam van SS Lazio. Stankovi\u0107 speelde in april 1998 zijn eerste van meer dan honderd interlands voor de Joegoslavische-, Servisch-Montenegrijnse- en Servische nationale ploegen. Zijn bijnaam is Deki. Door een zware blessure kwam hij gedurende het seizoen 2012/13 slechts driemaal in actie."@nl ,
+		"Dejan Stankovi\u0107 (* 11. September 1978 in Belgrad, SFR Jugoslawien) ist ein ehemaliger serbischer Fu\u00DFballspieler. Von 2004 bis 2013 spielte er f\u00FCr Inter Mailand. Er war Kapit\u00E4n und ist gem\u00E4\u00DF FIFA- und UEFA-Regeln Rekordspieler der serbischen Nationalmannschaft, da Spiele der serbischen, serbisch-montenegrinischen und jugoslawischen Mannschaften in deren Statistiken zusammengefasst werden."@de ,
+		"Dejan Stankovi\u0107 \u2014 em s\u00E9rvio, \u0414\u0435\u0458\u0430\u043D \u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u045B \u2014 (Belgrado, 11 de setembro de 1978) \u00E9 um ex-futebolista s\u00E9rvio que atuava como meia."@pt ,
+		"\u30C7\u30E4\u30F3\u30FB\u30B9\u30BF\u30F3\u30B3\u30D3\u30C3\u30C1\uFF08\u30BB\u30EB\u30D3\u30A2\u8A9E: \u0414\u0435\u0458\u0430\u043D \u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u045B\u3001\u82F1\u8A9E: Dejan Stankovi\u0107\u30011978\u5E749\u670811\u65E5 - \uFF09\u306F\u3001\u30BB\u30EB\u30D3\u30A2\uFF08\u65E7\u30E6\u30FC\u30B4\u30B9\u30E9\u30D3\u30A2\uFF09\u51FA\u8EAB\u306E\u5143\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u5143\u30E6\u30FC\u30B4\u30B9\u30E9\u30D3\u30A2\u3001\u30BB\u30EB\u30D3\u30A2\u30FB\u30E2\u30F3\u30C6\u30CD\u30B0\u30ED\u3001\u30BB\u30EB\u30D3\u30A2\u4EE3\u8868\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\u3002"@ja ,
+		"Dejan Stankovi\u0107 (Belgrado, Serbia; 11 de septiembre de 1978) es un futbolista serbio, destacado por su fuerte disparo. Actualmente retirado tras rescindir contrato en el Inter de Mil\u00E1n, con el que ha ganado cuatro Ligas italianas, dos Copas de Italia y tres Supercopas de Italia, adem\u00E1s de una Liga de Campeones de la UEFA."@es ,
+		"Dejan Stankovi\u0107 en serbe cyrillique \u0414\u0435\u0458\u0430\u043D \u0421\u0442\u0430\u043D\u043A\u043E\u0432\u0438\u045B, n\u00E9 le 11 septembre 1978 \u00E0 Belgrade (Serbie), est un footballeur serbe, \u00E9voluant au poste de meneur de jeu en \u00E9quipe de Serbie. Il fait partie de la s\u00E9lection de l'\u00E9quipe de la R\u00E9publique f\u00E9d\u00E9rale de Yougoslavie lors de la Coupe du Monde 1998 en France et de l'Euro 2000 en Belgique et aux Pays-Bas, puis de la s\u00E9lection de Serbie-et-Mont\u00E9n\u00E9gro pour la Coupe du Monde 2006 en Allemagne, et enfin de la s\u00E9lection serbe lors de la Coupe du monde 2010 en Afrique du Sud. Du fait de l'histoire de son pays, il est ainsi le premier footballeur joueur pour trois s\u00E9lections en Coupe du monde de football.Stankovi\u0107 marque 15 buts lors de ses 96 s\u00E9lections avec l'\u00E9quipe de Serbie (cumul Yougoslavie, Serbie-Mont\u00E9n\u00E9gro et Serbie)."@fr ;
+	dbpedia-owl:wikiPageID	2295378 ;
+	dbpedia-owl:wikiPageRevisionID	604738567 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	dbpprop:birthDate	"1978-09-11+02:00"^^xsd:date .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	dbpprop:birthPlace	dbpedia:Belgrade ,
+		dbpedia:Socialist_Federal_Republic_of_Yugoslavia ;
+	dbpprop:dateOfBirth	"1978-09-11+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Belgrade, Serbia" ;
+	dbpprop:shortDescription	"Serbian footballer" ;
+	dbpedia-owl:birthDate	"1978-09-11+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Belgrade ,
+		dbpedia:Serbia_national_football_team ,
+		dbpedia:Socialist_Federal_Republic_of_Yugoslavia ;
+	dbpedia-owl:birthYear	"1978+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	250 ;
+	dbpprop:sc	2 ,
+		3 ,
+		0 ,
+		1 ;
+	dbpprop:co	"Republic of Macedonia" ,
+		"Faroe Islands" ,
+		"Croatia" ,
+		"Yugoslavia" ,
+		"Serbia and Montenegro" ,
+		"Republic of Ireland" ,
+		"Poland" ,
+		"Serbia" ;
+	dbpprop:ci	"Zagreb" ,
+		"T\u00F3rshavn" ,
+		"Toftir" ,
+		"Skopje" ,
+		"Ni\u0161" ,
+		"Belgrade" ,
+		"Dublin" ,
+		"Plock" ;
+	dbpprop:comp	dbpedia:UEFA_Euro_2012_qualifying_Group_C ,
+		2002 ,
+		2006 ,
+		dbpedia:UEFA_Euro_2000_qualifying ,
+		dbpedia:Exhibition_game ,
+		dbpedia:UEFA_Euro_2008_qualifying ;
+	dbpprop:fr	4 ,
+		5 ,
+		0 ,
+		1 ,
+		2 ,
+		3 ;
+	dbpprop:st	"Stadion Crvena Zvezda" ,
+		"\u010Cair Stadium" ,
+		"Kazimierz G\u00F3rski Stadium" ,
+		"Maksimir Stadium" ,
+		"Lansdowne Road" ,
+		"T\u00F3rsv\u00F8llur" ,
+		"Svangaskard" ,
+		"Stadion FK Partizan" ,
+		"Philip II Arena" ;
+	dbpprop:after	<http://dbpedia.org/resource/Nikola_%C5%BDigi%C4%87> ,
+		dbpedia:Aleksandar_Kolarov ;
+	dbpprop:before	<http://dbpedia.org/resource/Nemanja_Vidi%C4%87> ,
+		<http://dbpedia.org/resource/Milo%C5%A1_Krasi%C4%87> ,
+		<http://dbpedia.org/resource/Savo_Milo%C5%A1evi%C4%87> ;
+	dbpprop:goals	30 ,
+		29 ,
+		22 ;
+	dbpprop:d	"1999-09-08+02:00"^^xsd:date ,
+		"1999-09-01+02:00"^^xsd:date ,
+		"1999-10-09+02:00"^^xsd:date ,
+		"2006-10-11+02:00"^^xsd:date ,
+		"2010-09-03+02:00"^^xsd:date ,
+		"1998-04-22+02:00"^^xsd:date ,
+		"2004-10-13+02:00"^^xsd:date ,
+		"1998-09-02+02:00"^^xsd:date ,
+		"2003-11-16+02:00"^^xsd:date ,
+		"2006-05-27+02:00"^^xsd:date ,
+		6 ,
+		5 ;
+	dbpprop:caps	85 ,
+		137 ,
+		231 ;
+	dbpprop:years	2010 ,
+		2006 ,
+		2004 ,
+		1994 ,
+		1998 ;
+	dbpprop:youthclubs	dbpedia:Red_Star_Belgrade ,
+		dbpedia:FK_Teleoptik ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87__3> ,
+		<http://dbpedia.org/resource/Dejan_Stankovi%C4%87__6> ,
+		<http://dbpedia.org/resource/Dejan_Stankovi%C4%87__2> ,
+		<http://dbpedia.org/resource/Dejan_Stankovi%C4%87__5> ,
+		<http://dbpedia.org/resource/Dejan_Stankovi%C4%87__4> ,
+		<http://dbpedia.org/resource/Dejan_Stankovi%C4%87__1> ;
+	dbpprop:position	dbpedia:Midfielder ;
+	dbpedia-owl:position	dbpedia:Midfielder ;
+	dbpedia-owl:height	1.8100000000000000533 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	ns21:height	"181.0"^^ns20:centimetre ;
+	dbpprop:fullname	"Dejan Stankovi\u0107" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/S.S._Lazio> ,
+		dbpedia:Inter_Milan ,
+		dbpedia:Red_Star_Belgrade ;
+	dbpedia-owl:team	dbpedia:Red_Star_Belgrade ,
+		<http://dbpedia.org/resource/S.S._Lazio> ,
+		dbpedia:Inter_Milan ,
+		dbpedia:FK_Teleoptik ,
+		dbpedia:Serbia_national_football_team .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Dejan_Stankovi%C4%87>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Serbia captain" ,
+		dbpedia:Serbian_Footballer_of_the_Year ;
+	dbpprop:pcupdate	"--03-10+02:00"^^xsd:gMonthDay ;
+	dbpprop:youthyears	1992 ,
+		1985 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.reprezentacija.rs/index.php?option=com_content&view=article&id=1517> ,
+		<http://www.inter.it/aas/squadra/player1?codgioc=G0764&L=en&stagione=2007> ,
+		<http://www.pressonline.rs/page/stories/sr.html?view=story&id=29722&sectionId=37> ,
+		<http://leblogfoot.eurosport.fr/football/personnews_prs146.shtml> ;
+	dbpprop:nationalcaps	103 ;
+	dbpprop:nationalgoals	15 ;
+	dbpprop:nationalteam	dbpedia:Serbia_national_football_team ;
+	dbpprop:nationalyears	1998 ;
+	dbpprop:o	"Faroe Islands" ,
+		"San Marino" ,
+		"Republic of Ireland" ,
+		"Korea Republic" ,
+		"Poland" ,
+		"Switzerland" ,
+		"Armenia" ,
+		"Cameroon" ,
+		"Croatia" ,
+		"Uruguay" ,
+		"Macedonia" ;
+	dbpprop:ntupdate	"--10-11+02:00"^^xsd:gMonthDay ;
+	dbpprop:totalcaps	453 ;
+	dbpprop:totalgoals	81 .
+ns16:Dejan_Stanković	foaf:primaryTopic	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/Stankovi%C4%87>	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/1999%E2%80%932000_S.S._Lazio_season>	dbpprop:name	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+dbpedia:Dejan_Stanković	owl:sameAs	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/2010%E2%80%9311_F.C._Internazionale_Milano_season>	dbpprop:p	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/2011%E2%80%9312_F.C._Internazionale_Milano_season>	dbpprop:name	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/Savo_Milo%C5%A1evi%C4%87>	dbpprop:after	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/Milo%C5%A1_Krasi%C4%87>	dbpprop:after	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/2006_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+dbpedia:Serbia_and_Montenegro_national_football_team	dbpprop:name	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/1998_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/2010_FIFA_Club_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/2006%E2%80%9307_F.C._Internazionale_Milano_season>	dbpprop:name	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+dbpedia:Serbia_national_football_team	dbpprop:mostCaps	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> ;
+	dbpprop:text	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/2004%E2%80%9305_F.C._Internazionale_Milano_season>	dbpprop:name	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/2008%E2%80%9309_F.C._Internazionale_Milano_season>	dbpprop:p	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/2009%E2%80%9310_F.C._Internazionale_Milano_season>	dbpprop:p	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/2007%E2%80%9308_F.C._Internazionale_Milano_season>	dbpprop:p	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+dbpedia:UEFA_Euro_2000_squads	dbpprop:name	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/1998%E2%80%9399_S.S._Lazio_season>	dbpprop:name	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/2003%E2%80%9304_F.C._Internazionale_Milano_season>	dbpprop:name	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/2003%E2%80%9304_F.C._Internazionale_Milano_season__Dejan_Stankovi%C4%87__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/1998%E2%80%9399_S.S._Lazio_season__Dejan_Stankovi%C4%87__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/2004%E2%80%9305_F.C._Internazionale_Milano_season__Dejan_Stankovi%C4%87__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/2006%E2%80%9307_F.C._Internazionale_Milano_season__Dejan_Stankovi%C4%87__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/1999%E2%80%932000_S.S._Lazio_season__Dejan_Stankovi%C4%87__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+dbpedia:Dejan_Stankovic	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+dbpedia:Stankovic	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .
+<http://dbpedia.org/resource/2011%E2%80%9312_F.C._Internazionale_Milano_season__Dejan_Stankovi%C4%87__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Dejan_Stankovi%C4%87> .

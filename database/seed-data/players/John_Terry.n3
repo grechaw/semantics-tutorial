@@ -1,0 +1,459 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://fr.dbpedia.org/resource/John_Terry_(football)>	owl:sameAs	dbpedia:John_Terry .
+@prefix ns2:	<http://de.dbpedia.org/resource/> .
+ns2:John_Terry	owl:sameAs	dbpedia:John_Terry .
+@prefix ns3:	<http://wikidata.dbpedia.org/resource/> .
+ns3:Q83456	owl:sameAs	dbpedia:John_Terry .
+@prefix ns4:	<http://cs.dbpedia.org/resource/> .
+ns4:John_Terry	owl:sameAs	dbpedia:John_Terry .
+@prefix ns5:	<http://el.dbpedia.org/resource/> .
+ns5:Τζον_Τέρι	owl:sameAs	dbpedia:John_Terry .
+@prefix ns6:	<http://id.dbpedia.org/resource/> .
+ns6:John_Terry	owl:sameAs	dbpedia:John_Terry .
+@prefix ns7:	<http://it.dbpedia.org/resource/> .
+ns7:John_Terry	owl:sameAs	dbpedia:John_Terry .
+@prefix ns8:	<http://ja.dbpedia.org/resource/> .
+ns8:ジョン・テリー	owl:sameAs	dbpedia:John_Terry .
+@prefix ns9:	<http://ko.dbpedia.org/resource/> .
+ns9:존_테리	owl:sameAs	dbpedia:John_Terry .
+<http://nl.dbpedia.org/resource/John_Terry_(voetballer)>	owl:sameAs	dbpedia:John_Terry .
+@prefix ns10:	<http://pl.dbpedia.org/resource/> .
+ns10:John_Terry	owl:sameAs	dbpedia:John_Terry .
+@prefix ns11:	<http://pt.dbpedia.org/resource/> .
+ns11:John_Terry	owl:sameAs	dbpedia:John_Terry .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2003%E2%80%9304_Chelsea_F.C._season>	dbpprop:name	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2001%E2%80%9302_Chelsea_F.C._season>	dbpprop:name	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2002%E2%80%9303_Chelsea_F.C._season>	dbpprop:name	dbpedia:John_Terry .
+<http://dbpedia.org/resource/1998%E2%80%9399_Chelsea_F.C._season>	dbpprop:name	dbpedia:John_Terry .
+dbpedia:List_of_England_national_football_team_World_Cup_and_European_Championship_squads	dbpprop:name	dbpedia:John_Terry .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns14:	<http://en.wikipedia.org/wiki/> .
+ns14:John_Terry	foaf:primaryTopic	dbpedia:John_Terry .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Chelsea_F.C._season__John_Terry_HG__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2011%E2%80%9312_Chelsea_F.C._season__John_Terry_HG2__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2011%E2%80%9312_Chelsea_F.C._season__John_Terry_HG__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2012%E2%80%9313_Chelsea_F.C._season__John_Terry_HG2__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2012%E2%80%9313_Chelsea_F.C._season__John_Terry_HG2__2>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2012%E2%80%9313_Chelsea_F.C._season__John_Terry_HG2__3>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2012%E2%80%9313_Chelsea_F.C._season__John_Terry_HG__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2013%E2%80%9314_Chelsea_F.C._season__John_Terry_HG2__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2013%E2%80%9314_Chelsea_F.C._season__John_Terry_HG2__2>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:John_Terry	rdf:type	yago:UEFAEuro2004Players ,
+		yago:PremierLeaguePlayers .
+@prefix ns18:	<http://umbel.org/umbel/rc/> .
+dbpedia:John_Terry	rdf:type	ns18:SoccerPlayer ,
+		yago:TheFootballLeaguePlayers ,
+		<http://dbpedia.org/class/yago/ChelseaF.C.Players> ,
+		yago:EnglishFootballers ,
+		yago:Contestant109613191 ,
+		ns18:Athlete ,
+		<http://dbpedia.org/class/yago/2006FIFAWorldCupPlayers> ,
+		yago:EnglandInternationalFootballers ,
+		<http://dbpedia.org/class/yago/SenrabF.C.Players> ,
+		ns3:Q215627 ,
+		owl:Thing ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Person .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:John_Terry	rdf:type	dul:NaturalPerson ,
+		dbpedia-owl:SoccerPlayer ,
+		<http://dbpedia.org/class/yago/WestHamUnitedF.C.Players> ,
+		ns3:Q5 ,
+		dul:Agent ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:Whole100003553 ,
+		yago:Object100002684 ,
+		yago:PhysicalEntity100001930 ,
+		yago:AssociationFootballCentralDefenders ,
+		yago:EnglandUnder-21InternationalFootballers ,
+		yago:Preserver110466918 ,
+		foaf:Person ,
+		yago:Defender109614684 ,
+		<http://dbpedia.org/class/yago/NottinghamForestF.C.Players> ,
+		yago:Athlete109820263 ,
+		yago:PeopleFromBarking ,
+		yago:FootballPlayer110101634 ,
+		dbpedia-owl:Athlete .
+@prefix ns20:	<http://schema.org/> .
+dbpedia:John_Terry	rdf:type	ns20:Person ,
+		yago:Player110439851 ;
+	owl:sameAs	<http://nl.dbpedia.org/resource/John_Terry_(voetballer)> ,
+		<http://ru.dbpedia.org/resource/\u0422\u0435\u0440\u0440\u0438,_\u0414\u0436\u043E\u043D> .
+@prefix ns21:	<http://simple.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns21:John_Terry ,
+		ns2:John_Terry .
+@prefix ns22:	<http://ro.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns22:John_Terry .
+@prefix ns23:	<http://be_x_old.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns23:Джон_Тэры .
+@prefix ns24:	<http://hy.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns24:Ջոն_Թերի .
+@prefix ns25:	<http://az.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns25:Con_Teri ,
+		ns8:ジョン・テリー .
+@prefix ns26:	<http://yago-knowledge.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns26:John_Terry .
+@prefix ns27:	<http://sr.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns27:Џон_Тери .
+@prefix ns28:	<http://hi.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns28:जॉन_टेरी .
+@prefix ns29:	<http://sk.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns29:John_Terry ,
+		dbpedia:John_Terry .
+@prefix ns30:	<http://vo.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns30:John_Terry .
+@prefix ns31:	<http://lt.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns31:John_Terry .
+@prefix ns32:	<http://ca.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns32:John_Terry .
+@prefix ns33:	<http://wikidata.org/entity/> .
+dbpedia:John_Terry	owl:sameAs	ns33:Q83456 .
+@prefix ns34:	<http://sw.cyc.com/concept/> .
+dbpedia:John_Terry	owl:sameAs	ns34:Mx4rpbbOk1V4R9OA8lbee8y92Q ,
+		<http://he.dbpedia.org/resource/\u05D2\u0027\u05D5\u05DF_\u05D8\u05E8\u05D9> .
+@prefix ns35:	<http://ar.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns35:جون_تيري ,
+		ns5:Τζον_Τέρι .
+@prefix ns36:	<http://oc.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns36:John_Terry ,
+		ns9:존_테리 ,
+		ns4:John_Terry .
+@prefix ns37:	<http://mn.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns37:Жон_Терри .
+@prefix ns38:	<http://jv.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns38:John_Terry .
+@prefix ns39:	<http://bn.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns39:জন_টেরি .
+@prefix ns40:	<http://et.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns40:John_Terry ,
+		<http://data.linkedmdb.org/resource/actor/647> ,
+		<http://da.dbpedia.org/resource/John_Terry_(fodboldspiller)> .
+@prefix ns41:	<http://zh.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns41:約翰·泰利 .
+@prefix ns42:	<http://vi.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns42:John_Terry ,
+		<http://fr.dbpedia.org/resource/John_Terry_(football)> .
+@prefix ns43:	<http://sl.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns43:John_Terry .
+@prefix ns44:	<http://sh.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns44:John_Terry ,
+		<http://rdf.freebase.com/ns/m.029f79> .
+@prefix ns45:	<http://nn.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns45:John_Terry ,
+		ns10:John_Terry .
+@prefix ns46:	<http://no.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns46:John_Terry ,
+		ns11:John_Terry .
+@prefix ns47:	<http://ga.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns47:John_Terry .
+@prefix ns48:	<http://te.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns48:జాన్_టెర్రీ .
+@prefix ns49:	<http://hr.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns49:John_Terry .
+@prefix ns50:	<http://tr.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns50:John_Terry .
+@prefix ns51:	<http://sw.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns51:John_Terry .
+@prefix ns52:	<http://es.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns52:John_George_Terry .
+@prefix ns53:	<http://ka.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns53:ჯონ_ტერი .
+@prefix ns54:	<http://lv.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns54:Džons_Terijs .
+@prefix ns55:	<http://uk.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns55:Джон_Террі .
+@prefix ns56:	<http://sv.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns56:John_Terry ,
+		ns7:John_Terry ,
+		<http://es.dbpedia.org/resource/John_Terry_(futbolista)> ,
+		<http://hu.dbpedia.org/resource/John_Terry_(labdar\u00FAg\u00F3)> ,
+		ns3:Q83456 .
+@prefix ns57:	<http://lb.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns57:John_Terry .
+@prefix ns58:	<http://la.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns58:Ioannes_Georgius_Terry .
+@prefix ns59:	<http://bg.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns59:Джон_Тери .
+@prefix ns60:	<http://ms.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns60:John_Terry .
+@prefix ns61:	<http://gl.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns61:John_Terry .
+@prefix ns62:	<http://mr.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns62:जॉन_टेरी .
+@prefix ns63:	<http://mk.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns63:Џон_Тери .
+@prefix ns64:	<http://fi.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns64:John_Terry .
+@prefix ns65:	<http://th.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns65:จอห์น_เทอร์รี .
+@prefix ns66:	<http://zh_yue.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns66:泰利 ,
+		<http://fa.dbpedia.org/resource/\u062C\u0627\u0646_\u062A\u0631\u06CC_(\u0628\u0627\u0632\u06CC\u06A9\u0646_\u0641\u0648\u062A\u0628\u0627\u0644)> .
+@prefix ns67:	<http://is.dbpedia.org/resource/> .
+dbpedia:John_Terry	owl:sameAs	ns67:John_Terry ,
+		ns6:John_Terry .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:John_Terry	rdfs:label	"\u30B8\u30E7\u30F3\u30FB\u30C6\u30EA\u30FC"@ja ,
+		"John Terry" ,
+		"John Terry (football)"@fr ,
+		"\u062C\u0648\u0646 \u062A\u064A\u0631\u064A"@ar ,
+		"John Terry"@it ,
+		"John Terry"@de ,
+		"John Terry (voetballer)"@nl ,
+		"John George Terry"@es ,
+		"John Terry"@pl ,
+		"John Terry"@pt ,
+		"\u7D04\u7FF0\u00B7\u6CF0\u5229"@zh ,
+		"\u0422\u0435\u0440\u0440\u0438, \u0414\u0436\u043E\u043D"@ru .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+dbpedia:John_Terry	dcterms:subject	<http://dbpedia.org/resource/Category:Chelsea_F.C._players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:John_Terry	dcterms:subject	category:Premier_League_players ,
+		category:Living_people ,
+		category:The_Football_League_players ,
+		<http://dbpedia.org/resource/Category:West_Ham_United_F.C._players> ,
+		category:UEFA_Euro_2004_players ,
+		category:England_international_footballers ,
+		<http://dbpedia.org/resource/Category:1980_births> ,
+		category:Association_football_central_defenders ,
+		category:England_under-21_international_footballers ,
+		<http://dbpedia.org/resource/Category:Nottingham_Forest_F.C._players> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2006_FIFA_World_Cup_players> ,
+		category:People_from_Barking ,
+		category:UEFA_Euro_2012_players ,
+		category:Sportspeople_from_London ,
+		category:English_footballers ,
+		<http://dbpedia.org/resource/Category:Senrab_F.C._players> ,
+		category:People_acquitted_of_crimes ;
+	foaf:homepage	<http://www.chelseafc.com/page/PlayerProfileDetail/0,,10268~5593,00.html> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/JohnTerry.JPG> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:John_Terry	dc:description	"English footballer" ,
+		"English footballer" ;
+	foaf:givenName	"John George" ;
+	foaf:name	"Terry, John George" ,
+		"John George Terry" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:John_Terry	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/John_Terry?oldid=606602996> ;
+	rdfs:comment	"\u062C\u0648\u0646 \u062A\u064A\u0631\u064A \u062C\u0648\u0631\u062C (\u0645\u0648\u0627\u0644\u064A\u062F 7 \u062F\u064A\u0633\u0645\u0628\u0631 1980 \u0641\u064A \u0628\u0627\u0631\u0643\u064A\u0646\u063A) \u0647\u0648 \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0645\u062D\u062A\u0631\u0641 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629. \u062A\u064A\u0631\u064A \u064A\u0644\u0639\u0628 \u0641\u064A \u0645\u0631\u0643\u0632 \u0642\u0644\u0628 \u0627\u0644\u062F\u0641\u0627\u0639 \u0648\u0647\u0648 \u0643\u0627\u0628\u062A\u0646 \u0646\u0627\u062F\u064A \u062A\u0634\u064A\u0644\u0633\u064A \u0627\u0644\u0630\u064A \u064A\u0644\u0639\u0628 \u0641\u064A \u0627\u0644\u062F\u0648\u0631\u064A \u0627\u0644\u0627\u0646\u062C\u0644\u064A\u0632\u064A \u0627\u0644\u0645\u0645\u062A\u0627\u0632. \u0643\u0645\u0627 \u0627\u0646\u0647 \u0643\u0627\u0646 \u0643\u0627\u0628\u062A\u0646 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0627\u0644\u0625\u0646\u0643\u0644\u064A\u0632\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645\u060C \u062D\u0627\u0645\u0644\u0627\u064B \u0634\u0627\u0631\u0629 \u0627\u0644\u0642\u0627\u0626\u062F \u0645\u0646\u0630 \u0623\u063A\u0633\u0637\u0633 2006 \u0625\u0644\u0649 \u0641\u0628\u0631\u0627\u064A\u0631 2010\u060C \u0648\u0645\u0631\u0629 \u0623\u062E\u0631\u0649 \u0641\u064A \u0627\u0644\u0641\u062A\u0631\u0629 \u0645\u0646 \u0645\u0627\u0631\u0633 2011 \u0625\u0644\u0649 \u0641\u0628\u0631\u0627\u064A\u0631 2012. \u0631\u0634\u062D \u062A\u064A\u0631\u064A \u0644\u062C\u0627\u0626\u0632\u0629 \u0645\u062F\u0627\u0641\u0639 UEFA \u0641\u064A \u0627\u0644\u0633\u0646\u0629 \u0641\u064A \u0639\u0627\u0645 2005 \u0648 2008 \u0648 2009. \u0644\u0627\u0639\u0628 PFA \u0628\u0625\u062E\u062A\u064A\u0627\u0631 \u0627\u0644\u0644\u0627\u0639\u0628\u064A\u0646 \u0641\u064A \u0639\u0627\u0645 2005\u060C \u0648\u0623\u062F\u0631\u062C \u0641\u064A \u062A\u0634\u0643\u064A\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0645\u062F\u0629 \u062E\u0645\u0633\u0629 \u0645\u0648\u0627\u0633\u0645 \u0645\u062A\u062A\u0627\u0644\u064A\u0629\u060C 2005-2009."@ar ,
+		"John George Terry (Londres, 7 de dezembro de 1980) \u00E9 um futebolista ingl\u00EAs. Atualmente, defende o Chelsea."@pt ,
+		"\u7D04\u7FF0\u00B7\u4F50\u6CBB\u00B7\u6CF0\u5229\uFF08\u82F1\u8BED\uFF1AJohn George Terry\uFF0C1980\u5E7412\u67087\u65E5\uFF0D\uFF09\uFF0C\u82F1\u683C\u862D\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u53F8\u8077\u5F8C\u885B\uFF0C\u6548\u529B\u82F1\u8D85\u7403\u6703\u8ECA\u8DEF\u58EB\uFF0C\u662F\u8A72\u968A\u968A\u9577\uFF0C\u4EA6\u66FE\u4EFB\u82F1\u683C\u862D\u570B\u5BB6\u968A\u961F\u9577\u3002\u6CF0\u5229\u57282005\u5E74\u548C2008\u5E74\u7684\u6B50\u6D32\u806F\u8CFD\u51A0\u8ECD\u76C3\u4E2D\uFF0C\u88AB\u8A55\u70BA\u6700\u4F73\u5F8C\u885E\u3002\u57282006\u5E74\u7684\u4E16\u754C\u76C3\u4E2D\uFF0C\u4ED6\u662F\u552F\u4E00\u4E00\u4F4D\u88AB\u8A55\u70BA\u5168\u660E\u661F\u968A\u7684\u82F1\u683C\u862D\u7403\u54E1\u3002\u6CF0\u5229\u662F\u8ECA\u8DEF\u58EB\u6700\u6210\u529F\u7684\u968A\u9577\uFF0C\u81EA2004\u5E74\u4EE5\u4F86\uFF0C\u4ED6\u5E36\u9818\u8ECA\u8DEF\u58EB\u596A\u5F97\u4E09\u500B\u82F1\u683C\u862D\u8D85\u7D1A\u806F\u8CFD\u51A0\u8ECD\uFF0C\u4E09\u6B21\u8DB3\u7E3D\u76C3\u51A0\u8ECD\u548C\u5169\u500B\u806F\u8CFD\u76C3\u3002\u4ED6\u662F\u5176\u4E2D\u4E00\u4F4D\u70BA\u8ECA\u8DEF\u58EB\u51FA\u5834\u8D85\u904E 450\u500B\u7403\u54E1\uFF0C\u4E5F\u662F\u8ECA\u8DEF\u58EB\u5F8C\u885E\u4E2D\u5165\u7403\u6578\u91CF\u6700\u591A\u7684\u4E00\u4F4D\u3002\u57282007\u5E74\uFF0C\u4ED6\u5E36\u9818\u8ECA\u8DEF\u58EB\u4EE51 -0\u64CA\u6557\u66FC\u806F\u3002\u4ED6\u5728\u6EAB\u5E03\u840A\u7403\u5834\uFF0C\u8209\u8D77\u8DB3\u7E3D\u76C3\u3002"@zh ,
+		"John George Terry (Barking, 7 december 1980) is een Engels voetballer. De centrale verdediger staat al zijn gehele betaald voetbalcarri\u00E8re onder contract bij Chelsea, waar hij de jeugdopleiding doorliep en in oktober 1998 debuteerde in de hoofdmacht. Op 31 augustus 2009 verlengde Terry er zijn contract tot en met het seizoen 2013/14."@nl ,
+		"\u30B8\u30E7\u30F3\u30FB\u30B8\u30E7\u30FC\u30B8\u30FB\u30C6\u30EA\u30FC\uFF08John George Terry, 1980\u5E7412\u67087\u65E5 - \uFF09\u306F\u3001\u30A4\u30F3\u30B0\u30E9\u30F3\u30C9\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30D7\u30EC\u30DF\u30A2\u30EA\u30FC\u30B0\u306E\u30C1\u30A7\u30EB\u30B7\u30FCFC\u306B\u6240\u5C5E\u3057\u3001\u4E3B\u5C06\u3092\u52D9\u3081\u3066\u3044\u308B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FCB\u3002FIFPro\u5E74\u9593\u6700\u512A\u79C0\u9078\u624B\u8CDE\u306E\u5B88\u5099\u90E8\u9580\u306B\u5275\u8A2D\u3055\u308C\u305F2005\u5E74\u5EA6\u304B\u30894\u5E74\u9023\u7D9A\u3067\u540D\u3092\u5217\u306D\u3001UEFA\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u30BA\u30EA\u30FC\u30B0\u306E\u6700\u512A\u79C0DF\u8CDE\u30922005\u5E74\u30682008\u5E74\u306B2\u5EA6\u7372\u5F97\u3001PFA\u5E74\u9593\u6700\u512A\u79C0\u9078\u624B\u8CDE\u30922005\u5E74\u306B\u7372\u5F97\u306A\u3069\u306E\u5B9F\u7E3E\u304C\u3042\u308B\u3002"@ja ,
+		"nJohn George Terry, n\u00E9 le 7 d\u00E9cembre 1980 \u00E0 Barking (Londres), est un footballeur anglais qui \u00E9volue au poste de d\u00E9fenseur central \u00E0 Chelsea. Il est consid\u00E9r\u00E9 comme l'un des meilleurs d\u00E9fenseur de sa g\u00E9n\u00E9ration, il est \u00E9galement une l\u00E9gende au sein de son club de toujours, Chelsea FC."@fr ,
+		"John George Terry (ur. 7 grudnia 1980 w Londynie) \u2013 angielski pi\u0142karz graj\u0105cy na pozycji obro\u0144cy w Chelsea, kt\u00F3rej jest kapitanem."@pl ,
+		"\u0414\u0436\u043E\u043D \u0414\u0436\u043E\u0440\u0434\u0436 \u0422\u0435\u0301\u0440\u0440\u0438 (\u0430\u043D\u0433\u043B. John George Terry; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 7 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1980 \u0433\u043E\u0434\u0430, \u0432 \u041B\u043E\u043D\u0434\u043E\u043D\u0435, \u0410\u043D\u0433\u043B\u0438\u044F) \u2014 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0438 \u043A\u0430\u043F\u0438\u0442\u0430\u043D \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0427\u0435\u043B\u0441\u0438\u00BB. \u042D\u043A\u0441-\u043A\u0430\u043F\u0438\u0442\u0430\u043D \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0410\u043D\u0433\u043B\u0438\u0438 \u0441 2006 \u043F\u043E 2010 \u0438 \u0441 2011 \u043F\u043E \u0444\u0435\u0432\u0440\u0430\u043B\u044C 2012 \u0433\u043E\u0434\u0430. \u0422\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0410\u043D\u0433\u043B\u0438\u0438."@ru ,
+		"Para el actor estadounidense, v\u00E9ase John Terry.John George Terry, mejor conocido como John Terry (Barking, Inglaterra, Reino Unido, 7 de diciembre de 1980), es un futbolista brit\u00E1nico. Se desempe\u00F1a como defensa central.Terry ha sido elegido como mejor defensa de la Liga de Campeones de la UEFA en los a\u00F1os 2005, 2008 y 2009, as\u00ED como ser ganador del Premio PFA al Jugador del A\u00F1o en el 2005. Tambi\u00E9n ha sido incluido en el Equipo del A\u00F1o FIFpro por 5 a\u00F1os consecutivos, del 2005 al 2009."@es ,
+		"John George Terry (* 7. Dezember 1980 in Barking, London) ist ein englischer Fu\u00DFballspieler, der als Kapit\u00E4n und Innenverteidiger f\u00FCr den FC Chelsea aktiv ist. Dar\u00FCber hinaus war er von 2003 bis 2012 englischer Nationalspieler und war bis Februar 2012 der Mannschaftskapit\u00E4n der \u201EThree Lions\u201C."@de ,
+		"John George Terry (born 7 December 1980 in Barking) is an English professional footballer. Terry plays in a centre back position and is the captain of Chelsea in the Premier League." ,
+		"John George Terry (Londra, 7 dicembre 1980) \u00E8 un calciatore inglese, difensore del Chelsea. \u00C8 il capitano dei Blues dal 2004, e lo \u00E8 stato della Nazionale dall'agosto 2006 al febbraio 2010.\u00C8 stato nominato miglior difensore della UEFA Champions League nel 2005, 2008 e 2009. Inoltre, \u00E8 stato votato Giocatore dell'anno della PFA nel 2005, e dallo stesso anno fino al 2009 \u00E8 sempre stato incluso nella FIFA/FIFPro World XI."@it ;
+	foaf:surname	"Terry" ;
+	foaf:isPrimaryTopicOf	ns14:John_Terry .
+@prefix ns73:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:John_Terry	dbpprop:hasPhotoCollection	ns73:John_Terry ;
+	dbpprop:caption	"Terry with England at Euro 2012" ;
+	dbpprop:name	"Terry, John George" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/JohnTerry.JPG?width=300> ;
+	dbpedia-owl:abstract	"nJohn George Terry, n\u00E9 le 7 d\u00E9cembre 1980 \u00E0 Barking (Londres), est un footballeur anglais qui \u00E9volue au poste de d\u00E9fenseur central \u00E0 Chelsea. Il est consid\u00E9r\u00E9 comme l'un des meilleurs d\u00E9fenseur de sa g\u00E9n\u00E9ration, il est \u00E9galement une l\u00E9gende au sein de son club de toujours, Chelsea FC. Il a \u00E9t\u00E9 \u00E9lu meilleur d\u00E9fenseur de l'ann\u00E9e en 2005, 2008 et 2009 par l'UEFA.Capitaine de la s\u00E9lection anglaise entre 2006 et 2008 puis entre 2010 et 2012, Terry porte le brassard de capitaine des Blues de Chelsea depuis 2004. Lors de l'Euro 2012, il est pr\u00E9f\u00E9r\u00E9 \u00E0 Rio Ferdinand par le s\u00E9lectionneur anglais suite au scandale de propos racistes de John Terry envers le fr\u00E8re du pr\u00E9c\u00E9dent. Il prend sa retraite internationale le 23 septembre 2012.C\u00F4t\u00E9 vie priv\u00E9e, il est mari\u00E9 \u00E0 la Britannique Toni Poole. Ils ont une fille, Summer, et un fils, Georgie, des jumeaux, depuis le 18 mai 2006."@fr ,
+		"John George Terry (born 7 December 1980 in Barking) is an English professional footballer. Terry plays in a centre back position and is the captain of Chelsea in the Premier League. He was also captain of the England national football team, holding the post from August 2006 to February 2010, and again from March 2011 to February 2012.Terry was named UEFA Club Defender of the Year in 2005, 2008 and 2009, PFA Players' Player of the Year in 2005, and was included in the FIFPro World XI for five consecutive seasons, from 2005 to 2009. He was also named in the all-star squad for the 2006 FIFA World Cup, the only English player to make the team. He wears the number 26 shirt for Chelsea.Terry is Chelsea's most successful captain, having led them to three Premier League titles, four FA Cups, two League Cups and a UEFA Champions League since 2004. He is one of five players to have made over 500 appearances for Chelsea and is also the club's all-time highest scoring defender. In 2007, he became the first captain to lift the FA Cup at the new Wembley Stadium in Chelsea's 1\u20130 win over Manchester United, and also the first player to score an international goal there, scoring a header in England's 1\u20131 draw with Brazil." ,
+		"\u0414\u0436\u043E\u043D \u0414\u0436\u043E\u0440\u0434\u0436 \u0422\u0435\u0301\u0440\u0440\u0438 (\u0430\u043D\u0433\u043B. John George Terry; \u0440\u043E\u0434\u0438\u043B\u0441\u044F 7 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1980 \u0433\u043E\u0434\u0430, \u0432 \u041B\u043E\u043D\u0434\u043E\u043D\u0435, \u0410\u043D\u0433\u043B\u0438\u044F) \u2014 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0438 \u043A\u0430\u043F\u0438\u0442\u0430\u043D \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0427\u0435\u043B\u0441\u0438\u00BB. \u042D\u043A\u0441-\u043A\u0430\u043F\u0438\u0442\u0430\u043D \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0410\u043D\u0433\u043B\u0438\u0438 \u0441 2006 \u043F\u043E 2010 \u0438 \u0441 2011 \u043F\u043E \u0444\u0435\u0432\u0440\u0430\u043B\u044C 2012 \u0433\u043E\u0434\u0430. \u0422\u0440\u0451\u0445\u043A\u0440\u0430\u0442\u043D\u044B\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D \u0410\u043D\u0433\u043B\u0438\u0438. \u0422\u0435\u0440\u0440\u0438 \u0431\u044B\u043B \u043F\u0440\u0438\u0437\u043D\u0430\u043D \u043B\u0443\u0447\u0448\u0438\u043C \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A\u043E\u043C \u041B\u0438\u0433\u0438 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u043E\u0432 \u0423\u0415\u0424\u0410 \u0432 \u0441\u0435\u0437\u043E\u043D\u0430\u0445 2004/05 \u0438 2007/08, \u0418\u0433\u0440\u043E\u043A\u043E\u043C 2005 \u0433\u043E\u0434\u0430 \u043F\u043E \u0432\u0435\u0440\u0441\u0438\u0438 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442\u043E\u0432 \u041F\u0440\u043E\u0444\u0435\u0441\u0441\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u0438 \u0438 \u0431\u044B\u043B \u0432\u043A\u043B\u044E\u0447\u0451\u043D \u0432 \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u043C\u0438\u0440\u0430 \u043F\u043E \u0432\u0435\u0440\u0441\u0438\u0438 \u0424\u0418\u0424\u0410 \u0447\u0435\u0442\u044B\u0440\u0435 \u0441\u0435\u0437\u043E\u043D\u0430 \u043F\u043E\u0434\u0440\u044F\u0434: \u0432 2005, 2006, 2007 \u0438 2008. \u041E\u043D \u0431\u044B\u043B \u0435\u0434\u0438\u043D\u0441\u0442\u0432\u0435\u043D\u043D\u044B\u043C \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438\u043C \u0438\u0433\u0440\u043E\u043A\u043E\u043C, \u0432\u043A\u043B\u044E\u0447\u0451\u043D\u043D\u044B\u043C \u0432 \u0441\u043E\u0441\u0442\u0430\u0432 \u0441\u0438\u043C\u0432\u043E\u043B\u0438\u0447\u0435\u0441\u043A\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0430 \u043C\u0438\u0440\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 2006 \u0433\u043E\u0434\u0430.\u0412 2007 \u0433\u043E\u0434\u0443 \u043E\u043D \u0441\u0442\u0430\u043B \u043F\u0435\u0440\u0432\u044B\u043C \u043A\u0430\u043F\u0438\u0442\u0430\u043D\u043E\u043C, \u043F\u043E\u0434\u043D\u044F\u0432\u0448\u0438\u043C \u043D\u0430\u0434 \u0441\u043E\u0431\u043E\u0439 \u041A\u0443\u0431\u043E\u043A \u0410\u043D\u0433\u043B\u0438\u0438 \u043D\u0430 \u043D\u043E\u0432\u043E\u043C \u0441\u0442\u0430\u0434\u0438\u043E\u043D\u0435 \u00AB\u0423\u044D\u043C\u0431\u043B\u0438\u00BB \u043F\u043E\u0441\u043B\u0435 \u043F\u043E\u0431\u0435\u0434\u044B \u043D\u0430\u0434 \u00AB\u041C\u0430\u043D\u0447\u0435\u0441\u0442\u0435\u0440 \u042E\u043D\u0430\u0439\u0442\u0435\u0434\u00BB \u0441\u043E \u0441\u0447\u0451\u0442\u043E\u043C 1:0, \u0430 \u0442\u0430\u043A\u0436\u0435 \u043F\u0435\u0440\u0432\u044B\u043C \u0438\u0433\u0440\u043E\u043A\u043E\u043C, \u0437\u0430\u0431\u0438\u0432\u0448\u0438\u043C \u043C\u044F\u0447 \u0437\u0430 \u0441\u0431\u043E\u0440\u043D\u0443\u044E \u043D\u0430 \u044D\u0442\u043E\u043C \u0441\u0442\u0430\u0434\u0438\u043E\u043D\u0435, \u0432 \u043C\u0430\u0442\u0447\u0435 \u043F\u0440\u043E\u0442\u0438\u0432 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0411\u0440\u0430\u0437\u0438\u043B\u0438\u0438. \u041E\u0434\u043D\u0430\u043A\u043E, \u0432 \u0441\u0435\u0437\u043E\u043D\u0435 2007/08 \u0422\u0435\u0440\u0440\u0438 \u0432\u043C\u0435\u0441\u0442\u0435 \u0441 \u00AB\u0427\u0435\u043B\u0441\u0438\u00BB \u043D\u0435 \u0437\u0430\u0432\u043E\u0435\u0432\u0430\u043B\u0438 \u043D\u0438 \u043E\u0434\u043D\u043E\u0433\u043E \u0442\u0440\u043E\u0444\u0435\u044F, \u043F\u0440\u043E\u0438\u0433\u0440\u0430\u0432 \u0432 \u0444\u0438\u043D\u0430\u043B\u0435 \u041A\u0443\u0431\u043A\u0430 \u0424\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u043E\u0439 \u043B\u0438\u0433\u0438 \u0432 \u0434\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0435 \u0432\u0440\u0435\u043C\u044F \u00AB\u0422\u043E\u0442\u0442\u0435\u043D\u0445\u044D\u043C \u0425\u043E\u0442\u0441\u043F\u0443\u0440\u00BB, \u0443\u0441\u0442\u0443\u043F\u0438\u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0441\u0442\u0432\u043E \u0432 \u041F\u0440\u0435\u043C\u044C\u0435\u0440-\u043B\u0438\u0433\u0435 \u0438 \u043A\u0443\u0431\u043E\u043A \u043F\u043E\u0431\u0435\u0434\u0438\u0442\u0435\u043B\u044F \u041B\u0438\u0433\u0438 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u043E\u0432 \u0423\u0415\u0424\u0410 \u00AB\u041C\u0430\u043D\u0447\u0435\u0441\u0442\u0435\u0440 \u042E\u043D\u0430\u0439\u0442\u0435\u0434\u00BB, \u043F\u0440\u043E\u0438\u0433\u0440\u0430\u0432 \u0432 \u0441\u0435\u0440\u0438\u0438 \u043F\u0435\u043D\u0430\u043B\u044C\u0442\u0438, \u0433\u0434\u0435 \u0414\u0436\u043E\u043D \u043F\u0440\u043E\u043C\u0430\u0445\u043D\u0443\u043B\u0441\u044F \u0441 \u0442\u043E\u0447\u043A\u0438 \u0432 \u0441\u0435\u0440\u0438\u0438 \u043F\u043E\u0441\u043B\u0435\u043C\u0430\u0442\u0447\u0435\u0432\u044B\u0445 \u043F\u0435\u043D\u0430\u043B\u044C\u0442\u0438, \u043F\u043E\u0441\u043A\u043E\u043B\u044C\u0437\u043D\u0443\u0432\u0448\u0438\u0441\u044C \u043D\u0430 \u043C\u043E\u043A\u0440\u043E\u043C \u0433\u0430\u0437\u043E\u043D\u0435. \u0415\u0441\u043B\u0438 \u0431\u044B \u043E\u043D \u0437\u0430\u0431\u0438\u043B, \u00AB\u0427\u0435\u043B\u0441\u0438\u00BB \u0432\u044B\u0438\u0433\u0440\u0430\u043B \u0431\u044B \u0442\u043E\u0442 \u043C\u0430\u0442\u0447. \u041F\u043E\u0441\u043B\u0435 \u0444\u0438\u043D\u0430\u043B\u0430 \u0432 \u041C\u043E\u0441\u043A\u0432\u0435 \u043F\u0430\u0440\u0442\u043D\u0451\u0440 \u043F\u043E \u043A\u043E\u043C\u0430\u043D\u0434\u0435 \u0424\u0440\u044D\u043D\u043A \u041B\u044D\u043C\u043F\u0430\u0440\u0434 \u043E\u043F\u0438\u0441\u0430\u043B \u0422\u0435\u0440\u0440\u0438, \u043A\u0430\u043A \u00AB\u043C\u0443\u0436\u0438\u043A\u0430 \u0438\u0437 \u043C\u0443\u0436\u0438\u043A\u043E\u0432\u00BB."@ru ,
+		"John George Terry (Londra, 7 dicembre 1980) \u00E8 un calciatore inglese, difensore del Chelsea. \u00C8 il capitano dei Blues dal 2004, e lo \u00E8 stato della Nazionale dall'agosto 2006 al febbraio 2010.\u00C8 stato nominato miglior difensore della UEFA Champions League nel 2005, 2008 e 2009. Inoltre, \u00E8 stato votato Giocatore dell'anno della PFA nel 2005, e dallo stesso anno fino al 2009 \u00E8 sempre stato incluso nella FIFA/FIFPro World XI. Ha poi figurato nella squadra ideale dei Mondiali 2006 (fu l'unico inglese) ed \u00E8 stato votato per tre volte giocatore dell'anno dai tifosi del Chelsea (a nessuno \u00E8 stato consegnato tale riconoscimento pi\u00F9 volte). Nel 2007 \u00E8 stato il primo capitano ad alzare la FA Cup nel nuovo stadio di Wembley, dopo avere vinto, ai supplementari grazie a un gol di Didier Drogba, la finale contro il Manchester United. \u00C8 stato inoltre il primo giocatore della Nazionale maggiore a segnare nello stadio durante la gara Inghilterra-Brasile, poi terminata 1-1."@it ,
+		"\u30B8\u30E7\u30F3\u30FB\u30B8\u30E7\u30FC\u30B8\u30FB\u30C6\u30EA\u30FC\uFF08John George Terry, 1980\u5E7412\u67087\u65E5 - \uFF09\u306F\u3001\u30A4\u30F3\u30B0\u30E9\u30F3\u30C9\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30D7\u30EC\u30DF\u30A2\u30EA\u30FC\u30B0\u306E\u30C1\u30A7\u30EB\u30B7\u30FCFC\u306B\u6240\u5C5E\u3057\u3001\u4E3B\u5C06\u3092\u52D9\u3081\u3066\u3044\u308B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FCB\u3002FIFPro\u5E74\u9593\u6700\u512A\u79C0\u9078\u624B\u8CDE\u306E\u5B88\u5099\u90E8\u9580\u306B\u5275\u8A2D\u3055\u308C\u305F2005\u5E74\u5EA6\u304B\u30894\u5E74\u9023\u7D9A\u3067\u540D\u3092\u5217\u306D\u3001UEFA\u30C1\u30E3\u30F3\u30D4\u30AA\u30F3\u30BA\u30EA\u30FC\u30B0\u306E\u6700\u512A\u79C0DF\u8CDE\u30922005\u5E74\u30682008\u5E74\u306B2\u5EA6\u7372\u5F97\u3001PFA\u5E74\u9593\u6700\u512A\u79C0\u9078\u624B\u8CDE\u30922005\u5E74\u306B\u7372\u5F97\u306A\u3069\u306E\u5B9F\u7E3E\u304C\u3042\u308B\u3002"@ja ,
+		"John George Terry (Londres, 7 de dezembro de 1980) \u00E9 um futebolista ingl\u00EAs. Atualmente, defende o Chelsea."@pt ,
+		"John George Terry (* 7. Dezember 1980 in Barking, London) ist ein englischer Fu\u00DFballspieler, der als Kapit\u00E4n und Innenverteidiger f\u00FCr den FC Chelsea aktiv ist. Dar\u00FCber hinaus war er von 2003 bis 2012 englischer Nationalspieler und war bis Februar 2012 der Mannschaftskapit\u00E4n der \u201EThree Lions\u201C."@de ,
+		"\u062C\u0648\u0646 \u062A\u064A\u0631\u064A \u062C\u0648\u0631\u062C (\u0645\u0648\u0627\u0644\u064A\u062F 7 \u062F\u064A\u0633\u0645\u0628\u0631 1980 \u0641\u064A \u0628\u0627\u0631\u0643\u064A\u0646\u063A) \u0647\u0648 \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0645\u062D\u062A\u0631\u0641 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629. \u062A\u064A\u0631\u064A \u064A\u0644\u0639\u0628 \u0641\u064A \u0645\u0631\u0643\u0632 \u0642\u0644\u0628 \u0627\u0644\u062F\u0641\u0627\u0639 \u0648\u0647\u0648 \u0643\u0627\u0628\u062A\u0646 \u0646\u0627\u062F\u064A \u062A\u0634\u064A\u0644\u0633\u064A \u0627\u0644\u0630\u064A \u064A\u0644\u0639\u0628 \u0641\u064A \u0627\u0644\u062F\u0648\u0631\u064A \u0627\u0644\u0627\u0646\u062C\u0644\u064A\u0632\u064A \u0627\u0644\u0645\u0645\u062A\u0627\u0632. \u0643\u0645\u0627 \u0627\u0646\u0647 \u0643\u0627\u0646 \u0643\u0627\u0628\u062A\u0646 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0637\u0646\u064A \u0627\u0644\u0625\u0646\u0643\u0644\u064A\u0632\u064A \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645\u060C \u062D\u0627\u0645\u0644\u0627\u064B \u0634\u0627\u0631\u0629 \u0627\u0644\u0642\u0627\u0626\u062F \u0645\u0646\u0630 \u0623\u063A\u0633\u0637\u0633 2006 \u0625\u0644\u0649 \u0641\u0628\u0631\u0627\u064A\u0631 2010\u060C \u0648\u0645\u0631\u0629 \u0623\u062E\u0631\u0649 \u0641\u064A \u0627\u0644\u0641\u062A\u0631\u0629 \u0645\u0646 \u0645\u0627\u0631\u0633 2011 \u0625\u0644\u0649 \u0641\u0628\u0631\u0627\u064A\u0631 2012. \u0631\u0634\u062D \u062A\u064A\u0631\u064A \u0644\u062C\u0627\u0626\u0632\u0629 \u0645\u062F\u0627\u0641\u0639 UEFA \u0641\u064A \u0627\u0644\u0633\u0646\u0629 \u0641\u064A \u0639\u0627\u0645 2005 \u0648 2008 \u0648 2009. \u0644\u0627\u0639\u0628 PFA \u0628\u0625\u062E\u062A\u064A\u0627\u0631 \u0627\u0644\u0644\u0627\u0639\u0628\u064A\u0646 \u0641\u064A \u0639\u0627\u0645 2005\u060C \u0648\u0623\u062F\u0631\u062C \u0641\u064A \u062A\u0634\u0643\u064A\u0644\u0629 \u0627\u0644\u0639\u0627\u0644\u0645 \u0644\u0645\u062F\u0629 \u062E\u0645\u0633\u0629 \u0645\u0648\u0627\u0633\u0645 \u0645\u062A\u062A\u0627\u0644\u064A\u0629\u060C 2005-2009. \u0648\u0643\u0627\u0646 \u0627\u0633\u0645\u0647 \u0623\u064A\u0636\u0627 \u0641\u064A \u062A\u0634\u0643\u064A\u0644\u0629 \u0643\u0644 \u0627\u0644\u0646\u062C\u0648\u0645 \u0644\u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 2006\u060C \u0648\u0647\u0648 \u0627\u0644\u0644\u0627\u0639\u0628 \u0627\u0644\u0627\u0646\u0643\u0644\u064A\u0632\u064A \u0627\u0644\u0648\u062D\u064A\u062F \u0627\u0644\u0630\u064A \u062F\u062E\u0644 \u0627\u0644\u062A\u0634\u0643\u064A\u0644\u0629. \u0648\u064A\u0631\u062A\u062F\u064A \u0627\u0644\u0642\u0645\u064A\u0635 \u0631\u0642\u0645 26 \u0644\u062A\u0634\u064A\u0644\u0633\u064A. \u062A\u064A\u0631\u064A \u0643\u0627\u0628\u062A\u0646 \u062A\u0634\u064A\u0644\u0633\u064A \u0627\u0644\u0623\u0643\u062B\u0631 \u0646\u062C\u0627\u062D\u0627\u060C \u0628\u0639\u062F \u0623\u0646 \u0642\u0627\u062F\u0647\u0645 \u0625\u0644\u0649 \u062B\u0644\u0627\u062B\u0629 \u0623\u0644\u0642\u0627\u0628 \u0627\u0644\u062F\u0648\u0631\u064A \u0627\u0644\u0645\u0645\u062A\u0627\u0632\u060C \u0648\u0623\u0631\u0628\u0639\u0629 \u0643\u0624\u0648\u0633 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0627\u0646\u0643\u0644\u064A\u0632\u064A \u060C \u0648\u0627\u062B\u0646\u064A\u0646 \u0645\u0646 \u0643\u0624\u0648\u0633 \u0627\u0644\u0643\u0627\u0628\u064A\u062A\u0627\u0644 \u0648\u0646 \"\u0627\u0644\u0645\u0633\u0645\u0649 \u0627\u0644\u062D\u0627\u0644\u064A \" \u0648\u062F\u0648\u0631\u064A \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627 \u0648 \u0628\u0637\u0648\u0644\u0629 \u0627\u0644\u064A\u0648\u0631\u0648\u0628\u0627\u0644\u064A\u062C , \u0648\u0647\u0648 \u0648\u0627\u062D\u062F \u0645\u0646 \u062E\u0645\u0633\u0629 \u0644\u0627\u0639\u0628\u064A\u0646 \u0627\u0644\u0630\u064A\u064A\u0646 \u0638\u0647\u0631\u0648\u0627 \u0644\u0623\u0643\u062B\u0631 \u0645\u0646 500 \u0645\u0628\u0627\u0631\u0627\u0629 \u0645\u0639 \u062A\u0634\u064A\u0644\u0633\u064A \u0648\u0623\u064A\u0636\u0627\u0623\u0639\u0644\u0649 \u0645\u062F\u0627\u0641\u0639 \u0627\u0644\u0646\u0627\u062F\u064A \u062A\u0633\u062C\u064A\u0644\u0627\u064B \u0644\u0644\u0623\u0647\u062F\u0627\u0641. \u0648\u0641\u064A \u0639\u0627\u0645 2007\u060C \u0623\u0635\u0628\u062D \u0623\u0648\u0644 \u0642\u0627\u0626\u062F \u064A\u0631\u0641\u0639 \u0643\u0623\u0633 \u0627\u0644\u0627\u062A\u062D\u0627\u062F \u0627\u0644\u0627\u0646\u062C\u0644\u064A\u0632\u064A \u0639\u0644\u0649 \u0627\u0633\u062A\u0627\u062F \u0648\u064A\u0645\u0628\u0644\u064A \u0627\u0644\u062C\u062F\u064A\u062F \u0627\u0644\u062A\u064A \u0627\u0646\u062A\u0647\u062A \u0645\u0628\u0627\u0631\u0627\u062A\u0647\u0627 \u0644\u0635\u0627\u0644\u062D \u0644\u062A\u0634\u064A\u0644\u0633\u064A 1 -0 \u0628\u0627\u0644\u0641\u0648\u0632 \u0639\u0644\u0649 \u0645\u0627\u0646\u0634\u0633\u062A\u0631 \u064A\u0648\u0646\u0627\u064A\u062A\u062F\u060C \u0648\u0623\u064A\u0636\u0627 \u0623\u0648\u0644 \u0644\u0627\u0639\u0628 \u064A\u0633\u062C\u0644 \u0647\u062F\u0641\u0627 \u062F\u0648\u0644\u064A\u0627\u064B \u0647\u0646\u0627\u0643\u060C \u0633\u062C\u0644 \u0631\u0623\u0633\u064A\u0629\u0644\u0627\u0646\u062C\u0644\u062A\u0631\u0627 \u0627\u0644\u062A\u064A \u0627\u0646\u062A\u0647\u062A \u0628\u0627\u0644\u062A\u0639\u0627\u062F\u0644 1-1 \u0645\u0639 \u0627\u0644\u0628\u0631\u0627\u0632\u064A\u0644."@ar ,
+		"\u7D04\u7FF0\u00B7\u4F50\u6CBB\u00B7\u6CF0\u5229\uFF08\u82F1\u8BED\uFF1AJohn George Terry\uFF0C1980\u5E7412\u67087\u65E5\uFF0D\uFF09\uFF0C\u82F1\u683C\u862D\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u53F8\u8077\u5F8C\u885B\uFF0C\u6548\u529B\u82F1\u8D85\u7403\u6703\u8ECA\u8DEF\u58EB\uFF0C\u662F\u8A72\u968A\u968A\u9577\uFF0C\u4EA6\u66FE\u4EFB\u82F1\u683C\u862D\u570B\u5BB6\u968A\u961F\u9577\u3002\u6CF0\u5229\u57282005\u5E74\u548C2008\u5E74\u7684\u6B50\u6D32\u806F\u8CFD\u51A0\u8ECD\u76C3\u4E2D\uFF0C\u88AB\u8A55\u70BA\u6700\u4F73\u5F8C\u885E\u3002\u57282006\u5E74\u7684\u4E16\u754C\u76C3\u4E2D\uFF0C\u4ED6\u662F\u552F\u4E00\u4E00\u4F4D\u88AB\u8A55\u70BA\u5168\u660E\u661F\u968A\u7684\u82F1\u683C\u862D\u7403\u54E1\u3002\u6CF0\u5229\u662F\u8ECA\u8DEF\u58EB\u6700\u6210\u529F\u7684\u968A\u9577\uFF0C\u81EA2004\u5E74\u4EE5\u4F86\uFF0C\u4ED6\u5E36\u9818\u8ECA\u8DEF\u58EB\u596A\u5F97\u4E09\u500B\u82F1\u683C\u862D\u8D85\u7D1A\u806F\u8CFD\u51A0\u8ECD\uFF0C\u4E09\u6B21\u8DB3\u7E3D\u76C3\u51A0\u8ECD\u548C\u5169\u500B\u806F\u8CFD\u76C3\u3002\u4ED6\u662F\u5176\u4E2D\u4E00\u4F4D\u70BA\u8ECA\u8DEF\u58EB\u51FA\u5834\u8D85\u904E 450\u500B\u7403\u54E1\uFF0C\u4E5F\u662F\u8ECA\u8DEF\u58EB\u5F8C\u885E\u4E2D\u5165\u7403\u6578\u91CF\u6700\u591A\u7684\u4E00\u4F4D\u3002\u57282007\u5E74\uFF0C\u4ED6\u5E36\u9818\u8ECA\u8DEF\u58EB\u4EE51 -0\u64CA\u6557\u66FC\u806F\u3002\u4ED6\u5728\u6EAB\u5E03\u840A\u7403\u5834\uFF0C\u8209\u8D77\u8DB3\u7E3D\u76C3\u3002"@zh ,
+		"John George Terry (ur. 7 grudnia 1980 w Londynie) \u2013 angielski pi\u0142karz graj\u0105cy na pozycji obro\u0144cy w Chelsea, kt\u00F3rej jest kapitanem."@pl ,
+		"Para el actor estadounidense, v\u00E9ase John Terry.John George Terry, mejor conocido como John Terry (Barking, Inglaterra, Reino Unido, 7 de diciembre de 1980), es un futbolista brit\u00E1nico. Se desempe\u00F1a como defensa central.Terry ha sido elegido como mejor defensa de la Liga de Campeones de la UEFA en los a\u00F1os 2005, 2008 y 2009, as\u00ED como ser ganador del Premio PFA al Jugador del A\u00F1o en el 2005. Tambi\u00E9n ha sido incluido en el Equipo del A\u00F1o FIFpro por 5 a\u00F1os consecutivos, del 2005 al 2009. Tambi\u00E9n fue incluido en el Equipo Estelar de la Copa Mundial de F\u00FAtbol de 2006, siendo el \u00FAnico jugador ingl\u00E9s en ser incluido.En el 2007, Terry se convirti\u00F3 en el primer capit\u00E1n en levantar el trofeo de la FA Cup en el nuevo Estadio de Wembley, cuando el Chelsea derrot\u00F3 al Manchester United por 1-0 en la final. Tambi\u00E9n es el primer jugador ingl\u00E9s en anotar un gol en ese estadio, cuando Inglaterra empat\u00F3 a 1-1 con Brasil. Sin embargo, Terry y el Chelsea fueron subcampeones en tres de las cuatro competiciones en las que participaban en la temporada 2007-08, perdiendo la final de la Football League Cup 2-1 frente al Tottenham Hotspur y perdiendo la Premier League y la Liga de Campeones contra el Manchester United. En la final de la Liga de Campeones de la temporada 2007-08, el Chelsea FC y el Manchester United empataron a 1-1 los 90 minutos, por lo que el juego se prolong\u00F3 hasta la tanda de penales, en donde Terry fall\u00F3 el penal que le hubiera dado al Chelsea el t\u00EDtulo. Despu\u00E9s de esa final, su compa\u00F1ero de equipo Frank Lampard lo describi\u00F3 como \"todo un hombre\".Junto a Frank Lampard, Petr \u010Cech, Michael Essien y Didier Drogba, Terry fue considerado pieza fundamental en la columna vertebral del Chelsea durante varios a\u00F1os. Ha ganado 11 trofeos como capit\u00E1n del Chelsea, lo que lo convierte en el jugador con m\u00E1s palmar\u00E9s en la historia del club. Al ser un producto de la cantera del Chelsea, es especialmente popular entre los aficionados."@es ,
+		"John George Terry (Barking, 7 december 1980) is een Engels voetballer. De centrale verdediger staat al zijn gehele betaald voetbalcarri\u00E8re onder contract bij Chelsea, waar hij de jeugdopleiding doorliep en in oktober 1998 debuteerde in de hoofdmacht. Op 31 augustus 2009 verlengde Terry er zijn contract tot en met het seizoen 2013/14."@nl ;
+	dbpedia-owl:wikiPageID	446099 ;
+	dbpedia-owl:wikiPageRevisionID	606602996 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:John_Terry	dbpprop:birthDate	"1980-12-07+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Barking, London, England" ;
+	dbpprop:dateOfBirth	"1980-12-07+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Barking, London, England" ;
+	dbpprop:shortDescription	"English footballer" ;
+	dbpedia-owl:birthDate	"1980-12-07+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Barking ,
+		dbpedia:England_national_football_team ;
+	dbpedia-owl:birthYear	"1980+02:00"^^xsd:gYear ;
+	dbpprop:after	dbpedia:Steven_Gerrard ,
+		"Incumbent" ,
+		dbpedia:Rio_Ferdinand ,
+		"Rotation" ;
+	dbpprop:before	dbpedia:Marcel_Desailly ,
+		dbpedia:Rio_Ferdinand ,
+		"Rotation" ,
+		dbpedia:David_Beckham ;
+	dbpprop:goals	0 ,
+		34 ;
+	dbpprop:bg	"white" ;
+	dbpprop:caps	6 ,
+		420 ;
+	dbpprop:years	1998 ,
+		2011 ,
+		2008 ,
+		2000 ,
+		2006 ,
+		2004 ;
+	dbpprop:youthclubs	<http://dbpedia.org/resource/Senrab_F.C.> ,
+		<http://dbpedia.org/resource/Chelsea_F.C.> ,
+		<http://dbpedia.org/resource/West_Ham_United_F.C.> ;
+	dbpedia-owl:careerStation	dbpedia:John_Terry__5 ,
+		dbpedia:John_Terry__6 ,
+		dbpedia:John_Terry__3 ,
+		dbpedia:John_Terry__2 ,
+		dbpedia:John_Terry__4 ,
+		dbpedia:John_Terry__1 ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.8700000000000001066 .
+@prefix ns75:	<http://dbpedia.org/datatype/> .
+@prefix ns76:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:John_Terry	ns76:height	"187.0"^^ns75:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/Chelsea_F.C.> ;
+	dbpprop:clubnumber	26 ;
+	dbpprop:fullname	"John George Terry" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/Chelsea_F.C.> ,
+		"\u2192 Nottingham Forest" ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/Nottingham_Forest_F.C.> ,
+		<http://dbpedia.org/resource/West_Ham_United_F.C.> ,
+		dbpedia:England_national_under-21_football_team ,
+		<http://dbpedia.org/resource/Senrab_F.C.> ,
+		dbpedia:England_national_football_team ,
+		<http://dbpedia.org/resource/Chelsea_F.C.> .
+@prefix ns77:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:John_Terry	dbpprop:wordnet_type	ns77:synset-soccer_player-noun-1 ;
+	dbpprop:title	"John Terry \u2013 Navigation boxes and awards" ,
+		"England squads" ,
+		"Chelsea captain" ,
+		dbpedia:List_of_England_national_football_team_captains ;
+	dbpprop:youthyears	1995 ,
+		1991 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.thesun.co.uk/sol/homepage/sport/football/4241726/Chelseas-John-Terry-My-kids-have-Barcelona-ace-Lionel-Messi-tops.html> ,
+		<http://www.thefa.com/England/SeniorTeam/Players/Postings/2004/03/John+Terry+Chelsea.htm> ,
+		<http://news.bbc.co.uk/sport1/shared/bsp/hi/football/statistics/players/t/terry_38930.stm> ,
+		<http://www.transfermarkt.co.uk/en/terry/profil/spieler_3160.html> ,
+		<http://www.englandfootballonline.com/TeamPlyrsBios/PlayersT/BioTerryJ.html> ,
+		<http://www.chelseafc.com/page/PlayerProfileDetail/0,,10268~5593,00.html> ;
+	dbpprop:clubUpdate	"2014-04-19+02:00"^^xsd:date ;
+	dbpprop:nationalteamUpdate	"2012-09-07+02:00"^^xsd:date ;
+	dbpprop:bordercolor	"#0B0B3F" ;
+	dbpprop:fg	"#0B0B3F" ;
+	dbpprop:nationalcaps	9 ,
+		78 ;
+	dbpprop:nationalgoals	1 ,
+		6 ;
+	dbpprop:nationalteam	dbpedia:England_national_under-21_football_team ,
+		dbpedia:England_national_football_team ;
+	dbpprop:nationalyears	2000 ,
+		2003 ;
+	dbpedia-owl:number	26 ;
+	dbpedia-owl:alias	"Terry, John" ;
+	dbpprop:alternativeNames	"Terry, John" .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2000%E2%80%9301_Chelsea_F.C._season>	dbpprop:name	dbpedia:John_Terry .
+<http://es.dbpedia.org/resource/John_Terry_(futbolista)>	owl:sameAs	dbpedia:John_Terry .
+ns35:جون_تيري	owl:sameAs	dbpedia:John_Terry .
+ns25:Con_Teri	owl:sameAs	dbpedia:John_Terry .
+ns23:Джон_Тэры	owl:sameAs	dbpedia:John_Terry .
+ns59:Джон_Тери	owl:sameAs	dbpedia:John_Terry .
+ns39:জন_টেরি	owl:sameAs	dbpedia:John_Terry .
+ns32:John_Terry	owl:sameAs	dbpedia:John_Terry .
+<http://da.dbpedia.org/resource/John_Terry_(fodboldspiller)>	owl:sameAs	dbpedia:John_Terry .
+ns40:John_Terry	owl:sameAs	dbpedia:John_Terry .
+<http://fa.dbpedia.org/resource/\u062C\u0627\u0646_\u062A\u0631\u06CC_(\u0628\u0627\u0632\u06CC\u06A9\u0646_\u0641\u0648\u062A\u0628\u0627\u0644)>	owl:sameAs	dbpedia:John_Terry .
+ns64:John_Terry	owl:sameAs	dbpedia:John_Terry .
+ns47:John_Terry	owl:sameAs	dbpedia:John_Terry .
+ns61:John_Terry	owl:sameAs	dbpedia:John_Terry .
+<http://he.dbpedia.org/resource/\u05D2\u0027\u05D5\u05DF_\u05D8\u05E8\u05D9>	owl:sameAs	dbpedia:John_Terry .
+ns28:जॉन_टेरी	owl:sameAs	dbpedia:John_Terry .
+ns49:John_Terry	owl:sameAs	dbpedia:John_Terry .
+<http://hu.dbpedia.org/resource/John_Terry_(labdar\u00FAg\u00F3)>	owl:sameAs	dbpedia:John_Terry .
+ns24:Ջոն_Թերի	owl:sameAs	dbpedia:John_Terry .
+ns67:John_Terry	owl:sameAs	dbpedia:John_Terry .
+ns38:John_Terry	owl:sameAs	dbpedia:John_Terry .
+ns53:ჯონ_ტერი	owl:sameAs	dbpedia:John_Terry .
+ns58:Ioannes_Georgius_Terry	owl:sameAs	dbpedia:John_Terry .
+ns57:John_Terry	owl:sameAs	dbpedia:John_Terry .
+ns31:John_Terry	owl:sameAs	dbpedia:John_Terry .
+ns54:Džons_Terijs	owl:sameAs	dbpedia:John_Terry .
+ns63:Џон_Тери	owl:sameAs	dbpedia:John_Terry .
+ns37:Жон_Терри	owl:sameAs	dbpedia:John_Terry .
+ns62:जॉन_टेरी	owl:sameAs	dbpedia:John_Terry .
+ns60:John_Terry	owl:sameAs	dbpedia:John_Terry .
+ns45:John_Terry	owl:sameAs	dbpedia:John_Terry .
+ns46:John_Terry	owl:sameAs	dbpedia:John_Terry .
+ns36:John_Terry	owl:sameAs	dbpedia:John_Terry .
+ns22:John_Terry	owl:sameAs	dbpedia:John_Terry .
+<http://ru.dbpedia.org/resource/\u0422\u0435\u0440\u0440\u0438,_\u0414\u0436\u043E\u043D>	owl:sameAs	dbpedia:John_Terry .
+ns44:John_Terry	owl:sameAs	dbpedia:John_Terry .
+ns21:John_Terry	owl:sameAs	dbpedia:John_Terry .
+ns29:John_Terry	owl:sameAs	dbpedia:John_Terry .
+ns43:John_Terry	owl:sameAs	dbpedia:John_Terry .
+ns27:Џон_Тери	owl:sameAs	dbpedia:John_Terry .
+ns56:John_Terry	owl:sameAs	dbpedia:John_Terry .
+ns51:John_Terry	owl:sameAs	dbpedia:John_Terry .
+ns48:జాన్_టెర్రీ	owl:sameAs	dbpedia:John_Terry .
+ns65:จอห์น_เทอร์รี	owl:sameAs	dbpedia:John_Terry .
+ns50:John_Terry	owl:sameAs	dbpedia:John_Terry .
+ns55:Джон_Террі	owl:sameAs	dbpedia:John_Terry .
+ns42:John_Terry	owl:sameAs	dbpedia:John_Terry .
+ns30:John_Terry	owl:sameAs	dbpedia:John_Terry .
+ns41:約翰·泰利	owl:sameAs	dbpedia:John_Terry .
+ns66:泰利	owl:sameAs	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2004%E2%80%9305_Chelsea_F.C._season>	dbpprop:name	dbpedia:John_Terry .
+dbpedia:UEFA_Euro_2004_squads	dbpprop:name	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2012_FIFA_Club_World_Cup_squads>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2005%E2%80%9306_Chelsea_F.C._season>	dbpprop:name	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2006%E2%80%9307_Chelsea_F.C._season>	dbpprop:name	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2012_MLS_All-Star_Game>	dbpprop:name	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2007%E2%80%9308_Chelsea_F.C._season>	dbpprop:name	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2008%E2%80%9309_Chelsea_F.C._season>	dbpprop:name	dbpedia:John_Terry .
+<http://dbpedia.org/resource/Chelsea_F.C.>	dbpprop:name	dbpedia:John_Terry .
+dbpedia:JT	dbpedia-owl:wikiPageDisambiguates	dbpedia:John_Terry .
+dbpedia:UEFA_Euro_2012_squads	dbpprop:name	dbpedia:John_Terry .
+<http://dbpedia.org/resource/Chelsea_L.F.C.>	dbpprop:owner	dbpedia:John_Terry ;
+	dbpedia-owl:owner	dbpedia:John_Terry .
+dbpedia:Steven_Gerrard	dbpprop:before	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2005_Football_League_Cup_Final>	dbpprop:manOfTheMatch1a	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2006_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:John_Terry .
+<http://dbpedia.org/resource/1999%E2%80%932000_Chelsea_F.C._season>	dbpprop:name	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2009%E2%80%9310_Chelsea_F.C._season>	dbpprop:name	dbpedia:John_Terry .
+<http://dbpedia.org/resource/History_of_Chelsea_F.C.>	dbpprop:lcb	dbpedia:John_Terry .
+<http://dbpedia.org/resource/Chelsea_F.C.__John_Terry__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2012_Malaysia_FAM_League>	dbpprop:goals	dbpedia:John_Terry .
+<http://dbpedia.org/resource/1999%E2%80%932000_Nottingham_Forest_F.C._season>	dbpprop:name	dbpedia:John_Terry .
+<http://dbpedia.org/resource/John_Terry_(disambiguation)>	dbpedia-owl:wikiPageDisambiguates	dbpedia:John_Terry .
+<http://dbpedia.org/resource/1998%E2%80%9399_Chelsea_F.C._season__John_Terry__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2006%E2%80%9307_Chelsea_F.C._season__John_Terry__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2007%E2%80%9308_Chelsea_F.C._season__John_Terry__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2012_MLS_All-Star_Game__John_Terry__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2008%E2%80%9309_Chelsea_F.C._season__John_Terry__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2008%E2%80%9309_Chelsea_F.C._season__John_Terry__2>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/1999%E2%80%932000_Chelsea_F.C._season__John_Terry__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2003%E2%80%9304_Chelsea_F.C._season__John_Terry__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2004%E2%80%9305_Chelsea_F.C._season__John_Terry__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2005%E2%80%9306_Chelsea_F.C._season__John_Terry__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2000%E2%80%9301_Chelsea_F.C._season__John_Terry__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2001%E2%80%9302_Chelsea_F.C._season__John_Terry__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2002%E2%80%9303_Chelsea_F.C._season__John_Terry__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2009%E2%80%9310_Chelsea_F.C._season__John_Terry__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/2009%E2%80%9310_Chelsea_F.C._season__John_Terry__2>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+<http://dbpedia.org/resource/1999%E2%80%932000_Nottingham_Forest_F.C._season__John_Terry__1>	dbpedia-owl:currentMember	dbpedia:John_Terry .
+dbpedia:EBJT	dbpedia-owl:wikiPageRedirects	dbpedia:John_Terry .
+dbpedia:Jon_terry	dbpedia-owl:wikiPageRedirects	dbpedia:John_Terry .

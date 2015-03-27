@@ -1,0 +1,245 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_de_Sarre_de_football	owl:sameAs	dbpedia:Saarland_national_football_team .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Saarländische_Fußballnationalmannschaft	owl:sameAs	dbpedia:Saarland_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q156975	owl:sameAs	dbpedia:Saarland_national_football_team .
+@prefix ns5:	<http://cs.dbpedia.org/resource/> .
+ns5:Fotbalová_reprezentace_Sárska	owl:sameAs	dbpedia:Saarland_national_football_team .
+<http://el.dbpedia.org/resource/\u0395\u03B8\u03BD\u03B9\u03BA\u03AE_\u03A3\u03AC\u03B1\u03C1\u03BB\u03B1\u03BD\u03C4_(\u03C0\u03BF\u03B4\u03CC\u03C3\u03C6\u03B1\u03B9\u03C1\u03BF_\u03B1\u03BD\u03B4\u03C1\u03CE\u03BD)>	owl:sameAs	dbpedia:Saarland_national_football_team .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Selección_de_fútbol_del_Sarre	owl:sameAs	dbpedia:Saarland_national_football_team .
+@prefix ns7:	<http://it.dbpedia.org/resource/> .
+ns7:Nazionale_di_calcio_del_Saarland	owl:sameAs	dbpedia:Saarland_national_football_team .
+@prefix ns8:	<http://ja.dbpedia.org/resource/> .
+ns8:サッカーザールラント代表	owl:sameAs	dbpedia:Saarland_national_football_team .
+@prefix ns9:	<http://ko.dbpedia.org/resource/> .
+ns9:자를란트_축구_국가대표팀	owl:sameAs	dbpedia:Saarland_national_football_team .
+@prefix ns10:	<http://nl.dbpedia.org/resource/> .
+ns10:Saarlands_voetbalelftal	owl:sameAs	dbpedia:Saarland_national_football_team .
+@prefix ns11:	<http://pl.dbpedia.org/resource/> .
+ns11:Reprezentacja_Saary_w_piłce_nożnej	owl:sameAs	dbpedia:Saarland_national_football_team .
+@prefix ns12:	<http://pt.dbpedia.org/resource/> .
+ns12:Seleção_do_Sarre_de_Futebol	owl:sameAs	dbpedia:Saarland_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns14:	<http://en.wikipedia.org/wiki/> .
+ns14:Saarland_national_football_team	foaf:primaryTopic	dbpedia:Saarland_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Saarland_national_football_team	rdf:type	dbpedia-owl:Organisation .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Saarland_national_football_team	rdf:type	yago:FootballTeam108080025 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Saarland_national_football_team	rdf:type	dul:Agent .
+@prefix ns19:	<http://schema.org/> .
+dbpedia:Saarland_national_football_team	rdf:type	ns19:SportsTeam ,
+		yago:YagoPermanentlyLocatedEntity ,
+		dul:SocialPerson ,
+		yago:FormerNationalAssociationFootballTeamsInEurope ,
+		dbpedia-owl:Agent ,
+		ns19:Organization ,
+		owl:Thing ,
+		yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ;
+	owl:sameAs	ns5:Fotbalová_reprezentace_Sárska .
+@prefix ns20:	<http://sr.dbpedia.org/resource/> .
+dbpedia:Saarland_national_football_team	owl:sameAs	ns20:Фудбалска_репрезентација_Сара ,
+		ns7:Nazionale_di_calcio_del_Saarland .
+@prefix ns21:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Saarland_national_football_team	owl:sameAs	ns21:Saarlands_herrlandslag_i_fotboll .
+@prefix ns22:	<http://yago-knowledge.org/resource/> .
+dbpedia:Saarland_national_football_team	owl:sameAs	ns22:Saarland_national_football_team ,
+		dbpedia:Saarland_national_football_team ,
+		ns12:Seleção_do_Sarre_de_Futebol ,
+		ns6:Selección_de_fútbol_del_Sarre ,
+		ns8:サッカーザールラント代表 ,
+		ns9:자를란트_축구_국가대표팀 .
+@prefix ns23:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Saarland_national_football_team	owl:sameAs	ns23:Saarin_jalkapallomaajoukkue .
+@prefix ns24:	<http://wikidata.org/entity/> .
+dbpedia:Saarland_national_football_team	owl:sameAs	ns24:Q156975 .
+@prefix ns25:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Saarland_national_football_team	owl:sameAs	ns25:Збірна_Саару_з_футболу ,
+		<http://el.dbpedia.org/resource/\u0395\u03B8\u03BD\u03B9\u03BA\u03AE_\u03A3\u03AC\u03B1\u03C1\u03BB\u03B1\u03BD\u03C4_(\u03C0\u03BF\u03B4\u03CC\u03C3\u03C6\u03B1\u03B9\u03C1\u03BF_\u03B1\u03BD\u03B4\u03C1\u03CE\u03BD)> .
+@prefix ns26:	<http://he.dbpedia.org/resource/> .
+dbpedia:Saarland_national_football_team	owl:sameAs	ns26:נבחרת_סארלנד_בכדורגל .
+@prefix ns27:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Saarland_national_football_team	owl:sameAs	ns27:Сборная_Саара_по_футболу ,
+		ns3:Saarländische_Fußballnationalmannschaft ,
+		ns11:Reprezentacja_Saary_w_piłce_nożnej .
+@prefix ns28:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Saarland_national_football_team	owl:sameAs	ns28:Saro_vyrų_futbolo_rinktinė .
+@prefix ns29:	<http://no.dbpedia.org/resource/> .
+dbpedia:Saarland_national_football_team	owl:sameAs	ns29:Saarlands_herrelandslag_i_fotball .
+@prefix ns30:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Saarland_national_football_team	owl:sameAs	ns30:Saarland_Millî_Futbol_Takımı .
+@prefix ns31:	<http://hr.dbpedia.org/resource/> .
+dbpedia:Saarland_national_football_team	owl:sameAs	ns31:Saarska_nogometna_reprezentacija ,
+		ns10:Saarlands_voetbalelftal .
+@prefix ns32:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Saarland_national_football_team	owl:sameAs	ns32:萨尔足球代表队 .
+@prefix ns33:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Saarland_national_football_team	owl:sameAs	ns33:Saar-vidéki_labdarúgó-válogatott ,
+		ns4:Q156975 .
+@prefix ns34:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Saarland_national_football_team	owl:sameAs	ns34:تیم_ملی_فوتبال_زارلند ,
+		<http://rdf.freebase.com/ns/m.0463pd> .
+@prefix ns35:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Saarland_national_football_team	owl:sameAs	ns35:Echipa_națională_de_fotbal_a_Saarlandului ,
+		ns1:Équipe_de_Sarre_de_football .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Saarland_national_football_team	rdfs:label	"Nazionale di calcio del Saarland"@it ,
+		"Saarlands voetbalelftal"@nl ,
+		"Saarl\u00E4ndische Fu\u00DFballnationalmannschaft"@de ,
+		"\u8428\u5C14\u8DB3\u7403\u4EE3\u8868\u961F"@zh ,
+		"Sele\u00E7\u00E3o do Sarre de Futebol"@pt ,
+		"\u00C9quipe de Sarre de football"@fr ,
+		"Reprezentacja Saary w pi\u0142ce no\u017Cnej"@pl ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u0430\u0430\u0440\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"Saarland national football team" ,
+		"\u30B5\u30C3\u30AB\u30FC\u30B6\u30FC\u30EB\u30E9\u30F3\u30C8\u4EE3\u8868"@ja .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Saarland_national_football_team	dcterms:subject	category:Former_national_association_football_teams_in_Europe ,
+		category:Saarland_national_football_team ,
+		<http://dbpedia.org/resource/Category:1950_establishments_in_Saar> ;
+	foaf:homepage	<http://eu-football.info/_matches.php?id=171> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Saar_(1947\u20131956).svg> ;
+	foaf:name	"Saarland" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Saarland_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Saarland_national_football_team?oldid=595894616> ;
+	rdfs:comment	"Reprezentacja Kraju Saary w pi\u0142ce no\u017Cnej (niem. Saarl\u00E4ndische Fu\u00DFballnationalmannschaft) \u2013 by\u0142a narodowa reprezentacja Protektoratu Saary, istniej\u0105ca w latach 1950\u20131956.W 1948 r. powsta\u0142 Zwi\u0105zek Pi\u0142ki No\u017Cnej Kraju Saary, kt\u00F3ry organizowa\u0142 rozgrywki ligowe w tym francuskim protektoracie. Reprezentacj\u0119 po raz pierwszy powo\u0142ano w 1950 r."@pl ,
+		"Per Nazionale di calcio del Saarland (o della Saar) s'intende la squadra calcistica del Saarland, una regione della Germania.Essa venne fondata nel giugno 1950, aderendo subito alla FIFA, e fu una delle federazioni fondatrici dell'UEFA nel 1954.Prese parte alle qualificazioni per i Mondiali 1954 ma non riusc\u00EC a qualificarsi per la fase finale, venendo eliminata dalla Germania Ovest.Nel giugno 1956 la Federazione della Saar entr\u00F2 a far parte della Federcalcio della Germania Ovest e, di conseguenza, scomparve la rappresentativa Nazionale."@it ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u0430\u0430\u0440\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u043B\u0430 \u0421\u0430\u0430\u0440, \u043E\u0431\u043B\u0430\u0441\u0442\u044C \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438, \u0441 1950 \u043F\u043E 1956 \u0433\u043E\u0434\u044B \u043E\u043A\u043A\u0443\u043F\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u0443\u044E \u0424\u0440\u0430\u043D\u0446\u0438\u0435\u0439 \u043F\u043E\u0441\u043B\u0435 \u0412\u0442\u043E\u0440\u043E\u0439 \u043C\u0438\u0440\u043E\u0432\u043E\u0439 \u0432\u043E\u0439\u043D\u044B. \u0424\u0440\u0430\u043D\u0446\u0438\u044F \u043E\u0442\u0440\u0438\u0446\u0430\u043B\u0430 \u043F\u0440\u0438\u043D\u0430\u0434\u043B\u0435\u0436\u043D\u043E\u0441\u0442\u044C \u0421\u0430\u0430\u0440\u0430 \u043A \u0424\u0420\u0413 \u0434\u043E 1956 \u0433\u043E\u0434\u0430 \u0438 \u0443\u043F\u0440\u0430\u0432\u043B\u044F\u043B\u0430 \u043F\u0440\u043E\u0442\u0435\u043A\u0442\u043E\u0440\u0430\u0442\u043E\u043C \u0421\u0430\u0430\u0440 \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u043E \u043E\u0442 \u043E\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u0439 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438.\u041C\u0435\u0441\u0442\u043D\u043E\u0435 \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u0435 \u043D\u0435 \u0445\u043E\u0442\u0435\u043B\u043E \u043F\u0440\u0438\u0441\u043E\u0435\u0434\u0438\u043D\u044F\u0442\u044C\u0441\u044F \u043A \u0424\u0440\u0430\u043D\u0446\u0438\u0438, \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u044B\u0432\u0430\u043B\u0438\u0441\u044C \u0430\u043D\u0442\u0438\u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0435 \u043E\u0431\u044A\u0435\u0434\u0438\u043D\u0435\u043D\u0438\u044F, \u0438 \u0432 1950 \u0433\u043E\u0434\u0443 \u041C\u041E\u041A \u0440\u0435\u0448\u0438\u043B \u0434\u043E\u043F\u0443\u0441\u0442\u0438\u0442\u044C \u0421\u0430\u0430\u0440 \u043A \u0443\u0447\u0430\u0441\u0442\u0438\u044E \u0432 \u041E\u043B\u0438\u043C\u043F\u0438\u0430\u0434\u0435 1952 \u0433\u043E\u0434\u0430."@ru ,
+		"\u8428\u5C14\u8DB3\u7403\u4EE3\u8868\u961F\u662F\u65BC1950\u5E74\u81F31956\u5E74\u671F\u95F4\u4EE3\u8868\u8428\u5C14\u4FDD\u62A4\u9886\u53C2\u52A0\u56FD\u9645\u8D5B\u4E8B\u7684\u8DB3\u7403\u961F\uFF0C\u7531\u8428\u5C14\u8DB3\u7403\u603B\u4F1A\u7BA1\u8F96\uFF0C\u8BE5\u534F\u4F1A\u5728\u5F53\u65F6\u662F\u56FD\u9645\u8DB3\u8054\u7684\u72EC\u7ACB\u6210\u5458\u3002\u6B64\u5916\uFF0C\u8003\u8651\u5230\u81EA\u5DF1\u5E76\u975E\u4E00\u4E2A\u4E3B\u6743\u56FD\u5BB6\uFF0C\u53C8\u4E3A\u4E0E\u5FB7\u56FD\u56FD\u5BB6\u8DB3\u7403\u961F\u533A\u5206\uFF0C\u8BE5\u7403\u961F\u6CA1\u6709\u4F7F\u7528\u56FD\u5BB6\u961F\u7684\u79F0\u8C13\uFF0C\u800C\u662F\u66F4\u666E\u904D\u7684\u4F7F\u7528\u201C\u4EE3\u8868\u961F\uFF08\u5FB7\u8BED\uFF1AAuswahl\uFF09\u201D\u6216\u76F8\u5173\u7C7B\u4F3C\u672F\u8BED\u3002\u8428\u5C14\u961F\u5408\u5171\u53C2\u52A0\u8FC719\u573A\u56FD\u9645\u6BD4\u8D5B\uFF0C\u5176\u4E2D\u5305\u62EC\u57281954\u5E74\u4E16\u754C\u676F\u9884\u9009\u8D5B\u4E2D\u4E0E\u897F\u5FB7\u961F\u5206\u81F3\u540C\u4E00\u5C0F\u7EC4\u3002\u5728\u53CC\u65B9\u4E8E\u65AF\u56FE\u52A0\u7279\u7684\u9996\u573A\u8F83\u91CF\u4E2D\uFF0C\u8428\u5C14\u961F\u4EE50\u6BD43\u544A\u8D1F\uFF1B\u6B21\u6218\u56DE\u5230\u4E3B\u573A\u540E\uFF0C\u4ED6\u4EEC\u518D\u5EA6\u4E8E\u8428\u5C14\u5E03\u5415\u80AF\u7684\u8DEF\u5FB7\u7EF4\u5E0C\u516C\u56ED\u4F53\u80B2\u573A\u4EE51\u6BD43\u5931\u5229\u3002\u4F46\u51ED\u501F\u7403\u961F\u5728\u5965\u65AF\u9646\u7684\u80DC\u5229\uFF0C\u8428\u5C14\u961F\u8FD8\u662F\u5728\u8BE5\u5C0F\u7EC4\u4E2D\u529B\u538B\u632A\u5A01\u6392\u540D\u7B2C\u4E8C\u3002\u5728\u5168\u90E819\u573A\u56FD\u9645\u6BD4\u8D5B\u4E2D\uFF0C\u8428\u5C14\u961F\u53D6\u5F97\u4E866\u80DC3\u5E7310\u8D1F\u7684\u6210\u7EE9\u3002\u5F53\u4E2D\u7684\u4EAE\u70B9\u662F1954\u5E74\u4E16\u754C\u676F\u51B3\u8D5B\u5708\u524D\u5915\u3001\u57281954\u5E746\u67085\u65E5\u7684\u70ED\u8EAB\u8D5B\u4E2D\u5BF9\u9635\u4E16\u754C\u676F\u536B\u5195\u51A0\u519B\u4E4C\u62C9\u572D\uFF0C\u7531\u540E\u8005\u5728\u8428\u5C14\u5E03\u5415\u80AF\u53D6\u5F977\u6BD41\u7684\u5927\u80DC\u3002\u4E24\u5E74\u540E\uFF0C\u8428\u5C14\u961F\u89E3\u6563\uFF0C\u56E0\u8428\u5C14\u8DB3\u7403\u603B\u4F1A\u91CD\u65B0\u4F5C\u4E3A\u4E00\u4E2A\u5DDE\u7ACB\u7EC4\u7EC7\u88AB\u7EB3\u5165\u5FB7\u56FD\u8DB3\u7403\u534F\u4F1A\u3002"@zh ,
+		"The Saarland national football team was the association football team representing Saarland from 1950 to 1956 during the French occupation following World War II. As France opposed the inclusion of the Saarland in the Federal Republic of Germany until 1956, they administered it separately from Germany as the Saar protectorate." ,
+		"Die Saarl\u00E4ndische Fu\u00DFballauswahl war die Mannschaft des Saarl\u00E4ndischen Fu\u00DFballbundes (SFB) in den Jahren von 1950 bis 1956, da das damals autonome Saarland in dieser Zeit eigenst\u00E4ndiges Mitglied des Weltfu\u00DFballverbandes FIFA war. Vergleichbar war das saarl\u00E4ndische NOK, das eine Teilnahme an Olympia 1952 erreichte.In dieser Zeit trug die Mannschaft 19 L\u00E4nderspiele aus. Unter anderem traf das Saarland in der Qualifikation f\u00FCr die Fu\u00DFball-Weltmeisterschaft 1954 auf die Deutsche Nationalmannschaft."@de ,
+		"\u30B5\u30C3\u30AB\u30FC\u30B6\u30FC\u30EB\u30E9\u30F3\u30C8\u4EE3\u8868\uFF08Saarl\u00E4ndische Fu\u00DFballnationalmannschaft\uFF09\u306F\u3001\u304B\u3064\u3066\u30B6\u30FC\u30EB\u30E9\u30F3\u30C8\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u305F\u300C\u30CA\u30B7\u30E7\u30CA\u30EB\u300D\u30C1\u30FC\u30E0\u30021950\u5E74\u304B\u30891956\u5E74\u307E\u3067\u5B58\u5728\u3057\u305F\u30021954\u5E74\u306B\u306FFIFA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u4E88\u9078\u306B\u53C2\u6226\u3057\u305F\u304C\u3001\u4E88\u9078\u6557\u9000\u306B\u7D42\u308F\u3063\u305F\u3002"@ja ,
+		"Het Saarlands voetbalelftal was het vertegenwoordigende voetbalelftal van het Protectoraat Saarland tussen 1950 en 1956.Saarland speelde in totaal 19 wedstrijden, waarvan 10 tegen nationale B-elftallen. Het speelde twee keer tegen Nederland.Het elftal had zich ingeschreven voor het Olympisch voetbaltoernooi van 1952 in Helsinki, maar trok zich voor aanvang terug. Het nam wel deel aan de kwalificatie voor het Wereldkampioenschap voetbal 1954."@nl ,
+		"L'\u00E9quipe de Sarre de football fut une s\u00E9lection des meilleurs joueurs de Sarre sous l'\u00E9gide de la F\u00E9d\u00E9ration de Sarre de football (Saarl\u00E4ndischer Fu\u00DFballbund). Cette \u00E9quipe est l'une des trois \u00E9quipes allemandes d'apr\u00E8s-guerre (avec celle de la RFA et celle de la RDA)."@fr ,
+		"A Sele\u00E7\u00E3o do Sarre de Futebol foi uma equipe de futebol que representou o Protetorado do Sarre durante a ocupa\u00E7\u00E3o francesa na Alemanha entre os anos de 1950 at\u00E9 1956. Como a Fran\u00E7a se op\u00F4s \u00E0 inclus\u00E3o do Sarre na Sele\u00E7\u00E3o Alem\u00E3 Ocidental, o estado alem\u00E3o de Sarre foi representado separadamente.Como a popula\u00E7\u00E3o local n\u00E3o quis aderir \u00E0 Fran\u00E7a, organiza\u00E7\u00F5es locais tiveram que ser fundadas, como o Comit\u00EA Ol\u00EDmpico do Sarre, que enviou atletas do Sarre para os Jogos Ol\u00EDmpicos de Ver\u00E3o de 1952."@pt .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Saarland_national_football_team	dbpprop:mostCaps	dbpedia:Waldemar_Philippi ;
+	foaf:isPrimaryTopicOf	ns14:Saarland_national_football_team .
+@prefix ns41:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Saarland_national_football_team	dbpprop:hasPhotoCollection	ns41:Saarland_national_football_team ;
+	dbpprop:name	"Saarland" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Saar_(1947\u20131956).svg?width=300> ;
+	dbpedia-owl:abstract	"L'\u00E9quipe de Sarre de football fut une s\u00E9lection des meilleurs joueurs de Sarre sous l'\u00E9gide de la F\u00E9d\u00E9ration de Sarre de football (Saarl\u00E4ndischer Fu\u00DFballbund). Cette \u00E9quipe est l'une des trois \u00E9quipes allemandes d'apr\u00E8s-guerre (avec celle de la RFA et celle de la RDA)."@fr ,
+		"Het Saarlands voetbalelftal was het vertegenwoordigende voetbalelftal van het Protectoraat Saarland tussen 1950 en 1956.Saarland speelde in totaal 19 wedstrijden, waarvan 10 tegen nationale B-elftallen. Het speelde twee keer tegen Nederland.Het elftal had zich ingeschreven voor het Olympisch voetbaltoernooi van 1952 in Helsinki, maar trok zich voor aanvang terug. Het nam wel deel aan de kwalificatie voor het Wereldkampioenschap voetbal 1954. Daarin werd het in een groep met Duitsland en Noorwegen tweede achter Duitsland."@nl ,
+		"Die Saarl\u00E4ndische Fu\u00DFballauswahl war die Mannschaft des Saarl\u00E4ndischen Fu\u00DFballbundes (SFB) in den Jahren von 1950 bis 1956, da das damals autonome Saarland in dieser Zeit eigenst\u00E4ndiges Mitglied des Weltfu\u00DFballverbandes FIFA war. Vergleichbar war das saarl\u00E4ndische NOK, das eine Teilnahme an Olympia 1952 erreichte.In dieser Zeit trug die Mannschaft 19 L\u00E4nderspiele aus. Unter anderem traf das Saarland in der Qualifikation f\u00FCr die Fu\u00DFball-Weltmeisterschaft 1954 auf die Deutsche Nationalmannschaft. Das erste Spiel ging in Stuttgart mit 0:3 verloren, im R\u00FCckspiel unterlag man im Ludwigsparkstadion in Saarbr\u00FCcken mit 1:3, in der Gruppe konnte man sich jedoch dank eines Ausw\u00E4rtssieges in Oslo als Zweiter vor Norwegen behaupten.Von seinen 19 L\u00E4nderspielen gewann das Saarland sechs, drei endeten unentschieden, zehn Spiele gingen verloren. Als H\u00F6hepunkt kann das Vorbereitungsspiel des amtierenden Weltmeisters Uruguay kurz vor der WM am 5. Juni 1954 gelten, das der Titelverteidiger in Saarbr\u00FCcken 7:1 gewann. Schon zwei Jahre sp\u00E4ter waren Saarl\u00E4nder f\u00FCr die Mannschaft des neuen Weltmeisters spielberechtigt, da der SFV ab 1956 wieder zum DFB beitreten konnte."@de ,
+		"A Sele\u00E7\u00E3o do Sarre de Futebol foi uma equipe de futebol que representou o Protetorado do Sarre durante a ocupa\u00E7\u00E3o francesa na Alemanha entre os anos de 1950 at\u00E9 1956. Como a Fran\u00E7a se op\u00F4s \u00E0 inclus\u00E3o do Sarre na Sele\u00E7\u00E3o Alem\u00E3 Ocidental, o estado alem\u00E3o de Sarre foi representado separadamente.Como a popula\u00E7\u00E3o local n\u00E3o quis aderir \u00E0 Fran\u00E7a, organiza\u00E7\u00F5es locais tiveram que ser fundadas, como o Comit\u00EA Ol\u00EDmpico do Sarre, que enviou atletas do Sarre para os Jogos Ol\u00EDmpicos de Ver\u00E3o de 1952. Al\u00E9m disso, como n\u00E3o era uma na\u00E7\u00E3o independente, diferente da Alemanha, a equipe de futebol n\u00E3o foi designada como sele\u00E7\u00E3o \"nacional\", mas sim apenas por \"sele\u00E7\u00E3o\" (Alem\u00E3o: Auswahl) ou algum termo semelhante."@pt ,
+		"The Saarland national football team was the association football team representing Saarland from 1950 to 1956 during the French occupation following World War II. As France opposed the inclusion of the Saarland in the Federal Republic of Germany until 1956, they administered it separately from Germany as the Saar protectorate. As the local population did not want to join France, separate organisations were founded, like in 1950 a NOC that led to an appearance of Saar at the 1952 Summer Olympics. Also, considering themselves not an independent nation different from Germany, the football team was not designated as a \"national team\", and was more generally referred to as a \"selection\" (German: Auswahl) or some similar term." ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u0430\u0430\u0440\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u043B\u0430 \u0421\u0430\u0430\u0440, \u043E\u0431\u043B\u0430\u0441\u0442\u044C \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438, \u0441 1950 \u043F\u043E 1956 \u0433\u043E\u0434\u044B \u043E\u043A\u043A\u0443\u043F\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u0443\u044E \u0424\u0440\u0430\u043D\u0446\u0438\u0435\u0439 \u043F\u043E\u0441\u043B\u0435 \u0412\u0442\u043E\u0440\u043E\u0439 \u043C\u0438\u0440\u043E\u0432\u043E\u0439 \u0432\u043E\u0439\u043D\u044B. \u0424\u0440\u0430\u043D\u0446\u0438\u044F \u043E\u0442\u0440\u0438\u0446\u0430\u043B\u0430 \u043F\u0440\u0438\u043D\u0430\u0434\u043B\u0435\u0436\u043D\u043E\u0441\u0442\u044C \u0421\u0430\u0430\u0440\u0430 \u043A \u0424\u0420\u0413 \u0434\u043E 1956 \u0433\u043E\u0434\u0430 \u0438 \u0443\u043F\u0440\u0430\u0432\u043B\u044F\u043B\u0430 \u043F\u0440\u043E\u0442\u0435\u043A\u0442\u043E\u0440\u0430\u0442\u043E\u043C \u0421\u0430\u0430\u0440 \u043E\u0442\u0434\u0435\u043B\u044C\u043D\u043E \u043E\u0442 \u043E\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u0439 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438.\u041C\u0435\u0441\u0442\u043D\u043E\u0435 \u043D\u0430\u0441\u0435\u043B\u0435\u043D\u0438\u0435 \u043D\u0435 \u0445\u043E\u0442\u0435\u043B\u043E \u043F\u0440\u0438\u0441\u043E\u0435\u0434\u0438\u043D\u044F\u0442\u044C\u0441\u044F \u043A \u0424\u0440\u0430\u043D\u0446\u0438\u0438, \u043E\u0431\u0440\u0430\u0437\u043E\u0432\u044B\u0432\u0430\u043B\u0438\u0441\u044C \u0430\u043D\u0442\u0438\u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0435 \u043E\u0431\u044A\u0435\u0434\u0438\u043D\u0435\u043D\u0438\u044F, \u0438 \u0432 1950 \u0433\u043E\u0434\u0443 \u041C\u041E\u041A \u0440\u0435\u0448\u0438\u043B \u0434\u043E\u043F\u0443\u0441\u0442\u0438\u0442\u044C \u0421\u0430\u0430\u0440 \u043A \u0443\u0447\u0430\u0441\u0442\u0438\u044E \u0432 \u041E\u043B\u0438\u043C\u043F\u0438\u0430\u0434\u0435 1952 \u0433\u043E\u0434\u0430."@ru ,
+		"\u8428\u5C14\u8DB3\u7403\u4EE3\u8868\u961F\u662F\u65BC1950\u5E74\u81F31956\u5E74\u671F\u95F4\u4EE3\u8868\u8428\u5C14\u4FDD\u62A4\u9886\u53C2\u52A0\u56FD\u9645\u8D5B\u4E8B\u7684\u8DB3\u7403\u961F\uFF0C\u7531\u8428\u5C14\u8DB3\u7403\u603B\u4F1A\u7BA1\u8F96\uFF0C\u8BE5\u534F\u4F1A\u5728\u5F53\u65F6\u662F\u56FD\u9645\u8DB3\u8054\u7684\u72EC\u7ACB\u6210\u5458\u3002\u6B64\u5916\uFF0C\u8003\u8651\u5230\u81EA\u5DF1\u5E76\u975E\u4E00\u4E2A\u4E3B\u6743\u56FD\u5BB6\uFF0C\u53C8\u4E3A\u4E0E\u5FB7\u56FD\u56FD\u5BB6\u8DB3\u7403\u961F\u533A\u5206\uFF0C\u8BE5\u7403\u961F\u6CA1\u6709\u4F7F\u7528\u56FD\u5BB6\u961F\u7684\u79F0\u8C13\uFF0C\u800C\u662F\u66F4\u666E\u904D\u7684\u4F7F\u7528\u201C\u4EE3\u8868\u961F\uFF08\u5FB7\u8BED\uFF1AAuswahl\uFF09\u201D\u6216\u76F8\u5173\u7C7B\u4F3C\u672F\u8BED\u3002\u8428\u5C14\u961F\u5408\u5171\u53C2\u52A0\u8FC719\u573A\u56FD\u9645\u6BD4\u8D5B\uFF0C\u5176\u4E2D\u5305\u62EC\u57281954\u5E74\u4E16\u754C\u676F\u9884\u9009\u8D5B\u4E2D\u4E0E\u897F\u5FB7\u961F\u5206\u81F3\u540C\u4E00\u5C0F\u7EC4\u3002\u5728\u53CC\u65B9\u4E8E\u65AF\u56FE\u52A0\u7279\u7684\u9996\u573A\u8F83\u91CF\u4E2D\uFF0C\u8428\u5C14\u961F\u4EE50\u6BD43\u544A\u8D1F\uFF1B\u6B21\u6218\u56DE\u5230\u4E3B\u573A\u540E\uFF0C\u4ED6\u4EEC\u518D\u5EA6\u4E8E\u8428\u5C14\u5E03\u5415\u80AF\u7684\u8DEF\u5FB7\u7EF4\u5E0C\u516C\u56ED\u4F53\u80B2\u573A\u4EE51\u6BD43\u5931\u5229\u3002\u4F46\u51ED\u501F\u7403\u961F\u5728\u5965\u65AF\u9646\u7684\u80DC\u5229\uFF0C\u8428\u5C14\u961F\u8FD8\u662F\u5728\u8BE5\u5C0F\u7EC4\u4E2D\u529B\u538B\u632A\u5A01\u6392\u540D\u7B2C\u4E8C\u3002\u5728\u5168\u90E819\u573A\u56FD\u9645\u6BD4\u8D5B\u4E2D\uFF0C\u8428\u5C14\u961F\u53D6\u5F97\u4E866\u80DC3\u5E7310\u8D1F\u7684\u6210\u7EE9\u3002\u5F53\u4E2D\u7684\u4EAE\u70B9\u662F1954\u5E74\u4E16\u754C\u676F\u51B3\u8D5B\u5708\u524D\u5915\u3001\u57281954\u5E746\u67085\u65E5\u7684\u70ED\u8EAB\u8D5B\u4E2D\u5BF9\u9635\u4E16\u754C\u676F\u536B\u5195\u51A0\u519B\u4E4C\u62C9\u572D\uFF0C\u7531\u540E\u8005\u5728\u8428\u5C14\u5E03\u5415\u80AF\u53D6\u5F977\u6BD41\u7684\u5927\u80DC\u3002\u4E24\u5E74\u540E\uFF0C\u8428\u5C14\u961F\u89E3\u6563\uFF0C\u56E0\u8428\u5C14\u8DB3\u7403\u603B\u4F1A\u91CD\u65B0\u4F5C\u4E3A\u4E00\u4E2A\u5DDE\u7ACB\u7EC4\u7EC7\u88AB\u7EB3\u5165\u5FB7\u56FD\u8DB3\u7403\u534F\u4F1A\u3002"@zh ,
+		"Reprezentacja Kraju Saary w pi\u0142ce no\u017Cnej (niem. Saarl\u00E4ndische Fu\u00DFballnationalmannschaft) \u2013 by\u0142a narodowa reprezentacja Protektoratu Saary, istniej\u0105ca w latach 1950\u20131956.W 1948 r. powsta\u0142 Zwi\u0105zek Pi\u0142ki No\u017Cnej Kraju Saary, kt\u00F3ry organizowa\u0142 rozgrywki ligowe w tym francuskim protektoracie. Reprezentacj\u0119 po raz pierwszy powo\u0142ano w 1950 r. Pierwszy mecz rozegra\u0142a z reprezentacj\u0105 B Szwajcarii (22 listopada 1950 w Saarbr\u00FCcken) odnosz\u0105c zwyci\u0119stwo 5-3.Dru\u017Cyna bra\u0142a udzia\u0142 w kwalifikacjach do Mistrzostw \u015Awiata w 1954 r. Rywalizowa\u0142a w grupie 1, wraz z RFN i Norwegi\u0105. W grupie tej zaj\u0119\u0142a drugie miejsce, za RFN i nie osi\u0105gn\u0119\u0142a awansu. \u0141\u0105cznie reprezentacja w latach 1950\u20131956 rozegra\u0142a 19 mecz\u00F3w, w tym 10 przeciw reprezentacjom \"B\".Ostatni sw\u00F3j mecz rozegra\u0142a 6 czerwca 1956 w Amsterdamie przeciw Holandii, przegrywaj\u0105c 3-2."@pl ,
+		"Per Nazionale di calcio del Saarland (o della Saar) s'intende la squadra calcistica del Saarland, una regione della Germania.Essa venne fondata nel giugno 1950, aderendo subito alla FIFA, e fu una delle federazioni fondatrici dell'UEFA nel 1954.Prese parte alle qualificazioni per i Mondiali 1954 ma non riusc\u00EC a qualificarsi per la fase finale, venendo eliminata dalla Germania Ovest.Nel giugno 1956 la Federazione della Saar entr\u00F2 a far parte della Federcalcio della Germania Ovest e, di conseguenza, scomparve la rappresentativa Nazionale."@it ,
+		"\u30B5\u30C3\u30AB\u30FC\u30B6\u30FC\u30EB\u30E9\u30F3\u30C8\u4EE3\u8868\uFF08Saarl\u00E4ndische Fu\u00DFballnationalmannschaft\uFF09\u306F\u3001\u304B\u3064\u3066\u30B6\u30FC\u30EB\u30E9\u30F3\u30C8\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u306B\u3088\u3063\u3066\u7DE8\u6210\u3055\u308C\u305F\u300C\u30CA\u30B7\u30E7\u30CA\u30EB\u300D\u30C1\u30FC\u30E0\u30021950\u5E74\u304B\u30891956\u5E74\u307E\u3067\u5B58\u5728\u3057\u305F\u30021954\u5E74\u306B\u306FFIFA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u4E88\u9078\u306B\u53C2\u6226\u3057\u305F\u304C\u3001\u4E88\u9078\u6557\u9000\u306B\u7D42\u308F\u3063\u305F\u3002"@ja ;
+	dbpedia-owl:wikiPageID	1102009 ;
+	dbpedia-owl:wikiPageRevisionID	595894616 ;
+	dbpprop:topScorer	dbpedia:Herbert_Martin ,
+		dbpedia:Herbert_Binkert ;
+	dbpprop:coach	<http://dbpedia.org/resource/Helmut_Sch%C3%B6n> ;
+	dbpedia-owl:coach	<http://dbpedia.org/resource/Helmut_Sch%C3%B6n> ;
+	dbpprop:association	"Saarl\u00E4ndischer Fu\u00DFball-Bund" ;
+	dbpprop:body	3 ,
+		990000 ;
+	dbpprop:fifaTrigramme	"SAA" ;
+	dbpprop:leftarm	3 ,
+		990000 ;
+	dbpprop:patternB	"_lightbluestripes" ;
+	dbpprop:rightarm	3 ,
+		990000 ;
+	dbpprop:shorts	3 ,
+		"FFFFFF" ;
+	dbpprop:socks	"FF0000" ,
+		3 ;
+	dbpprop:badge	"Flag of Saar .svg" ;
+	dbpprop:firstGame	2 ,
+		3 ,
+		"Last International" ,
+		"Saarland 5 \u2013 3" ;
+	dbpprop:largestLoss	"Saarland 1 \u2013 7" ;
+	dbpprop:largestWin	2 ;
+	dbpprop:regionalName	dbpedia:UEFA_European_Championship ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.rsssf.com/tabless/saar-intres.html> ,
+		<http://www.rsssf.com/miscellaneous/saar-recintlp.html> ,
+		<http://eu-football.info/_matches.php?id=171> ;
+	dbpprop:homeStadium	dbpedia:Ludwigsparkstadion ;
+	dbpedia-owl:stadium	dbpedia:Ludwigsparkstadion .
+ns34:تیم_ملی_فوتبال_زارلند	owl:sameAs	dbpedia:Saarland_national_football_team .
+ns23:Saarin_jalkapallomaajoukkue	owl:sameAs	dbpedia:Saarland_national_football_team .
+ns26:נבחרת_סארלנד_בכדורגל	owl:sameAs	dbpedia:Saarland_national_football_team .
+ns31:Saarska_nogometna_reprezentacija	owl:sameAs	dbpedia:Saarland_national_football_team .
+ns33:Saar-vidéki_labdarúgó-válogatott	owl:sameAs	dbpedia:Saarland_national_football_team .
+ns28:Saro_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Saarland_national_football_team .
+ns29:Saarlands_herrelandslag_i_fotball	owl:sameAs	dbpedia:Saarland_national_football_team .
+ns35:Echipa_națională_de_fotbal_a_Saarlandului	owl:sameAs	dbpedia:Saarland_national_football_team .
+ns27:Сборная_Саара_по_футболу	owl:sameAs	dbpedia:Saarland_national_football_team .
+ns20:Фудбалска_репрезентација_Сара	owl:sameAs	dbpedia:Saarland_national_football_team .
+ns21:Saarlands_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Saarland_national_football_team .
+ns30:Saarland_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Saarland_national_football_team .
+ns25:Збірна_Саару_з_футболу	owl:sameAs	dbpedia:Saarland_national_football_team .
+ns32:萨尔足球代表队	owl:sameAs	dbpedia:Saarland_national_football_team .
+dbpedia:Albert_Keck	dbpedia-owl:team	dbpedia:Saarland_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Saarland_national_football_team .
+dbpedia:Herbert_Binkert	dbpedia-owl:team	dbpedia:Saarland_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Saarland_national_football_team .
+dbpedia:Karl_Ringel	dbpedia-owl:team	dbpedia:Saarland_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Saarland_national_football_team .
+dbpedia:Herbert_Martin	dbpedia-owl:team	dbpedia:Saarland_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Saarland_national_football_team .
+dbpedia:Heinz_Vollmar	dbpedia-owl:team	dbpedia:Saarland_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Saarland_national_football_team .
+dbpedia:Gerhard_Siedl	dbpedia-owl:team	dbpedia:Saarland_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Saarland_national_football_team .
+dbpedia:Kurt_Clemens	dbpedia-owl:team	dbpedia:Saarland_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Saarland_national_football_team .
+dbpedia:Franz_Immig	dbpedia-owl:team	dbpedia:Saarland_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Saarland_national_football_team .
+<http://dbpedia.org/resource/Helmut_Sch%C3%B6n>	dbpedia-owl:managerClub	dbpedia:Saarland_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Saarland_national_football_team .
+dbpedia:Waldemar_Philippi	dbpedia-owl:team	dbpedia:Saarland_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Saarland_national_football_team .
+dbpedia:Theodor_Puff	dbpedia-owl:team	dbpedia:Saarland_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Saarland_national_football_team .
+dbpedia:Nikolaus_Biewer	dbpedia-owl:team	dbpedia:Saarland_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Saarland_national_football_team .
+dbpedia:Karl_Berg	dbpedia-owl:team	dbpedia:Saarland_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Saarland_national_football_team .
+<http://dbpedia.org/resource/Werner_Otto_(footballer)>	dbpedia-owl:team	dbpedia:Saarland_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Saarland_national_football_team .
+dbpedia:Erwin_Strempel	dbpedia-owl:team	dbpedia:Saarland_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Saarland_national_football_team .
+dbpedia:Heinz_Vollmar__2	dbpedia-owl:team	dbpedia:Saarland_national_football_team .
+dbpedia:Herbert_Martin__2	dbpedia-owl:team	dbpedia:Saarland_national_football_team .
+dbpedia:Erwin_Strempel__3	dbpedia-owl:team	dbpedia:Saarland_national_football_team .
+dbpedia:Waldemar_Philippi__2	dbpedia-owl:team	dbpedia:Saarland_national_football_team .
+dbpedia:Theodor_Puff__2	dbpedia-owl:team	dbpedia:Saarland_national_football_team .
+dbpedia:Karl_Berg__2	dbpedia-owl:team	dbpedia:Saarland_national_football_team .
+dbpedia:Kurt_Clemens__2	dbpedia-owl:team	dbpedia:Saarland_national_football_team .
+<http://dbpedia.org/resource/Werner_Otto_(footballer)__2>	dbpedia-owl:team	dbpedia:Saarland_national_football_team .
+dbpedia:Nikolaus_Biewer__2	dbpedia-owl:team	dbpedia:Saarland_national_football_team .
+dbpedia:Karl_Ringel__2	dbpedia-owl:team	dbpedia:Saarland_national_football_team .
+dbpedia:Herbert_Binkert__3	dbpedia-owl:team	dbpedia:Saarland_national_football_team .
+dbpedia:Albert_Keck__2	dbpedia-owl:team	dbpedia:Saarland_national_football_team .
+dbpedia:Franz_Immig__2	dbpedia-owl:team	dbpedia:Saarland_national_football_team .
+dbpedia:Auguste_Jordan__6	dbpedia-owl:team	dbpedia:Saarland_national_football_team .
+dbpedia:Gerhard_Siedl__8	dbpedia-owl:team	dbpedia:Saarland_national_football_team .
+dbpedia:Saar_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Saarland_national_football_team .
+<http://dbpedia.org/resource/Saarl%C3%A4ndischer_Fu%C3%9Fballbund>	dbpedia-owl:wikiPageRedirects	dbpedia:Saarland_national_football_team .
+dbpedia:Saarland_Football_Association	dbpedia-owl:wikiPageRedirects	dbpedia:Saarland_national_football_team .
+dbpedia:Saarland_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:Saarland_national_football_team .
+<http://dbpedia.org/resource/Helmut_Sch%C3%B6n__5>	dbpedia-owl:team	dbpedia:Saarland_national_football_team .
+dbpedia:Auguste_Jordan	dbpedia-owl:managerClub	dbpedia:Saarland_national_football_team ;
+	dbpprop:managerclubs	dbpedia:Saarland_national_football_team .

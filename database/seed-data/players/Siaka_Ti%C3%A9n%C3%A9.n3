@@ -1,0 +1,241 @@
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_Africa_Cup_of_Nations_squads>	dbpprop:name	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix ns2:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9>	rdf:type	ns2:Q215627 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9>	rdf:type	yago:FootballPlayer110101634 ,
+		yago:IvorianExpatriatesInSouthAfrica ,
+		yago:IvorianExpatriateFootballers ,
+		yago:Contestant109613191 ,
+		yago:PeopleFromAbidjan .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9>	rdf:type	dbpedia-owl:SoccerPlayer ,
+		yago:Defender109614684 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9>	rdf:type	foaf:Person ,
+		yago:Preserver110466918 ,
+		ns2:Q5 ,
+		yago:ExpatriateFootballersInFrance ,
+		yago:AssociationFootballDefenders .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9>	rdf:type	dul:Agent ,
+		yago:YagoLegalActorGeo ,
+		dul:NaturalPerson ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		<http://dbpedia.org/class/yago/ASSaint-%C3%89tiennePlayers> ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:ASECMimosasPlayers ,
+		<http://dbpedia.org/class/yago/C%C3%B4teD\u0027IvoireInternationalFootballers> .
+@prefix ns7:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9>	rdf:type	ns7:Athlete ,
+		yago:ExpatriateAssociationFootballersInSouthAfrica ,
+		<http://dbpedia.org/class/yago/MamelodiSundownsF.C.Players> ,
+		yago:Exile110071332 ,
+		ns7:SoccerPlayer ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> .
+@prefix ns8:	<http://schema.org/> .
+<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9>	rdf:type	ns8:Person ,
+		yago:ValenciennesFCPlayers ,
+		yago:IvorianFootballers ,
+		yago:Ligue1Players ,
+		yago:PhysicalEntity100001930 ,
+		<http://dbpedia.org/class/yago/ParisSaint-GermainF.C.Players> ,
+		dbpedia-owl:Athlete ,
+		yago:Object100002684 ,
+		yago:Whole100003553 ,
+		dbpedia-owl:Agent ,
+		yago:Player110439851 ,
+		yago:StadeDeReimsPlayers .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9>	rdf:type	owl:Thing ,
+		dbpedia-owl:Person ,
+		yago:Athlete109820263 .
+@prefix ns10:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9>	owl:sameAs	ns10:Siaka_Tiéné ,
+		<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> ,
+		<http://rdf.freebase.com/ns/m.07sp_m> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9>	rdfs:label	"Siaka Ti\u00E9n\u00E9"@it ,
+		"Siaka Ti\u00E9n\u00E9"@pt ,
+		"\u30B7\u30A2\u30AB\u30FB\u30C6\u30A3\u30A8\u30CD"@ja ,
+		"Siaka Ti\u00E9n\u00E9"@fr ,
+		"\u0633\u064A\u0627\u0643\u0627 \u062A\u064A\u064A\u0646\u064A"@ar ,
+		"\u0422\u044C\u0435\u043D\u0435, \u0421\u044C\u044F\u043A\u0430"@ru ,
+		"Siaka Ti\u00E9n\u00E9"@de ,
+		"Siaka Ti\u00E9n\u00E9" ,
+		"Siaka Ti\u00E9n\u00E9"@es ,
+		"Siaka Ti\u00E9n\u00E9"@pl ,
+		"Siaka Ti\u00E9n\u00E9"@nl .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9>	dcterms:subject	<http://dbpedia.org/resource/Category:AS_Saint-%C3%89tienne_players> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9>	dcterms:subject	category:Association_football_midfielders ,
+		category:Stade_de_Reims_players ,
+		category:Expatriate_footballers_in_France ,
+		category:Ligue_1_players ,
+		<http://dbpedia.org/resource/Category:1982_births> ,
+		category:Valenciennes_FC_players ,
+		category:Association_football_defenders ,
+		<http://dbpedia.org/resource/Category:2013_Africa_Cup_of_Nations_players> ,
+		category:Montpellier_HSC_players ,
+		category:Expatriate_soccer_players_in_South_Africa ,
+		<http://dbpedia.org/resource/Category:Mamelodi_Sundowns_F.C._players> ,
+		category:Ivorian_expatriate_footballers ,
+		category:Ivorian_expatriates_in_South_Africa ,
+		category:People_from_Abidjan ,
+		<http://dbpedia.org/resource/Category:2010_Africa_Cup_of_Nations_players> ,
+		<http://dbpedia.org/resource/Category:Paris_Saint-Germain_F.C._players> ,
+		category:Ivory_Coast_international_footballers ,
+		category:ASEC_Mimosas_players ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2002_African_Cup_of_Nations_players> ,
+		<http://dbpedia.org/resource/Category:2012_Africa_Cup_of_Nations_players> ,
+		<http://dbpedia.org/resource/Category:2008_Africa_Cup_of_Nations_players> ,
+		category:Ivorian_footballers ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Ti\u00E9n\u00E9_vafc.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9>	dc:description	"Ivorian footballer" ,
+		"Ivorian footballer" ;
+	foaf:givenName	"Siaka" ;
+	foaf:name	"Ti\u00E9n\u00E9, Siaka" ,
+		"Siaka Ti\u00E9n\u00E9" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Siaka_Ti\u00E9n\u00E9?oldid=605624204> ;
+	rdfs:comment	"Siaka Ti\u00E9n\u00E9 (* 22. Februar 1982 in Abidjan) ist ein ivorischer Fu\u00DFballspieler.Nachdem er seine Karriere in der Elfenbeink\u00FCste startete, wechselte der Mittelfeldspieler nach S\u00FCdafrika zu Mamelodi Sundowns. Noch im gleichen Jahr spielte er ab September f\u00FCr den franz\u00F6sischen Erstligisten AS Saint-\u00C9tienne, bei dem er in der Saison 2005/06 f\u00FCnfmal in der Ligue 1 eingesetzt wurde. Ti\u00E9n\u00E9 bestritt bereits sechs L\u00E4nderspiele f\u00FCr die Ivorische Fu\u00DFballnationalmannschaft."@de ,
+		"Siaka Ti\u00E9n\u00E9 (Abidjan, 22 febbraio 1982) \u00E8 un calciatore ivoriano, difensore del Montpellier e della Nazionale ivoriana."@it ,
+		"Siaka Ti\u00E9n\u00E9 (born 22 February 1982) is an Ivorian footballer who currently plays as a left back and also play as a holding midfielder or winger for Ligue 1 club Montpellier HSC." ,
+		"Siaka Ti\u00E9n\u00E9 est un footballeur international ivoirien, n\u00E9 le 22 f\u00E9vrier 1982 \u00E0 Abidjan. \u00C9voluant au poste de lat\u00E9ral gauche, il joue actuellement au Montpellier HSC."@fr ,
+		"Siaka Ti\u00E9n\u00E9 (Siaka Ti\u00E9n\u00E9, Costa de Marfil, 22 de febrero de 1982), llamado Siaka Ti\u00E9n\u00E9, es un futbolista marfile\u00F1o. Juega de Lateral izquierdo o carrilero y su equipo actual es el Montpellier HSC de la Ligue 1 de Francia."@es ,
+		"Siaka Chico Ti\u00E9n\u00E9 (ur. 22 lutego 1982 w Abid\u017Canie), pochodzi z Wybrze\u017Ca Ko\u015Bci S\u0142oniowej, wyst\u0119puje jako lewoskrzyd\u0142owy. Obecnie jest zawodnikiem klubu Montpellier HSC."@pl ,
+		"Siaka Chico Ti\u00E9n\u00E9 (Abidjan, 22 februari 1982) is een Ivoriaans betaald voetballer die bij voorkeur op het middenveld speelt. Hij verruilde in 2013 Paris Saint-Germain transfervrij voor Montpellier. In april 2000 debuteerde hij in het Ivoriaans voetbalelftal, waarvoor hij meer dan vijftig interlands speelde.Ti\u00E9nes carri\u00E8re in het profvoetbal begon bij ASEC Mimosas in zijn thuisland. Hij voetbalde met het Ivoriaans nationaal elftal op onder meer het WK 2006 en het WK 2010."@nl ,
+		"Siaka Ti\u00E9n\u00E9 (Abidjan, 22 de fevereiro de 1982) \u00E9 um futebolista profissional da Costa do Marfim que atua como lateral."@pt ,
+		"\u30B7\u30A2\u30AB\u30FB\u30C1\u30B3\u30FB\u30C6\u30A3\u30A8\u30CD\uFF08Siaka Chico Ti\u00E9n\u00E9\u30011982\u5E742\u67082\u65E5 - \uFF09\u306F\u3001\u30B3\u30FC\u30C8\u30B8\u30DC\u30EF\u30FC\u30EB\u30FB\u30A2\u30D3\u30B8\u30E3\u30F3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FDF\u3002\u30D5\u30E9\u30F3\u30B9\u30EA\u30FC\u30B0\u306E\u30E2\u30F3\u30DA\u30EA\u30A8HSC\u306B\u6240\u5C5E\u3002"@ja ,
+		"\u0633\u064A\u0627\u0643\u0627 \u062A\u064A\u064A\u0646 Siaka Ti\u00E9n\u00E9\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 22 \u0641\u0628\u0631\u0627\u064A\u0631 1982 \u0641\u064A \u0623\u0628\u064A\u062F\u062C\u0627\u0646 \u0641\u064A \u0633\u0627\u062D\u0644 \u0627\u0644\u0639\u0627\u062C\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0639\u0627\u062C\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0623\u0633\u064A\u0643 \u0623\u0628\u064A\u062F\u062C\u0627\u0646 \u0641\u064A \u0639\u0627\u0645 1999\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2003\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2003 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0645\u0627\u0645\u064A\u0644\u0648\u062F\u064A \u0635\u0646\u062F\u0627\u0648\u0646\u0632\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2005\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 46 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 14 \u0647\u062F\u0641\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2005 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0633\u0627\u0646\u062A \u0625\u062A\u064A\u0627\u0646 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u060C \u0648\u0641\u064A \u0645\u0648\u0633\u0645 2006/2007 \u0623\u0639\u064A\u0631 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0631\u064A\u0645\u0632 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 18 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 3 \u0623\u0647\u062F\u0627\u0641.\u0648 \u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0633\u0627\u062D\u0644 \u0627\u0644\u0639\u0627\u062C \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0646\u0630 \u0639\u0627\u0645 2005.\u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"\u0421\u044C\u044F\u043A\u0430\u0301 \u0428\u0438\u043A\u043E\u0301 \u0422\u044C\u0435\u043D\u0435\u0301 (\u0444\u0440. Siaka Chico Ti\u00E9n\u00E9; 22 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1982, \u0410\u0431\u0438\u0434\u0436\u0430\u043D) \u2014 \u0438\u0432\u0443\u0430\u0440\u0438\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043B\u0435\u0432\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u041C\u043E\u043D\u043F\u0435\u043B\u044C\u0435\u00BB \u0438 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u043E\u0442-\u0434\u2019\u0418\u0432\u0443\u0430\u0440\u0430."@ru ;
+	foaf:surname	"Ti\u00E9n\u00E9" .
+@prefix ns16:	<http://en.wikipedia.org/wiki/> .
+<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9>	foaf:isPrimaryTopicOf	ns16:Siaka_Tiéné .
+@prefix ns17:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9>	dbpprop:hasPhotoCollection	ns17:Siaka_Tiéné ;
+	dbpprop:name	"Ti\u00E9n\u00E9, Siaka" ,
+		"Siaka Ti\u00E9n\u00E9" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Ti\u00E9n\u00E9_vafc.jpg?width=300> ;
+	dbpedia-owl:abstract	"Siaka Ti\u00E9n\u00E9 (* 22. Februar 1982 in Abidjan) ist ein ivorischer Fu\u00DFballspieler.Nachdem er seine Karriere in der Elfenbeink\u00FCste startete, wechselte der Mittelfeldspieler nach S\u00FCdafrika zu Mamelodi Sundowns. Noch im gleichen Jahr spielte er ab September f\u00FCr den franz\u00F6sischen Erstligisten AS Saint-\u00C9tienne, bei dem er in der Saison 2005/06 f\u00FCnfmal in der Ligue 1 eingesetzt wurde. Ti\u00E9n\u00E9 bestritt bereits sechs L\u00E4nderspiele f\u00FCr die Ivorische Fu\u00DFballnationalmannschaft. Ende Oktober 2006 wurde Ti\u00E9n\u00E9 bis Saisonende an den Zweitligisten Stade Reims ausgeliehen. Von 2008 bis August 2010 spielte Ti\u00E9n\u00E9 f\u00FCr den FC Valenciennes in der Ligue 1, ehe er zum franz\u00F6sischen Spitzenklub Paris Saint-Germain wechselte."@de ,
+		"\u0633\u064A\u0627\u0643\u0627 \u062A\u064A\u064A\u0646 Siaka Ti\u00E9n\u00E9\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 22 \u0641\u0628\u0631\u0627\u064A\u0631 1982 \u0641\u064A \u0623\u0628\u064A\u062F\u062C\u0627\u0646 \u0641\u064A \u0633\u0627\u062D\u0644 \u0627\u0644\u0639\u0627\u062C\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0639\u0627\u062C\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0623\u0633\u064A\u0643 \u0623\u0628\u064A\u062F\u062C\u0627\u0646 \u0641\u064A \u0639\u0627\u0645 1999\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2003\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2003 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0645\u0627\u0645\u064A\u0644\u0648\u062F\u064A \u0635\u0646\u062F\u0627\u0648\u0646\u0632\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2005\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 46 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 14 \u0647\u062F\u0641\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2005 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0633\u0627\u0646\u062A \u0625\u062A\u064A\u0627\u0646 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u060C \u0648\u0641\u064A \u0645\u0648\u0633\u0645 2006/2007 \u0623\u0639\u064A\u0631 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0631\u064A\u0645\u0632 \u0627\u0644\u0641\u0631\u0646\u0633\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 18 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 3 \u0623\u0647\u062F\u0627\u0641.\u0648 \u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0633\u0627\u062D\u0644 \u0627\u0644\u0639\u0627\u062C \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0645\u0646\u0630 \u0639\u0627\u0645 2005.\u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"Siaka Ti\u00E9n\u00E9 (Siaka Ti\u00E9n\u00E9, Costa de Marfil, 22 de febrero de 1982), llamado Siaka Ti\u00E9n\u00E9, es un futbolista marfile\u00F1o. Juega de Lateral izquierdo o carrilero y su equipo actual es el Montpellier HSC de la Ligue 1 de Francia."@es ,
+		"Siaka Chico Ti\u00E9n\u00E9 (Abidjan, 22 februari 1982) is een Ivoriaans betaald voetballer die bij voorkeur op het middenveld speelt. Hij verruilde in 2013 Paris Saint-Germain transfervrij voor Montpellier. In april 2000 debuteerde hij in het Ivoriaans voetbalelftal, waarvoor hij meer dan vijftig interlands speelde.Ti\u00E9nes carri\u00E8re in het profvoetbal begon bij ASEC Mimosas in zijn thuisland. Hij voetbalde met het Ivoriaans nationaal elftal op onder meer het WK 2006 en het WK 2010."@nl ,
+		"\u30B7\u30A2\u30AB\u30FB\u30C1\u30B3\u30FB\u30C6\u30A3\u30A8\u30CD\uFF08Siaka Chico Ti\u00E9n\u00E9\u30011982\u5E742\u67082\u65E5 - \uFF09\u306F\u3001\u30B3\u30FC\u30C8\u30B8\u30DC\u30EF\u30FC\u30EB\u30FB\u30A2\u30D3\u30B8\u30E3\u30F3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FDF\u3002\u30D5\u30E9\u30F3\u30B9\u30EA\u30FC\u30B0\u306E\u30E2\u30F3\u30DA\u30EA\u30A8HSC\u306B\u6240\u5C5E\u3002"@ja ,
+		"Siaka Ti\u00E9n\u00E9 (born 22 February 1982) is an Ivorian footballer who currently plays as a left back and also play as a holding midfielder or winger for Ligue 1 club Montpellier HSC." ,
+		"Siaka Ti\u00E9n\u00E9 (Abidjan, 22 de fevereiro de 1982) \u00E9 um futebolista profissional da Costa do Marfim que atua como lateral."@pt ,
+		"Siaka Ti\u00E9n\u00E9 (Abidjan, 22 febbraio 1982) \u00E8 un calciatore ivoriano, difensore del Montpellier e della Nazionale ivoriana."@it ,
+		"Siaka Chico Ti\u00E9n\u00E9 (ur. 22 lutego 1982 w Abid\u017Canie), pochodzi z Wybrze\u017Ca Ko\u015Bci S\u0142oniowej, wyst\u0119puje jako lewoskrzyd\u0142owy. Obecnie jest zawodnikiem klubu Montpellier HSC."@pl ,
+		"\u0421\u044C\u044F\u043A\u0430\u0301 \u0428\u0438\u043A\u043E\u0301 \u0422\u044C\u0435\u043D\u0435\u0301 (\u0444\u0440. Siaka Chico Ti\u00E9n\u00E9; 22 \u0444\u0435\u0432\u0440\u0430\u043B\u044F 1982, \u0410\u0431\u0438\u0434\u0436\u0430\u043D) \u2014 \u0438\u0432\u0443\u0430\u0440\u0438\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043B\u0435\u0432\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u041C\u043E\u043D\u043F\u0435\u043B\u044C\u0435\u00BB \u0438 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u043E\u0442-\u0434\u2019\u0418\u0432\u0443\u0430\u0440\u0430."@ru ,
+		"Siaka Ti\u00E9n\u00E9 est un footballeur international ivoirien, n\u00E9 le 22 f\u00E9vrier 1982 \u00E0 Abidjan. \u00C9voluant au poste de lat\u00E9ral gauche, il joue actuellement au Montpellier HSC."@fr ;
+	dbpedia-owl:wikiPageID	2626818 ;
+	dbpedia-owl:wikiPageRevisionID	605624204 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9>	dbpprop:birthDate	"1982-02-22+02:00"^^xsd:date .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9>	dbpprop:birthPlace	dbpedia:Abidjan ,
+		dbpedia:Ivory_Coast ;
+	dbpprop:dateOfBirth	"1982-02-22+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Abidjan, C\u00F4te d'Ivoire" ;
+	dbpprop:shortDescription	"Ivorian footballer" ;
+	dbpedia-owl:birthDate	"1982-02-22+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Ivory_Coast_national_football_team ,
+		dbpedia:Abidjan ,
+		dbpedia:Ivory_Coast ;
+	dbpedia-owl:birthYear	"1982+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	150 ;
+	dbpprop:goals	14 ,
+		2 ,
+		3 ,
+		0 ,
+		1 ;
+	dbpprop:bg	"#F1771D" ;
+	dbpprop:caps	24 ,
+		18 ,
+		21 ,
+		46 ,
+		57 ,
+		54 ;
+	dbpprop:years	2008 ,
+		2006 ,
+		2005 ,
+		2003 ,
+		1999 ,
+		2013 ,
+		2010 ;
+	dbpprop:youthclubs	dbpedia:ASEC_Mimosas ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9__5> ,
+		<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9__3> ,
+		<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9__6> ,
+		<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9__2> ,
+		<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9__1> ,
+		<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9__7> ,
+		<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9__4> ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.7600000000000000089 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9>	ns21:height	"176.0"^^ns20:centimetre ;
+	dbpprop:currentclub	dbpedia:Montpellier_HSC ;
+	dbpprop:clubnumber	5 ;
+	dbpprop:fullname	"Siaka Ti\u00E9n\u00E9" ;
+	dbpprop:clubs	dbpedia:Valenciennes_FC ,
+		<http://dbpedia.org/resource/AS_Saint-%C3%89tienne> ,
+		dbpedia:ASEC_Mimosas ,
+		dbpedia:Montpellier_HSC ,
+		<http://dbpedia.org/resource/Paris_Saint-Germain_F.C.> ,
+		<http://dbpedia.org/resource/Mamelodi_Sundowns_F.C.> ,
+		"\u2192 Stade Reims" ;
+	dbpedia-owl:team	dbpedia:Ivory_Coast_national_football_team ,
+		<http://dbpedia.org/resource/AS_Saint-%C3%89tienne> ,
+		dbpedia:Valenciennes_FC ,
+		dbpedia:ASEC_Mimosas ,
+		dbpedia:Montpellier_HSC ,
+		<http://dbpedia.org/resource/Paris_Saint-Germain_F.C.> ,
+		<http://dbpedia.org/resource/Mamelodi_Sundowns_F.C.> ,
+		dbpedia:Stade_de_Reims .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"C\u00F4te d'Ivoire squads" ;
+	dbpprop:pcupdate	"2014-04-24+02:00"^^xsd:date ;
+	dbpedia-owl:wikiPageExternalLink	<http://espnfc.com/player/_/id/86326/siaka-ti%C3%A9n%C3%A9?cc=5901> ,
+		<http://www.lequipe.fr/Football/FootballFicheJoueur15961.html> ;
+	dbpprop:bordercolor	"green" ;
+	dbpprop:fg	"white" ;
+	dbpprop:nationalcaps	85 ;
+	dbpprop:nationalgoals	2 ;
+	dbpprop:nationalteam	dbpedia:Ivory_Coast_national_football_team ;
+	dbpprop:nationalyears	2000 ;
+	dbpedia-owl:number	5 ;
+	dbpprop:ntupdate	"2013-06-20+02:00"^^xsd:date .
+<http://dbpedia.org/resource/2010%E2%80%9311_Paris_Saint-Germain_F.C._season>	dbpprop:p	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> .
+ns16:Siaka_Tiéné	foaf:primaryTopic	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> .
+<http://dbpedia.org/resource/2013_Africa_Cup_of_Nations_squads>	dbpprop:name	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> .
+dbpedia:Siaka_Tiéné	owl:sameAs	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> .
+<http://dbpedia.org/resource/2007%E2%80%9308_Paris_Saint-Germain_F.C._season>	dbpprop:p	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> .
+<http://dbpedia.org/resource/Montpellier_HSC__Siaka_Ti%C3%A9n%C3%A9__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> .
+dbpedia:Siaka_Tiene	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> .
+<http://dbpedia.org/resource/2012%E2%80%9313_Paris_Saint-Germain_F.C._season>	dbpprop:p	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> .
+<http://dbpedia.org/resource/2011%E2%80%9312_Paris_Saint-Germain_F.C._season>	dbpprop:p	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> .
+dbpedia:Montpellier_HSC	dbpprop:name	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> .
+dbpedia:List_of_French_football_transfers_summer_2013	dbpprop:name	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> .
+<http://dbpedia.org/resource/2008_Africa_Cup_of_Nations_squads>	dbpprop:name	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> .
+<http://dbpedia.org/resource/2012_Africa_Cup_of_Nations_squads>	dbpprop:name	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> .
+<http://dbpedia.org/resource/2002_African_Cup_of_Nations_squads>	dbpprop:name	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> .
+<http://dbpedia.org/resource/2006_Africa_Cup_of_Nations_squads>	dbpprop:name	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> .
+dbpedia:Ivory_Coast_national_football_team	dbpprop:name	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> .
+<http://dbpedia.org/resource/2010_South_Korea_national_football_team_season>	dbpprop:home5player	<http://dbpedia.org/resource/Siaka_Ti%C3%A9n%C3%A9> .

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xml:base="http://www.daml.org/2001/12/factbook/cr">
+  <rdf:Description rdf:about='#A23841'>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A23824'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Pacific Ocean</NS0:name>
+    <NS0:elevation>0</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A23839'>
+    <NS0:note>mostly grass or scrub cover</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A23811'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>-18.0</NS0:latitude>
+    <NS0:longitude>152.0</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#CR'>
+    <NS0:background>Scattered over some 1 million square kilometers of ocean, the Coral Sea Islands were declared a territory of Australia in 1969. They are uninhabited except for a small meteorological staff on Willis Island. Automated weather stations, beacons, and a lighthouse occupy many other islands and reefs.</NS0:background>
+    <NS0:location>Oceania, islands in the Coral Sea, northeast of Australia</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A23811'/>
+    <NS0:mapReferences>Oceania</NS0:mapReferences>
+    <NS0:waterArea>0</NS0:waterArea>
+    <NS0:comparativeArea>NA</NS0:comparativeArea>
+    <NS0:coastline>3095</NS0:coastline>
+    <NS0:exclusiveFishingZone>200</NS0:exclusiveFishingZone>
+    <NS0:territorialSea>3</NS0:territorialSea>
+    <NS0:climate>tropical</NS0:climate>
+    <NS0:terrain>sand and coral reefs and islands (or cays)</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A23824'/>
+    <NS0:highestPoint rdf:resource='#A23829'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#NEGL'/>
+    <NS0:arableLand>0</NS0:arableLand>
+    <NS0:permanentCrops>0</NS0:permanentCrops>
+    <NS0:permanentPastures>0</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>0</NS0:forestsAndWoodland>
+    <NS0:otherLandUse rdf:ID='A23839'>100</NS0:otherLandUse>
+    <NS0:irrigatedLand rdf:ID='A23841'>0</NS0:irrigatedLand>
+    <NS0:naturalHazard>occasional tropical cyclones</NS0:naturalHazard>
+    <NS0:environmentalIssue>no permanent fresh water resources</NS0:environmentalIssue>
+    <NS0:conventionalLongCountryName>Coral Sea Islands Territory</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Coral Sea Islands</NS0:conventionalShortCountryName>
+    <NS0:dependencyStatus>territory of Australia; administered from Canberra by the Department of the Environment, Sport, and Territories</NS0:dependencyStatus>
+    <NS0:legalSystem>the laws of Australia, where applicable, apply</NS0:legalSystem>
+    <NS0:flagDescription>the flag of Australia is used</NS0:flagDescription>
+    <NS0:economyOverview>no economic activity</NS0:economyOverview>
+    <NS0:port rdf:resource='#A23851'/>
+    <NS0:internationalDispute>none</NS0:internationalDispute>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/cr-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/cr-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/cr-map.jpg</NS0:map>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A23851'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>none; offshore anchorage only</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A23829'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>unnamed location on Cato Island</NS0:name>
+    <NS0:elevation>6</NS0:elevation>
+  </rdf:Description>
+</rdf:RDF>

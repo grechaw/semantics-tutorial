@@ -1,0 +1,198 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Zdeno_Štrba	foaf:primaryTopic	<http://dbpedia.org/resource/Zdeno_%C5%A0trba> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Zdeno_%C5%A0trba> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:Slovakia_at_the_FIFA_World_Cup	dbpprop:name	<http://dbpedia.org/resource/Zdeno_%C5%A0trba> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+<http://dbpedia.org/resource/Zdeno_%C5%A0trba>	rdf:type	<http://dbpedia.org/class/yago/SkodaXanthiF.C.Players> ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Zdeno_%C5%A0trba>	rdf:type	dbpedia-owl:Person ,
+		dbpedia-owl:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Zdeno_%C5%A0trba>	rdf:type	yago:Object100002684 ,
+		yago:Whole100003553 ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:SuperleagueGreecePlayers ,
+		yago:FootballPlayer110101634 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:ExpatriateFootballersInGreece ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:Athlete109820263 ,
+		yago:Player110439851 ,
+		foaf:Person ,
+		<http://dbpedia.org/class/yago/PeopleFromKr%C3%A1snoNadKysucou> ,
+		dbpedia-owl:Athlete ,
+		yago:SlovakFirstLeaguePlayers ,
+		yago:SpartakMyjavaPlayers ,
+		<http://dbpedia.org/class/yago/FKDuklaBansk%C3%A1BystricaPlayers> .
+@prefix ns7:	<http://schema.org/> .
+<http://dbpedia.org/resource/Zdeno_%C5%A0trba>	rdf:type	ns7:Person .
+@prefix ns8:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Zdeno_%C5%A0trba>	rdf:type	ns8:SoccerPlayer ,
+		<http://dbpedia.org/class/yago/FKP%C3%BAchovPlayers> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Zdeno_%C5%A0trba>	rdf:type	dul:NaturalPerson ,
+		dul:Agent .
+@prefix ns10:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Zdeno_%C5%A0trba>	rdf:type	ns10:Q5 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Zdeno_%C5%A0trba>	rdf:type	owl:Thing ,
+		ns10:Q215627 ,
+		yago:Contestant109613191 ,
+		ns8:Athlete ,
+		yago:PhysicalEntity100001930 ,
+		yago:SlovakFootballers ,
+		yago:SlovakiaInternationalFootballers ,
+		yago:SlovakExpatriateFootballers ,
+		<http://dbpedia.org/class/yago/M%C5%A0K%C5%BDilinaPlayers> .
+@prefix ns12:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Zdeno_%C5%A0trba>	owl:sameAs	ns12:Zdeno_Štrba ,
+		<http://rdf.freebase.com/ns/m.027gv73> ,
+		<http://dbpedia.org/resource/Zdeno_%C5%A0trba> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Zdeno_%C5%A0trba>	rdfs:label	"\u0428\u0442\u0440\u0431\u0430, \u0417\u0434\u0435\u043D\u043E"@ru ,
+		"\u0632\u062F\u064A\u0646\u0648 \u0634\u062A\u0631\u0628\u0627"@ar ,
+		"Zdeno \u0160trba"@it ,
+		"Zdeno \u0160trba"@de ,
+		"Zdeno \u0160trba"@pl ,
+		"Zdeno \u0160trba" ,
+		"Zdeno \u0160trba"@pt ,
+		"Zdeno \u0160trba"@es ,
+		"Zdeno \u0160trba"@fr .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+<http://dbpedia.org/resource/Zdeno_%C5%A0trba>	dcterms:subject	<http://dbpedia.org/resource/Category:People_from_Kr%C3%A1sno_nad_Kysucou> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Zdeno_%C5%A0trba>	dcterms:subject	category:Spartak_Myjava_players ,
+		<http://dbpedia.org/resource/Category:FK_P%C3%BAchov_players> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Slovak_First_League_players ,
+		<http://dbpedia.org/resource/Category:1976_births> ,
+		<http://dbpedia.org/resource/Category:Skoda_Xanthi_F.C._players> ,
+		category:Living_people ,
+		category:Association_football_midfielders ,
+		category:Slovak_footballers ,
+		<http://dbpedia.org/resource/Category:M%C5%A0K_%C5%BDilina_players> ,
+		category:Slovakia_international_footballers ,
+		category:Slovak_expatriate_footballers ,
+		category:Superleague_Greece_players ,
+		category:Expatriate_footballers_in_Greece ,
+		<http://dbpedia.org/resource/Category:FK_Dukla_Bansk%C3%A1_Bystrica_players> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Zdeno_\u0160trba.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Zdeno_%C5%A0trba>	dc:description	"footballer" ,
+		"footballer" ;
+	foaf:givenName	"Zdeno" ;
+	foaf:name	"Strba, Zdeno" ,
+		"Zdeno Strba" ,
+		"Zdeno \u0160trba" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Zdeno_%C5%A0trba>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Zdeno_\u0160trba?oldid=555172142> ;
+	rdfs:comment	"Zdeno \u0160trba (Kr\u00E1sno nad Kysucou, 9 de Junho de 1976) \u00E9 um futebolista eslovaco que atua como meio-campista do Skoda Xanthi.Ap\u00F3s uma d\u00E9cada no futebol eslovaco, com passagens por FK P\u00FAchov, e uma passagem no M\u0160K \u017Dilina, em 2009 se transfere para a Gr\u00E9cia; no Skoda Xanthi, conseguiu a titularidade no meio-campo da equipe da Tr\u00E1cia."@pt ,
+		"\u0632\u062F\u064A\u0646\u0648 \u0634\u062A\u0631\u0628\u0627 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Zdeno \u0160trba) (\u0645\u0648\u0627\u0644\u064A\u062F 9 \u064A\u0648\u0646\u064A\u0648 1976 \u0641\u064A \u0643\u0631\u0627\u0633\u0646\u0648 \u0646\u0627\u062F \u0643\u064A\u0633\u0648\u0643\u0648) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0633\u0644\u0648\u0641\u0627\u0643\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0633\u0643\u0648\u062F\u0627 \u0632\u0627\u0646\u062B\u064A \u0627\u0644\u064A\u0648\u0646\u0627\u0646\u064A ."@ar ,
+		"\u0417\u0434\u0435\u0301\u043D\u043E \u0428\u0442\u0440\u0431\u0430 (\u0441\u043B\u043E\u0432\u0430\u0446\u043A. Zdeno \u0160trba; 9 \u0438\u044E\u043D\u044F 1976, \u041A\u0440\u0430\u0441\u043D\u043E-\u043D\u0430\u0434-\u041A\u0438\u0441\u0443\u0446\u043E\u0443, \u0427\u0435\u0445\u043E\u0441\u043B\u043E\u0432\u0430\u043A\u0438\u044F) \u2014 \u0441\u043B\u043E\u0432\u0430\u0446\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A, \u0431\u044B\u0432\u0448\u0438\u0439 \u0438\u0433\u0440\u043E\u043A \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u043B\u043E\u0432\u0430\u043A\u0438\u0438."@ru ,
+		"Zdeno \u0160trba (born 9 June 1976) is a Slovak football midfielder who currently plays for SC St. Martin. He played for the Slovakia national football team 25 games." ,
+		"Zdeno \u0160trba (Kr\u00E1sno nad Kysucou, Checoslovaquia, 9 de junio de 1976) es un futbolista eslovaco que juega como mediocampista en el SC St. Martin."@es ,
+		"Zdeno \u0160trba (Kr\u00E1sno nad Kysucou, 9 giugno 1976) \u00E8 un calciatore slovacco, centrocampista dello \u017Dilina e della Nazionale slovacca."@it ,
+		"Zdeno \u0160trba, n\u00E9 le 9 juin 1976 \u00E0 Kr\u00E1sno nad Kysucou, est un footballeur international slovaque \u00E9voluant au poste de milieu de terrain d\u00E9fensif."@fr ,
+		"Zdeno \u0160trba (* 9. Juni 1976 in Kr\u00E1sno nad Kysucou) ist ein ehemaliger slowakischer Fu\u00DFballspieler."@de ,
+		"Zdeno \u0160trba (ur. 9 czerwca 1976 w miejscowo\u015Bci Kr\u00E1sno nad Kysucou) \u2013 s\u0142owacki pi\u0142karz wyst\u0119puj\u0105cy na na pozycji defensywnego pomocnika. Obecnie gra w Skodzie Xanthi."@pl ;
+	foaf:surname	"Strba" ;
+	foaf:isPrimaryTopicOf	ns1:Zdeno_Štrba .
+@prefix ns18:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Zdeno_%C5%A0trba>	dbpprop:hasPhotoCollection	ns18:Zdeno_Štrba ;
+	dbpprop:name	"Zdeno \u0160trba" ,
+		"Strba, Zdeno" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Zdeno_\u0160trba.jpg?width=300> ;
+	dbpedia-owl:abstract	"Zdeno \u0160trba (* 9. Juni 1976 in Kr\u00E1sno nad Kysucou) ist ein ehemaliger slowakischer Fu\u00DFballspieler."@de ,
+		"\u0417\u0434\u0435\u0301\u043D\u043E \u0428\u0442\u0440\u0431\u0430 (\u0441\u043B\u043E\u0432\u0430\u0446\u043A. Zdeno \u0160trba; 9 \u0438\u044E\u043D\u044F 1976, \u041A\u0440\u0430\u0441\u043D\u043E-\u043D\u0430\u0434-\u041A\u0438\u0441\u0443\u0446\u043E\u0443, \u0427\u0435\u0445\u043E\u0441\u043B\u043E\u0432\u0430\u043A\u0438\u044F) \u2014 \u0441\u043B\u043E\u0432\u0430\u0446\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A, \u0431\u044B\u0432\u0448\u0438\u0439 \u0438\u0433\u0440\u043E\u043A \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u043B\u043E\u0432\u0430\u043A\u0438\u0438."@ru ,
+		"Zdeno \u0160trba (Kr\u00E1sno nad Kysucou, 9 de Junho de 1976) \u00E9 um futebolista eslovaco que atua como meio-campista do Skoda Xanthi.Ap\u00F3s uma d\u00E9cada no futebol eslovaco, com passagens por FK P\u00FAchov, e uma passagem no M\u0160K \u017Dilina, em 2009 se transfere para a Gr\u00E9cia; no Skoda Xanthi, conseguiu a titularidade no meio-campo da equipe da Tr\u00E1cia."@pt ,
+		"Zdeno \u0160trba, n\u00E9 le 9 juin 1976 \u00E0 Kr\u00E1sno nad Kysucou, est un footballeur international slovaque \u00E9voluant au poste de milieu de terrain d\u00E9fensif."@fr ,
+		"Zdeno \u0160trba (born 9 June 1976) is a Slovak football midfielder who currently plays for SC St. Martin. He played for the Slovakia national football team 25 games." ,
+		"\u0632\u062F\u064A\u0646\u0648 \u0634\u062A\u0631\u0628\u0627 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Zdeno \u0160trba) (\u0645\u0648\u0627\u0644\u064A\u062F 9 \u064A\u0648\u0646\u064A\u0648 1976 \u0641\u064A \u0643\u0631\u0627\u0633\u0646\u0648 \u0646\u0627\u062F \u0643\u064A\u0633\u0648\u0643\u0648) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0633\u0644\u0648\u0641\u0627\u0643\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0633\u0643\u0648\u062F\u0627 \u0632\u0627\u0646\u062B\u064A \u0627\u0644\u064A\u0648\u0646\u0627\u0646\u064A ."@ar ,
+		"Zdeno \u0160trba (Kr\u00E1sno nad Kysucou, Checoslovaquia, 9 de junio de 1976) es un futbolista eslovaco que juega como mediocampista en el SC St. Martin."@es ,
+		"Zdeno \u0160trba (Kr\u00E1sno nad Kysucou, 9 giugno 1976) \u00E8 un calciatore slovacco, centrocampista dello \u017Dilina e della Nazionale slovacca."@it ,
+		"Zdeno \u0160trba (ur. 9 czerwca 1976 w miejscowo\u015Bci Kr\u00E1sno nad Kysucou) \u2013 s\u0142owacki pi\u0142karz wyst\u0119puj\u0105cy na na pozycji defensywnego pomocnika. Obecnie gra w Skodzie Xanthi."@pl ;
+	dbpedia-owl:wikiPageID	8735758 ;
+	dbpedia-owl:wikiPageRevisionID	555172142 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Zdeno_%C5%A0trba>	dbpprop:birthDate	"1976-06-09+02:00"^^xsd:date ;
+	dbpprop:birthPlace	<http://dbpedia.org/resource/Kr%C3%A1sno_nad_Kysucou> ,
+		dbpedia:Czechoslovakia ;
+	dbpprop:dateOfBirth	"1976-06-09+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	<http://dbpedia.org/resource/Kr%C3%A1sno_nad_Kysucou> ,
+		dbpedia:Czechoslovakia ;
+	dbpprop:shortDescription	"footballer" ;
+	dbpedia-owl:birthDate	"1976-06-09+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	<http://dbpedia.org/resource/Kr%C3%A1sno_nad_Kysucou> ,
+		dbpedia:Czechoslovakia ;
+	dbpedia-owl:birthYear	"1976+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	150 ;
+	dbpprop:goals	3 ,
+		0 ,
+		4 ,
+		5 ,
+		9 ;
+	dbpprop:caps	78 ,
+		191 ,
+		18 ,
+		8 ,
+		36 ;
+	dbpprop:years	1998 ,
+		2003 ,
+		2012 ,
+		2013 ,
+		2011 ,
+		2009 ;
+	dbpprop:youthclubs	"Tatran Kr\u00E1sno nad Kysucou" ,
+		<http://dbpedia.org/resource/FK_Dukla_Bansk%C3%A1_Bystrica> ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Zdeno_%C5%A0trba__3> ,
+		<http://dbpedia.org/resource/Zdeno_%C5%A0trba__6> ,
+		<http://dbpedia.org/resource/Zdeno_%C5%A0trba__5> ,
+		<http://dbpedia.org/resource/Zdeno_%C5%A0trba__1> ,
+		<http://dbpedia.org/resource/Zdeno_%C5%A0trba__4> ,
+		<http://dbpedia.org/resource/Zdeno_%C5%A0trba__2> ,
+		<http://dbpedia.org/resource/Zdeno_%C5%A0trba__7> ;
+	dbpprop:position	dbpedia:Midfielder ;
+	dbpedia-owl:position	dbpedia:Midfielder ;
+	dbpedia-owl:height	1.8700000000000001066 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Zdeno_%C5%A0trba>	ns21:height	"187.0"^^ns20:centimetre ;
+	dbpprop:currentclub	"SC St. Martin" ;
+	dbpprop:fullname	"Zdeno \u0160trba" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/M%C5%A0K_%C5%BDilina> ,
+		"SC St. Martin" ,
+		<http://dbpedia.org/resource/FK_P%C3%BAchov> ,
+		<http://dbpedia.org/resource/Skoda_Xanthi_F.C.> ,
+		dbpedia:Spartak_Myjava ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/M%C5%A0K_%C5%BDilina> ,
+		<http://dbpedia.org/resource/FK_Dukla_Bansk%C3%A1_Bystrica> ,
+		<http://dbpedia.org/resource/FK_P%C3%BAchov> ,
+		<http://dbpedia.org/resource/Skoda_Xanthi_F.C.> ,
+		dbpedia:Spartak_Myjava ,
+		dbpedia:Slovakia_national_football_team ;
+	dbpprop:pcupdate	"2013-05-15+02:00"^^xsd:date ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.mskzilina.sk/include/showman.php?id=24> ;
+	dbpprop:nationalcaps	25 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:Slovakia_national_football_team ;
+	dbpprop:nationalyears	2003 .
+dbpedia:List_of_Greek_football_transfers_summer_2009	dbpprop:name	<http://dbpedia.org/resource/Zdeno_%C5%A0trba> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Zdeno_%C5%A0trba> .
+dbpedia:Zdeno_Štrba	owl:sameAs	<http://dbpedia.org/resource/Zdeno_%C5%A0trba> .
+dbpedia:Zdenko	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Zdeno_%C5%A0trba> .
+<http://dbpedia.org/resource/Zdenko_%C5%A0trba>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Zdeno_%C5%A0trba> .
+dbpedia:Zdenko_Strba	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Zdeno_%C5%A0trba> .
+dbpedia:Zdeno_Strba	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Zdeno_%C5%A0trba> .
+dbpedia:List_of_Slovak_football_transfers_summer_2012	dbpprop:name	<http://dbpedia.org/resource/Zdeno_%C5%A0trba> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Zdeno_%C5%A0trba> .
+<http://dbpedia.org/resource/List_of_Slovak_football_transfers_winter_2011%E2%80%9312>	dbpprop:name	<http://dbpedia.org/resource/Zdeno_%C5%A0trba> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Zdeno_%C5%A0trba> .

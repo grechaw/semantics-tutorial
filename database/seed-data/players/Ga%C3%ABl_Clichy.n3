@@ -1,0 +1,234 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Gaël_Clichy	foaf:primaryTopic	<http://dbpedia.org/resource/Ga%C3%ABl_Clichy> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Manchester_City_F.C.__Ga%C3%ABl_Clichy__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Ga%C3%ABl_Clichy> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Ga%C3%ABl_Clichy> .
+<http://dbpedia.org/resource/Manchester_City_F.C.>	dbpprop:name	<http://dbpedia.org/resource/Ga%C3%ABl_Clichy> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Arsenal_F.C._season>	dbpprop:p	<http://dbpedia.org/resource/Ga%C3%ABl_Clichy> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:France_national_football_team	dbpprop:name	<http://dbpedia.org/resource/Ga%C3%ABl_Clichy> .
+<http://dbpedia.org/resource/2008%E2%80%9309_Arsenal_F.C._season>	dbpprop:p	<http://dbpedia.org/resource/Ga%C3%ABl_Clichy> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Ga%C3%ABl_Clichy>	rdf:type	yago:FranceYouthInternationalFootballers ,
+		yago:PeopleFromToulouse ,
+		yago:PhysicalEntity100001930 ,
+		yago:Fullback110115430 ,
+		yago:Player110439851 ,
+		yago:PeopleOfMartiniquaisDescent ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:AssociationFootballFullbacks ,
+		yago:Back109830194 ,
+		yago:Athlete109820263 ,
+		yago:FootballPlayer110101634 ,
+		<http://dbpedia.org/class/yago/ArsenalF.C.Players> ,
+		foaf:Person .
+@prefix ns7:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Ga%C3%ABl_Clichy>	rdf:type	ns7:SoccerPlayer ,
+		yago:ASCannesPlayers ,
+		yago:FrenchExpatriateFootballers ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Person .
+@prefix ns8:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Ga%C3%ABl_Clichy>	rdf:type	ns8:Q5 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Ga%C3%ABl_Clichy>	rdf:type	dul:Agent ,
+		dul:NaturalPerson ,
+		yago:FranceInternationalFootballers ,
+		ns7:Athlete ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:FrenchFootballers ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		ns8:Q215627 ,
+		yago:FranceUnder-21InternationalFootballers ,
+		yago:ExpatriateFootballersInEngland .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Ga%C3%ABl_Clichy>	rdf:type	owl:Thing ,
+		<http://dbpedia.org/class/yago/ManchesterCityF.C.Players> ,
+		dbpedia-owl:Athlete .
+@prefix ns11:	<http://schema.org/> .
+<http://dbpedia.org/resource/Ga%C3%ABl_Clichy>	rdf:type	ns11:Person ,
+		yago:Whole100003553 ,
+		yago:RunningBack110543161 ,
+		yago:Object100002684 ,
+		yago:Contestant109613191 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:PremierLeaguePlayers ;
+	owl:sameAs	<http://rdf.freebase.com/ns/m.03_98g> .
+@prefix ns12:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Ga%C3%ABl_Clichy>	owl:sameAs	ns12:Gaël_Clichy ,
+		<http://dbpedia.org/resource/Ga%C3%ABl_Clichy> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Ga%C3%ABl_Clichy>	rdfs:label	"Ga\u00EBl Clichy"@de ,
+		"Ga\u00EBl Clichy"@fr ,
+		"Ga\u00EBl Clichy"@es ,
+		"\u30AC\u30A8\u30EB\u30FB\u30AF\u30EA\u30B7\u30FC"@ja ,
+		"\u063A\u0627\u064A\u0644 \u0643\u0644\u064A\u0634\u064A"@ar ,
+		"Ga\u00EBl Clichy"@it ,
+		"Ga\u00EBl Clichy"@pl ,
+		"Ga\u00EBl Clichy"@nl ,
+		"Ga\u00EBl Clichy"@pt ,
+		"\u76D6\u5C14\u00B7\u514B\u5229\u5E0C"@zh ,
+		"\u041A\u043B\u0438\u0448\u0438, \u0413\u0430\u044D\u043B\u044C"@ru ,
+		"Ga\u00EBl Clichy" .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Ga%C3%ABl_Clichy>	dcterms:subject	category:France_under-21_international_footballers ,
+		<http://dbpedia.org/resource/Category:Arsenal_F.C._players> ,
+		category:France_international_footballers ,
+		category:French_expatriate_footballers ,
+		category:Sportspeople_from_Toulouse ,
+		category:Living_people ,
+		category:Association_football_fullbacks ,
+		category:AS_Cannes_players ,
+		category:Premier_League_players ,
+		category:French_expatriates_in_England ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:UEFA_Euro_2012_players ,
+		category:French_footballers ,
+		category:Expatriate_footballers_in_England ,
+		category:France_youth_international_footballers ,
+		category:French_people_of_Martiniquais_descent ,
+		<http://dbpedia.org/resource/Category:1985_births> ,
+		<http://dbpedia.org/resource/Category:Manchester_City_F.C._players> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Gael_Clichy,_Premier_League_parade_11-12.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Ga%C3%ABl_Clichy>	dc:description	"Professional footballer" ,
+		"Professional footballer" ;
+	foaf:givenName	"Ga\u00EBl" ;
+	foaf:name	"Clichy, Ga\u00EBl" ,
+		"Ga\u00EBl Clichy" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Ga%C3%ABl_Clichy>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Ga\u00EBl_Clichy?oldid=603299052> ;
+	rdfs:comment	"Ga\u00EBl Clichy (Toulouse, 26 juli 1985) is een Franse voetballer die sinds 2011 onder contract staat bij Manchester City FC."@nl ,
+		"\u57FA\u6377\u00B7\u57FA\u6CBB\uFF08\u6CD5\u8BED\uFF1AGa\u00EBl Clichy\uFF0C1985\u5E747\u670826\u65E5\uFF0D\uFF09\uFF0C\u65BC\u6CD5\u570B\u5716\u76E7\u8332\u51FA\u751F\uFF0C\u4E43\u6CD5\u570B\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u4ED6\u7684\u9996\u9078\u4F4D\u7F6E\u662F\u5DE6\u5F8C\u885B\uFF0C\u4ED6\u4EA6\u80FD\u8E22\u5DE6\u4E2D\u5834\uFF0C\u73FE\u6548\u529B\u82F1\u8D85\u7403\u6703\u66FC\u57CE\u3002"@zh ,
+		"Ga\u00EBl Clichy (Toulouse, 26 de julho de 1985) \u00E9 um futebolista franc\u00EAs que atua como lateral-esquerdo. Atualmente, joga pelo Manchester City."@pt ,
+		"Ga\u00EBl Clichy (French pronunciation: \u200B[\u0261a.\u025Bl kli.\u0283i] ; born 26 July 1985) is a French footballer who plays for Manchester City and the France national football team. He is predominantly left footed, he primarily plays as a left-back that is also capable of playing as an offensive-minded wingback. Clichy is described as a player who possesses \"almost unrivaled stamina\" that is \"quick in the tackle and willing to drive forward\"." ,
+		"Ga\u00EBl Clichy (* 26. Juli 1985 in Toulouse) ist ein franz\u00F6sischer Fu\u00DFballspieler."@de ,
+		"Ga\u00EBl Clichy (Tolosa, 26 luglio 1985) \u00E8 un calciatore francese, difensore del Manchester City e della Nazionale francese."@it ,
+		"\u0413\u0430\u044D\u0301\u043B\u044C \u041A\u043B\u0438\u0448\u0438\u0301 (\u0444\u0440. Ga\u00EBl Clichy, \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0438\u0437\u043D\u043E\u0448\u0435\u043D\u0438\u0435 [\u0261a\u025Bl kli\u0283i]; 26 \u0438\u044E\u043B\u044F 1985, \u0422\u0443\u043B\u0443\u0437\u0430, \u0424\u0440\u0430\u043D\u0446\u0438\u044F) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u041C\u0430\u043D\u0447\u0435\u0441\u0442\u0435\u0440 \u0421\u0438\u0442\u0438\u00BB \u0438 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0424\u0440\u0430\u043D\u0446\u0438\u0438."@ru ,
+		"Ga\u00EBl Clichy (Toulouse, Francia, 26 de julio de 1985), futbolista franc\u00E9s. Juega de lateral izquierdo y central izquierdo y su equipo actual es el Manchester City."@es ,
+		"\u063A\u064A\u0644 \u0643\u0644\u064A\u0634\u064A\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 26 \u064A\u0648\u0644\u064A\u0648 1985 \u0641\u064A \u062A\u0648\u0644\u0648\u0632 \u0641\u064A \u0641\u0631\u0646\u0633\u0627\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0641\u0631\u0646\u0633\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u062C\u0645\u0639\u064A\u0629 \u0643\u0627\u0646 \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0641\u064A \u0639\u0627\u0645 2002\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2003\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 15 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2003 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0622\u0631\u0633\u0646\u0627\u0644 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2011 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0645\u0627\u0646\u0634\u0633\u062A\u0631 \u0633\u064A\u062A\u064A \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A."@ar ,
+		"Ga\u00EBl Clichy, n\u00E9 le 26 juillet 1985 \u00E0 Toulouse, est un footballeur international fran\u00E7ais (d'origine martiniquaise) qui \u00E9volue au poste de d\u00E9fenseur \u00E0 Manchester City."@fr ,
+		"\u30AC\u30A8\u30EB\u30FB\u30AF\u30EA\u30B7\u30FC\uFF08Ga\u00EBl Clichy, 1985\u5E747\u670826\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u30FB\u30C8\u30A5\u30FC\u30EB\u30FC\u30BA\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DE\u30F3\u30C1\u30A7\u30B9\u30BF\u30FC\u30FB\u30B7\u30C6\u30A3FC\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002\u30DE\u30EB\u30C6\u30A3\u30CB\u30FC\u30AF\u306B\u30EB\u30FC\u30C4\u3092\u3082\u3064\u3002"@ja ,
+		"Ga\u00EBl Clichy (ur. 26 lipca 1985 w Tuluzie) \u2013 francuski pi\u0142karz wyst\u0119puj\u0105cy na pozycji obro\u0144cy w Manchesterze City. Swoj\u0105 karier\u0119 pi\u0142karsk\u0105 rozpocz\u0105\u0142 w juniorskiej dru\u017Cynie CFP Castelmaurou. W roku 2001 podpisa\u0142 zawodowy kontrakt z AS Cannes. Gra\u0142 tam przez dwa lata. W tym czasie wyst\u0105pi\u0142 tam w 15 ligowych pojedynkach. Nast\u0119pnie, w sierpniu 2003 roku podpisa\u0142 kontrakt z Arsenalem.Clichy wyst\u0119powa\u0142 w juniorskich reprezentacjach Francji, pocz\u0105wszy od U-15, sko\u0144czywszy na U-21."@pl ;
+	foaf:surname	"Clichy" ;
+	foaf:isPrimaryTopicOf	ns1:Gaël_Clichy .
+@prefix ns18:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Ga%C3%ABl_Clichy>	dbpprop:hasPhotoCollection	ns18:Gaël_Clichy ;
+	dbpprop:caption	"Clichy pictured in 2012" ;
+	dbpprop:name	"Ga\u00EBl Clichy" ,
+		"Clichy, Ga\u00EBl" .
+@prefix ns19:	<http://dbpedia.org/datatype/> .
+<http://dbpedia.org/resource/Ga%C3%ABl_Clichy>	dbpprop:width	"30.0"^^ns19:perCent ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Gael_Clichy,_Premier_League_parade_11-12.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u57FA\u6377\u00B7\u57FA\u6CBB\uFF08\u6CD5\u8BED\uFF1AGa\u00EBl Clichy\uFF0C1985\u5E747\u670826\u65E5\uFF0D\uFF09\uFF0C\u65BC\u6CD5\u570B\u5716\u76E7\u8332\u51FA\u751F\uFF0C\u4E43\u6CD5\u570B\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u4ED6\u7684\u9996\u9078\u4F4D\u7F6E\u662F\u5DE6\u5F8C\u885B\uFF0C\u4ED6\u4EA6\u80FD\u8E22\u5DE6\u4E2D\u5834\uFF0C\u73FE\u6548\u529B\u82F1\u8D85\u7403\u6703\u66FC\u57CE\u3002"@zh ,
+		"Ga\u00EBl Clichy (Tolosa, 26 luglio 1985) \u00E8 un calciatore francese, difensore del Manchester City e della Nazionale francese."@it ,
+		"Ga\u00EBl Clichy (* 26. Juli 1985 in Toulouse) ist ein franz\u00F6sischer Fu\u00DFballspieler."@de ,
+		"Ga\u00EBl Clichy (Toulouse, 26 de julho de 1985) \u00E9 um futebolista franc\u00EAs que atua como lateral-esquerdo. Atualmente, joga pelo Manchester City."@pt ,
+		"\u30AC\u30A8\u30EB\u30FB\u30AF\u30EA\u30B7\u30FC\uFF08Ga\u00EBl Clichy, 1985\u5E747\u670826\u65E5 - \uFF09\u306F\u3001\u30D5\u30E9\u30F3\u30B9\u30FB\u30C8\u30A5\u30FC\u30EB\u30FC\u30BA\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DE\u30F3\u30C1\u30A7\u30B9\u30BF\u30FC\u30FB\u30B7\u30C6\u30A3FC\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30C7\u30A3\u30D5\u30A7\u30F3\u30C0\u30FC\u3002\u30DE\u30EB\u30C6\u30A3\u30CB\u30FC\u30AF\u306B\u30EB\u30FC\u30C4\u3092\u3082\u3064\u3002"@ja ,
+		"Ga\u00EBl Clichy (French pronunciation: \u200B[\u0261a.\u025Bl kli.\u0283i] ; born 26 July 1985) is a French footballer who plays for Manchester City and the France national football team. He is predominantly left footed, he primarily plays as a left-back that is also capable of playing as an offensive-minded wingback. Clichy is described as a player who possesses \"almost unrivaled stamina\" that is \"quick in the tackle and willing to drive forward\". He was a member of Arsenal's famous Invincibles team before leaving the club in 2011.Clichy was born in the city of Toulouse and began his football career playing for a host of amateur clubs in the Haute-Garonne d\u00E9partement such as JS Cugnaux, AS Muret, and Tournefeuille. In 2001, he moved to the Provence-Alpes-C\u00F4te d'Azur region to play for professional club Cannes. Clichy made his professional debut for the club in the 2002\u201303 season while the club was playing in the Championnat National, the third level of French football. After three seasons with Cannes, in 2003, he was convinced by manager and countryman Ars\u00E8ne Wenger to join Arsenal in England.In Clichy's first season with the club, he was a member of the team, dubbed the Invincibles, that went undefeated in the league season. As a result of the title, at 18 years and 10 months, Clichy became the youngest player to win a Premier League medal. After three seasons of backing up Ashley Cole, in the 2006\u201307 season, Clichy took over the starters' role permanently. In the 2007\u201308 season, he appeared in all 38 league matches. His performances during the season earned him an appearance on the Professional Footballers' Association (PFA) Team of the Year. Aside from the 2003\u201304 league title, he has also won the Community Shield and FA Cup in 2004 and 2005, respectively, with Arsenal.Clichy is a former French youth international and has represented his nation at every level for which he was eligible. Prior to playing for the senior team, he played on the under-17 team that finished runners-up to Switzerland at the 2002 UEFA European Under-17 Football Championship. Clichy made his senior international debut in September 2008 in a 2010 World Cup qualification match against Serbia. He made his first major international tournament appearance for France at the 2010 FIFA World Cup. Clichy made one appearance in the competition against South Africa in the final group stage match." ,
+		"Ga\u00EBl Clichy, n\u00E9 le 26 juillet 1985 \u00E0 Toulouse, est un footballeur international fran\u00E7ais (d'origine martiniquaise) qui \u00E9volue au poste de d\u00E9fenseur \u00E0 Manchester City."@fr ,
+		"\u063A\u064A\u0644 \u0643\u0644\u064A\u0634\u064A\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 26 \u064A\u0648\u0644\u064A\u0648 1985 \u0641\u064A \u062A\u0648\u0644\u0648\u0632 \u0641\u064A \u0641\u0631\u0646\u0633\u0627\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0641\u0631\u0646\u0633\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u062C\u0645\u0639\u064A\u0629 \u0643\u0627\u0646 \u0627\u0644\u0641\u0631\u0646\u0633\u064A \u0641\u064A \u0639\u0627\u0645 2002\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2003\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 15 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2003 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0622\u0631\u0633\u0646\u0627\u0644 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2011 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0645\u0627\u0646\u0634\u0633\u062A\u0631 \u0633\u064A\u062A\u064A \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A."@ar ,
+		"Ga\u00EBl Clichy (ur. 26 lipca 1985 w Tuluzie) \u2013 francuski pi\u0142karz wyst\u0119puj\u0105cy na pozycji obro\u0144cy w Manchesterze City. Swoj\u0105 karier\u0119 pi\u0142karsk\u0105 rozpocz\u0105\u0142 w juniorskiej dru\u017Cynie CFP Castelmaurou. W roku 2001 podpisa\u0142 zawodowy kontrakt z AS Cannes. Gra\u0142 tam przez dwa lata. W tym czasie wyst\u0105pi\u0142 tam w 15 ligowych pojedynkach. Nast\u0119pnie, w sierpniu 2003 roku podpisa\u0142 kontrakt z Arsenalem.Clichy wyst\u0119powa\u0142 w juniorskich reprezentacjach Francji, pocz\u0105wszy od U-15, sko\u0144czywszy na U-21. Zaliczy\u0142 tak\u017Ce dwa wyst\u0119py w kadrze B. W seniorskiej reprezentacji wyst\u0105pi\u0142 dotychczas w dw\u00F3ch meczach. Zadebiutowa\u0142 w niej w 2008 roku."@pl ,
+		"Ga\u00EBl Clichy (Toulouse, 26 juli 1985) is een Franse voetballer die sinds 2011 onder contract staat bij Manchester City FC."@nl ,
+		"Ga\u00EBl Clichy (Toulouse, Francia, 26 de julio de 1985), futbolista franc\u00E9s. Juega de lateral izquierdo y central izquierdo y su equipo actual es el Manchester City."@es ,
+		"\u0413\u0430\u044D\u0301\u043B\u044C \u041A\u043B\u0438\u0448\u0438\u0301 (\u0444\u0440. Ga\u00EBl Clichy, \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u043E\u0435 \u043F\u0440\u043E\u0438\u0437\u043D\u043E\u0448\u0435\u043D\u0438\u0435 [\u0261a\u025Bl kli\u0283i]; 26 \u0438\u044E\u043B\u044F 1985, \u0422\u0443\u043B\u0443\u0437\u0430, \u0424\u0440\u0430\u043D\u0446\u0438\u044F) \u2014 \u0444\u0440\u0430\u043D\u0446\u0443\u0437\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u041C\u0430\u043D\u0447\u0435\u0441\u0442\u0435\u0440 \u0421\u0438\u0442\u0438\u00BB \u0438 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0424\u0440\u0430\u043D\u0446\u0438\u0438."@ru ;
+	dbpedia-owl:wikiPageID	1024817 ;
+	dbpedia-owl:wikiPageRevisionID	603299052 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Ga%C3%ABl_Clichy>	dbpprop:birthDate	"1985-07-26+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Toulouse, France" ;
+	dbpprop:dateOfBirth	"1985-07-26+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Toulouse, France" ;
+	dbpprop:shortDescription	"Professional footballer" ;
+	dbpedia-owl:birthDate	"1985-07-26+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:France_national_football_team ,
+		dbpedia:Toulouse ;
+	dbpedia-owl:birthYear	"1985+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	250 ;
+	dbpprop:goals	0 ,
+		1 ;
+	dbpprop:bg	"#0055A4" ;
+	dbpprop:caps	15 ,
+		68 ,
+		187 ;
+	dbpprop:years	2011 ,
+		2002 ,
+		2003 ;
+	dbpprop:youthclubs	"Hersoise" ,
+		dbpedia:AS_Cannes ,
+		dbpedia:AS_Tournefeuille ,
+		"Cugnaux" ,
+		"Muret" ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Ga%C3%ABl_Clichy__4> ,
+		<http://dbpedia.org/resource/Ga%C3%ABl_Clichy__2> ,
+		<http://dbpedia.org/resource/Ga%C3%ABl_Clichy__5> ,
+		<http://dbpedia.org/resource/Ga%C3%ABl_Clichy__1> ,
+		<http://dbpedia.org/resource/Ga%C3%ABl_Clichy__3> ,
+		<http://dbpedia.org/resource/Ga%C3%ABl_Clichy__6> ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.7600000000000000089 .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Ga%C3%ABl_Clichy>	ns21:height	"176.0"^^ns19:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/Manchester_City_F.C.> ;
+	dbpprop:clubnumber	22 ;
+	dbpprop:fullname	"Ga\u00EBl Clichy" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/Arsenal_F.C.> ,
+		<http://dbpedia.org/resource/Manchester_City_F.C.> ,
+		dbpedia:AS_Cannes ;
+	dbpedia-owl:team	dbpedia:France_national_under-17_football_team ,
+		dbpedia:France_national_under-18_football_team ,
+		<http://dbpedia.org/resource/Arsenal_F.C.> ,
+		<http://dbpedia.org/resource/Manchester_City_F.C.> ,
+		dbpedia:Muret ,
+		dbpedia:Cugnaux ,
+		dbpedia:AS_Cannes .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Ga%C3%ABl_Clichy>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"France squads" ;
+	dbpprop:pcupdate	"--10-05+02:00"^^xsd:gMonthDay ;
+	dbpprop:youthyears	2000 ,
+		1996 ,
+		1997 ,
+		1998 ,
+		1990 .
+@prefix ns23:	<http://www.arsenal.com/history/profiles/132/> .
+<http://dbpedia.org/resource/Ga%C3%ABl_Clichy>	dbpedia-owl:wikiPageExternalLink	ns23:gael-clichy .
+@prefix ns24:	<http://www.mcfc.co.uk/Players/Defenders/> .
+<http://dbpedia.org/resource/Ga%C3%ABl_Clichy>	dbpedia-owl:wikiPageExternalLink	ns24:Gael-Clichy ;
+	dbpprop:bordercolor	"#EF4135" ;
+	dbpprop:fg	"#FFFFFF" ;
+	dbpprop:nationalcaps	20 ,
+		13 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:France_national_football_team ,
+		dbpedia:France_national_under-19_football_team ,
+		dbpedia:France_national_under-17_football_team ,
+		dbpedia:France_national_under-18_football_team ,
+		dbpedia:France_national_under-21_football_team ,
+		"France U15" ;
+	dbpprop:nationalyears	2004 ,
+		2001 ,
+		2002 ,
+		2003 ,
+		2008 ;
+	dbpedia-owl:number	22 ;
+	dbpedia-owl:alias	"Clichy, Ga\u00EBl" ;
+	dbpprop:alternativeNames	"Clichy, Ga\u00EBl" ;
+	dbpprop:ntupdate	"2013-09-13+02:00"^^xsd:date ;
+	dbpprop:align	"right" ;
+	dbpprop:quote	"\"Gael Clichy was a serious boy, a worker who put into practice what we asked of him. He worked hard. I enjoyed his behavior and his state of mind. He was always very aggressive in his play and he was very fast. He's a boy who, at the time of his visit to Cannes, knew what he wanted to be and he had his head on his shoulders.\"" ;
+	dbpprop:source	"(Christian Lopez on his first impressions of Clichy. )" .
+dbpedia:UEFA_Euro_2012_squads	dbpprop:name	<http://dbpedia.org/resource/Ga%C3%ABl_Clichy> .
+dbpedia:Gaël_Clichy	owl:sameAs	<http://dbpedia.org/resource/Ga%C3%ABl_Clichy> .
+dbpedia:Gael_Clichy	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Ga%C3%ABl_Clichy> .
+dbpedia:Clichy	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Ga%C3%ABl_Clichy> .

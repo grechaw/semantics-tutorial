@@ -1,0 +1,283 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_du_Tibet_de_football	owl:sameAs	dbpedia:Tibet_national_football_team .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Tibetische_Fußballauswahl	owl:sameAs	dbpedia:Tibet_national_football_team .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q661442	owl:sameAs	dbpedia:Tibet_national_football_team .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Selección_de_fútbol_del_Tíbet	owl:sameAs	dbpedia:Tibet_national_football_team .
+@prefix ns6:	<http://it.dbpedia.org/resource/> .
+ns6:Selezione_di_calcio_del_Tibet	owl:sameAs	dbpedia:Tibet_national_football_team .
+@prefix ns7:	<http://ja.dbpedia.org/resource/> .
+ns7:サッカーチベット代表	owl:sameAs	dbpedia:Tibet_national_football_team .
+@prefix ns8:	<http://ko.dbpedia.org/resource/> .
+ns8:티베트_축구_국가대표팀	owl:sameAs	dbpedia:Tibet_national_football_team .
+@prefix ns9:	<http://nl.dbpedia.org/resource/> .
+ns9:Tibetaans_voetbalelftal	owl:sameAs	dbpedia:Tibet_national_football_team .
+@prefix ns10:	<http://pl.dbpedia.org/resource/> .
+ns10:Reprezentacja_Tybetu_w_piłce_nożnej	owl:sameAs	dbpedia:Tibet_national_football_team .
+@prefix ns11:	<http://pt.dbpedia.org/resource/> .
+ns11:Seleção_Tibeteana_de_Futebol	owl:sameAs	dbpedia:Tibet_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns13:	<http://en.wikipedia.org/wiki/> .
+ns13:Tibet_national_football_team	foaf:primaryTopic	dbpedia:Tibet_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Tibet_national_football_team	rdf:type	dbpedia-owl:Agent ,
+		owl:Thing .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Tibet_national_football_team	rdf:type	yago:AsianNationalAssociationFootballTeams .
+@prefix ns17:	<http://schema.org/> .
+dbpedia:Tibet_national_football_team	rdf:type	ns17:Organization ,
+		ns17:SportsTeam ,
+		yago:YagoPermanentlyLocatedEntity .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Tibet_national_football_team	rdf:type	dul:Agent ,
+		dul:SocialPerson ,
+		<http://dbpedia.org/class/yago/AsianN.F.-BoardTeams> ,
+		yago:FootballTeam108080025 ,
+		yago:YagoLegalActorGeo ,
+		dbpedia-owl:Organisation ,
+		yago:YagoLegalActor ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ;
+	owl:sameAs	ns9:Tibetaans_voetbalelftal .
+@prefix ns19:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Tibet_national_football_team	owl:sameAs	ns19:Сборная_Тибета_по_футболу .
+@prefix ns20:	<http://wikidata.org/entity/> .
+dbpedia:Tibet_national_football_team	owl:sameAs	ns20:Q661442 ,
+		<http://rdf.freebase.com/ns/m.0cx5by> ,
+		ns5:Selección_de_fútbol_del_Tíbet ,
+		ns10:Reprezentacja_Tybetu_w_piłce_nożnej ,
+		ns7:サッカーチベット代表 ,
+		ns8:티베트_축구_국가대표팀 ,
+		ns4:Q661442 .
+@prefix ns21:	<http://he.dbpedia.org/resource/> .
+dbpedia:Tibet_national_football_team	owl:sameAs	ns21:נבחרת_טיבט_בכדורגל .
+@prefix ns22:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Tibet_national_football_team	owl:sameAs	ns22:西藏國家足球隊 .
+@prefix ns23:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Tibet_national_football_team	owl:sameAs	ns23:Tibet_Millî_Futbol_Takımı .
+@prefix ns24:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Tibet_national_football_team	owl:sameAs	ns24:Tibets_herrlandslag_i_fotboll .
+@prefix ns25:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Tibet_national_football_team	owl:sameAs	ns25:Selecționata_de_fotbal_a_Tibetului ,
+		ns6:Selezione_di_calcio_del_Tibet ,
+		ns1:Équipe_du_Tibet_de_football ,
+		dbpedia:Tibet_national_football_team .
+@prefix ns26:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Tibet_national_football_team	owl:sameAs	ns26:Tibeto_vyrų_futbolo_rinktinė ,
+		ns11:Seleção_Tibeteana_de_Futebol .
+@prefix ns27:	<http://yago-knowledge.org/resource/> .
+dbpedia:Tibet_national_football_team	owl:sameAs	ns27:Tibet_national_football_team ,
+		ns3:Tibetische_Fußballauswahl .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Tibet_national_football_team	rdfs:label	"Tibetaans voetbalelftal"@nl ,
+		"\u897F\u85CF\u570B\u5BB6\u8DB3\u7403\u968A"@zh ,
+		"Selezione di calcio del Tibet"@it ,
+		"Selecci\u00F3n de f\u00FAtbol del T\u00EDbet"@es ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0422\u0438\u0431\u0435\u0442\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"Reprezentacja Tybetu w pi\u0142ce no\u017Cnej"@pl ,
+		"Tibetische Fu\u00DFballauswahl"@de ,
+		"Sele\u00E7\u00E3o Tibeteana de Futebol"@pt ,
+		"\u00C9quipe du Tibet de football"@fr ,
+		"Tibet national football team" ,
+		"\u30B5\u30C3\u30AB\u30FC\u30C1\u30D9\u30C3\u30C8\u4EE3\u8868"@ja .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Tibet_national_football_team	dcterms:subject	category:Asian_national_association_football_teams ,
+		category:Tibet_national_football_team ,
+		<http://dbpedia.org/resource/Category:Asian_N.F.-Board_teams> ,
+		category:Sport_in_Tibet ;
+	foaf:homepage	<http://www.tnsa.info/> ;
+	foaf:nick	"\"The Forbiddens\"" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Tibet_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Tibet_national_football_team?oldid=597108320> ;
+	rdfs:comment	"La Selezione di calcio del Tibet non \u00E8 riconosciuta a livello internazionale."@it ,
+		"\u30B5\u30C3\u30AB\u30FC\u30C1\u30D9\u30C3\u30C8\u4EE3\u8868\uFF08\u30B5\u30C3\u30AB\u30FC\u30C1\u30D9\u30C3\u30C8\u3060\u3044\u3072\u3087\u3046\uFF09\u306F\u3001\u30C1\u30D9\u30C3\u30C8\u4EA1\u547D\u653F\u5E9C\u304C\u6240\u5728\u3059\u308B\u30A4\u30F3\u30C9\u306E\u30C0\u30E9\u30E0\u30B5\u30E9\u3092\u4E2D\u5FC3\u3068\u3057\u305F\u30C1\u30D9\u30C3\u30C8\u4EBA\u96E3\u6C11\u306B\u3088\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u300C\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u300D\u3067\u3042\u308B\u3002\u305F\u3060\u3057\u56FD\u969B\u30B5\u30C3\u30AB\u30FC\u9023\u76DF(FIFA)\u306B\u52A0\u76DF\u3059\u308B\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u306F\u56FD\u5BB6\u5358\u4F4D\u3068\u3059\u308B\u3053\u3068\u3092\u539F\u5247\u3068\u3057\u3066\u304A\u308A\u3001\u56FD\u969B\u7684\u306B\u300C\u56FD\u5BB6\u300D\u3068\u8A8D\u3081\u3089\u308C\u3066\u3044\u306A\u3044\u30C1\u30D9\u30C3\u30C8\u4EA1\u547D\u653F\u5E9C\u4E0B\u306E\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u306FFIFA\u52A0\u76DF\u304C\u8A8D\u3081\u3089\u308C\u3066\u304A\u3089\u305A\u3001FIFA\u4E3B\u50AC\u5927\u4F1A\u306B\u53C2\u52A0\u3059\u308B\u3053\u3068\u306F\u3067\u304D\u306A\u3044\u3002\u307E\u305F\u3001\u30C1\u30D9\u30C3\u30C8\u4EE3\u8868\u3068\u306E\u8A66\u5408\u3082\u56FD\u969BA\u30DE\u30C3\u30C1\u3068\u306F\u8A8D\u3081\u3089\u308C\u306A\u3044\u3002"@ja ,
+		"\u041D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0422\u0438\u0431\u0435\u0442\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u0442\u0438\u0431\u0435\u0442\u0441\u043A\u0438\u0439 \u043D\u0430\u0440\u043E\u0434, \u0437\u043D\u0430\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u0430\u044F \u0447\u0430\u0441\u0442\u044C \u043A\u043E\u0442\u043E\u0440\u043E\u0433\u043E \u0436\u0438\u0432\u0451\u0442 \u0437\u0430 \u043F\u0440\u0435\u0434\u0435\u043B\u0430\u043C\u0438 \u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u043D\u043E \u0422\u0438\u0431\u0435\u0442\u0430. \u041A\u043E\u043C\u0430\u043D\u0434\u0443 \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u0442 \u0422\u0438\u0431\u0435\u0442\u0441\u043A\u0430\u044F \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u044F, \u0446\u0435\u043B\u044C \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u2014 \u0434\u043E\u0431\u0438\u0442\u044C\u0441\u044F \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0433\u043E \u043F\u0440\u0438\u0437\u043D\u0430\u043D\u0438\u044F. \u041D\u0430 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0438\u0439 \u043C\u043E\u043C\u0435\u043D\u0442 \u0422\u0438\u0431\u0435\u0442 \u043D\u0435 \u0432\u0445\u043E\u0434\u0438\u0442 \u043D\u0438 \u0432 \u0424\u0418\u0424\u0410, \u043D\u0438 \u0432 \u0410\u0424\u041A, \u043D\u043E \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0447\u043B\u0435\u043D\u043E\u043C \u043D\u0435\u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u043E\u0439 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u0438 NF-Board."@ru ,
+		"A Sele\u00E7\u00E3o Tibeteana de Futebol representa o Tibete em competi\u00E7\u00F5es internacionais de futebol. Uma vez que o Tibete n\u00E3o \u00E9 um pa\u00EDs soberano, n\u00E3o faz parte de nenhum organismo internacional oficial, mas participa da NF-Board, \u00F3rg\u00E3o destinado a compreender representantes de estados n\u00E3o-soberanos. Uma associa\u00E7\u00E3o foi fundada em 2001 para comandar a sele\u00E7\u00E3o."@pt ,
+		"L'\u00E9quipe du Tibet de football est une s\u00E9lection contr\u00F4l\u00E9 par l'Association nationale de football tib\u00E9taine (Tibetan National Football Association) qui n'est pas membre de la FIFA, ni de l'AFC et ne participe donc pas aux grands tournois internationaux. Cette s\u00E9lection a disput\u00E9 son premier match international contre le Groenland, match qu'elle a perdu 4-1 au Vanl\u00F8se stadium."@fr ,
+		"Tibet ist Teil der Volksrepublik China, daher ist die tibetische Fu\u00DFballauswahl kein Mitglied des asiatischen Fu\u00DFballverbandes AFC und/oder der FIFA. Tibet ist Mitglied des NF-Boards, des Fu\u00DFballverbandes f\u00FCr Nationalmannschaften, die nicht Mitglieder der FIFA sind."@de ,
+		"Het Tibetaans voetbalelftal is een team van Tibetaanse voetballers in ballingschap dat Tibet vertegenwoordigt bij internationale wedstrijden. Tibet is geen lid van de FIFA en de AFC en is dus uitgesloten van deelname aan het WK en de Asian Cup. Om die reden is het team lid van de New Federations-Board. Het elftal speelde zijn eerste interland op 6 november 1972 tegen Nepal, waarbij het met 4-0 verloor."@nl ,
+		"Reprezentacja Tybetu w pi\u0142ce no\u017Cnej \u2013 dru\u017Cyna pi\u0142karska powi\u0105zana z emigracyjnym Centralnym Rz\u0105dem Tybeta\u0144skim w Dharamsali w Indiach. Nie jest cz\u0142onkiem FIFA, ani AFC. Od 25 marca 2006 roku reprezentacja Tybetu w pi\u0142ce no\u017Cnej jest cz\u0142onkiem NF-Board.Celem reprezentacji Tybetu w pi\u0142ce no\u017Cnej jest popularyzacja sportu, a w szczeg\u00F3lno\u015Bci pi\u0142ki no\u017Cnej, w\u015Br\u00F3d Tybeta\u0144czyk\u00F3w."@pl ,
+		"\u897F\u85CF\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u897F\u85CF\u6D41\u4EA1\u653F\u5E9C\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u897F\u85CF\u570B\u5BB6\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u52A0\u76DFNF-\u6703\u8B70\uFF0C\u76EE\u524D\u4E0D\u662F\u570B\u969B\u8DB3\u7E3D\uFF08FIFA\uFF09\u548C\u4E9E\u6D32\u8DB3\u806F\uFF08AFC\uFF09\u7684\u6210\u54E1\u3002"@zh ,
+		"The Tibet national football team is a football team controlled by the Tibetan National Football Association (TNFA), an organization of exiled Tibetans. Its current team manager is Kelsang Dhondup.Many of the players are in exile and are represented by the Tibetan Government in Exile. The team is part of neither FIFA nor the AFC and does not participate in international tournaments. The TNFA was founded in 2001 and its goal is to gain an official status." ,
+		"La Selecci\u00F3n nacional de f\u00FAtbol del T\u00EDbet es el representativo nacional de este pa\u00EDs y de los tibetanos exiliados fuera de \u00E9l."@es .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Tibet_national_football_team	dbpprop:mostCaps	dbpedia:Lobsang_Wangyal ;
+	foaf:isPrimaryTopicOf	ns13:Tibet_national_football_team ;
+	dbpprop:club	<http://dbpedia.org/resource/Havant_&_Waterlooville_F.C.> ,
+		dbpedia:Tibetan_National_Football_Association ,
+		"Tibet" ,
+		dbpedia:Kozhikode ,
+		dbpedia:Phakshing_FC ,
+		dbpedia:Manang_Marshyangdi_Club .
+@prefix ns33:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Tibet_national_football_team	dbpprop:hasPhotoCollection	ns33:Tibet_national_football_team ;
+	dbpprop:name	dbpedia:Kelsang_Dorjee ,
+		dbpedia:Tenzin_Tsering ,
+		<http://dbpedia.org/resource/Sonam_Rinchen_(footballer)> ,
+		dbpedia:Tsering_Chonjor ,
+		dbpedia:Gonpo_Dorjee ,
+		dbpedia:Tenzing_Tsewang_Lama ,
+		dbpedia:Lobsang_Dorjee ,
+		<http://dbpedia.org/resource/Lobsang_Wangyal_(footballer)> ,
+		dbpedia:Tenzin_Choenyi ,
+		dbpedia:Tenzin_Samdup ,
+		dbpedia:Tenzin_Choegyal ,
+		dbpedia:Kunchok_Nyima ,
+		dbpedia:Dawa_Tsering ,
+		<http://dbpedia.org/resource/Tashi_Tsering_(footballer)> ,
+		dbpedia:Tenzin_Dhargyal ,
+		dbpedia:Tsering_Wangchuk ,
+		dbpedia:Tenzin_Namgyal ,
+		dbpedia:Ngawang_Tenzin ,
+		dbpedia:Karma_Yeshi ,
+		<http://dbpedia.org/resource/Captain_(association_football)> ,
+		dbpedia:Tsering_Dhundup ,
+		dbpedia:Nyima_Gyalpo ,
+		dbpedia:Tseten_Namgyal ,
+		dbpedia:Tenzin_Tshepel ,
+		dbpedia:Dorjee_Tsering ,
+		dbpedia:Lobsang_Norbu ,
+		dbpedia:Yeshi_Choephel ,
+		dbpedia:Passang_Phuntsok ,
+		dbpedia:Dorjee_Wangchuk ,
+		dbpedia:Kunchok_Dorjee ,
+		dbpedia:Dawa_Chondhen ;
+	dbpedia-owl:abstract	"La Selecci\u00F3n nacional de f\u00FAtbol del T\u00EDbet es el representativo nacional de este pa\u00EDs y de los tibetanos exiliados fuera de \u00E9l. T\u00EDbet es un miembro asociado a la NF-Board, cuyo representante es la Asociaci\u00F3n Nacional de F\u00FAtbol Tibetano, pero no es miembro de la FIFA ni de la AFC, as\u00ED que sus partidos no son reconocidos por esas entidades.La selecci\u00F3n de Tibet estuvo inactiva por largo tiempo, hasta que en 2001 Dinamarca organiz\u00F3 un partido entre ellos y su colonia de Groenlandia, a pesar de los esfuerzos de China por cancelar el partido, despu\u00E9s de ese partido la selecci\u00F3n de Tibet ha estado semiactiva, siendo sus partidos m\u00E1s importantes los que disput\u00F3 en la FIFI Wild Cup 2006, donde perdieron sus dos partidos, ese mismo a\u00F1o participaron en la Copa ELF con la misma suerte."@es ,
+		"\u897F\u85CF\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u897F\u85CF\u6D41\u4EA1\u653F\u5E9C\u7684\u570B\u5BB6\u8DB3\u7403\u4EE3\u8868\u968A\uFF0C\u7531\u897F\u85CF\u570B\u5BB6\u8DB3\u7403\u5354\u6703\u7BA1\u7406\uFF0C\u52A0\u76DFNF-\u6703\u8B70\uFF0C\u76EE\u524D\u4E0D\u662F\u570B\u969B\u8DB3\u7E3D\uFF08FIFA\uFF09\u548C\u4E9E\u6D32\u8DB3\u806F\uFF08AFC\uFF09\u7684\u6210\u54E1\u3002"@zh ,
+		"\u30B5\u30C3\u30AB\u30FC\u30C1\u30D9\u30C3\u30C8\u4EE3\u8868\uFF08\u30B5\u30C3\u30AB\u30FC\u30C1\u30D9\u30C3\u30C8\u3060\u3044\u3072\u3087\u3046\uFF09\u306F\u3001\u30C1\u30D9\u30C3\u30C8\u4EA1\u547D\u653F\u5E9C\u304C\u6240\u5728\u3059\u308B\u30A4\u30F3\u30C9\u306E\u30C0\u30E9\u30E0\u30B5\u30E9\u3092\u4E2D\u5FC3\u3068\u3057\u305F\u30C1\u30D9\u30C3\u30C8\u4EBA\u96E3\u6C11\u306B\u3088\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u300C\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u300D\u3067\u3042\u308B\u3002\u305F\u3060\u3057\u56FD\u969B\u30B5\u30C3\u30AB\u30FC\u9023\u76DF(FIFA)\u306B\u52A0\u76DF\u3059\u308B\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u306F\u56FD\u5BB6\u5358\u4F4D\u3068\u3059\u308B\u3053\u3068\u3092\u539F\u5247\u3068\u3057\u3066\u304A\u308A\u3001\u56FD\u969B\u7684\u306B\u300C\u56FD\u5BB6\u300D\u3068\u8A8D\u3081\u3089\u308C\u3066\u3044\u306A\u3044\u30C1\u30D9\u30C3\u30C8\u4EA1\u547D\u653F\u5E9C\u4E0B\u306E\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u306FFIFA\u52A0\u76DF\u304C\u8A8D\u3081\u3089\u308C\u3066\u304A\u3089\u305A\u3001FIFA\u4E3B\u50AC\u5927\u4F1A\u306B\u53C2\u52A0\u3059\u308B\u3053\u3068\u306F\u3067\u304D\u306A\u3044\u3002\u307E\u305F\u3001\u30C1\u30D9\u30C3\u30C8\u4EE3\u8868\u3068\u306E\u8A66\u5408\u3082\u56FD\u969BA\u30DE\u30C3\u30C1\u3068\u306F\u8A8D\u3081\u3089\u308C\u306A\u3044\u3002"@ja ,
+		"A Sele\u00E7\u00E3o Tibeteana de Futebol representa o Tibete em competi\u00E7\u00F5es internacionais de futebol. Uma vez que o Tibete n\u00E3o \u00E9 um pa\u00EDs soberano, n\u00E3o faz parte de nenhum organismo internacional oficial, mas participa da NF-Board, \u00F3rg\u00E3o destinado a compreender representantes de estados n\u00E3o-soberanos. Uma associa\u00E7\u00E3o foi fundada em 2001 para comandar a sele\u00E7\u00E3o."@pt ,
+		"Tibet ist Teil der Volksrepublik China, daher ist die tibetische Fu\u00DFballauswahl kein Mitglied des asiatischen Fu\u00DFballverbandes AFC und/oder der FIFA. Tibet ist Mitglied des NF-Boards, des Fu\u00DFballverbandes f\u00FCr Nationalmannschaften, die nicht Mitglieder der FIFA sind."@de ,
+		"Reprezentacja Tybetu w pi\u0142ce no\u017Cnej \u2013 dru\u017Cyna pi\u0142karska powi\u0105zana z emigracyjnym Centralnym Rz\u0105dem Tybeta\u0144skim w Dharamsali w Indiach. Nie jest cz\u0142onkiem FIFA, ani AFC. Od 25 marca 2006 roku reprezentacja Tybetu w pi\u0142ce no\u017Cnej jest cz\u0142onkiem NF-Board.Celem reprezentacji Tybetu w pi\u0142ce no\u017Cnej jest popularyzacja sportu, a w szczeg\u00F3lno\u015Bci pi\u0142ki no\u017Cnej, w\u015Br\u00F3d Tybeta\u0144czyk\u00F3w. Tybeta\u0144ska federacja d\u0105\u017Cy do tego, aby kadra Tybetu zosta\u0142a uznana za oficjaln\u0105 reprezentacj\u0119, jednak aktualnie (2012 rok) nie zosta\u0142a ona uznana i nie jest cz\u0142onkiem zar\u00F3wno FIFA, jak i AFC.Reprezentacja Tybetu w pi\u0142ce no\u017Cnej powsta\u0142a w 1999 roku. Pierwszy mecz rozegra\u0142a 30 czerwca 2001 roku w Kopenhadze, gdzie przegra\u0142a z reprezentacj\u0105 Grenlandii 1:4. Strzelcem pierwszego gola dla reprezentacji Tybetu by\u0142 Lobsang Norbu. Spotkanie sponsorowane by\u0142o przez firm\u0119 Hummel International, a relacj\u0119 z jego przebiegu wyemitowa\u0142y mi\u0119dzy innymi stacje CNN i BBC. Do organizacji meczu nie chcia\u0142y dopu\u015Bci\u0107 zar\u00F3wno ambasada Chi\u0144skiej Republiki Ludowej w Kopenhadze, jak i FIFA.Reprezentacja Tybetu nigdy nie bra\u0142a udzia\u0142u w rozgrywkach VIVA World Cup. Dwukrotnie wzi\u0119\u0142a za to udzia\u0142 w innych rozgrywkach dla reprezentacji niezrzeszonych w Mi\u0119dzynarodowej Federacji Pi\u0142karskiej. W maju 2006 roku wystartowa\u0142a w FIFI Wild Cup, gdzie w fazie grupowej przegra\u0142a 0:7 z FC St. Pauli oraz 0:5 z reprezentacj\u0105 Gibraltaru i zaj\u0119\u0142a w grupie A ostatni\u0105 pozycj\u0119, nie kwalifikuj\u0105c si\u0119 do dalszej fazy. W listopadzie tego samego roku wzi\u0119\u0142a udzia\u0142 w rozgrywkach ELF Cup, gdzie w fazie grupowej przegra\u0142a wszystkie 3 mecze: 0:3 z reprezentacj\u0105 Tad\u017Cykistanu, 0:1 z reprezentacj\u0105 Krymu i 0:10 z reprezentacj\u0105 Cypru P\u00F3\u0142nocnego i nie zakwalifikowa\u0142a si\u0119 do dalszej fazy rozgrywek.== Przypisy =="@pl ,
+		"\u041D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0441\u0431\u043E\u0440\u043D\u0430\u044F \u0422\u0438\u0431\u0435\u0442\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u043A\u043E\u043C\u0430\u043D\u0434\u0430, \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043B\u044F\u044E\u0449\u0430\u044F \u0442\u0438\u0431\u0435\u0442\u0441\u043A\u0438\u0439 \u043D\u0430\u0440\u043E\u0434, \u0437\u043D\u0430\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u0430\u044F \u0447\u0430\u0441\u0442\u044C \u043A\u043E\u0442\u043E\u0440\u043E\u0433\u043E \u0436\u0438\u0432\u0451\u0442 \u0437\u0430 \u043F\u0440\u0435\u0434\u0435\u043B\u0430\u043C\u0438 \u0441\u043E\u0431\u0441\u0442\u0432\u0435\u043D\u043D\u043E \u0422\u0438\u0431\u0435\u0442\u0430. \u041A\u043E\u043C\u0430\u043D\u0434\u0443 \u043A\u043E\u043D\u0442\u0440\u043E\u043B\u0438\u0440\u0443\u0435\u0442 \u0422\u0438\u0431\u0435\u0442\u0441\u043A\u0430\u044F \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u0430\u044F \u0444\u0443\u0442\u0431\u043E\u043B\u044C\u043D\u0430\u044F \u0430\u0441\u0441\u043E\u0446\u0438\u0430\u0446\u0438\u044F, \u0446\u0435\u043B\u044C \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u2014 \u0434\u043E\u0431\u0438\u0442\u044C\u0441\u044F \u043C\u0435\u0436\u0434\u0443\u043D\u0430\u0440\u043E\u0434\u043D\u043E\u0433\u043E \u043F\u0440\u0438\u0437\u043D\u0430\u043D\u0438\u044F. \u041D\u0430 \u043D\u0430\u0441\u0442\u043E\u044F\u0449\u0438\u0439 \u043C\u043E\u043C\u0435\u043D\u0442 \u0422\u0438\u0431\u0435\u0442 \u043D\u0435 \u0432\u0445\u043E\u0434\u0438\u0442 \u043D\u0438 \u0432 \u0424\u0418\u0424\u0410, \u043D\u0438 \u0432 \u0410\u0424\u041A, \u043D\u043E \u044F\u0432\u043B\u044F\u0435\u0442\u0441\u044F \u0447\u043B\u0435\u043D\u043E\u043C \u043D\u0435\u043E\u0444\u0438\u0446\u0438\u0430\u043B\u044C\u043D\u043E\u0439 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u0438 NF-Board."@ru ,
+		"L'\u00E9quipe du Tibet de football est une s\u00E9lection contr\u00F4l\u00E9 par l'Association nationale de football tib\u00E9taine (Tibetan National Football Association) qui n'est pas membre de la FIFA, ni de l'AFC et ne participe donc pas aux grands tournois internationaux. Cette s\u00E9lection a disput\u00E9 son premier match international contre le Groenland, match qu'elle a perdu 4-1 au Vanl\u00F8se stadium."@fr ,
+		"The Tibet national football team is a football team controlled by the Tibetan National Football Association (TNFA), an organization of exiled Tibetans. Its current team manager is Kelsang Dhondup.Many of the players are in exile and are represented by the Tibetan Government in Exile. The team is part of neither FIFA nor the AFC and does not participate in international tournaments. The TNFA was founded in 2001 and its goal is to gain an official status." ,
+		"La Selezione di calcio del Tibet non \u00E8 riconosciuta a livello internazionale. Rappresenta la popolazione del Tibet, molta della quale vive fuori dalla propria nazione, rappresentata dal Governo tibetano in esilio.Tibet non \u00E8 membro n\u00E9 della FIFA n\u00E9 dell'AFC e non partecipa ai tornei internazionali, tuttavia ha giocato alcune partite fin dal 2001, quando il giocatore danese Michael Nybrandt, con il supporto della produttrice danese Hummel International per gli abiti sportivi, organizz\u00F2 una gara tra Tibetani e la Nazionale di calcio della Groenlandia, nonostante la richiesta della Cina alla Danimarca di cancellare la gara.La peggior sconfitta venne registrata contro la Selezione di calcio della Padania per 14-2.L'obiettivo dell'associazione \u00E8 quella di essere riconosciuta a livello internazionale. Fin dal 2003 \u00E8 membro della NF-Board, che organizza gare non ufficiali. Il Tibet ha preso parte alla FIFI Wild Cup 2006, ad Amburgo e alla ELF Cup 2006, a Cipro Nord."@it ,
+		"Het Tibetaans voetbalelftal is een team van Tibetaanse voetballers in ballingschap dat Tibet vertegenwoordigt bij internationale wedstrijden. Tibet is geen lid van de FIFA en de AFC en is dus uitgesloten van deelname aan het WK en de Asian Cup. Om die reden is het team lid van de New Federations-Board. Het elftal speelde zijn eerste interland op 6 november 1972 tegen Nepal, waarbij het met 4-0 verloor."@nl ;
+	dbpedia-owl:wikiPageID	4959498 ;
+	dbpedia-owl:wikiPageRevisionID	597108320 ;
+	dbpprop:latest	"," ;
+	dbpprop:topScorer	dbpedia:Tsering_Dhundup ;
+	dbpprop:clubnat	"England" ,
+		"NEP" ,
+		"Tibet" ,
+		"IND" ;
+	dbpprop:goals	0 ;
+	dbpprop:caps	0 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Tibet_national_football_team	dbpprop:age	"1979-07-01+02:00"^^xsd:date ,
+		"1981-10-20+02:00"^^xsd:date ,
+		"1982-12-01+02:00"^^xsd:date ,
+		"1979-01-17+02:00"^^xsd:date ,
+		"1978-06-26+02:00"^^xsd:date ,
+		"1982-04-16+02:00"^^xsd:date ,
+		"1982-02-16+02:00"^^xsd:date ,
+		"1985-07-08+02:00"^^xsd:date ,
+		"1978-03-16+02:00"^^xsd:date ,
+		"1987-08-01+02:00"^^xsd:date ,
+		"1992-12-23+02:00"^^xsd:date ,
+		"1977-08-17+02:00"^^xsd:date ,
+		"1978-06-04+02:00"^^xsd:date ,
+		"1983-02-26+02:00"^^xsd:date ,
+		"1988-02-18+02:00"^^xsd:date ,
+		"1988-10-01+02:00"^^xsd:date ,
+		"1986-12-06+02:00"^^xsd:date ,
+		"1984-09-25+02:00"^^xsd:date ,
+		"1984-03-20+02:00"^^xsd:date ,
+		"1978-05-29+02:00"^^xsd:date ,
+		"1982-02-21+02:00"^^xsd:date ,
+		"1976-03-25+02:00"^^xsd:date ,
+		"1990-01-17+02:00"^^xsd:date ,
+		"1978-11-17+02:00"^^xsd:date ,
+		"1984-11-15+02:00"^^xsd:date ,
+		"1978-11-20+02:00"^^xsd:date ,
+		"1982-10-14+02:00"^^xsd:date ,
+		"1977-09-15+02:00"^^xsd:date ,
+		"1986-04-19+02:00"^^xsd:date ,
+		"1978-06-29+02:00"^^xsd:date ;
+	dbpprop:coach	dbpedia:Kelsang_Dhondup ;
+	dbpedia-owl:coach	dbpedia:Kelsang_Dhondup ;
+	dbpprop:association	dbpedia:Tibetan_National_Football_Association ;
+	dbpprop:badgeSize	150 ;
+	dbpprop:body	0 ,
+		"FFFFFF" ;
+	dbpprop:confederation	<http://dbpedia.org/resource/N.F.-Board> ;
+	dbpprop:leftarm	0 ,
+		"FFFFFF" ;
+	dbpprop:patternB	"_tibet1112aw" ,
+		"_tibet1112home" ;
+	dbpprop:rightarm	0 ,
+		"FFFFFF" ;
+	dbpprop:shorts	0 ,
+		"FFFFFF" ;
+	dbpprop:socks	0 ,
+		"ffffff" ;
+	dbpprop:no	24 ,
+		25 ,
+		26 ,
+		27 ,
+		28 ,
+		29 ,
+		30 ,
+		16 ,
+		17 ,
+		18 ,
+		19 ,
+		20 ,
+		21 ,
+		22 ,
+		23 ,
+		8 ,
+		9 ,
+		10 ,
+		11 ,
+		12 ,
+		13 ,
+		14 ,
+		15 ,
+		1 ,
+		2 ,
+		3 ,
+		4 ,
+		5 ,
+		6 ,
+		7 ;
+	dbpprop:pos	"DF" ,
+		"MF" ,
+		"FW" ,
+		"GK" ;
+	dbpprop:badge	"Tibet football team.png" ;
+	dbpprop:firstGame	"Greenland 4\u20131 Tibet" ;
+	dbpprop:largestLoss	"Padania 14\u20132 Tibet" ;
+	dbpprop:largestWin	"Tibet 6\u20130 Delhi XI" ;
+	dbpprop:eloRank	229 ;
+	dbpedia-owl:wikiPageExternalLink	<http://cities.expressindia.com/fullstory.php?newsid=249262> ,
+		<http://www.vdl-maassluis.nl/E-kanon/nieuws_detail.asp?varArtikel_ID=902> ,
+		<http://www.phayul.com/news/article.aspx?id=21115&t=1&c=1> ,
+		<http://www.tnsa.info/> .
+@prefix ns35:	<http://public.fotki.com/mvv27/mvv_27/seizoen-2007--2008/> .
+dbpedia:Tibet_national_football_team	dbpedia-owl:wikiPageExternalLink	ns35:wedstrijd-team-tibet ;
+	dbpprop:nickname	"\"The Forbiddens\"" ;
+	dbpprop:fifaCode	"N/A" .
+ns21:נבחרת_טיבט_בכדורגל	owl:sameAs	dbpedia:Tibet_national_football_team .
+ns26:Tibeto_vyrų_futbolo_rinktinė	owl:sameAs	dbpedia:Tibet_national_football_team .
+ns25:Selecționata_de_fotbal_a_Tibetului	owl:sameAs	dbpedia:Tibet_national_football_team .
+ns19:Сборная_Тибета_по_футболу	owl:sameAs	dbpedia:Tibet_national_football_team .
+ns24:Tibets_herrlandslag_i_fotboll	owl:sameAs	dbpedia:Tibet_national_football_team .
+ns23:Tibet_Millî_Futbol_Takımı	owl:sameAs	dbpedia:Tibet_national_football_team .
+ns22:西藏國家足球隊	owl:sameAs	dbpedia:Tibet_national_football_team .
+dbpedia:Tsering_Dhundup	dbpedia-owl:team	dbpedia:Tibet_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Tibet_national_football_team .
+<http://dbpedia.org/resource/Tashi_Tsering_(footballer)>	dbpedia-owl:team	dbpedia:Tibet_national_football_team ;
+	dbpprop:nationalteam	dbpedia:Tibet_national_football_team .

@@ -1,0 +1,344 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://de.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Marcus_Hahnemann	owl:sameAs	dbpedia:Marcus_Hahnemann .
+@prefix ns3:	<http://ja.dbpedia.org/resource/> .
+ns3:マーカス・ハーネマン	owl:sameAs	dbpedia:Marcus_Hahnemann .
+@prefix ns4:	<http://fr.dbpedia.org/resource/> .
+ns4:Marcus_Hahnemann	owl:sameAs	dbpedia:Marcus_Hahnemann .
+@prefix ns5:	<http://wikidata.dbpedia.org/resource/> .
+ns5:Q70564	owl:sameAs	dbpedia:Marcus_Hahnemann .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Marcus_Hahnemann	owl:sameAs	dbpedia:Marcus_Hahnemann .
+@prefix ns7:	<http://id.dbpedia.org/resource/> .
+ns7:Marcus_Hahnemann	owl:sameAs	dbpedia:Marcus_Hahnemann .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Marcus_Hahnemann	owl:sameAs	dbpedia:Marcus_Hahnemann .
+@prefix ns9:	<http://nl.dbpedia.org/resource/> .
+ns9:Marcus_Hahnemann	owl:sameAs	dbpedia:Marcus_Hahnemann .
+@prefix ns10:	<http://pl.dbpedia.org/resource/> .
+ns10:Marcus_Hahnemann	owl:sameAs	dbpedia:Marcus_Hahnemann .
+@prefix ns11:	<http://pt.dbpedia.org/resource/> .
+ns11:Marcus_Hahnemann	owl:sameAs	dbpedia:Marcus_Hahnemann .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2003_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Marcus_Hahnemann .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns14:	<http://en.wikipedia.org/wiki/> .
+ns14:Marcus_Hahnemann	foaf:primaryTopic	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2002%E2%80%9303_Reading_F.C._season>	dbpprop:name	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2006%E2%80%9307_Reading_F.C._season>	dbpprop:name	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2004%E2%80%9305_Reading_F.C._season>	dbpprop:name	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2007%E2%80%9308_Reading_F.C._season>	dbpprop:name	dbpedia:Marcus_Hahnemann ;
+	dbpprop:p	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2008%E2%80%9309_Reading_F.C._season>	dbpprop:name	dbpedia:Marcus_Hahnemann ;
+	dbpprop:p	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2005%E2%80%9306_Reading_F.C._season>	dbpprop:name	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2002%E2%80%9303_Fulham_F.C._season>	dbpprop:name	dbpedia:Marcus_Hahnemann .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbpedia:Marcus_Hahnemann	rdf:type	<http://dbpedia.org/class/yago/PeopleFromSeattle,Washington> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Marcus_Hahnemann	rdf:type	yago:ColoradoRapidsPlayers ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		<http://dbpedia.org/class/yago/EvertonF.C.Players> ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		<http://dbpedia.org/class/yago/FulhamF.C.Players> ,
+		yago:Player110439851 ,
+		yago:AmericanPeopleOfGermanDescent ,
+		yago:Athlete109820263 .
+@prefix ns17:	<http://schema.org/> .
+dbpedia:Marcus_Hahnemann	rdf:type	ns17:Person ,
+		yago:FootballPlayer110101634 ,
+		<http://dbpedia.org/class/yago/SoccerPlayersFromWashington(state)> ,
+		ns5:Q5 ,
+		foaf:Person .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Marcus_Hahnemann	rdf:type	dul:Agent ,
+		dul:NaturalPerson ,
+		yago:ExpatriateFootballersInEngland ,
+		<http://dbpedia.org/class/yago/RochdaleA.F.C.Players> ,
+		<http://dbpedia.org/class/yago/WolverhamptonWanderersF.C.Players> ,
+		yago:HockeyPlayer110179291 ,
+		yago:Goalkeeper110134001 ,
+		yago:AssociationFootballGoalkeepers ,
+		<http://dbpedia.org/class/yago/SeattleSounders(1994%E2%80%932008)Players> .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Marcus_Hahnemann	rdf:type	dbpedia-owl:Athlete ,
+		<http://dbpedia.org/class/yago/2011CONCACAFGoldCupPlayers> ,
+		<http://dbpedia.org/class/yago/2006FIFAWorldCupPlayers> ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		<http://dbpedia.org/class/yago/ReadingF.C.Players> ,
+		<http://dbpedia.org/class/yago/UnitedStatesMen\u0027sInternationalSoccerPlayers> ,
+		yago:AmericanExpatriateSoccerPeopleInTheUnitedKingdom ,
+		owl:Thing ,
+		ns5:Q215627 ,
+		yago:PhysicalEntity100001930 ,
+		yago:TheFootballLeaguePlayers ,
+		dbpedia-owl:Agent ,
+		yago:PremierLeaguePlayers ,
+		yago:Object100002684 ,
+		yago:Whole100003553 ,
+		dbpedia-owl:Person ,
+		yago:SoccerPlayer110618342 ,
+		dbpedia-owl:SoccerPlayer ,
+		<http://dbpedia.org/class/yago/SeattlePacificFalconsMen\u0027sSoccerPlayers> ,
+		<http://dbpedia.org/class/yago/2005CONCACAFGoldCupPlayers> ,
+		yago:Contestant109613191 ,
+		yago:AmericanExpatriatesInTheUnitedKingdom ,
+		<http://dbpedia.org/class/yago/2003FIFAConfederationsCupPlayers> ,
+		yago:USLA-LeaguePlayers ;
+	owl:sameAs	dbpedia:Marcus_Hahnemann ,
+		<http://ru.dbpedia.org/resource/\u0425\u0430\u043D\u0435\u043C\u0430\u043D\u043D,_\u041C\u0430\u0440\u043A\u0443\u0441> ,
+		ns9:Marcus_Hahnemann ,
+		ns6:Marcus_Hahnemann ,
+		ns5:Q70564 .
+@prefix ns20:	<http://wikidata.org/entity/> .
+dbpedia:Marcus_Hahnemann	owl:sameAs	ns20:Q70564 ,
+		<http://rdf.freebase.com/ns/m.025vh2> .
+@prefix ns21:	<http://da.dbpedia.org/resource/> .
+dbpedia:Marcus_Hahnemann	owl:sameAs	ns21:Marcus_Hahnemann .
+@prefix ns22:	<http://la.dbpedia.org/resource/> .
+dbpedia:Marcus_Hahnemann	owl:sameAs	ns22:Marcus_Hahnemann ,
+		ns1:Marcus_Hahnemann ,
+		ns7:Marcus_Hahnemann .
+@prefix ns23:	<http://mn.dbpedia.org/resource/> .
+dbpedia:Marcus_Hahnemann	owl:sameAs	ns23:Маркус_Ханеманн ,
+		ns8:Marcus_Hahnemann ,
+		ns11:Marcus_Hahnemann .
+@prefix ns24:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Marcus_Hahnemann	owl:sameAs	ns24:Marcus_Hahnemann .
+@prefix ns25:	<http://be_x_old.dbpedia.org/resource/> .
+dbpedia:Marcus_Hahnemann	owl:sameAs	ns25:Маркус_Гайнэман .
+@prefix ns26:	<http://no.dbpedia.org/resource/> .
+dbpedia:Marcus_Hahnemann	owl:sameAs	ns26:Marcus_Hahnemann ,
+		ns10:Marcus_Hahnemann .
+@prefix ns27:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Marcus_Hahnemann	owl:sameAs	ns27:Marcus_Hahnemann .
+@prefix ns28:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Marcus_Hahnemann	owl:sameAs	ns28:ماركوس_هاهنيمان .
+@prefix ns29:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Marcus_Hahnemann	owl:sameAs	ns29:Marcus_Hahnemann .
+@prefix ns30:	<http://yago-knowledge.org/resource/> .
+dbpedia:Marcus_Hahnemann	owl:sameAs	ns30:Marcus_Hahnemann ,
+		ns4:Marcus_Hahnemann ,
+		ns3:マーカス・ハーネマン .
+@prefix ns31:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Marcus_Hahnemann	owl:sameAs	ns31:मार्कस_हाह्नेमन .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Marcus_Hahnemann	rdfs:label	"Marcus Hahnemann"@de ,
+		"Marcus Hahnemann"@pt ,
+		"\u0645\u0627\u0631\u0643\u0648\u0633 \u0647\u0627\u0647\u0646\u064A\u0645\u0627\u0646"@ar ,
+		"\u30DE\u30FC\u30AB\u30B9\u30FB\u30CF\u30FC\u30CD\u30DE\u30F3"@ja ,
+		"Marcus Hahnemann" ,
+		"Marcus Hahnemann"@it ,
+		"Marcus Hahnemann"@es ,
+		"Marcus Hahnemann"@fr ,
+		"Marcus Hahnemann"@nl ,
+		"Marcus Hahnemann"@pl ,
+		"\u0425\u0430\u043D\u0435\u043C\u0430\u043D\u043D, \u041C\u0430\u0440\u043A\u0443\u0441"@ru .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+dbpedia:Marcus_Hahnemann	dcterms:subject	<http://dbpedia.org/resource/Category:2011_CONCACAF_Gold_Cup_players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Marcus_Hahnemann	dcterms:subject	category:Living_people ,
+		category:CONCACAF_Gold_Cup-winning_players ,
+		<http://dbpedia.org/resource/Category:A-League_(1995%E2%80%932004)_players> ,
+		<http://dbpedia.org/resource/Category:Seattle_Pacific_Falcons_men\u0027s_soccer_players> ,
+		<http://dbpedia.org/resource/Category:Fulham_F.C._players> ,
+		<http://dbpedia.org/resource/Category:Rochdale_A.F.C._players> ,
+		<http://dbpedia.org/resource/Category:Wolverhampton_Wanderers_F.C._players> ,
+		<http://dbpedia.org/resource/Category:Seattle_Sounders_(1994%E2%80%932008)_players> ,
+		category:Seattle_Sounders_FC_players ,
+		category:Association_football_goalkeepers ,
+		<http://dbpedia.org/resource/Category:1972_births> ,
+		<http://dbpedia.org/resource/Category:Soccer_players_from_Washington_(state)> ,
+		<http://dbpedia.org/resource/Category:Everton_F.C._players> ,
+		category:Colorado_Rapids_players ,
+		<http://dbpedia.org/resource/Category:People_from_Seattle,_Washington> ,
+		category:Premier_League_players ,
+		category:The_Football_League_players ,
+		category:Expatriate_footballers_in_England ,
+		<http://dbpedia.org/resource/Category:Reading_F.C._players> ,
+		<http://dbpedia.org/resource/Category:2006_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:United_States_men\u0027s_international_soccer_players> ,
+		<http://dbpedia.org/resource/Category:2005_CONCACAF_Gold_Cup_players> ,
+		category:Major_League_Soccer_players ,
+		category:American_expatriates_in_the_United_Kingdom ,
+		category:American_expatriate_sportspeople_in_the_United_Kingdom ,
+		<http://dbpedia.org/resource/Category:2003_FIFA_Confederations_Cup_players> ,
+		category:American_people_of_German_descent ;
+	foaf:homepage	<http://www.wolves.co.uk/page/ProfilesDetail/0,,10307~11307,00.html> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Marcus_Hahnemann_(cropped).jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Marcus_Hahnemann	dc:description	"Footballer" ,
+		"Footballer" ;
+	foaf:givenName	"Marcus" ;
+	foaf:name	"Marcus Stephen Hahnemann" ,
+		"Marcus Hahnemann" ,
+		"Hahnemann, Marcus" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Marcus_Hahnemann	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Marcus_Hahnemann?oldid=605402285> ;
+	rdfs:comment	"\u30DE\u30FC\u30AB\u30B9\u30FB\u30B9\u30C6\u30A3\u30FC\u30F4\u30F3\u30FB\u30CF\u30FC\u30CD\u30DE\u30F3\uFF08Marcus Stephan Hahnemann, 1972\u5E746\u670815\u65E5 - \uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u5317\u897F\u90E8\u306B\u3042\u308B\u30B7\u30A2\u30C8\u30EB\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30B7\u30A2\u30C8\u30EB\u30FB\u30B5\u30A6\u30F3\u30C0\u30FC\u30BAFC\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30B4\u30FC\u30EB\u30AD\u30FC\u30D1\u30FC\u3002\u30C9\u30A4\u30C4\u7CFB\u30A2\u30E1\u30EA\u30AB\u4EBA\u3002"@ja ,
+		"Marcus Hahnemann (ur. si\u0119 w 15 czerwca 1972 roku w Seattle) - ameryka\u0144ski pi\u0142karz graj\u0105cy na pozycji bramkarza w Seattle Sounders FC, do kt\u00F3rego przyby\u0142 w 2012 roku. Wcze\u015Bniej wyst\u0119powa\u0142 tak\u017Ce w Fulham, Rochdale, Colorado Rapids, Wolverhampton Wanderers i Evertonie. Mierzy 191 cm wzrostu, wa\u017Cy 99 kg.W reprezentacji USA zadebiutowa\u0142 19 listopada 1994 roku w zremisowanym 1:1 meczu z Trynidadu i Tobago. W 2006 roku by\u0142 cz\u0142onkiem kadry na Mistrzostwa \u015Awiata w Niemczech."@pl ,
+		"Marcus Stephan Hahnemann (* 15. Juni 1972 in Seattle, Washington, USA) ist ein US-amerikanischer Fu\u00DFballtorwart. Seit September 2011 steht er beim FC Everton unter Vertrag."@de ,
+		"Marcus Stephan Hahnemann, n\u00E9 le 15 juin 1972 \u00E0 Seattle dans l'\u00C9tat de Washington, est un footballeur am\u00E9ricain. Il \u00E9volue au poste de gardien de but avec les Sounders de Seattle en MLS et avec l'\u00E9quipe des \u00C9tats-Unis."@fr ,
+		"\u041C\u0430\u0301\u0440\u043A\u0443\u0441 \u0421\u0442\u0435\u0301\u0444\u0430\u043D \u0425\u0430\u0301\u043D\u0435\u043C\u0430\u043D\u043D (\u0430\u043D\u0433\u043B. Marcus Stephan Hahnemann; 15 \u0438\u044E\u043D\u044F 1972, \u0421\u0438\u044D\u0442\u043B) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442 \u043D\u0435\u043C\u0435\u0446\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F, \u0432\u0440\u0430\u0442\u0430\u0440\u044C \u043A\u043B\u0443\u0431\u0430 \u00AB\u0421\u0438\u044D\u0442\u043B \u0421\u0430\u0443\u043D\u0434\u0435\u0440\u0441\u00BB, \u0431\u044B\u0432\u0448\u0438\u0439 \u0438\u0433\u0440\u043E\u043A \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u0428\u0410."@ru ,
+		"\u0645\u0627\u0631\u0643\u0648\u0633 \u0623\u0648\u063A\u0633\u062A\u0633 \u0647\u0627\u0647\u0646\u064A\u0645\u0627\u0646\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 15 \u064A\u0648\u0646\u064A\u0648 1972 \u0641\u064A \u0633\u064A\u0627\u062A\u0644 \u0641\u064A \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A\u0629\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0623\u0645\u0631\u064A\u0643\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0633\u064A\u0627\u062A\u0644 \u0633\u0627\u0648\u0646\u062F\u0631\u0632 \u0641\u064A \u0639\u0627\u0645 1994\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 1997\u060C \u0648\u0641\u064A \u0639\u0627\u0645 1997 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0643\u0648\u0644\u0648\u0631\u0627\u062F\u0648 \u0631\u0627\u0628\u064A\u062F\u0632\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 1999\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 66 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0641\u064A \u0639\u0627\u0645 1999 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0641\u0648\u0644\u0647\u0627\u0645 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2002\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A \u0645\u0628\u0627\u0631\u0627\u062A\u064A\u0646\u060C \u0641\u064A \u0639\u0627\u0645 2001 \u0623\u0639\u064A\u0631 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0631\u0648\u062A\u0634\u0627\u062F\u0644 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 5 \u0645\u0628\u0627\u0631\u064A\u0627\u062A\u060C \u0648\u0641\u064A \u0645\u0648\u0633\u0645 2001/2002 \u0623\u0639\u064A\u0631 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0631\u064A\u062F\u064A\u0646\u063A \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 6 \u0645\u0628\u0627\u0631\u064A\u0627\u062A\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2002 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0631\u064A\u062F\u064A\u0646\u063A \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0627\u0644\u0622\u0646.\u0648 \u0642\u062F \u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 1994."@ar ,
+		"Marcus Stephen Hahnemann (born June 15, 1972) is an American international soccer player who currently plays for Seattle Sounders FC in Major League Soccer. Graduating out of Seattle Pacific University, he played for the Seattle Sounders between 1994 and 1996. Between 1997 and 1999 he turned out for the Colorado Rapids, signing with English club Fulham in 1999." ,
+		"Marcus Hahnemann (nacido el 15 de julio de 1972 en Seattle, Washington, Estados Unidos) es un futbolista. Actualmente juega de portero para el Seattle Sounders en la Major League Soccer estadounidense."@es ,
+		"Marcus Stephan Hahnemann (Seattle, 15 de Junho de 1972) \u00E9 um futebolista norte-americano, que defende o Seattle Sounders FC. Atua como goleiro."@pt ,
+		"Marcus Stephen Hahnemann (Seattle, 15 giugno 1972) \u00E8 un calciatore statunitense con passaporto tedesco, portiere dei Seattle Sounders FC."@it ,
+		"Marcus Stephan Hahnemann (Seattle, 15 juni 1972) is een Amerikaans sportman van Duitse komaf die als keeper betaald voetbal speelt. Hij tekende in juni 2011 een contract bij Everton FC. Hij kwam transfervrij over van Wolverhampton Wanderers. Door Wolverhampton werd Hahnemann oorspronkelijk aangetrokken als tweede keeper achter Wayne Hennessey, maar vroeg in het seizoen werd hij coach Mick McCarthy's eerste keus."@nl ;
+	foaf:surname	"Hahnemann" ;
+	foaf:isPrimaryTopicOf	ns14:Marcus_Hahnemann .
+@prefix ns37:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Marcus_Hahnemann	dbpprop:hasPhotoCollection	ns37:Marcus_Hahnemann ;
+	dbpprop:caption	"Hahnemann in March 2013" ;
+	dbpprop:name	"Marcus Hahnemann" ,
+		"Hahnemann, Marcus" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Marcus_Hahnemann_(cropped).jpg?width=300> ;
+	dbpedia-owl:abstract	"\u0645\u0627\u0631\u0643\u0648\u0633 \u0623\u0648\u063A\u0633\u062A\u0633 \u0647\u0627\u0647\u0646\u064A\u0645\u0627\u0646\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 15 \u064A\u0648\u0646\u064A\u0648 1972 \u0641\u064A \u0633\u064A\u0627\u062A\u0644 \u0641\u064A \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A\u0629\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0623\u0645\u0631\u064A\u0643\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0633\u064A\u0627\u062A\u0644 \u0633\u0627\u0648\u0646\u062F\u0631\u0632 \u0641\u064A \u0639\u0627\u0645 1994\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 1997\u060C \u0648\u0641\u064A \u0639\u0627\u0645 1997 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0643\u0648\u0644\u0648\u0631\u0627\u062F\u0648 \u0631\u0627\u0628\u064A\u062F\u0632\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 1999\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 66 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0641\u064A \u0639\u0627\u0645 1999 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0641\u0648\u0644\u0647\u0627\u0645 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2002\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A \u0645\u0628\u0627\u0631\u0627\u062A\u064A\u0646\u060C \u0641\u064A \u0639\u0627\u0645 2001 \u0623\u0639\u064A\u0631 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0631\u0648\u062A\u0634\u0627\u062F\u0644 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 5 \u0645\u0628\u0627\u0631\u064A\u0627\u062A\u060C \u0648\u0641\u064A \u0645\u0648\u0633\u0645 2001/2002 \u0623\u0639\u064A\u0631 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0631\u064A\u062F\u064A\u0646\u063A \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 6 \u0645\u0628\u0627\u0631\u064A\u0627\u062A\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2002 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0631\u064A\u062F\u064A\u0646\u063A \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0627\u0644\u0622\u0646.\u0648 \u0642\u062F \u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 1994."@ar ,
+		"Marcus Stephen Hahnemann (born June 15, 1972) is an American international soccer player who currently plays for Seattle Sounders FC in Major League Soccer. Graduating out of Seattle Pacific University, he played for the Seattle Sounders between 1994 and 1996. Between 1997 and 1999 he turned out for the Colorado Rapids, signing with English club Fulham in 1999. Unable to become the first-choice goalkeeper at Fulham, he enjoyed loan spells with Rochdale and Reading, before signing permanently with Reading in 2002. In 2009, following 276 league appearances for the club, he transferred to Wolverhampton Wanderers.He has won nine caps for the United States, featuring as back-up for Kasey Keller and Tim Howard in two World Cups. Following his debut for the States in 1994 he played two further games within the same month, however he had to wait almost nine years before his next international appearance, making him a player with one of the longest ever gaps between caps." ,
+		"\u041C\u0430\u0301\u0440\u043A\u0443\u0441 \u0421\u0442\u0435\u0301\u0444\u0430\u043D \u0425\u0430\u0301\u043D\u0435\u043C\u0430\u043D\u043D (\u0430\u043D\u0433\u043B. Marcus Stephan Hahnemann; 15 \u0438\u044E\u043D\u044F 1972, \u0421\u0438\u044D\u0442\u043B) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442 \u043D\u0435\u043C\u0435\u0446\u043A\u043E\u0433\u043E \u043F\u0440\u043E\u0438\u0441\u0445\u043E\u0436\u0434\u0435\u043D\u0438\u044F, \u0432\u0440\u0430\u0442\u0430\u0440\u044C \u043A\u043B\u0443\u0431\u0430 \u00AB\u0421\u0438\u044D\u0442\u043B \u0421\u0430\u0443\u043D\u0434\u0435\u0440\u0441\u00BB, \u0431\u044B\u0432\u0448\u0438\u0439 \u0438\u0433\u0440\u043E\u043A \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u0428\u0410."@ru ,
+		"Marcus Stephan Hahnemann (* 15. Juni 1972 in Seattle, Washington, USA) ist ein US-amerikanischer Fu\u00DFballtorwart. Seit September 2011 steht er beim FC Everton unter Vertrag."@de ,
+		"Marcus Stephen Hahnemann (Seattle, 15 giugno 1972) \u00E8 un calciatore statunitense con passaporto tedesco, portiere dei Seattle Sounders FC."@it ,
+		"\u30DE\u30FC\u30AB\u30B9\u30FB\u30B9\u30C6\u30A3\u30FC\u30F4\u30F3\u30FB\u30CF\u30FC\u30CD\u30DE\u30F3\uFF08Marcus Stephan Hahnemann, 1972\u5E746\u670815\u65E5 - \uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u5408\u8846\u56FD\u5317\u897F\u90E8\u306B\u3042\u308B\u30B7\u30A2\u30C8\u30EB\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30B7\u30A2\u30C8\u30EB\u30FB\u30B5\u30A6\u30F3\u30C0\u30FC\u30BAFC\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30B4\u30FC\u30EB\u30AD\u30FC\u30D1\u30FC\u3002\u30C9\u30A4\u30C4\u7CFB\u30A2\u30E1\u30EA\u30AB\u4EBA\u3002"@ja ,
+		"Marcus Stephan Hahnemann, n\u00E9 le 15 juin 1972 \u00E0 Seattle dans l'\u00C9tat de Washington, est un footballeur am\u00E9ricain. Il \u00E9volue au poste de gardien de but avec les Sounders de Seattle en MLS et avec l'\u00E9quipe des \u00C9tats-Unis."@fr ,
+		"Marcus Hahnemann (nacido el 15 de julio de 1972 en Seattle, Washington, Estados Unidos) es un futbolista. Actualmente juega de portero para el Seattle Sounders en la Major League Soccer estadounidense."@es ,
+		"Marcus Stephan Hahnemann (Seattle, 15 juni 1972) is een Amerikaans sportman van Duitse komaf die als keeper betaald voetbal speelt. Hij tekende in juni 2011 een contract bij Everton FC. Hij kwam transfervrij over van Wolverhampton Wanderers. Door Wolverhampton werd Hahnemann oorspronkelijk aangetrokken als tweede keeper achter Wayne Hennessey, maar vroeg in het seizoen werd hij coach Mick McCarthy's eerste keus."@nl ,
+		"Marcus Stephan Hahnemann (Seattle, 15 de Junho de 1972) \u00E9 um futebolista norte-americano, que defende o Seattle Sounders FC. Atua como goleiro."@pt ,
+		"Marcus Hahnemann (ur. si\u0119 w 15 czerwca 1972 roku w Seattle) - ameryka\u0144ski pi\u0142karz graj\u0105cy na pozycji bramkarza w Seattle Sounders FC, do kt\u00F3rego przyby\u0142 w 2012 roku. Wcze\u015Bniej wyst\u0119powa\u0142 tak\u017Ce w Fulham, Rochdale, Colorado Rapids, Wolverhampton Wanderers i Evertonie. Mierzy 191 cm wzrostu, wa\u017Cy 99 kg.W reprezentacji USA zadebiutowa\u0142 19 listopada 1994 roku w zremisowanym 1:1 meczu z Trynidadu i Tobago. W 2006 roku by\u0142 cz\u0142onkiem kadry na Mistrzostwa \u015Awiata w Niemczech."@pl ;
+	dbpedia-owl:wikiPageID	416892 ;
+	dbpedia-owl:wikiPageRevisionID	605402285 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Marcus_Hahnemann	dbpprop:birthDate	"1972-06-15+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Seattle, Washington, United States" ;
+	dbpprop:dateOfBirth	"1972-06-15+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	dbpedia:Seattle ,
+		dbpedia:United_States ;
+	dbpprop:shortDescription	"Footballer" ;
+	dbpedia-owl:birthDate	"1972-06-15+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Seattle ,
+		<http://dbpedia.org/resource/United_States_men\u0027s_national_soccer_team> ,
+		dbpedia:United_States ;
+	dbpedia-owl:birthYear	"1972+02:00"^^xsd:gYear ;
+	dbpedia-owl:viafId	"61353462" ;
+	dbpprop:goals	0 ;
+	dbpprop:bg	"white" ;
+	dbpprop:caps	276 ,
+		0 ,
+		2 ,
+		4 ,
+		5 ,
+		6 ,
+		40 ,
+		65 ,
+		66 ;
+	dbpprop:years	2012 ,
+		2011 ,
+		2009 ,
+		2002 ,
+		2001 ,
+		1999 ,
+		1997 ,
+		1994 ;
+	dbpprop:youthclubs	dbpedia:Seattle_Pacific_University ;
+	dbpedia-owl:careerStation	dbpedia:Marcus_Hahnemann__11 ,
+		dbpedia:Marcus_Hahnemann__2 ,
+		dbpedia:Marcus_Hahnemann__3 ,
+		dbpedia:Marcus_Hahnemann__5 ,
+		dbpedia:Marcus_Hahnemann__6 ,
+		dbpedia:Marcus_Hahnemann__7 ,
+		dbpedia:Marcus_Hahnemann__9 ,
+		dbpedia:Marcus_Hahnemann__4 ,
+		dbpedia:Marcus_Hahnemann__10 ,
+		dbpedia:Marcus_Hahnemann__1 ,
+		dbpedia:Marcus_Hahnemann__8 ;
+	dbpprop:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbpedia-owl:height	1.9099999999999999201 .
+@prefix ns39:	<http://dbpedia.org/datatype/> .
+@prefix ns40:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Marcus_Hahnemann	ns40:height	"191.0"^^ns39:centimetre ;
+	dbpprop:currentclub	dbpedia:Seattle_Sounders_FC ;
+	dbpprop:clubnumber	1 ;
+	dbpprop:fullname	"Marcus Stephen Hahnemann" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/Reading_F.C.> ,
+		"\u2192 Reading" ,
+		<http://dbpedia.org/resource/Fulham_F.C.> ,
+		dbpedia:Colorado_Rapids ,
+		"\u2192 Rochdale" ,
+		<http://dbpedia.org/resource/Everton_F.C.> ,
+		<http://dbpedia.org/resource/Seattle_Sounders_(1994%E2%80%932008)> ,
+		dbpedia:Seattle_Sounders_FC ,
+		<http://dbpedia.org/resource/Wolverhampton_Wanderers_F.C.> ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/Reading_F.C.> ,
+		<http://dbpedia.org/resource/Fulham_F.C.> ,
+		dbpedia:Seattle_Pacific_University ,
+		dbpedia:Colorado_Rapids ,
+		<http://dbpedia.org/resource/Everton_F.C.> ,
+		<http://dbpedia.org/resource/Seattle_Sounders_(1994%E2%80%932008)> ,
+		dbpedia:Seattle_Sounders_FC ,
+		<http://dbpedia.org/resource/United_States_men\u0027s_national_soccer_team> ,
+		<http://dbpedia.org/resource/Wolverhampton_Wanderers_F.C.> ,
+		<http://dbpedia.org/resource/Rochdale_A.F.C.> .
+@prefix ns41:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Marcus_Hahnemann	dbpprop:wordnet_type	ns41:synset-soccer_player-noun-1 ;
+	dbpprop:title	"United States Squad" ;
+	dbpprop:youthyears	1990 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.wolves.co.uk/page/ProfilesDetail/0,,10307~11307,00.html> ,
+		<http://www.premierleague.com/page/PlayerProfile/0,,12306~11307,00.html> ,
+		<http://www.footballdatabase.com/index.php?page=player&Id=8421&pn=Marcus_Hahnemann> ,
+		<http://www.ussoccer.com/bio/index.jsp_78454.html> ;
+	dbpprop:clubUpdate	"--08-04+02:00"^^xsd:gMonthDay ;
+	dbpprop:nationalteamUpdate	"--09-15+02:00"^^xsd:gMonthDay ;
+	dbpprop:bordercolor	"#BF0A30" ;
+	dbpprop:fg	"#002868" ;
+	dbpprop:nationalcaps	9 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	<http://dbpedia.org/resource/United_States_men\u0027s_national_soccer_team> ;
+	dbpprop:nationalyears	1994 ;
+	dbpedia-owl:number	1 ;
+	dbpedia-owl:alias	"Hahnemann, Marcus Stephen" ;
+	dbpprop:alternativeNames	"Hahnemann, Marcus Stephen" .
+ns28:ماركوس_هاهنيمان	owl:sameAs	dbpedia:Marcus_Hahnemann .
+ns25:Маркус_Гайнэман	owl:sameAs	dbpedia:Marcus_Hahnemann .
+ns21:Marcus_Hahnemann	owl:sameAs	dbpedia:Marcus_Hahnemann .
+ns24:Marcus_Hahnemann	owl:sameAs	dbpedia:Marcus_Hahnemann .
+ns22:Marcus_Hahnemann	owl:sameAs	dbpedia:Marcus_Hahnemann .
+ns23:Маркус_Ханеманн	owl:sameAs	dbpedia:Marcus_Hahnemann .
+ns31:मार्कस_हाह्नेमन	owl:sameAs	dbpedia:Marcus_Hahnemann .
+ns26:Marcus_Hahnemann	owl:sameAs	dbpedia:Marcus_Hahnemann .
+<http://ru.dbpedia.org/resource/\u0425\u0430\u043D\u0435\u043C\u0430\u043D\u043D,_\u041C\u0430\u0440\u043A\u0443\u0441>	owl:sameAs	dbpedia:Marcus_Hahnemann .
+ns29:Marcus_Hahnemann	owl:sameAs	dbpedia:Marcus_Hahnemann .
+ns27:Marcus_Hahnemann	owl:sameAs	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2003%E2%80%9304_Reading_F.C._season>	dbpprop:name	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2000%E2%80%9301_Fulham_F.C._season>	dbpprop:name	dbpedia:Marcus_Hahnemann ;
+	dbpedia-owl:currentMember	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2011_CONCACAF_Gold_Cup_squads>	dbpprop:name	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2004%E2%80%9305_Reading_F.C._season__Marcus_Hahnemann__1>	dbpedia-owl:currentMember	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2008%E2%80%9309_Reading_F.C._season__Marcus_Hahnemann__1>	dbpedia-owl:currentMember	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/1999%E2%80%932000_Fulham_F.C._season__Marcus_Hahnemann__1>	dbpedia-owl:currentMember	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2002%E2%80%9303_Fulham_F.C._season__Marcus_Hahnemann__1>	dbpedia-owl:currentMember	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2005%E2%80%9306_Reading_F.C._season__Marcus_Hahnemann__1>	dbpedia-owl:currentMember	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2006%E2%80%9307_Reading_F.C._season__Marcus_Hahnemann__1>	dbpedia-owl:currentMember	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2007%E2%80%9308_Reading_F.C._season__Marcus_Hahnemann__1>	dbpedia-owl:currentMember	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2002%E2%80%9303_Reading_F.C._season__Marcus_Hahnemann__1>	dbpedia-owl:currentMember	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2003%E2%80%9304_Reading_F.C._season__Marcus_Hahnemann__1>	dbpedia-owl:currentMember	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2001%E2%80%9302_Reading_F.C._season__Marcus_Hahnemann__1>	dbpedia-owl:currentMember	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2011%E2%80%9312_Everton_F.C._season__Marcus_Hahnemann__1>	dbpedia-owl:currentMember	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2011%E2%80%9312_Everton_F.C._season>	dbpprop:name	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2005_CONCACAF_Gold_Cup_squads>	dbpprop:name	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2001%E2%80%9302_Fulham_F.C._season>	dbpprop:name	dbpedia:Marcus_Hahnemann ;
+	dbpedia-owl:currentMember	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/1999%E2%80%932000_Fulham_F.C._season>	dbpprop:name	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2006_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Marcus_Hahnemann .
+<http://dbpedia.org/resource/2001%E2%80%9302_Reading_F.C._season>	dbpprop:name	dbpedia:Marcus_Hahnemann .

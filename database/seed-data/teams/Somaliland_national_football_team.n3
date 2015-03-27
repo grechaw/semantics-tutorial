@@ -1,0 +1,70 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Somaliland_national_football_team	foaf:primaryTopic	dbpedia:Somaliland_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbpedia:Somaliland_national_football_team	rdf:type	owl:Thing .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Somaliland_national_football_team	rdf:type	dul:SocialPerson .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Somaliland_national_football_team	rdf:type	dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		dul:Agent ,
+		dbpedia-owl:Organisation .
+@prefix ns7:	<http://schema.org/> .
+dbpedia:Somaliland_national_football_team	rdf:type	ns7:SportsTeam ,
+		dbpedia-owl:Agent ,
+		ns7:Organization .
+@prefix ns8:	<http://pl.dbpedia.org/resource/> .
+dbpedia:Somaliland_national_football_team	owl:sameAs	ns8:Reprezentacja_Somalilandu_w_piłce_nożnej .
+@prefix ns9:	<http://ja.dbpedia.org/resource/> .
+dbpedia:Somaliland_national_football_team	owl:sameAs	ns9:サッカーソマリランド代表 .
+@prefix ns10:	<http://pt.dbpedia.org/resource/> .
+dbpedia:Somaliland_national_football_team	owl:sameAs	ns10:Seleção_de_Futebol_da_Somalilândia .
+@prefix ns11:	<http://wikidata.org/entity/> .
+dbpedia:Somaliland_national_football_team	owl:sameAs	ns11:Q765532 .
+@prefix ns12:	<http://es.dbpedia.org/resource/> .
+dbpedia:Somaliland_national_football_team	owl:sameAs	ns12:Selección_de_fútbol_de_Somalilandia .
+@prefix ns13:	<http://wikidata.dbpedia.org/resource/> .
+dbpedia:Somaliland_national_football_team	owl:sameAs	ns13:Q765532 ,
+		<http://rdf.freebase.com/ns/m.0w1fxhs> .
+@prefix ns14:	<http://it.dbpedia.org/resource/> .
+dbpedia:Somaliland_national_football_team	owl:sameAs	ns14:Selezione_di_calcio_del_Somaliland ,
+		dbpedia:Somaliland_national_football_team .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Somaliland_national_football_team	rdfs:label	"Selecci\u00F3n de f\u00FAtbol de Somalilandia"@es ,
+		"Selezione di calcio del Somaliland"@it ,
+		"Somaliland national football team" ,
+		"Sele\u00E7\u00E3o de Futebol da Somalil\u00E2ndia"@pt ,
+		"\u30B5\u30C3\u30AB\u30FC\u30BD\u30DE\u30EA\u30E9\u30F3\u30C9\u4EE3\u8868"@ja ,
+		"Reprezentacja Somalilandu w pi\u0142ce no\u017Cnej"@pl .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Somaliland_national_football_team	dcterms:subject	category:Somaliland ,
+		<http://dbpedia.org/resource/Category:African_N.F.-Board_teams> ,
+		category:Football_in_Somalia ;
+	foaf:name	"Somaliland national football team" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Somaliland_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Somaliland_national_football_team?oldid=564367103> ;
+	rdfs:comment	"Pi\u0142karska reprezentacja Somalilandu w pi\u0142ce no\u017Cnej \u2013 zesp\u00F3\u0142, reprezentuj\u0105cy Somaliland. Nale\u017Cy do NF-Board, natomiast nie do FIFA.Dotychczas rozegrali tylko 1 mecz towarzyski."@pl ,
+		"La Selezione di calcio del Somaliland \u00E8 una squadra di calcio internazionale della Repubblica del Somaliland."@it ,
+		"La selecci\u00F3n de f\u00FAtbol de Somalilandia es el equipo que representa a Somalilandia a nivel internacional, no pertenecen ni a la Confederaci\u00F3n Africana de F\u00FAtbol ni a la FIFA, por lo que no pueden participar en los torneos organizados por dichas asociaciones.Somalilandia se ha unido a la NF-Board en busca del reconocimiento internacional, desde el 30 de septiembre de 2006.Esta selecci\u00F3n solamente ha jugado un partido en toda su historia, fue el 6 de noviembre del 2003 en Hargeysa ante Etiop\u00EDa, jugando en calidad de local, siendo derrotado 1-2."@es ,
+		"A Sele\u00E7\u00E3o de Futebol da Somalil\u00E2ndia \u00E9 a sele\u00E7\u00E3o nacional da Somalil\u00E2ndia, uma regi\u00E3o aut\u00F4noma localizada na regi\u00E3o noroeste da Som\u00E1lia.Gerida pela Associa\u00E7\u00E3o de Futebol da Somalil\u00E2ndia, n\u00E3o \u00E9 membro da FIFA nem da CAF nem mesmo da UAFA, e por este motivo n\u00E3o pode participar da Copa do Mundo ou do Copa das Na\u00E7\u00F5es Africanas. \u00C9 um membro associado da NF-Board, associa\u00E7\u00E3o que re\u00FAne as sele\u00E7\u00F5es de pa\u00EDses, territ\u00F3rios e depend\u00EAncias n\u00E3o-filiados \u00E0 FIFA."@pt ,
+		"\u30B5\u30C3\u30AB\u30FC\u30BD\u30DE\u30EA\u30E9\u30F3\u30C9\u4EE3\u8868\u306F\u3001\u30BD\u30DE\u30EA\u30E9\u30F3\u30C9\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u306B\u3088\u308A\u7DE8\u6210\u3055\u308C\u308B\u30BD\u30DE\u30EA\u30E9\u30F3\u30C9\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30BD\u30DE\u30EA\u30E9\u30F3\u30C9\u4EE3\u8868\u306F\u3001FIFA\u53CA\u3073\u3001CAF\u306B\u52A0\u76DF\u3057\u3066\u3044\u306A\u3044\u30022006\u5E749\u670830\u65E5\u3001NF-Board\u306B\u52A0\u76DF\u3002"@ja ,
+		"The Somaliland national football team is the association football team that represents Somaliland, a self-declared republic that is internationally recognized as an autonomous region of Somalia. Since Somaliland is recognized as a part of Somalia and Somalia already has national football team that is part of FIFA, UAFA and the CAF, the Somaliland squad is not a member of any of those international football organizations." ;
+	foaf:isPrimaryTopicOf	ns1:Somaliland_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Somaliland_national_football_team	dbpprop:name	"Somaliland national football team" ;
+	dbpedia-owl:abstract	"Pi\u0142karska reprezentacja Somalilandu w pi\u0142ce no\u017Cnej \u2013 zesp\u00F3\u0142, reprezentuj\u0105cy Somaliland. Nale\u017Cy do NF-Board, natomiast nie do FIFA.Dotychczas rozegrali tylko 1 mecz towarzyski."@pl ,
+		"A Sele\u00E7\u00E3o de Futebol da Somalil\u00E2ndia \u00E9 a sele\u00E7\u00E3o nacional da Somalil\u00E2ndia, uma regi\u00E3o aut\u00F4noma localizada na regi\u00E3o noroeste da Som\u00E1lia.Gerida pela Associa\u00E7\u00E3o de Futebol da Somalil\u00E2ndia, n\u00E3o \u00E9 membro da FIFA nem da CAF nem mesmo da UAFA, e por este motivo n\u00E3o pode participar da Copa do Mundo ou do Copa das Na\u00E7\u00F5es Africanas. \u00C9 um membro associado da NF-Board, associa\u00E7\u00E3o que re\u00FAne as sele\u00E7\u00F5es de pa\u00EDses, territ\u00F3rios e depend\u00EAncias n\u00E3o-filiados \u00E0 FIFA."@pt ,
+		"The Somaliland national football team is the association football team that represents Somaliland, a self-declared republic that is internationally recognized as an autonomous region of Somalia. Since Somaliland is recognized as a part of Somalia and Somalia already has national football team that is part of FIFA, UAFA and the CAF, the Somaliland squad is not a member of any of those international football organizations. It is instead an associate member of the Non-FIFA-Board (NFB), an association established in 2003 of teams from dependencies, unrecognized states, minorities, stateless peoples, regions and micronations that are not affiliated with FIFA." ,
+		"La Selezione di calcio del Somaliland \u00E8 una squadra di calcio internazionale della Repubblica del Somaliland. Non \u00E8 membro della CAF o della FIFA per cui non pu\u00F2 partecipare al Campionato mondiale di calcio o alla Coppa delle Nazioni Africane.Dal 30 settembre 2006 \u00E8 membro ufficiale della NF-Board.Tra le nazionali dell'NF Board \u00E8 quella che pi\u00F9 di tutte pu\u00F2 aspirare a far parte della FIFA in quanto il Somaliland sta portando avanti un processo di indipendenza e di riconoscimento internazionale a partire dal 1991."@it ,
+		"\u30B5\u30C3\u30AB\u30FC\u30BD\u30DE\u30EA\u30E9\u30F3\u30C9\u4EE3\u8868\u306F\u3001\u30BD\u30DE\u30EA\u30E9\u30F3\u30C9\u30B5\u30C3\u30AB\u30FC\u5354\u4F1A\u306B\u3088\u308A\u7DE8\u6210\u3055\u308C\u308B\u30BD\u30DE\u30EA\u30E9\u30F3\u30C9\u306E\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30BD\u30DE\u30EA\u30E9\u30F3\u30C9\u4EE3\u8868\u306F\u3001FIFA\u53CA\u3073\u3001CAF\u306B\u52A0\u76DF\u3057\u3066\u3044\u306A\u3044\u30022006\u5E749\u670830\u65E5\u3001NF-Board\u306B\u52A0\u76DF\u3002"@ja ,
+		"La selecci\u00F3n de f\u00FAtbol de Somalilandia es el equipo que representa a Somalilandia a nivel internacional, no pertenecen ni a la Confederaci\u00F3n Africana de F\u00FAtbol ni a la FIFA, por lo que no pueden participar en los torneos organizados por dichas asociaciones.Somalilandia se ha unido a la NF-Board en busca del reconocimiento internacional, desde el 30 de septiembre de 2006.Esta selecci\u00F3n solamente ha jugado un partido en toda su historia, fue el 6 de noviembre del 2003 en Hargeysa ante Etiop\u00EDa, jugando en calidad de local, siendo derrotado 1-2."@es ;
+	dbpedia-owl:wikiPageID	39725970 ;
+	dbpedia-owl:wikiPageRevisionID	564367103 ;
+	dbpprop:confederation	<http://dbpedia.org/resource/N.F.-Board> ;
+	dbpprop:patternB	"_whitehorizontal" ;
+	dbpprop:homeStadium	dbpedia:Hargeisa ;
+	dbpedia-owl:stadium	dbpedia:Hargeisa .

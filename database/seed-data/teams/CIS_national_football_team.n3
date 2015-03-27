@@ -1,0 +1,374 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Équipe_de_la_communauté_des_États_indépendants_de_football	owl:sameAs	dbpedia:CIS_national_football_team .
+@prefix ns3:	<http://wikidata.dbpedia.org/resource/> .
+ns3:Q721418	owl:sameAs	dbpedia:CIS_national_football_team .
+<http://el.dbpedia.org/resource/\u0395\u03B8\u03BD\u03B9\u03BA\u03AE_\u039A\u0391\u039A_(\u03C0\u03BF\u03B4\u03CC\u03C3\u03C6\u03B1\u03B9\u03C1\u03BF_\u03B1\u03BD\u03B4\u03C1\u03CE\u03BD)>	owl:sameAs	dbpedia:CIS_national_football_team .
+@prefix ns4:	<http://es.dbpedia.org/resource/> .
+ns4:Selección_de_fútbol_de_la_Comunidad_de_Estados_Independientes	owl:sameAs	dbpedia:CIS_national_football_team .
+@prefix ns5:	<http://it.dbpedia.org/resource/> .
+ns5:Nazionale_di_calcio_della_Comunità_degli_Stati_Indipendenti	owl:sameAs	dbpedia:CIS_national_football_team .
+@prefix ns6:	<http://nl.dbpedia.org/resource/> .
+ns6:Voetbalelftal_van_Gemenebest_van_Onafhankelijke_Staten	owl:sameAs	dbpedia:CIS_national_football_team .
+@prefix ns7:	<http://pl.dbpedia.org/resource/> .
+ns7:Reprezentacja_Wspólnoty_Niepodległych_Państw_w_piłce_nożnej	owl:sameAs	dbpedia:CIS_national_football_team .
+@prefix ns8:	<http://pt.dbpedia.org/resource/> .
+ns8:Seleção_da_CEI_de_Futebol	owl:sameAs	dbpedia:CIS_national_football_team .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Oleh_Kuznetsov	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+dbpedia:Oleh_Kuznetsov	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Oleksiy_Mykhaylychenko	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Dmitri_Galiamin	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Stanislav_Cherchesov	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Volodymyr_Lyutyi	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Volodymyr_Lyutyi__12	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Andrei_Piatnitski	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Dmitri_Kharine__9	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Dmitri_Galiamin__5	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Oleh_Kuznetsov__8	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:CIS_national_football_team	rdf:type	yago:YagoLegalActor ,
+		yago:YagoLegalActorGeo ,
+		yago:CISNationalFootballTeams .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:CIS_national_football_team	rdf:type	dul:SocialPerson ,
+		yago:YagoPermanentlyLocatedEntity ,
+		dul:Agent .
+@prefix ns14:	<http://schema.org/> .
+dbpedia:CIS_national_football_team	rdf:type	ns14:SportsTeam ,
+		ns14:Organization ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		owl:Thing ,
+		yago:SocialGroup107950920 ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam ,
+		dbpedia-owl:Organisation ,
+		yago:FormerNationalAssociationFootballTeamsInEurope ,
+		yago:FootballTeam108080025 ,
+		dbpedia-owl:Agent ;
+	owl:sameAs	ns6:Voetbalelftal_van_Gemenebest_van_Onafhankelijke_Staten ,
+		<http://el.dbpedia.org/resource/\u0395\u03B8\u03BD\u03B9\u03BA\u03AE_\u039A\u0391\u039A_(\u03C0\u03BF\u03B4\u03CC\u03C3\u03C6\u03B1\u03B9\u03C1\u03BF_\u03B1\u03BD\u03B4\u03C1\u03CE\u03BD)> ,
+		ns1:Équipe_de_la_communauté_des_États_indépendants_de_football ,
+		ns4:Selección_de_fútbol_de_la_Comunidad_de_Estados_Independientes .
+@prefix ns15:	<http://zh.dbpedia.org/resource/> .
+dbpedia:CIS_national_football_team	owl:sameAs	ns15:獨聯體國家足球隊 .
+@prefix ns16:	<http://tr.dbpedia.org/resource/> .
+dbpedia:CIS_national_football_team	owl:sameAs	ns16:BDT_Millî_Futbol_Takımı .
+@prefix ns17:	<http://da.dbpedia.org/resource/> .
+dbpedia:CIS_national_football_team	owl:sameAs	ns17:SNGs_fodboldlandshold .
+@prefix ns18:	<http://uk.dbpedia.org/resource/> .
+dbpedia:CIS_national_football_team	owl:sameAs	ns18:Збірна_СНД_з_футболу .
+@prefix ns19:	<http://ja.dbpedia.org/resource/> .
+dbpedia:CIS_national_football_team	owl:sameAs	ns19:サッカーCIS代表 .
+@prefix ns20:	<http://ko.dbpedia.org/resource/> .
+dbpedia:CIS_national_football_team	owl:sameAs	ns20:독립국가연합_축구_국가대표팀 .
+@prefix ns21:	<http://sv.dbpedia.org/resource/> .
+dbpedia:CIS_national_football_team	owl:sameAs	ns21:Oberoende_staters_samväldes_herrlandslag_i_fotboll .
+@prefix ns22:	<http://hu.dbpedia.org/resource/> .
+dbpedia:CIS_national_football_team	owl:sameAs	ns22:FÁK_labdarúgó-válogatott ,
+		<http://rdf.freebase.com/ns/m.0gcc9c> .
+@prefix ns23:	<http://sr.dbpedia.org/resource/> .
+dbpedia:CIS_national_football_team	owl:sameAs	ns23:Фудбалска_репрезентација_Заједнице_независних_држава .
+@prefix ns24:	<http://ru.dbpedia.org/resource/> .
+dbpedia:CIS_national_football_team	owl:sameAs	ns24:Сборная_СНГ_по_футболу .
+@prefix ns25:	<http://fi.dbpedia.org/resource/> .
+dbpedia:CIS_national_football_team	owl:sameAs	ns25:Itsenäisten_valtioiden_yhteisön_jalkapallomaajoukkue .
+@prefix ns26:	<http://no.dbpedia.org/resource/> .
+dbpedia:CIS_national_football_team	owl:sameAs	ns26:Samveldet_av_uavhengige_staters_herrelandslag_i_fotball .
+@prefix ns27:	<http://he.dbpedia.org/resource/> .
+dbpedia:CIS_national_football_team	owl:sameAs	ns27:נבחרת_חבר_המדינות_העצמאיות_בכדורגל .
+@prefix ns28:	<http://mr.dbpedia.org/resource/> .
+dbpedia:CIS_national_football_team	owl:sameAs	ns28:स्वतंत्र_राज्यांचे_कॉमनवेल्थ_फुटबॉल_संघ ,
+		ns5:Nazionale_di_calcio_della_Comunità_degli_Stati_Indipendenti ,
+		dbpedia:CIS_national_football_team ,
+		ns20:독립_국가_연합_축구_국가대표팀 .
+@prefix ns29:	<http://bg.dbpedia.org/resource/> .
+dbpedia:CIS_national_football_team	owl:sameAs	ns29:Национален_отбор_по_футбол_на_ОНД .
+@prefix ns30:	<http://az.dbpedia.org/resource/> .
+dbpedia:CIS_national_football_team	owl:sameAs	ns30:MDB_milli_futbol_komandası .
+@prefix ns31:	<http://ro.dbpedia.org/resource/> .
+dbpedia:CIS_national_football_team	owl:sameAs	ns31:Echipa_națională_de_fotbal_a_CSI ,
+		ns3:Q721418 ,
+		ns7:Reprezentacja_Wspólnoty_Niepodległych_Państw_w_piłce_nożnej .
+@prefix ns32:	<http://mt.dbpedia.org/resource/> .
+dbpedia:CIS_national_football_team	owl:sameAs	ns32:Tim_nazzjonali_tal-futbol_tal-Komunità_tal-Istati_Indipendenti .
+@prefix ns33:	<http://yago-knowledge.org/resource/> .
+dbpedia:CIS_national_football_team	owl:sameAs	ns33:CIS_national_football_team .
+@prefix ns34:	<http://wikidata.org/entity/> .
+dbpedia:CIS_national_football_team	owl:sameAs	ns34:Q721418 ,
+		ns8:Seleção_da_CEI_de_Futebol .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:CIS_national_football_team	rdfs:label	"CIS national football team" ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u041D\u0413 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru ,
+		"Selecci\u00F3n de f\u00FAtbol de la Comunidad de Estados Independientes"@es ,
+		"\u30B5\u30C3\u30AB\u30FCCIS\u4EE3\u8868"@ja ,
+		"Sele\u00E7\u00E3o da CEI de Futebol"@pt ,
+		"Reprezentacja Wsp\u00F3lnoty Niepodleg\u0142ych Pa\u0144stw w pi\u0142ce no\u017Cnej"@pl ,
+		"Voetbalelftal van Gemenebest van Onafhankelijke Staten"@nl ,
+		"\u7368\u806F\u9AD4\u570B\u5BB6\u8DB3\u7403\u968A"@zh ,
+		"Nazionale di calcio della Comunit\u00E0 degli Stati Indipendenti"@it ,
+		"\u00C9quipe de la communaut\u00E9 des \u00C9tats ind\u00E9pendants de football"@fr .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:CIS_national_football_team	dcterms:subject	category:CIS_national_football_teams ,
+		category:Former_national_association_football_teams_in_Europe ,
+		<http://dbpedia.org/resource/Category:1992_in_Russian_football> ,
+		category:Commonwealth_of_Independent_States .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbpedia:CIS_national_football_team	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/CIS_football.svg> .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:CIS_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/CIS_national_football_team?oldid=598436007> ;
+	rdfs:comment	"\u7368\u806F\u9AD4\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u7368\u7ACB\u570B\u5BB6\u806F\u5408\u9AD4\u7684\u8DB3\u7403\u4EE3\u8868\u968A\u30021992\u5E74\u753115\u500B\u524D\u8607\u806F\u52A0\u76DF\u5171\u548C\u570B\u4E2D\u768412\u500B\u5171\u548C\u570B\u7D44\u6210\uFF0C\u4EE3\u66FF\u524D\u8607\u806F\u570B\u5BB6\u8DB3\u7403\u968A\u7684\u5730\u4F4D\u30021991\u5E7411\u6708\uFF0C\u8607\u806F\u968A\u90411992\u5E74\u6B50\u6D32\u570B\u5BB6\u76C3\u5916\u570D\u8CFD\u53D6\u5F97\u6C7A\u8CFD\u9031\u53C3\u8CFD\u8CC7\u683C\u3002\u4F46\u5E74\u5E95\u8607\u806F\u6B63\u5F0F\u89E3\u9AD4\uFF0C\u65BC\u662F\u753115\u500B\u524D\u8607\u806F\u52A0\u76DF\u5171\u548C\u570B\u4E2D\u768412\u500B\u5171\u548C\u570B\uFF0C\u611B\u6C99\u5C3C\u4E9E\u3001\u62C9\u812B\u7DAD\u4E9E\u3001\u7ACB\u9676\u5B9B\u9664\u5916\u7D44\u6210\u7368\u806F\u9AD4\u968A\u53C3\u52A0\u570B\u969B\u8DB3\u7403\u8CFD\u4E8B\u3002\u8C9D\u591A\u82AC\u7684\u7B2C9\u865F\u4EA4\u97FF\u66F2\u88AB\u63A1\u7D0D\u70BA\u968A\u6B4C\u3002"@zh ,
+		"L'\u00E9quipe de la CEI de football (\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u041D\u0413 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 en russe), janvier 1992 - juin 1992, \u00E9tait une \u00E9quipe constitu\u00E9e des meilleurs footballeurs de la Communaut\u00E9 des \u00C9tats ind\u00E9pendants, qui regroupait 12 anciennes r\u00E9publiques sovi\u00E9tiques ayant acc\u00E9d\u00E9 \u00E0 l'ind\u00E9pendance apr\u00E8s la chute de l'Union sovi\u00E9tique."@fr ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u041D\u0413 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043E\u0432\u0430\u0432\u0448\u0430\u044F \u0432 1992 \u0433\u043E\u0434\u0443 \u0441\u0431\u043E\u0440\u043D\u0430\u044F, \u043F\u0440\u0435\u0435\u043C\u043D\u0438\u0446\u0430 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u0421\u0421\u0420. \u0412 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u041D\u0413 \u043D\u0435 \u0438\u0433\u0440\u0430\u043B\u0438 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442\u044B \u041B\u0430\u0442\u0432\u0438\u0438, \u041B\u0438\u0442\u0432\u044B \u0438 \u042D\u0441\u0442\u043E\u043D\u0438\u0438, \u0442\u0430\u043A \u043A\u0430\u043A \u044D\u0442\u0438 \u0441\u0442\u0440\u0430\u043D\u044B \u043D\u0435 \u0432\u0445\u043E\u0434\u0438\u043B\u0438 \u0432 \u0421\u041D\u0413 \u0438 \u0443\u0436\u0435 \u0441\u043E\u0437\u0434\u0430\u043B\u0438 \u0441\u0432\u043E\u0438 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0431\u043E\u0440\u043D\u044B\u0435. \u0412 \u0442\u043E \u0436\u0435 \u0432\u0440\u0435\u043C\u044F \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043B\u044C \u0413\u0440\u0443\u0437\u0438\u0438, \u043D\u0435 \u0432\u0445\u043E\u0434\u0438\u0432\u0448\u0435\u0439 \u0432 1992 \u0433\u043E\u0434\u0443 \u0432 \u0421\u041D\u0413, \u0438\u0433\u0440\u0430\u043B \u0437\u0430 \u044D\u0442\u0443 \u0441\u0431\u043E\u0440\u043D\u0443\u044E (\u041A\u0430\u0445\u0430\u0431\u0435\u0440 \u0426\u0445\u0430\u0434\u0430\u0434\u0437\u0435)."@ru ,
+		"Reprezentacja Wsp\u00F3lnoty Niepodleg\u0142ych Pa\u0144stw w pi\u0142ce no\u017Cnej powsta\u0142a po rozpadzie Zwi\u0105zku Radzieckiego i istnia\u0142a od grudnia 1991 roku do czerwca 1992 roku. WNP jako w du\u017Cej mierze kontynuator reprezentacji ZSRR wyst\u0105pi\u0142a na Euro 1992, gdzie zremisowa\u0142a dwa mecze (1:1 z Niemcami i 0:0 z Holandi\u0105), a jeden przegra\u0142a (0:3 ze Szkocj\u0105) i z dwoma punktami zaj\u0119\u0142a czwarte miejsce w grupie."@pl ,
+		"La selecci\u00F3n de f\u00FAtbol de la Comunidad de Estados Independientes (CEI) (en ruso: \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u041D\u0413 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443) fue el equipo nacional de f\u00FAtbol representativo del territorio de la Comunidad de Estados Independientes despu\u00E9s de la disoluci\u00F3n de la Uni\u00F3n Sovi\u00E9tica en 1991.Particip\u00F3 en la Eurocopa de f\u00FAtbol 1992 en reemplazo de la selecci\u00F3n de f\u00FAtbol de la Uni\u00F3n Sovi\u00E9tica, que estaba clasificada antes de la disoluci\u00F3n de ese pa\u00EDs."@es ,
+		"Het voetbalelftal van Gemenebest van Onafhankelijke Staten was het vertegenwoordigend elftal van de landen van het Gemenebest van Onafhankelijke Staten (GOS) in 1992.Het elftal was de opvolger van het voetbalelftal van de Sovjet-Unie na het uiteenvallen van de Sovjet-Unie. Op 11 januari 1992 werd de Unie van Voetbalbonden van het GOS opgericht en twee dagen later erkend door de FIFA."@nl ,
+		"La Nazionale di calcio della Comunit\u00E0 degli Stati Indipendenti fu la Nazionale di calcio che rappresent\u00F2 la CSI nella fase finale del Campionato europeo di calcio 1992 giocato in Svezia.Dopo lo scioglimento dell'Unione Sovietica, l'11 gennaio 1992 fu costituita la Federazione calcistica della CSI, riconosciuta dalla FIFA due giorni dopo."@it ,
+		"The CIS national football team was a provisional national team of the Football Federation of the Soviet Union in 1992. It was accepted that the team would represent the Commonwealth of Independent States. The CIS team was created as part of transformation that was planned to take place." ,
+		"A Sele\u00E7\u00E3o da Comunidade dos Estados Independentes representou a CEI na Eurocopa de 1992, compondo em tese todas as rep\u00FAblicas da ex-URSS (que havia se desmantelado no final do ano de 1991), exceto as da Est\u00F4nia, Let\u00F4nia e Litu\u00E2nia (que, embora fizessem parte da CEI - s\u00F3 se retirariam dela em 1997 -, j\u00E1 haviam formado suas sele\u00E7\u00F5es)."@pt ,
+		"\u30B5\u30C3\u30AB\u30FCCIS\u4EE3\u8868\uFF08\u3055\u3063\u304B\u30FCCIS\u3060\u3044\u3072\u3087\u3046\u3001\u30ED\u30B7\u30A2\u8A9E: \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u041D\u0413 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443\uFF09\u306F\u3001\u72EC\u7ACB\u56FD\u5BB6\u5171\u540C\u4F53\uFF08\u7565\u79F0:CIS\uFF09\u306B\u304A\u3051\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30BD\u30D3\u30A8\u30C8\u9023\u90A6\u5D29\u58CA\u5F8C\u30011992\u5E74\u306B\u5B58\u5728\u3057\u305F\u3002\u30D0\u30EB\u30C8\u4E09\u56FD\uFF08\u30E9\u30C8\u30D3\u30A2,\u30EA\u30C8\u30A2\u30CB\u30A2,\u30A8\u30B9\u30C8\u30CB\u30A2\uFF09\u3092\u9664\u304F\u65E7\u30BD\u30D3\u30A8\u30C8\u9023\u90A6\u306E\u56FD\u3005\u304C\u53C2\u52A0\u3057\u305F\u3002\u30BD\u30D3\u30A8\u30C8\u9023\u90A6\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u304C1992\u5E741\u67081\u65E5\u306B\u89E3\u6563\u3057\u305F\u305F\u3081\u30011\u670811\u65E5\u306B\u72EC\u7ACB\u56FD\u5BB6\u5171\u540C\u4F53\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u304C\u7D50\u6210\u3055\u308C\u30012\u65E5\u5F8C\u306E1\u670813\u65E5\u306BFIFA\u306B\u52A0\u76DF\u3057\u305F\u3002\u30D9\u30FC\u30C8\u30FC\u30F4\u30A7\u30F3\u306E\u4EA4\u97FF\u66F2\u7B2C9\u756A\u3092\u30A2\u30F3\u30BB\u30E0\u3068\u3057\u3066\u3044\u305F\u3002\u30BD\u30D3\u30A8\u30C8\u9023\u90A6\u4EE3\u8868\u306E\u540D\u524D\u3060\u3063\u305F\u6642\u306B\u3001UEFA EURO '92\u4E88\u9078\u3092\u52DD\u3061\u629C\u304D\u672C\u5927\u4F1A\u306B\u51FA\u5834\u3059\u308B\u4E8B\u306B\u306A\u3063\u305F\u305F\u3081\u3001UEFA EURO '92\u306FCIS\u4EE3\u8868\u306E\u540D\u524D\u3067\u51FA\u5834\u3057\u305F\u3002\u65E2\u306B8\u6708\u306B\u30ED\u30B7\u30A2\u4EE3\u8868\u306B\u7DE8\u5165\u3055\u308C\u308B\u4E8B\u304C\u6C7A\u307E\u3063\u3066\u3044\u305F\u305F\u3081\u3001CIS\u4EE3\u8868\u3067\u51FA\u5834\u3057\u305F\u56FD\u969B\u5927\u4F1A\u306F\u3053\u308C\u304C\u6700\u521D\u3067\u6700\u5F8C\u306E\u5927\u4F1A\u3060\u3063\u305F\u3002\u521D\u6226\u306E\u30C9\u30A4\u30C4\u6226\u3067\u306F\u30A4\u30FC\u30B4\u30EA\u30FB\u30C9\u30D6\u30ED\u30F4\u30A9\u30EA\u30B9\u30AD\u30FC\u306E\u30B4\u30FC\u30EB\u30671-1\u306E\u5F15\u304D\u5206\u3051\u3001\u7D9A\u304F\u30AA\u30E9\u30F3\u30C0\u6226\u306F0-0\u306E\u30B9\u30B3\u30A2\u30EC\u30B9\u30C9\u30ED\u30FC\u3001\u305D\u3057\u3066\u6C7A\u52DD\u30C8\u30FC\u30CA\u30E1\u30F3\u30C8\u3092\u304B\u3051\u305F\u30B9\u30B3\u30C3\u30C8\u30E9\u30F3\u30C9\u6226\uFF081992\u5E746\u670818\u65E5\uFF09\u3067\u306F0-3\u3068\u5B8C\u6557\u3057\u3001\u7D04\u534A\u5E74\u306E\u6B74\u53F2\u306B\u5E55\u3092\u4E0B\u308D\u3057\u305F\u3002"@ja ;
+	dbpprop:mostCaps	dbpedia:Dmitri_Kharine .
+@prefix ns40:	<http://en.wikipedia.org/wiki/> .
+dbpedia:CIS_national_football_team	foaf:isPrimaryTopicOf	ns40:CIS_national_football_team ;
+	dbpprop:club	dbpedia:RCD_Espanyol ,
+		<http://dbpedia.org/resource/Rangers_F.C.> ,
+		<http://dbpedia.org/resource/U.S._Lecce> ,
+		dbpedia:Foggia_Calcio ,
+		<http://dbpedia.org/resource/Manchester_United_F.C.> ,
+		dbpedia:FC_Dynamo_Moscow ,
+		dbpedia:PFC_CSKA_Moscow ,
+		<http://dbpedia.org/resource/S.L._Benfica> ,
+		dbpedia:FC_Spartak_Moscow ,
+		dbpedia:FC_Dynamo_Kyiv ,
+		dbpedia:Servette_FC ,
+		dbpedia:MSV_Duisburg .
+@prefix ns41:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:CIS_national_football_team	dbpprop:hasPhotoCollection	ns41:CIS_national_football_team ;
+	dbpprop:name	dbpedia:Kakhaber_Tskhadadze ,
+		"Igor Korneev" ,
+		dbpedia:Akhrik_Tsveiba ,
+		dbpedia:Oleksiy_Mykhaylychenko ,
+		dbpedia:Oleh_Kuznetsov ,
+		"Sergei Yuran" ,
+		"Andrei Ivanov" ,
+		"Dmitri Kuznetsov" ,
+		"Sergei Kiriakov" ,
+		"Igor Shalimov" ,
+		"Stanislav Cherchesov" ,
+		dbpedia:Sergei_Aleinikov ,
+		"Andrei Chernyshov" ,
+		"Viktor Onopko" ,
+		"Igor Kolyvanov" ,
+		"Andrei Kanchelskis" ,
+		"Igor Dobrovolski" ,
+		"Igor Lediakhov" ,
+		dbpedia:Volodymyr_Lyutyi ,
+		"Dmitri Kharin" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/CIS_football.svg?width=300> ;
+	dbpedia-owl:abstract	"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u041D\u0413 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 \u2014 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043E\u0432\u0430\u0432\u0448\u0430\u044F \u0432 1992 \u0433\u043E\u0434\u0443 \u0441\u0431\u043E\u0440\u043D\u0430\u044F, \u043F\u0440\u0435\u0435\u043C\u043D\u0438\u0446\u0430 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u0421\u0421\u0420. \u0412 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u041D\u0413 \u043D\u0435 \u0438\u0433\u0440\u0430\u043B\u0438 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442\u044B \u041B\u0430\u0442\u0432\u0438\u0438, \u041B\u0438\u0442\u0432\u044B \u0438 \u042D\u0441\u0442\u043E\u043D\u0438\u0438, \u0442\u0430\u043A \u043A\u0430\u043A \u044D\u0442\u0438 \u0441\u0442\u0440\u0430\u043D\u044B \u043D\u0435 \u0432\u0445\u043E\u0434\u0438\u043B\u0438 \u0432 \u0421\u041D\u0413 \u0438 \u0443\u0436\u0435 \u0441\u043E\u0437\u0434\u0430\u043B\u0438 \u0441\u0432\u043E\u0438 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u044B\u0435 \u0441\u0431\u043E\u0440\u043D\u044B\u0435. \u0412 \u0442\u043E \u0436\u0435 \u0432\u0440\u0435\u043C\u044F \u043F\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043B\u044C \u0413\u0440\u0443\u0437\u0438\u0438, \u043D\u0435 \u0432\u0445\u043E\u0434\u0438\u0432\u0448\u0435\u0439 \u0432 1992 \u0433\u043E\u0434\u0443 \u0432 \u0421\u041D\u0413, \u0438\u0433\u0440\u0430\u043B \u0437\u0430 \u044D\u0442\u0443 \u0441\u0431\u043E\u0440\u043D\u0443\u044E (\u041A\u0430\u0445\u0430\u0431\u0435\u0440 \u0426\u0445\u0430\u0434\u0430\u0434\u0437\u0435). \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u041D\u0413 \u043F\u0440\u0438\u043D\u044F\u043B\u0430 \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0447\u0435\u043C\u043F\u0438\u043E\u043D\u0430\u0442\u0435 \u0415\u0432\u0440\u043E\u043F\u044B \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 1992 \u0432 \u0428\u0432\u0435\u0446\u0438\u0438, \u0432\u043C\u0435\u0441\u0442\u043E \u043F\u0440\u043E\u0448\u0435\u0434\u0448\u0435\u0439 \u043E\u0442\u0431\u043E\u0440 \u043D\u0430 \u044D\u0442\u043E\u0442 \u0442\u0443\u0440\u043D\u0438\u0440 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u0421\u0421\u0420, \u0433\u0434\u0435 \u0432\u044B\u0441\u0442\u0443\u043F\u0430\u043B\u0430 \u043F\u043E\u0434 \u0431\u0435\u043B\u044B\u043C \u0444\u043B\u0430\u0433\u043E\u043C, \u043D\u0430 \u043A\u043E\u0442\u043E\u0440\u043E\u043C \u0431\u044B\u043B\u043E \u043D\u0430\u043F\u0438\u0441\u0430\u043D\u043E \u043F\u043E-\u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u0438 C.I.S. (Commonwealth of Independent States), \u0430 \u0432\u043C\u0435\u0441\u0442\u043E \u0433\u0438\u043C\u043D\u0430 \u043F\u0435\u0440\u0435\u0434 \u043C\u0430\u0442\u0447\u0435\u043C \u0438\u0441\u043F\u043E\u043B\u043D\u044F\u043B\u0441\u044F \u0444\u0438\u043D\u0430\u043B 9-\u0439 \u0441\u0438\u043C\u0444\u043E\u043D\u0438\u0438 \u0411\u0435\u0442\u0445\u043E\u0432\u0435\u043D\u0430."@ru ,
+		"L'\u00E9quipe de la CEI de football (\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u041D\u0413 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443 en russe), janvier 1992 - juin 1992, \u00E9tait une \u00E9quipe constitu\u00E9e des meilleurs footballeurs de la Communaut\u00E9 des \u00C9tats ind\u00E9pendants, qui regroupait 12 anciennes r\u00E9publiques sovi\u00E9tiques ayant acc\u00E9d\u00E9 \u00E0 l'ind\u00E9pendance apr\u00E8s la chute de l'Union sovi\u00E9tique."@fr ,
+		"The CIS national football team was a provisional national team of the Football Federation of the Soviet Union in 1992. It was accepted that the team would represent the Commonwealth of Independent States. The CIS team was created as part of transformation that was planned to take place. And since the USSR national team had already booked a spot in the Euro 1992 through the 1991 qualification tournament, the only way to preserve the spot for the post-Soviet team was to take part in the competition as a unified team.With the end of Euro 1992, the team was transformed into the Russia national football team." ,
+		"Reprezentacja Wsp\u00F3lnoty Niepodleg\u0142ych Pa\u0144stw w pi\u0142ce no\u017Cnej powsta\u0142a po rozpadzie Zwi\u0105zku Radzieckiego i istnia\u0142a od grudnia 1991 roku do czerwca 1992 roku. WNP jako w du\u017Cej mierze kontynuator reprezentacji ZSRR wyst\u0105pi\u0142a na Euro 1992, gdzie zremisowa\u0142a dwa mecze (1:1 z Niemcami i 0:0 z Holandi\u0105), a jeden przegra\u0142a (0:3 ze Szkocj\u0105) i z dwoma punktami zaj\u0119\u0142a czwarte miejsce w grupie. Spotkanie ze Szkocj\u0105 by\u0142o ostatnim, jakie rozegra\u0142a reprezentacja pod nazw\u0105 WNP.W tym samym czasie mi\u0119dzynarodowe wyst\u0119py rozpocz\u0119\u0142y dru\u017Cyny narodowe poszczeg\u00F3lnych republik by\u0142ego ZSRR. W eliminacjach do Mundialu 1994 wystartowa\u0142a Rosja, uwa\u017Cana, m. in. przez FIFA za spadkobierc\u0119 pi\u0142karskiego dorobku ZSRR i WNP.Jedynym szkoleniowcem WNP by\u0142 Anatolij Byszowiec."@pl ,
+		"Het voetbalelftal van Gemenebest van Onafhankelijke Staten was het vertegenwoordigend elftal van de landen van het Gemenebest van Onafhankelijke Staten (GOS) in 1992.Het elftal was de opvolger van het voetbalelftal van de Sovjet-Unie na het uiteenvallen van de Sovjet-Unie. Op 11 januari 1992 werd de Unie van Voetbalbonden van het GOS opgericht en twee dagen later erkend door de FIFA. De vertegenwoordigde leden waren de voetbalbonden van Azerbeidzjan, Kazachstan, Kirgizi\u00EB, Oezbekistan, Rusland, Tadzjikistan, Turkmenistan, Wit-Rusland en (alhoewel destijds geen lid van het GOS) Georgi\u00EB. Armeni\u00EB, Moldavi\u00EB en Oekra\u00EFne traden niet toe. Estland, Letland en Litouwen waren geen lid van het GOS en hadden al eerder een eigen nationaal elftal opgericht.Het voetbalelftal van Gemenebest van Onafhankelijke Staten speelde enkele oefenwedstrijden en nam deel aan het Europees kampioenschap voetbal 1992 waarvoor de Sovjet-Unie zich reeds geplaatst had. De ploeg bestond uit 15 Russen, drie Oekra\u00EFners, \u00E9\u00E9n Georgi\u00EBr en \u00E9\u00E9n Wit-Rus en werd op dit toernooi laatste in groep B. Na het EK werden het elftal ontbonden en richtten de vertegenwoordigde landen eigen nationale elftallen op."@nl ,
+		"\u30B5\u30C3\u30AB\u30FCCIS\u4EE3\u8868\uFF08\u3055\u3063\u304B\u30FCCIS\u3060\u3044\u3072\u3087\u3046\u3001\u30ED\u30B7\u30A2\u8A9E: \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u041D\u0413 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443\uFF09\u306F\u3001\u72EC\u7ACB\u56FD\u5BB6\u5171\u540C\u4F53\uFF08\u7565\u79F0:CIS\uFF09\u306B\u304A\u3051\u308B\u30B5\u30C3\u30AB\u30FC\u306E\u30CA\u30B7\u30E7\u30CA\u30EB\u30C1\u30FC\u30E0\u3067\u3042\u308B\u3002\u30BD\u30D3\u30A8\u30C8\u9023\u90A6\u5D29\u58CA\u5F8C\u30011992\u5E74\u306B\u5B58\u5728\u3057\u305F\u3002\u30D0\u30EB\u30C8\u4E09\u56FD\uFF08\u30E9\u30C8\u30D3\u30A2,\u30EA\u30C8\u30A2\u30CB\u30A2,\u30A8\u30B9\u30C8\u30CB\u30A2\uFF09\u3092\u9664\u304F\u65E7\u30BD\u30D3\u30A8\u30C8\u9023\u90A6\u306E\u56FD\u3005\u304C\u53C2\u52A0\u3057\u305F\u3002\u30BD\u30D3\u30A8\u30C8\u9023\u90A6\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u304C1992\u5E741\u67081\u65E5\u306B\u89E3\u6563\u3057\u305F\u305F\u3081\u30011\u670811\u65E5\u306B\u72EC\u7ACB\u56FD\u5BB6\u5171\u540C\u4F53\u30B5\u30C3\u30AB\u30FC\u9023\u76DF\u304C\u7D50\u6210\u3055\u308C\u30012\u65E5\u5F8C\u306E1\u670813\u65E5\u306BFIFA\u306B\u52A0\u76DF\u3057\u305F\u3002\u30D9\u30FC\u30C8\u30FC\u30F4\u30A7\u30F3\u306E\u4EA4\u97FF\u66F2\u7B2C9\u756A\u3092\u30A2\u30F3\u30BB\u30E0\u3068\u3057\u3066\u3044\u305F\u3002\u30BD\u30D3\u30A8\u30C8\u9023\u90A6\u4EE3\u8868\u306E\u540D\u524D\u3060\u3063\u305F\u6642\u306B\u3001UEFA EURO '92\u4E88\u9078\u3092\u52DD\u3061\u629C\u304D\u672C\u5927\u4F1A\u306B\u51FA\u5834\u3059\u308B\u4E8B\u306B\u306A\u3063\u305F\u305F\u3081\u3001UEFA EURO '92\u306FCIS\u4EE3\u8868\u306E\u540D\u524D\u3067\u51FA\u5834\u3057\u305F\u3002\u65E2\u306B8\u6708\u306B\u30ED\u30B7\u30A2\u4EE3\u8868\u306B\u7DE8\u5165\u3055\u308C\u308B\u4E8B\u304C\u6C7A\u307E\u3063\u3066\u3044\u305F\u305F\u3081\u3001CIS\u4EE3\u8868\u3067\u51FA\u5834\u3057\u305F\u56FD\u969B\u5927\u4F1A\u306F\u3053\u308C\u304C\u6700\u521D\u3067\u6700\u5F8C\u306E\u5927\u4F1A\u3060\u3063\u305F\u3002\u521D\u6226\u306E\u30C9\u30A4\u30C4\u6226\u3067\u306F\u30A4\u30FC\u30B4\u30EA\u30FB\u30C9\u30D6\u30ED\u30F4\u30A9\u30EA\u30B9\u30AD\u30FC\u306E\u30B4\u30FC\u30EB\u30671-1\u306E\u5F15\u304D\u5206\u3051\u3001\u7D9A\u304F\u30AA\u30E9\u30F3\u30C0\u6226\u306F0-0\u306E\u30B9\u30B3\u30A2\u30EC\u30B9\u30C9\u30ED\u30FC\u3001\u305D\u3057\u3066\u6C7A\u52DD\u30C8\u30FC\u30CA\u30E1\u30F3\u30C8\u3092\u304B\u3051\u305F\u30B9\u30B3\u30C3\u30C8\u30E9\u30F3\u30C9\u6226\uFF081992\u5E746\u670818\u65E5\uFF09\u3067\u306F0-3\u3068\u5B8C\u6557\u3057\u3001\u7D04\u534A\u5E74\u306E\u6B74\u53F2\u306B\u5E55\u3092\u4E0B\u308D\u3057\u305F\u3002"@ja ,
+		"\u7368\u806F\u9AD4\u570B\u5BB6\u8DB3\u7403\u968A\u662F\u7368\u7ACB\u570B\u5BB6\u806F\u5408\u9AD4\u7684\u8DB3\u7403\u4EE3\u8868\u968A\u30021992\u5E74\u753115\u500B\u524D\u8607\u806F\u52A0\u76DF\u5171\u548C\u570B\u4E2D\u768412\u500B\u5171\u548C\u570B\u7D44\u6210\uFF0C\u4EE3\u66FF\u524D\u8607\u806F\u570B\u5BB6\u8DB3\u7403\u968A\u7684\u5730\u4F4D\u30021991\u5E7411\u6708\uFF0C\u8607\u806F\u968A\u90411992\u5E74\u6B50\u6D32\u570B\u5BB6\u76C3\u5916\u570D\u8CFD\u53D6\u5F97\u6C7A\u8CFD\u9031\u53C3\u8CFD\u8CC7\u683C\u3002\u4F46\u5E74\u5E95\u8607\u806F\u6B63\u5F0F\u89E3\u9AD4\uFF0C\u65BC\u662F\u753115\u500B\u524D\u8607\u806F\u52A0\u76DF\u5171\u548C\u570B\u4E2D\u768412\u500B\u5171\u548C\u570B\uFF0C\u611B\u6C99\u5C3C\u4E9E\u3001\u62C9\u812B\u7DAD\u4E9E\u3001\u7ACB\u9676\u5B9B\u9664\u5916\u7D44\u6210\u7368\u806F\u9AD4\u968A\u53C3\u52A0\u570B\u969B\u8DB3\u7403\u8CFD\u4E8B\u3002\u8C9D\u591A\u82AC\u7684\u7B2C9\u865F\u4EA4\u97FF\u66F2\u88AB\u63A1\u7D0D\u70BA\u968A\u6B4C\u3002"@zh ,
+		"La Nazionale di calcio della Comunit\u00E0 degli Stati Indipendenti fu la Nazionale di calcio che rappresent\u00F2 la CSI nella fase finale del Campionato europeo di calcio 1992 giocato in Svezia.Dopo lo scioglimento dell'Unione Sovietica, l'11 gennaio 1992 fu costituita la Federazione calcistica della CSI, riconosciuta dalla FIFA due giorni dopo. La neonata Nazionale della CSI comprendeva gli atleti di 11 delle 15 repubbliche appartenenti all'URSS (gli atleti di Estonia, Lituania e Lettonia furono esclusi in quanto le loro nazioni si erano gi\u00E0 separate da Mosca, mentre la Georgia ader\u00EC alla CSI nel 1993).Alla fase finale collezion\u00F2 2 punti, frutto di 2 pareggi e una sconfitta, chiudendo all'ultimo posto del Gruppo B a pari punti con la Scozia e dietro Olanda e Germania.Dopo la sconfitta con la Scozia per 3-0 (18 giugno 1992) ogni atleta inizi\u00F2 a giocare nella federazione di appartenenza."@it ,
+		"A Sele\u00E7\u00E3o da Comunidade dos Estados Independentes representou a CEI na Eurocopa de 1992, compondo em tese todas as rep\u00FAblicas da ex-URSS (que havia se desmantelado no final do ano de 1991), exceto as da Est\u00F4nia, Let\u00F4nia e Litu\u00E2nia (que, embora fizessem parte da CEI - s\u00F3 se retirariam dela em 1997 -, j\u00E1 haviam formado suas sele\u00E7\u00F5es). Foi formada apenas para a disputa da Euro, visto que a sele\u00E7\u00E3o da ex-Uni\u00E3o Sovi\u00E9tica j\u00E1 estava classificada para o torneio e estava composta \u00E0quela altura de v\u00E1rios jogadores n\u00E3o-russos, fora o fato de que a sele\u00E7\u00E3o sovi\u00E9tica de futebol n\u00E3o se classificara para os Jogos Ol\u00EDmpicos daquele ano.Ironicamente, o primeiro jogo da Sele\u00E7\u00E3o da CEI foi contra os EUA, o pa\u00EDs que havia derrotado a URSS na Guerra Fria. A CEI venceu o amistoso, disputado em Miami em janeiro de 1992 - um m\u00EAs e meio ap\u00F3s o fim da URSS -, por 1 x 0. Na Euro, o time, que, ainda como Uni\u00E3o Sovi\u00E9tica, desclassificara a It\u00E1lia nas Eliminat\u00F3rias para a competi\u00E7\u00E3o, teve o m\u00E9rito de empatar contra as fortes sele\u00E7\u00F5es da Alemanha - rec\u00E9m-unificada e campe\u00E3 da Copa do Mundo anterior - e dos Pa\u00EDses Baixos - detentores do t\u00EDtulo (conquistado contra a URSS) -, por 1 x 1 (os alem\u00E3es s\u00F3 empataram no final da partida) e 0 x 0, respectivamente. No \u00FAltimo jogo da primeira fase, entretanto, a equipe perdeu por 3 x 0 para a j\u00E1 eliminada Esc\u00F3cia, sendo eliminada nessa fase de grupos, no qual terminou em \u00FAltimo no seu. Este foi, tamb\u00E9m, o \u00FAltimo jogo disputado pelo time.O \u00FAnico t\u00E9cnico na curta exist\u00EAncia da sele\u00E7\u00E3o da CEI foi o ucraniano Anatoliy Byshovets, que jogara a Copa do Mundo de 1970 pela URSS. Ap\u00F3s a Euro, o time foi extinto e os resultados da CEI, bem como os da ex-Uni\u00E3o Sovi\u00E9tica, foram herdados pela R\u00FAssia. Alguns atletas n\u00E3o-russos que tiveram seus pa\u00EDses se tornado independentes preferiram jogar posteriormente pela Sele\u00E7\u00E3o Russa, talvez pelo fato de que tais pa\u00EDses necessitassem, por decis\u00E3o da FIFA, esperar o in\u00EDcio das Eliminat\u00F3rias para a Eurocopa de 1996 para disputar jogos oficiais, ao passo de que a R\u00FAssia poderia faz\u00EA-lo j\u00E1 nas Eliminat\u00F3rias para a Copa do Mundo de 1994, para onde foram Viktor Onopko e Serhiy Yuran, al\u00E9m de alguns ausentes da Euro 92. Mesma decis\u00E3o foi tomada por Ihor Dobrovols'kyi e Andriy Kan\u010Delskis, que n\u00E3o chegaram a ir ao mundial de 94 (mas disputariam a Euro 96); assim como Akhrik Tsveiba, que, sem identifica\u00E7\u00E3o com a Ge\u00F3rgia, por ele ser de uma regi\u00E3o que dela pleiteia independ\u00EAncia (a Abec\u00E1sia), fez com que jogasse n\u00E3o s\u00F3 pela R\u00FAssia, como tamb\u00E9m uma partida pela Ucr\u00E2nia.O uniforme principal da equipe da CEI era o mesmo da ex-URSS: camisa e meias vermelhas (embora mais escuras) e cal\u00E7\u00F5es brancos, com a sigla CIS em branco (CEI, em ingl\u00EAs) no lugar da tradicional CCCP. A combina\u00E7\u00E3o contr\u00E1ria consistia no uniforme reserva. O selecionado foi representado no tempo de sua exist\u00EAncia pela nova sigla em cor azul sobre um fundo branco - a CEI s\u00F3 criou uma bandeira pr\u00F3pria em 1997."@pt ,
+		"La selecci\u00F3n de f\u00FAtbol de la Comunidad de Estados Independientes (CEI) (en ruso: \u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u041D\u0413 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443) fue el equipo nacional de f\u00FAtbol representativo del territorio de la Comunidad de Estados Independientes despu\u00E9s de la disoluci\u00F3n de la Uni\u00F3n Sovi\u00E9tica en 1991.Particip\u00F3 en la Eurocopa de f\u00FAtbol 1992 en reemplazo de la selecci\u00F3n de f\u00FAtbol de la Uni\u00F3n Sovi\u00E9tica, que estaba clasificada antes de la disoluci\u00F3n de ese pa\u00EDs."@es ;
+	dbpedia-owl:wikiPageID	6577834 ;
+	dbpedia-owl:wikiPageRevisionID	598436007 ;
+	dbpprop:topScorer	dbpedia:Sergei_Kiriakov ;
+	dbpprop:clubnat	"Russia" ,
+		"Spain" ,
+		"Portugal" ,
+		"Ukraine" ,
+		"Italy" ,
+		"Scotland" ,
+		"Germany" ,
+		"England" ,
+		"Switzerland" ;
+	dbpprop:caps	60 ,
+		38 ,
+		17 ,
+		20 ,
+		22 ,
+		23 ,
+		26 ,
+		1 ,
+		3 ,
+		5 ,
+		7 ,
+		8 ,
+		10 ,
+		12 ,
+		13 ,
+		75 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:CIS_national_football_team	dbpprop:age	"1992-06-10+02:00"^^xsd:date ;
+	dbpprop:coach	dbpedia:Anatoliy_Byshovets ;
+	dbpedia-owl:coach	dbpedia:Anatoliy_Byshovets ;
+	dbpprop:association	"Association Football Federation of CIS" ;
+	dbpprop:body	"FF0000" ,
+		"FFFFFF" ;
+	dbpprop:fifaTrigramme	"CIS" ;
+	dbpprop:leftarm	"FF0000" ;
+	dbpprop:patternLa	"_whiteshoulders" ,
+		"_shouldersonwhite" ;
+	dbpprop:patternRa	"_whiteshoulders" ,
+		"_shouldersonwhite" ;
+	dbpprop:rightarm	"FF0000" ;
+	dbpprop:shorts	"FF0000" ,
+		"FFFFFF" ;
+	dbpprop:socks	"FF0000" ,
+		"FFFFFF" ;
+	dbpprop:no	4 ,
+		5 ,
+		6 ,
+		7 ,
+		1 ,
+		2 ,
+		3 ,
+		12 ,
+		13 ,
+		14 ,
+		15 ,
+		8 ,
+		9 ,
+		10 ,
+		11 ,
+		20 ,
+		16 ,
+		17 ,
+		18 ,
+		19 ;
+	dbpprop:pos	"FW" ,
+		"GK" ,
+		"DF" ,
+		"MF" ;
+	dbpprop:badge	"CIS_football.svg" ;
+	dbpprop:firstGame	"Last international" ,
+		"USA 0 - 1 CIS 22px|border" ,
+		"Scotland 3 - 0 CIS 22px|border" ;
+	dbpprop:largestLoss	"Mexico 4 - 0 CIS 22px|border" ;
+	dbpprop:largestWin	"El Salvador 0 - 3 CIS 22px|border" ;
+	dbpprop:regionalCupApps	1 ;
+	dbpprop:regionalCupBest	"Round 1, 1992" ;
+	dbpprop:regionalCupFirst	1992 ;
+	dbpprop:regionalName	dbpedia:UEFA_European_Championship ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.rusteam.permian.ru/history/1992.html> ;
+	dbpprop:homeStadium	"Various" .
+dbpedia:Aleksandr_Mostovoi	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Sergei_Kiriakov	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Andrey_Chernyshov	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Sergei_Aleinikov	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Igor_Shalimov	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Valeri_Kleymyonov	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Sergei_Mandreko	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Akhrik_Tsveiba	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Oleg_Sergeyev	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Dmitri_Cheryshev	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Igor_Lediakhov	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Yuriy_Nikiforov	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Viktor_Onopko	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Andrei_Yevgenyevich_Ivanov	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Andrei_Kanchelskis	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Igor_Dobrovolski	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Dmitri_Kharine	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+<http://dbpedia.org/resource/Sergey_Shustikov_(footballer_born_1970)>	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Vasili_Kulkov__15	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+ns40:CIS_national_football_team	foaf:primaryTopic	dbpedia:CIS_national_football_team .
+<http://dbpedia.org/resource/Dmitri_Kuznetsov_(footballer_born_1965)>	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Valeri_Karpin	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+ns20:독립_국가_연합_축구_국가대표팀	owl:sameAs	dbpedia:CIS_national_football_team .
+ns30:MDB_milli_futbol_komandası	owl:sameAs	dbpedia:CIS_national_football_team .
+ns29:Национален_отбор_по_футбол_на_ОНД	owl:sameAs	dbpedia:CIS_national_football_team .
+ns17:SNGs_fodboldlandshold	owl:sameAs	dbpedia:CIS_national_football_team .
+ns25:Itsenäisten_valtioiden_yhteisön_jalkapallomaajoukkue	owl:sameAs	dbpedia:CIS_national_football_team .
+ns27:נבחרת_חבר_המדינות_העצמאיות_בכדורגל	owl:sameAs	dbpedia:CIS_national_football_team .
+ns22:FÁK_labdarúgó-válogatott	owl:sameAs	dbpedia:CIS_national_football_team .
+ns28:स्वतंत्र_राज्यांचे_कॉमनवेल्थ_फुटबॉल_संघ	owl:sameAs	dbpedia:CIS_national_football_team .
+ns32:Tim_nazzjonali_tal-futbol_tal-Komunità_tal-Istati_Indipendenti	owl:sameAs	dbpedia:CIS_national_football_team .
+ns26:Samveldet_av_uavhengige_staters_herrelandslag_i_fotball	owl:sameAs	dbpedia:CIS_national_football_team .
+ns31:Echipa_națională_de_fotbal_a_CSI	owl:sameAs	dbpedia:CIS_national_football_team .
+ns24:Сборная_СНГ_по_футболу	owl:sameAs	dbpedia:CIS_national_football_team .
+ns23:Фудбалска_репрезентација_Заједнице_независних_држава	owl:sameAs	dbpedia:CIS_national_football_team .
+ns21:Oberoende_staters_samväldes_herrlandslag_i_fotboll	owl:sameAs	dbpedia:CIS_national_football_team .
+ns16:BDT_Millî_Futbol_Takımı	owl:sameAs	dbpedia:CIS_national_football_team .
+ns18:Збірна_СНД_з_футболу	owl:sameAs	dbpedia:CIS_national_football_team .
+ns15:獨聯體國家足球隊	owl:sameAs	dbpedia:CIS_national_football_team .
+dbpedia:Andrey_Chernyshov__15	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Valeri_Karpin__9	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Sergei_Yuran	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+<http://dbpedia.org/resource/1991_S%C3%A3o_Paulo_F.C._season>	dbpprop:team	dbpedia:CIS_national_football_team .
+dbpedia:Gadzhi_Gadzhiyev__5	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Viktor_Onopko__7	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Gadzhi_Gadzhiyev	dbpedia-owl:managerClub	dbpedia:CIS_national_football_team ;
+	dbpprop:managerclubs	dbpedia:CIS_national_football_team .
+dbpedia:Kakhaber_Tskhadadze	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Omari_Tetradze	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Igor_Korneev__9	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Igor_Shalimov__12	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Vasili_Kulkov	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Igor_Korneev	dbpedia-owl:team	dbpedia:CIS_national_football_team ;
+	dbpprop:nationalteam	dbpedia:CIS_national_football_team .
+dbpedia:Akhrik_Tsveiba__11	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Sergei_Aleinikov__8	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Stanislav_Cherchesov__10	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Igor_Dobrovolski__12	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Sergei_Yuran__12	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Yuriy_Nikiforov__10	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Aleksandr_Mostovoi__8	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Oleg_Sergeyev__12	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Association_Football_Federation_of_CIS	dbpedia-owl:wikiPageRedirects	dbpedia:CIS_national_football_team .
+dbpedia:Association_football_federation_of_cis	dbpedia-owl:wikiPageRedirects	dbpedia:CIS_national_football_team .
+dbpedia:Commonwealth_of_Independent_States_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:CIS_national_football_team .
+dbpedia:Commonwealth_of_independent_states_national_football_team	dbpedia-owl:wikiPageRedirects	dbpedia:CIS_national_football_team .
+dbpedia:Kakhaber_Tskhadadze__11	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Andrei_Yevgenyevich_Ivanov__12	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Igor_Lediakhov__8	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Oleksiy_Mykhaylychenko__6	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Dmitri_Cheryshev__6	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Andrei_Piatnitski__7	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Sergei_Mandreko__8	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+<http://dbpedia.org/resource/Dmitri_Kuznetsov_(footballer_born_1965)__16>	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+<http://dbpedia.org/resource/Sergey_Shustikov_(footballer_born_1970)__7>	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Andrei_Kanchelskis__13	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Sergei_Kiriakov__10	dbpedia-owl:team	dbpedia:CIS_national_football_team .
+dbpedia:Omari_Tetradze__11	dbpedia-owl:team	dbpedia:CIS_national_football_team .

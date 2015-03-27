@@ -1,0 +1,368 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Elano_Blumer	owl:sameAs	dbpedia:Elano .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Elano	owl:sameAs	dbpedia:Elano .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q207407	owl:sameAs	dbpedia:Elano .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Elano_Blumer	owl:sameAs	dbpedia:Elano .
+@prefix ns6:	<http://id.dbpedia.org/resource/> .
+ns6:Elano	owl:sameAs	dbpedia:Elano .
+@prefix ns7:	<http://it.dbpedia.org/resource/> .
+ns7:Elano	owl:sameAs	dbpedia:Elano .
+@prefix ns8:	<http://ja.dbpedia.org/resource/> .
+ns8:エラーノ・ブルメル	owl:sameAs	dbpedia:Elano .
+@prefix ns9:	<http://ko.dbpedia.org/resource/> .
+ns9:일라누	owl:sameAs	dbpedia:Elano .
+@prefix ns10:	<http://nl.dbpedia.org/resource/> .
+ns10:Elano	owl:sameAs	dbpedia:Elano .
+@prefix ns11:	<http://pl.dbpedia.org/resource/> .
+ns11:Elano	owl:sameAs	dbpedia:Elano .
+@prefix ns12:	<http://pt.dbpedia.org/resource/> .
+ns12:Elano	owl:sameAs	dbpedia:Elano .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns14:	<http://en.wikipedia.org/wiki/> .
+ns14:Elano	foaf:primaryTopic	dbpedia:Elano .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2011_Copa_Am%C3%A9rica_squads>	dbpprop:name	dbpedia:Elano .
+<http://dbpedia.org/resource/2008%E2%80%9309_Manchester_City_F.C._season>	dbpprop:p	dbpedia:Elano .
+<http://dbpedia.org/resource/2007_Copa_Am%C3%A9rica_squads>	dbpprop:name	dbpedia:Elano .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Elano	rdf:type	yago:BrazilianExpatriateFootballers ,
+		yago:BrazilInternationalFootballers ,
+		yago:CausalAgent100007347 ,
+		<http://dbpedia.org/class/yago/2007CopaAm%C3%A9ricaPlayers> ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:BrazilianFootballers ,
+		yago:FCShakhtarDonetskPlayers ,
+		<http://dbpedia.org/class/yago/2011CopaAm%C3%A9ricaPlayers> .
+@prefix ns18:	<http://schema.org/> .
+dbpedia:Elano	rdf:type	ns18:Person ,
+		<http://dbpedia.org/class/yago/2009FIFAConfederationsCupPlayers> ,
+		yago:Player110439851 ,
+		yago:BrazilianPeopleOfGermanDescent ,
+		yago:FootballPlayer110101634 ,
+		<http://dbpedia.org/class/yago/PeopleFromS%C3%A3oPaulo(state)> ,
+		yago:Athlete109820263 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Elano	rdf:type	dul:Agent ,
+		yago:ExpatriateFootballersInTurkey ,
+		ns4:Q5 ,
+		dul:NaturalPerson ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:GuaraniFutebolClubePlayers ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		yago:ExpatriateFootballersInEngland ,
+		<http://dbpedia.org/class/yago/ManchesterCityF.C.Players> ,
+		yago:PhysicalEntity100001930 ,
+		foaf:Person ,
+		yago:Whole100003553 .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Elano	rdf:type	dbpedia-owl:SoccerPlayer ,
+		dbpedia-owl:Person ,
+		yago:Object100002684 ,
+		ns4:Q215627 ,
+		dbpedia-owl:Agent ,
+		owl:Thing ,
+		dbpedia-owl:Athlete ,
+		yago:BrazilianExpatriatesInTurkey ,
+		yago:UkrainianPremierLeaguePlayers ,
+		yago:ExpatriateFootballersInUkraine ,
+		yago:PremierLeaguePlayers ,
+		yago:SantosFutebolClubePlayers .
+@prefix ns21:	<http://umbel.org/umbel/rc/> .
+dbpedia:Elano	rdf:type	ns21:SoccerPlayer ,
+		<http://dbpedia.org/class/yago/S%C3%BCperLigPlayers> ,
+		<http://dbpedia.org/class/yago/GalatasarayS.K.Footballers> ,
+		yago:Contestant109613191 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople .
+@prefix ns22:	<http://qu.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns22:Elano .
+@prefix ns23:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns23:एलानो .
+@prefix ns24:	<http://he.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns24:אלאנו ,
+		ns6:Elano .
+@prefix ns25:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns25:Елано_Блумер .
+@prefix ns26:	<http://yago-knowledge.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns26:Elano .
+@prefix ns27:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns27:埃拉诺 .
+@prefix ns28:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns28:Elano .
+@prefix ns29:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns29:Elano ,
+		<http://rdf.freebase.com/ns/m.08tn3g> ,
+		ns4:Q207407 ,
+		ns10:Elano .
+@prefix ns30:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns30:Elano .
+@prefix ns31:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns31:إيلانو ,
+		ns1:Elano_Blumer .
+@prefix ns32:	<http://no.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns32:Elano ,
+		dbpedia:Elano ,
+		ns12:Elano .
+@prefix ns33:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns33:Elano_Blumer ,
+		ns9:일라누 ,
+		ns8:エラーノ・ブルメル .
+@prefix ns34:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns34:Elano .
+@prefix ns35:	<http://bg.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns35:Елано ,
+		ns7:Elano .
+@prefix ns36:	<http://la.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns36:Elano ,
+		ns5:Elano_Blumer .
+@prefix ns37:	<http://ca.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns37:Elano_Blumer .
+@prefix ns38:	<http://hr.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns38:Elano_Blumer .
+@prefix ns39:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns39:Элано .
+@prefix ns40:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns40:Elano .
+@prefix ns41:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns41:Elano ,
+		ns11:Elano .
+@prefix ns42:	<http://wikidata.org/entity/> .
+dbpedia:Elano	owl:sameAs	ns42:Q207407 .
+@prefix ns43:	<http://nn.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns43:Elano ,
+		ns3:Elano .
+@prefix ns44:	<http://da.dbpedia.org/resource/> .
+dbpedia:Elano	owl:sameAs	ns44:Elano .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Elano	rdfs:label	"Elano Blumer"@es ,
+		"Elano"@nl ,
+		"Elano Blumer"@fr ,
+		"Elano" ,
+		"Elano"@pl ,
+		"\u0625\u064A\u0644\u0627\u0646\u0648"@ar ,
+		"\u57C3\u62C9\u8BFA"@zh ,
+		"\u042D\u043B\u0430\u043D\u043E"@ru ,
+		"Elano"@de ,
+		"Elano"@it ,
+		"Elano"@pt ,
+		"\u30A8\u30E9\u30FC\u30CE\u30FB\u30D6\u30EB\u30E1\u30EB"@ja .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Elano	dcterms:subject	category:Living_people ,
+		<http://dbpedia.org/resource/Category:Manchester_City_F.C._players> ,
+		<http://dbpedia.org/resource/Category:People_from_S%C3%A3o_Paulo_(state)> ,
+		<http://dbpedia.org/resource/Category:2009_FIFA_Confederations_Cup_players> ,
+		category:Brazilian_people_of_German_descent ,
+		<http://dbpedia.org/resource/Category:2007_Copa_Am%C3%A9rica_players> ,
+		<http://dbpedia.org/resource/Category:Gr%C3%AAmio_Foot-Ball_Porto_Alegrense_players> ,
+		category:Premier_League_players ,
+		category:FIFA_Confederations_Cup-winning_players ,
+		category:Brazilian_expatriates_in_Turkey ,
+		<http://dbpedia.org/resource/Category:1981_births> ,
+		category:Guarani_Futebol_Clube_players ,
+		category:Brazil_international_footballers ,
+		category:Brazilian_expatriate_footballers ,
+		category:Brazilian_footballers ,
+		<http://dbpedia.org/resource/Category:Campeonato_Brasileiro_S%C3%A9rie_A_footballers> ,
+		category:Expatriate_footballers_in_England ,
+		category:Expatriate_footballers_in_Turkey ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Ukrainian_Premier_League_players ,
+		category:Expatriate_footballers_in_Ukraine ,
+		<http://dbpedia.org/resource/Category:Galatasaray_S.K._footballers> ,
+		<http://dbpedia.org/resource/Category:S%C3%BCper_Lig_players> ,
+		<http://dbpedia.org/resource/Category:2011_Copa_Am%C3%A9rica_players> ,
+		category:Clube_de_Regatas_do_Flamengo_players ,
+		category:Association_football_midfielders ,
+		category:Santos_Futebol_Clube_players ,
+		category:FC_Shakhtar_Donetsk_players ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Elano_blumer.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Elano	dc:description	"Brazilian footballer" ,
+		"Brazilian footballer" ;
+	foaf:name	"Elano" ,
+		"Elano Blumer" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Elano	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Elano?oldid=604660645> ;
+	rdfs:comment	"Elano Blumer (born 14 June 1981), commonly known as Elano, is a Brazilian footballer who plays for Flamengo, on loan from Gr\u00EAmio and the Brazil national team.Elano has been noted for his accurate passing and precise set pieces." ,
+		"Elano Ralph Blumer (* 14. Juni 1981 in Iracem\u00E1polis, S\u00E3o Paulo) ist ein brasilianischer Fu\u00DFballspieler."@de ,
+		"\u042D\u043B\u0430\u0301\u043D\u043E \u0420\u0430\u0301\u043B\u044C\u0444 \u0411\u043B\u0443\u0301\u043C\u0435\u0440 (\u043F\u043E\u0440\u0442. Elano Ralph Blumer; 14 \u0438\u044E\u043D\u044F 1981, \u0418\u0440\u0430\u0441\u0435\u043C\u0430\u043F\u043E\u043B\u0438\u0441, \u0421\u0430\u043D-\u041F\u0430\u0443\u043B\u0443) \u2014 \u0431\u0440\u0430\u0437\u0438\u043B\u044C\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A. \u0418\u0433\u0440\u043E\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0413\u0440\u0435\u043C\u0438\u043E\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0411\u0440\u0430\u0437\u0438\u043B\u0438\u0438."@ru ,
+		"Elano Ralph Blumer (Iracem\u00E1polis, 14 de Junho de 1981) \u00E9 um futebolista brasileiro que joga como meia. Atualmente defende o Flamengo com contrato v\u00E1lido at\u00E9 31/12/2014, emprestado pelo Gr\u00EAmio."@pt ,
+		"Elano Ralph Blumer (Iracem\u00E1pols (S\u00E3o Paulo), 14 juni 1981) is een Braziliaans voetballer die bij voorkeur op het middenveld speelt. Hij speelt sinds juli 2012 bij Gr\u00EAmio Foot-Ball Porto Alegrense. Hij debuteerde in oktober 2004 in het Braziliaans voetbalelftal, waarvoor hij nadien meer dan veertig interlands speelde."@nl ,
+		"\u0625\u064A\u0644\u0627\u0646\u0648 \u0628\u0644\u0648\u0645\u064A\u0631\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 14 \u064A\u0648\u0646\u064A\u0648 1981 \u0641\u064A \u0627\u0644\u0628\u0631\u0627\u0632\u064A\u0644\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0628\u0631\u0627\u0632\u064A\u0644\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0633\u0627\u0646\u062A\u0648\u0633 \u0641\u064A \u0639\u0627\u0645 2001\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2005\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 131 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 33 \u0647\u062F\u0641\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2005 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0634\u0627\u062E\u062A\u0627\u0631 \u062F\u0648\u0646\u064A\u062A\u0633\u0643 \u0627\u0644\u0623\u0648\u0643\u0631\u0627\u0646\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2007\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 48 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 14 \u0647\u062F\u0641\u060C \u0648 \u0639\u0627\u0645 2007 \u0644\u0639\u0628 \u0644\u0646\u0627\u062F\u064A \u0645\u0627\u0646\u0634\u0633\u062A\u0631 \u0633\u064A\u062A\u064A \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A."@ar ,
+		"Elano Blumer (ur. 14 czerwca 1981 w Iracem\u00E1polis) - brazylijski pi\u0142karz wyst\u0119puj\u0105cy na pozycji ofensywnego pomocnika we Flamengo."@pl ,
+		"Elano Blumer est un footballeur br\u00E9silien n\u00E9 le 14 juin 1981 \u00E0 Iracem\u00E1polis (SP - Br\u00E9sil). Il \u00E9volue actuellement au poste de milieu offensif au Flamengo."@fr ,
+		"Elano Blumer, nacido el 14 de junio de 1981 en Iracem\u00E1polis, Estado de S\u00E3o Paulo, es un jugador de f\u00FAtbol brasile\u00F1o. Juega de centrocampista y su actual equipo es el Flamengo del Campeonato Brasile\u00F1o de Serie A. Fue el primer jugador de un club ucraniano en ser convocado para la Selecci\u00F3n brasile\u00F1a.Su nombre se hizo popular jugando con la camiseta del Santos, participando en la conquista de dos t\u00EDtulos nacionales con s\u00F3lo 23 a\u00F1os. Jugando con el n\u00FAmero 11, actu\u00F3 en 209 partidos y marc\u00F3 52 goles."@es ,
+		"\u30A8\u30E9\u30FC\u30CE\u30FB\u30E9\u30EB\u30D5\u30FB\u30D6\u30EB\u30E1\u30EB\uFF08Elano Ralph Blumer, 1981\u5E746\u670814\u65E5 - \uFF09\u306F\u3001\u30D6\u30E9\u30B8\u30EB\u30FB\u30B5\u30F3\u30D1\u30A6\u30ED\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\u3002\u672C\u8077\u306F\u53F3\u30B5\u30A4\u30C9\u30CF\u30FC\u30D5\u3060\u304C\u3001\u30D5\u30A9\u30EF\u30FC\u30C9\u3001\u30AA\u30D5\u30A7\u30F3\u30B7\u30D6\u30CF\u30FC\u30D5\u3001\u30C7\u30A3\u30D5\u30A7\u30F3\u30B7\u30D6\u30CF\u30FC\u30D5\u306A\u3069\u3001\u76F8\u624B\u306E\u6226\u8853\u306B\u3088\u3063\u3066\u8A66\u5408\u3054\u3068\u306B\u30DD\u30B8\u30B7\u30E7\u30F3\u3092\u5909\u3048\u308B\u4E8B\u304C\u51FA\u6765\u308B\u30E6\u30FC\u30C6\u30EA\u30C6\u30A3\u30FC\u306A\u9078\u624B\u3067\u3042\u308B\u3002\u30B5\u30C3\u30AB\u30FC\u3088\u308A\u3082\u5B97\u6559\u3068\u8A9E\u308B\u307B\u3069\u306E\u656C\u8654\u306A\u30AD\u30EA\u30B9\u30C8\u6559\u5F92\u3067\u3042\u308B\u3002"@ja ,
+		"Elano Ralph Blumer, noto semplicemente come Elano (Iracem\u00E1polis, 14 giugno 1981), \u00E8 un calciatore brasiliano, centrocampista del Flamengo in prestito dal Gremio."@it ,
+		"\u827E\u62C9\u8AFE\u00B7\u5E03\u9B6F\u9ED8\uFF08Elano Blumer\uFF0C1981\u5E746\u670814\u65E5\uFF0D\uFF09\u662F\u4E00\u4F4D\u5DF4\u897F\u8DB3\u7403\u904B\u52D5\u54E1\u3002\u76EE\u524D\u6548\u529B\u65BC\u571F\u8033\u5176\u8DB3\u7403\u8D85\u7EA7\u8054\u8D5B\u7403\u968A\u52A0\u62C9\u5854\u6C99\u96F7\u3002\u57C3\u62C9\u8AFE\u5728\u5834\u4E0A\u4E3B\u8981\u6D3B\u52D5\u65BC\u4E2D\u5834\u6216\u53F3\u8DEF\u3002\u57C3\u62C9\u8AFE\u7684\u8077\u696D\u8DB3\u7403\u751F\u6DAF\u958B\u59CB\u65BC\u5DF4\u897F\u7684\u5C71\u5EA6\u58EB\u30022005\u5E74\u57C3\u62C9\u8AFE\u8F49\u6703\u53BB\u4E86\u70CF\u514B\u862D\u7403\u968A\u987F\u6D85\u8328\u514B\u77FF\u5DE5\u30022007\u5E748\u67082\u65E5\uFF0C\u57C3\u62C9\u8AFE\u8F49\u6703\u81F3\u82F1\u8D85\u7403\u968A\u66FC\u57CE\uFF0C\u7C3D\u8A02\u4E86\u4E00\u4EFD\u56DB\u5E74\u7684\u5408\u540C\uFF0C\u8F49\u6703\u8CBB\u70BA800\u842C\u82F1\u938A\u3002\u4ED6\u7684\u9996\u5834\u82F1\u8D85\u6BD4\u8CFD\u662F\u66FC\u57CE\u5C0D\u97CB\u65AF\u54B8\u7684\u6BD4\u8CFD\u3002\u3002\u5E76\u57282007\u5E748\u670819\u65E5\u53C3\u52A0\u4E86\u81EA\u5DF1\u7684\u7B2C\u4E00\u5834\u66FC\u5FB9\u65AF\u7279\u5FB7\u6BD4.2009\u5E747\u670830\u65E5\uFF0C\u827E\u862D\u5974\u4EE5800\u842C\u938A\u5F9E\u82F1\u8D85\u66FC\u57CE\u52A0\u76DF\u571F\u8033\u5176\u8DB3\u7403\u8D85\u7EA7\u8054\u8D5B\u7403\u968A\u52A0\u62C9\u5854\u6C99\u96F7\uFF0C\u7C3D\u7D04\u56DB\u5E74\u3002"@zh ;
+	foaf:isPrimaryTopicOf	ns14:Elano .
+@prefix ns50:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Elano	dbpprop:hasPhotoCollection	ns50:Elano ;
+	dbpprop:caption	"Elano training for Galatasaray" ;
+	dbpprop:name	"Elano" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Elano_blumer.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u0625\u064A\u0644\u0627\u0646\u0648 \u0628\u0644\u0648\u0645\u064A\u0631\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 14 \u064A\u0648\u0646\u064A\u0648 1981 \u0641\u064A \u0627\u0644\u0628\u0631\u0627\u0632\u064A\u0644\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0628\u0631\u0627\u0632\u064A\u0644\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0633\u0627\u0646\u062A\u0648\u0633 \u0641\u064A \u0639\u0627\u0645 2001\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2005\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 131 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 33 \u0647\u062F\u0641\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2005 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0634\u0627\u062E\u062A\u0627\u0631 \u062F\u0648\u0646\u064A\u062A\u0633\u0643 \u0627\u0644\u0623\u0648\u0643\u0631\u0627\u0646\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2007\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 48 \u0645\u0628\u0627\u0631\u0627\u0629 \u0648\u0633\u062C\u0644 14 \u0647\u062F\u0641\u060C \u0648 \u0639\u0627\u0645 2007 \u0644\u0639\u0628 \u0644\u0646\u0627\u062F\u064A \u0645\u0627\u0646\u0634\u0633\u062A\u0631 \u0633\u064A\u062A\u064A \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A. \u0627\u0646\u062A\u0642\u0644 \u0625\u064A\u0644\u0627\u0646\u0648 \u0641\u064A 30 \u064A\u0648\u0644\u064A\u0648 2009 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u062C\u0644\u0627\u062A\u0627\u0633\u0631\u0627\u064A \u0648\u0641\u064A 30 \u0646\u0648\u0641\u0645\u0628\u0631 2010 \u0639\u0627\u062F \u0625\u064A\u0644\u0627\u0646\u0648 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A\u0647 \u0627\u0644\u0633\u0627\u0628\u0642 \u0633\u0627\u0646\u062A\u0648\u0633 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0644\u0647 \u0625\u0644\u0649 \u0627\u0644\u0622\u0646.\u0645\u0646\u0630 \u0639\u0627\u0645 2004 \u0647\u0648 \u0644\u0627\u0639\u0628 \u0641\u064A \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0628\u0631\u0627\u0632\u064A\u0644 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645."@ar ,
+		"Elano Blumer est un footballeur br\u00E9silien n\u00E9 le 14 juin 1981 \u00E0 Iracem\u00E1polis (SP - Br\u00E9sil). Il \u00E9volue actuellement au poste de milieu offensif au Flamengo."@fr ,
+		"Elano Blumer (ur. 14 czerwca 1981 w Iracem\u00E1polis) - brazylijski pi\u0142karz wyst\u0119puj\u0105cy na pozycji ofensywnego pomocnika we Flamengo."@pl ,
+		"\u827E\u62C9\u8AFE\u00B7\u5E03\u9B6F\u9ED8\uFF08Elano Blumer\uFF0C1981\u5E746\u670814\u65E5\uFF0D\uFF09\u662F\u4E00\u4F4D\u5DF4\u897F\u8DB3\u7403\u904B\u52D5\u54E1\u3002\u76EE\u524D\u6548\u529B\u65BC\u571F\u8033\u5176\u8DB3\u7403\u8D85\u7EA7\u8054\u8D5B\u7403\u968A\u52A0\u62C9\u5854\u6C99\u96F7\u3002\u57C3\u62C9\u8AFE\u5728\u5834\u4E0A\u4E3B\u8981\u6D3B\u52D5\u65BC\u4E2D\u5834\u6216\u53F3\u8DEF\u3002\u57C3\u62C9\u8AFE\u7684\u8077\u696D\u8DB3\u7403\u751F\u6DAF\u958B\u59CB\u65BC\u5DF4\u897F\u7684\u5C71\u5EA6\u58EB\u30022005\u5E74\u57C3\u62C9\u8AFE\u8F49\u6703\u53BB\u4E86\u70CF\u514B\u862D\u7403\u968A\u987F\u6D85\u8328\u514B\u77FF\u5DE5\u30022007\u5E748\u67082\u65E5\uFF0C\u57C3\u62C9\u8AFE\u8F49\u6703\u81F3\u82F1\u8D85\u7403\u968A\u66FC\u57CE\uFF0C\u7C3D\u8A02\u4E86\u4E00\u4EFD\u56DB\u5E74\u7684\u5408\u540C\uFF0C\u8F49\u6703\u8CBB\u70BA800\u842C\u82F1\u938A\u3002\u4ED6\u7684\u9996\u5834\u82F1\u8D85\u6BD4\u8CFD\u662F\u66FC\u57CE\u5C0D\u97CB\u65AF\u54B8\u7684\u6BD4\u8CFD\u3002\u3002\u5E76\u57282007\u5E748\u670819\u65E5\u53C3\u52A0\u4E86\u81EA\u5DF1\u7684\u7B2C\u4E00\u5834\u66FC\u5FB9\u65AF\u7279\u5FB7\u6BD4.2009\u5E747\u670830\u65E5\uFF0C\u827E\u862D\u5974\u4EE5800\u842C\u938A\u5F9E\u82F1\u8D85\u66FC\u57CE\u52A0\u76DF\u571F\u8033\u5176\u8DB3\u7403\u8D85\u7EA7\u8054\u8D5B\u7403\u968A\u52A0\u62C9\u5854\u6C99\u96F7\uFF0C\u7C3D\u7D04\u56DB\u5E74\u3002"@zh ,
+		"\u30A8\u30E9\u30FC\u30CE\u30FB\u30E9\u30EB\u30D5\u30FB\u30D6\u30EB\u30E1\u30EB\uFF08Elano Ralph Blumer, 1981\u5E746\u670814\u65E5 - \uFF09\u306F\u3001\u30D6\u30E9\u30B8\u30EB\u30FB\u30B5\u30F3\u30D1\u30A6\u30ED\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30DF\u30C3\u30C9\u30D5\u30A3\u30FC\u30EB\u30C0\u30FC\u3002\u672C\u8077\u306F\u53F3\u30B5\u30A4\u30C9\u30CF\u30FC\u30D5\u3060\u304C\u3001\u30D5\u30A9\u30EF\u30FC\u30C9\u3001\u30AA\u30D5\u30A7\u30F3\u30B7\u30D6\u30CF\u30FC\u30D5\u3001\u30C7\u30A3\u30D5\u30A7\u30F3\u30B7\u30D6\u30CF\u30FC\u30D5\u306A\u3069\u3001\u76F8\u624B\u306E\u6226\u8853\u306B\u3088\u3063\u3066\u8A66\u5408\u3054\u3068\u306B\u30DD\u30B8\u30B7\u30E7\u30F3\u3092\u5909\u3048\u308B\u4E8B\u304C\u51FA\u6765\u308B\u30E6\u30FC\u30C6\u30EA\u30C6\u30A3\u30FC\u306A\u9078\u624B\u3067\u3042\u308B\u3002\u30B5\u30C3\u30AB\u30FC\u3088\u308A\u3082\u5B97\u6559\u3068\u8A9E\u308B\u307B\u3069\u306E\u656C\u8654\u306A\u30AD\u30EA\u30B9\u30C8\u6559\u5F92\u3067\u3042\u308B\u3002"@ja ,
+		"Elano Ralph Blumer, noto semplicemente come Elano (Iracem\u00E1polis, 14 giugno 1981), \u00E8 un calciatore brasiliano, centrocampista del Flamengo in prestito dal Gremio."@it ,
+		"Elano Ralph Blumer (Iracem\u00E1pols (S\u00E3o Paulo), 14 juni 1981) is een Braziliaans voetballer die bij voorkeur op het middenveld speelt. Hij speelt sinds juli 2012 bij Gr\u00EAmio Foot-Ball Porto Alegrense. Hij debuteerde in oktober 2004 in het Braziliaans voetbalelftal, waarvoor hij nadien meer dan veertig interlands speelde."@nl ,
+		"Elano Blumer, nacido el 14 de junio de 1981 en Iracem\u00E1polis, Estado de S\u00E3o Paulo, es un jugador de f\u00FAtbol brasile\u00F1o. Juega de centrocampista y su actual equipo es el Flamengo del Campeonato Brasile\u00F1o de Serie A. Fue el primer jugador de un club ucraniano en ser convocado para la Selecci\u00F3n brasile\u00F1a.Su nombre se hizo popular jugando con la camiseta del Santos, participando en la conquista de dos t\u00EDtulos nacionales con s\u00F3lo 23 a\u00F1os. Jugando con el n\u00FAmero 11, actu\u00F3 en 209 partidos y marc\u00F3 52 goles."@es ,
+		"\u042D\u043B\u0430\u0301\u043D\u043E \u0420\u0430\u0301\u043B\u044C\u0444 \u0411\u043B\u0443\u0301\u043C\u0435\u0440 (\u043F\u043E\u0440\u0442. Elano Ralph Blumer; 14 \u0438\u044E\u043D\u044F 1981, \u0418\u0440\u0430\u0441\u0435\u043C\u0430\u043F\u043E\u043B\u0438\u0441, \u0421\u0430\u043D-\u041F\u0430\u0443\u043B\u0443) \u2014 \u0431\u0440\u0430\u0437\u0438\u043B\u044C\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A. \u0418\u0433\u0440\u043E\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0413\u0440\u0435\u043C\u0438\u043E\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0411\u0440\u0430\u0437\u0438\u043B\u0438\u0438."@ru ,
+		"Elano Blumer (born 14 June 1981), commonly known as Elano, is a Brazilian footballer who plays for Flamengo, on loan from Gr\u00EAmio and the Brazil national team.Elano has been noted for his accurate passing and precise set pieces." ,
+		"Elano Ralph Blumer (Iracem\u00E1polis, 14 de Junho de 1981) \u00E9 um futebolista brasileiro que joga como meia. Atualmente defende o Flamengo com contrato v\u00E1lido at\u00E9 31/12/2014, emprestado pelo Gr\u00EAmio."@pt ,
+		"Elano Ralph Blumer (* 14. Juni 1981 in Iracem\u00E1polis, S\u00E3o Paulo) ist ein brasilianischer Fu\u00DFballspieler."@de ;
+	dbpedia-owl:wikiPageID	3134319 ;
+	dbpedia-owl:wikiPageRevisionID	604660645 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Elano	dbpprop:birthDate	"1981-06-14+02:00"^^xsd:date ;
+	dbpprop:birthPlace	<http://dbpedia.org/resource/Iracem%C3%A1polis> ,
+		dbpedia:Brazil ;
+	dbpprop:dateOfBirth	"1981-06-14+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Iracem\u00E1polis, Brazil" ;
+	dbpprop:shortDescription	"Brazilian footballer" ;
+	dbpedia-owl:birthDate	"1981-06-14+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	<http://dbpedia.org/resource/Iracem%C3%A1polis> ,
+		dbpedia:Brazil ;
+	dbpedia-owl:birthYear	"1981+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	250 ;
+	dbpprop:goals	34 ,
+		3 ,
+		0 ,
+		1 ,
+		14 ,
+		10 ;
+	dbpprop:bg	"#FBEC5D" ;
+	dbpprop:caps	0 ,
+		15 ,
+		33 ,
+		47 ,
+		49 ,
+		62 ,
+		129 ;
+	dbpprop:years	2001 ,
+		2007 ,
+		2004 ,
+		2011 ,
+		2009 ,
+		2014 ,
+		2012 ;
+	dbpprop:youthclubs	dbpedia:Guarani_Futebol_Clube ,
+		<http://dbpedia.org/resource/Associa%C3%A7%C3%A3o_Atl%C3%A9tica_Internacional_(Limeira)> ;
+	dbpedia-owl:careerStation	dbpedia:Elano__2 ,
+		dbpedia:Elano__3 ,
+		dbpedia:Elano__10 ,
+		dbpedia:Elano__1 ,
+		dbpedia:Elano__4 ,
+		dbpedia:Elano__7 ,
+		dbpedia:Elano__8 ,
+		dbpedia:Elano__5 ,
+		dbpedia:Elano__9 ,
+		dbpedia:Elano__6 ;
+	dbpprop:position	dbpedia:Midfielder ;
+	dbpedia-owl:position	dbpedia:Midfielder ;
+	dbpedia-owl:height	1.7399999999999999911 .
+@prefix ns52:	<http://dbpedia.org/datatype/> .
+@prefix ns53:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Elano	ns53:height	"174.0"^^ns52:centimetre ;
+	dbpprop:currentclub	dbpedia:Clube_de_Regatas_do_Flamengo ;
+	dbpprop:clubnumber	7 ;
+	dbpprop:fullname	"Elano Blumer" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/Galatasaray_S.K._(football)> ,
+		dbpedia:FC_Shakhtar_Donetsk ,
+		dbpedia:Santos_FC ,
+		<http://dbpedia.org/resource/Gr%C3%AAmio_Foot-Ball_Porto_Alegrense> ,
+		"\u2192 Flamengo" ,
+		<http://dbpedia.org/resource/Manchester_City_F.C.> ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/Galatasaray_S.K._(football)> ,
+		dbpedia:FC_Shakhtar_Donetsk ,
+		<http://dbpedia.org/resource/Associa%C3%A7%C3%A3o_Atl%C3%A9tica_Internacional_(Limeira)> ,
+		dbpedia:Santos_FC ,
+		<http://dbpedia.org/resource/Gr%C3%AAmio_Foot-Ball_Porto_Alegrense> ,
+		dbpedia:Brazil_national_football_team ,
+		dbpedia:Guarani_Futebol_Clube ,
+		dbpedia:Clube_de_Regatas_do_Flamengo ,
+		<http://dbpedia.org/resource/Manchester_City_F.C.> .
+@prefix ns54:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Elano	dbpprop:wordnet_type	ns54:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Brazil squads" ;
+	dbpprop:pcupdate	"2012-12-04+02:00"^^xsd:date ;
+	dbpprop:youthyears	2000 ,
+		1998 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.tff.org/Default.aspx?pageId=30&kisiId=1252921> ,
+		<http://shakhtar.com/en/news/4474> ;
+	dbpprop:fg	"#008000" ;
+	dbpprop:nationalcaps	50 ;
+	dbpprop:nationalgoals	9 ;
+	dbpprop:nationalteam	dbpedia:Brazil_national_football_team ;
+	dbpprop:nationalyears	2004 ;
+	dbpedia-owl:number	7 ;
+	dbpprop:ntupdate	"2012-12-04+02:00"^^xsd:date .
+ns31:إيلانو	owl:sameAs	dbpedia:Elano .
+ns35:Елано	owl:sameAs	dbpedia:Elano .
+ns37:Elano_Blumer	owl:sameAs	dbpedia:Elano .
+ns44:Elano	owl:sameAs	dbpedia:Elano .
+ns29:Elano	owl:sameAs	dbpedia:Elano .
+ns24:אלאנו	owl:sameAs	dbpedia:Elano .
+ns38:Elano_Blumer	owl:sameAs	dbpedia:Elano .
+ns28:Elano	owl:sameAs	dbpedia:Elano .
+ns36:Elano	owl:sameAs	dbpedia:Elano .
+ns30:Elano	owl:sameAs	dbpedia:Elano .
+ns23:एलानो	owl:sameAs	dbpedia:Elano .
+ns43:Elano	owl:sameAs	dbpedia:Elano .
+ns32:Elano	owl:sameAs	dbpedia:Elano .
+ns22:Elano	owl:sameAs	dbpedia:Elano .
+ns34:Elano	owl:sameAs	dbpedia:Elano .
+ns39:Элано	owl:sameAs	dbpedia:Elano .
+ns41:Elano	owl:sameAs	dbpedia:Elano .
+ns40:Elano	owl:sameAs	dbpedia:Elano .
+ns33:Elano_Blumer	owl:sameAs	dbpedia:Elano .
+ns25:Елано_Блумер	owl:sameAs	dbpedia:Elano .
+ns27:埃拉诺	owl:sameAs	dbpedia:Elano .
+dbpedia:Clube_de_Regatas_do_Flamengo__Elano__1	dbpedia-owl:currentMember	dbpedia:Elano .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Elano .
+<http://dbpedia.org/resource/2007%E2%80%9308_Manchester_City_F.C._season>	dbpprop:p	dbpedia:Elano .
+<http://dbpedia.org/resource/2004_CONMEBOL_Men_Pre-Olympic_Tournament_squads>	dbpprop:name	dbpedia:Elano .
+<http://dbpedia.org/resource/2009_FIFA_Confederations_Cup_statistics>	dbpprop:mostAssistsPlayer	dbpedia:Elano .
+<http://dbpedia.org/resource/2010%E2%80%9311_Galatasaray_S.K._season>	dbpprop:p	dbpedia:Elano .
+<http://dbpedia.org/resource/Gr%C3%AAmio_Foot-Ball_Porto_Alegrense>	dbpprop:name	dbpedia:Elano .
+dbpedia:List_of_Turkish_football_transfers_summer_2009	dbpprop:name	dbpedia:Elano ;
+	dbpedia-owl:currentMember	dbpedia:Elano .
+dbpedia:Clube_de_Regatas_do_Flamengo	dbpprop:name	dbpedia:Elano .
+<http://dbpedia.org/resource/2012_Santos_FC_season>	dbpprop:name	dbpedia:Elano .
+<http://dbpedia.org/resource/2011_Santos_FC_season>	dbpprop:name	dbpedia:Elano ;
+	dbpprop:p	dbpedia:Elano .
+<http://dbpedia.org/resource/2011_FIFA_Club_World_Cup_squads>	dbpprop:name	dbpedia:Elano ;
+	dbpedia-owl:currentMember	dbpedia:Elano .
+<http://dbpedia.org/resource/2011_Campeonato_Paulista>	dbpprop:ram	dbpedia:Elano ;
+	dbpprop:leagueTopscorer	dbpedia:Elano .
+<http://dbpedia.org/resource/2009_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Elano .
+<http://dbpedia.org/resource/2004_Santos_FC_season>	dbpprop:name	dbpedia:Elano .
+dbpedia:Brazil_at_the_2010_FIFA_World_Cup	dbpprop:name	dbpedia:Elano .
+<http://dbpedia.org/resource/Gr%C3%AAmio_Foot-Ball_Porto_Alegrense__lano__1>	dbpedia-owl:currentMember	dbpedia:Elano .
+<http://dbpedia.org/resource/2005_Lunar_New_Year_Cup>	dbpprop:name	dbpedia:Elano .
+<http://dbpedia.org/resource/2003_Santos_FC_season>	dbpprop:name	dbpedia:Elano .
+<http://dbpedia.org/resource/2009_Vodacom_Challenge>	dbpprop:name	dbpedia:Elano .
+<http://dbpedia.org/resource/2002_Santos_FC_season>	dbpprop:name	dbpedia:Elano .
+<http://dbpedia.org/resource/2004_Santos_FC_season__Elano__1>	dbpedia-owl:currentMember	dbpedia:Elano .
+<http://dbpedia.org/resource/2003_Santos_FC_season__Elano__1>	dbpedia-owl:currentMember	dbpedia:Elano .
+<http://dbpedia.org/resource/2012_Santos_FC_season__Elano__1>	dbpedia-owl:currentMember	dbpedia:Elano .
+<http://dbpedia.org/resource/2002_Santos_FC_season__Elano__1>	dbpedia-owl:currentMember	dbpedia:Elano .
+<http://dbpedia.org/resource/2011_Santos_FC_season__Elano__1>	dbpedia-owl:currentMember	dbpedia:Elano .
+<http://dbpedia.org/resource/2011_Santos_FC_season__Elano__2>	dbpedia-owl:currentMember	dbpedia:Elano .
+<http://dbpedia.org/resource/2009_Vodacom_Challenge__lano__1>	dbpedia-owl:currentMember	dbpedia:Elano .
+dbpedia:Elano_Blumer	dbpedia-owl:wikiPageRedirects	dbpedia:Elano .
+dbpedia:Elano_Ralph_Blumer	dbpedia-owl:wikiPageRedirects	dbpedia:Elano .

@@ -1,0 +1,260 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Israel_Castro	owl:sameAs	dbpedia:Israel_Castro .
+@prefix ns3:	<http://ko.dbpedia.org/resource/> .
+ns3:이스라엘_카스트로	owl:sameAs	dbpedia:Israel_Castro .
+@prefix ns4:	<http://pt.dbpedia.org/resource/> .
+ns4:Israel_Castro	owl:sameAs	dbpedia:Israel_Castro .
+@prefix ns5:	<http://de.dbpedia.org/resource/> .
+ns5:Israel_Castro	owl:sameAs	dbpedia:Israel_Castro .
+@prefix ns6:	<http://wikidata.dbpedia.org/resource/> .
+ns6:Q329516	owl:sameAs	dbpedia:Israel_Castro .
+@prefix ns7:	<http://es.dbpedia.org/resource/> .
+ns7:Israel_Castro	owl:sameAs	dbpedia:Israel_Castro .
+@prefix ns8:	<http://it.dbpedia.org/resource/> .
+ns8:Israel_Castro	owl:sameAs	dbpedia:Israel_Castro .
+@prefix ns9:	<http://ja.dbpedia.org/resource/> .
+ns9:イスラエル・カストロ	owl:sameAs	dbpedia:Israel_Castro .
+@prefix ns10:	<http://nl.dbpedia.org/resource/> .
+ns10:Israel_Castro	owl:sameAs	dbpedia:Israel_Castro .
+@prefix ns11:	<http://pl.dbpedia.org/resource/> .
+ns11:Israel_Castro	owl:sameAs	dbpedia:Israel_Castro .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns13:	<http://en.wikipedia.org/wiki/> .
+ns13:Israel_Castro	foaf:primaryTopic	dbpedia:Israel_Castro .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2009_CONCACAF_Gold_Cup_squads>	dbpprop:name	dbpedia:Israel_Castro .
+dbpedia:List_of_Mexican_football_transfers_summer_2011	dbpprop:name	dbpedia:Israel_Castro .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:List_of_Mexican_football_transfers_summer_2011	dbpedia-owl:currentMember	dbpedia:Israel_Castro .
+<http://dbpedia.org/resource/2007_Copa_Am%C3%A9rica_squads>	dbpprop:name	dbpedia:Israel_Castro .
+<http://dbpedia.org/resource/2011%E2%80%9312_Cruz_Azul_season>	dbpprop:name	dbpedia:Israel_Castro ;
+	dbpprop:p	dbpedia:Israel_Castro .
+<http://dbpedia.org/resource/2012%E2%80%9313_Cruz_Azul_season>	dbpprop:name	dbpedia:Israel_Castro .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Israel_Castro .
+<http://dbpedia.org/resource/2011_CONCACAF_Gold_Cup_squads>	dbpprop:name	dbpedia:Israel_Castro .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbpedia:Israel_Castro	rdf:type	dbpedia-owl:SoccerPlayer ,
+		owl:Thing ,
+		ns6:Q215627 .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Israel_Castro	rdf:type	yago:Object100002684 ,
+		yago:Whole100003553 ,
+		<http://dbpedia.org/class/yago/2007CopaAm%C3%A9ricaPlayers> ,
+		yago:PeopleFromMexicoCity ,
+		yago:MexicoInternationalFootballers ,
+		yago:Contestant109613191 ,
+		<http://dbpedia.org/class/yago/PrimeraDivisi%C3%B3nDeM%C3%A9xicoPlayers> ,
+		<http://dbpedia.org/class/yago/2011CONCACAFGoldCupPlayers> ,
+		yago:PhysicalEntity100001930 ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Person ,
+		yago:Player110439851 ,
+		yago:Athlete109820263 ,
+		yago:FootballPlayer110101634 ,
+		foaf:Person ,
+		dbpedia-owl:Athlete ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> .
+@prefix ns18:	<http://schema.org/> .
+dbpedia:Israel_Castro	rdf:type	ns18:Person ,
+		ns6:Q5 ,
+		<http://dbpedia.org/class/yago/2009CONCACAFGoldCupPlayers> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Israel_Castro	rdf:type	dul:Agent ,
+		dul:NaturalPerson ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:MexicanFootballers ;
+	owl:sameAs	dbpedia:Israel_Castro .
+@prefix ns20:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Israel_Castro	owl:sameAs	ns20:إسرائيل_كاسترو ,
+		ns8:Israel_Castro ,
+		ns4:Israel_Castro ,
+		ns5:Israel_Castro .
+@prefix ns21:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Israel_Castro	owl:sameAs	ns21:Israel_Castro ,
+		ns9:イスラエル・カストロ ,
+		ns1:Israel_Castro .
+@prefix ns22:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Israel_Castro	owl:sameAs	ns22:Ісраель_Кастро ,
+		ns11:Israel_Castro .
+@prefix ns23:	<http://ca.dbpedia.org/resource/> .
+dbpedia:Israel_Castro	owl:sameAs	ns23:Israel_Castro .
+@prefix ns24:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Israel_Castro	owl:sameAs	ns24:Israel_Castro ,
+		ns3:이스라엘_카스트로 ,
+		<http://rdf.freebase.com/ns/m.0fl32l> .
+@prefix ns25:	<http://wikidata.org/entity/> .
+dbpedia:Israel_Castro	owl:sameAs	ns25:Q329516 ,
+		ns7:Israel_Castro .
+@prefix ns26:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Israel_Castro	owl:sameAs	ns26:伊斯雷尔·卡斯特罗 ,
+		ns10:Israel_Castro .
+@prefix ns27:	<http://yago-knowledge.org/resource/> .
+dbpedia:Israel_Castro	owl:sameAs	ns27:Israel_Castro ,
+		<http://ru.dbpedia.org/resource/\u041A\u0430\u0441\u0442\u0440\u043E,_\u0418\u0441\u0440\u0430\u044D\u043B\u044C> .
+@prefix ns28:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Israel_Castro	owl:sameAs	ns28:इस्राईल_कास्त्रो ,
+		ns6:Q329516 .
+@prefix ns29:	<http://no.dbpedia.org/resource/> .
+dbpedia:Israel_Castro	owl:sameAs	ns29:Israel_Castro .
+@prefix ns30:	<http://nn.dbpedia.org/resource/> .
+dbpedia:Israel_Castro	owl:sameAs	ns30:Israel_Castro .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Israel_Castro	rdfs:label	"Israel Castro"@fr ,
+		"Israel Castro" ,
+		"\u4F0A\u65AF\u96F7\u5C14\u00B7\u5361\u65AF\u7279\u7F57"@zh ,
+		"Israel Castro"@it ,
+		"Israel Castro"@de ,
+		"\u041A\u0430\u0441\u0442\u0440\u043E, \u0418\u0441\u0440\u0430\u044D\u043B\u044C"@ru ,
+		"Israel Castro"@es ,
+		"Israel Castro"@pt ,
+		"Israel Castro"@pl ,
+		"\u30A4\u30B9\u30E9\u30A8\u30EB\u30FB\u30AB\u30B9\u30C8\u30ED"@ja ,
+		"Israel Castro"@nl ,
+		"\u0625\u0633\u0631\u0627\u0626\u064A\u0644 \u0643\u0627\u0633\u062A\u0631\u0648"@ar .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+dbpedia:Israel_Castro	dcterms:subject	<http://dbpedia.org/resource/Category:2009_CONCACAF_Gold_Cup_players> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Israel_Castro	dcterms:subject	category:Cruz_Azul_footballers ,
+		category:Sportspeople_from_Mexico_City ,
+		category:Mexico_international_footballers ,
+		category:Liga_MX_footballers ,
+		category:CONCACAF_Gold_Cup-winning_players ,
+		category:Mexican_footballers ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2007_Copa_Am%C3%A9rica_players> ,
+		category:Club_Universidad_Nacional_footballers ,
+		<http://dbpedia.org/resource/Category:2011_CONCACAF_Gold_Cup_players> ,
+		<http://dbpedia.org/resource/Category:1980_births> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Israel_Castro_Mac\u00EDas.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Israel_Castro	dc:description	"Mexican footballer" ,
+		"Mexican footballer" ;
+	foaf:givenName	"Israel" ;
+	foaf:name	"Israel Castro Macias" ,
+		"Israel Castro" ,
+		"Castro, Israel" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Israel_Castro	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Israel_Castro?oldid=602663911> ;
+	rdfs:comment	"Israel Castro Mac\u00EDas (Cidade do M\u00E9xico, 20 de outubro de 1980) \u00E9 um futebolista mexicano, que atua na posi\u00E7\u00E3o de volante. Atua desde 2002 no Pumas. Participou da Copa do Mundo FIFA de 2010 pela Sele\u00E7\u00E3o Mexicana de Futebol."@pt ,
+		"\u30A4\u30B9\u30E9\u30A8\u30EB\u30FB\u30AB\u30B9\u30C8\u30ED\u30FB\u30DE\u30B7\u30A2\u30B9\uFF08Israel Castro Mac\u00EDas, 1980\u5E7412\u670820\u65E5 - \uFF09\u306F\u30E1\u30AD\u30B7\u30B3\u30FB\u30E1\u30AD\u30B7\u30B3\u30B7\u30C6\u30A3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u4E3B\u306B\u30DC\u30E9\u30F3\u30C1\u3002"@ja ,
+		"\u0418\u0441\u0440\u0430\u044D\u0301\u043B\u044C \u041A\u0430\u0301\u0441\u0442\u0440\u043E \u041C\u0430\u0441\u0438\u0301\u0430\u0441 (\u0438\u0441\u043F. Israel Castro Mac\u00EDas; 20 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1980, \u041C\u0435\u0445\u0438\u043A\u043E, \u041C\u0435\u043A\u0441\u0438\u043A\u0430) \u2014 \u043C\u0435\u043A\u0441\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u041A\u0440\u0443\u0441 \u0410\u0441\u0443\u043B\u044C\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041C\u0435\u043A\u0441\u0438\u043A\u0438."@ru ,
+		"\u0625\u0633\u0631\u0627\u0626\u064A\u0644 \u0643\u0627\u0633\u062A\u0631\u0648 \u0645\u0627\u0633\u064A\u0627\u0633 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: Israel Castro Mac\u00EDas) (\u0645\u0648\u0627\u0644\u064A\u062F 20 \u062F\u064A\u0633\u0645\u0628\u0631 1980 \u0641\u064A \u0645\u0643\u0633\u064A\u0643\u0648) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0645\u0643\u0633\u064A\u0643\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0641\u064A \u0646\u0627\u062F\u064A \u064A\u0648\u0646\u064A\u0641\u064A\u0631\u0633\u064A\u062F\u0627\u062F \u0646\u0627\u0633\u064A\u0648\u0646\u0627\u0644 \u0627\u0644\u0645\u0643\u0633\u064A\u0643\u064A ."@ar ,
+		"Israel Castro Mac\u00EDas (ur. 20 grudnia 1980 w mie\u015Bcie Meksyk) \u2013 meksyka\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji defensywnego pomocnika, obecnie zawodnik Cruz Azul."@pl ,
+		"Israel Castro Mac\u00EDas (born December 20, 1980) is a Mexican football player currently playing defensive midfield for Guadalajara of the Liga MX." ,
+		"Israel Castro Mac\u00EDas (Citt\u00E0 del Messico, 20 dicembre 1980) \u00E8 un calciatore messicano, difensore del Cruz Azul."@it ,
+		"Israel Castro (n\u00E9 le 20 d\u00E9cembre 1980 \u00E0 Mexico) est un footballeur international mexicain \u00E9voluant actuellement au Pumas UNAM."@fr ,
+		"Israel Castro Mac\u00EDas (Mexico-Stad, 20 december 1980) is een Mexicaans voetballer die bij voorkeur speelt als middenvelder. Sinds het begin van 2014 speelt hij voor Club Deportivo Guadalajara in de Mexicaanse Primera Divisi\u00F3n de M\u00E9xico. In 2007 debuteerde hij voor het Mexicaans voetbalelftal."@nl ,
+		"Israel Castro Mac\u00EDas (* 20. Dezember 1980 in Mexiko-Stadt) ist ein mexikanischer Fu\u00DFballspieler, der in der Abwehr und im (defensiven) Mittelfeld gleicherma\u00DFen einsetzbar ist. Castro stammt aus dem Nachwuchsbereich des Club Universidad Nacional und war bisher ausschlie\u00DFlich bei diesem Verein unter Vertrag."@de ,
+		"\u4F0A\u62C9\u723E\u00B7\u5361\u65AF\u5EA6\u00B7\u99AC\u65AF\u4E9E\u65AF(Israel Castro Mac\u00EDas\uFF0C1980\u5E7412\u670820\u65E5(1980-12-20)-)\u662F\u4E00\u540D\u58A8\u897F\u54E5\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u76EE\u524D\u6548\u529B\u666E\u99AC\u65AF\u3002"@zh ,
+		"Israel Castro Mac\u00EDas (nacido el 20 de diciembre de 1980 en la Ciudad de M\u00E9xico), es un futbolista mexicano que juega en la posici\u00F3n de defensa y mediocampista. Actualmente juega en el Club Deportivo Guadalajara de M\u00E9xico.Surgi\u00F3 de las fuerzas b\u00E1sicas de Universidad, debutando el 22 de enero de 2002 en un empate 2-2 entre la UNAM y el Guadalajara, en el torneo Verano 2002."@es ;
+	foaf:surname	"Castro" ;
+	foaf:isPrimaryTopicOf	ns13:Israel_Castro .
+@prefix ns36:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Israel_Castro	dbpprop:hasPhotoCollection	ns36:Israel_Castro ;
+	dbpprop:caption	"Israel with Cruz Azul." ;
+	dbpprop:name	"Castro, Israel" ,
+		"Israel Castro" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Israel_Castro_Mac\u00EDas.jpg?width=300> ;
+	dbpedia-owl:abstract	"Israel Castro Mac\u00EDas (nacido el 20 de diciembre de 1980 en la Ciudad de M\u00E9xico), es un futbolista mexicano que juega en la posici\u00F3n de defensa y mediocampista. Actualmente juega en el Club Deportivo Guadalajara de M\u00E9xico.Surgi\u00F3 de las fuerzas b\u00E1sicas de Universidad, debutando el 22 de enero de 2002 en un empate 2-2 entre la UNAM y el Guadalajara, en el torneo Verano 2002. Destaca por su gran t\u00E9cnica y toque de bal\u00F3n, ha jugado varias posiciones como central, lateral derecho e izquierdo y la contenci\u00F3n. Fue titular de la lateral derecha en el Bicampeonato de los universitarios en el 2004. Ese mismo a\u00F1o hizo un gol al Real Madrid, que es muy recordado ya que con ello los Pumas ganaron el trofeo Santiago Bernab\u00E9u."@es ,
+		"\u0625\u0633\u0631\u0627\u0626\u064A\u0644 \u0643\u0627\u0633\u062A\u0631\u0648 \u0645\u0627\u0633\u064A\u0627\u0633 (\u0628\u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A\u0629: Israel Castro Mac\u00EDas) (\u0645\u0648\u0627\u0644\u064A\u062F 20 \u062F\u064A\u0633\u0645\u0628\u0631 1980 \u0641\u064A \u0645\u0643\u0633\u064A\u0643\u0648) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0645\u0643\u0633\u064A\u0643\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0641\u064A \u0646\u0627\u062F\u064A \u064A\u0648\u0646\u064A\u0641\u064A\u0631\u0633\u064A\u062F\u0627\u062F \u0646\u0627\u0633\u064A\u0648\u0646\u0627\u0644 \u0627\u0644\u0645\u0643\u0633\u064A\u0643\u064A ."@ar ,
+		"Israel Castro Mac\u00EDas (Citt\u00E0 del Messico, 20 dicembre 1980) \u00E8 un calciatore messicano, difensore del Cruz Azul."@it ,
+		"Israel Castro Mac\u00EDas (ur. 20 grudnia 1980 w mie\u015Bcie Meksyk) \u2013 meksyka\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji defensywnego pomocnika, obecnie zawodnik Cruz Azul."@pl ,
+		"Israel Castro Mac\u00EDas (Cidade do M\u00E9xico, 20 de outubro de 1980) \u00E9 um futebolista mexicano, que atua na posi\u00E7\u00E3o de volante. Atua desde 2002 no Pumas. Participou da Copa do Mundo FIFA de 2010 pela Sele\u00E7\u00E3o Mexicana de Futebol."@pt ,
+		"Israel Castro (n\u00E9 le 20 d\u00E9cembre 1980 \u00E0 Mexico) est un footballeur international mexicain \u00E9voluant actuellement au Pumas UNAM."@fr ,
+		"Israel Castro Mac\u00EDas (born December 20, 1980) is a Mexican football player currently playing defensive midfield for Guadalajara of the Liga MX." ,
+		"Israel Castro Mac\u00EDas (Mexico-Stad, 20 december 1980) is een Mexicaans voetballer die bij voorkeur speelt als middenvelder. Sinds het begin van 2014 speelt hij voor Club Deportivo Guadalajara in de Mexicaanse Primera Divisi\u00F3n de M\u00E9xico. In 2007 debuteerde hij voor het Mexicaans voetbalelftal."@nl ,
+		"Israel Castro Mac\u00EDas (* 20. Dezember 1980 in Mexiko-Stadt) ist ein mexikanischer Fu\u00DFballspieler, der in der Abwehr und im (defensiven) Mittelfeld gleicherma\u00DFen einsetzbar ist. Castro stammt aus dem Nachwuchsbereich des Club Universidad Nacional und war bisher ausschlie\u00DFlich bei diesem Verein unter Vertrag. Die Fans der Pumas gaben ihm den Spitznamen Asesino de gal\u00E1cticos (deutsch: Killer der Galaktischen), nachdem er das entscheidende Tor zum 1:0-Sieg gegen Real Madrid beim Spiel um den Trofeo Santiago Bernab\u00E9u des Jahres 2004 erzielt hatte. Seit Februar 2007 ist er mexikanischer Nationalspieler."@de ,
+		"\u4F0A\u62C9\u723E\u00B7\u5361\u65AF\u5EA6\u00B7\u99AC\u65AF\u4E9E\u65AF(Israel Castro Mac\u00EDas\uFF0C1980\u5E7412\u670820\u65E5(1980-12-20)-)\u662F\u4E00\u540D\u58A8\u897F\u54E5\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u76EE\u524D\u6548\u529B\u666E\u99AC\u65AF\u3002"@zh ,
+		"\u0418\u0441\u0440\u0430\u044D\u0301\u043B\u044C \u041A\u0430\u0301\u0441\u0442\u0440\u043E \u041C\u0430\u0441\u0438\u0301\u0430\u0441 (\u0438\u0441\u043F. Israel Castro Mac\u00EDas; 20 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1980, \u041C\u0435\u0445\u0438\u043A\u043E, \u041C\u0435\u043A\u0441\u0438\u043A\u0430) \u2014 \u043C\u0435\u043A\u0441\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u041A\u0440\u0443\u0441 \u0410\u0441\u0443\u043B\u044C\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041C\u0435\u043A\u0441\u0438\u043A\u0438."@ru ,
+		"\u30A4\u30B9\u30E9\u30A8\u30EB\u30FB\u30AB\u30B9\u30C8\u30ED\u30FB\u30DE\u30B7\u30A2\u30B9\uFF08Israel Castro Mac\u00EDas, 1980\u5E7412\u670820\u65E5 - \uFF09\u306F\u30E1\u30AD\u30B7\u30B3\u30FB\u30E1\u30AD\u30B7\u30B3\u30B7\u30C6\u30A3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u4E3B\u306B\u30DC\u30E9\u30F3\u30C1\u3002"@ja ;
+	dbpedia-owl:wikiPageID	6024327 ;
+	dbpedia-owl:wikiPageRevisionID	602663911 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Israel_Castro	dbpprop:birthDate	"1980-12-20+02:00"^^xsd:date ;
+	dbpprop:birthPlace	dbpedia:Mexico_City ,
+		dbpedia:Mexico ;
+	dbpprop:dateOfBirth	"1980-12-20+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	dbpedia:Mexico_City ,
+		dbpedia:Mexico ;
+	dbpprop:shortDescription	"Mexican footballer" ;
+	dbpedia-owl:birthDate	"1980-12-20+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Mexico_City ,
+		dbpedia:Mexico ;
+	dbpedia-owl:birthYear	"1980+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	200 ;
+	dbpprop:goals	12 ,
+		3 ,
+		1 ;
+	dbpprop:bg	"#016549" ;
+	dbpprop:caps	13 ,
+		92 ,
+		324 ;
+	dbpprop:years	2014 ,
+		2011 ,
+		2002 ;
+	dbpedia-owl:careerStation	dbpedia:Israel_Castro__1 ,
+		dbpedia:Israel_Castro__4 ,
+		dbpedia:Israel_Castro__3 ,
+		dbpedia:Israel_Castro__2 ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ,
+		dbpedia:Midfielder ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ,
+		dbpedia:Midfielder ;
+	dbpedia-owl:height	1.7199999999999999734 .
+@prefix ns38:	<http://dbpedia.org/datatype/> .
+@prefix ns39:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Israel_Castro	ns39:height	"172.0"^^ns38:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/C.D._Guadalajara> ;
+	dbpprop:clubnumber	20 ;
+	dbpprop:fullname	"Israel Castro Macias" ;
+	dbpprop:clubs	dbpedia:Cruz_Azul ,
+		<http://dbpedia.org/resource/C.D._Guadalajara> ,
+		dbpedia:Club_Universidad_Nacional ;
+	dbpedia-owl:team	dbpedia:Mexico_national_football_team ,
+		dbpedia:Cruz_Azul ,
+		<http://dbpedia.org/resource/C.D._Guadalajara> ,
+		dbpedia:Club_Universidad_Nacional .
+@prefix ns40:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Israel_Castro	dbpprop:wordnet_type	ns40:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Mexico squads" ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.footballdatabase.com/index.php?page=player&Id=7795&pn=Israel_Castro_Mac\u00EDas> ,
+		<http://www.transfermarkt.co.uk/en/israel-castro/profil/spieler_51077.html> ;
+	dbpprop:bordercolor	"#CE1126" ;
+	dbpprop:fg	"White" ;
+	dbpprop:nationalcaps	48 ;
+	dbpprop:nationalgoals	1 ;
+	dbpprop:nationalteam	dbpedia:Mexico_national_football_team ;
+	dbpprop:nationalyears	2007 ;
+	dbpedia-owl:number	20 .
+<http://dbpedia.org/resource/C.D._Guadalajara__Israel_Castro__1>	dbpedia-owl:currentMember	dbpedia:Israel_Castro .
+ns20:إسرائيل_كاسترو	owl:sameAs	dbpedia:Israel_Castro .
+ns23:Israel_Castro	owl:sameAs	dbpedia:Israel_Castro .
+ns24:Israel_Castro	owl:sameAs	dbpedia:Israel_Castro .
+ns28:इस्राईल_कास्त्रो	owl:sameAs	dbpedia:Israel_Castro .
+ns30:Israel_Castro	owl:sameAs	dbpedia:Israel_Castro .
+ns29:Israel_Castro	owl:sameAs	dbpedia:Israel_Castro .
+<http://ru.dbpedia.org/resource/\u041A\u0430\u0441\u0442\u0440\u043E,_\u0418\u0441\u0440\u0430\u044D\u043B\u044C>	owl:sameAs	dbpedia:Israel_Castro .
+ns21:Israel_Castro	owl:sameAs	dbpedia:Israel_Castro .
+ns22:Ісраель_Кастро	owl:sameAs	dbpedia:Israel_Castro .
+ns26:伊斯雷尔·卡斯特罗	owl:sameAs	dbpedia:Israel_Castro .
+<http://dbpedia.org/resource/C.D._Guadalajara>	dbpprop:name	dbpedia:Israel_Castro .
+<http://dbpedia.org/resource/2011_Primera_Divisi%C3%B3n_de_M%C3%A9xico_Clausura_Liguilla_Final>	dbpprop:away6player	dbpedia:Israel_Castro .
+<http://dbpedia.org/resource/2010%E2%80%9311_Club_Universidad_Nacional_season>	dbpprop:name	dbpedia:Israel_Castro ;
+	dbpedia-owl:currentMember	dbpedia:Israel_Castro .
+<http://dbpedia.org/resource/List_of_Mexican_football_transfers_winter_2013%E2%80%9314>	dbpprop:name	dbpedia:Israel_Castro ;
+	dbpedia-owl:currentMember	dbpedia:Israel_Castro .
+<http://dbpedia.org/resource/Israel_Castro_(disambiguation)>	dbpedia-owl:wikiPageDisambiguates	dbpedia:Israel_Castro .
+<http://dbpedia.org/resource/2012%E2%80%9313_Cruz_Azul_season__Israel_Castro__1>	dbpedia-owl:currentMember	dbpedia:Israel_Castro .
+<http://dbpedia.org/resource/2011%E2%80%9312_Cruz_Azul_season__Israel_Castro__1>	dbpedia-owl:currentMember	dbpedia:Israel_Castro .
+<http://dbpedia.org/resource/2009_CONCACAF_Gold_Cup_Final>	dbpprop:away7player	dbpedia:Israel_Castro .
+<http://dbpedia.org/resource/2009_CONCACAF_Gold_Cup_knockout_stage>	dbpprop:away7player	dbpedia:Israel_Castro ;
+	dbpprop:home7player	dbpedia:Israel_Castro .

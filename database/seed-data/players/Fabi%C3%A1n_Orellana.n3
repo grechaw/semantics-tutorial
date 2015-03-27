@@ -1,0 +1,218 @@
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/2011%E2%80%9312_Granada_CF_season__Fabi%C3%A1n_Orellana__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana>	rdf:type	owl:Thing ,
+		<http://dbpedia.org/class/yago/SegundaDivisi%C3%B3nFootballers> ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> .
+@prefix ns3:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana>	rdf:type	ns3:Q215627 ,
+		dbpedia-owl:Athlete .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana>	rdf:type	yago:CeltaDeVigoFootballers .
+@prefix ns5:	<http://schema.org/> .
+<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana>	rdf:type	ns5:Person ,
+		yago:Player110439851 ,
+		yago:Athlete109820263 ,
+		yago:FootballPlayer110101634 ,
+		ns3:Q5 ,
+		yago:Contestant109613191 ,
+		yago:AssociationFootballForwards ,
+		yago:BasketballPlayer109842047 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana>	rdf:type	foaf:Person ,
+		yago:PhysicalEntity100001930 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana>	rdf:type	dul:Agent ,
+		yago:Forward110105733 ,
+		dul:NaturalPerson ,
+		yago:ExpatriateFootballersInSpain ,
+		yago:Object100002684 ,
+		yago:Whole100003553 ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:LaLigaFootballers ,
+		dbpedia-owl:Person ,
+		yago:GranadaCFFootballers .
+@prefix ns8:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana>	rdf:type	ns8:SoccerPlayer ,
+		yago:ChileanFootballers ,
+		<http://dbpedia.org/class/yago/ChileanPrimeraDivisi%C3%B3nPlayers> ,
+		yago:AudaxItalianoPlayers ,
+		yago:ChileanExpatriateFootballers ,
+		yago:ChileInternationalFootballers ,
+		yago:XerezCDPlayers ,
+		yago:UdineseCalcioPlayers ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:PeopleFromSantiago ;
+	owl:sameAs	<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana> .
+@prefix ns9:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana>	owl:sameAs	ns9:Fabián_Orellana ,
+		<http://rdf.freebase.com/ns/m.03cc6r0> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana>	rdfs:label	"\u30D5\u30A1\u30D3\u30A2\u30F3\u30FB\u30AA\u30EC\u30B8\u30E3\u30FC\u30CA"@ja ,
+		"Fabi\u00E1n Orellana" ,
+		"\u041E\u0440\u0435\u043B\u044C\u044F\u043D\u0430, \u0424\u0430\u0431\u0438\u0430\u043D"@ru ,
+		"Fabi\u00E1n Orellana"@nl ,
+		"Fabi\u00E1n Orellana"@fr ,
+		"Fabi\u00E1n Orellana"@pt ,
+		"Fabi\u00E1n Orellana"@es ,
+		"Fabi\u00E1n Orellana"@de ,
+		"Fabi\u00E1n Orellana"@pl ,
+		"\u0641\u0627\u0628\u064A\u0627\u0646 \u0623\u0648\u0631\u064A\u0644\u0627\u0646\u0627"@ar ,
+		"Fabi\u00E1n Orellana"@it .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana>	dcterms:subject	<http://dbpedia.org/resource/Category:1988_births> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana>	dcterms:subject	category:Chilean_footballers ,
+		category:Udinese_Calcio_players ,
+		<http://dbpedia.org/resource/Category:Chilean_Primera_Divisi%C3%B3n_players> ,
+		category:Audax_Italiano_players ,
+		category:La_Liga_footballers ,
+		category:Chilean_expatriate_footballers ,
+		category:Granada_CF_footballers ,
+		category:Expatriate_footballers_in_Spain ,
+		<http://dbpedia.org/resource/Category:Segunda_Divisi%C3%B3n_footballers> ,
+		category:Sportspeople_from_Santiago ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Association_football_wingers ,
+		category:Chile_international_footballers ,
+		category:Xerez_CD_players ,
+		category:Celta_de_Vigo_footballers .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana>	dc:description	"Chilean footballer" ,
+		"Chilean footballer" ;
+	foaf:givenName	"Fabian" ;
+	foaf:name	"Fabian Orellana" ,
+		"Fabi\u00E1n Orellana" ,
+		"Orellana, Fabian" ,
+		"Fabi\u00E1n Ariel Orellana Valenzuela" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Fabi\u00E1n_Orellana?oldid=606282130> ;
+	rdfs:comment	"\u30D5\u30A1\u30D3\u30A2\u30F3\u30FB\u30A2\u30EA\u30A8\u30EB\u30FB\u30AA\u30EC\u30B8\u30E3\u30FC\u30CA\u30FB\u30D0\u30EC\u30F3\u30B9\u30A8\u30FC\u30E9\uFF08Fabi\u00E1n Ariel Orellana Valenzuela, 1986\u5E741\u670827\u65E5 - \uFF09\u306F\u3001\u30C1\u30EA\u30FB\u30B5\u30F3\u30C6\u30A3\u30A2\u30B4\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30BB\u30EB\u30BF\u30FB\u30C7\u30FB\u30D3\u30FC\u30B4\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9\u3002"@ja ,
+		"Fabi\u00E1n Ariel Orellana Valenzuela (ur. 27 stycznia 1986 w Santiago) \u2013 chilijski pi\u0142karz, wyst\u0119puj\u0105cy na pozycji napastnika. Obecnie zawodnik Celty Vigo."@pl ,
+		"\u0641\u0627\u0628\u064A\u0627\u0646 \u0623\u0648\u0631\u064A\u0644\u0627\u0646\u0627 (\u0645\u0648\u0627\u0644\u064A\u062F 27 \u064A\u0646\u0627\u064A\u0631 1986 \u0641\u064A \u0633\u0627\u0646\u062A\u064A\u0627\u063A\u0648 - \u062A\u0634\u064A\u0644\u064A) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u062A\u0634\u064A\u0644\u064A\u0627\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u062E\u064A\u0631\u064A\u062B \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A \u0645\u0646\u0630 2009 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0645\u0647\u0627\u062C\u0645 \u0643\u0645\u0627 \u064A\u062C\u064A\u062F \u0627\u0644\u0644\u0639\u0628 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0648\u0633\u0637 \u0627\u0644\u0645\u0647\u0627\u062C\u0645 \u0648\u0627\u0644\u062C\u0646\u0627\u062D \u0627\u0644\u0623\u064A\u0645\u0646 \u0648\u0627\u0644\u0623\u064A\u0633\u0631 ."@ar ,
+		"Fabi\u00E1n Ariel Orellana Valenzuela (Santiago del Cile, 27 gennaio 1986) \u00E8 un calciatore cileno, attaccante del Celta Vigo."@it ,
+		"Fabi\u00E1n Orellana est un footballeur chilien n\u00E9 le 27 janvier 1986 \u00E0 Santiago au Chili.Il joue actuellement au poste d'attaquant dans le club espagnol du Celta Vigo.Il fait partie des 23 joueurs chiliens s\u00E9lectionn\u00E9s pour participer \u00E0 la coupe du monde 2010."@fr ,
+		"Fabi\u00E1n Ariel Orellana Valenzuela (Santiago, Chile, 27 de enero de 1986) es un futbolista chileno, que juega como delantero y su equipo actual es el Real Club Celta de Vigo de la Primera Divisi\u00F3n Espa\u00F1ola."@es ,
+		"\u0424\u0430\u0431\u0438\u0430\u0301\u043D \u0410\u0440\u044C\u0435\u0301\u043B\u044C \u041E\u0440\u0435\u043B\u044C\u044F\u0301\u043D\u0430 \u0412\u0430\u043B\u0435\u043D\u0441\u0443\u044D\u0301\u043B\u0430 (\u0438\u0441\u043F. Fabi\u00E1n Ariel Orellana Valenzuela; 27 \u044F\u043D\u0432\u0430\u0440\u044F 1986, \u0421\u0430\u043D\u0442\u044C\u044F\u0433\u043E) \u2014 \u0447\u0438\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439 \u00AB\u0421\u0435\u043B\u044C\u0442\u044B\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0427\u0438\u043B\u0438."@ru ,
+		"Fabi\u00E1n Ariel Orellana Valenzuela (Santiago, 27 januari 1986) is een Chileens professioneel voetballer die momenteel als middenvelder actief is voor Celta de Vigo."@nl ,
+		"Fabi\u00E1n Ariel Orellana Valenzuela (Santiago, 27 de janeiro, 1986) \u00E9 um futebolista do Chile."@pt ,
+		"Fabi\u00E1n Ariel Orellana Valenzuela (* 27. Januar 1986 in Santiago de Chile) ist ein chilenischer Fu\u00DFballspieler. Seit Januar 2013 steht der Offensivspieler beim spanischen Klub Celta Vigo unter Vertrag."@de ,
+		"Fabi\u00E1n Ariel Orellana Valenzuela (born 27 January 1986) is a Chilean professional footballer who plays for Celta de Vigo in La Liga, as a winger." ;
+	foaf:surname	"Orellana" .
+@prefix ns15:	<http://en.wikipedia.org/wiki/> .
+<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana>	foaf:isPrimaryTopicOf	ns15:Fabián_Orellana .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix ns17:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana>	dbpprop:hasPhotoCollection	ns17:Fabián_Orellana ;
+	dbpprop:name	"Fabi\u00E1n Orellana" ,
+		"Orellana, Fabian" ;
+	dbpedia-owl:abstract	"Fabi\u00E1n Ariel Orellana Valenzuela (Santiago, 27 januari 1986) is een Chileens professioneel voetballer die momenteel als middenvelder actief is voor Celta de Vigo."@nl ,
+		"\u0641\u0627\u0628\u064A\u0627\u0646 \u0623\u0648\u0631\u064A\u0644\u0627\u0646\u0627 (\u0645\u0648\u0627\u0644\u064A\u062F 27 \u064A\u0646\u0627\u064A\u0631 1986 \u0641\u064A \u0633\u0627\u0646\u062A\u064A\u0627\u063A\u0648 - \u062A\u0634\u064A\u0644\u064A) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u062A\u0634\u064A\u0644\u064A\u0627\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u062E\u064A\u0631\u064A\u062B \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A \u0645\u0646\u0630 2009 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0645\u0647\u0627\u062C\u0645 \u0643\u0645\u0627 \u064A\u062C\u064A\u062F \u0627\u0644\u0644\u0639\u0628 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0648\u0633\u0637 \u0627\u0644\u0645\u0647\u0627\u062C\u0645 \u0648\u0627\u0644\u062C\u0646\u0627\u062D \u0627\u0644\u0623\u064A\u0645\u0646 \u0648\u0627\u0644\u0623\u064A\u0633\u0631 ."@ar ,
+		"Fabi\u00E1n Ariel Orellana Valenzuela (* 27. Januar 1986 in Santiago de Chile) ist ein chilenischer Fu\u00DFballspieler. Seit Januar 2013 steht der Offensivspieler beim spanischen Klub Celta Vigo unter Vertrag."@de ,
+		"\u30D5\u30A1\u30D3\u30A2\u30F3\u30FB\u30A2\u30EA\u30A8\u30EB\u30FB\u30AA\u30EC\u30B8\u30E3\u30FC\u30CA\u30FB\u30D0\u30EC\u30F3\u30B9\u30A8\u30FC\u30E9\uFF08Fabi\u00E1n Ariel Orellana Valenzuela, 1986\u5E741\u670827\u65E5 - \uFF09\u306F\u3001\u30C1\u30EA\u30FB\u30B5\u30F3\u30C6\u30A3\u30A2\u30B4\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30BB\u30EB\u30BF\u30FB\u30C7\u30FB\u30D3\u30FC\u30B4\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9\u3002"@ja ,
+		"Fabi\u00E1n Ariel Orellana Valenzuela (Santiago del Cile, 27 gennaio 1986) \u00E8 un calciatore cileno, attaccante del Celta Vigo."@it ,
+		"Fabi\u00E1n Ariel Orellana Valenzuela (born 27 January 1986) is a Chilean professional footballer who plays for Celta de Vigo in La Liga, as a winger." ,
+		"Fabi\u00E1n Ariel Orellana Valenzuela (Santiago, 27 de janeiro, 1986) \u00E9 um futebolista do Chile."@pt ,
+		"Fabi\u00E1n Ariel Orellana Valenzuela (ur. 27 stycznia 1986 w Santiago) \u2013 chilijski pi\u0142karz, wyst\u0119puj\u0105cy na pozycji napastnika. Obecnie zawodnik Celty Vigo."@pl ,
+		"\u0424\u0430\u0431\u0438\u0430\u0301\u043D \u0410\u0440\u044C\u0435\u0301\u043B\u044C \u041E\u0440\u0435\u043B\u044C\u044F\u0301\u043D\u0430 \u0412\u0430\u043B\u0435\u043D\u0441\u0443\u044D\u0301\u043B\u0430 (\u0438\u0441\u043F. Fabi\u00E1n Ariel Orellana Valenzuela; 27 \u044F\u043D\u0432\u0430\u0440\u044F 1986, \u0421\u0430\u043D\u0442\u044C\u044F\u0433\u043E) \u2014 \u0447\u0438\u043B\u0438\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439 \u00AB\u0421\u0435\u043B\u044C\u0442\u044B\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0427\u0438\u043B\u0438."@ru ,
+		"Fabi\u00E1n Orellana est un footballeur chilien n\u00E9 le 27 janvier 1986 \u00E0 Santiago au Chili.Il joue actuellement au poste d'attaquant dans le club espagnol du Celta Vigo.Il fait partie des 23 joueurs chiliens s\u00E9lectionn\u00E9s pour participer \u00E0 la coupe du monde 2010."@fr ,
+		"Fabi\u00E1n Ariel Orellana Valenzuela (Santiago, Chile, 27 de enero de 1986) es un futbolista chileno, que juega como delantero y su equipo actual es el Real Club Celta de Vigo de la Primera Divisi\u00F3n Espa\u00F1ola."@es ;
+	dbpedia-owl:wikiPageID	13625863 ;
+	dbpedia-owl:wikiPageRevisionID	606282130 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana>	dbpprop:birthDate	"1986-01-27+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Santiago, Chile" ;
+	dbpprop:dateOfBirth	"1986-01-27+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Santiago, Chile" ;
+	dbpprop:shortDescription	"Chilean footballer" ;
+	dbpedia-owl:birthDate	"1986-01-27+02:00"^^xsd:date .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana>	dbpedia-owl:birthPlace	dbpedia:Santiago ,
+		dbpedia:Chile_national_football_team ;
+	dbpedia-owl:birthYear	"1986+02:00"^^xsd:gYear ;
+	dbpprop:goals	13 ,
+		2 ,
+		0 ,
+		7 ,
+		5 ,
+		27 ;
+	dbpprop:caps	117 ,
+		0 ,
+		26 ,
+		17 ,
+		41 ,
+		35 ,
+		37 ;
+	dbpprop:years	2013 ,
+		2010 ,
+		2011 ,
+		2009 ,
+		2004 ;
+	dbpprop:youthclubs	dbpedia:Colo-Colo ,
+		dbpedia:Audax_Italiano ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana__3> ,
+		<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana__2> ,
+		<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana__5> ,
+		<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana__7> ,
+		<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana__6> ,
+		<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana__4> ,
+		<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana__8> ,
+		<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana__1> ,
+		<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana__9> ;
+	dbpprop:position	dbpedia:Midfielder ;
+	dbpedia-owl:position	dbpedia:Midfielder ;
+	dbpedia-owl:height	1.7099999999999999645 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana>	ns21:height	"171.0"^^ns20:centimetre ;
+	dbpprop:currentclub	dbpedia:Celta_de_Vigo ;
+	dbpprop:clubnumber	14 ;
+	dbpprop:fullname	"Fabi\u00E1n Ariel Orellana Valenzuela" ;
+	dbpprop:clubs	dbpedia:Celta_de_Vigo ,
+		"\u2192 Xerez" ,
+		"\u2192 Granada" ,
+		dbpedia:Udinese_Calcio ,
+		dbpedia:Granada_CF ,
+		dbpedia:Audax_Italiano ,
+		"\u2192 Celta" ;
+	dbpedia-owl:team	dbpedia:Celta_de_Vigo ,
+		dbpedia:Xerez_CD ,
+		dbpedia:Colo-Colo ,
+		dbpedia:Udinese_Calcio ,
+		dbpedia:Audax_Italiano ,
+		dbpedia:Granada_CF ,
+		dbpedia:Chile_national_football_team .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:pcupdate	"2014-04-20+02:00"^^xsd:date ;
+	dbpprop:youthyears	2000 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.fifa.com/worldcup/archive/southafrica2010/players/player=281252/index.html> ,
+		<http://www.bdfutbol.com/en/j/j12484.html> ,
+		<http://www.transfermarkt.co.uk/en/fabian-orellana/profil/spieler_60890.html> ;
+	dbpprop:nationalcaps	24 ;
+	dbpprop:nationalgoals	2 ;
+	dbpprop:nationalteam	dbpedia:Chile_national_football_team ;
+	dbpprop:nationalyears	2007 ;
+	dbpedia-owl:number	14 ;
+	dbpprop:ntupdate	"2014-03-05+02:00"^^xsd:date .
+ns15:Fabián_Orellana	foaf:primaryTopic	<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana> .
+dbpedia:Chile_national_football_team	dbpprop:name	<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana> .
+dbpedia:Orellana	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana> .
+dbpedia:Celta_de_Vigo	dbpprop:name	<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana> .
+<http://dbpedia.org/resource/2011%E2%80%9312_Granada_CF_season>	dbpprop:name	<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana> .
+<http://dbpedia.org/resource/2009%E2%80%9310_Xerez_CD_season>	dbpprop:name	<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana> .
+dbpedia:Fabián_Orellana	owl:sameAs	<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana> .
+<http://dbpedia.org/resource/2009%E2%80%9310_Xerez_CD_season__Fabi%C3%A1n_Orellana__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana> .
+<http://dbpedia.org/resource/Fabi%C3%A1n_Ariel_Orellana_Valenzuela>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana> .
+dbpedia:Fabian_Orellana	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana> .
+<http://dbpedia.org/resource/Celta_de_Vigo__Fabi%C3%A1n_Orellana__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Fabi%C3%A1n_Orellana> .

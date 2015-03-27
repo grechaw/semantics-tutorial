@@ -1,0 +1,501 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xml:base="http://www.daml.org/2001/12/factbook/mc">
+  <rdf:Description rdf:about='#A64557'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>22.166666666666668</NS0:latitude>
+    <NS0:longitude>113.55</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64846'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64753'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125923'>
+    <NS0:note>1999</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64770'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64742'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#other_services'/>
+    <NS0:percent>52</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64651'>
+    <NS0:note>mixed Portuguese and Asian ancestry</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64737'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#manufacturing'/>
+    <NS0:percent>22</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64870'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64713'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64632'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64732'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#restaurants_and_hotels'/>
+    <NS0:percent>26</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64638'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64716'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64597'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64600'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64594'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64778'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>f.o.b., 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64763'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64682'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Chinese'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64844'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64678'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Portuguese'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64864'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>3048</NS0:minRunway>
+    <NS0:count>1 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64861'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64671'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#none_and_other'/>
+    <NS0:percent>35</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64857'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Macau</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64666'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Roman_Catholic'/>
+    <NS0:percent>15</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64839'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64849'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64661'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Buddhist'/>
+    <NS0:percent>50</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64657'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#other'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64719'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64653'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Portuguese'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64603'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64851'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64873'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64724'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64648'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Macanese'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64727'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64837'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64643'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Chinese'/>
+    <NS0:percent>95</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64828'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#consumer_goods'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64824'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#fuels'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64690'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1981</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64746'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64820'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#capital_goods'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64629'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:ratio>0.92</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64772'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64591'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>July 2001</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64816'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#foodstuffs'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64624'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>65</NS0:minAge>
+    <NS0:ratio>0.68</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64812'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#raw_materials'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64618'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>15</NS0:minAge>
+    <NS0:maxAge>64</NS0:maxAge>
+    <NS0:ratio>0.9</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64855'>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#MC'>
+    <NS0:background>Colonized by the Portuguese in the 16th century, Macau was the first European settlement in the Far East. Pursuant to an agreement signed by China and Portugal on 13 April 1987, Macau became the Macau Special Administrative Region (SAR) of China on 20 December 1999. China has promised that, under its &quot;one country, two systems&quot; formula, China&apos;s socialist economic system will not be practiced in Macau and that Macau will enjoy a high degree of autonomy in all matters except foreign and defense affairs.</NS0:background>
+    <NS0:location>Eastern Asia, bordering the South China Sea and China</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A64557'/>
+    <NS0:mapReferences>Southeast Asia</NS0:mapReferences>
+    <NS0:totalArea>21</NS0:totalArea>
+    <NS0:landArea>21</NS0:landArea>
+    <NS0:waterArea>0</NS0:waterArea>
+    <NS0:comparativeArea>about 0.1 times the size of Washington, DC</NS0:comparativeArea>
+    <NS0:landBoundaries>0.34</NS0:landBoundaries>
+    <NS0:coastline>40</NS0:coastline>
+    <NS0:climate>subtropical; marine with cool winters, warm summers</NS0:climate>
+    <NS0:terrain>generally flat</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A64571'/>
+    <NS0:highestPoint rdf:resource='#A64576'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#NEGL'/>
+    <NS0:arableLand>0</NS0:arableLand>
+    <NS0:permanentCrops>2</NS0:permanentCrops>
+    <NS0:permanentPastures>0</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>0</NS0:forestsAndWoodland>
+    <NS0:otherLandUse rdf:ID='A64586'>98</NS0:otherLandUse>
+    <NS0:naturalHazard>typhoons</NS0:naturalHazard>
+    <NS0:environmentalIssue>NA</NS0:environmentalIssue>
+    <NS0:population rdf:ID='A64591'>453733</NS0:population>
+    <NS0:populationGrowthRate rdf:ID='A64594'>1.79</NS0:populationGrowthRate>
+    <NS0:birthRate rdf:ID='A64597'>12.36</NS0:birthRate>
+    <NS0:deathRate rdf:ID='A64600'>3.71</NS0:deathRate>
+    <NS0:netMigrationRate rdf:ID='A64603'>9.25</NS0:netMigrationRate>
+    <NS0:sexRatio rdf:resource='#A64606'/>
+    <NS0:sexRatio rdf:resource='#A64612'/>
+    <NS0:sexRatio rdf:resource='#A64618'/>
+    <NS0:sexRatio rdf:resource='#A64624'/>
+    <NS0:sexRatio rdf:ID='A64632' rdf:resource='#A64629'/>
+    <NS0:infantMortalityRate rdf:ID='A64635'>4.47</NS0:infantMortalityRate>
+    <NS0:totalFertilityRate rdf:ID='A64638'>1.31</NS0:totalFertilityRate>
+    <NS0:nationalityNoun>Chinese</NS0:nationalityNoun>
+    <NS0:nationalityAdjective>Chinese</NS0:nationalityAdjective>
+    <NS0:ethnicGroup rdf:resource='#A64643'/>
+    <NS0:ethnicGroup rdf:ID='A64651' rdf:resource='#A64648'/>
+    <NS0:ethnicGroup rdf:resource='#A64653'/>
+    <NS0:ethnicGroup rdf:resource='#A64657'/>
+    <NS0:religion rdf:resource='#A64661'/>
+    <NS0:religion rdf:resource='#A64666'/>
+    <NS0:religion rdf:ID='A64675' rdf:resource='#A64671'/>
+    <NS0:language rdf:resource='#A64678'/>
+    <NS0:language rdf:ID='A64685' rdf:resource='#A64682'/>
+    <NS0:literacyDefinition>age 15 and over can read and write</NS0:literacyDefinition>
+    <NS0:literacyTotal>90</NS0:literacyTotal>
+    <NS0:literacyMale>93</NS0:literacyMale>
+    <NS0:literacyFemale rdf:ID='A64690'>86</NS0:literacyFemale>
+    <NS0:conventionalLongCountryName>Macau Special Administrative Region</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Macau</NS0:conventionalShortCountryName>
+    <NS0:localLongCountryName>Aomen Tebie Xingzhengqu (Chinese); Regiao Administrativa Especial de Macau (Portuguese)</NS0:localLongCountryName>
+    <NS0:localShortCountryName>Aomen (Chinese); Macau (Portuguese)</NS0:localShortCountryName>
+    <NS0:dependencyStatus>special administrative region of China</NS0:dependencyStatus>
+    <NS0:governmentType rdf:resource='http://www.daml.org/2001/12/factbook/governmentTypes#NA'/>
+    <NS0:independence>none (special administrative region of China)</NS0:independence>
+    <NS0:constitution>Basic Law, approved in March 1993 by China&apos;s National People&apos;s Congress, is Macau&apos;s &quot;mini-constitution&quot;</NS0:constitution>
+    <NS0:legalSystem>based on Portuguese civil law system</NS0:legalSystem>
+    <NS0:suffrage>direct election 18 years of age, universal for permanent residents living in Macau for the past seven years; indirect election limited to organizations registered as &quot;corporate voters&quot; (257 are currently registered) and a 300-member Election Committee drawn from broad regional groupings, municipal organizations, and central government bodies</NS0:suffrage>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CCC'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#ESCAP'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IMO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Interpol'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#UNESCO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WMO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WToO'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#WTrO'/>
+    <NS0:flagDescription>light green with a lotus flower above a stylized bridge and water in white, beneath an arc of five gold, five-pointed stars: one large in center of arc and four smaller</NS0:flagDescription>
+    <NS0:economyOverview>The economy is based largely on tourism (including gambling) and textile and fireworks manufacturing. Efforts to diversify have spawned other small industries - toys, artificial flowers, and electronics. The tourist sector has accounted for roughly 25% of GDP, and the clothing industry has provided about three-fourths of export earnings; the gambling industry probably represents over 40% of GDP. More than 8 million tourists visited Macau in 2000. Macau depends on China for most of its food, fresh water, and energy imports. Japan and Hong Kong are the main suppliers of raw materials and capital goods. Output dropped 5% in 1998 and 3% in 1999, with a small 2% gain in 2000. Macau reverted to Chinese administration on 20 December 1999. Gang violence, a dark spot in the economy, probably will be reduced in 2000-01 to the advantage of the tourism sector.</NS0:economyOverview>
+    <NS0:grossDomesticProduct rdf:ID='A64713'>7820000000</NS0:grossDomesticProduct>
+    <NS0:grossDomesticProductRealGrowth rdf:ID='A64716'>2</NS0:grossDomesticProductRealGrowth>
+    <NS0:grossDomesticProductPerCapita rdf:ID='A64719'>17500</NS0:grossDomesticProductPerCapita>
+    <NS0:grossDomesticProductAgriculture>1</NS0:grossDomesticProductAgriculture>
+    <NS0:grossDomesticProductIndustry>25</NS0:grossDomesticProductIndustry>
+    <NS0:grossDomesticProductServices rdf:ID='A64724'>74</NS0:grossDomesticProductServices>
+    <NS0:inflationRate rdf:ID='A64727'>-1.8</NS0:inflationRate>
+    <NS0:laborForce rdf:ID='A64730'>283450</NS0:laborForce>
+    <NS0:occupation rdf:resource='#A64732'/>
+    <NS0:occupation rdf:resource='#A64737'/>
+    <NS0:occupation rdf:ID='A64746' rdf:resource='#A64742'/>
+    <NS0:unemploymentRate rdf:ID='A64749'>6.6</NS0:unemploymentRate>
+    <NS0:budgetRevenues>1260000000</NS0:budgetRevenues>
+    <NS0:budgetExpenditures>1220000000</NS0:budgetExpenditures>
+    <NS0:budgetCapitalExpenditures rdf:ID='A64753'>175000000</NS0:budgetCapitalExpenditures>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#clothing'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#textiles'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#toys'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#electronics'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#footwear'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#tourism'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#gambling'/>
+    <NS0:electricityProduction rdf:ID='A64763'>1355000000</NS0:electricityProduction>
+    <NS0:electricityProductionFossilFuel>100</NS0:electricityProductionFossilFuel>
+    <NS0:electricityProductionHydro>0</NS0:electricityProductionHydro>
+    <NS0:electricityProductionNuclear>0</NS0:electricityProductionNuclear>
+    <NS0:electricityProductionOther rdf:ID='A64768'>0</NS0:electricityProductionOther>
+    <NS0:electricityConsumption rdf:ID='A64770'>1422000000</NS0:electricityConsumption>
+    <NS0:electricityExports rdf:ID='A64772'>3000000</NS0:electricityExports>
+    <NS0:electricityImports rdf:ID='A64774'>165000000</NS0:electricityImports>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#rice'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#vegetables'/>
+    <NS0:exports rdf:ID='A64778'>2600000000</NS0:exports>
+    <NS0:exportsCommodity rdf:resource='#A64781'/>
+    <NS0:exportsCommodity rdf:resource='#A64785'/>
+    <NS0:exportsCommodity rdf:resource='#A64789'/>
+    <NS0:exportsCommodity rdf:resource='#A64793'/>
+    <NS0:exportsCommodity rdf:resource='#A64797'/>
+    <NS0:exportsCommodity rdf:resource='#A64801'/>
+    <NS0:exportsCommodity rdf:resource='#A64805'/>
+    <NS0:imports rdf:ID='A64809'>2400000000</NS0:imports>
+    <NS0:importsCommodity rdf:resource='#A64812'/>
+    <NS0:importsCommodity rdf:resource='#A64816'/>
+    <NS0:importsCommodity rdf:resource='#A64820'/>
+    <NS0:importsCommodity rdf:resource='#A64824'/>
+    <NS0:importsCommodity rdf:resource='#A64828'/>
+    <NS0:externalDebt rdf:ID='A64832'>1700000000</NS0:externalDebt>
+    <NS0:currency>pataca (MOP)</NS0:currency>
+    <NS0:currencyCode>MOP</NS0:currencyCode>
+    <NS0:fiscalYear>calendar year</NS0:fiscalYear>
+    <NS0:mainTelephoneLines rdf:ID='A64837'>176837</NS0:mainTelephoneLines>
+    <NS0:mobileTelephoneLines rdf:ID='A64839'>120957</NS0:mobileTelephoneLines>
+    <NS0:telephoneSystemGeneralAssessment>fairly modern communication facilities maintained for domestic and international services</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>NA</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>HF radiotelephone communication facility; access to international communications carriers provided via Hong Kong and China; satellite earth station - 1 Intelsat (Indian Ocean)</NS0:telephoneSystemInternational>
+    <NS0:radios rdf:ID='A64844'>160000</NS0:radios>
+    <NS0:televisions rdf:ID='A64846'>49000</NS0:televisions>
+    <NS0:internetCountryCode>.mo</NS0:internetCountryCode>
+    <NS0:internetServiceProviders rdf:ID='A64849'>1</NS0:internetServiceProviders>
+    <NS0:internetUsers rdf:ID='A64851'>40000</NS0:internetUsers>
+    <NS0:highwaysTotal>50</NS0:highwaysTotal>
+    <NS0:highwaysPaved>50</NS0:highwaysPaved>
+    <NS0:highwaysUnpaved rdf:ID='A64855'>0</NS0:highwaysUnpaved>
+    <NS0:port rdf:resource='#A64857'/>
+    <NS0:airports rdf:ID='A64861'>1</NS0:airports>
+    <NS0:airportBreakdown rdf:resource='#A64864'/>
+    <NS0:malesOfMilitaryAge rdf:ID='A64870'>125737</NS0:malesOfMilitaryAge>
+    <NS0:malesFitForMilitaryService rdf:ID='A64873'>69191</NS0:malesFitForMilitaryService>
+    <NS0:internationalDispute>none</NS0:internationalDispute>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/mc-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/mc-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/mc-map.jpg</NS0:map>
+    <NS0:border rdf:resource='#A125883'/>
+    <NS0:exportPartner rdf:resource='#A125888'/>
+    <NS0:exportPartner rdf:resource='#A125893'/>
+    <NS0:exportPartner rdf:ID='A125902' rdf:resource='#A125898'/>
+    <NS0:importPartner rdf:resource='#A125904'/>
+    <NS0:importPartner rdf:resource='#A125909'/>
+    <NS0:importPartner rdf:resource='#A125914'/>
+    <NS0:importPartner rdf:ID='A125923' rdf:resource='#A125919'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64805'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#machinery'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64612'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>14</NS0:maxAge>
+    <NS0:ratio>1.07</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64801'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#footwear'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64586'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1998</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125919'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#JA'/>
+    <NS0:percent>7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64606'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>0</NS0:maxAge>
+    <NS0:ratio>1.05</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64797'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#cement'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64675'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125914'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#TW'/>
+    <NS0:percent>10</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64793'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#electronics'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125909'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#HK'/>
+    <NS0:percent>18</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64774'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64789'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#toys'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64749'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64809'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>c.i.f., 2000</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64785'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#clothing'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125904'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#CH'/>
+    <NS0:percent>36</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64781'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#textiles'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125898'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#HK'/>
+    <NS0:percent>6.7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64730'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64832'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125893'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#CH'/>
+    <NS0:percent>9.2</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125888'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#US'/>
+    <NS0:percent>47</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64576'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Coloane Alto</NS0:name>
+    <NS0:elevation>174</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125883'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Border'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#CH'/>
+    <NS0:distance>0.34</NS0:distance>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64635'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64571'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>South China Sea</NS0:name>
+    <NS0:elevation>0</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A125902'>
+    <NS0:note>1999</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64768'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A64685'>
+    <NS0:note>Cantonese</NS0:note>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xml:base="http://www.daml.org/2001/12/factbook/ck">
+  <rdf:Description rdf:about='#A21947'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>1524</NS0:minRunway>
+    <NS0:maxRunway>2437</NS0:maxRunway>
+    <NS0:count>1 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21899'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#the_Cocos_Islands_Cooperative_Society_Ltd._employs_construction_workers'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21937'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21843'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>July 2001</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21851'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Europeans'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21944'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21940'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>none; lagoon anchorage only</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21846'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21838'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21934'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21888'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CapitalCity'/>
+    <NS0:name>West Island</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#CK'>
+    <NS0:background>The islands were discovered in 1609, but remained uninhabited until the 19th century. Annexed by the UK in 1857, they were transferred to the Australian Government in 1955. The population on the two inhabited islands is split between the mostly Europeans on West Island and the Malays on Home Island.</NS0:background>
+    <NS0:location>Southeastern Asia, group of islands in the Indian Ocean, south of Indonesia, about one-half of the way from Australia to Sri Lanka</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A21808'/>
+    <NS0:mapReferences>Southeast Asia</NS0:mapReferences>
+    <NS0:totalArea>14</NS0:totalArea>
+    <NS0:landArea>14</NS0:landArea>
+    <NS0:waterArea>0</NS0:waterArea>
+    <NS0:comparativeArea>about 24 times the size of The Mall in Washington, DC</NS0:comparativeArea>
+    <NS0:coastline>2.6</NS0:coastline>
+    <NS0:exclusiveFishingZone>200</NS0:exclusiveFishingZone>
+    <NS0:territorialSea>3</NS0:territorialSea>
+    <NS0:climate>pleasant, modified by the southeast trade winds for about nine months of the year; moderate rainfall</NS0:climate>
+    <NS0:terrain>flat, low-lying coral atolls</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A21823'/>
+    <NS0:highestPoint rdf:resource='#A21828'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#fish'/>
+    <NS0:arableLand>0</NS0:arableLand>
+    <NS0:permanentCrops>0</NS0:permanentCrops>
+    <NS0:permanentPastures>0</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>0</NS0:forestsAndWoodland>
+    <NS0:otherLandUse rdf:ID='A21838'>100</NS0:otherLandUse>
+    <NS0:naturalHazard>cyclones may occur in the early months of the year</NS0:naturalHazard>
+    <NS0:environmentalIssue>fresh water resources are limited to rainwater accumulations in natural underground reservoirs</NS0:environmentalIssue>
+    <NS0:population rdf:ID='A21843'>633</NS0:population>
+    <NS0:populationGrowthRate rdf:ID='A21846'>-0.21</NS0:populationGrowthRate>
+    <NS0:nationalityNoun>Cocos Islander(s)</NS0:nationalityNoun>
+    <NS0:nationalityAdjective>Cocos Islander</NS0:nationalityAdjective>
+    <NS0:ethnicGroup rdf:resource='#A21851'/>
+    <NS0:ethnicGroup rdf:resource='#A21855'/>
+    <NS0:religion rdf:resource='#A21859'/>
+    <NS0:religion rdf:resource='#A21864'/>
+    <NS0:religion rdf:ID='A21873' rdf:resource='#A21869'/>
+    <NS0:language rdf:resource='#A21876'/>
+    <NS0:language rdf:resource='#A21880'/>
+    <NS0:conventionalLongCountryName>Territory of Cocos (Keeling) Islands</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Cocos (Keeling) Islands</NS0:conventionalShortCountryName>
+    <NS0:dependencyStatus>territory of Australia; administered from Canberra by the Australian Department of the Environment, Sport, and Territories</NS0:dependencyStatus>
+    <NS0:governmentType rdf:resource='http://www.daml.org/2001/12/factbook/governmentTypes#NA'/>
+    <NS0:capital rdf:resource='#A21888'/>
+    <NS0:independence>none (territory of Australia)</NS0:independence>
+    <NS0:constitution>Cocos (Keeling) Islands Act of 1955</NS0:constitution>
+    <NS0:legalSystem>based upon the laws of Australia and local laws</NS0:legalSystem>
+    <NS0:suffrage>NA</NS0:suffrage>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#none'/>
+    <NS0:flagDescription>the flag of Australia is used</NS0:flagDescription>
+    <NS0:economyOverview>Grown throughout the islands, coconuts are the sole cash crop. Copra and fresh coconuts are the major export earners. Small local gardens and fishing contribute to the food supply, but additional food and most other necessities must be imported from Australia.</NS0:economyOverview>
+    <NS0:occupation rdf:resource='#A21899'/>
+    <NS0:occupation rdf:resource='#A21903'/>
+    <NS0:occupation rdf:resource='#A21907'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#copra_products_and_tourism'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#vegetables'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#bananas'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#pawpaws'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#coconuts'/>
+    <NS0:exportsCommodity rdf:resource='#A21916'/>
+    <NS0:importsCommodity rdf:resource='#A21920'/>
+    <NS0:currency>Australian dollar (AUD)</NS0:currency>
+    <NS0:currencyCode>AUD</NS0:currencyCode>
+    <NS0:fiscalYear>1 July - 30 June</NS0:fiscalYear>
+    <NS0:mobileTelephoneLines rdf:ID='A21927'>0</NS0:mobileTelephoneLines>
+    <NS0:telephoneSystemGeneralAssessment>NA</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>NA</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>telephone, telex, and facsimile communications with Australia and elsewhere via satellite; 1 satellite earth station of NA type</NS0:telephoneSystemInternational>
+    <NS0:radios rdf:ID='A21932'>300</NS0:radios>
+    <NS0:televisionBroadcastStations rdf:ID='A21934'>0</NS0:televisionBroadcastStations>
+    <NS0:internetCountryCode>.cc</NS0:internetCountryCode>
+    <NS0:internetServiceProviders rdf:ID='A21937'>2</NS0:internetServiceProviders>
+    <NS0:highwaysTotal>15</NS0:highwaysTotal>
+    <NS0:port rdf:resource='#A21940'/>
+    <NS0:airports rdf:ID='A21944'>1</NS0:airports>
+    <NS0:airportBreakdown rdf:resource='#A21947'/>
+    <NS0:internationalDispute>none</NS0:internationalDispute>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/ck-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/ck-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/ck-map.jpg</NS0:map>
+    <NS0:exportPartner rdf:resource='#A121827'/>
+    <NS0:importPartner rdf:resource='#A121831'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21927'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21880'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Malay'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21873'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1981</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21876'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#English'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21828'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>unnamed location</NS0:name>
+    <NS0:elevation>5</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21920'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#foodstuffs'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21932'>
+    <NS0:year>1992</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21823'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Indian Ocean</NS0:name>
+    <NS0:elevation>0</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21869'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#other'/>
+    <NS0:percent>21</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21916'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#copra'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21864'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Christian'/>
+    <NS0:percent>22</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A121831'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#AS'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21907'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#lighterage_workers;_tourism_employs_others'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21859'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Sunni_Muslim'/>
+    <NS0:percent>57</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A121827'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#AS'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21903'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#stevedores'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21808'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>-12.5</NS0:latitude>
+    <NS0:longitude>96.83333333333333</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A21855'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Cocos_Malays'/>
+  </rdf:Description>
+</rdf:RDF>

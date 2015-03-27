@@ -1,0 +1,312 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xml:base="http://www.daml.org/2001/12/factbook/wf">
+  <rdf:Description rdf:about='#A116183'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#French'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116277'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#passenger_ships'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116290'>
+    <NS0:year>1994</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116304'>
+    <NS0:note>Ile Uvea 84 km, Ile Futuna 20 km</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116178'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Roman_Catholic'/>
+    <NS0:percent>100</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116273'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#machinery'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116174'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#Polynesian'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116269'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#chemicals'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#WF'>
+    <NS0:background>Although discovered by the Dutch and the British in the 17th and 18th centuries, it was the French who declared a protectorate over the islands in 1842. In 1959, the inhabitants of the islands voted to become a French overseas territory.</NS0:background>
+    <NS0:location>Oceania, islands in the South Pacific Ocean, about two-thirds of the way from Hawaii to New Zealand</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A116132'/>
+    <NS0:mapReferences>Oceania</NS0:mapReferences>
+    <NS0:totalArea>274</NS0:totalArea>
+    <NS0:landArea>274</NS0:landArea>
+    <NS0:waterArea>0</NS0:waterArea>
+    <NS0:comparativeArea>1.5 times the size of Washington, DC</NS0:comparativeArea>
+    <NS0:coastline>129</NS0:coastline>
+    <NS0:exclusiveEconomicZone>200</NS0:exclusiveEconomicZone>
+    <NS0:territorialSea>12</NS0:territorialSea>
+    <NS0:climate>tropical; hot, rainy season (November to April); cool, dry season (May to October); rains 2,500-3,000 mm per year (80% humidity); average temperature 26.6 degrees C</NS0:climate>
+    <NS0:terrain>volcanic origin; low hills</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A116147'/>
+    <NS0:highestPoint rdf:resource='#A116152'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#NEGL'/>
+    <NS0:arableLand>5</NS0:arableLand>
+    <NS0:permanentCrops>20</NS0:permanentCrops>
+    <NS0:permanentPastures>0</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>0</NS0:forestsAndWoodland>
+    <NS0:otherLandUse rdf:ID='A116162'>75</NS0:otherLandUse>
+    <NS0:naturalHazard>NA</NS0:naturalHazard>
+    <NS0:environmentalIssue>deforestation largely as a result of the continued use of wood as the main fuel source</NS0:environmentalIssue>
+    <NS0:environmentalIssue>as a consequence of cutting down the forests, the mountainous terrain of Futuna is particularly prone to erosion</NS0:environmentalIssue>
+    <NS0:environmentalIssue>there are no permanent settlements on Alofi because of the lack of natural fresh water resources</NS0:environmentalIssue>
+    <NS0:population rdf:ID='A116169'>15435</NS0:population>
+    <NS0:nationalityNoun>Wallisian(s), Futunan(s), or Wallis and Futuna Islanders</NS0:nationalityNoun>
+    <NS0:nationalityAdjective>Wallisian, Futunan, or Wallis and Futuna Islander</NS0:nationalityAdjective>
+    <NS0:ethnicGroup rdf:resource='#A116174'/>
+    <NS0:religion rdf:resource='#A116178'/>
+    <NS0:language rdf:resource='#A116183'/>
+    <NS0:language rdf:ID='A116190' rdf:resource='#A116187'/>
+    <NS0:literacyDefinition>age 15 and over can read and write</NS0:literacyDefinition>
+    <NS0:literacyTotal>50</NS0:literacyTotal>
+    <NS0:literacyMale>50</NS0:literacyMale>
+    <NS0:literacyFemale rdf:ID='A116195'>50</NS0:literacyFemale>
+    <NS0:conventionalLongCountryName>Territory of the Wallis and Futuna Islands</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Wallis and Futuna</NS0:conventionalShortCountryName>
+    <NS0:localLongCountryName>Territoire des Iles Wallis et Futuna</NS0:localLongCountryName>
+    <NS0:localShortCountryName>Wallis et Futuna</NS0:localShortCountryName>
+    <NS0:dependencyStatus>overseas territory of France</NS0:dependencyStatus>
+    <NS0:governmentType rdf:resource='http://www.daml.org/2001/12/factbook/governmentTypes#NA'/>
+    <NS0:capital rdf:resource='#A116204'/>
+    <NS0:independence>none (overseas territory of France)</NS0:independence>
+    <NS0:constitution>28 September 1958 (French Constitution)</NS0:constitution>
+    <NS0:legalSystem>French legal system</NS0:legalSystem>
+    <NS0:suffrage>18 years of age; universal</NS0:suffrage>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#FZ'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#SPC'/>
+    <NS0:flagDescription>a large white modified Maltese cross centered on a red background; the flag of France outlined in white on two sides is in the upper hoist quadrant; the flag of France is used for official occasions</NS0:flagDescription>
+    <NS0:economyOverview>The economy is limited to traditional subsistence agriculture, with about 80% of the labor force earning its livelihood from agriculture (coconuts and vegetables), livestock (mostly pigs), and fishing. About 4% of the population is employed in government. Revenues come from French Government subsidies, licensing of fishing rights to Japan and South Korea, import taxes, and remittances from expatriate workers in New Caledonia.</NS0:economyOverview>
+    <NS0:grossDomesticProduct rdf:ID='A116216'>30000000</NS0:grossDomesticProduct>
+    <NS0:grossDomesticProductPerCapita rdf:ID='A116219'>2000</NS0:grossDomesticProductPerCapita>
+    <NS0:occupation rdf:resource='#A116222'/>
+    <NS0:occupation rdf:resource='#A116226'/>
+    <NS0:occupation rdf:resource='#A116230'/>
+    <NS0:occupation rdf:ID='A116239' rdf:resource='#A116235'/>
+    <NS0:budgetRevenues>20000000</NS0:budgetRevenues>
+    <NS0:budgetExpenditures>17000000</NS0:budgetExpenditures>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#copra'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#handicrafts'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#fishing'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#lumber'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#breadfruit'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#yams'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#taro'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#bananas'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#pigs'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#goats'/>
+    <NS0:exports rdf:ID='A116253'>250000</NS0:exports>
+    <NS0:exportsCommodity rdf:resource='#A116255'/>
+    <NS0:exportsCommodity rdf:resource='#A116259'/>
+    <NS0:exportsCommodity rdf:resource='#A116263'/>
+    <NS0:imports rdf:ID='A116267'>300000</NS0:imports>
+    <NS0:importsCommodity rdf:resource='#A116269'/>
+    <NS0:importsCommodity rdf:resource='#A116273'/>
+    <NS0:importsCommodity rdf:resource='#A116277'/>
+    <NS0:importsCommodity rdf:resource='#A116281'/>
+    <NS0:currency>Comptoirs Francais du Pacifique franc (XPF)</NS0:currency>
+    <NS0:currencyCode>XPF</NS0:currencyCode>
+    <NS0:fiscalYear>calendar year</NS0:fiscalYear>
+    <NS0:mainTelephoneLines rdf:ID='A116288'>1125</NS0:mainTelephoneLines>
+    <NS0:mobileTelephoneLines rdf:ID='A116290'>0</NS0:mobileTelephoneLines>
+    <NS0:telephoneSystemGeneralAssessment>NA</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>NA</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>NA</NS0:telephoneSystemInternational>
+    <NS0:televisionBroadcastStations rdf:ID='A116295'>2</NS0:televisionBroadcastStations>
+    <NS0:internetCountryCode>.wf</NS0:internetCountryCode>
+    <NS0:internetServiceProviders rdf:ID='A116298'>1</NS0:internetServiceProviders>
+    <NS0:highwaysTotal rdf:ID='A116300'>120</NS0:highwaysTotal>
+    <NS0:highwaysPaved rdf:ID='A116302'>16</NS0:highwaysPaved>
+    <NS0:highwaysUnpaved rdf:ID='A116304'>104</NS0:highwaysUnpaved>
+    <NS0:port rdf:resource='#A116306'/>
+    <NS0:port rdf:resource='#A116310'/>
+    <NS0:airports rdf:ID='A116314'>2</NS0:airports>
+    <NS0:airportBreakdown rdf:resource='#A116317'/>
+    <NS0:airportBreakdown rdf:resource='#A116324'/>
+    <NS0:internationalDispute>none</NS0:internationalDispute>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/wf-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/wf-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/wf-map.jpg</NS0:map>
+    <NS0:exportPartner rdf:resource='#A131582'/>
+    <NS0:exportPartner rdf:resource='#A131587'/>
+    <NS0:exportPartner rdf:resource='#A131592'/>
+    <NS0:exportPartner rdf:resource='#A131597'/>
+    <NS0:importPartner rdf:resource='#A131602'/>
+    <NS0:importPartner rdf:resource='#A131607'/>
+    <NS0:importPartner rdf:resource='#A131612'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116195'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1969</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116263'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#construction_materials'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116295'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116259'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#chemicals'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116300'>
+    <NS0:note>Ile Uvea 100 km, Ile Futuna 20 km</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116255'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#copra'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116152'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Mont Singavi</NS0:name>
+    <NS0:elevation>765</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116298'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116216'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116147'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Pacific Ocean</NS0:name>
+    <NS0:elevation>0</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116162'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116219'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116190'>
+    <NS0:note>indigenous Polynesian language</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116235'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#government'/>
+    <NS0:percent>4</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116230'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#fishing'/>
+    <NS0:percent>80</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116324'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>914</NS0:minRunway>
+    <NS0:maxRunway>1523</NS0:maxRunway>
+    <NS0:count>1 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116132'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>-13.3</NS0:latitude>
+    <NS0:longitude>-176.2</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116226'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#livestock'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A131612'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#NZ'/>
+    <NS0:percent>1</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116222'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#agriculture'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116317'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>1524</NS0:minRunway>
+    <NS0:maxRunway>2437</NS0:maxRunway>
+    <NS0:count>1 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116302'>
+    <NS0:note>all on Ile Uvea</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A131607'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#AS'/>
+    <NS0:percent>2</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116310'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Mata-Utu</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116239'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116169'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>July 2001</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A131602'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#FR'/>
+    <NS0:percent>97</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116306'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Leava</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116267'>
+    <NS0:note>f.o.b., 1999</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A131597'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#DA'/>
+    <NS0:percent>13</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116204'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CapitalCity'/>
+    <NS0:name>Mata-Utu (on Ile Uvea)</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116253'>
+    <NS0:note>f.o.b., 1999</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A131592'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#US'/>
+    <NS0:percent>14</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A131587'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#HR'/>
+    <NS0:percent>15</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A131582'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#IT'/>
+    <NS0:percent>40</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116288'>
+    <NS0:year>1994</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116314'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116187'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#Wallisian'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A116281'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#consumer_goods'/>
+  </rdf:Description>
+</rdf:RDF>

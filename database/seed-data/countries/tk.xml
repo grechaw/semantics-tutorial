@@ -1,0 +1,428 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:NS0='http://www.daml.org/2001/12/factbook/factbook-ont#'
+  xml:base="http://www.daml.org/2001/12/factbook/tk">
+  <rdf:Description rdf:about='#A102694'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#dried_and_fresh_conch'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102504'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Caribbean Sea</NS0:name>
+    <NS0:elevation>0</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102566'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102596'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Seventh-Day_Adventist'/>
+    <NS0:percent>1.7</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102690'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#lobster'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='http://www.daml.org/2001/09/countries/fips#TK'>
+    <NS0:background>The islands were part of the UK&apos;s Jamaican colony until 1962, when they assumed the status of a separate crown colony upon Jamaica&apos;s independence. The governor of The Bahamas oversaw affairs from 1965 to 1973. With Bahamian independence, the islands received a separate governor in 1973. Although independence was agreed upon for 1982, the policy was reversed and the islands are presently a British overseas territory.</NS0:background>
+    <NS0:location>Caribbean, two island groups in the North Atlantic Ocean, southeast of The Bahamas</NS0:location>
+    <NS0:geographicCoordinates rdf:resource='#A102489'/>
+    <NS0:mapReferences>Central America and the Caribbean</NS0:mapReferences>
+    <NS0:totalArea>430</NS0:totalArea>
+    <NS0:landArea>430</NS0:landArea>
+    <NS0:waterArea>0</NS0:waterArea>
+    <NS0:comparativeArea>2.5 times the size of Washington, DC</NS0:comparativeArea>
+    <NS0:coastline>389</NS0:coastline>
+    <NS0:exclusiveFishingZone>200</NS0:exclusiveFishingZone>
+    <NS0:territorialSea>12</NS0:territorialSea>
+    <NS0:climate>tropical; marine; moderated by trade winds; sunny and relatively dry</NS0:climate>
+    <NS0:terrain>low, flat limestone; extensive marshes and mangrove swamps</NS0:terrain>
+    <NS0:lowestPoint rdf:resource='#A102504'/>
+    <NS0:highestPoint rdf:resource='#A102509'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#spiny_lobster'/>
+    <NS0:naturalResource rdf:resource='http://www.daml.org/2001/12/factbook/naturalResources#conch'/>
+    <NS0:arableLand>2</NS0:arableLand>
+    <NS0:permanentCrops>0</NS0:permanentCrops>
+    <NS0:permanentPastures>0</NS0:permanentPastures>
+    <NS0:forestsAndWoodland>0</NS0:forestsAndWoodland>
+    <NS0:otherLandUse rdf:ID='A102520'>98</NS0:otherLandUse>
+    <NS0:naturalHazard>frequent hurricanes</NS0:naturalHazard>
+    <NS0:environmentalIssue>limited natural fresh water resources, private cisterns collect rainwater</NS0:environmentalIssue>
+    <NS0:population rdf:ID='A102525'>18122</NS0:population>
+    <NS0:populationGrowthRate rdf:ID='A102528'>3.41</NS0:populationGrowthRate>
+    <NS0:birthRate rdf:ID='A102531'>24.89</NS0:birthRate>
+    <NS0:deathRate rdf:ID='A102534'>4.47</NS0:deathRate>
+    <NS0:netMigrationRate rdf:ID='A102537'>13.69</NS0:netMigrationRate>
+    <NS0:sexRatio rdf:resource='#A102540'/>
+    <NS0:sexRatio rdf:resource='#A102546'/>
+    <NS0:sexRatio rdf:resource='#A102552'/>
+    <NS0:sexRatio rdf:resource='#A102558'/>
+    <NS0:sexRatio rdf:ID='A102566' rdf:resource='#A102563'/>
+    <NS0:infantMortalityRate rdf:ID='A102569'>18.06</NS0:infantMortalityRate>
+    <NS0:totalFertilityRate rdf:ID='A102572'>3.22</NS0:totalFertilityRate>
+    <NS0:nationalityNoun>none</NS0:nationalityNoun>
+    <NS0:nationalityAdjective>none</NS0:nationalityAdjective>
+    <NS0:ethnicGroup rdf:resource='#A102577'/>
+    <NS0:religion rdf:resource='#A102581'/>
+    <NS0:religion rdf:resource='#A102586'/>
+    <NS0:religion rdf:resource='#A102591'/>
+    <NS0:religion rdf:resource='#A102596'/>
+    <NS0:religion rdf:ID='A102605' rdf:resource='#A102601'/>
+    <NS0:language rdf:ID='A102610' rdf:resource='#A102607'/>
+    <NS0:literacyDefinition>age 15 and over has ever attended school</NS0:literacyDefinition>
+    <NS0:literacyTotal>98</NS0:literacyTotal>
+    <NS0:literacyMale>99</NS0:literacyMale>
+    <NS0:literacyFemale rdf:ID='A102615'>98</NS0:literacyFemale>
+    <NS0:conventionalLongCountryName>none</NS0:conventionalLongCountryName>
+    <NS0:conventionalShortCountryName>Turks and Caicos Islands</NS0:conventionalShortCountryName>
+    <NS0:dependencyStatus>overseas territory of the UK</NS0:dependencyStatus>
+    <NS0:governmentType rdf:resource='http://www.daml.org/2001/12/factbook/governmentTypes#NA'/>
+    <NS0:capital rdf:resource='#A102622'/>
+    <NS0:independence>none (overseas territory of the UK)</NS0:independence>
+    <NS0:constitution>introduced 30 August 1976; suspended in 1986; restored and revised 5 March 1988</NS0:constitution>
+    <NS0:legalSystem>based on laws of England and Wales, with a small number adopted from Jamaica and The Bahamas</NS0:legalSystem>
+    <NS0:suffrage>18 years of age; universal</NS0:suffrage>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Caricom'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#CDB'/>
+    <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#Interpol'/>
+    <NS0:flagDescription>blue, with the flag of the UK in the upper hoist-side quadrant and the colonial shield centered on the outer half of the flag; the shield is yellow and contains a conch shell, lobster, and cactus</NS0:flagDescription>
+    <NS0:economyOverview>The Turks and Caicos economy is based on tourism, fishing, and offshore financial services. Most capital goods and food for domestic consumption are imported. The US was the leading source of tourists in 1996, accounting for more than half of the 87,000 visitors; tourist arrivals had risen to 93,000 by 1998. Major sources of government revenue include fees from offshore financial activities and customs receipts.</NS0:economyOverview>
+    <NS0:grossDomesticProduct rdf:ID='A102635'>128000000</NS0:grossDomesticProduct>
+    <NS0:grossDomesticProductRealGrowth rdf:ID='A102638'>8.7</NS0:grossDomesticProductRealGrowth>
+    <NS0:grossDomesticProductPerCapita rdf:ID='A102641'>7300</NS0:grossDomesticProductPerCapita>
+    <NS0:inflationRate rdf:ID='A102644'>4</NS0:inflationRate>
+    <NS0:laborForce rdf:ID='A102646'>4848</NS0:laborForce>
+    <NS0:occupation rdf:resource='#A102649'/>
+    <NS0:occupation rdf:resource='#A102653'/>
+    <NS0:occupation rdf:ID='A102660' rdf:resource='#A102657'/>
+    <NS0:unemploymentRate rdf:ID='A102663'>10</NS0:unemploymentRate>
+    <NS0:budgetRevenues>47000000</NS0:budgetRevenues>
+    <NS0:budgetExpenditures>33600000</NS0:budgetExpenditures>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#tourism'/>
+    <NS0:industry rdf:resource='http://www.daml.org/2001/12/factbook/industries#offshore_financial_services'/>
+    <NS0:electricityProduction rdf:ID='A102670'>5000000</NS0:electricityProduction>
+    <NS0:electricityProductionFossilFuel>100</NS0:electricityProductionFossilFuel>
+    <NS0:electricityProductionHydro>0</NS0:electricityProductionHydro>
+    <NS0:electricityProductionNuclear>0</NS0:electricityProductionNuclear>
+    <NS0:electricityProductionOther rdf:ID='A102675'>0</NS0:electricityProductionOther>
+    <NS0:electricityConsumption rdf:ID='A102677'>4600000</NS0:electricityConsumption>
+    <NS0:electricityExports rdf:ID='A102679'>0</NS0:electricityExports>
+    <NS0:electricityImports rdf:ID='A102681'>0</NS0:electricityImports>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#corn'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#beans'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#cassava'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#citrus_fruits'/>
+    <NS0:agricultureProduct rdf:resource='http://www.daml.org/2001/12/factbook/agricultureProducts#fish'/>
+    <NS0:exports rdf:ID='A102688'>4700000</NS0:exports>
+    <NS0:exportsCommodity rdf:resource='#A102690'/>
+    <NS0:exportsCommodity rdf:resource='#A102694'/>
+    <NS0:exportsCommodity rdf:resource='#A102698'/>
+    <NS0:imports rdf:ID='A102702'>46600000</NS0:imports>
+    <NS0:importsCommodity rdf:resource='#A102704'/>
+    <NS0:importsCommodity rdf:resource='#A102708'/>
+    <NS0:importsCommodity rdf:resource='#A102712'/>
+    <NS0:importsCommodity rdf:resource='#A102716'/>
+    <NS0:importsCommodity rdf:resource='#A102720'/>
+    <NS0:economicAidRecipient rdf:ID='A102724'>4099999</NS0:economicAidRecipient>
+    <NS0:currency>US dollar (USD)</NS0:currency>
+    <NS0:currencyCode>USD</NS0:currencyCode>
+    <NS0:fiscalYear>calendar year</NS0:fiscalYear>
+    <NS0:mainTelephoneLines rdf:ID='A102729'>3000</NS0:mainTelephoneLines>
+    <NS0:mobileTelephoneLines rdf:ID='A102731'>0</NS0:mobileTelephoneLines>
+    <NS0:telephoneSystemGeneralAssessment>fair cable and radiotelephone services</NS0:telephoneSystemGeneralAssessment>
+    <NS0:telephoneSystemDomestic>NA</NS0:telephoneSystemDomestic>
+    <NS0:telephoneSystemInternational>2 submarine cables; satellite earth station - 1 Intelsat (Atlantic Ocean)</NS0:telephoneSystemInternational>
+    <NS0:radios rdf:ID='A102736'>8000</NS0:radios>
+    <NS0:internetCountryCode>.tc</NS0:internetCountryCode>
+    <NS0:internetServiceProviders rdf:ID='A102739'>14</NS0:internetServiceProviders>
+    <NS0:highwaysTotal>121</NS0:highwaysTotal>
+    <NS0:highwaysPaved>24</NS0:highwaysPaved>
+    <NS0:highwaysUnpaved rdf:ID='A102743'>97</NS0:highwaysUnpaved>
+    <NS0:port rdf:resource='#A102745'/>
+    <NS0:port rdf:resource='#A102749'/>
+    <NS0:airports rdf:ID='A102753'>8</NS0:airports>
+    <NS0:airportBreakdown rdf:resource='#A102756'/>
+    <NS0:airportBreakdown rdf:resource='#A102763'/>
+    <NS0:airportBreakdown rdf:resource='#A102770'/>
+    <NS0:airportBreakdown rdf:resource='#A102777'/>
+    <NS0:internationalDispute>none</NS0:internationalDispute>
+    <NS0:illicitDrugs>transshipment point for South American narcotics destined for the US and Europe</NS0:illicitDrugs>
+    <NS0:smallFlag>http://www.cia.gov/cia/publications/factbook/flags/tk-flag.jpg</NS0:smallFlag>
+    <NS0:largeFlag>http://www.cia.gov/cia/publications/factbook/flags/tk-lgflag.jpg</NS0:largeFlag>
+    <NS0:map>http://www.cia.gov/cia/publications/factbook/maps/tk-map.jpg</NS0:map>
+    <NS0:exportPartner rdf:resource='#A130653'/>
+    <NS0:exportPartner rdf:resource='#A130657'/>
+    <NS0:importPartner rdf:resource='#A130661'/>
+    <NS0:importPartner rdf:resource='#A130665'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102591'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Anglican'/>
+    <NS0:percent>18.3</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102641'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102531'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102572'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102777'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:maxRunway>913</NS0:maxRunway>
+    <NS0:count>2 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102586'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Methodist'/>
+    <NS0:percent>18.9</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102489'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LatLon'/>
+    <NS0:latitude>21.75</NS0:latitude>
+    <NS0:longitude>-71.58333333333333</NS0:longitude>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102743'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102731'>
+    <NS0:year>1994</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102644'>
+    <NS0:year>1995</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102581'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#Baptist'/>
+    <NS0:percent>41.2</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102770'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>false</NS0:paved>
+    <NS0:minRunway>914</NS0:minRunway>
+    <NS0:maxRunway>1523</NS0:maxRunway>
+    <NS0:count>2</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102688'>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102577'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#EthnicGroupPercent'/>
+    <NS0:ethnicGroup rdf:resource='http://www.daml.org/2001/12/factbook/ethnicGroups#black'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102739'>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102663'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102670'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102675'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102610'>
+    <NS0:note>official</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102763'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>914</NS0:minRunway>
+    <NS0:maxRunway>1523</NS0:maxRunway>
+    <NS0:count>1 (2000 est.)</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102569'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102660'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102756'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#AirportBreakdown'/>
+    <NS0:paved>true</NS0:paved>
+    <NS0:minRunway>1524</NS0:minRunway>
+    <NS0:maxRunway>2437</NS0:maxRunway>
+    <NS0:count>3</NS0:count>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102525'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:note>July 2001</NS0:note>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102563'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:ratio>1.07</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102729'>
+    <NS0:year>1994</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102657'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#other_services'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102679'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102749'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Providenciales</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102653'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#financial'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102558'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>65</NS0:minAge>
+    <NS0:ratio>0.8</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102745'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Port'/>
+    <NS0:name>Grand Turk</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102649'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#about_33%_in_government_and_20%_in_agriculture_and_fishing;_significant_numbers_in_tourism'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102702'>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102552'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>15</NS0:minAge>
+    <NS0:maxAge>64</NS0:maxAge>
+    <NS0:ratio>1.11</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102605'>
+    <NS0:year>1980</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102546'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>14</NS0:maxAge>
+    <NS0:ratio>1.03</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A130665'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#UK'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A130661'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#US'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102534'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102540'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#SexRatioBreakdown'/>
+    <NS0:minAge>0</NS0:minAge>
+    <NS0:maxAge>0</NS0:maxAge>
+    <NS0:ratio>1.05</NS0:ratio>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102528'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102638'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A130657'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#UK'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102753'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2000</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102681'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A130653'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CountryPercent'/>
+    <NS0:country rdf:resource='http://www.daml.org/2001/09/countries/fips#US'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102736'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102677'>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102720'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#construction_materials'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102622'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CapitalCity'/>
+    <NS0:name>Cockburn Town (on Grand Turk)</NS0:name>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102615'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1970</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102716'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#manufactures'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102712'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#clothing'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102708'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#tobacco'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102520'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1993</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102537'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>2001</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102704'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:importsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#food_and_beverages'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102646'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1990</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102607'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#LanguagePercent'/>
+    <NS0:language rdf:resource='http://www.daml.org/2001/12/factbook/languages#English'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102509'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ElevationExtreme'/>
+    <NS0:name>Blue Hills</NS0:name>
+    <NS0:elevation>49</NS0:elevation>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102698'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>
+    <NS0:exportsCommodity rdf:resource='http://www.daml.org/2001/12/factbook/commodities#conch_shells'/>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102724'>
+    <NS0:year>1997</NS0:year>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102601'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#ReligionPercent'/>
+    <NS0:religion rdf:resource='http://www.daml.org/2001/12/factbook/religions#other'/>
+    <NS0:percent>19.9</NS0:percent>
+  </rdf:Description>
+  <rdf:Description rdf:about='#A102635'>
+    <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#Estimate'/>
+    <NS0:year>1999</NS0:year>
+  </rdf:Description>
+</rdf:RDF>

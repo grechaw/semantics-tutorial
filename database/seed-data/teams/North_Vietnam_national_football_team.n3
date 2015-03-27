@@ -1,0 +1,103 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://de.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Nordvietnamesische_Fußballnationalmannschaft	owl:sameAs	dbpedia:North_Vietnam_national_football_team .
+@prefix ns3:	<http://wikidata.dbpedia.org/resource/> .
+ns3:Q1465530	owl:sameAs	dbpedia:North_Vietnam_national_football_team .
+@prefix ns4:	<http://pl.dbpedia.org/resource/> .
+ns4:Reprezentacja_Wietnamu_Północnego_w_piłce_nożnej	owl:sameAs	dbpedia:North_Vietnam_national_football_team .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns6:	<http://en.wikipedia.org/wiki/> .
+ns6:North_Vietnam_national_football_team	foaf:primaryTopic	dbpedia:North_Vietnam_national_football_team .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:North_Vietnam_national_football_team	rdf:type	dul:SocialPerson .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:North_Vietnam_national_football_team	rdf:type	yago:YagoLegalActorGeo ,
+		yago:NationalSportsTeamsOfVietnam .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:North_Vietnam_national_football_team	rdf:type	dbpedia-owl:Organisation ,
+		yago:YagoLegalActor ,
+		yago:YagoPermanentlyLocatedEntity ,
+		yago:Team108208560 ,
+		yago:Unit108189659 ,
+		yago:Organization108008335 ,
+		yago:SocialGroup107950920 ,
+		yago:Abstraction100002137 ,
+		yago:Group100031264 ,
+		dbpedia-owl:SoccerClub ,
+		dbpedia-owl:SportsTeam .
+@prefix ns11:	<http://schema.org/> .
+dbpedia:North_Vietnam_national_football_team	rdf:type	ns11:Organization ,
+		dbpedia-owl:Agent ,
+		yago:FootballTeam108080025 ,
+		ns11:SportsTeam ,
+		dul:Agent ,
+		yago:AsianNationalAssociationFootballTeams ,
+		owl:Thing .
+@prefix ns12:	<http://tr.dbpedia.org/resource/> .
+dbpedia:North_Vietnam_national_football_team	owl:sameAs	ns12:Kuzey_Vietnam_Millî_Futbol_Takımı .
+@prefix ns13:	<http://yago-knowledge.org/resource/> .
+dbpedia:North_Vietnam_national_football_team	owl:sameAs	ns13:North_Vietnam_national_football_team .
+@prefix ns14:	<http://ko.dbpedia.org/resource/> .
+dbpedia:North_Vietnam_national_football_team	owl:sameAs	ns14:베트남_민주_공화국_축구_국가대표팀 ,
+		ns4:Reprezentacja_Wietnamu_Północnego_w_piłce_nożnej .
+@prefix ns15:	<http://ru.dbpedia.org/resource/> .
+dbpedia:North_Vietnam_national_football_team	owl:sameAs	ns15:Сборная_Северного_Вьетнама_по_футболу .
+@prefix ns16:	<http://wikidata.org/entity/> .
+dbpedia:North_Vietnam_national_football_team	owl:sameAs	ns16:Q1465530 .
+@prefix ns17:	<http://vi.dbpedia.org/resource/> .
+dbpedia:North_Vietnam_national_football_team	owl:sameAs	ns17:Đội_tuyển_bóng_đá_quốc_gia_Việt_Nam_Dân_chủ_Cộng_hòa ,
+		ns1:Nordvietnamesische_Fußballnationalmannschaft .
+@prefix ns18:	<http://ro.dbpedia.org/resource/> .
+dbpedia:North_Vietnam_national_football_team	owl:sameAs	ns18:Echipa_națională_de_fotbal_a_Vietnamului_de_Nord .
+@prefix ns19:	<http://es.dbpedia.org/resource/> .
+dbpedia:North_Vietnam_national_football_team	owl:sameAs	ns19:Selección_de_fútbol_de_Vietnam_del_Norte ,
+		<http://rdf.freebase.com/ns/m.0410xtk> ,
+		ns3:Q1465530 ,
+		dbpedia:North_Vietnam_national_football_team .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:North_Vietnam_national_football_team	rdfs:label	"North Vietnam national football team" ,
+		"Selecci\u00F3n de f\u00FAtbol de Vietnam del Norte"@es ,
+		"Reprezentacja Wietnamu P\u00F3\u0142nocnego w pi\u0142ce no\u017Cnej"@pl ,
+		"Nordvietnamesische Fu\u00DFballnationalmannschaft"@de ,
+		"\u0421\u0431\u043E\u0440\u043D\u0430\u044F \u0421\u0435\u0432\u0435\u0440\u043D\u043E\u0433\u043E \u0412\u044C\u0435\u0442\u043D\u0430\u043C\u0430 \u043F\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0443"@ru .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:North_Vietnam_national_football_team	dcterms:subject	category:National_sports_teams_of_Vietnam ,
+		category:Asian_national_association_football_teams ,
+		category:North_Vietnam_national_football_team ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_North_Vietnam.svg> ;
+	foaf:name	"North Vietnam" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:North_Vietnam_national_football_team	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/North_Vietnam_national_football_team?oldid=541264792> ;
+	rdfs:comment	"Die nordvietnamesische Fu\u00DFballnationalmannschaft war die Fu\u00DFball-Nationalmannschaft Nordvietnams. Sie existierte von 1956 bis 1966 und absolvierte in dieser Zeit nur sehr wenige L\u00E4nderspiele, haupts\u00E4chlich gegen andere kommunistische Staaten wie Nordkorea und die Volksrepublik China. 1975 wurde sie mit der Auswahl S\u00FCdvietnams zur vietnamesischen Fu\u00DFballnationalmannschaft zusammengeschlossen."@de ,
+		"Reprezentacja Wietnamu P\u00F3\u0142nocnego w pi\u0142ce no\u017Cnej \u2013 pi\u0142karska reprezentacja nieistniej\u0105cego ju\u017C Wietnamu P\u00F3\u0142nocnego wyst\u0119puj\u0105ca w latach 1956 \u2013 1970."@pl ,
+		"The North Vietnam national football team was the national team of Democratic Republic of Vietnam between 1949 and 1975. The team ceased to exist when the North and South regions combined into the Socialist Republic of Vietnam. For results after 1991, see the article Vietnam national football team (no matches were played between 1976 and 1990). Most of North Vietnam's international games were played against other socialist countries." ,
+		"La Selecci\u00F3n de f\u00FAtbol de Vietnam del Norte fue el equipo representativo de Vietnam del Norte a nivel de selecciones nacionales, la cual estaba dirigida por la Federaci\u00F3n de F\u00FAtbol de Vietnam del Norte.Existi\u00F3 entre 1949 a 1975 y a diferencia de Vietnam del Sur, Vietnam del Norte no jug\u00F3 tan frecuentemente, siendo la mayor\u00EDa de sus partidos antes otras selecciones de f\u00FAtbol de pa\u00EDses comunistas."@es ;
+	foaf:isPrimaryTopicOf	ns6:North_Vietnam_national_football_team .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix ns25:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:North_Vietnam_national_football_team	dbpprop:hasPhotoCollection	ns25:North_Vietnam_national_football_team ;
+	dbpprop:name	"North Vietnam" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_arms_of_North_Vietnam.svg?width=300> ;
+	dbpedia-owl:abstract	"Reprezentacja Wietnamu P\u00F3\u0142nocnego w pi\u0142ce no\u017Cnej \u2013 pi\u0142karska reprezentacja nieistniej\u0105cego ju\u017C Wietnamu P\u00F3\u0142nocnego wyst\u0119puj\u0105ca w latach 1956 \u2013 1970."@pl ,
+		"Die nordvietnamesische Fu\u00DFballnationalmannschaft war die Fu\u00DFball-Nationalmannschaft Nordvietnams. Sie existierte von 1956 bis 1966 und absolvierte in dieser Zeit nur sehr wenige L\u00E4nderspiele, haupts\u00E4chlich gegen andere kommunistische Staaten wie Nordkorea und die Volksrepublik China. 1975 wurde sie mit der Auswahl S\u00FCdvietnams zur vietnamesischen Fu\u00DFballnationalmannschaft zusammengeschlossen. Ihr erstes L\u00E4nderspiel absolvierte Nordvietnam 1956 gegen die Volksrepublik China, welches mit 3:5 verloren wurde. Den ersten Sieg konnte die Nationalmannschaft 1960 mit einem 3:1 gegen die Mongolei verbuchen. Das letzte L\u00E4nderspiel absolvierte Nordvietnam 1966 gegen Nordjemen.Nordvietnam nahm weder an der Qualifikation zur Asienmeisterschaft noch zur Weltmeisterschaft teil."@de ,
+		"La Selecci\u00F3n de f\u00FAtbol de Vietnam del Norte fue el equipo representativo de Vietnam del Norte a nivel de selecciones nacionales, la cual estaba dirigida por la Federaci\u00F3n de F\u00FAtbol de Vietnam del Norte.Existi\u00F3 entre 1949 a 1975 y a diferencia de Vietnam del Sur, Vietnam del Norte no jug\u00F3 tan frecuentemente, siendo la mayor\u00EDa de sus partidos antes otras selecciones de f\u00FAtbol de pa\u00EDses comunistas. Nunca compiti\u00F3 para la Copa Mundial de la FIFA ni para la Copa Asi\u00E1tica.La selecci\u00F3n dej\u00F3 de existir en 1975 cuando Vietnam del Norte y Vietnam del Sur se convirtieron en un solo pa\u00EDs y dieron origen a la actual Selecci\u00F3n de f\u00FAtbol de Vietnam."@es ,
+		"The North Vietnam national football team was the national team of Democratic Republic of Vietnam between 1949 and 1975. The team ceased to exist when the North and South regions combined into the Socialist Republic of Vietnam. For results after 1991, see the article Vietnam national football team (no matches were played between 1976 and 1990). Most of North Vietnam's international games were played against other socialist countries." ;
+	dbpedia-owl:wikiPageID	6715878 ;
+	dbpedia-owl:wikiPageRevisionID	541264792 ;
+	dbpprop:badge	"Coat of arms of North Vietnam.svg" ;
+	dbpprop:firstGame	"North Vietnam 2 - 1" ,
+		"Last International" ,
+		5 ;
+	dbpprop:largestLoss	"North Vietnam 0 - 5 Algeria" ,
+		5 ;
+	dbpprop:largestWin	"North Vietnam 9 - 0" ;
+	dbpprop:regionalName	dbpedia:AFC_Asian_Cup ;
+	dbpedia-owl:wikiPageExternalLink	<http://roonba.50webs.com/north%20vietnam.htm> ;
+	dbpprop:homeStadium	"Various" .
+ns18:Echipa_națională_de_fotbal_a_Vietnamului_de_Nord	owl:sameAs	dbpedia:North_Vietnam_national_football_team .
+ns15:Сборная_Северного_Вьетнама_по_футболу	owl:sameAs	dbpedia:North_Vietnam_national_football_team .
+ns12:Kuzey_Vietnam_Millî_Futbol_Takımı	owl:sameAs	dbpedia:North_Vietnam_national_football_team .
+ns17:Đội_tuyển_bóng_đá_quốc_gia_Việt_Nam_Dân_chủ_Cộng_hòa	owl:sameAs	dbpedia:North_Vietnam_national_football_team .

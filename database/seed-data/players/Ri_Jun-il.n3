@@ -1,0 +1,143 @@
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:North_Korea_at_the_2010_Asian_Games	dbpprop:name	dbpedia:Ri_Jun-il .
+<http://dbpedia.org/resource/2007_FIFA_U-20_World_Cup_squads>	dbpprop:name	dbpedia:Ri_Jun-il .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Ri_Jun-il .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns3:	<http://en.wikipedia.org/wiki/> .
+ns3:Ri_Jun-il	foaf:primaryTopic	dbpedia:Ri_Jun-il .
+<http://dbpedia.org/resource/2009_South_Korea_national_football_team_season>	dbpprop:away2player	dbpedia:Ri_Jun-il .
+dbpedia:North_Korea_national_football_team	dbpprop:name	dbpedia:Ri_Jun-il .
+<http://dbpedia.org/resource/2008_East_Asian_Football_Championship_Final_squads>	dbpprop:name	dbpedia:Ri_Jun-il .
+<http://dbpedia.org/resource/2008_South_Korea_national_football_team_season>	dbpprop:home2player	dbpedia:Ri_Jun-il ;
+	dbpprop:away3player	dbpedia:Ri_Jun-il ;
+	dbpprop:home3player	dbpedia:Ri_Jun-il .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Ri_Jun-Il	dbpedia-owl:wikiPageRedirects	dbpedia:Ri_Jun-il .
+<http://dbpedia.org/resource/Football_at_the_2010_Asian_Games_%E2%80%93_Men\u0027s_team_squads>	dbpprop:name	dbpedia:Ri_Jun-il .
+<http://dbpedia.org/resource/2011_AFC_Asian_Cup_squads>	dbpprop:name	dbpedia:Ri_Jun-il .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbpedia:Ri_Jun-il	rdf:type	dbpedia-owl:Athlete .
+@prefix ns6:	<http://schema.org/> .
+dbpedia:Ri_Jun-il	rdf:type	ns6:Person .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Ri_Jun-il	rdf:type	dul:NaturalPerson ,
+		dul:Agent ,
+		dbpedia-owl:Person .
+@prefix ns8:	<http://wikidata.dbpedia.org/resource/> .
+dbpedia:Ri_Jun-il	rdf:type	ns8:Q5 ,
+		dbpedia-owl:Agent ,
+		foaf:Person ,
+		ns8:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbpedia:Ri_Jun-il	rdf:type	owl:Thing ,
+		dbpedia-owl:SoccerPlayer ;
+	owl:sameAs	dbpedia:Ri_Jun-il .
+@prefix ns10:	<http://de.dbpedia.org/resource/> .
+dbpedia:Ri_Jun-il	owl:sameAs	ns10:Ri_Jun-il ,
+		<http://rdf.freebase.com/ns/m.0bmg4zz> .
+@prefix ns11:	<http://wikidata.org/entity/> .
+dbpedia:Ri_Jun-il	owl:sameAs	ns11:Q370475 .
+@prefix ns12:	<http://it.dbpedia.org/resource/> .
+dbpedia:Ri_Jun-il	owl:sameAs	ns12:Ri_Jun-Il .
+@prefix ns13:	<http://es.dbpedia.org/resource/> .
+dbpedia:Ri_Jun-il	owl:sameAs	ns13:Ri_Jun-il .
+@prefix ns14:	<http://fr.dbpedia.org/resource/> .
+dbpedia:Ri_Jun-il	owl:sameAs	ns14:Ri_Jun-il .
+@prefix ns15:	<http://pt.dbpedia.org/resource/> .
+dbpedia:Ri_Jun-il	owl:sameAs	ns15:Ri_Jun-Il .
+@prefix ns16:	<http://pl.dbpedia.org/resource/> .
+dbpedia:Ri_Jun-il	owl:sameAs	ns16:Ri_Jun-il ,
+		ns8:Q370475 .
+@prefix ns17:	<http://ko.dbpedia.org/resource/> .
+dbpedia:Ri_Jun-il	owl:sameAs	ns17:리준일 .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Ri_Jun-il	rdfs:label	"Ri Jun-il"@fr ,
+		"Ri Jun-Il"@pt ,
+		"Ri Jun-il"@de ,
+		"Ri Jun-il"@pl ,
+		"\u041B\u0438 \u0414\u0436\u0443\u043D \u0418\u043B\u044C"@ru ,
+		"Ri Jun-il"@es ,
+		"\u674E\u4FCA\u4E00"@zh ,
+		"Ri Jun-Il"@it ,
+		"\u0631\u064A \u062C\u0648\u0646 \u0625\u0644"@ar ,
+		"Ri Jun-il" .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+dbpedia:Ri_Jun-il	dcterms:subject	<http://dbpedia.org/resource/Category:1987_births> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Ri_Jun-il	dcterms:subject	category:North_Korean_footballers ,
+		<http://dbpedia.org/resource/Category:2011_AFC_Asian_Cup_players> ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:North_Korea_international_footballers ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/North_Korea_No._3,_Ri_Jun-Il._FiFA_2010_World_Cup._North_Korea-Brasil_1-2,_June_15,_2010.png> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Ri_Jun-il	dc:description	"Footballer" ,
+		"Footballer" ;
+	foaf:givenName	"Jun-Il" ;
+	foaf:name	"Jun-Il Ri" ,
+		"Ri Jun-Il" ,
+		"Ri, Jun-Il" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Ri_Jun-il	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Ri_Jun-il?oldid=601316879> ;
+	rdfs:comment	"\u674E\u4FCA\u4E00\uFF08\u671D\u9BAE\u8A9E\uFF1A\uB9AC\uC900\uC77C\uFF0C1987\u5E748\u670824\u65E5\u2014)\u671D\u9C9C\u8DB3\u7403\u8FD0\u52A8\u5458\u3002\u5165\u9009\u8FC7\u671D\u9C9C\u56FD\u5BB6\u8DB3\u7403\u961F\u3002\u671D\u9C9C\u8DB3\u7403\u7532\u7EA7\u8054\u8D5B\u5C0F\u767D\u6C34\u9AD4\u80B2\u5718\u961F\u5458\u3002"@zh ,
+		"Ri Jun-il (* 24. August 1987) ist ein nordkoreanischer Fu\u00DFballspieler."@de ,
+		"Ri Jun-il (cor\u00E9en : \uB9AC\uC900\uC77C), n\u00E9 le 24 ao\u00FBt 1987 \u00E0 Pyongyang, est un footballeur international nord-cor\u00E9en. Il \u00E9volue actuellement au Sobaeksu SG dans le championnat national nord-cor\u00E9en au poste de d\u00E9fenseur."@fr ,
+		"Ri Jun-Il (Hanja: \u674E\u4FCA\u4E00,em coreano: \uB9AC\uC900\uC77C, 24 de agosto de 1987) \u00E9 um futebolista norte-coreano que atua como zagueiro, Atualmente defende o Sobaeksu."@pt ,
+		"Ri Jun-Il (hang\u016Dl \uB9AC\uC900\uC77C?</span>; Kaesong, 24 agosto 1987) \u00E8 un calciatore nordcoreano, difensore del Sobaeksu e della Nazionale nordcoreana."@it ,
+		"Ri Jun-il (ur. 24 sierpnia 1987 w Pjongjang) \u2013 p\u00F3\u0142nocnokorea\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji obro\u0144cy w klubie Sobaeksu."@pl ,
+		"Ri Jun-Il (Hanja: \u674E\u4FCA\u4E00,Korean: \uB9AC\uC900\uC77C, born 24 August 1987) is a North Korean professional footballer who currently plays as a defender for Sobaeksu in DPR Korea League." ,
+		"\u0631\u064A \u062C\u0648\u0646 \u0625\u0644 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Ri Jun-Il) (\u0645\u0648\u0627\u0644\u064A\u062F 24 \u0623\u063A\u0633\u0637\u0633 1987 \u0641\u064A \u0628\u064A\u0648\u0646\u064A\u0627\u0646\u063A) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0648\u0631\u064A \u0634\u0645\u0627\u0644\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0633\u0648\u0628\u0627\u064A\u0633\u0643\u0648 \u0627\u0644\u0643\u0648\u0631\u064A \u0627\u0644\u0634\u0645\u0627\u0644\u064A ."@ar ,
+		"Ri Jun-il (\uB9AC\uC900\uC77C en coreano; Pyongyang, Corea del Norte; 24 de agosto de 1987) es un futbolista norcoreano. Juega como defensa y su equipo actual es el Sobaeksu de la Liga de f\u00FAtbol de Corea del Norte."@es ,
+		"\u041B\u0438 \u0414\u0436\u0443\u043D \u0418\u043B\u044C (\u043A\u043E\u0440. \uB9AC\uC900\uC77C?, \u674E\u6E96\u4E00?; 24 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1987, \u041A\u044D\u0441\u043E\u043D, \u041A\u041D\u0414\u0420) \u2014 \u0441\u0435\u0432\u0435\u0440\u043E\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0421\u043E\u0431\u044D\u043A\u0441\u0443\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u041D\u0414\u0420."@ru ;
+	foaf:surname	"Ri" ;
+	foaf:isPrimaryTopicOf	ns3:Ri_Jun-il ;
+	dbpprop:name	"Ri, Jun-Il" ,
+		"Ri Jun-Il" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/North_Korea_No._3,_Ri_Jun-Il._FiFA_2010_World_Cup._North_Korea-Brasil_1-2,_June_15,_2010.png?width=300> ;
+	dbpedia-owl:abstract	"Ri Jun-il (cor\u00E9en : \uB9AC\uC900\uC77C), n\u00E9 le 24 ao\u00FBt 1987 \u00E0 Pyongyang, est un footballeur international nord-cor\u00E9en. Il \u00E9volue actuellement au Sobaeksu SG dans le championnat national nord-cor\u00E9en au poste de d\u00E9fenseur."@fr ,
+		"Ri Jun-il (* 24. August 1987) ist ein nordkoreanischer Fu\u00DFballspieler."@de ,
+		"\u041B\u0438 \u0414\u0436\u0443\u043D \u0418\u043B\u044C (\u043A\u043E\u0440. \uB9AC\uC900\uC77C?, \u674E\u6E96\u4E00?; 24 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1987, \u041A\u044D\u0441\u043E\u043D, \u041A\u041D\u0414\u0420) \u2014 \u0441\u0435\u0432\u0435\u0440\u043E\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u043B\u0443\u0431\u0430 \u00AB\u0421\u043E\u0431\u044D\u043A\u0441\u0443\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041A\u041D\u0414\u0420."@ru ,
+		"Ri Jun-Il (Hanja: \u674E\u4FCA\u4E00,em coreano: \uB9AC\uC900\uC77C, 24 de agosto de 1987) \u00E9 um futebolista norte-coreano que atua como zagueiro, Atualmente defende o Sobaeksu."@pt ,
+		"\u674E\u4FCA\u4E00\uFF08\u671D\u9BAE\u8A9E\uFF1A\uB9AC\uC900\uC77C\uFF0C1987\u5E748\u670824\u65E5\u2014)\u671D\u9C9C\u8DB3\u7403\u8FD0\u52A8\u5458\u3002\u5165\u9009\u8FC7\u671D\u9C9C\u56FD\u5BB6\u8DB3\u7403\u961F\u3002\u671D\u9C9C\u8DB3\u7403\u7532\u7EA7\u8054\u8D5B\u5C0F\u767D\u6C34\u9AD4\u80B2\u5718\u961F\u5458\u3002"@zh ,
+		"\u0631\u064A \u062C\u0648\u0646 \u0625\u0644 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Ri Jun-Il) (\u0645\u0648\u0627\u0644\u064A\u062F 24 \u0623\u063A\u0633\u0637\u0633 1987 \u0641\u064A \u0628\u064A\u0648\u0646\u064A\u0627\u0646\u063A) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0643\u0648\u0631\u064A \u0634\u0645\u0627\u0644\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0633\u0648\u0628\u0627\u064A\u0633\u0643\u0648 \u0627\u0644\u0643\u0648\u0631\u064A \u0627\u0644\u0634\u0645\u0627\u0644\u064A ."@ar ,
+		"Ri Jun-Il (hang\u016Dl \uB9AC\uC900\uC77C?</span>; Kaesong, 24 agosto 1987) \u00E8 un calciatore nordcoreano, difensore del Sobaeksu e della Nazionale nordcoreana."@it ,
+		"Ri Jun-il (ur. 24 sierpnia 1987 w Pjongjang) \u2013 p\u00F3\u0142nocnokorea\u0144ski pi\u0142karz wyst\u0119puj\u0105cy na pozycji obro\u0144cy w klubie Sobaeksu."@pl ,
+		"Ri Jun-Il (Hanja: \u674E\u4FCA\u4E00,Korean: \uB9AC\uC900\uC77C, born 24 August 1987) is a North Korean professional footballer who currently plays as a defender for Sobaeksu in DPR Korea League." ,
+		"Ri Jun-il (\uB9AC\uC900\uC77C en coreano; Pyongyang, Corea del Norte; 24 de agosto de 1987) es un futbolista norcoreano. Juega como defensa y su equipo actual es el Sobaeksu de la Liga de f\u00FAtbol de Corea del Norte."@es ;
+	dbpedia-owl:wikiPageID	26893086 ;
+	dbpedia-owl:wikiPageRevisionID	601316879 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Ri_Jun-il	dbpprop:birthDate	"1987-08-24+02:00"^^xsd:date ;
+	dbpprop:birthPlace	dbpedia:Pyongyang ,
+		dbpedia:North_Korea ;
+	dbpprop:dateOfBirth	"1987-08-24+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Pyongyang, North Korea" ;
+	dbpprop:shortDescription	"Footballer" ;
+	dbpedia-owl:birthDate	"1987-08-24+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:North_Korea ,
+		dbpedia:Pyongyang ;
+	dbpedia-owl:birthYear	"1987+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	250 ;
+	dbpprop:years	2008 ;
+	dbpedia-owl:careerStation	dbpedia:Ri_Jun-il__1 ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.7800000000000000266 .
+@prefix ns24:	<http://dbpedia.org/datatype/> .
+@prefix ns25:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Ri_Jun-il	ns25:height	"178.0"^^ns24:centimetre ;
+	dbpprop:currentclub	dbpedia:Sobaeksu_Sports_Club ;
+	dbpprop:clubnumber	6 ;
+	dbpprop:fullname	"Ri Jun-Il" ;
+	dbpprop:clubs	dbpedia:Sobaeksu_Sports_Club ;
+	dbpedia-owl:team	dbpedia:North_Korea_national_football_team ,
+		dbpedia:Sobaeksu_Sports_Club ;
+	dbpprop:pcupdate	"2009-12-07+02:00"^^xsd:date ;
+	dbpprop:nationalcaps	36 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:North_Korea_national_football_team ;
+	dbpprop:nationalyears	2008 ;
+	dbpedia-owl:number	6 ;
+	dbpedia-owl:alias	"\uB9AC\uC900\uC77C (Korean)" ;
+	dbpprop:alternativeNames	"\uB9AC\uC900\uC77C" .

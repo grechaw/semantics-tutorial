@@ -1,0 +1,232 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Stanislav_Šesták	foaf:primaryTopic	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k>	rdf:type	yago:ExpatriateFootballersInTurkey ,
+		yago:SlovakExpatriatesInTurkey .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k>	rdf:type	dul:Agent .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k>	rdf:type	dbpedia-owl:Athlete ,
+		dul:NaturalPerson ,
+		<http://dbpedia.org/class/yago/S%C3%BCperLigPlayers> ,
+		foaf:Person ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> .
+@prefix ns6:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k>	rdf:type	ns6:Athlete ,
+		yago:ExpatriateFootballersInGermany ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:SlovakFirstLeaguePlayers ,
+		yago:AssociationFootballForwards ,
+		dbpedia-owl:Agent ,
+		yago:BasketballPlayer109842047 ,
+		yago:Forward110105733 ,
+		dbpedia-owl:Person ,
+		<http://dbpedia.org/class/yago/Fu%C3%9Fball-BundesligaPlayers> ,
+		yago:VfLBochumPlayers ,
+		yago:Player110439851 ,
+		yago:Athlete109820263 ,
+		ns6:SoccerPlayer ,
+		yago:FootballPlayer110101634 ,
+		yago:Contestant109613191 ,
+		yago:BursasporFootballers .
+@prefix ns7:	<http://schema.org/> .
+<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k>	rdf:type	ns7:Person ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k>	rdf:type	owl:Thing .
+@prefix ns9:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k>	rdf:type	ns9:Q215627 ,
+		yago:YagoLegalActor ,
+		yago:SlovakFootballers ,
+		yago:SlovakiaInternationalFootballers ,
+		yago:LivingPeople ,
+		yago:SlovakExpatriatesInGermany ,
+		yago:SlovakExpatriateFootballers ,
+		yago:Object100002684 ,
+		<http://dbpedia.org/class/yago/MKEAnkarag%C3%BCc%C3%BCFootballers> ,
+		<http://dbpedia.org/class/yago/%C5%A0KSlovanBratislavaPlayers> ,
+		yago:Whole100003553 ,
+		<http://dbpedia.org/class/yago/M%C5%A0K%C5%BDilinaPlayers> ,
+		ns9:Q5 ,
+		<http://dbpedia.org/class/yago/PeopleFromPre%C5%A1ovDistrict> ;
+	owl:sameAs	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> .
+@prefix ns10:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k>	owl:sameAs	ns10:Stanislav_Šesták ,
+		<http://rdf.freebase.com/ns/m.027gvdm> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k>	rdfs:label	"\u30B9\u30BF\u30CB\u30B9\u30E9\u30D5\u30FB\u30B7\u30A7\u30B9\u30BF\u30FC\u30AF"@ja ,
+		"Stanislav \u0160est\u00E1k"@pt ,
+		"Stanislav \u0160est\u00E1k"@pl ,
+		"Stanislav \u0160est\u00E1k"@de ,
+		"\u0428\u0435\u0441\u0442\u0430\u043A, \u0421\u0442\u0430\u043D\u0438\u0441\u043B\u0430\u0432"@ru ,
+		"Stanislav \u0160est\u00E1k"@fr ,
+		"Stanislav \u0160est\u00E1k"@nl ,
+		"\u0633\u062A\u0627\u0646\u064A\u0633\u0644\u0627\u0641 \u0634\u064A\u0633\u062A\u0627\u0643"@ar ,
+		"Stanislav \u0160est\u00E1k"@it ,
+		"Stanislav \u0160est\u00E1k"@es ,
+		"Stanislav \u0160est\u00E1k" .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k>	dcterms:subject	category:Slovak_expatriates_in_Germany ,
+		<http://dbpedia.org/resource/Category:1982_births> ,
+		category:Slovakia_international_footballers ,
+		category:Slovak_expatriate_footballers ,
+		category:Slovak_footballers ,
+		<http://dbpedia.org/resource/Category:M%C5%A0K_%C5%BDilina_players> ,
+		category:Living_people ,
+		category:Expatriate_footballers_in_Germany ,
+		category:Slovak_expatriates_in_Turkey ,
+		<http://dbpedia.org/resource/Category:MKE_Ankarag%C3%BCc%C3%BC_footballers> ,
+		<http://dbpedia.org/resource/Category:S%C3%BCper_Lig_players> ,
+		category:Bundesliga_players ,
+		category:Slovak_First_League_players ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Expatriate_footballers_in_Turkey ,
+		<http://dbpedia.org/resource/Category:People_from_Pre%C5%A1ov_District> ,
+		category:VfL_Bochum_players ,
+		category:Association_football_forwards ,
+		category:Bursaspor_footballers ,
+		<http://dbpedia.org/resource/Category:%C5%A0K_Slovan_Bratislava_players> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Stanislav_\u0160est\u00E1k\u002714.JPG> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k>	dc:description	"Slovak footballer" ,
+		"Slovak footballer" ;
+	foaf:givenName	"Stanislav" ;
+	foaf:name	"Stanislav \u0160est\u00E1k" ,
+		"\u0160est\u00E1k, Stanislav" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Stanislav_\u0160est\u00E1k?oldid=602931119> ;
+	rdfs:comment	"\u0633\u062A\u0627\u0646\u064A\u0633\u0644\u0627\u0641 \u0634\u064A\u0633\u062A\u0627\u0643 (\u0645\u0648\u0627\u0644\u064A\u062F 16 \u062F\u064A\u0633\u0645\u0628\u0631 1982 \u0641\u064A \u062F\u064A\u0645\u064A\u0627\u062A\u0627 - \u062A\u0634\u064A\u0643\u0648\u0633\u0644\u0648\u0641\u0627\u0643\u064A\u0627) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0633\u0644\u0648\u0641\u0627\u0643\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0628\u0648\u062E\u0648\u0645 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0645\u0646\u0630 2007 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0645\u0647\u0627\u062C\u0645 \u0643\u0645\u0627 \u064A\u062C\u064A\u062F \u0627\u0644\u0644\u0639\u0628 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u062C\u0646\u0627\u062D ."@ar ,
+		"Stanislav \u0160est\u00E1k (Demjata, 16 de Dezembro de 1982) \u00E9 um futebolista eslovaco que atua como atacante. Atualmente, defende o Ankarag\u00FCc\u00FC."@pt ,
+		"\u30B9\u30BF\u30CB\u30B9\u30E9\u30D5\u30FB\u30B7\u30A7\u30B9\u30BF\u30FC\u30AF\uFF08Stanislav \u0160est\u00E1k, 1982\u5E7412\u670816\u65E5 - \uFF09\u306F\u3001\u30B9\u30ED\u30D0\u30AD\u30A2\u30FB\u30D7\u30EC\u30B7\u30E7\u30D5\u51FA\u8EAB\u306E\u540C\u56FD\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u300C\u30BB\u30B9\u30BF\u30FC\u30AF\u300D\u3068\u3082\u8868\u8A18\u3055\u308C\u308B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FFW\u3002\u30C8\u30EB\u30B3\u30FB\u30B7\u30E5\u30DA\u30EB\u30EA\u30AC\u30FB\u30D6\u30EB\u30B5\u30B9\u30DD\u30EB\u306E\u6240\u5C5E\u3002"@ja ,
+		"Stanislav \u0160est\u00E1k (Demjata, 16 dicembre 1982) \u00E8 un calciatore slovacco, attaccante del Bursaspor e della Nazionale slovacca."@it ,
+		"Stanislav \u0160est\u00E1k, n\u00E9 le 16 d\u00E9cembre 1982 \u00E0 Pre\u0161ov, est un footballeur slovaque, jouant au Bursaspor. Il compte 45 s\u00E9lections (11 buts) pour la Slovaquie."@fr ,
+		"Stanislav \u0160est\u00E1k [\u02C8stanislaf \u02C8\u0283\u025Bsta\u02D0k] (* 16. Dezember 1982 in Pre\u0161ov) ist ein slowakischer Fu\u00DFballspieler. Seit der Saison 2011/12 steht der St\u00FCrmer beim Bursaspor unter Vertrag."@de ,
+		"Stanislav \u0160est\u00E1k (Demjata, 16 december 1982) is een Slowaakse voetballer (aanvaller) die sinds 2011 uitkomt voor de Turkse eersteklasser Bursaspor. Eerder speelde hij onder meer voor Slovan Bratislava en VfL Bochum."@nl ,
+		"Stanislav \u0160est\u00E1k (born 16 December 1982) is a Slovak football striker who plays for Bursaspor and the Slovakia national football team." ,
+		"\u0421\u0442\u0430\u0301\u043D\u0438\u0441\u043B\u0430\u0432 \u0428\u0435\u0301\u0441\u0442\u0430\u043A (\u0441\u043B\u043E\u0432\u0430\u0446\u043A. Stanislav \u0160est\u00E1k; 16 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1982, \u0414\u0435\u043C\u044C\u044F\u0442\u0430, \u0420\u0430\u0439\u043E\u043D \u041F\u0440\u0435\u0448\u043E\u0432, \u0427\u0435\u0445\u043E\u0441\u043B\u043E\u0432\u0430\u043A\u0438\u044F) \u2014 \u0441\u043B\u043E\u0432\u0430\u0446\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439."@ru ,
+		"Stanislav \u0160est\u00E1k Nacido en Eslovaquia, 16 de diciembre de 1982), futbolista eslovaco. Juega de delantero y su actual equipo es el Bursaspor de la Superliga de Turqu\u00EDa."@es ,
+		"Stanislav \u0160est\u00E1k (ur. 16 grudnia 1982 w Demjacie) \u2013 s\u0142owacki pi\u0142karz, wyst\u0119puj\u0105cy na pozycji napastnika."@pl ;
+	foaf:surname	"\u0160est\u00E1k" ;
+	foaf:isPrimaryTopicOf	ns1:Stanislav_Šesták .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix ns17:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k>	dbpprop:hasPhotoCollection	ns17:Stanislav_Šesták ;
+	dbpprop:name	"Stanislav \u0160est\u00E1k" ,
+		"\u0160est\u00E1k, Stanislav" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Stanislav_\u0160est\u00E1k\u002714.JPG?width=300> ;
+	dbpedia-owl:abstract	"Stanislav \u0160est\u00E1k (Demjata, 16 de Dezembro de 1982) \u00E9 um futebolista eslovaco que atua como atacante. Atualmente, defende o Ankarag\u00FCc\u00FC."@pt ,
+		"Stanislav \u0160est\u00E1k (ur. 16 grudnia 1982 w Demjacie) \u2013 s\u0142owacki pi\u0142karz, wyst\u0119puj\u0105cy na pozycji napastnika."@pl ,
+		"\u30B9\u30BF\u30CB\u30B9\u30E9\u30D5\u30FB\u30B7\u30A7\u30B9\u30BF\u30FC\u30AF\uFF08Stanislav \u0160est\u00E1k, 1982\u5E7412\u670816\u65E5 - \uFF09\u306F\u3001\u30B9\u30ED\u30D0\u30AD\u30A2\u30FB\u30D7\u30EC\u30B7\u30E7\u30D5\u51FA\u8EAB\u306E\u540C\u56FD\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u300C\u30BB\u30B9\u30BF\u30FC\u30AF\u300D\u3068\u3082\u8868\u8A18\u3055\u308C\u308B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FFW\u3002\u30C8\u30EB\u30B3\u30FB\u30B7\u30E5\u30DA\u30EB\u30EA\u30AC\u30FB\u30D6\u30EB\u30B5\u30B9\u30DD\u30EB\u306E\u6240\u5C5E\u3002"@ja ,
+		"Stanislav \u0160est\u00E1k (Demjata, 16 december 1982) is een Slowaakse voetballer (aanvaller) die sinds 2011 uitkomt voor de Turkse eersteklasser Bursaspor. Eerder speelde hij onder meer voor Slovan Bratislava en VfL Bochum."@nl ,
+		"Stanislav \u0160est\u00E1k (born 16 December 1982) is a Slovak football striker who plays for Bursaspor and the Slovakia national football team." ,
+		"Stanislav \u0160est\u00E1k [\u02C8stanislaf \u02C8\u0283\u025Bsta\u02D0k] (* 16. Dezember 1982 in Pre\u0161ov) ist ein slowakischer Fu\u00DFballspieler. Seit der Saison 2011/12 steht der St\u00FCrmer beim Bursaspor unter Vertrag."@de ,
+		"\u0421\u0442\u0430\u0301\u043D\u0438\u0441\u043B\u0430\u0432 \u0428\u0435\u0301\u0441\u0442\u0430\u043A (\u0441\u043B\u043E\u0432\u0430\u0446\u043A. Stanislav \u0160est\u00E1k; 16 \u0434\u0435\u043A\u0430\u0431\u0440\u044F 1982, \u0414\u0435\u043C\u044C\u044F\u0442\u0430, \u0420\u0430\u0439\u043E\u043D \u041F\u0440\u0435\u0448\u043E\u0432, \u0427\u0435\u0445\u043E\u0441\u043B\u043E\u0432\u0430\u043A\u0438\u044F) \u2014 \u0441\u043B\u043E\u0432\u0430\u0446\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439."@ru ,
+		"Stanislav \u0160est\u00E1k, n\u00E9 le 16 d\u00E9cembre 1982 \u00E0 Pre\u0161ov, est un footballeur slovaque, jouant au Bursaspor. Il compte 45 s\u00E9lections (11 buts) pour la Slovaquie."@fr ,
+		"Stanislav \u0160est\u00E1k (Demjata, 16 dicembre 1982) \u00E8 un calciatore slovacco, attaccante del Bursaspor e della Nazionale slovacca."@it ,
+		"\u0633\u062A\u0627\u0646\u064A\u0633\u0644\u0627\u0641 \u0634\u064A\u0633\u062A\u0627\u0643 (\u0645\u0648\u0627\u0644\u064A\u062F 16 \u062F\u064A\u0633\u0645\u0628\u0631 1982 \u0641\u064A \u062F\u064A\u0645\u064A\u0627\u062A\u0627 - \u062A\u0634\u064A\u0643\u0648\u0633\u0644\u0648\u0641\u0627\u0643\u064A\u0627) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0633\u0644\u0648\u0641\u0627\u0643\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0627\u0644\u062F\u0631\u062C\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0628\u0648\u062E\u0648\u0645 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0645\u0646\u0630 2007 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u0645\u0647\u0627\u062C\u0645 \u0643\u0645\u0627 \u064A\u062C\u064A\u062F \u0627\u0644\u0644\u0639\u0628 \u0641\u064A \u0645\u0631\u0643\u0632 \u0627\u0644\u062C\u0646\u0627\u062D ."@ar ,
+		"Stanislav \u0160est\u00E1k Nacido en Eslovaquia, 16 de diciembre de 1982), futbolista eslovaco. Juega de delantero y su actual equipo es el Bursaspor de la Superliga de Turqu\u00EDa."@es ;
+	dbpedia-owl:wikiPageID	8735894 ;
+	dbpedia-owl:wikiPageRevisionID	602931119 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k>	dbpprop:birthDate	"1982-12-16+02:00"^^xsd:date .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k>	dbpprop:birthPlace	dbpedia:Demjata ,
+		dbpedia:Czechoslovakia ;
+	dbpprop:dateOfBirth	"1982-12-16+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Demjata, Czechoslovakia" ;
+	dbpprop:shortDescription	"Slovak footballer" ;
+	dbpedia-owl:birthDate	"1982-12-16+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Demjata ,
+		dbpedia:Czechoslovakia ;
+	dbpedia-owl:birthYear	"1982+02:00"^^xsd:gYear ;
+	dbpprop:goals	49 ,
+		10 ,
+		9 ,
+		12 ,
+		6 ,
+		28 ;
+	dbpprop:caps	72 ,
+		86 ,
+		99 ,
+		24 ,
+		42 ,
+		58 ;
+	dbpprop:years	2010 ,
+		2011 ,
+		2007 ,
+		2004 ,
+		2002 ,
+		2000 ;
+	dbpprop:youthclubs	"FK Demjata" ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k__6> ,
+		<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k__4> ,
+		<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k__3> ,
+		<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k__7> ,
+		<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k__2> ,
+		<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k__1> ,
+		<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k__5> ;
+	dbpprop:position	dbpedia:Midfielder ,
+		<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Forward_(association_football)> ,
+		dbpedia:Midfielder ;
+	dbpedia-owl:height	1.8000000000000000444 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k>	ns21:height	"180.0"^^ns20:centimetre ;
+	dbpprop:currentclub	dbpedia:Bursaspor ;
+	dbpprop:clubnumber	9 ;
+	dbpprop:fullname	"Stanislav \u0160est\u00E1k" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/%C5%A0K_Slovan_Bratislava> ,
+		"\u2192 Ankarag\u00FCc\u00FC" ,
+		dbpedia:VfL_Bochum ,
+		dbpedia:Bursaspor ,
+		<http://dbpedia.org/resource/M%C5%A0K_%C5%BDilina> ,
+		<http://dbpedia.org/resource/1._FC_Tatran_Pre%C5%A1ov> ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/%C5%A0K_Slovan_Bratislava> ,
+		dbpedia:VfL_Bochum ,
+		<http://dbpedia.org/resource/MKE_Ankarag%C3%BCc%C3%BC> ,
+		dbpedia:Bursaspor ,
+		<http://dbpedia.org/resource/M%C5%A0K_%C5%BDilina> ,
+		<http://dbpedia.org/resource/1._FC_Tatran_Pre%C5%A1ov> ,
+		dbpedia:Slovakia_national_football_team .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:pcupdate	"2014-01-26+02:00"^^xsd:date ;
+	dbpprop:nationalcaps	52 ;
+	dbpprop:nationalgoals	12 ;
+	dbpprop:nationalteam	dbpedia:Slovakia_national_football_team ;
+	dbpprop:nationalyears	2004 ;
+	dbpedia-owl:number	9 ;
+	dbpprop:ntupdate	"2014-03-06+02:00"^^xsd:date .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> .
+dbpedia:List_of_German_football_transfers_summer_2010	dbpprop:name	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> .
+dbpedia:List_of_German_football_transfers_summer_2007	dbpprop:name	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> .
+dbpedia:Slovakia_at_the_FIFA_World_Cup	dbpprop:name	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> .
+dbpedia:Bursaspor	dbpprop:name	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> .
+<http://dbpedia.org/resource/2010%E2%80%9311_VfL_Bochum_season>	dbpprop:name	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> .
+<http://dbpedia.org/resource/2009%E2%80%9310_VfL_Bochum_season>	dbpprop:leagueTopscorer	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> ;
+	dbpprop:seasonTopscorer	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> .
+<http://dbpedia.org/resource/2011%E2%80%9312_VfL_Bochum_season>	dbpprop:name	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> .
+<http://dbpedia.org/resource/Bursaspor__Stanislav_%C5%A0est%C3%A1k__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Ankarag%C3%BCc%C3%BC_season__Stanislav_Sestak__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> .
+dbpedia:List_of_Turkish_football_transfers_summer_2010	dbpprop:name	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> .
+dbpedia:Slovakia_national_football_team	dbpprop:name	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Ankarag%C3%BCc%C3%BC_season>	dbpprop:name	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> .
+dbpedia:Stanislav_Šesták	owl:sameAs	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> .
+<http://dbpedia.org/resource/2011%E2%80%9312_VfL_Bochum_season__Stanislav_%C5%A0est%C3%A1k__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> .
+<http://dbpedia.org/resource/2010%E2%80%9311_VfL_Bochum_season__Stanislav_Sestak__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> .
+dbpedia:Stanislav_Sestak	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Stanislav_%C5%A0est%C3%A1k> .

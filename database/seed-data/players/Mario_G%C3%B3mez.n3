@@ -1,0 +1,273 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+ns1:Mario_Gómez	foaf:primaryTopic	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+<http://dbpedia.org/resource/2009%E2%80%9310_FC_Bayern_Munich_season>	dbpprop:p	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+<http://dbpedia.org/resource/2007%E2%80%9308_VfB_Stuttgart_season>	dbpprop:name	<http://dbpedia.org/resource/Mario_G%C3%B3mez> ;
+	dbpprop:leagueTopscorer	<http://dbpedia.org/resource/Mario_G%C3%B3mez> ;
+	dbpprop:seasonTopscorer	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+<http://dbpedia.org/resource/2008%E2%80%9309_VfB_Stuttgart_season>	dbpprop:leagueTopscorer	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Bundesliga>	dbpprop:leagueTopscorer	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+<http://dbpedia.org/resource/2011%E2%80%9312_1._FC_N%C3%BCrnberg_season>	dbpprop:motm	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+dbpedia:UEFA_Euro_2008_squads	dbpprop:name	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+<http://dbpedia.org/resource/2003%E2%80%9304_VfB_Stuttgart_season>	dbpprop:name	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+<http://dbpedia.org/resource/Mario_G%C3%B3mez>	rdf:type	yago:FCBayernMunichPlayers ,
+		<http://dbpedia.org/class/yago/Fu%C3%9Fball-BundesligaPlayers> ,
+		yago:GermanFootballers .
+@prefix ns6:	<http://wikidata.dbpedia.org/resource/> .
+<http://dbpedia.org/resource/Mario_G%C3%B3mez>	rdf:type	ns6:Q215627 .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+<http://dbpedia.org/resource/Mario_G%C3%B3mez>	rdf:type	owl:Thing ,
+		yago:Whole100003553 ,
+		yago:Object100002684 ,
+		yago:VfBStuttgartPlayers ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:GermanyUnder-21InternationalFootballers ,
+		yago:GermanyInternationalFootballers ,
+		yago:Athlete109820263 ,
+		yago:FootballPlayer110101634 ,
+		yago:VfBStuttgartIIPlayers .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+<http://dbpedia.org/resource/Mario_G%C3%B3mez>	rdf:type	dul:NaturalPerson ,
+		<http://dbpedia.org/class/yago/PeopleFromBiberach(district)> ,
+		yago:Player110439851 ,
+		yago:GermanyYouthInternationalFootballers ,
+		foaf:Person ,
+		ns6:Q5 ,
+		yago:Contestant109613191 ,
+		dul:Agent ,
+		yago:GermanyBInternationalFootballers ,
+		yago:UEFAEuro2008Players .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+<http://dbpedia.org/resource/Mario_G%C3%B3mez>	rdf:type	dbpedia-owl:Agent ,
+		dbpedia-owl:Person ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:AssociationFootballForwards ,
+		yago:BasketballPlayer109842047 ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:Forward110105733 .
+@prefix ns10:	<http://schema.org/> .
+<http://dbpedia.org/resource/Mario_G%C3%B3mez>	rdf:type	ns10:Person .
+@prefix ns11:	<http://umbel.org/umbel/rc/> .
+<http://dbpedia.org/resource/Mario_G%C3%B3mez>	rdf:type	ns11:SoccerPlayer ,
+		dbpedia-owl:Athlete ,
+		yago:GermanPeopleOfSpanishDescent ,
+		yago:PhysicalEntity100001930 .
+@prefix ns12:	<http://yago-knowledge.org/resource/> .
+<http://dbpedia.org/resource/Mario_G%C3%B3mez>	owl:sameAs	ns12:Mario_Gómez ,
+		<http://rdf.freebase.com/ns/m.0ksh74> ,
+		<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+<http://dbpedia.org/resource/Mario_G%C3%B3mez>	rdfs:label	"Mario G\u00F3mez"@fr ,
+		"Mario G\u00F3mez"@de ,
+		"Mario G\u00F3mez"@pl ,
+		"\u9A6C\u91CC\u5965\u00B7\u6208\u9EA6\u65AF"@zh ,
+		"Mario G\u00F3mez" ,
+		"Mario G\u00F3mez"@nl ,
+		"Mario G\u00F3mez"@it ,
+		"\u0413\u043E\u043C\u0435\u0441, \u041C\u0430\u0440\u0438\u043E"@ru ,
+		"\u0645\u0627\u0631\u064A\u0648 \u063A\u0648\u0645\u064A\u0632"@ar ,
+		"\u30DE\u30EA\u30AA\u30FB\u30B4\u30E1\u30B9"@ja ,
+		"Mario G\u00F3mez Garc\u00EDa"@es ,
+		"Mario G\u00F3mez"@pt .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+<http://dbpedia.org/resource/Mario_G%C3%B3mez>	dcterms:subject	category:Serie_A_footballers ,
+		category:VfB_Stuttgart_players ,
+		category:German_expatriate_footballers ,
+		category:Association_football_forwards ,
+		category:Expatriate_footballers_in_Italy ,
+		category:ACF_Fiorentina_players ,
+		category:VfB_Stuttgart_II_players ,
+		category:Bundesliga_players ,
+		category:German_footballers ,
+		category:UEFA_Euro_2008_players ,
+		<http://dbpedia.org/resource/Category:1985_births> ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:German_people_of_Spanish_descent ,
+		category:Germany_B_international_footballers ,
+		category:Germany_under-21_international_footballers ,
+		category:Germany_youth_international_footballers ,
+		category:UEFA_Euro_2012_players ,
+		category:Germany_international_footballers ,
+		<http://dbpedia.org/resource/Category:People_from_Biberach_(district)> ,
+		category:FC_Bayern_Munich_players ;
+	foaf:homepage	<http://www.mario-gomez.de/> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Mario_G\u00F3mez,_Germany_national_football_team_(07).jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+<http://dbpedia.org/resource/Mario_G%C3%B3mez>	dc:description	"German footballer" ,
+		"German footballer" ;
+	foaf:givenName	"Mario" ;
+	foaf:name	"G\u00F3mez, Mario" ,
+		"Mario G\u00F3mez Garc\u00EDa" ,
+		"Mario G\u00F3mez" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+<http://dbpedia.org/resource/Mario_G%C3%B3mez>	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Mario_G\u00F3mez?oldid=605854038> ;
+	rdfs:comment	"\u041C\u0430\u0301\u0440\u0438\u043E \u0413\u043E\u0301\u043C\u0435\u0441 \u0413\u0430\u0440\u0441\u0438\u0301\u044F (\u043D\u0435\u043C. Mario G\u00F3mez Garc\u00EDa; \u0440\u043E\u0434. 10 \u0438\u044E\u043B\u044F 1985, \u0420\u0438\u0434\u043B\u0438\u043D\u0433\u0435\u043D, \u0411\u0430\u0434\u0435\u043D-\u0412\u044E\u0440\u0442\u0435\u043C\u0431\u0435\u0440\u0433, \u0424\u0420\u0413) \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439, \u0438\u0433\u0440\u043E\u043A \u00AB\u0424\u0438\u043E\u0440\u0435\u043D\u0442\u0438\u043D\u044B\u00BB \u0438 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438. \u041E\u0431\u043B\u0430\u0434\u0430\u0442\u0435\u043B\u044C \u043F\u0440\u0438\u0437\u0430 \u00AB\u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442 \u0433\u043E\u0434\u0430 \u0432 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438\u00BB 2007 \u0433\u043E\u0434\u0430. \u0427\u0435\u043C\u043F\u0438\u043E\u043D \u0411\u0443\u043D\u0434\u0435\u0441\u043B\u0438\u0433\u0438 2007 \u0433\u043E\u0434\u0430."@ru ,
+		"Mario G\u00F3mez Garc\u00EDa (* 10. Juli 1985 in Riedlingen) ist ein deutscher Fu\u00DFballspieler, der seit der Saison 2013/14 beim italienischen Erstligisten AC Florenz unter Vertrag steht und f\u00FCr die deutsche Nationalmannschaft aktiv ist."@de ,
+		"\u99AC\u91CC\u5967\u00B7\u9AD8\u7F8E\u65AF\uFF08\u897F\u73ED\u7259\u8BED\uFF1AMario G\u00F3mez Garc\u00EDa\uFF0C1985\u5E747\u670810\u65E5\uFF0D\uFF09\uFF0C\u5FB7\u570B\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u76EE\u524D\u6548\u529B\u610F\u5927\u5229\u8DB3\u7403\u7532\u7D1A\u806F\u8CFD\u7403\u6703\u8CBB\u502B\u5929\u62FF\u3002\u4ED6\u7684\u7236\u89AA\u662F\u897F\u73ED\u7259\u4EBA\uFF0C\u800C\u4ED6\u7684\u6BCD\u89AA\u662F\u5FB7\u570B\u4EBA\u3002"@zh ,
+		"Mario G\u00F3mez Garc\u00EDa (Riedlingen, 10 de julho de 1985) \u00E9 um futebolista alem\u00E3o de ascend\u00EAncia espanhola que atua como atacante. Atualmente, joga pela Fiorentina e defende a Sele\u00E7\u00E3o Alem\u00E3 de Futebol.Em 2007, Mario G\u00F3mez viveu uma das melhores temporadas da sua carreira, sendo campe\u00E3o alem\u00E3o com o Stuttgart, recebendo sua primeira convoca\u00E7\u00E3o para a sele\u00E7\u00E3o principal da Alemanha e, ao final da temporada, foi eleito o futebolista alem\u00E3o do ano."@pt ,
+		"Mario G\u00F3mez Garc\u00EDa, n\u00E9 le 10 juillet 1985 \u00E0 Riedlingen en Bade-Wurtemberg, d'un p\u00E8re espagnol et d'une m\u00E8re allemande, est un footballeur international allemand qui \u00E9volue au poste d'attaquant \u00E0 la Fiorentina.Ce buteur prolifique s'est r\u00E9v\u00E9l\u00E9 lors de la saison 2006-2007 sous les couleurs du VfB Stuttgart. Il est finaliste de l'Euro 2008, troisi\u00E8me de la Coupe du monde en 2010 et demi-finaliste de l'Euro 2012."@fr ,
+		"\u30DE\u30EA\u30AA\u30FB\u30B4\u30E1\u30B9\u30FB\u30AC\u30EB\u30B7\u30A2\uFF08Mario Gomez Garc\u00EDa, 1985\u5E747\u670810\u65E5 - \uFF09\u306F\u30C9\u30A4\u30C4\u3001\u30EA\u30FC\u30C8\u30EA\u30F3\u30B2\u30F3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002ACF\u30D5\u30A3\u30AA\u30EC\u30F3\u30C6\u30A3\u30FC\u30CA\u6240\u5C5E\u3002\u30C9\u30A4\u30C4\u4EE3\u8868\u3067\u3042\u308B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9\u3002\u7236\u304C\u30B9\u30DA\u30A4\u30F3\u4EBA\u3001\u6BCD\u304C\u30C9\u30A4\u30C4\u4EBA\u3002\u7236\u306E\u5F71\u97FF\u3067FC\u30D0\u30EB\u30BB\u30ED\u30CA\u3092\u61A7\u308C\u306E\u30AF\u30E9\u30D6\u3068\u516C\u8A00\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"Mario G\u00F3mez Garc\u00EDa (pronuncia tedesca [\u02C8ma\u02D0\u0281j\u0254 \u02C8\u0261\u0254m\u025Bs]; spagnolo [\u02C8\u0261ome\u03B8]) (Riedlingen, 10 luglio 1985) \u00E8 un calciatore tedesco, attaccante della Fiorentina e della Nazionale tedesca, con cui \u00E8 stato vice-campione d'Europa agli Europei 2008.Con la maglia del Bayern Monaco, squadra nella quale ha militato dal 2009 al 2013, ha conquistato sette trofei: due campionati tedeschi, due Coppe di Germania, due Supercoppe di Germania e una UEFA Champions League.Dopo aver vestito la maglia della Germania in molte nazionali giovanili, debutta in Nazionale maggiore, con la quale ha preso parte all'Europeo 2008, al Mondiale 2010, all'Europeo 2012, di cui \u00E8 risultato uno dei capocannonieri."@it ,
+		"Mario G\u00F3mez Garc\u00EDa (10 de julio de 1985), conocido deportivamente como Mario G\u00F3mez, es un futbolista alem\u00E1n. Juega de delantero centro y su equipo actual es la Fiorentina de la Serie A italiana. Tambi\u00E9n es internacional con con la selecci\u00F3n de f\u00FAtbol de Alemania."@es ,
+		"Mario G\u00F3mez Garc\u00EDa (wym. [\u02C8ma\u02D0\u0281io\u02D0 \u02C8\u0261\u0254m\u025Bs]; ur. 10 lipca 1985 w Riedlingen) \u2013 niemiecki pi\u0142karz pochodzenia hiszpa\u0144skiego graj\u0105cy na pozycji napastnika we w\u0142oskiej ACF Fiorentina. Jego matka jest Niemk\u0105, za\u015B ojciec Hiszpanem."@pl ,
+		"Mario G\u00F3mez Garc\u00EDa (German pronunciation: [\u02C8ma\u02D0\u0281io\u02D0 \u02C8\u0261\u0254m\u025Bs]; born 10 July 1985) is a German footballer who plays as a striker for Fiorentina in the Serie A and the German national team. G\u00F3mez joined Fiorentina after spending four seasons with Bayern Munich, which he joined after six years playing for VfB Stuttgart. The fee was a record for a player transferred in the Bundesliga, estimated to be \u20AC30\u201335 million, surpassing previous holder M\u00E1rcio Amoroso." ,
+		"\u0645\u0627\u0631\u064A\u0648 \u063A\u0648\u0645\u064A\u0632 \u063A\u0627\u0631\u0633\u064A\u0627 (\u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629: Mario G\u00F3mez Garc\u00EDa) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0623\u0644\u0645\u0627\u0646\u064A \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 10 \u064A\u0648\u0644\u064A\u0648 1985 \u0641\u064A \u0631\u064A\u062F\u0644\u064A\u0646\u063A\u062C\u0646 \u0641\u064A \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0648\u0647\u0648 \u0645\u0646 \u0623\u0635\u0644 \u0623\u0633\u0628\u0627\u0646\u064A (\u0648\u0627\u0644\u062F\u0647 \u0625\u0633\u0628\u0627\u0646\u064A \u0645\u0646 \u063A\u0631\u0646\u0627\u0637\u0629 \u0648\u0648\u0627\u0644\u062F\u062A\u0647 \u0647\u064A \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629).\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0634\u062A\u0648\u062A\u063A\u0627\u0631\u062A \u0645\u0646 \u0633\u0646\u0629 2003 \u062D\u062A\u0649 \u0633\u0646\u0629 2009."@ar ,
+		"Mario G\u00F3mez (Riedlingen, 10 juli 1985) is een Duits betaald voetballer met een Duits-Spaanse achtergrond die in de aanval speelt. In februari 2007 debuteerde hij in het Duits voetbalelftal, waarvoor hij sindsdien meer dan 45 interlands speelde.G\u00F3mez debuteerde in 2003 in het shirt van VfB Stuttgart in het betaald voetbal. Daarmee werd hij Duits landskampioen in het seizoen 2006/07. Dat jaar werd hij zelf Duits voetballer van het jaar gekozen."@nl ;
+	foaf:surname	"G\u00F3mez" ;
+	foaf:isPrimaryTopicOf	ns1:Mario_Gómez .
+@prefix ns18:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+<http://dbpedia.org/resource/Mario_G%C3%B3mez>	dbpprop:hasPhotoCollection	ns18:Mario_Gómez ;
+	dbpprop:caption	"G\u00F3mez with Germany in 2011." ;
+	dbpprop:name	"G\u00F3mez, Mario" ,
+		"Mario G\u00F3mez" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Mario_G\u00F3mez,_Germany_national_football_team_(07).jpg?width=300> ;
+	dbpedia-owl:abstract	"Mario G\u00F3mez Garc\u00EDa (German pronunciation: [\u02C8ma\u02D0\u0281io\u02D0 \u02C8\u0261\u0254m\u025Bs]; born 10 July 1985) is a German footballer who plays as a striker for Fiorentina in the Serie A and the German national team. G\u00F3mez joined Fiorentina after spending four seasons with Bayern Munich, which he joined after six years playing for VfB Stuttgart. The fee was a record for a player transferred in the Bundesliga, estimated to be \u20AC30\u201335 million, surpassing previous holder M\u00E1rcio Amoroso. The fee is currently the third highest, after former Bayern teammates Mario G\u00F6tze and Javi Mart\u00EDnez, respectively. When Stuttgart became champions in 2006\u201307, G\u00F3mez contributed 14 goals and seven assists at the age of 21 and was selected as German Footballer of the Year." ,
+		"Mario G\u00F3mez Garc\u00EDa (wym. [\u02C8ma\u02D0\u0281io\u02D0 \u02C8\u0261\u0254m\u025Bs]; ur. 10 lipca 1985 w Riedlingen) \u2013 niemiecki pi\u0142karz pochodzenia hiszpa\u0144skiego graj\u0105cy na pozycji napastnika we w\u0142oskiej ACF Fiorentina. Jego matka jest Niemk\u0105, za\u015B ojciec Hiszpanem."@pl ,
+		"\u0645\u0627\u0631\u064A\u0648 \u063A\u0648\u0645\u064A\u0632 \u063A\u0627\u0631\u0633\u064A\u0627 (\u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629: Mario G\u00F3mez Garc\u00EDa) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0623\u0644\u0645\u0627\u0646\u064A \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 10 \u064A\u0648\u0644\u064A\u0648 1985 \u0641\u064A \u0631\u064A\u062F\u0644\u064A\u0646\u063A\u062C\u0646 \u0641\u064A \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0648\u0647\u0648 \u0645\u0646 \u0623\u0635\u0644 \u0623\u0633\u0628\u0627\u0646\u064A (\u0648\u0627\u0644\u062F\u0647 \u0625\u0633\u0628\u0627\u0646\u064A \u0645\u0646 \u063A\u0631\u0646\u0627\u0637\u0629 \u0648\u0648\u0627\u0644\u062F\u062A\u0647 \u0647\u064A \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u0629).\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0634\u062A\u0648\u062A\u063A\u0627\u0631\u062A \u0645\u0646 \u0633\u0646\u0629 2003 \u062D\u062A\u0649 \u0633\u0646\u0629 2009. \u0648\u0647\u0648 \u0627\u0644\u0622\u0646 \u0645\u0639 \u0646\u0627\u062F\u064A \u0628\u0627\u064A\u0631\u0646 \u0645\u064A\u0648\u0646\u062E.\u0648\u0646\u0627\u0644 \u062C\u0627\u0626\u0632\u0629 \u0623\u0641\u0636\u0644 \u0644\u0627\u0639\u0628 \u0641\u064A \u0627\u0644\u062F\u0648\u0631\u064A \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0633\u0646\u0629 2007.\u0648\u0646\u0627\u0644 \u062C\u0627\u0626\u0632\u0629 \u0647\u062F\u0627\u0641 \u0627\u0644\u062F\u0648\u0631\u064A \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A (\u0627\u0644\u0628\u0648\u0646\u062F\u0633\u0644\u064A\u063A\u0627) \u0633\u0646\u0629 2010/2011\u0627\u0644\u0623\u0646\u062A\u0642\u0627\u0644 \u0625\u0644\u0649 \u0641\u064A\u0648\u0631\u0646\u062A\u064A\u0646\u0627\u0648\u0623\u0633\u062A\u0642\u0628\u0644 \u0646\u062D\u0648 25 \u0623\u0644\u0641 \u0645\u0634\u062C\u0639 \u0645\u0627\u0631\u064A\u0648 \u062C\u0648\u0645\u064A\u0632 \u0644\u062F\u0649 \u0648\u0635\u0648\u0644\u0647 \u0625\u0644\u0649 \u0627\u0633\u062A\u0627\u062F \u0627\u0631\u062A\u064A\u0645\u064A\u0648 \u0641\u0631\u0627\u0646\u0643\u064A \u0645\u0633\u0627\u0621 \u0627\u0644\u0627\u062B\u0646\u064A\u0646.\u0648\u0623\u0636\u0627\u0641\u062A \u0627\u0644\u0635\u062D\u064A\u0641\u0629 :\"\u064A\u0627\u0644\u0647 \u0645\u0646 \u0639\u0631\u0636\" \u0641\u064A \u062A\u0639\u0644\u064A\u0642\u0647\u0627 \u0639\u0644\u0649 \"\u0627\u0644\u0647\u0648\u0633 \u0628\u062C\u0648\u0645\u064A\u0632\" \u0641\u064A \u062A\u0648\u0633\u0643\u0627\u0646\u064A\u060C\u0628\u064A\u0646\u0645\u0627 \u0623\u0628\u062F\u062A \u0635\u062D\u064A\u0641\u0629 \"\u0643\u0648\u0631\u064A\u0631\u064A \u062F\u064A\u0644\u0644\u0648 \u0633\u0628\u0648\u0631\u062A\" \u0627\u0646\u062F\u0647\u0627\u0634\u0647\u0627 \u0645\u0646 \u0627\u0644\u0623\u0639\u062F\u0627\u062F \u0627\u0644\u0636\u062E\u0645\u0629 \u0645\u0646 \u0627\u0644\u0645\u0634\u062C\u0639\u064A\u0646 \u0627\u0644\u062A\u064A \u062C\u0627\u0621\u062A \u0644\u0645\u0634\u0627\u0647\u062F\u0629 \u0627\u0644\u0646\u062C\u0645 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A\u060C \u0648\u0643\u062A\u0628\u0648\u0627 \u0641\u064A \u0631\u0633\u0627\u0626\u0644\u062C\u0631\u064A\u0626\u0629 \"\u0645\u062C\u0627\u0646\u064A\u0646 \u0628\u062C\u0648\u0645\u064A\u0632\".\u0648\u062A\u0634\u0639\u0631 \u062C\u0645\u0627\u0647\u064A\u0631 \u0641\u064A\u0648\u0631\u0646\u062A\u064A\u0646\u0627 \u0628\u0633\u0639\u0627\u062F\u0629 \u063A\u0627\u0645\u0631\u0629 \u0628\u0639\u062F \u0646\u062C\u0627\u062D \u0627\u0644\u0646\u0627\u062F\u064A \u0641\u064A \u0627\u0644\u062A\u0639\u0627\u0642\u062F \u0645\u0639 \u0644\u0627\u0639\u0628 \u0645\u0646 \u0635\u0641\u0648\u0641 \u0628\u0627\u064A\u0631\u0646 \u0645\u064A\u0648\u0646\u064A\u062E \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0628\u0637\u0644 \u0627\u0644\u062F\u0648\u0631\u064A \u0648\u0627\u0644\u0643\u0623\u0633 \u0648\u062F\u0648\u0631\u064A \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627\u060C \u0643\u0645\u0627 \u064A\u0634\u0639\u0631 \u0642\u0627\u062F\u0629 \u0627\u0644\u0646\u0627\u062F\u064A \u0623\u064A\u0636\u0627 \u0628\u0627\u0644\u0641\u062E\u0631 \u0644\u0625\u062A\u0645\u0627\u0645 \u0627\u0644\u0645\u0647\u0645\u0629 \u0639\u0644\u0649 \u0627\u0644\u0646\u062D\u0648 \u0627\u0644\u0623\u0645\u062B\u0644.\u0643\u0645\u0627 \u0623\u0634\u0639\u0644 \u062C\u0648\u0645\u064A\u0632 \u062C\u0646\u0648\u0646 \u062C\u0645\u0627\u0647\u064A\u0631 \u0641\u064A\u0648\u0631\u0646\u062A\u064A\u0646\u0627 \u0639\u0628\u0631 \u0627\u0644\u0646\u0637\u0642 \u0628\u0623\u0648\u0644\u0649 \u0643\u0644\u0645\u0627\u062A\u0647 \u0628\u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629 \u0641\u064A \u0627\u0644\u0627\u0633\u062A\u0627\u062F \u060C \u062D\u064A\u062B \u0642\u0627\u0644 :\"\u0623\u0647\u0644\u0627 \u0628\u0643\u0645 \u062C\u0645\u064A\u0639\u0627\u060C\u0625\u0646\u0646\u064A \u0627\u0644\u0622\u0646 \u0641\u064A\u0648\u0631\u0646\u062A\u064A\u0646\u064A\u060C\u0648\u0623\u0646\u0627 \u0633\u0639\u064A\u062F \u062C\u062F\u0627 \u062C\u062F\u0627 \u062C\u062F\u0627\".\u0648\u0639\u0646\u062F\u0645\u0627 \u0623\u0646\u0647\u0649 \u062C\u0648\u0645\u064A\u0632 \u062D\u062F\u064A\u062B\u0647 \u0645\u0633\u062A\u062E\u062F\u0645\u0627 \u0643\u0644\u0645\u0629 \u0633\u0639\u064A\u062F \u062C\u062F\u0627 \u062B\u0644\u0627\u062B \u0645\u0631\u0627\u062A\u060C\u062B\u0645 \"\u0641\u0648\u0631\u0632\u0627 \u0641\u064A\u0648\u0644\u0627\" \u0635\u0627\u062D\u062A \u0627\u0644\u062C\u0645\u0627\u0647\u064A\u0631 \u0628\u0647\u062A\u0627\u0641\u0627\u062A \u0627\u0644\u062A\u0631\u062D\u064A\u0628 \u0648\u0644\u0648\u062D\u062A \u0628\u0627\u0644\u0623\u0639\u0644\u0627\u0645\u060C \u0648\u0627\u0644\u0623\u0648\u0634\u062D\u0629 \u0648\u0627\u0644\u0644\u0627\u0641\u062A\u0627\u062A\u060C \u062D\u062A\u0649 \u0623\u0646 \u0623\u0639\u0644\u0627\u0645 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0638\u0647\u0631\u062A \u0641\u064A \u0627\u0644\u0645\u062F\u0631\u062C\u0627\u062A.\u0648\u0642\u0627\u0644 \u062C\u0648\u0645\u064A\u0632 :\"\u0623\u062D\u0644\u0645 \u0628\u0627\u0644\u0641\u0648\u0632 \u0628\u0634\u064A\u0626 \u0645\u0627 \u0641\u064A \u0625\u064A\u0637\u0627\u0644\u064A\u0627\".\u0648\u0627\u062D\u062A\u0644 \u0641\u064A\u0648\u0631\u0646\u062A\u064A\u0646\u0627 \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u0631\u0627\u0628\u0639 \u0641\u064A \u062C\u062F\u0648\u0644 \u062A\u0631\u062A\u064A\u0628 \u0627\u0644\u062F\u0648\u0631\u064A \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A \u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u0645\u0627\u0636\u064A \u0628\u0639\u062F\u0645\u0627 \u0642\u062F\u0645 \u0623\u062F\u0627\u0621 \u0647\u062C\u0648\u0645\u064A\u0627 \u0645\u0630\u0647\u0644\u0627\u060C\u0648\u0628\u0627\u0644\u062A\u0627\u0644\u064A \u0641\u0625\u0646 \u0627\u0644\u0642\u0644\u064A\u0644 \u0645\u0646 \u0627\u0644\u062A\u0637\u0648\u0631 \u0639\u0644\u0649 \u0623\u062F\u0627\u0621 \u0627\u0644\u0641\u0631\u064A\u0642 \u0641\u064A \u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u0645\u0642\u0628\u0644 \u0645\u0646 \u0627\u0644\u0643\u0627\u0644\u0634\u064A\u0648 \u0633\u064A\u0636\u0645\u0646 \u0644\u0647 \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629 \u0641\u064A \u062F\u0648\u0631\u064A \u0623\u0628\u0637\u0627\u0644 \u0623\u0648\u0631\u0648\u0628\u0627.\u0648\u0641\u064A \u0627\u0644\u0648\u0642\u062A \u0627\u0644\u0630\u064A \u062A\u0628\u062F\u0648 \u0641\u064A\u0647 \u0637\u0645\u0648\u062D\u0627\u062A \u062C\u0648\u0645\u064A\u0632 (28\u0639\u0627\u0645\u0627) \u0639\u0627\u0644\u064A\u0629\u060C \u0641\u0625\u0646\u0647 \u0638\u0647\u0631 \u0645\u062A\u0648\u0627\u0636\u0639\u0627 \u062E\u0644\u0627\u0644 \u0645\u0631\u0627\u0633\u0645 \u062A\u0642\u062F\u064A\u0645\u0647\u060C\u062D\u064A\u062B \u0631\u0641\u0636 \u0627\u0644\u0645\u0647\u0627\u062C\u0645 \u0627\u0644\u062F\u0648\u0644\u064A \u0627\u0644\u062D\u062F\u064A\u062B \u0639\u0646 \u0623\u064A \u0644\u0627\u0639\u0628 \u0641\u064A \u0627\u0644\u0641\u0631\u064A\u0642 \u0628\u0634\u0643\u0644 \u0641\u0631\u062F\u064A\u060C\u0643\u0645\u0627 \u0644\u0645 \u064A\u0634\u0631 \u0625\u0644\u0649 \u0646\u0641\u0633\u0647 \u0643\u0646\u062C\u0645.\u0648\u0623\u0634\u0627\u0631 \u062C\u0648\u0645\u064A\u0632 :\"\u0623\u0631\u064A\u062F \u0623\u0646 \u062A\u0646\u0638\u0631 \u0644\u0646\u0627 \u0627\u0644\u062C\u0645\u0627\u0647\u064A\u0631 \u0643\u0648\u062D\u062F\u0629 \u0648\u0627\u062D\u062F\u0629\u060C\u0648\u0644\u064A\u0633 \u0641\u0631\u0627\u062F\u0649\u060C\u0647\u0630\u0627 \u0647\u0648 \u0633\u0631 \u0627\u0644\u0646\u062C\u0627\u062D \u0627\u0644\u0643\u0628\u064A\u0631\".\u0648\u0623\u0643\u062F \u062C\u0648\u0645\u064A\u0632 \u0627\u0644\u0630\u064A \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0635\u0641\u0648\u0641 \u0641\u064A\u0648\u0631\u0646\u062A\u064A\u0646\u0627 \u0642\u0627\u062F\u0645\u0627 \u0645\u0646 \u0628\u0627\u064A\u0631\u0646 \u0645\u064A\u0648\u0646\u064A\u062E \u0645\u0642\u0627\u0628\u0644 20 \u0645\u0644\u064A\u0648\u0646 \u064A\u0648\u0631\u0648 (26 \u0645\u0644\u064A\u0648\u0646 \u062F\u0648\u0644\u0627\u0631) \u0623\u0646 \u062C\u0648\u0633\u064A\u0628 \u062C\u0648\u0627\u0631\u062F\u064A\u0648\u0644\u0627 \u0627\u0644\u0645\u062F\u064A\u0631 \u0627\u0644\u0641\u0646\u064A \u0644\u0628\u0627\u064A\u0631\u0646 \u0623\u0634\u0627\u062F \u0644\u0647 \u0628\u0641\u064A\u0646\u0634\u064A\u0646\u0632\u0648 \u0645\u0648\u0646\u062A\u064A\u0644\u0627 \u0645\u062F\u0631\u0628 \u0641\u064A\u0648\u0631\u0646\u062A\u064A\u0646\u0627\u060C\u0645\u0634\u064A\u0631\u0627 :\"\u0644\u0642\u062F \u0623\u062E\u0628\u0631\u0646\u064A \u0628\u0623\u0646 \u0645\u0648\u0646\u062A\u064A\u0644\u0627 \u0645\u062F\u0631\u0628 \u0631\u0627\u0626\u0639\".\u0648\u0623\u0639\u0631\u0628 \u0631\u0626\u064A\u0633 \u0641\u064A\u0648\u0631\u0646\u062A\u064A\u0646\u0627 \u0623\u0646\u062F\u0631\u064A\u0627 \u062F\u064A\u0644\u0627 \u0641\u0627\u0644\u064A \u0639\u0646 \u0633\u0639\u0627\u062F\u062A\u0647 \u0628\u0627\u0644\u0639\u0631\u0636 \u0627\u0644\u0630\u064A \u0642\u062F\u0645\u0647 \u062C\u0648\u0645\u064A\u0632 \u062E\u0644\u0627\u0644 \u0645\u0631\u0627\u0633\u0645 \u062A\u0642\u062F\u064A\u0645\u0647.\u0648\u0642\u0627\u0644 \u0631\u0626\u064A\u0633 \u0641\u064A\u0648\u0631\u0646\u062A\u064A\u0646\u0627 :\"\u0645\u0627\u0631\u064A\u0648 \u0642\u0631\u0631 \u0627\u0644\u0627\u0646\u0636\u0645\u0627\u0645 \u0644\u0646\u0627 \u0644\u0623\u0646\u0647 \u064A\u062D\u0628 \u0637\u0631\u064A\u0642\u062A\u0646\u0627 \u0641\u064A \u0627\u0644\u0644\u0639\u0628\u060C\u0625\u0646\u0647 \u0627\u0644\u0631\u062C\u0644 \u0627\u0644\u0645\u0646\u0627\u0633\u0628 \u0641\u064A \u0627\u0644\u0645\u0643\u0627\u0646 \u0627\u0644\u0645\u0646\u0627\u0633\u0628\"\u060C \u0645\u0634\u064A\u0631\u0627 \u0625\u0644\u0649 \u0623\u0646 \u0627\u0644\u0644\u0627\u0639\u0628 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u062F\u0627\u0626\u0645\u0627 \u0645\u0627 \u062A\u0635\u0631\u0641 \u0628\u0634\u0643\u0644 \u0635\u0627\u0626\u0628 \u062E\u0644\u0627\u0644 \"\u0627\u0644\u0645\u0641\u0627\u0648\u0636\u0627\u062A \u0627\u0644\u0635\u0639\u0628\u0629 \u0648\u0627\u0644\u0645\u0637\u0648\u0644\u0629\".\u0648\u0642\u0627\u0644 \u062F\u064A\u0644\u0627 \u0641\u0627\u0644\u064A \u0644\u062F\u0649 \u062A\u0648\u0627\u062C\u062F\u0647 \u0628\u0635\u062D\u0628\u0629 \u062C\u0648\u0645\u064A\u0632\u060C\u0627\u0644\u0630\u064A \u0643\u0627\u0646 \u064A\u062D\u0645\u0644 \u0642\u0645\u064A\u0635 \u0631\u0642\u0645 33 \u0644\u0641\u064A\u0648\u0631\u0646\u062A\u064A\u0646\u0627\u060C\u0645\u0648\u062C\u0647\u0627 \u062D\u062F\u064A\u062B\u0647 \u0644\u0644\u062C\u0645\u0627\u0647\u064A\u0631 : \"\u0623\u0646\u062A\u0645 \u062A\u0633\u062A\u062D\u0642\u0648\u0646 \u0647\u0630\u0627 \u0627\u0644\u0646\u062C\u0645\u060C \u062C\u0648\u0645\u064A\u0632 \u062C\u0627\u0621 \u0625\u0644\u0649 \u0641\u0644\u0648\u0631\u0646\u0633\u0627 \u0628\u0633\u0628\u0628\u0643\u0645 \u0623\u0646\u062A\u0645\".\u0643\u0645\u0627 \u0631\u062D\u0628 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0648\u0646 \u0628\u062A\u0639\u0647\u062F \u062C\u0648\u0645\u064A\u0632 \u0623\u0646 \u064A\u062C\u0631\u064A \u0645\u0642\u0627\u0628\u0644\u0629 \u0635\u062D\u0641\u064A\u0629 \u0628\u0627\u0644\u0644\u063A\u0629 \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629 \u0641\u064A \u063A\u0636\u0648\u0646 \u0634\u0647\u0631\u064A\u0646.\u0648\u0628\u0639\u062F \u0623\u0646 \u0627\u0628\u062A\u0639\u062F \u0639\u0646 \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629 \u0641\u064A \u0627\u0644\u062A\u0634\u0643\u064A\u0644 \u0627\u0644\u0623\u0633\u0627\u0633\u064A \u0644\u0628\u0627\u064A\u0631\u0646 \u0645\u064A\u0648\u0646\u064A\u062E\u060C\u0641\u0625\u0646 \u062C\u0648\u0645\u064A\u0632\u064A\u062F\u0631\u0643 \u062A\u0645\u0627\u0645\u0627 \u0623\u0646\u0647 \u0633\u064A\u062D\u0638\u0649 \u0628\u0641\u0631\u0635\u062A\u0647 \u0643\u0627\u0645\u0644\u0629 \u0641\u064A \u0641\u064A\u0648\u0631\u0646\u062A\u064A\u0646\u0627\u060C\u0645\u0646 \u0623\u062C\u0644 \u062A\u0642\u062F\u064A\u0645 \u0623\u0641\u0636\u0644 \u0645\u0627 \u0644\u062F\u064A\u0647 \u0645\u0646 \u0623\u062C\u0644 \u0627\u0644\u0645\u0634\u0627\u0631\u0643\u0629 \u0645\u0639 \u0627\u0644\u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064A \u0641\u064A \u0646\u0647\u0627\u0626\u064A\u0627\u062A \u0643\u0623\u0633 \u0627\u0644\u0639\u0627\u0644\u0645 2014 \u0628\u0627\u0644\u0628\u0631\u0627\u0632\u064A\u0644.\u0648\u064A\u0628\u062F\u0648 \u0623\u0646 \u062C\u0648\u0645\u064A\u0632 \u0644\u0646 \u064A\u0643\u0648\u0646 \u0648\u062D\u064A\u062F\u0627 \u0641\u064A \u0625\u064A\u0637\u0627\u0644\u064A\u0627 \u062D\u064A\u062B \u064A\u062A\u0648\u0627\u062C\u062F \u0632\u0645\u064A\u0644\u0647 \u0641\u064A \u0645\u0646\u062A\u062E\u0628 \u0623\u0644\u0645\u0627\u0646\u064A\u0627\u060C \u0645\u064A\u0631\u0648\u0633\u0644\u0627\u0641 \u0643\u0644\u0648\u0632\u0647 \u0641\u064A \u0635\u0641\u0648\u0641 \u0644\u0627\u062A\u0633\u064A\u0648\u060C\u0648\u0628\u0627\u0644\u062A\u0627\u0644\u064A \u0641\u0625\u0646\u0647 \u0636\u0645\u0646 \u0635\u062F\u064A\u0642\u0627 \u0645\u062E\u0644\u0635\u0627 \u0641\u064A \u0627\u0644\u0623\u0631\u0627\u0636\u064A \u0627\u0644\u0625\u064A\u0637\u0627\u0644\u064A\u0629.\u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0623\u0644\u0645\u0627\u0646\u064A\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0633\u0646\u0629 2007.\u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"Mario G\u00F3mez Garc\u00EDa, n\u00E9 le 10 juillet 1985 \u00E0 Riedlingen en Bade-Wurtemberg, d'un p\u00E8re espagnol et d'une m\u00E8re allemande, est un footballeur international allemand qui \u00E9volue au poste d'attaquant \u00E0 la Fiorentina.Ce buteur prolifique s'est r\u00E9v\u00E9l\u00E9 lors de la saison 2006-2007 sous les couleurs du VfB Stuttgart. Il est finaliste de l'Euro 2008, troisi\u00E8me de la Coupe du monde en 2010 et demi-finaliste de l'Euro 2012."@fr ,
+		"Mario G\u00F3mez Garc\u00EDa (10 de julio de 1985), conocido deportivamente como Mario G\u00F3mez, es un futbolista alem\u00E1n. Juega de delantero centro y su equipo actual es la Fiorentina de la Serie A italiana. Tambi\u00E9n es internacional con con la selecci\u00F3n de f\u00FAtbol de Alemania."@es ,
+		"\u041C\u0430\u0301\u0440\u0438\u043E \u0413\u043E\u0301\u043C\u0435\u0441 \u0413\u0430\u0440\u0441\u0438\u0301\u044F (\u043D\u0435\u043C. Mario G\u00F3mez Garc\u00EDa; \u0440\u043E\u0434. 10 \u0438\u044E\u043B\u044F 1985, \u0420\u0438\u0434\u043B\u0438\u043D\u0433\u0435\u043D, \u0411\u0430\u0434\u0435\u043D-\u0412\u044E\u0440\u0442\u0435\u043C\u0431\u0435\u0440\u0433, \u0424\u0420\u0413) \u2014 \u043D\u0435\u043C\u0435\u0446\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439, \u0438\u0433\u0440\u043E\u043A \u00AB\u0424\u0438\u043E\u0440\u0435\u043D\u0442\u0438\u043D\u044B\u00BB \u0438 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438. \u041E\u0431\u043B\u0430\u0434\u0430\u0442\u0435\u043B\u044C \u043F\u0440\u0438\u0437\u0430 \u00AB\u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442 \u0433\u043E\u0434\u0430 \u0432 \u0413\u0435\u0440\u043C\u0430\u043D\u0438\u0438\u00BB 2007 \u0433\u043E\u0434\u0430. \u0427\u0435\u043C\u043F\u0438\u043E\u043D \u0411\u0443\u043D\u0434\u0435\u0441\u043B\u0438\u0433\u0438 2007 \u0433\u043E\u0434\u0430. \u041B\u0443\u0447\u0448\u0438\u0439 \u0431\u043E\u043C\u0431\u0430\u0440\u0434\u0438\u0440 \u0415\u0432\u0440\u043E-2012 (\u043D\u0430\u0440\u044F\u0434\u0443 \u0441 \u041C\u0430\u0440\u0438\u043E \u0411\u0430\u043B\u043E\u0442\u0435\u043B\u043B\u0438, \u041A\u0440\u0438\u0448\u0442\u0438\u0430\u043D\u0443 \u0420\u043E\u043D\u0430\u043B\u0434\u0443, \u0410\u043B\u0430\u043D\u043E\u043C \u0414\u0437\u0430\u0433\u043E\u0435\u0432\u044B\u043C, \u041C\u0430\u0440\u0438\u043E \u041C\u0430\u043D\u0434\u0436\u0443\u043A\u0438\u0447\u0435\u043C \u0438 \u0424\u0435\u0440\u043D\u0430\u043D\u0434\u043E \u0422\u043E\u0440\u0440\u0435\u0441\u043E\u043C) \u0423 \u0413\u043E\u043C\u0435\u0441\u0430 \u043D\u0435\u043C\u0435\u0446\u043A\u043E-\u0438\u0441\u043F\u0430\u043D\u0441\u043A\u0438\u0435 \u043A\u043E\u0440\u043D\u0438: \u0435\u0433\u043E \u043E\u0442\u0435\u0446 \u0425\u043E\u0441\u0435 \u2014 \u0438\u0441\u043F\u0430\u043D\u0435\u0446, \u0440\u043E\u0434\u043E\u043C \u0438\u0437 \u0410\u043B\u044C\u0431\u0443\u043D\u044C\u044F\u043D\u0430 (\u0432 \u0430\u043D\u0434\u0430\u043B\u0443\u0441\u0441\u043A\u043E\u0439 \u043F\u0440\u043E\u0432\u0438\u043D\u0446\u0438\u0438 \u0413\u0440\u0430\u043D\u0430\u0434\u0430), \u0430 \u043C\u0430\u0442\u044C \u041A\u0440\u0438\u0441\u0442\u0435\u043B\u044C \u2014 \u043D\u0435\u043C\u043A\u0430."@ru ,
+		"Mario G\u00F3mez (Riedlingen, 10 juli 1985) is een Duits betaald voetballer met een Duits-Spaanse achtergrond die in de aanval speelt. In februari 2007 debuteerde hij in het Duits voetbalelftal, waarvoor hij sindsdien meer dan 45 interlands speelde.G\u00F3mez debuteerde in 2003 in het shirt van VfB Stuttgart in het betaald voetbal. Daarmee werd hij Duits landskampioen in het seizoen 2006/07. Dat jaar werd hij zelf Duits voetballer van het jaar gekozen. Na in zes seizoenen 121 competitiewedstrijden gespeeld te hebben voor Stuttgart en daarin 63 keer gescoord te hebben, werd G\u00F3mez gekocht door FC Bayern M\u00FCnchen. Dat betaalde daarvoor dertig miljoen euro aan VfB Stuttgart. In 2013 stapte hij over naar het Italiaanse ACF Fiorentina.G\u00F3mez speelde voor Spanje in verschillende vertegenwoordigende jeugdteams, maar koos er uiteindelijk voor om voor Duitsland in het nationale team te spelen. Zo maakte hij deel uit van de Duitse ploeg op het EK 2008, WK 2010 en het EK 2012."@nl ,
+		"Mario G\u00F3mez Garc\u00EDa (Riedlingen, 10 de julho de 1985) \u00E9 um futebolista alem\u00E3o de ascend\u00EAncia espanhola que atua como atacante. Atualmente, joga pela Fiorentina e defende a Sele\u00E7\u00E3o Alem\u00E3 de Futebol.Em 2007, Mario G\u00F3mez viveu uma das melhores temporadas da sua carreira, sendo campe\u00E3o alem\u00E3o com o Stuttgart, recebendo sua primeira convoca\u00E7\u00E3o para a sele\u00E7\u00E3o principal da Alemanha e, ao final da temporada, foi eleito o futebolista alem\u00E3o do ano. Na Eurocopa 2008, foi titular da Sele\u00E7\u00E3o Alem\u00E3, mas o desempenho n\u00E3o convenceu e foi sacado do time. Ainda assim, participou do elenco que participou das Eliminat\u00F3rias da Copa do Mundo de 2010. Na Copa do Mundo de 2010, o atleta esteve na \u00C1frica do Sul com o time. A Alemanha fez uma boa campanha, chegando \u00E0 semifinal diante da Espanha mas acabou perdendo. Mesmo assim, a sele\u00E7\u00E3o acabou na terceira coloca\u00E7\u00E3o ao bater o Uruguai.No dia 26 de maio de 2009, G\u00F3mez transferiu-se para o Bayern de Munique. Os valores da negocia\u00E7\u00E3o n\u00E3o foram revelados, mas especulados pela imprensa em 30 milh\u00F5es de euros, sendo a maior da hist\u00F3ria da Bundesliga. No Bayern, foi titular e manteve excelente m\u00E9dia de gols. Foi o artilheiro da Bundesliga 2010-11 com 28 gols e vice-artilheiro da Champions League 2011-12 com 12 ficando atr\u00E1s somente do argentino Lionel Messi que ficou com 14."@pt ,
+		"\u99AC\u91CC\u5967\u00B7\u9AD8\u7F8E\u65AF\uFF08\u897F\u73ED\u7259\u8BED\uFF1AMario G\u00F3mez Garc\u00EDa\uFF0C1985\u5E747\u670810\u65E5\uFF0D\uFF09\uFF0C\u5FB7\u570B\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u76EE\u524D\u6548\u529B\u610F\u5927\u5229\u8DB3\u7403\u7532\u7D1A\u806F\u8CFD\u7403\u6703\u8CBB\u502B\u5929\u62FF\u3002\u4ED6\u7684\u7236\u89AA\u662F\u897F\u73ED\u7259\u4EBA\uFF0C\u800C\u4ED6\u7684\u6BCD\u89AA\u662F\u5FB7\u570B\u4EBA\u3002"@zh ,
+		"\u30DE\u30EA\u30AA\u30FB\u30B4\u30E1\u30B9\u30FB\u30AC\u30EB\u30B7\u30A2\uFF08Mario Gomez Garc\u00EDa, 1985\u5E747\u670810\u65E5 - \uFF09\u306F\u30C9\u30A4\u30C4\u3001\u30EA\u30FC\u30C8\u30EA\u30F3\u30B2\u30F3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002ACF\u30D5\u30A3\u30AA\u30EC\u30F3\u30C6\u30A3\u30FC\u30CA\u6240\u5C5E\u3002\u30C9\u30A4\u30C4\u4EE3\u8868\u3067\u3042\u308B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30D5\u30A9\u30EF\u30FC\u30C9\u3002\u7236\u304C\u30B9\u30DA\u30A4\u30F3\u4EBA\u3001\u6BCD\u304C\u30C9\u30A4\u30C4\u4EBA\u3002\u7236\u306E\u5F71\u97FF\u3067FC\u30D0\u30EB\u30BB\u30ED\u30CA\u3092\u61A7\u308C\u306E\u30AF\u30E9\u30D6\u3068\u516C\u8A00\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"Mario G\u00F3mez Garc\u00EDa (pronuncia tedesca [\u02C8ma\u02D0\u0281j\u0254 \u02C8\u0261\u0254m\u025Bs]; spagnolo [\u02C8\u0261ome\u03B8]) (Riedlingen, 10 luglio 1985) \u00E8 un calciatore tedesco, attaccante della Fiorentina e della Nazionale tedesca, con cui \u00E8 stato vice-campione d'Europa agli Europei 2008.Con la maglia del Bayern Monaco, squadra nella quale ha militato dal 2009 al 2013, ha conquistato sette trofei: due campionati tedeschi, due Coppe di Germania, due Supercoppe di Germania e una UEFA Champions League.Dopo aver vestito la maglia della Germania in molte nazionali giovanili, debutta in Nazionale maggiore, con la quale ha preso parte all'Europeo 2008, al Mondiale 2010, all'Europeo 2012, di cui \u00E8 risultato uno dei capocannonieri."@it ,
+		"Mario G\u00F3mez Garc\u00EDa (* 10. Juli 1985 in Riedlingen) ist ein deutscher Fu\u00DFballspieler, der seit der Saison 2013/14 beim italienischen Erstligisten AC Florenz unter Vertrag steht und f\u00FCr die deutsche Nationalmannschaft aktiv ist."@de ;
+	dbpedia-owl:wikiPageID	7445618 ;
+	dbpedia-owl:wikiPageRevisionID	605854038 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+<http://dbpedia.org/resource/Mario_G%C3%B3mez>	dbpprop:birthDate	"1985-07-10+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Riedlingen, West Germany" ;
+	dbpprop:dateOfBirth	"1985-07-10+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Riedlingen, West Germany" ;
+	dbpprop:shortDescription	"German footballer" ;
+	dbpedia-owl:birthDate	"1985-07-10+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Riedlingen ;
+	dbpedia-owl:birthYear	"1985+02:00"^^xsd:gYear ;
+	dbpprop:goals	75 ,
+		63 ,
+		21 ,
+		3 ;
+	dbpprop:bg	"white" ;
+	dbpprop:caps	121 ,
+		115 ,
+		9 ,
+		43 ;
+	dbpprop:years	2009 ,
+		2013 ,
+		2003 ;
+	dbpprop:youthclubs	dbpedia:VfB_Stuttgart ,
+		dbpedia:SSV_Ulm_1846 ,
+		"SV Unlingen" ,
+		"FV Bad Saulgau" ;
+	dbpedia-owl:careerStation	<http://dbpedia.org/resource/Mario_G%C3%B3mez__6> ,
+		<http://dbpedia.org/resource/Mario_G%C3%B3mez__7> ,
+		<http://dbpedia.org/resource/Mario_G%C3%B3mez__3> ,
+		<http://dbpedia.org/resource/Mario_G%C3%B3mez__10> ,
+		<http://dbpedia.org/resource/Mario_G%C3%B3mez__5> ,
+		<http://dbpedia.org/resource/Mario_G%C3%B3mez__2> ,
+		<http://dbpedia.org/resource/Mario_G%C3%B3mez__4> ,
+		<http://dbpedia.org/resource/Mario_G%C3%B3mez__1> ,
+		<http://dbpedia.org/resource/Mario_G%C3%B3mez__9> ,
+		<http://dbpedia.org/resource/Mario_G%C3%B3mez__8> ;
+	dbpprop:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:height	1.8899999999999999023 .
+@prefix ns20:	<http://dbpedia.org/datatype/> .
+@prefix ns21:	<http://dbpedia.org/ontology/Person/> .
+<http://dbpedia.org/resource/Mario_G%C3%B3mez>	ns21:height	"189.0"^^ns20:centimetre ;
+	dbpprop:currentclub	dbpedia:ACF_Fiorentina ;
+	dbpprop:clubnumber	33 ;
+	dbpprop:fullname	"Mario G\u00F3mez Garc\u00EDa" ;
+	dbpprop:clubs	dbpedia:FC_Bayern_Munich ,
+		dbpedia:ACF_Fiorentina ,
+		dbpedia:VfB_Stuttgart ,
+		dbpedia:VfB_Stuttgart_II ;
+	dbpedia-owl:team	dbpedia:FC_Bayern_Munich ,
+		dbpedia:ACF_Fiorentina ,
+		dbpedia:Germany_national_youth_football_team ,
+		dbpedia:SSV_Ulm_1846 ,
+		dbpedia:VfB_Stuttgart ,
+		dbpedia:VfB_Stuttgart_II .
+@prefix ns22:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+<http://dbpedia.org/resource/Mario_G%C3%B3mez>	dbpprop:wordnet_type	ns22:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Awards" ,
+		"Germany squads" ;
+	dbpprop:pcupdate	"--03-24+02:00"^^xsd:gMonthDay ;
+	dbpprop:youthyears	1998 ,
+		1990 ,
+		2000 ,
+		2001 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.mario-gomez.de/> ;
+	dbpprop:bordercolor	"black" ;
+	dbpprop:fg	"black" ;
+	dbpprop:nationalcaps	59 ,
+		14 ,
+		8 ,
+		9 ,
+		4 ,
+		2 ,
+		3 ,
+		19 ;
+	dbpprop:nationalgoals	0 ,
+		1 ,
+		2 ,
+		5 ,
+		11 ,
+		25 ;
+	dbpprop:nationalteam	dbpedia:Germany_national_football_team ,
+		dbpedia:Germany_national_under-21_football_team ,
+		dbpedia:Germany_national_football_B_team ,
+		dbpedia:Germany_national_youth_football_team ;
+	dbpprop:nationalyears	2004 ,
+		2005 ,
+		2007 ,
+		2000 ,
+		2002 ,
+		1999 ;
+	dbpedia-owl:number	33 ;
+	dbpedia-owl:alias	"G\u00F3mez Garc\u00EDa, Mario" ;
+	dbpprop:alternativeNames	"G\u00F3mez Garc\u00EDa, Mario" ;
+	dbpprop:ntupdate	"--08-14+02:00"^^xsd:gMonthDay ;
+	dbpprop:titlestyle	"background: gold" .
+<http://dbpedia.org/resource/2013%E2%80%9314_ACF_Fiorentina_season>	dbpprop:p	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+<http://dbpedia.org/resource/2011%E2%80%9312_FC_Bayern_Munich_season>	dbpprop:name	<http://dbpedia.org/resource/Mario_G%C3%B3mez> ;
+	dbpprop:leagueTopscorer	<http://dbpedia.org/resource/Mario_G%C3%B3mez> ;
+	dbpprop:seasonTopscorer	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+dbpedia:Germany_national_football_team	dbpprop:name	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+dbpedia:List_of_German_football_transfers_summer_2013	dbpprop:name	<http://dbpedia.org/resource/Mario_G%C3%B3mez> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+dbpedia:UEFA_Euro_2012_squads	dbpprop:name	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+<http://dbpedia.org/resource/2007%E2%80%9308_VfB_Stuttgart_season__Mario_Gomez__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+dbpedia:List_of_German_football_transfers_summer_2009	dbpprop:name	<http://dbpedia.org/resource/Mario_G%C3%B3mez> ;
+	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+<http://dbpedia.org/resource/ACF_Fiorentina__Mario_G%C3%B3mez__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+dbpedia:ACF_Fiorentina	dbpprop:name	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+<http://dbpedia.org/resource/2010%E2%80%9311_FC_Bayern_Munich_season>	dbpprop:leagueTopscorer	<http://dbpedia.org/resource/Mario_G%C3%B3mez> ;
+	dbpprop:seasonTopscorer	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+dbpedia:UEFA_Euro_2012_statistics	dbpprop:bracesPlayer	<http://dbpedia.org/resource/Mario_G%C3%B3mez> ;
+	dbpprop:mostGoalsPlayerMatchPlayer	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+<http://dbpedia.org/resource/2010%E2%80%9311_1._FC_N%C3%BCrnberg_season>	dbpprop:motm	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+<http://dbpedia.org/resource/2006%E2%80%9307_VfB_Stuttgart_season>	dbpprop:name	<http://dbpedia.org/resource/Mario_G%C3%B3mez> ;
+	dbpprop:leagueTopscorer	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+<http://dbpedia.org/resource/Mario_G%C3%B3mez_(disambiguation)>	dbpedia-owl:wikiPageDisambiguates	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+dbpedia:Mario_Gómez	owl:sameAs	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+<http://dbpedia.org/resource/2003%E2%80%9304_VfB_Stuttgart_season__Mario_Gomez__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+<http://dbpedia.org/resource/2006%E2%80%9307_VfB_Stuttgart_season__Mario_Gomez__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+<http://dbpedia.org/resource/2011%E2%80%9312_FC_Bayern_Munich_season__Mario_G%C3%B3mez__1>	dbpedia-owl:currentMember	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+<http://dbpedia.org/resource/Mario_G%C3%B3mez_Garc%C3%ADa>	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+dbpedia:Mario_Gomez	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .
+dbpedia:Mario_gomez	dbpedia-owl:wikiPageRedirects	<http://dbpedia.org/resource/Mario_G%C3%B3mez> .

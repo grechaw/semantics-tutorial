@@ -1,0 +1,405 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q200785	owl:sameAs	dbpedia:Tim_Howard .
+@prefix ns5:	<http://el.dbpedia.org/resource/> .
+ns5:Τιμ_Χάουαρντ	owl:sameAs	dbpedia:Tim_Howard .
+@prefix ns6:	<http://es.dbpedia.org/resource/> .
+ns6:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+@prefix ns7:	<http://eu.dbpedia.org/resource/> .
+ns7:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+@prefix ns8:	<http://id.dbpedia.org/resource/> .
+ns8:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+@prefix ns9:	<http://it.dbpedia.org/resource/> .
+ns9:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+@prefix ns10:	<http://ja.dbpedia.org/resource/> .
+ns10:ティム・ハワード	owl:sameAs	dbpedia:Tim_Howard .
+@prefix ns11:	<http://ko.dbpedia.org/resource/> .
+ns11:팀_하워드	owl:sameAs	dbpedia:Tim_Howard .
+@prefix ns12:	<http://nl.dbpedia.org/resource/> .
+ns12:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+@prefix ns13:	<http://pl.dbpedia.org/resource/> .
+ns13:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+@prefix ns14:	<http://pt.dbpedia.org/resource/> .
+ns14:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2003_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Tim_Howard .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns17:	<http://en.wikipedia.org/wiki/> .
+ns17:Tim_Howard	foaf:primaryTopic	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/Football_at_the_2000_Summer_Olympics_%E2%80%93_Men\u0027s_team_squads>	dbpprop:name	dbpedia:Tim_Howard .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Tim_Howard	rdf:type	yago:AssociationFootballGoalkeepersWhoHaveScored ,
+		yago:Player110439851 ,
+		yago:AmericanPeopleOfHungarianDescent ,
+		yago:MontclairKimberleyAcademyAlumni ,
+		yago:FootballPlayer110101634 ,
+		yago:MetroStarsPlayers ,
+		yago:Athlete109820263 ,
+		<http://dbpedia.org/class/yago/PeopleFromMiddlesexCounty,NewJersey> ,
+		<http://dbpedia.org/class/yago/2009FIFAConfederationsCupPlayers> ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActorGeo ,
+		<http://dbpedia.org/class/yago/EvertonF.C.Players> ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		foaf:Person ,
+		yago:ExpatriateFootballersInEngland ,
+		yago:AssociationFootballGoalkeepers ,
+		yago:HockeyPlayer110179291 .
+@prefix ns20:	<http://schema.org/> .
+dbpedia:Tim_Howard	rdf:type	ns20:Person ,
+		yago:Goalkeeper110134001 .
+@prefix ns21:	<http://umbel.org/umbel/rc/> .
+dbpedia:Tim_Howard	rdf:type	ns21:Athlete .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Tim_Howard	rdf:type	dbpedia-owl:Athlete ,
+		yago:OlympicSoccerPlayersOfTheUnitedStates ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:Exile110071332 ,
+		<http://dbpedia.org/class/yago/2011CONCACAFGoldCupPlayers> ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Tim_Howard	rdf:type	dul:Agent ,
+		yago:Scholar110557854 ,
+		ns4:Q5 ,
+		yago:Intellectual109621545 ,
+		yago:Alumnus109786338 ,
+		yago:SoccerPlayersFromNewJersey ,
+		dul:NaturalPerson ,
+		yago:FootballersAtThe2000SummerOlympics ,
+		yago:PeopleWithTouretteSyndrome ,
+		yago:Whole100003553 ,
+		dbpedia-owl:Person ,
+		yago:Object100002684 ,
+		<http://dbpedia.org/class/yago/2006FIFAWorldCupPlayers> ,
+		yago:PremierLeaguePlayers ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:AmericanSoccerPlayers ,
+		yago:SoccerPlayer110618342 ,
+		ns4:Q215627 ,
+		yago:PhysicalEntity100001930 ,
+		owl:Thing ,
+		yago:AfricanAmericanSoccerPlayers ,
+		<http://dbpedia.org/class/yago/2007CONCACAFGoldCupPlayers> ,
+		<http://dbpedia.org/class/yago/UnitedStatesMen\u0027sInternationalSoccerPlayers> ,
+		yago:AmericanExpatriatesInTheUnitedKingdom ,
+		yago:AmericanExpatriateSoccerPeopleInTheUnitedKingdom ,
+		yago:AmericanExpatriateSoccerPlayers ,
+		<http://dbpedia.org/class/yago/ManchesterUnitedF.C.Players> ,
+		<http://dbpedia.org/class/yago/2003FIFAConfederationsCupPlayers> ,
+		yago:NorthJerseyImperialsPlayers ,
+		yago:Contestant109613191 ,
+		ns21:SoccerPlayer ,
+		<http://dbpedia.org/class/yago/2007CopaAm%C3%A9ricaPlayers> .
+@prefix ns24:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns24:Tim_Howard ,
+		ns12:Tim_Howard .
+@prefix ns25:	<http://ca.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns25:Tim_Howard ,
+		ns1:Tim_Howard ,
+		ns6:Tim_Howard ,
+		ns4:Q200785 ,
+		ns14:Tim_Howard .
+@prefix ns26:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns26:Tim_Howard .
+@prefix ns27:	<http://th.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns27:ทิม_ฮาวเวิร์ด .
+@prefix ns28:	<http://no.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns28:Tim_Howard ,
+		<http://ru.dbpedia.org/resource/\u0425\u043E\u0432\u0430\u0440\u0434,_\u0422\u0438\u043C> .
+@prefix ns29:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns29:تيم_هاوارد .
+@prefix ns30:	<http://mk.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns30:Тим_Хауард .
+@prefix ns31:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns31:Tim_Howard ,
+		ns11:팀_하워드 ,
+		ns3:Tim_Howard .
+@prefix ns32:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns32:添·侯活 .
+@prefix ns33:	<http://ga.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns33:Tim_Howard .
+@prefix ns34:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns34:टिम_हॉवर्ड .
+@prefix ns35:	<http://he.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns35:טים_הווארד .
+@prefix ns36:	<http://bg.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns36:Тим_Хауърд .
+@prefix ns37:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns37:Тім_Говард .
+@prefix ns38:	<http://la.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns38:Timotheus_Award ,
+		ns9:Tim_Howard .
+@prefix ns39:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns39:تیم_هاورد .
+@prefix ns40:	<http://hr.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns40:Tim_Howard .
+@prefix ns41:	<http://et.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns41:Tim_Howard ,
+		<http://rdf.freebase.com/ns/m.026s3n> ,
+		dbpedia:Tim_Howard ,
+		ns13:Tim_Howard .
+@prefix ns42:	<http://wikidata.org/entity/> .
+dbpedia:Tim_Howard	owl:sameAs	ns42:Q200785 .
+@prefix ns43:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns43:Tim_Howard .
+@prefix ns44:	<http://nn.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns44:Tim_Howard ,
+		ns8:Tim_Howard .
+@prefix ns45:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns45:Tim_Howard .
+@prefix ns46:	<http://sw.cyc.com/concept/> .
+dbpedia:Tim_Howard	owl:sameAs	ns46:Mx4rucgJRBSzTGaubCDII-grGg ,
+		ns10:ティム・ハワード .
+@prefix ns47:	<http://be_x_old.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns47:Тым_Говард .
+@prefix ns48:	<http://yago-knowledge.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns48:Tim_Howard ,
+		ns5:Τιμ_Χάουαρντ .
+@prefix ns49:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Tim_Howard	owl:sameAs	ns49:Tim_Howard ,
+		ns7:Tim_Howard .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Tim_Howard	rdfs:label	"Tim Howard"@es ,
+		"Tim Howard" ,
+		"Tim Howard"@de ,
+		"Tim Howard"@pt ,
+		"\u0425\u043E\u0432\u0430\u0440\u0434, \u0422\u0438\u043C"@ru ,
+		"Tim Howard"@fr ,
+		"\u062A\u064A\u0645 \u0647\u0627\u0648\u0627\u0631\u062F"@ar ,
+		"\u6DFB\u00B7\u4FAF\u6D3B"@zh ,
+		"Tim Howard"@nl ,
+		"Tim Howard"@it ,
+		"\u30C6\u30A3\u30E0\u30FB\u30CF\u30EF\u30FC\u30C9"@ja ,
+		"Tim Howard"@pl .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Tim_Howard	dcterms:subject	category:American_people_of_Hungarian_descent ,
+		category:CONCACAF_Gold_Cup-winning_players ,
+		category:Association_football_goalkeepers_who_have_scored ,
+		<http://dbpedia.org/resource/Category:2009_FIFA_Confederations_Cup_players> ,
+		category:Living_people ,
+		category:American_soccer_players ,
+		<http://dbpedia.org/resource/Category:1979_births> ,
+		category:MLS_Pro-40_players ,
+		category:New_York_Red_Bulls_players ,
+		category:Association_football_goalkeepers ,
+		category:American_Christians ,
+		category:Olympic_soccer_players_of_the_United_States ,
+		category:Montclair_Kimberley_Academy_alumni ,
+		<http://dbpedia.org/resource/Category:Everton_F.C._players> ,
+		<http://dbpedia.org/resource/Category:People_from_North_Brunswick,_New_Jersey> ,
+		category:People_with_Tourette_syndrome ,
+		category:Footballers_at_the_2000_Summer_Olympics ,
+		category:American_expatriate_soccer_players ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:United_States_men\u0027s_youth_international_soccer_players> ,
+		<http://dbpedia.org/resource/Category:2007_CONCACAF_Gold_Cup_players> ,
+		category:African-American_soccer_players ,
+		category:American_expatriate_sportspeople_in_the_United_Kingdom ,
+		category:Soccer_players_from_New_Jersey ,
+		category:Premier_League_players ,
+		category:North_Jersey_Imperials_players ,
+		category:Sportspeople_from_the_New_York_metropolitan_area ,
+		<http://dbpedia.org/resource/Category:Manchester_United_F.C._players> ,
+		category:Expatriate_footballers_in_England ,
+		<http://dbpedia.org/resource/Category:2011_CONCACAF_Gold_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2006_FIFA_World_Cup_players> ,
+		category:Major_League_Soccer_All-Stars ,
+		category:Major_League_Soccer_players ,
+		category:American_expatriates_in_the_United_Kingdom ,
+		category:USISL_A-League_players ,
+		<http://dbpedia.org/resource/Category:United_States_men\u0027s_international_soccer_players> ,
+		<http://dbpedia.org/resource/Category:2003_FIFA_Confederations_Cup_players> ;
+	foaf:homepage	<http://www.timhowardstory.com> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Tim_Howard_USA.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Tim_Howard	dc:description	"Soccer player" ,
+		"Soccer player" ;
+	foaf:givenName	"Tim" ;
+	foaf:name	"Timothy Matthew Howard" ,
+		"Tim Howard" ,
+		"Howard, Tim" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Tim_Howard	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Tim_Howard?oldid=606811114> ;
+	rdfs:comment	"Timothy Matthew \"Tim\" Howard (North Brunswick Township, 3 de junho de 1979) \u00E9 um futebolista estadunidense que atua como goleiro. Seu talento foi descoberto em 2001 pelo treinador de goleiros Tony Coton. Howard come\u00E7ou a sua carreira com o North Jersey Imperials antes de se transferir para o MetroStars. Suas apari\u00E7\u00F5es logo atra\u00EDram a aten\u00E7\u00E3o do Manchester United, que o contratou em 2003."@pt ,
+		"Timothy Matthew Howard (North Brunswick, Nueva Jersey, 6 de marzo de 1979), mejor conocido como Tim Howard, es un jugador profesional de f\u00FAtbol estadounidense, que juega de portero en el Everton Football Club de la Premier League inglesa.Howard comenz\u00F3 su carrera en el club North Jersey Imperials y posteriormente pas\u00F3 al Nueva York-Nueva Jersey MetroStars, donde logr\u00F3 destacarse, lo que le ayud\u00F3 a fichar en 2003 con el Manchester United, para sustituir al impredecible Fabien Barthez."@es ,
+		"Tim Howard (North Brunswick, 6 maart 1979) is een Amerikaans doelman in het betaald voetbal. Hij tekende een contract van 1 juli 2007 tot aan de zomer van 2012 bij Everton, dat hem het jaar daarvoor al huurde van Manchester United FC. In maart 2002 debuteerde hij in het Amerikaans voetbalelftal, waarvoor hij bijna honderd interlands speelde."@nl ,
+		"\u0422\u0438\u0301\u043C\u043E\u0442\u0438 \u041C\u044D\u0301\u0442\u0442\u044C\u044E \u0425\u043E\u0301\u0432\u0430\u0440\u0434 (\u0430\u043D\u0433\u043B. Timothy Matthew Howard; \u0440\u043E\u0434. 6 \u043C\u0430\u0440\u0442\u0430 1979, \u041D\u043E\u0440\u0442-\u0411\u0440\u0430\u043D\u0441\u0443\u0438\u043A), \u0431\u043E\u043B\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u043A\u0430\u043A \u0422\u0438\u043C \u0425\u043E\u0301\u0432\u0430\u0440\u0434 \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432\u0440\u0430\u0442\u0430\u0440\u044C \u043A\u043B\u0443\u0431\u0430 \u00AB\u042D\u0432\u0435\u0440\u0442\u043E\u043D\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u0428\u0410.\u041E\u0431\u043B\u0430\u0434\u0430\u0442\u0435\u043B\u044C \u041A\u0443\u0431\u043A\u0430 \u0410\u043D\u0433\u043B\u0438\u0438 2004 \u0433\u043E\u0434\u0430, \u041A\u0443\u0431\u043A\u0430 \u041B\u0438\u0433\u0438 2006 \u0433\u043E\u0434\u0430, \u0421\u0443\u043F\u0435\u0440\u043A\u0443\u0431\u043A\u0430 \u0410\u043D\u0433\u043B\u0438\u0438 2003 \u0433\u043E\u0434\u0430, \u0417\u043E\u043B\u043E\u0442\u043E\u0433\u043E \u043A\u0443\u0431\u043A\u0430 \u041A\u041E\u041D\u041A\u0410\u041A\u0410\u0424 2007 \u0433\u043E\u0434\u0430. \u0412\u0440\u0430\u0442\u0430\u0440\u044C \u0433\u043E\u0434\u0430 MLS 2001 \u0433\u043E\u0434\u0430. \u0412\u0440\u0430\u0442\u0430\u0440\u044C \u0433\u043E\u0434\u0430 \u041A\u041E\u041D\u041A\u0410\u041A\u0410\u0424 2013 \u0433\u043E\u0434\u0430."@ru ,
+		"Tim Howard (ur. 6 marca 1979 w North Brunswick, New Jersey) \u2013 pi\u0142karz ameryka\u0144ski graj\u0105cy na pozycji bramkarza, reprezentant USA, obecnie zawodnik Evertonu. Wcze\u015Bniej gra\u0142 w Manchesterze United, MetroStars oraz North Jersey Imperials."@pl ,
+		"Timothy Matthew \"Tim\" Howard (born March 6, 1979) is an American soccer player who plays as a goalkeeper for English club Everton and the United States national team.Howard started his career with the North Jersey Imperials before making a move to the MetroStars. His appearances soon attracted the attention of Manchester United, who signed him in 2003. He enjoyed relative success with them as they won the 2003 FA Community Shield, the 2003\u201304 FA Cup and the 2005\u201306 League Cup." ,
+		"Timothy Matthew Howard \u2013 detto Tim \u2013 (North Brunswick, 6 marzo 1979) \u00E8 un calciatore statunitense, portiere dell'Everton e della Nazionale statunitense."@it ,
+		"Timothy Matthew \u201ETim\u201C Howard (* 6. M\u00E4rz 1979 in North Brunswick Township, New Jersey) ist ein US-amerikanischer Fu\u00DFball-Torwart und Nationalspieler."@de ,
+		"\u062A\u064A\u0645\u0648\u062B\u064A \u0645\u0627\u062B\u064A\u0648 \u0647\u0627\u0648\u0627\u0631\u062F\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 6 \u0645\u0627\u0631\u0633 1979 \u0641\u064A \u062A\u0634\u064A\u063A\u0648\u064A\u0644 \u0641\u064A \u0625\u0646\u062C\u0644\u062A\u0631\u0627\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0623\u0645\u0631\u064A\u0643\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0646\u0648\u0631\u062B \u062C\u064A\u0631\u0633\u064A \u0625\u0645\u0628\u0631\u064A\u0627\u0644\u0632 \u0641\u064A \u0639\u0627\u0645 1997\u060C \u0648\u0641\u064A \u0639\u0627\u0645 1998 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0645\u064A\u062A\u0631\u0648 \u0633\u062A\u0627\u0631\u0632\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2003\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 85 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2003 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0645\u0627\u0646\u0634\u0633\u062A\u0631 \u064A\u0648\u0646\u0627\u064A\u062A\u062F \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2006\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 45 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2006 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0625\u064A\u0641\u0631\u062A\u0648\u0646 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A. \u0648 \u0642\u062F \u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2002."@ar ,
+		"\u8482\u83AB\u897F\u00B7\u99AC\u4FEE\u00B7\"\u6DFB\"\u00B7\u4FAF\u6D3B\uFF08\u82F1\u8BED\uFF1ATimothy Matthew \"Tim\" Howard\uFF0C1979\u5E743\u67086\u65E5\uFF0D\uFF09\u662F\u4E00\u4F4D\u7F8E\u570B\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u64D4\u4EFB\u5B88\u9580\u54E1\uFF0C\u73FE\u6548\u529B\u82F1\u683C\u862D\u7403\u6703\u611B\u83EF\u9813\u548C\u7F8E\u570B\u570B\u5BB6\u8DB3\u7403\u968A\u3002\u4FAF\u6D3B\u7684\u751F\u6DAF\u5F00\u59CB\u4E8E\u5317\u6CFD\u897F\u5E1D\u56FD\u961F\uFF0C\u968F\u540E\u4ED6\u8F6C\u5230\u7D10\u7D04\u7D05\u725B\u3002\u4ED6\u7684\u8868\u73B0\u5F88\u5FEB\u5C31\u8D62\u5F97\u4E86\u66FC\u5FB9\u65AF\u7279\u806F\u8DB3\u7403\u4FF1\u6A02\u90E8\u7684\u6CE8\u610F\u30022003\u5E74\u4ED6\u4E0E\u66FC\u5F7B\u65AF\u7279\u7B7E\u7F72\u6761\u7EA6\u3002\u4E0E\u66FC\u5F7B\u65AF\u7279\u4E00\u8D77\u4ED6\u8D62\u4E862003\u5E74\u82F1\u683C\u862D\u793E\u5340\u76FE\u30012003\u5E74\u81F32004\u5E74\u8D5B\u5B63\u82F1\u683C\u862D\u8DB3\u7E3D\u76C3\u548C2005\u81F32006\u5E74\u8D5B\u5B63\u82F1\u683C\u862D\u806F\u8CFD\u76C3\u3002\u66FC\u5F7B\u65AF\u7279\u4E0E\u57C3\u5FB7\u6587\u00B7\u8303\u5FB7\u8428\u7B7E\u7EA6\u540E\u4FAF\u6D3B\u88AB\u501F\u7ED9\u4E86\u611B\u83EF\u9813\u3002\u4ECE2007\u5E742\u6708\u5F00\u59CB\u4ED6\u6C38\u4E45\u6027\u5730\u4E0E\u611B\u83EF\u9813\u7B7E\u7EA6\u30022012\u5E741\u67084\u65E5\u4ED6\u9996\u6B21\u5728\u4E0E\u535A\u5C14\u987F\u8DB3\u7403\u4FF1\u4E50\u90E8\u6BD4\u8D5B\u65F6\u5165\u95E8\uFF0C\u6EE1\u8DB3\u4E86\u4ED6\u7684\u4E00\u4E2A\u751F\u5E73\u613F\u671B\u3002\u8FD9\u4F7F\u4ED6\u6210\u4E3A\u7B2C\u56DB\u540D\u5728\u82F1\u683C\u5170\u8DB3\u7403\u8D85\u7EA7\u8054\u8D5B\u6BD4\u8D5B\u4E2D\u5165\u95E8\u7684\u5B88\u95E8\u5458\u3002\u4FAF\u6D3B\u4E8E2002\u5E74\u52A0\u5165\u7F8E\u56FD\u56FD\u5BB6\u961F\uFF0C\u57282006\u5E74\u4E16\u754C\u676F\u8DB3\u7403\u8D5B\u4E0A\u4ED6\u662F\u9884\u5907\u961F\u5458\uFF0C\u6CA1\u6709\u4E0A\u573A\u3002\u4ED6\u540E\u6765\u6210\u4E3A\u9996\u9009\uFF0C\u57282010\u5E74\u4E16\u754C\u76C3\u8DB3\u7403\u8CFD\u4E0A\u6240\u6709\u6BD4\u8D5B\u4ED6\u90FD\u4ECE\u5F00\u59CB\u5C31\u53C2\u52A0\u4E86\u3002"@zh ,
+		"\u30C6\u30A3\u30E0\u30FB\u30CF\u30EF\u30FC\u30C9\uFF08Tim Howard, 1979\u5E743\u67086\u65E5 - \uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u51FA\u8EAB\u306E\u540C\u56FD\u4EE3\u8868\u3001\u30D7\u30EC\u30DF\u30A2\u30EA\u30FC\u30B0\u30FB\u30A8\u30F4\u30A1\u30FC\u30C8\u30F3\u6240\u5C5E\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FGK\u3002\u7236\u89AA\u306F\u30A2\u30D5\u30EA\u30AB\u7CFB\u30A2\u30E1\u30EA\u30AB\u4EBA\u3067\u6BCD\u89AA\u306F\u30CF\u30F3\u30AC\u30EA\u30FC\u4EBA\uFF08\u3057\u304B\u3057\u30CF\u30EF\u30FC\u30C9\u304C3\u6B73\u306E\u6642\u306B\u96E2\u5A5A\uFF09\u3002"@ja ,
+		"Tim Howard est un footballeur am\u00E9ricain n\u00E9 le 6 mars 1979 \u00E0 North Brunswick Township dans le New Jersey. Premier Am\u00E9ricain \u00E0 jouer pour Manchester United, Howard est atteint du syndrome Gilles de la Tourette depuis son enfance."@fr ;
+	foaf:surname	"Howard" ;
+	foaf:isPrimaryTopicOf	ns17:Tim_Howard .
+@prefix ns55:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Tim_Howard	dbpprop:hasPhotoCollection	ns55:Tim_Howard ;
+	dbpprop:caption	"Howard with the United States in 2011" ;
+	dbpprop:name	"Howard, Tim" ,
+		"Tim Howard" ;
+	dbpprop:width	250 ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Tim_Howard_USA.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u30C6\u30A3\u30E0\u30FB\u30CF\u30EF\u30FC\u30C9\uFF08Tim Howard, 1979\u5E743\u67086\u65E5 - \uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u51FA\u8EAB\u306E\u540C\u56FD\u4EE3\u8868\u3001\u30D7\u30EC\u30DF\u30A2\u30EA\u30FC\u30B0\u30FB\u30A8\u30F4\u30A1\u30FC\u30C8\u30F3\u6240\u5C5E\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306FGK\u3002\u7236\u89AA\u306F\u30A2\u30D5\u30EA\u30AB\u7CFB\u30A2\u30E1\u30EA\u30AB\u4EBA\u3067\u6BCD\u89AA\u306F\u30CF\u30F3\u30AC\u30EA\u30FC\u4EBA\uFF08\u3057\u304B\u3057\u30CF\u30EF\u30FC\u30C9\u304C3\u6B73\u306E\u6642\u306B\u96E2\u5A5A\uFF09\u3002"@ja ,
+		"Timothy Matthew Howard (North Brunswick, Nueva Jersey, 6 de marzo de 1979), mejor conocido como Tim Howard, es un jugador profesional de f\u00FAtbol estadounidense, que juega de portero en el Everton Football Club de la Premier League inglesa.Howard comenz\u00F3 su carrera en el club North Jersey Imperials y posteriormente pas\u00F3 al Nueva York-Nueva Jersey MetroStars, donde logr\u00F3 destacarse, lo que le ayud\u00F3 a fichar en 2003 con el Manchester United, para sustituir al impredecible Fabien Barthez. Con el Manchester United, gan\u00F3 el FA Community Shield de 2003, la FA Cup de 2003-2004 y la Copa de la Liga de 2005-2006. Sin embargo, luego de United fichara a Edwin van der Sar, Howard fue enviado en calidad de pr\u00E9stamo al Everton para poder mantenerse activo como titular. Eventualmente, en febrero de 2007, Howard firm\u00F3 un contrato permanente con el club.Howard debut\u00F3 con la selecci\u00F3n nacional de Estados Unidos en 2002 y fue el tercer portero (detr\u00E1s de Kasey Keller y Marcus Hahnemann) en la Copa del Mundo de 2006. Posteriormente se estableci\u00F3 como la primera opci\u00F3n en el arco y fue titular en todos los partidos de su selecci\u00F3n en la Copa del Mundo de 2010, alcanzando llegar a los Octavos de final."@es ,
+		"\u8482\u83AB\u897F\u00B7\u99AC\u4FEE\u00B7\"\u6DFB\"\u00B7\u4FAF\u6D3B\uFF08\u82F1\u8BED\uFF1ATimothy Matthew \"Tim\" Howard\uFF0C1979\u5E743\u67086\u65E5\uFF0D\uFF09\u662F\u4E00\u4F4D\u7F8E\u570B\u8DB3\u7403\u904B\u52D5\u54E1\uFF0C\u64D4\u4EFB\u5B88\u9580\u54E1\uFF0C\u73FE\u6548\u529B\u82F1\u683C\u862D\u7403\u6703\u611B\u83EF\u9813\u548C\u7F8E\u570B\u570B\u5BB6\u8DB3\u7403\u968A\u3002\u4FAF\u6D3B\u7684\u751F\u6DAF\u5F00\u59CB\u4E8E\u5317\u6CFD\u897F\u5E1D\u56FD\u961F\uFF0C\u968F\u540E\u4ED6\u8F6C\u5230\u7D10\u7D04\u7D05\u725B\u3002\u4ED6\u7684\u8868\u73B0\u5F88\u5FEB\u5C31\u8D62\u5F97\u4E86\u66FC\u5FB9\u65AF\u7279\u806F\u8DB3\u7403\u4FF1\u6A02\u90E8\u7684\u6CE8\u610F\u30022003\u5E74\u4ED6\u4E0E\u66FC\u5F7B\u65AF\u7279\u7B7E\u7F72\u6761\u7EA6\u3002\u4E0E\u66FC\u5F7B\u65AF\u7279\u4E00\u8D77\u4ED6\u8D62\u4E862003\u5E74\u82F1\u683C\u862D\u793E\u5340\u76FE\u30012003\u5E74\u81F32004\u5E74\u8D5B\u5B63\u82F1\u683C\u862D\u8DB3\u7E3D\u76C3\u548C2005\u81F32006\u5E74\u8D5B\u5B63\u82F1\u683C\u862D\u806F\u8CFD\u76C3\u3002\u66FC\u5F7B\u65AF\u7279\u4E0E\u57C3\u5FB7\u6587\u00B7\u8303\u5FB7\u8428\u7B7E\u7EA6\u540E\u4FAF\u6D3B\u88AB\u501F\u7ED9\u4E86\u611B\u83EF\u9813\u3002\u4ECE2007\u5E742\u6708\u5F00\u59CB\u4ED6\u6C38\u4E45\u6027\u5730\u4E0E\u611B\u83EF\u9813\u7B7E\u7EA6\u30022012\u5E741\u67084\u65E5\u4ED6\u9996\u6B21\u5728\u4E0E\u535A\u5C14\u987F\u8DB3\u7403\u4FF1\u4E50\u90E8\u6BD4\u8D5B\u65F6\u5165\u95E8\uFF0C\u6EE1\u8DB3\u4E86\u4ED6\u7684\u4E00\u4E2A\u751F\u5E73\u613F\u671B\u3002\u8FD9\u4F7F\u4ED6\u6210\u4E3A\u7B2C\u56DB\u540D\u5728\u82F1\u683C\u5170\u8DB3\u7403\u8D85\u7EA7\u8054\u8D5B\u6BD4\u8D5B\u4E2D\u5165\u95E8\u7684\u5B88\u95E8\u5458\u3002\u4FAF\u6D3B\u4E8E2002\u5E74\u52A0\u5165\u7F8E\u56FD\u56FD\u5BB6\u961F\uFF0C\u57282006\u5E74\u4E16\u754C\u676F\u8DB3\u7403\u8D5B\u4E0A\u4ED6\u662F\u9884\u5907\u961F\u5458\uFF0C\u6CA1\u6709\u4E0A\u573A\u3002\u4ED6\u540E\u6765\u6210\u4E3A\u9996\u9009\uFF0C\u57282010\u5E74\u4E16\u754C\u76C3\u8DB3\u7403\u8CFD\u4E0A\u6240\u6709\u6BD4\u8D5B\u4ED6\u90FD\u4ECE\u5F00\u59CB\u5C31\u53C2\u52A0\u4E86\u3002"@zh ,
+		"Tim Howard est un footballeur am\u00E9ricain n\u00E9 le 6 mars 1979 \u00E0 North Brunswick Township dans le New Jersey. Premier Am\u00E9ricain \u00E0 jouer pour Manchester United, Howard est atteint du syndrome Gilles de la Tourette depuis son enfance."@fr ,
+		"Timothy Matthew \"Tim\" Howard (North Brunswick Township, 3 de junho de 1979) \u00E9 um futebolista estadunidense que atua como goleiro. Seu talento foi descoberto em 2001 pelo treinador de goleiros Tony Coton. Howard come\u00E7ou a sua carreira com o North Jersey Imperials antes de se transferir para o MetroStars. Suas apari\u00E7\u00F5es logo atra\u00EDram a aten\u00E7\u00E3o do Manchester United, que o contratou em 2003. Ele teve um grande sucesso no Manchester United, no entanto, ap\u00F3s o United assinar com Edwin van der Sar, Howard saiu por empr\u00E9stimo para o Everton para obter mais tempo de jogo. Em fevereiro de 2007 Howard assinou um contrato definitivo com o time de Liverpool. Na temporada 2011-2012, o goleiro marcou o primeiro gol de sua carreira, em uma partida contra o Bolton, onde sua equipe foi derrotada por 2 a 1 (ali\u00E1s, ele foi o \u00FAnico a n\u00E3o vibrar do gol, julgando-o \"cruel\"). Com o gol, ele se tornou o quarto goleiro na hist\u00F3ria da Premier League a marcar um gol, tendo sido os outros tr\u00EAs: Peter Schmeichel, Paul Robinson e Brad Friedel.Howard representou pela primeira vez a sele\u00E7\u00E3o dos Estados Unidos em 2002, e foi um dos goleiros reservas na Copa do Mundo de 2006. Ele mais tarde se estabeleceu como titular da sele\u00E7\u00E3o americana, sendo pe\u00E7a importante na copa das confedera\u00E7\u00F5es de 2009 e na copa do mundo de 2010."@pt ,
+		"\u0422\u0438\u0301\u043C\u043E\u0442\u0438 \u041C\u044D\u0301\u0442\u0442\u044C\u044E \u0425\u043E\u0301\u0432\u0430\u0440\u0434 (\u0430\u043D\u0433\u043B. Timothy Matthew Howard; \u0440\u043E\u0434. 6 \u043C\u0430\u0440\u0442\u0430 1979, \u041D\u043E\u0440\u0442-\u0411\u0440\u0430\u043D\u0441\u0443\u0438\u043A), \u0431\u043E\u043B\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043D\u044B\u0439 \u043A\u0430\u043A \u0422\u0438\u043C \u0425\u043E\u0301\u0432\u0430\u0440\u0434 \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0432\u0440\u0430\u0442\u0430\u0440\u044C \u043A\u043B\u0443\u0431\u0430 \u00AB\u042D\u0432\u0435\u0440\u0442\u043E\u043D\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u0428\u0410.\u041E\u0431\u043B\u0430\u0434\u0430\u0442\u0435\u043B\u044C \u041A\u0443\u0431\u043A\u0430 \u0410\u043D\u0433\u043B\u0438\u0438 2004 \u0433\u043E\u0434\u0430, \u041A\u0443\u0431\u043A\u0430 \u041B\u0438\u0433\u0438 2006 \u0433\u043E\u0434\u0430, \u0421\u0443\u043F\u0435\u0440\u043A\u0443\u0431\u043A\u0430 \u0410\u043D\u0433\u043B\u0438\u0438 2003 \u0433\u043E\u0434\u0430, \u0417\u043E\u043B\u043E\u0442\u043E\u0433\u043E \u043A\u0443\u0431\u043A\u0430 \u041A\u041E\u041D\u041A\u0410\u041A\u0410\u0424 2007 \u0433\u043E\u0434\u0430. \u0412\u0440\u0430\u0442\u0430\u0440\u044C \u0433\u043E\u0434\u0430 MLS 2001 \u0433\u043E\u0434\u0430. \u0412\u0440\u0430\u0442\u0430\u0440\u044C \u0433\u043E\u0434\u0430 \u041A\u041E\u041D\u041A\u0410\u041A\u0410\u0424 2013 \u0433\u043E\u0434\u0430."@ru ,
+		"Timothy Matthew Howard \u2013 detto Tim \u2013 (North Brunswick, 6 marzo 1979) \u00E8 un calciatore statunitense, portiere dell'Everton e della Nazionale statunitense."@it ,
+		"Tim Howard (North Brunswick, 6 maart 1979) is een Amerikaans doelman in het betaald voetbal. Hij tekende een contract van 1 juli 2007 tot aan de zomer van 2012 bij Everton, dat hem het jaar daarvoor al huurde van Manchester United FC. In maart 2002 debuteerde hij in het Amerikaans voetbalelftal, waarvoor hij bijna honderd interlands speelde."@nl ,
+		"Tim Howard (ur. 6 marca 1979 w North Brunswick, New Jersey) \u2013 pi\u0142karz ameryka\u0144ski graj\u0105cy na pozycji bramkarza, reprezentant USA, obecnie zawodnik Evertonu. Wcze\u015Bniej gra\u0142 w Manchesterze United, MetroStars oraz North Jersey Imperials."@pl ,
+		"Timothy Matthew \"Tim\" Howard (born March 6, 1979) is an American soccer player who plays as a goalkeeper for English club Everton and the United States national team.Howard started his career with the North Jersey Imperials before making a move to the MetroStars. His appearances soon attracted the attention of Manchester United, who signed him in 2003. He enjoyed relative success with them as they won the 2003 FA Community Shield, the 2003\u201304 FA Cup and the 2005\u201306 League Cup. However, after United signed Edwin van der Sar, Howard went out on loan to Everton to play more first-team football and eventually signed permanently with them in February 2007. On January 4, 2012, Howard scored a goal, his first as a professional, against Bolton Wanderers. This made him only the fourth goalkeeper to score a goal in a Premier League match.Howard first represented the United States national team in 2002 and was an unused substitute for the 2006 World Cup. He later established himself as first-choice and started all of the United States' games at the 2010 World Cup as they reached the Round of 16.He has a reputation for playing through the pain barrier. In September 2007 he accepted a call-up from the United States for a friendly against Brazil, and after an hour of the game his finger was dislocated in a collision. In March 2013, during an FA Cup game against Oldham Athletic he broke two bones in his back. In both incidents, he continued playing until the final whistle." ,
+		"\u062A\u064A\u0645\u0648\u062B\u064A \u0645\u0627\u062B\u064A\u0648 \u0647\u0627\u0648\u0627\u0631\u062F\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 6 \u0645\u0627\u0631\u0633 1979 \u0641\u064A \u062A\u0634\u064A\u063A\u0648\u064A\u0644 \u0641\u064A \u0625\u0646\u062C\u0644\u062A\u0631\u0627\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0623\u0645\u0631\u064A\u0643\u064A.\u0628\u062F\u0623 \u0645\u0633\u064A\u0631\u062A\u0647 \u0627\u0644\u0643\u0631\u0648\u064A\u0629 \u0645\u0639 \u0646\u0627\u062F\u064A \u0646\u0648\u0631\u062B \u062C\u064A\u0631\u0633\u064A \u0625\u0645\u0628\u0631\u064A\u0627\u0644\u0632 \u0641\u064A \u0639\u0627\u0645 1997\u060C \u0648\u0641\u064A \u0639\u0627\u0645 1998 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0645\u064A\u062A\u0631\u0648 \u0633\u062A\u0627\u0631\u0632\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2003\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 85 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0641\u064A \u0639\u0627\u0645 2003 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0645\u0627\u0646\u0634\u0633\u062A\u0631 \u064A\u0648\u0646\u0627\u064A\u062A\u062F \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u060C \u0648\u0644\u0639\u0628 \u0645\u0639\u0647\u0645 \u062D\u062A\u0649 \u0639\u0627\u0645 2006\u060C \u0648\u0634\u0627\u0631\u0643 \u0645\u0639\u0647\u0645 \u0641\u064A 45 \u0645\u0628\u0627\u0631\u0627\u0629\u060C \u0648\u0645\u0646\u0630 \u0639\u0627\u0645 2006 \u0648\u0647\u0648 \u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0625\u064A\u0641\u0631\u062A\u0648\u0646 \u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A. \u0648 \u0642\u062F \u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2002."@ar ,
+		"Timothy Matthew \u201ETim\u201C Howard (* 6. M\u00E4rz 1979 in North Brunswick Township, New Jersey) ist ein US-amerikanischer Fu\u00DFball-Torwart und Nationalspieler."@de ;
+	dbpedia-owl:wikiPageID	423732 ;
+	dbpedia-owl:wikiPageRevisionID	606811114 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Tim_Howard	dbpprop:birthDate	"1979-03-06+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"North Brunswick, New Jersey, United States" ;
+	dbpprop:dateOfBirth	"1979-03-06+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"North Brunswick, New Jersey,  United States" ;
+	dbpprop:shortDescription	"Soccer player" ;
+	dbpedia-owl:birthDate	"1979-03-06+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	<http://dbpedia.org/resource/North_Brunswick,_New_Jersey> ,
+		<http://dbpedia.org/resource/United_States_men\u0027s_national_soccer_team> ,
+		dbpedia:New_Jersey ;
+	dbpedia-owl:birthYear	"1979+02:00"^^xsd:gYear ;
+	dbpedia-owl:viafId	"106797014" ;
+	dbpprop:imageSize	300 ;
+	dbpprop:goals	0 ,
+		1 ;
+	dbpprop:bg	"white" ,
+		"gold" ;
+	dbpprop:id	29756 ;
+	dbpprop:caps	45 ,
+		269 ,
+		1 ,
+		16 ,
+		25 ,
+		88 ;
+	dbpprop:years	2003 ,
+		2006 ,
+		2007 ,
+		1998 ,
+		1997 ;
+	dbpedia-owl:careerStation	dbpedia:Tim_Howard__1 ,
+		dbpedia:Tim_Howard__3 ,
+		dbpedia:Tim_Howard__7 ,
+		dbpedia:Tim_Howard__4 ,
+		dbpedia:Tim_Howard__2 ,
+		dbpedia:Tim_Howard__5 ,
+		dbpedia:Tim_Howard__6 ;
+	dbpprop:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Goalkeeper_(association_football)> ;
+	dbpedia-owl:height	1.9099999999999999201 .
+@prefix ns57:	<http://dbpedia.org/datatype/> .
+@prefix ns58:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Tim_Howard	ns58:height	"191.0"^^ns57:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/Everton_F.C.> ;
+	dbpprop:clubnumber	24 ;
+	dbpprop:fullname	"Timothy Matthew Howard" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/Manchester_United_F.C.> ,
+		<http://dbpedia.org/resource/Everton_F.C.> ,
+		dbpedia:North_Jersey_Imperials ,
+		dbpedia:New_York_Red_Bulls ,
+		"\u2192 MLS Pro-40" ,
+		"\u2192 Everton" ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/Manchester_United_F.C.> ,
+		<http://dbpedia.org/resource/Everton_F.C.> ,
+		<http://dbpedia.org/resource/United_States_men\u0027s_national_soccer_team> ,
+		dbpedia:North_Jersey_Imperials ,
+		dbpedia:New_York_Red_Bulls ,
+		dbpedia:Generation_Adidas .
+@prefix ns59:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Tim_Howard	dbpprop:wordnet_type	ns59:synset-soccer_player-noun-1 ;
+	dbpprop:title	"Awards" ,
+		"United States squads" ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.timhowardstory.com> ,
+		<http://soccernet.espn.go.com/players/profile?id=34158&cc=3436> .
+@prefix ns60:	<http://www.evertonfc.com/player-profile/> .
+dbpedia:Tim_Howard	dbpedia-owl:wikiPageExternalLink	ns60:tim-howard .
+@prefix ns61:	<http://www.premierleague.com/en-gb/players/profile.html/> .
+dbpedia:Tim_Howard	dbpedia-owl:wikiPageExternalLink	ns61:tim-howard ;
+	dbpprop:clubUpdate	"--04-20+02:00"^^xsd:gMonthDay ;
+	dbpprop:nationalteamUpdate	"2014-03-05+02:00"^^xsd:date ;
+	dbpprop:bordercolor	"#BF0A30" ;
+	dbpprop:fg	"navy" ,
+		"#002868" ;
+	dbpprop:nationalcaps	97 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	<http://dbpedia.org/resource/United_States_men\u0027s_national_soccer_team> ;
+	dbpprop:nationalyears	2002 ;
+	dbpedia-owl:number	24 ;
+	dbpedia-owl:alias	"Howard, Timothy Matthew" ;
+	dbpprop:alternativeNames	"Howard, Timothy Matthew" ;
+	dbpprop:align	"left" ;
+	dbpprop:quote	"Tim Howard, on his first goal." ,
+		"\"It was cruel. You saw the back fours and the keepers not being able to believe balls all night, and at the back one wrong step and it can be a nightmare. For our goal I was disappointed from a goalkeepers' union standpoint. You never want to see that happen. It's not nice, it's embarrassing, so I felt for Adam but you have to move on from it.\"" .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Tim_Howard .
+ns29:تيم_هاوارد	owl:sameAs	dbpedia:Tim_Howard .
+ns47:Тым_Говард	owl:sameAs	dbpedia:Tim_Howard .
+ns36:Тим_Хауърд	owl:sameAs	dbpedia:Tim_Howard .
+ns25:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+ns41:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+ns39:تیم_هاورد	owl:sameAs	dbpedia:Tim_Howard .
+ns49:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+ns33:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+ns35:טים_הווארד	owl:sameAs	dbpedia:Tim_Howard .
+ns40:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+ns43:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+ns38:Timotheus_Award	owl:sameAs	dbpedia:Tim_Howard .
+ns31:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+ns30:Тим_Хауард	owl:sameAs	dbpedia:Tim_Howard .
+ns34:टिम_हॉवर्ड	owl:sameAs	dbpedia:Tim_Howard .
+ns44:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+ns28:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+<http://ru.dbpedia.org/resource/\u0425\u043E\u0432\u0430\u0440\u0434,_\u0422\u0438\u043C>	owl:sameAs	dbpedia:Tim_Howard .
+ns26:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+ns24:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+ns27:ทิม_ฮาวเวิร์ด	owl:sameAs	dbpedia:Tim_Howard .
+ns45:Tim_Howard	owl:sameAs	dbpedia:Tim_Howard .
+ns37:Тім_Говард	owl:sameAs	dbpedia:Tim_Howard .
+ns32:添·侯活	owl:sameAs	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/2011_CONCACAF_Gold_Cup_squads>	dbpprop:name	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/2007%E2%80%9308_Everton_F.C._season>	dbpprop:name	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/2007_CONCACAF_Gold_Cup_squads>	dbpprop:name	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/United_States_men\u0027s_national_soccer_team>	dbpprop:name	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/Everton_F.C.__Tim_Howard__1>	dbpedia-owl:currentMember	dbpedia:Tim_Howard .
+dbpedia:TIM	dbpedia-owl:wikiPageDisambiguates	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/Everton_F.C.>	dbpprop:name	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/2011%E2%80%9312_Everton_F.C._season>	dbpprop:name	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/2010%E2%80%9311_Everton_F.C._season>	dbpprop:name	dbpedia:Tim_Howard .
+dbpedia:Major_League_Soccer_All-Star_Game	dbpprop:mvp	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/2013%E2%80%9314_Everton_F.C._season>	dbpprop:name	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/2012%E2%80%9313_Everton_F.C._season__Tim_Howard__1>	dbpedia-owl:currentMember	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/2009_MLS_All-Star_Game__Tim_Howard__1>	dbpedia-owl:currentMember	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/2007%E2%80%9308_Everton_F.C._season__Tim_Howard__1>	dbpedia-owl:currentMember	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/2013%E2%80%9314_Everton_F.C._season__Tim_Howard__1>	dbpedia-owl:currentMember	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/2010%E2%80%9311_Everton_F.C._season__Tim_Howard__1>	dbpedia-owl:currentMember	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/2009%E2%80%9310_Everton_F.C._season__Tim_Howard__1>	dbpedia-owl:currentMember	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/2006%E2%80%9307_Everton_F.C._season__Tim_Howard__1>	dbpedia-owl:currentMember	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/2011%E2%80%9312_Everton_F.C._season__Tim_Howard__1>	dbpedia-owl:currentMember	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/Tim_Howard_(goalkeeper)>	dbpedia-owl:wikiPageRedirects	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/2009_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/2012%E2%80%9313_Everton_F.C._season>	dbpprop:name	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/2009_MLS_All-Star_Game>	dbpprop:name	dbpedia:Tim_Howard ;
+	dbpprop:manOfTheMatch1a	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/2006%E2%80%9307_Everton_F.C._season>	dbpprop:name	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/2009%E2%80%9310_Everton_F.C._season>	dbpprop:name	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/1999_FIFA_World_Youth_Championship_squads>	dbpprop:name	dbpedia:Tim_Howard .
+<http://dbpedia.org/resource/2006_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Tim_Howard .

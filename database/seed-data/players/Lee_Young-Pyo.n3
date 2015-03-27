@@ -1,0 +1,371 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Lee_Young-pyo	owl:sameAs	dbpedia:Lee_Young-Pyo .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Lee_Young-pyo	owl:sameAs	dbpedia:Lee_Young-Pyo .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q312512	owl:sameAs	dbpedia:Lee_Young-Pyo .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Lee_Young-Pyo	owl:sameAs	dbpedia:Lee_Young-Pyo .
+@prefix ns6:	<http://id.dbpedia.org/resource/> .
+ns6:Lee_Young-Pyo	owl:sameAs	dbpedia:Lee_Young-Pyo .
+@prefix ns7:	<http://it.dbpedia.org/resource/> .
+ns7:Lee_Young-Pyo	owl:sameAs	dbpedia:Lee_Young-Pyo .
+@prefix ns8:	<http://ja.dbpedia.org/resource/> .
+ns8:李榮杓	owl:sameAs	dbpedia:Lee_Young-Pyo .
+@prefix ns9:	<http://ko.dbpedia.org/resource/> .
+ns9:이영표	owl:sameAs	dbpedia:Lee_Young-Pyo .
+@prefix ns10:	<http://nl.dbpedia.org/resource/> .
+ns10:Lee_Young-pyo	owl:sameAs	dbpedia:Lee_Young-Pyo .
+@prefix ns11:	<http://pl.dbpedia.org/resource/> .
+ns11:Lee_Young-pyo	owl:sameAs	dbpedia:Lee_Young-Pyo .
+@prefix ns12:	<http://pt.dbpedia.org/resource/> .
+ns12:Lee_Young-Pyo	owl:sameAs	dbpedia:Lee_Young-Pyo .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/1999_Korea_Cup_squads>	dbpprop:name	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2000_CONCACAF_Gold_Cup_squads>	dbpprop:name	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2001_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2007%E2%80%9308_Tottenham_Hotspur_F.C._season>	dbpprop:name	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2006%E2%80%9307_Tottenham_Hotspur_F.C._season>	dbpprop:name	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2005%E2%80%9306_Tottenham_Hotspur_F.C._season>	dbpprop:name	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/Football_at_the_2000_Summer_Olympics_%E2%80%93_Men\u0027s_team_squads>	dbpprop:name	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2009%E2%80%9310_Al-Hilal_season>	dbpprop:name	dbpedia:Lee_Young-Pyo .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Lee_Young-Pyo	rdf:type	yago:SouthKoreanExpatriatesInTheNetherlands ,
+		owl:Thing ,
+		ns4:Q215627 ,
+		yago:PhysicalEntity100001930 ,
+		yago:Object100002684 ,
+		yago:Whole100003553 .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Lee_Young-Pyo	rdf:type	dbpedia-owl:Athlete ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		yago:AmericanExpatriateSoccerPlayers ,
+		yago:LivingThing100004258 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:FCSeoulPlayers ,
+		yago:PSVEindhovenPlayers ,
+		yago:Player110439851 ,
+		yago:Athlete109820263 ,
+		yago:FootballPlayer110101634 ,
+		<http://dbpedia.org/class/yago/2000CONCACAFGoldCupPlayers> ,
+		yago:Fullback110115430 ,
+		yago:AssociationFootballFullbacks ,
+		yago:Back109830194 ,
+		yago:SouthKoreanExpatriatesInGermany ,
+		yago:SouthKoreanExpatriatesInTheUnitedKingdom ,
+		yago:SouthKoreanExpatriatesInSaudiArabia ,
+		<http://dbpedia.org/class/yago/2002CONCACAFGoldCupPlayers> ,
+		<http://dbpedia.org/class/yago/2004AFCAsianCupPlayers> ,
+		<http://dbpedia.org/class/yago/2006FIFAWorldCupPlayers> ,
+		<http://dbpedia.org/class/yago/2000AFCAsianCupPlayers> ,
+		<http://dbpedia.org/class/yago/TottenhamHotspurF.C.Players> ,
+		yago:Al-HilalPlayers ,
+		yago:Alumnus109786338 ,
+		yago:Scholar110557854 ,
+		yago:Intellectual109621545 ,
+		yago:FootballersAtThe2000SummerOlympics .
+@prefix ns17:	<http://umbel.org/umbel/rc/> .
+dbpedia:Lee_Young-Pyo	rdf:type	ns17:SoccerPlayer ,
+		yago:KonkukUniversityAlumni ,
+		<http://dbpedia.org/class/yago/2001FIFAConfederationsCupPlayers> ,
+		dbpedia-owl:Agent ,
+		<http://dbpedia.org/class/yago/2002FIFAWorldCupPlayers> .
+@prefix ns18:	<http://schema.org/> .
+dbpedia:Lee_Young-Pyo	rdf:type	ns18:Person ,
+		yago:MajorLeagueSoccerPlayers ,
+		dbpedia-owl:Person ,
+		yago:AnyangLGCheetahsPlayers ,
+		yago:Exile110071332 ,
+		<http://dbpedia.org/class/yago/Fu%C3%9Fball-BundesligaPlayers> ,
+		yago:Traveler109629752 ,
+		<http://dbpedia.org/class/yago/2011AFCAsianCupPlayers> ,
+		yago:SoccerPlayer110618342 ,
+		yago:Absentee109757653 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:K-LeaguePlayers ,
+		yago:ExpatriateSoccerPlayersInCanada ,
+		yago:SouthKoreanExpatriateFootballers ,
+		<http://dbpedia.org/class/yago/VancouverWhitecapsFC(MLS)Players> ,
+		yago:SouthKoreaInternationalFootballers ,
+		ns4:Q5 ,
+		yago:ExpatriateFootballersInTheNetherlands ,
+		yago:PremierLeaguePlayers ,
+		yago:ExpatriateFootballersInEngland ,
+		ns17:Athlete ,
+		yago:EredivisiePlayers .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Lee_Young-Pyo	rdf:type	dul:Agent ,
+		dul:NaturalPerson ,
+		yago:ExpatriateFootballersInGermany ,
+		yago:SouthKoreanExpatriatesInEngland ,
+		yago:RunningBack110543161 ,
+		yago:Contestant109613191 ,
+		yago:BorussiaDortmundPlayers .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbpedia:Lee_Young-Pyo	rdf:type	foaf:Person ,
+		yago:OlympicFootballersOfSouthKorea ;
+	owl:sameAs	ns11:Lee_Young-pyo .
+@prefix ns21:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Lee_Young-Pyo	owl:sameAs	ns21:李榮杓 .
+@prefix ns22:	<http://simple.dbpedia.org/resource/> .
+dbpedia:Lee_Young-Pyo	owl:sameAs	ns22:Lee_Young-Pyo ,
+		<http://rdf.freebase.com/ns/m.07bp3v> .
+@prefix ns23:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Lee_Young-Pyo	owl:sameAs	ns23:I_Jongphjo ,
+		ns10:Lee_Young-pyo .
+@prefix ns24:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Lee_Young-Pyo	owl:sameAs	ns24:Lee_Young-pyo ,
+		ns5:Lee_Young-Pyo .
+@prefix ns25:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Lee_Young-Pyo	owl:sameAs	ns25:ली_यूंग-प्यो ,
+		ns1:Lee_Young-pyo ,
+		ns6:Lee_Young-Pyo .
+@prefix ns26:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Lee_Young-Pyo	owl:sameAs	ns26:Lee_Young-Pyo .
+@prefix ns27:	<http://zh_yue.dbpedia.org/resource/> .
+dbpedia:Lee_Young-Pyo	owl:sameAs	ns27:李榮杓 .
+@prefix ns28:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Lee_Young-Pyo	owl:sameAs	ns28:Lee_Young-Pyo .
+@prefix ns29:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Lee_Young-Pyo	owl:sameAs	ns29:Lee_Young-Pyo .
+@prefix ns30:	<http://ru.dbpedia.org/resource/> .
+dbpedia:Lee_Young-Pyo	owl:sameAs	ns30:Ли_Ён_Пхё .
+@prefix ns31:	<http://no.dbpedia.org/resource/> .
+dbpedia:Lee_Young-Pyo	owl:sameAs	ns31:Lee_Young-pyo ,
+		ns7:Lee_Young-Pyo ,
+		ns3:Lee_Young-pyo ,
+		ns8:李榮杓 .
+@prefix ns32:	<http://mn.dbpedia.org/resource/> .
+dbpedia:Lee_Young-Pyo	owl:sameAs	ns32:И_Ён-пю ,
+		ns9:이영표 .
+@prefix ns33:	<http://yago-knowledge.org/resource/> .
+dbpedia:Lee_Young-Pyo	owl:sameAs	ns33:Lee_Young-Pyo .
+@prefix ns34:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Lee_Young-Pyo	owl:sameAs	ns34:لي_يونغ_بو .
+@prefix ns35:	<http://la.dbpedia.org/resource/> .
+dbpedia:Lee_Young-Pyo	owl:sameAs	ns35:Lee_Young-pyo ,
+		dbpedia:Lee_Young-Pyo ,
+		ns12:Lee_Young-Pyo .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Lee_Young-Pyo	rdfs:label	"Lee Young-Pyo" .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Lee_Young-Pyo	dcterms:subject	category:Konkuk_University_alumni ,
+		<http://dbpedia.org/resource/Category:2000_AFC_Asian_Cup_players> ,
+		category:Living_people ,
+		<http://dbpedia.org/resource/Category:2002_CONCACAF_Gold_Cup_players> ,
+		category:FIFA_Century_Club ,
+		category:Bundesliga_players ,
+		category:South_Korean_expatriates_in_Saudi_Arabia ,
+		category:South_Korean_expatriates_in_the_Netherlands ,
+		<http://dbpedia.org/resource/Category:2001_FIFA_Confederations_Cup_players> ,
+		category:South_Korean_expatriates_in_Canada ,
+		category:South_Korean_expatriates_in_the_United_Kingdom ,
+		category:South_Korean_expatriates_in_Germany ,
+		category:South_Korea_international_footballers ,
+		<http://dbpedia.org/resource/Category:2011_AFC_Asian_Cup_players> ,
+		category:South_Korean_Christians ,
+		category:Expatriate_footballers_in_the_Netherlands ,
+		category:Eredivisie_players ,
+		category:Expatriate_footballers_in_Saudi_Arabia ,
+		<http://dbpedia.org/resource/Category:Tottenham_Hotspur_F.C._players> ,
+		<http://dbpedia.org/resource/Category:2000_CONCACAF_Gold_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2006_FIFA_World_Cup_players> ,
+		category:FC_Seoul_players ,
+		category:Borussia_Dortmund_players ,
+		category:Expatriate_footballers_in_Germany ,
+		category:Footballers_at_the_2000_Summer_Olympics ,
+		category:PSV_Eindhoven_players ,
+		category:Premier_League_players ,
+		category:Association_football_fullbacks ,
+		category:South_Korean_expatriate_footballers ,
+		category:Olympic_footballers_of_South_Korea ,
+		category:South_Korean_expatriates_in_England ,
+		category:Vancouver_Whitecaps_FC_players ,
+		category:Expatriate_footballers_in_England ,
+		category:K_League_players ,
+		category:Expatriate_soccer_players_in_Canada ,
+		category:Major_League_Soccer_players ,
+		category:Al-Hilal_FC_players ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2004_AFC_Asian_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2002_FIFA_World_Cup_players> ,
+		<http://dbpedia.org/resource/Category:1977_births> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Leeyoungpyo.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Lee_Young-Pyo	dc:description	"Korean soccer player" ,
+		"Korean soccer player" ;
+	foaf:givenName	"Young-pyo" ;
+	foaf:name	"Lee, Young-pyo" ,
+		"Lee Young-pyo" ,
+		"(\uC774\uC601\uD45C)" ,
+		"Young-pyo Lee" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Lee_Young-Pyo	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Lee_Young-Pyo?oldid=605857621> ;
+	rdfs:comment	"Lee Young-pyo (Korean: \uC774\uC601\uD45C; born 23 April 1977) is a retired South Korean footballer. Lee was recognized for his speed and dribbling skills." ;
+	foaf:surname	"Lee" .
+@prefix ns41:	<http://en.wikipedia.org/wiki/> .
+dbpedia:Lee_Young-Pyo	foaf:isPrimaryTopicOf	ns41:Lee_Young-Pyo .
+@prefix ns42:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Lee_Young-Pyo	dbpprop:hasPhotoCollection	ns42:Lee_Young-Pyo ;
+	dbpprop:caption	"Lee with Vancouver in 2011." ;
+	dbpprop:name	"Lee, Young-pyo" ,
+		"Lee Young-pyo" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Leeyoungpyo.jpg?width=300> ;
+	dbpedia-owl:abstract	"Lee Young-pyo (Korean: \uC774\uC601\uD45C; born 23 April 1977) is a retired South Korean footballer. Lee was recognized for his speed and dribbling skills. His former manager Martin Jol once called him \"the best left-back in Holland\".Prior to playing for Tottenham Hotspur and Borussia Dortmund, Lee started his professional career at FC Seoul, then known as Anyang LG Cheetahs in the Korean K League Classic) and then spent two years with PSV Eindhoven of the Netherlands, earning high acclaim from PSV Coach Guus Hiddink, who had previously coached Lee and South Korea during the 2002 World Cup. Recognized as the best left-back in the Netherlands after the 2004\u201305 season, Tottenham signed him amidst heavy competition with several Serie A clubs. He transferred to Tottenham in August 2005. In 2006, personal trainer Levi Gale advised him to move to an Italian team.In August 2006, AS Roma of Italy's Serie A tried to sign him, but he backed out at the last minute for \"personal reasons.\" An Italian media report said religion played a part in his decision to reject the transfer offer. On 31 August 2006, Lee held a press conference in Korea and denied that religion was a factor in his decision. He said that moving to AS Roma would have been great for him in terms of football alone but he decided against it for personal reasons that he would not reveal, despite being pressed for answers by 50 attending reporters.On 19 November 2008, Lee became the seventh Korean player to earn 100 caps in a World Cup qualifier against Saudi Arabia. During the 2011 AFC Asian Cup, Lee captained the national team twice after the substitutions of the regular Korean captain, Park Ji Sung." ;
+	dbpedia-owl:wikiPageID	42394078 ;
+	dbpedia-owl:wikiPageRevisionID	605857621 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Lee_Young-Pyo	dbpprop:birthDate	"1977-04-23+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Hongcheon, Gangwon, South Korea" ;
+	dbpprop:dateOfBirth	"1977-04-23+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Hongcheon, Gangwon-do, Republic of Korea" ;
+	dbpprop:shortDescription	"Korean soccer player" ;
+	dbpedia-owl:birthDate	"1977-04-23+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	<http://dbpedia.org/resource/Gangwon_Province_(South_Korea)> ,
+		dbpedia:Hongcheon_County ,
+		dbpedia:South_Korea_national_football_team ;
+	dbpedia-owl:birthYear	"1977+02:00"^^xsd:gYear ;
+	dbpprop:goals	3 ,
+		0 ,
+		1 ;
+	dbpprop:bg	"gold" ,
+		"#F02A18" ;
+	dbpprop:caps	18 ,
+		46 ,
+		60 ,
+		65 ,
+		70 ,
+		81 ;
+	dbpprop:years	2011 ,
+		2008 ,
+		2009 ,
+		2005 ,
+		2003 ,
+		2000 ;
+	dbpprop:youthclubs	dbpedia:Konkuk_University ;
+	dbpedia-owl:careerStation	dbpedia:Lee_Young-Pyo__9 ,
+		dbpedia:Lee_Young-Pyo__1 ,
+		dbpedia:Lee_Young-Pyo__7 ,
+		dbpedia:Lee_Young-Pyo__3 ,
+		dbpedia:Lee_Young-Pyo__2 ,
+		dbpedia:Lee_Young-Pyo__6 ,
+		dbpedia:Lee_Young-Pyo__5 ,
+		dbpedia:Lee_Young-Pyo__8 ,
+		dbpedia:Lee_Young-Pyo__4 ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.7700000000000000178 .
+@prefix ns44:	<http://dbpedia.org/datatype/> .
+@prefix ns45:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Lee_Young-Pyo	ns45:height	"177.0"^^ns44:centimetre ;
+	dbpprop:fullname	"Lee Young-pyo" ,
+		"(\uC774\uC601\uD45C)" ;
+	dbpprop:clubs	<http://dbpedia.org/resource/Tottenham_Hotspur_F.C.> ,
+		dbpedia:FC_Seoul ,
+		dbpedia:PSV_Eindhoven ,
+		dbpedia:Al-Hilal_FC ,
+		dbpedia:Vancouver_Whitecaps_FC ,
+		dbpedia:Borussia_Dortmund ;
+	dbpedia-owl:team	dbpedia:Borussia_Dortmund ,
+		<http://dbpedia.org/resource/Tottenham_Hotspur_F.C.> ,
+		dbpedia:FC_Seoul ,
+		dbpedia:South_Korea_national_under-23_football_team ,
+		dbpedia:PSV_Eindhoven ,
+		dbpedia:Konkuk_University ,
+		dbpedia:Al-Hilal_FC ,
+		dbpedia:Vancouver_Whitecaps_FC ,
+		dbpedia:South_Korea_national_football_team .
+@prefix ns46:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Lee_Young-Pyo	dbpprop:wordnet_type	ns46:synset-soccer_player-noun-1 ;
+	dbpprop:title	"South Korea Squads" ,
+		"Awards" ;
+	dbpprop:pcupdate	"2013-10-28+02:00"^^xsd:date ;
+	dbpprop:youthyears	1997 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.rsssf.com/miscellaneous/leeyp-intl.html> ,
+		<http://www.alhilal.com/en/player1000.html> .
+@prefix ns47:	<http://www.mlssoccer.com/players/> .
+dbpedia:Lee_Young-Pyo	dbpedia-owl:wikiPageExternalLink	ns47:lee-young-pyo ,
+		<http://www.psvweb.nl/speler_oud.php?id=35> ;
+	dbpprop:rr	"I Yeong-pyo" ;
+	dbpprop:hangul	"\uC774\uC601\uD45C" ;
+	dbpprop:mr	"I Y\u014Fngp'yo" ;
+	dbpprop:fg	"navy" ,
+		"White" ;
+	dbpprop:nationalcaps	16 ,
+		127 ;
+	dbpprop:nationalgoals	5 ,
+		2 ;
+	dbpprop:nationalteam	dbpedia:South_Korea_national_football_team ,
+		dbpedia:South_Korea_national_under-23_football_team ;
+	dbpprop:nationalyears	1999 ;
+	dbpprop:hanja	"\u674E\u69AE\u6753" ;
+	dbpprop:ntupdate	"2011-01-28+02:00"^^xsd:date ;
+	dbpprop:totalcaps	340 ;
+	dbpprop:totalgoals	5 .
+<http://dbpedia.org/resource/2007%E2%80%9308_Tottenham_Hotspur_F.C._season__Lee_Young-Pyo__1>	dbpedia-owl:currentMember	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Lee_Young-Pyo .
+dbpedia:List_of_German_football_transfers_summer_2008	dbpprop:name	dbpedia:Lee_Young-Pyo ;
+	dbpedia-owl:currentMember	dbpedia:Lee_Young-Pyo .
+ns34:لي_يونغ_بو	owl:sameAs	dbpedia:Lee_Young-Pyo .
+ns28:Lee_Young-Pyo	owl:sameAs	dbpedia:Lee_Young-Pyo .
+ns23:I_Jongphjo	owl:sameAs	dbpedia:Lee_Young-Pyo .
+ns35:Lee_Young-pyo	owl:sameAs	dbpedia:Lee_Young-Pyo .
+ns29:Lee_Young-Pyo	owl:sameAs	dbpedia:Lee_Young-Pyo .
+ns32:И_Ён-пю	owl:sameAs	dbpedia:Lee_Young-Pyo .
+ns25:ली_यूंग-प्यो	owl:sameAs	dbpedia:Lee_Young-Pyo .
+ns31:Lee_Young-pyo	owl:sameAs	dbpedia:Lee_Young-Pyo .
+ns30:Ли_Ён_Пхё	owl:sameAs	dbpedia:Lee_Young-Pyo .
+ns22:Lee_Young-Pyo	owl:sameAs	dbpedia:Lee_Young-Pyo .
+ns24:Lee_Young-pyo	owl:sameAs	dbpedia:Lee_Young-Pyo .
+ns26:Lee_Young-Pyo	owl:sameAs	dbpedia:Lee_Young-Pyo .
+ns21:李榮杓	owl:sameAs	dbpedia:Lee_Young-Pyo .
+ns27:李榮杓	owl:sameAs	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2004%E2%80%9305_PSV_Eindhoven_season>	dbpprop:name	dbpedia:Lee_Young-Pyo ;
+	dbpprop:p	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2009_South_Korea_national_football_team_season>	dbpprop:away4player	dbpedia:Lee_Young-Pyo ;
+	dbpprop:home3player	dbpedia:Lee_Young-Pyo ;
+	dbpprop:home4player	dbpedia:Lee_Young-Pyo .
+ns41:Lee_Young-Pyo	foaf:primaryTopic	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2006_South_Korea_national_football_team_season>	dbpprop:home8player	dbpedia:Lee_Young-Pyo ;
+	dbpprop:away2player	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2008_South_Korea_national_football_team_season>	dbpprop:away3player	dbpedia:Lee_Young-Pyo ;
+	dbpprop:home3player	dbpedia:Lee_Young-Pyo ;
+	dbpprop:home4player	dbpedia:Lee_Young-Pyo ;
+	dbpprop:home17player	dbpedia:Lee_Young-Pyo .
+dbpedia:Lee_Youngpyo	dbpedia-owl:wikiPageRedirects	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2002_CONCACAF_Gold_Cup_squads>	dbpprop:name	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2013_Vancouver_Whitecaps_FC_season>	dbpprop:p	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2012_Vancouver_Whitecaps_FC_season>	dbpprop:text	dbpedia:Lee_Young-Pyo ;
+	dbpprop:p	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2012_Canadian_Championship>	dbpprop:away4player	dbpedia:Lee_Young-Pyo ;
+	dbpprop:home4player	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2013_Canadian_Championship>	dbpprop:home3player	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2006_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Lee_Young-Pyo .
+dbpedia:List_of_German_football_transfers_summer_2009	dbpprop:name	dbpedia:Lee_Young-Pyo ;
+	dbpedia-owl:currentMember	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2000_AFC_Asian_Cup_squads>	dbpprop:name	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2010_South_Korea_national_football_team_season>	dbpprop:away4player	dbpedia:Lee_Young-Pyo ;
+	dbpprop:away3player	dbpedia:Lee_Young-Pyo ;
+	dbpprop:away5player	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2006%E2%80%9307_Tottenham_Hotspur_F.C._season__Lee_Young-Pyo__1>	dbpedia-owl:currentMember	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2004%E2%80%9305_PSV_Eindhoven_season__Lee_Young-Pyo__1>	dbpedia-owl:currentMember	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2009%E2%80%9310_Al-Hilal_season__Lee_Young-Pyo__1>	dbpedia-owl:currentMember	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2005%E2%80%9306_Tottenham_Hotspur_F.C._season__Lee_Young-Pyo__1>	dbpedia-owl:currentMember	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2005%E2%80%9306_PSV_Eindhoven_season__Lee_Young-Pyo__1>	dbpedia-owl:currentMember	dbpedia:Lee_Young-Pyo .
+dbpedia:Lee_Yong-Pyo	dbpedia-owl:wikiPageRedirects	dbpedia:Lee_Young-Pyo .
+dbpedia:Lee_Young-pyo	dbpedia-owl:wikiPageRedirects	dbpedia:Lee_Young-Pyo .
+dbpedia:Young-Pyo_Lee	dbpedia-owl:wikiPageRedirects	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2002_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2005%E2%80%9306_PSV_Eindhoven_season>	dbpprop:name	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2001_Lunar_New_Year_Cup>	dbpprop:name	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2011_AFC_Asian_Cup_squads>	dbpprop:name	dbpedia:Lee_Young-Pyo .
+<http://dbpedia.org/resource/2004_AFC_Asian_Cup_squads>	dbpprop:name	dbpedia:Lee_Young-Pyo .

@@ -1,0 +1,286 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Lee_Addy	owl:sameAs	dbpedia:Lee_Addy .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Lee_Addy	owl:sameAs	dbpedia:Lee_Addy .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q349590	owl:sameAs	dbpedia:Lee_Addy .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Lee_Addy	owl:sameAs	dbpedia:Lee_Addy .
+@prefix ns6:	<http://it.dbpedia.org/resource/> .
+ns6:Lee_Addy	owl:sameAs	dbpedia:Lee_Addy .
+@prefix ns7:	<http://ja.dbpedia.org/resource/> .
+ns7:リー・アディ	owl:sameAs	dbpedia:Lee_Addy .
+@prefix ns8:	<http://ko.dbpedia.org/resource/> .
+ns8:리_아디	owl:sameAs	dbpedia:Lee_Addy .
+@prefix ns9:	<http://pl.dbpedia.org/resource/> .
+ns9:Lee_Addy	owl:sameAs	dbpedia:Lee_Addy .
+@prefix ns10:	<http://pt.dbpedia.org/resource/> .
+ns10:Lee_Addy	owl:sameAs	dbpedia:Lee_Addy .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010_Africa_Cup_of_Nations_squads>	dbpprop:name	dbpedia:Lee_Addy .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Lee_Addy	rdf:type	yago:PhysicalEntity100001930 ,
+		yago:PeopleFromAccra ,
+		yago:Contestant109613191 ,
+		yago:Player110439851 ,
+		yago:AlumniOfAccraAcademy ,
+		yago:SerbianSuperLigaPlayers ,
+		yago:FootballPlayer110101634 .
+@prefix ns14:	<http://schema.org/> .
+dbpedia:Lee_Addy	rdf:type	ns14:Person ,
+		yago:Athlete109820263 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:GhanaianExpatriatesInChina ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbpedia:Lee_Addy	rdf:type	foaf:Person .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Lee_Addy	rdf:type	dul:Agent ,
+		yago:AssociationFootballDefenders ,
+		ns4:Q5 ,
+		dul:NaturalPerson ,
+		yago:Exile110071332 ,
+		yago:DalianAerbinPlayers ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:ExpatriateFootballersInChina ,
+		yago:Scholar110557854 ,
+		yago:Intellectual109621545 ,
+		yago:RedStarBelgradeFootballers ,
+		yago:ExpatriateFootballersInSerbia ,
+		yago:Alumnus109786338 ,
+		owl:Thing ,
+		ns4:Q215627 ,
+		yago:BerekumChelseaFCPlayers ,
+		yago:Object100002684 ,
+		yago:Defender109614684 ,
+		yago:Whole100003553 .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Lee_Addy	rdf:type	dbpedia-owl:Athlete ,
+		dbpedia-owl:Person ,
+		dbpedia-owl:Agent ,
+		yago:GhanaianExpatriatesInSerbia ,
+		yago:Preserver110466918 ,
+		yago:GhanaianFootballers ,
+		yago:GhanaianExpatriateFootballers ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:GhanaInternationalFootballers ,
+		yago:FCNaniaPlayers .
+@prefix ns18:	<http://zh.dbpedia.org/resource/> .
+dbpedia:Lee_Addy	owl:sameAs	ns18:李·阿迪 ,
+		ns8:리_아디 .
+@prefix ns19:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Lee_Addy	owl:sameAs	ns19:لي_أدي ,
+		ns1:Lee_Addy .
+@prefix ns20:	<http://wikidata.org/entity/> .
+dbpedia:Lee_Addy	owl:sameAs	ns20:Q349590 .
+@prefix ns21:	<http://ca.dbpedia.org/resource/> .
+dbpedia:Lee_Addy	owl:sameAs	ns21:Lee_Addy ,
+		dbpedia:Lee_Addy ,
+		ns5:Lee_Addy .
+@prefix ns22:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Lee_Addy	owl:sameAs	ns22:Лі_Адді ,
+		ns3:Lee_Addy .
+@prefix ns23:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Lee_Addy	owl:sameAs	ns23:Lee_Addy ,
+		ns10:Lee_Addy ,
+		ns9:Lee_Addy ,
+		<http://rdf.freebase.com/ns/m.080cmb0> ,
+		ns6:Lee_Addy ,
+		ns4:Q349590 ,
+		ns7:リー・アディ ,
+		<http://ru.dbpedia.org/resource/\u042D\u0434\u0434\u0438,_\u041B\u0438> .
+@prefix ns24:	<http://no.dbpedia.org/resource/> .
+dbpedia:Lee_Addy	owl:sameAs	ns24:Lee_Addy .
+@prefix ns25:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Lee_Addy	owl:sameAs	ns25:ली_अॅडी .
+@prefix ns26:	<http://yago-knowledge.org/resource/> .
+dbpedia:Lee_Addy	owl:sameAs	ns26:Lee_Addy .
+@prefix ns27:	<http://hr.dbpedia.org/resource/> .
+dbpedia:Lee_Addy	owl:sameAs	ns27:Lee_Addy .
+@prefix ns28:	<http://sr.dbpedia.org/resource/> .
+dbpedia:Lee_Addy	owl:sameAs	ns28:Ли_Ади .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Lee_Addy	rdfs:label	"\u042D\u0434\u0434\u0438, \u041B\u0438"@ru ,
+		"Lee Addy"@it ,
+		"Lee Addy"@es ,
+		"Lee Addy"@fr ,
+		"\u30EA\u30FC\u30FB\u30A2\u30C7\u30A3"@ja ,
+		"Lee Addy"@pl ,
+		"Lee Addy" ,
+		"\u0644\u064A \u0623\u062F\u064A"@ar ,
+		"\u674E\u00B7\u963F\u8FEA"@zh ,
+		"Lee Addy"@pt ,
+		"Lee Addy"@de .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Lee_Addy	dcterms:subject	category:Ghanaian_expatriates_in_China ,
+		category:Ghanaian_expatriates_in_Serbia ,
+		category:Berekum_Chelsea_FC_players ,
+		category:Dalian_Aerbin_players ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Association_football_defenders ,
+		category:GNK_Dinamo_Zagreb_players ,
+		category:Alumni_of_Accra_Academy ,
+		<http://dbpedia.org/resource/Category:2012_Africa_Cup_of_Nations_players> ,
+		category:Expatriate_footballers_in_Serbia ,
+		category:Ghana_international_footballers ,
+		category:Red_Star_Belgrade_footballers ,
+		category:Ghanaian_expatriate_footballers ,
+		<http://dbpedia.org/resource/Category:1990_births> ,
+		category:Ghanaian_footballers ,
+		category:People_from_Accra ,
+		category:Expatriate_footballers_in_China ,
+		category:Serbian_SuperLiga_players ,
+		<http://dbpedia.org/resource/Category:2010_Africa_Cup_of_Nations_players> ,
+		category:Living_people ,
+		category:FC_Nania_players ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Li_Adi.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Lee_Addy	dc:description	"Footballer" ,
+		"Footballer" ;
+	foaf:givenName	"Lee" ;
+	foaf:name	"Lee Addy" ,
+		"Addy, Lee" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Lee_Addy	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Lee_Addy?oldid=606800240> ;
+	rdfs:comment	"\u674E\u00B7\u963F\u8FEA\uFF08Lee Addy\uFF0C1990\u5E747\u67087\u65E5\u51FA\u751F\u4E8E\u963F\u514B\u62C9\uFF09\u662F\u4E00\u4F4D\u52A0\u7EB3\u804C\u4E1A\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u64C5\u957F\u6253\u540E\u536B\u4F4D\u7F6E\uFF0C\u76EE\u524D\u7531\u4E2D\u8D85\u7684\u5927\u8FDE\u963F\u5C14\u6EE8\u79DF\u501F\u6548\u529B\u4E8E\u514B\u7F85\u5730\u4E9E\u7532\u7D44\u7684\u85A9\u683C\u52D2\u5E03\u6234\u62FF\u6A21\uFF0C\u540C\u65F6\u4E5F\u662F\u52A0\u7EB3\u56FD\u5BB6\u8DB3\u7403\u961F\u7684\u6210\u5458\u3002"@zh ,
+		"Lee Addy (* 7. Juli 1990 in Accra) ist ein ghanaischer Fu\u00DFballspieler."@de ,
+		"Lee Addy (Accra, Ghana, 7 de julio de 1990) es un futbolista ghan\u00E9s que juega como defensor en el Dinamo Zagreb de la Prva HNL de Croacia, cedido por el Dalian Aerbin F.C. de China."@es ,
+		"Lee Addy (born 7 July 1990 in Accra) is a Ghanaian professional footballer, who plays for Croatian club Dinamo Zagreb of the Prva HNL." ,
+		"Lee Addy (ur. 7 lipca 1990) \u2013 gha\u0144ski pi\u0142karz graj\u0105cy na pozycji lewego obro\u0144cy."@pl ,
+		"Lee Addy (Acra, 26 de Setembro de 1985) \u00E9 um futebolista gan\u00EAs que atua como Zagueiro. Atualmente joga pelo Dalian Aerbin.Pela Sele\u00E7\u00E3o Ganesa, o atleta participou da Copa do Mundo 2010, chegando at\u00E9 as quartas de final da competi\u00E7\u00E3o.== Refer\u00EAncias =="@pt ,
+		"Lee Addy, n\u00E9 le 7 juillet 1990, est un footballeur international ghan\u00E9en. Il \u00E9volue actuellement au Dinamo Zagreb dans le championnat national croate au poste d'arri\u00E8re gauche. C'est le cousin de Marcel Desailly."@fr ,
+		"Lee Addy (Accra, 7 luglio 1990) \u00E8 un calciatore ghanese, difensore della Dinamo Zagabria e della Nazionale ghanese."@it ,
+		"\u30EA\u30FC\u30FB\u30A2\u30C7\u30A3\uFF08Lee Addy, 1990\u5E747\u67087\u65E5 - \uFF09\u306F\u3001\u30AC\u30FC\u30CA\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30BB\u30F3\u30BF\u30FC\u30D0\u30C3\u30AF\u30021.HNL\u306ENK\u30C7\u30A3\u30CA\u30E2\u30FB\u30B6\u30B0\u30EC\u30D6\u6240\u5C5E\u3002"@ja ,
+		"\u041B\u0438 \u042D\u0434\u0434\u0438 (\u0430\u043D\u0433\u043B. Lee Addy; 7 \u0438\u044E\u043B\u044F 1990, \u0410\u043A\u043A\u0440\u0430, \u0413\u0430\u043D\u0430) \u2014 \u0433\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u0438\u0442\u0430\u0439\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0414\u0430\u043B\u044F\u043D\u044C \u0410\u044D\u0440\u0431\u0438\u043D\u00BB."@ru ,
+		"\u0644\u064A \u0623\u062F\u064A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Lee Addy) (\u0645\u0648\u0627\u0644\u064A\u062F 7 \u064A\u0648\u0644\u064A\u0648 1990 \u0641\u064A \u0623\u0643\u0631\u0627) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u063A\u0627\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0628\u064A\u062A\u0634\u064A\u0645 \u062A\u0634\u064A\u0644\u0633\u064A \u0627\u0644\u063A\u0627\u0646\u064A ."@ar ;
+	foaf:surname	"Addy" .
+@prefix ns34:	<http://en.wikipedia.org/wiki/> .
+dbpedia:Lee_Addy	foaf:isPrimaryTopicOf	ns34:Lee_Addy .
+@prefix ns35:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Lee_Addy	dbpprop:hasPhotoCollection	ns35:Lee_Addy ;
+	dbpprop:name	"Addy, Lee" ,
+		"Lee Addy" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Li_Adi.jpg?width=300> ;
+	dbpedia-owl:abstract	"\u30EA\u30FC\u30FB\u30A2\u30C7\u30A3\uFF08Lee Addy, 1990\u5E747\u67087\u65E5 - \uFF09\u306F\u3001\u30AC\u30FC\u30CA\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30BB\u30F3\u30BF\u30FC\u30D0\u30C3\u30AF\u30021.HNL\u306ENK\u30C7\u30A3\u30CA\u30E2\u30FB\u30B6\u30B0\u30EC\u30D6\u6240\u5C5E\u3002"@ja ,
+		"\u674E\u00B7\u963F\u8FEA\uFF08Lee Addy\uFF0C1990\u5E747\u67087\u65E5\u51FA\u751F\u4E8E\u963F\u514B\u62C9\uFF09\u662F\u4E00\u4F4D\u52A0\u7EB3\u804C\u4E1A\u8DB3\u7403\u8FD0\u52A8\u5458\uFF0C\u64C5\u957F\u6253\u540E\u536B\u4F4D\u7F6E\uFF0C\u76EE\u524D\u7531\u4E2D\u8D85\u7684\u5927\u8FDE\u963F\u5C14\u6EE8\u79DF\u501F\u6548\u529B\u4E8E\u514B\u7F85\u5730\u4E9E\u7532\u7D44\u7684\u85A9\u683C\u52D2\u5E03\u6234\u62FF\u6A21\uFF0C\u540C\u65F6\u4E5F\u662F\u52A0\u7EB3\u56FD\u5BB6\u8DB3\u7403\u961F\u7684\u6210\u5458\u3002"@zh ,
+		"\u041B\u0438 \u042D\u0434\u0434\u0438 (\u0430\u043D\u0433\u043B. Lee Addy; 7 \u0438\u044E\u043B\u044F 1990, \u0410\u043A\u043A\u0440\u0430, \u0413\u0430\u043D\u0430) \u2014 \u0433\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u043A\u0438\u0442\u0430\u0439\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0414\u0430\u043B\u044F\u043D\u044C \u0410\u044D\u0440\u0431\u0438\u043D\u00BB."@ru ,
+		"Lee Addy, n\u00E9 le 7 juillet 1990, est un footballeur international ghan\u00E9en. Il \u00E9volue actuellement au Dinamo Zagreb dans le championnat national croate au poste d'arri\u00E8re gauche. C'est le cousin de Marcel Desailly."@fr ,
+		"\u0644\u064A \u0623\u062F\u064A (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Lee Addy) (\u0645\u0648\u0627\u0644\u064A\u062F 7 \u064A\u0648\u0644\u064A\u0648 1990 \u0641\u064A \u0623\u0643\u0631\u0627) \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u063A\u0627\u0646\u064A \u064A\u0644\u0639\u0628 \u062D\u0627\u0644\u064A\u0627 \u0644\u0635\u0627\u0644\u062D \u0646\u0627\u062F\u064A \u0628\u064A\u062A\u0634\u064A\u0645 \u062A\u0634\u064A\u0644\u0633\u064A \u0627\u0644\u063A\u0627\u0646\u064A ."@ar ,
+		"Lee Addy (ur. 7 lipca 1990) \u2013 gha\u0144ski pi\u0142karz graj\u0105cy na pozycji lewego obro\u0144cy."@pl ,
+		"Lee Addy (Accra, Ghana, 7 de julio de 1990) es un futbolista ghan\u00E9s que juega como defensor en el Dinamo Zagreb de la Prva HNL de Croacia, cedido por el Dalian Aerbin F.C. de China."@es ,
+		"Lee Addy (Acra, 26 de Setembro de 1985) \u00E9 um futebolista gan\u00EAs que atua como Zagueiro. Atualmente joga pelo Dalian Aerbin.Pela Sele\u00E7\u00E3o Ganesa, o atleta participou da Copa do Mundo 2010, chegando at\u00E9 as quartas de final da competi\u00E7\u00E3o.== Refer\u00EAncias =="@pt ,
+		"Lee Addy (born 7 July 1990 in Accra) is a Ghanaian professional footballer, who plays for Croatian club Dinamo Zagreb of the Prva HNL." ,
+		"Lee Addy (* 7. Juli 1990 in Accra) ist ein ghanaischer Fu\u00DFballspieler."@de ,
+		"Lee Addy (Accra, 7 luglio 1990) \u00E8 un calciatore ghanese, difensore della Dinamo Zagabria e della Nazionale ghanese."@it ;
+	dbpedia-owl:wikiPageID	24633044 ;
+	dbpedia-owl:wikiPageRevisionID	606800240 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Lee_Addy	dbpprop:birthDate	"1990-07-07+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Accra, Greater Accra, Ghana" ;
+	dbpprop:dateOfBirth	"1990-07-07+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Accra, Ghana" ;
+	dbpprop:shortDescription	"Footballer" ;
+	dbpedia-owl:birthDate	"1990-07-07+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:Accra ,
+		dbpedia:Greater_Accra_Region ,
+		dbpedia:Ghana_national_football_team ;
+	dbpedia-owl:birthYear	"1990+02:00"^^xsd:gYear ;
+	dbpprop:imageSize	230 ;
+	dbpprop:goals	2 ,
+		0 ;
+	dbpprop:bg	"White" ;
+	dbpprop:caps	32 ,
+		46 ,
+		5 ,
+		17 ,
+		20 ,
+		24 ;
+	dbpprop:years	2007 ,
+		2014 ,
+		2012 ,
+		2013 ,
+		2010 ,
+		2008 ;
+	dbpedia-owl:careerStation	dbpedia:Lee_Addy__6 ,
+		dbpedia:Lee_Addy__3 ,
+		dbpedia:Lee_Addy__1 ,
+		dbpedia:Lee_Addy__7 ,
+		dbpedia:Lee_Addy__2 ,
+		dbpedia:Lee_Addy__5 ,
+		dbpedia:Lee_Addy__4 ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	0.0 .
+@prefix ns37:	<http://dbpedia.org/datatype/> .
+@prefix ns38:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Lee_Addy	ns38:height	"0.0"^^ns37:centimetre ;
+	dbpprop:currentclub	dbpedia:GNK_Dinamo_Zagreb ;
+	dbpprop:clubnumber	13 ;
+	dbpprop:fullname	"Lee Addy" ;
+	dbpprop:clubs	"\u2192 Dinamo Zagreb" ,
+		<http://dbpedia.org/resource/Dalian_Aerbin_F.C.> ,
+		<http://dbpedia.org/resource/Berekum_Chelsea_F.C.> ,
+		dbpedia:GNK_Dinamo_Zagreb ,
+		<http://dbpedia.org/resource/F.C._Nania> ,
+		dbpedia:Red_Star_Belgrade ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/Dalian_Aerbin_F.C.> ,
+		<http://dbpedia.org/resource/Berekum_Chelsea_F.C.> ,
+		dbpedia:Ghana_national_football_team ,
+		dbpedia:GNK_Dinamo_Zagreb ,
+		<http://dbpedia.org/resource/F.C._Nania> ,
+		dbpedia:Red_Star_Belgrade ;
+	dbpprop:title	"Ghana squads" ;
+	dbpprop:pcupdate	"2013-08-03+02:00"^^xsd:date ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.utakmica.rs/fudbaler/37-lee-addy> ,
+		<http://www.srbijafudbal.net/crzvezda/addy.htm> ;
+	dbpprop:fg	"Black" ;
+	dbpprop:nationalcaps	27 ;
+	dbpprop:nationalgoals	0 ;
+	dbpprop:nationalteam	dbpedia:Ghana_national_football_team ;
+	dbpprop:nationalyears	2009 ;
+	dbpedia-owl:number	13 ;
+	dbpprop:ntupdate	"--03-24+02:00"^^xsd:gMonthDay .
+<http://dbpedia.org/resource/2013%E2%80%9314_GNK_Dinamo_Zagreb_season>	dbpprop:name	dbpedia:Lee_Addy .
+<http://dbpedia.org/resource/2012%E2%80%9313_GNK_Dinamo_Zagreb_season>	dbpprop:name	dbpedia:Lee_Addy .
+<http://dbpedia.org/resource/List_of_Serbian_football_transfers_winter_2011%E2%80%9312>	dbpprop:name	dbpedia:Lee_Addy ;
+	dbpedia-owl:currentMember	dbpedia:Lee_Addy .
+<http://dbpedia.org/resource/2012_Dalian_Aerbin_F.C._season>	dbpprop:name	dbpedia:Lee_Addy .
+ns34:Lee_Addy	foaf:primaryTopic	dbpedia:Lee_Addy .
+ns19:لي_أدي	owl:sameAs	dbpedia:Lee_Addy .
+ns21:Lee_Addy	owl:sameAs	dbpedia:Lee_Addy .
+ns27:Lee_Addy	owl:sameAs	dbpedia:Lee_Addy .
+ns25:ली_अॅडी	owl:sameAs	dbpedia:Lee_Addy .
+ns24:Lee_Addy	owl:sameAs	dbpedia:Lee_Addy .
+<http://ru.dbpedia.org/resource/\u042D\u0434\u0434\u0438,_\u041B\u0438>	owl:sameAs	dbpedia:Lee_Addy .
+ns28:Ли_Ади	owl:sameAs	dbpedia:Lee_Addy .
+ns23:Lee_Addy	owl:sameAs	dbpedia:Lee_Addy .
+ns22:Лі_Адді	owl:sameAs	dbpedia:Lee_Addy .
+ns18:李·阿迪	owl:sameAs	dbpedia:Lee_Addy .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Lee_Addy .
+dbpedia:List_of_Chinese_football_transfers_winter_2013	dbpprop:name	dbpedia:Lee_Addy ;
+	dbpedia-owl:currentMember	dbpedia:Lee_Addy .
+dbpedia:GNK_Dinamo_Zagreb	dbpprop:name	dbpedia:Lee_Addy .
+dbpedia:List_of_Chinese_football_transfers_winter_2012	dbpprop:name	dbpedia:Lee_Addy ;
+	dbpedia-owl:currentMember	dbpedia:Lee_Addy .
+dbpedia:List_of_Chinese_football_transfers_winter_2014	dbpprop:name	dbpedia:Lee_Addy ;
+	dbpedia-owl:currentMember	dbpedia:Lee_Addy .
+dbpedia:GNK_Dinamo_Zagreb__Lee_Addy__1	dbpedia-owl:currentMember	dbpedia:Lee_Addy .
+dbpedia:Ghana_at_the_FIFA_World_Cup	dbpprop:name	dbpedia:Lee_Addy .
+<http://dbpedia.org/resource/2012_Africa_Cup_of_Nations_squads>	dbpprop:name	dbpedia:Lee_Addy .
+dbpedia:List_of_Serbian_football_transfers_summer_2010	dbpprop:name	dbpedia:Lee_Addy ;
+	dbpedia-owl:currentMember	dbpedia:Lee_Addy .
+<http://dbpedia.org/resource/2012%E2%80%9313_GNK_Dinamo_Zagreb_season__Lee_Addy__1>	dbpedia-owl:currentMember	dbpedia:Lee_Addy .
+<http://dbpedia.org/resource/2013%E2%80%9314_GNK_Dinamo_Zagreb_season__Lee_Addy__1>	dbpedia-owl:currentMember	dbpedia:Lee_Addy .
+<http://dbpedia.org/resource/2012_Dalian_Aerbin_F.C._season__Lee_Addy__1>	dbpedia-owl:currentMember	dbpedia:Lee_Addy .
+<http://dbpedia.org/resource/Addy,_Lee>	dbpedia-owl:wikiPageRedirects	dbpedia:Lee_Addy .

@@ -1,0 +1,396 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://fr.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Jozy_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+@prefix ns3:	<http://de.dbpedia.org/resource/> .
+ns3:Jozy_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+@prefix ns4:	<http://wikidata.dbpedia.org/resource/> .
+ns4:Q208619	owl:sameAs	dbpedia:Jozy_Altidore .
+@prefix ns5:	<http://es.dbpedia.org/resource/> .
+ns5:Jozy_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+@prefix ns6:	<http://id.dbpedia.org/resource/> .
+ns6:Jozy_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+@prefix ns7:	<http://it.dbpedia.org/resource/> .
+ns7:Jozy_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+@prefix ns8:	<http://ja.dbpedia.org/resource/> .
+ns8:ジョジー・アルティドール	owl:sameAs	dbpedia:Jozy_Altidore .
+@prefix ns9:	<http://ko.dbpedia.org/resource/> .
+ns9:조지_알티도어	owl:sameAs	dbpedia:Jozy_Altidore .
+@prefix ns10:	<http://nl.dbpedia.org/resource/> .
+ns10:Jozy_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+@prefix ns11:	<http://pl.dbpedia.org/resource/> .
+ns11:Jozy_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+@prefix ns12:	<http://pt.dbpedia.org/resource/> .
+ns12:Jozy_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2010%E2%80%9311_Bursaspor_season>	dbpprop:name	dbpedia:Jozy_Altidore .
+<http://dbpedia.org/resource/2007_U-20_World_Cup_CONCACAF_qualifying_tournament_squads>	dbpprop:name	dbpedia:Jozy_Altidore .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Jozy_Altidore	rdf:type	dul:Agent .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Jozy_Altidore	rdf:type	yago:Player110439851 ,
+		yago:VillarrealCFFootballers .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Jozy_Altidore	rdf:type	dbpedia-owl:Agent ,
+		yago:BursasporFootballers ,
+		<http://dbpedia.org/class/yago/2009FIFAConfederationsCupPlayers> ,
+		yago:AmericanExpatriateSoccerPlayers ,
+		<http://dbpedia.org/class/yago/UnitedStatesMen\u0027sInternationalSoccerPlayers> ,
+		yago:AmericanExpatriateSoccerPeopleInTheUnitedKingdom ,
+		dbpedia-owl:Person ,
+		<http://dbpedia.org/class/yago/2011CONCACAFGoldCupPlayers> ,
+		<http://dbpedia.org/class/yago/HullCityA.F.C.Players> ,
+		<http://dbpedia.org/class/yago/S%C3%BCperLigPlayers> ,
+		yago:SoccerPlayer110618342 ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:AmericanSoccerPlayers ,
+		yago:AmericanPeopleOfHaitianDescent ,
+		yago:OlympicSoccerPlayersOfTheUnitedStates ,
+		yago:NewYorkRedBullsPlayers ,
+		yago:FootballersAtThe2008SummerOlympics ,
+		yago:Contestant109613191 ,
+		yago:AmericanExpatriatesInSpain ,
+		dbpedia-owl:Athlete ,
+		yago:XerezCDPlayers ,
+		yago:AZAlkmaarPlayers .
+@prefix ns18:	<http://umbel.org/umbel/rc/> .
+dbpedia:Jozy_Altidore	rdf:type	ns18:Athlete ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:PremierLeaguePlayers ,
+		yago:ExpatriateFootballersInTheNetherlands ,
+		yago:Person100007846 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:EredivisiePlayers ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople .
+@prefix ns19:	<http://schema.org/> .
+dbpedia:Jozy_Altidore	rdf:type	ns19:Person .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+dbpedia:Jozy_Altidore	rdf:type	foaf:Person ,
+		owl:Thing ,
+		ns4:Q215627 ,
+		yago:LaLigaFootballers ,
+		yago:Object100002684 ,
+		yago:Whole100003553 ,
+		yago:Forward110105733 ,
+		yago:ExpatriateFootballersInSpain ,
+		yago:ExpatriateFootballersInTurkey ,
+		yago:PhysicalEntity100001930 ,
+		yago:AssociationFootballForwards ,
+		yago:BasketballPlayer109842047 ,
+		yago:ExpatriateFootballersInEngland ,
+		ns18:SoccerPlayer ,
+		dul:NaturalPerson ,
+		yago:SoccerPlayersFromNewJersey ,
+		yago:Athlete109820263 ,
+		ns4:Q5 ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		<http://dbpedia.org/class/yago/PeopleFromLivingston,NewJersey> ,
+		yago:FootballPlayer110101634 ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:AfricanAmericanSoccerPlayers ;
+	owl:sameAs	ns7:Jozy_Altidore .
+@prefix ns21:	<http://nn.dbpedia.org/resource/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns21:Jozy_Altidore ,
+		ns6:Jozy_Altidore .
+@prefix ns22:	<http://fa.dbpedia.org/resource/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns22:جوزی_التدور ,
+		ns5:Jozy_Altidore .
+@prefix ns23:	<http://da.dbpedia.org/resource/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns23:Jozy_Altidore ,
+		<http://ru.dbpedia.org/resource/\u0410\u043B\u0442\u0438\u0434\u043E\u0440,_\u0414\u0436\u043E\u0437\u0438> .
+@prefix ns24:	<http://sv.dbpedia.org/resource/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns24:Jozy_Altidore .
+@prefix ns25:	<http://lt.dbpedia.org/resource/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns25:Jozy_Altidore .
+@prefix ns26:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns26:جوزي_ألتيدور ,
+		ns1:Jozy_Altidore ,
+		ns3:Jozy_Altidore ,
+		ns4:Q208619 .
+@prefix ns27:	<http://hu.dbpedia.org/resource/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns27:Jozy_Altidore .
+@prefix ns28:	<http://la.dbpedia.org/resource/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns28:Jozy_Altidore ,
+		ns11:Jozy_Altidore .
+@prefix ns29:	<http://tr.dbpedia.org/resource/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns29:Jozy_Altidore .
+@prefix ns30:	<http://ro.dbpedia.org/resource/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns30:Jozy_Altidore .
+@prefix ns31:	<http://wikidata.org/entity/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns31:Q208619 ,
+		ns12:Jozy_Altidore .
+@prefix ns32:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns32:जोझी_अल्टीडोर .
+@prefix ns33:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns33:Джозі_Алтідор .
+@prefix ns34:	<http://hy.dbpedia.org/resource/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns34:Ջոզի_Ալտիդոր .
+@prefix ns35:	<http://sk.dbpedia.org/resource/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns35:Jozy_Altidore .
+@prefix ns36:	<http://no.dbpedia.org/resource/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns36:Jozy_Altidore .
+@prefix ns37:	<http://yago-knowledge.org/resource/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns37:Jozy_Altidore ,
+		dbpedia:Jozy_Altidore .
+@prefix ns38:	<http://ca.dbpedia.org/resource/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns38:Josmer_Volmy_Altidore .
+@prefix ns39:	<http://fi.dbpedia.org/resource/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns39:Jozy_Altidore .
+@prefix ns40:	<http://sw.cyc.com/concept/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns40:Mx4rC8XeMUJBSXuereDGaU7NQg .
+@prefix ns41:	<http://ht.dbpedia.org/resource/> .
+dbpedia:Jozy_Altidore	owl:sameAs	ns41:Josmer_Altidore ,
+		ns10:Jozy_Altidore ,
+		ns9:조지_알티도어 ,
+		ns8:ジョジー・アルティドール ,
+		<http://rdf.freebase.com/ns/m.02qv04_> ,
+		<http://he.dbpedia.org/resource/\u05D2\u0027\u05D5\u05D6\u05D9_\u05D0\u05DC\u05D8\u05D9\u05D3\u05D5\u05E8> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Jozy_Altidore	rdfs:label	"\u062C\u0648\u0632\u064A \u0623\u0644\u062A\u064A\u062F\u0648\u0631"@ar ,
+		"Jozy Altidore"@nl ,
+		"Jozy Altidore"@fr ,
+		"Jozy Altidore"@pl ,
+		"Jozy Altidore"@it ,
+		"\u30B8\u30E7\u30B8\u30FC\u30FB\u30A2\u30EB\u30C6\u30A3\u30C9\u30FC\u30EB"@ja ,
+		"Jozy Altidore"@es ,
+		"Jozy Altidore" ,
+		"Jozy Altidore"@de ,
+		"Jozy Altidore"@pt ,
+		"\u0410\u043B\u0442\u0438\u0434\u043E\u0440, \u0414\u0436\u043E\u0437\u0438"@ru .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+dbpedia:Jozy_Altidore	dcterms:subject	<http://dbpedia.org/resource/Category:1989_births> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Jozy_Altidore	dcterms:subject	category:Villarreal_CF_footballers ,
+		category:Expatriate_footballers_in_the_Netherlands ,
+		category:American_expatriate_soccer_players ,
+		category:AZ_Alkmaar_players ,
+		category:American_expatriate_sportspeople_in_the_United_Kingdom ,
+		category:Soccer_players_from_New_Jersey ,
+		category:Eredivisie_players ,
+		<http://dbpedia.org/resource/Category:United_States_men\u0027s_international_soccer_players> ,
+		<http://dbpedia.org/resource/Category:S%C3%BCper_Lig_players> ,
+		category:Major_League_Soccer_players ,
+		<http://dbpedia.org/resource/Category:2009_FIFA_Confederations_Cup_players> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Expatriate_footballers_in_Turkey ,
+		category:Expatriate_footballers_in_England ,
+		<http://dbpedia.org/resource/Category:United_States_men\u0027s_under-23_international_soccer_players> ,
+		category:Bursaspor_footballers ,
+		category:American_expatriate_sportspeople_in_Turkey ,
+		category:Living_people ,
+		category:American_expatriates_in_Spain ,
+		category:New_York_Red_Bulls_draft_picks ,
+		<http://dbpedia.org/resource/Category:United_States_men\u0027s_youth_international_soccer_players> ,
+		category:American_expatriate_sportspeople_in_Spain ,
+		category:American_expatriate_sportspeople_in_the_Netherlands ,
+		category:Xerez_CD_players ,
+		<http://dbpedia.org/resource/Category:2011_CONCACAF_Gold_Cup_players> ,
+		category:La_Liga_footballers ,
+		category:Expatriate_footballers_in_Spain ,
+		category:Association_football_forwards ,
+		category:Olympic_soccer_players_of_the_United_States ,
+		category:Footballers_at_the_2008_Summer_Olympics ,
+		category:American_soccer_players ,
+		category:Sportspeople_from_the_New_York_metropolitan_area ,
+		category:American_people_of_Haitian_descent ,
+		category:American_sportspeople_of_Haitian_descent ,
+		<http://dbpedia.org/resource/Category:People_from_Livingston,_New_Jersey> ,
+		category:Premier_League_players ,
+		<http://dbpedia.org/resource/Category:Sunderland_A.F.C._players> ,
+		category:New_York_Red_Bulls_players ,
+		<http://dbpedia.org/resource/Category:Hull_City_A.F.C._players> ;
+	foaf:homepage	<http://www.premierleague.com/page/PlayerProfile/0,,12306~44601~2009,00.html> ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Jozy-Altidore.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Jozy_Altidore	dc:description	"Association football player" ,
+		"Association football player" ;
+	foaf:givenName	"Jozy" ;
+	foaf:name	"Jozy Altidore" ,
+		"Altidore, Jozy" ,
+		"Josmer Volmy Altidore" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Jozy_Altidore	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Jozy_Altidore?oldid=605402139> ;
+	rdfs:comment	"\u30B8\u30E7\u30B9\u30DE\u30FC\u30FB\u30F4\u30A9\u30EB\u30DF\u30FC\"\u30B8\u30E7\u30B8\u30FC\"\u30FB\u30A2\u30EB\u30C6\u30A3\u30C9\u30FC\u30EB\uFF08Josmer Volmy \"Jozy\" Altidore, 1989\u5E7411\u67086\u65E5 - \uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u30FB\u30CB\u30E5\u30FC\u30B8\u30E3\u30FC\u30B8\u30FC\u5DDE\u30EA\u30D3\u30F3\u30B0\u30B9\u30C8\u30F3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3001\u30A2\u30E1\u30EA\u30AB\u4EE3\u8868\u3002\u30A4\u30F3\u30B0\u30E9\u30F3\u30C9\u30FB\u30D7\u30EC\u30DF\u30A2\u30EA\u30FC\u30B0\u306E\u30B5\u30F3\u30C0\u30FC\u30E9\u30F3\u30C9AFC\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30BB\u30F3\u30BF\u30FC\u30D5\u30A9\u30EF\u30FC\u30C9\u30022006\u5E74\u306B16\u6B73\u3067\u30CB\u30E5\u30FC\u30E8\u30FC\u30AF\u30FB\u30EC\u30C3\u30C9\u30D6\u30EB\u30BA\u304B\u3089\u30D7\u30ED\u30C7\u30D3\u30E5\u30FC\u3092\u679C\u305F\u3057\u3001\u30EC\u30C3\u30C9\u30D6\u30EB\u30BA\u3067\u306E3\u30B7\u30FC\u30BA\u30F3\u76EE\u306E\u9014\u4E2D\u3067\u3042\u308B2008\u5E74\u306B\u30D3\u30B8\u30E3\u30EC\u30A2\u30EBCF\u3078\u79FB\u7C4D\u3059\u308B\u3002\u30D3\u30B8\u30E3\u30EC\u30A2\u30EB\u6642\u4EE3\u306B\u306F\u30013\u30AF\u30E9\u30D6\u3078\u306E\u671F\u9650\u4ED8\u304D\u79FB\u7C4D\u3092\u7D4C\u9A13\u3057\u3066\u304A\u308A\u30012009\u5E742\u6708\u306B\u30B9\u30DA\u30A4\u30F32\u90E8\u306E\u30D8\u30EC\u30B9CD\u30015\u6708\u306B\u306F\u30A4\u30F3\u30B0\u30E9\u30F3\u30C91\u90E8\u306E\u30CF\u30EB\u30FB\u30B7\u30C6\u30A3AFC\u30672009-10\u30B7\u30FC\u30BA\u30F3\u5168\u4F53\u3092\u904E\u3054\u3057\u3001\u30C8\u30EB\u30B31\u90E8\u306E\u30D6\u30EB\u30B5\u30B9\u30DD\u30EB\u306B\u534A\u5E74\u5728\u7C4D\u3057\u305F\u30022011\u5E74\u590F\u304B\u3089AZ\u30A2\u30EB\u30AF\u30DE\u30FC\u30EB\u30012013\u5E74\u590F\u304B\u3089\u306F\u30B5\u30F3\u30C0\u30FC\u30E9\u30F3\u30C9AFC\u3078\u5B8C\u5168\u79FB\u7C4D\u3092\u3057\u3066\u3044\u308B\u3002AZ\u5728\u7C4D\u6642\u4EE3\u306E2013\u5E743\u67083\u65E5\u306B2012-13\u30B7\u30FC\u30BA\u30F3\u901A\u7B9724\u5F97\u70B9\u76EE\u3092\u6319\u3052\u305F\u3053\u3068\u306B\u3088\u308A\u3001\u30AF\u30EA\u30F3\u30C8\u30FB\u30C7\u30F3\u30D7\u30B7\u30FC\u3092\u7834\u3063\u3066\u6B27\u5DDE\u3067\u30D7\u30EC\u30FC\u3057\u305F\u30A2\u30E1\u30EA\u30AB\u4EBA\u9078\u624B\u306E1\u30B7\u30FC\u30BA\u30F3\u3067\u306E\u901A\u7B97\u6700\u591A\u5F97\u70B9\u8A18\u9332\u4FDD\u6301\u8005\u3068\u306A\u3063\u305F\u3002\u30A2\u30E1\u30EA\u30AB\u4EE3\u8868\u3067\u306F\u3001\u5E74\u4EE3\u5225\u4EE3\u8868\u3092\u542B\u3081\u3066\u69D8\u3005\u306A\u56FD\u969B\u5927\u4F1A\u306B\u51FA\u5834\u3057\u3066\u304A\u308A\u3001U-17\u3001U-20\u3001U-23\u3067\u305D\u308C\u305E\u308C2005 FIFA U-17\u4E16\u754C\u9078\u624B\u6A29\u30012007 FIFA U-20\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u3001\u5317\u4EAC\u30AA\u30EA\u30F3\u30D4\u30C3\u30AF\u3067\u30D7\u30EC\u30FC\u3057\u3001A\u4EE3\u8868\u3068\u3057\u3066\u306FFIFA\u30B3\u30F3\u30D5\u30A7\u30C7\u30EC\u30FC\u30B7\u30E7\u30F3\u30BA\u30AB\u30C3\u30D72009\u30012010 FIFA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u30012011 CONCACAF\u30B4\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u306E\u30E1\u30F3\u30D0\u30FC\u3060\u3063\u305F\u3002\u307E\u305F\u3001\u8A66\u5408\u51FA\u5834\u6642\u306B\u306F\u7956\u5148\u306B\u656C\u610F\u3092\u8868\u3057\u3066\u30CF\u30A4\u30C1\u3068\u30A2\u30E1\u30EA\u30AB\u306E\u56FD\u65D7\u3092\u3042\u3057\u3089\u3063\u305F\u30EA\u30B9\u30C8\u30D0\u30F3\u30C9\u3092\u7740\u7528\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"Josmer Volmy \"Jozy\" Altidore (Livingston, 6 novembre 1989) \u00E8 un calciatore statunitense, attaccante del Sunderland, e della Nazionale statunitense."@it ,
+		"Josmer (\"Jozy\") Volmy Altidore (Livingston, 6 november 1989) is een Amerikaans profvoetballer van Ha\u00EFtiaanse afkomst die bij voorkeur als aanvaller speelt. Hij tekende in juli 2013 een contract bij Sunderland, dat hem overnam van AZ. Hij is tevens Amerikaans international. In 2008 kwam hij uit voor het Olympisch voetbalelftal van de Verenigde Staten."@nl ,
+		"Josmer \"Jozy\" Altidore (ur. 6 listopada 1989 w Livingston, New Jersey) \u2013 ameryka\u0144ski pi\u0142karz, graj\u0105cy na pozycji napastnika w Sunderland."@pl ,
+		"Jozy Altidore, n\u00E9 le 6 novembre 1989 \u00E0 Livingston (New Jersey), est un footballeur international am\u00E9ricain d'origine ha\u00EFtienne qui \u00E9volue au poste d'attaquant avec le club anglais de Sunderland, et la s\u00E9lection am\u00E9ricaine."@fr ,
+		"Josmer Volmy \"Jozy\" Altidore /\u02C8\u00E6ltid\u0254\u0259r/ (born November 6, 1989) is an American professional soccer player who plays for English club Sunderland and for the United States national team.Altidore made his professional debut in 2006 at the age of 16 with the New York Red Bulls. In the middle of his third season with New York, in 2008, he made a transfer to Villarreal." ,
+		"Josmer Volmy Altidore (Livingston, 6 de novembro de 1989) \u00E9 um futebolista estadunidense de descend\u00EAncia haitiana que atua como atacante. Atualmente, joga pelo Sunderland.Altidore fez sua estr\u00E9ia profissional em 2006, com a idade de 16 anos com o New york Red Bulls . No meio de sua terceira temporada com o New York, em 2008, ele fez uma transfer\u00EAncia para o Villarreal ."@pt ,
+		"Josmer \u201EJozy\u201C Volmy Altidore (* 6. November 1989 in Livingston, New Jersey) ist ein US-amerikanischer Fu\u00DFballspieler. Der St\u00FCrmer spielt seit Juli 2013 f\u00FCr den englischen Erstligisten AFC Sunderland."@de ,
+		"\u062C\u0648\u0632\u064A \u0623\u0644\u062A\u064A\u062F\u0648\u0631 (Jozy Altidore) \u0647\u0648 \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0647\u0627\u064A\u062A\u064A \u0623\u0645\u0631\u064A\u0643\u064A \u064A\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645\u060C \u0648\u0644\u062F \u0641\u064A 6 \u0646\u0648\u0641\u0645\u0628\u0631 1989 \u0648\u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0627\u0632\u064A\u062F \u0627\u0644\u0643\u0645\u0627\u0631 \u0627\u0644\u0647\u0648\u0644\u0646\u062C\u064A. \u0644\u0639\u0628 \u0627\u0644\u0639\u062F\u064A\u062F \u0645\u0646 \u0627\u0644\u0628\u0637\u0648\u0644\u0627\u062A \u0648\u0623\u0647\u0645\u0647\u0627 \u0643\u0623\u0633 \u0627\u0644\u0642\u0627\u0631\u0627\u062A 2009. \u0643\u0623\u0646 \u064A\u0644\u0639\u0628 \u0641\u064A \u0646\u064A\u0648\u064A\u0648\u0631\u0643 \u0631\u064A\u062F \u0628\u0648\u0644\u0632 \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A \u0648\u0627\u0646\u062A\u0642\u0644 \u0639\u0627\u0645 2008 \u0625\u0644\u0649 \u0641\u064A\u0627\u0631\u064A\u0627\u0644 \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A \u0648\u0641\u064A \u0639\u0627\u0645 2009 \u0627\u0646\u062A\u0642\u0644 \u062C\u0648\u0632\u064A \u0645\u0639\u0627\u0631\u0627 \u0644\u0646\u0627\u062F\u064A \u062E\u064A\u0631\u064A\u0632 \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A \u0648\u0645\u0646 \u062B\u0645 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0647\u0627\u0644 \u0633\u064A\u062A\u064A\u062B\u0645 \u0625\u0644\u0649 \u0627\u0632\u064A\u062F \u0627\u0644\u0643\u0645\u0627\u0631.\u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"\u0414\u0436\u043E\u0301\u0437\u0438 \u0410\u0301\u043B\u0442\u0438\u0434\u043E\u0440 (\u0430\u043D\u0433\u043B. Jozy Altidore; \u0440\u043E\u0434\u0438\u043Bc\u044F 6 \u043D\u043E\u044F\u0431\u0440\u044F 1989 \u0433\u043E\u0434\u0430, \u041B\u0438\u0432\u0438\u043D\u0433\u0441\u0442\u043E\u043D, \u041D\u044C\u044E-\u0414\u0436\u0435\u0440\u0441\u0438) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0421\u0430\u043D\u0434\u0435\u0440\u043B\u0435\u043D\u0434\u00BB \u0438 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u0428\u0410."@ru ,
+		"Josmer Volmy Altidore (n. Livingston, Nueva Jersey, Estados Unidos, el 6 de noviembre de 1989), m\u00E1s conocido como Jozy Altidore, es un futbolista estadounidense de ascendencia haitiana que actualmente juega de delantero para el Sunderland AFC de la Premier League de Inglaterra.Altidore debut\u00F3 como profesional con el Red Bull New York a sus 16 a\u00F1os y fue comprado por el club espa\u00F1ol Villarreal en 2008 cuando aun era un adolescente."@es ;
+	foaf:surname	"Altidore" .
+@prefix ns47:	<http://en.wikipedia.org/wiki/> .
+dbpedia:Jozy_Altidore	foaf:isPrimaryTopicOf	ns47:Jozy_Altidore .
+@prefix ns48:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Jozy_Altidore	dbpprop:hasPhotoCollection	ns48:Jozy_Altidore ;
+	dbpprop:caption	"Altidore in 2010" ;
+	dbpprop:name	"Altidore, Jozy" ,
+		"Jozy Altidore" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Jozy-Altidore.jpg?width=300> ;
+	dbpedia-owl:abstract	"Josmer \"Jozy\" Altidore (ur. 6 listopada 1989 w Livingston, New Jersey) \u2013 ameryka\u0144ski pi\u0142karz, graj\u0105cy na pozycji napastnika w Sunderland."@pl ,
+		"\u062C\u0648\u0632\u064A \u0623\u0644\u062A\u064A\u062F\u0648\u0631 (Jozy Altidore) \u0647\u0648 \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0647\u0627\u064A\u062A\u064A \u0623\u0645\u0631\u064A\u0643\u064A \u064A\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0627\u0644\u0648\u0644\u0627\u064A\u0627\u062A \u0627\u0644\u0645\u062A\u062D\u062F\u0629 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645\u060C \u0648\u0644\u062F \u0641\u064A 6 \u0646\u0648\u0641\u0645\u0628\u0631 1989 \u0648\u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0627\u0632\u064A\u062F \u0627\u0644\u0643\u0645\u0627\u0631 \u0627\u0644\u0647\u0648\u0644\u0646\u062C\u064A. \u0644\u0639\u0628 \u0627\u0644\u0639\u062F\u064A\u062F \u0645\u0646 \u0627\u0644\u0628\u0637\u0648\u0644\u0627\u062A \u0648\u0623\u0647\u0645\u0647\u0627 \u0643\u0623\u0633 \u0627\u0644\u0642\u0627\u0631\u0627\u062A 2009. \u0643\u0623\u0646 \u064A\u0644\u0639\u0628 \u0641\u064A \u0646\u064A\u0648\u064A\u0648\u0631\u0643 \u0631\u064A\u062F \u0628\u0648\u0644\u0632 \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A \u0648\u0627\u0646\u062A\u0642\u0644 \u0639\u0627\u0645 2008 \u0625\u0644\u0649 \u0641\u064A\u0627\u0631\u064A\u0627\u0644 \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A \u0648\u0641\u064A \u0639\u0627\u0645 2009 \u0627\u0646\u062A\u0642\u0644 \u062C\u0648\u0632\u064A \u0645\u0639\u0627\u0631\u0627 \u0644\u0646\u0627\u062F\u064A \u062E\u064A\u0631\u064A\u0632 \u0627\u0644\u0625\u0633\u0628\u0627\u0646\u064A \u0648\u0645\u0646 \u062B\u0645 \u0627\u0646\u062A\u0642\u0644 \u0625\u0644\u0649 \u0646\u0627\u062F\u064A \u0647\u0627\u0644 \u0633\u064A\u062A\u064A\u062B\u0645 \u0625\u0644\u0649 \u0627\u0632\u064A\u062F \u0627\u0644\u0643\u0645\u0627\u0631.\u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0628\u0648\u0627\u0628\u0629 \u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645"@ar ,
+		"Josmer Volmy Altidore (n. Livingston, Nueva Jersey, Estados Unidos, el 6 de noviembre de 1989), m\u00E1s conocido como Jozy Altidore, es un futbolista estadounidense de ascendencia haitiana que actualmente juega de delantero para el Sunderland AFC de la Premier League de Inglaterra.Altidore debut\u00F3 como profesional con el Red Bull New York a sus 16 a\u00F1os y fue comprado por el club espa\u00F1ol Villarreal en 2008 cuando aun era un adolescente. No obstante, nunca logr\u00F3 consolidarse en el equipo, pasando gran parte del periodo de su contrato con El Submarino Amarillo a pr\u00E9stamo - primero en el Xerez de la segunda divisi\u00F3n espa\u00F1ola y luego con el Hull City ingl\u00E9s y el Bursaspor de Turqu\u00EDa. Altidore finalmente dej\u00F3 el Villarreal en 2011 para firmar un contrato de tres a\u00F1os con el AZ Alkmaar de la Eredivisie holandesa, club con el cual finalmente comenz\u00F3 a jugar en forma consistente y se convirti\u00F3 en un elemento importante del mismo.A nivel internacional, Altidore ha representado a los Estados Unidos en varias categor\u00EDas, habiendo sido parte de la selecci\u00F3n juvenil sub-17 que particip\u00F3 en la Copa Mundial sub-17 de 2005, la selecci\u00F3n sub-20 que jug\u00F3 en la Copa Mundial sub-20 de 2007 y el equipo ol\u00EDmpico que particip\u00F3 de las Olimpiadas en Pek\u00EDn en 2008. Con la selecci\u00F3n mayor, Altidore ha participado de la Copa Confederaciones de 2009, la Copa del Mundo de 2010 y la Copa Oro de la Concacaf de 2011. A su temprana edad ya cuenta con m\u00E1s de 50 partidos jugados con las barras y las estrellas y ya se encuentra entre los diez m\u00E1ximos goleadores de todos los tiempos de la selecci\u00F3n de Estados Unidos."@es ,
+		"\u0414\u0436\u043E\u0301\u0437\u0438 \u0410\u0301\u043B\u0442\u0438\u0434\u043E\u0440 (\u0430\u043D\u0433\u043B. Jozy Altidore; \u0440\u043E\u0434\u0438\u043Bc\u044F 6 \u043D\u043E\u044F\u0431\u0440\u044F 1989 \u0433\u043E\u0434\u0430, \u041B\u0438\u0432\u0438\u043D\u0433\u0441\u0442\u043E\u043D, \u041D\u044C\u044E-\u0414\u0436\u0435\u0440\u0441\u0438) \u2014 \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043D\u0430\u043F\u0430\u0434\u0430\u044E\u0449\u0438\u0439 \u0430\u043D\u0433\u043B\u0438\u0439\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u0421\u0430\u043D\u0434\u0435\u0440\u043B\u0435\u043D\u0434\u00BB \u0438 \u043D\u0430\u0446\u0438\u043E\u043D\u0430\u043B\u044C\u043D\u043E\u0439 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u0421\u0428\u0410."@ru ,
+		"Josmer Volmy \"Jozy\" Altidore /\u02C8\u00E6ltid\u0254\u0259r/ (born November 6, 1989) is an American professional soccer player who plays for English club Sunderland and for the United States national team.Altidore made his professional debut in 2006 at the age of 16 with the New York Red Bulls. In the middle of his third season with New York, in 2008, he made a transfer to Villarreal. During his time with Villarreal, he left on three loan stints \u2013 with Spanish Segunda Divisi\u00F3n club Xerez in February\u2013May 2009, English Premier League club Hull City for the entire 2009\u201310 season, and Turkish club Bursaspor where he went on a six-month loan. In the summer of 2011, he made a switch to AZ. During the 2013 Summer transfer window, Sunderland signed Altidore. On March 3, 2013 Altidore surpassed Clint Dempsey for most goals by an American in a European club season with his 24th goal of the 2012\u201313 campaign.Altidore has represented the United States on various levels of international competition, featuring for the United States U-17 team at the 2005 FIFA U-17 World Championship, U-20 team at the 2007 FIFA U-20 World Cup, the U-23 team at the 2008 Beijing Olympics, and the senior national team at the 2009 FIFA Confederations Cup and 2010 FIFA World Cup." ,
+		"Josmer (\"Jozy\") Volmy Altidore (Livingston, 6 november 1989) is een Amerikaans profvoetballer van Ha\u00EFtiaanse afkomst die bij voorkeur als aanvaller speelt. Hij tekende in juli 2013 een contract bij Sunderland, dat hem overnam van AZ. Hij is tevens Amerikaans international. In 2008 kwam hij uit voor het Olympisch voetbalelftal van de Verenigde Staten."@nl ,
+		"Josmer Volmy \"Jozy\" Altidore (Livingston, 6 novembre 1989) \u00E8 un calciatore statunitense, attaccante del Sunderland, e della Nazionale statunitense."@it ,
+		"Josmer Volmy Altidore (Livingston, 6 de novembro de 1989) \u00E9 um futebolista estadunidense de descend\u00EAncia haitiana que atua como atacante. Atualmente, joga pelo Sunderland.Altidore fez sua estr\u00E9ia profissional em 2006, com a idade de 16 anos com o New york Red Bulls . No meio de sua terceira temporada com o New York, em 2008, ele fez uma transfer\u00EAncia para o Villarreal . Durante seu tempo com o Villarreal, ele saiu por empr\u00E9stimo tr\u00EAs vezes - para o clube Xerez da segunda divis\u00E3o espanhola em fevereiro \u200B\u200Bde 2009, depois para o Hull City para toda a temporada 2009-10 , e por fim ele passou um per\u00EDodo de seis empr\u00E9stimo m\u00EAs com o clube turco Bursaspor. No ver\u00E3o de 2011, ele fez uma mudan\u00E7a para AZ . Durante a janela de transfer\u00EAncias de Ver\u00E3o 2013, Sunderland assinou com Altidore.Altidore representou os Estados Unidos em v\u00E1rios n\u00EDveis de competi\u00E7\u00E3o internacional, representando a equipe dos Estados Unidos de base no mundial Sub-17 de 2005 , mundial Sub-20 de 2007 , nos jogos ol\u00EDmpicos de 2008 , e a equipe principal dos EUA na Copa das Confedera\u00E7\u00F5es 2009 e Copa do Mundo 2010 ."@pt ,
+		"\u30B8\u30E7\u30B9\u30DE\u30FC\u30FB\u30F4\u30A9\u30EB\u30DF\u30FC\"\u30B8\u30E7\u30B8\u30FC\"\u30FB\u30A2\u30EB\u30C6\u30A3\u30C9\u30FC\u30EB\uFF08Josmer Volmy \"Jozy\" Altidore, 1989\u5E7411\u67086\u65E5 - \uFF09\u306F\u3001\u30A2\u30E1\u30EA\u30AB\u30FB\u30CB\u30E5\u30FC\u30B8\u30E3\u30FC\u30B8\u30FC\u5DDE\u30EA\u30D3\u30F3\u30B0\u30B9\u30C8\u30F3\u51FA\u8EAB\u306E\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3001\u30A2\u30E1\u30EA\u30AB\u4EE3\u8868\u3002\u30A4\u30F3\u30B0\u30E9\u30F3\u30C9\u30FB\u30D7\u30EC\u30DF\u30A2\u30EA\u30FC\u30B0\u306E\u30B5\u30F3\u30C0\u30FC\u30E9\u30F3\u30C9AFC\u6240\u5C5E\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30BB\u30F3\u30BF\u30FC\u30D5\u30A9\u30EF\u30FC\u30C9\u30022006\u5E74\u306B16\u6B73\u3067\u30CB\u30E5\u30FC\u30E8\u30FC\u30AF\u30FB\u30EC\u30C3\u30C9\u30D6\u30EB\u30BA\u304B\u3089\u30D7\u30ED\u30C7\u30D3\u30E5\u30FC\u3092\u679C\u305F\u3057\u3001\u30EC\u30C3\u30C9\u30D6\u30EB\u30BA\u3067\u306E3\u30B7\u30FC\u30BA\u30F3\u76EE\u306E\u9014\u4E2D\u3067\u3042\u308B2008\u5E74\u306B\u30D3\u30B8\u30E3\u30EC\u30A2\u30EBCF\u3078\u79FB\u7C4D\u3059\u308B\u3002\u30D3\u30B8\u30E3\u30EC\u30A2\u30EB\u6642\u4EE3\u306B\u306F\u30013\u30AF\u30E9\u30D6\u3078\u306E\u671F\u9650\u4ED8\u304D\u79FB\u7C4D\u3092\u7D4C\u9A13\u3057\u3066\u304A\u308A\u30012009\u5E742\u6708\u306B\u30B9\u30DA\u30A4\u30F32\u90E8\u306E\u30D8\u30EC\u30B9CD\u30015\u6708\u306B\u306F\u30A4\u30F3\u30B0\u30E9\u30F3\u30C91\u90E8\u306E\u30CF\u30EB\u30FB\u30B7\u30C6\u30A3AFC\u30672009-10\u30B7\u30FC\u30BA\u30F3\u5168\u4F53\u3092\u904E\u3054\u3057\u3001\u30C8\u30EB\u30B31\u90E8\u306E\u30D6\u30EB\u30B5\u30B9\u30DD\u30EB\u306B\u534A\u5E74\u5728\u7C4D\u3057\u305F\u30022011\u5E74\u590F\u304B\u3089AZ\u30A2\u30EB\u30AF\u30DE\u30FC\u30EB\u30012013\u5E74\u590F\u304B\u3089\u306F\u30B5\u30F3\u30C0\u30FC\u30E9\u30F3\u30C9AFC\u3078\u5B8C\u5168\u79FB\u7C4D\u3092\u3057\u3066\u3044\u308B\u3002AZ\u5728\u7C4D\u6642\u4EE3\u306E2013\u5E743\u67083\u65E5\u306B2012-13\u30B7\u30FC\u30BA\u30F3\u901A\u7B9724\u5F97\u70B9\u76EE\u3092\u6319\u3052\u305F\u3053\u3068\u306B\u3088\u308A\u3001\u30AF\u30EA\u30F3\u30C8\u30FB\u30C7\u30F3\u30D7\u30B7\u30FC\u3092\u7834\u3063\u3066\u6B27\u5DDE\u3067\u30D7\u30EC\u30FC\u3057\u305F\u30A2\u30E1\u30EA\u30AB\u4EBA\u9078\u624B\u306E1\u30B7\u30FC\u30BA\u30F3\u3067\u306E\u901A\u7B97\u6700\u591A\u5F97\u70B9\u8A18\u9332\u4FDD\u6301\u8005\u3068\u306A\u3063\u305F\u3002\u30A2\u30E1\u30EA\u30AB\u4EE3\u8868\u3067\u306F\u3001\u5E74\u4EE3\u5225\u4EE3\u8868\u3092\u542B\u3081\u3066\u69D8\u3005\u306A\u56FD\u969B\u5927\u4F1A\u306B\u51FA\u5834\u3057\u3066\u304A\u308A\u3001U-17\u3001U-20\u3001U-23\u3067\u305D\u308C\u305E\u308C2005 FIFA U-17\u4E16\u754C\u9078\u624B\u6A29\u30012007 FIFA U-20\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u3001\u5317\u4EAC\u30AA\u30EA\u30F3\u30D4\u30C3\u30AF\u3067\u30D7\u30EC\u30FC\u3057\u3001A\u4EE3\u8868\u3068\u3057\u3066\u306FFIFA\u30B3\u30F3\u30D5\u30A7\u30C7\u30EC\u30FC\u30B7\u30E7\u30F3\u30BA\u30AB\u30C3\u30D72009\u30012010 FIFA\u30EF\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u30012011 CONCACAF\u30B4\u30FC\u30EB\u30C9\u30AB\u30C3\u30D7\u306E\u30E1\u30F3\u30D0\u30FC\u3060\u3063\u305F\u3002\u307E\u305F\u3001\u8A66\u5408\u51FA\u5834\u6642\u306B\u306F\u7956\u5148\u306B\u656C\u610F\u3092\u8868\u3057\u3066\u30CF\u30A4\u30C1\u3068\u30A2\u30E1\u30EA\u30AB\u306E\u56FD\u65D7\u3092\u3042\u3057\u3089\u3063\u305F\u30EA\u30B9\u30C8\u30D0\u30F3\u30C9\u3092\u7740\u7528\u3057\u3066\u3044\u308B\u3002"@ja ,
+		"Jozy Altidore, n\u00E9 le 6 novembre 1989 \u00E0 Livingston (New Jersey), est un footballeur international am\u00E9ricain d'origine ha\u00EFtienne qui \u00E9volue au poste d'attaquant avec le club anglais de Sunderland, et la s\u00E9lection am\u00E9ricaine."@fr ,
+		"Josmer \u201EJozy\u201C Volmy Altidore (* 6. November 1989 in Livingston, New Jersey) ist ein US-amerikanischer Fu\u00DFballspieler. Der St\u00FCrmer spielt seit Juli 2013 f\u00FCr den englischen Erstligisten AFC Sunderland."@de ;
+	dbpedia-owl:wikiPageID	10919134 ;
+	dbpedia-owl:wikiPageRevisionID	605402139 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Jozy_Altidore	dbpprop:birthDate	"1989-11-06+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Livingston, New Jersey, United States" ;
+	dbpprop:dateOfBirth	"1989-11-06+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Livingston, New Jersey, United States" ;
+	dbpprop:shortDescription	"Association football player" ;
+	dbpedia-owl:birthDate	"1989-11-06+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	<http://dbpedia.org/resource/United_States_men\u0027s_national_soccer_team> ,
+		<http://dbpedia.org/resource/Livingston,_New_Jersey> ;
+	dbpedia-owl:birthYear	"1989+02:00"^^xsd:gYear ;
+	dbpprop:goals	15 ,
+		0 ,
+		1 ,
+		39 ;
+	dbpprop:bg	"white" ;
+	dbpprop:id	49192 ;
+	dbpprop:caps	67 ,
+		37 ,
+		25 ,
+		28 ,
+		9 ,
+		12 ,
+		0 ;
+	dbpprop:years	2013 ,
+		2011 ,
+		2008 ,
+		2009 ,
+		2006 ;
+	dbpprop:youthclubs	dbpedia:IMG_Academy ;
+	dbpedia-owl:careerStation	dbpedia:Jozy_Altidore__5 ,
+		dbpedia:Jozy_Altidore__8 ,
+		dbpedia:Jozy_Altidore__1 ,
+		dbpedia:Jozy_Altidore__2 ,
+		dbpedia:Jozy_Altidore__11 ,
+		dbpedia:Jozy_Altidore__4 ,
+		dbpedia:Jozy_Altidore__10 ,
+		dbpedia:Jozy_Altidore__9 ,
+		dbpedia:Jozy_Altidore__3 ,
+		dbpedia:Jozy_Altidore__7 ,
+		dbpedia:Jozy_Altidore__6 ;
+	dbpprop:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Forward_(association_football)> ;
+	dbpedia-owl:height	1.8542000000000000703 .
+@prefix ns50:	<http://dbpedia.org/datatype/> .
+@prefix ns51:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Jozy_Altidore	ns51:height	"185.42"^^ns50:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/Sunderland_A.F.C.> ;
+	dbpprop:clubnumber	17 ;
+	dbpprop:fullname	"Josmer Volmy Altidore" ;
+	dbpprop:clubs	dbpedia:AZ_Alkmaar ,
+		"\u2192 Hull City" ,
+		"\u2192 Bursaspor" ,
+		dbpedia:Villarreal_CF ,
+		"\u2192 Xerez" ,
+		dbpedia:New_York_Red_Bulls ,
+		<http://dbpedia.org/resource/Sunderland_A.F.C.> ;
+	dbpedia-owl:team	<http://dbpedia.org/resource/United_States_men\u0027s_national_under-23_soccer_team> ,
+		dbpedia:Bursaspor ,
+		<http://dbpedia.org/resource/United_States_men\u0027s_national_under-17_soccer_team> ,
+		dbpedia:AZ_Alkmaar ,
+		dbpedia:IMG_Academy ,
+		<http://dbpedia.org/resource/United_States_men\u0027s_national_under-20_soccer_team> ,
+		dbpedia:Xerez_CD ,
+		dbpedia:Villarreal_CF ,
+		dbpedia:New_York_Red_Bulls ,
+		<http://dbpedia.org/resource/Hull_City_A.F.C.> ,
+		<http://dbpedia.org/resource/Sunderland_A.F.C.> .
+@prefix ns52:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Jozy_Altidore	dbpprop:wordnet_type	ns52:synset-soccer_player-noun-1 ;
+	dbpprop:title	"United States squads" ;
+	dbpprop:pcupdate	"--03-15+02:00"^^xsd:gMonthDay ;
+	dbpprop:youthyears	2004 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.followussoccer.com/tag/jozy-altidore/> ,
+		<http://soccersurfer.com/profile.php?id=715> ,
+		<http://www.premierleague.com/page/PlayerProfile/0,,12306~44601~2009,00.html> ,
+		<http://soccernet.espn.go.com/player/_/id/75589/jozy-altidore?cc=5739> ;
+	dbpprop:bordercolor	"#BF0A30" ;
+	dbpprop:fg	"#002868" ;
+	dbpprop:nationalcaps	2 ,
+		3 ,
+		5 ,
+		67 ;
+	dbpprop:nationalgoals	21 ,
+		4 ,
+		0 ,
+		1 ;
+	dbpprop:nationalteam	<http://dbpedia.org/resource/United_States_men\u0027s_national_under-23_soccer_team> ,
+		<http://dbpedia.org/resource/United_States_men\u0027s_national_under-17_soccer_team> ,
+		<http://dbpedia.org/resource/United_States_men\u0027s_national_under-20_soccer_team> ,
+		<http://dbpedia.org/resource/United_States_men\u0027s_national_soccer_team> ;
+	dbpprop:nationalyears	2005 ,
+		2007 ,
+		2008 ;
+	dbpedia-owl:number	17 ;
+	dbpedia-owl:alias	"Altidore, Josmer Volmy" ;
+	dbpprop:alternativeNames	"Altidore, Josmer Volmy" ;
+	dbpprop:ntupdate	"--03-07+02:00"^^xsd:gMonthDay .
+ns47:Jozy_Altidore	foaf:primaryTopic	dbpedia:Jozy_Altidore .
+<http://dbpedia.org/resource/2007_FIFA_U-20_World_Cup_squads>	dbpprop:name	dbpedia:Jozy_Altidore .
+<http://dbpedia.org/resource/2005_FIFA_U-17_World_Championship_squads>	dbpprop:name	dbpedia:Jozy_Altidore .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Jozy_Altidore .
+<http://dbpedia.org/resource/2011_CONCACAF_Gold_Cup_squads>	dbpprop:name	dbpedia:Jozy_Altidore .
+<http://dbpedia.org/resource/2008_CONCACAF_Men_Pre-Olympic_Tournament_Squads>	dbpprop:name	dbpedia:Jozy_Altidore .
+<http://dbpedia.org/resource/United_States_men\u0027s_national_soccer_team>	dbpprop:name	dbpedia:Jozy_Altidore .
+<http://dbpedia.org/resource/2009_FIFA_Confederations_Cup_statistics>	dbpprop:youngestScorerPlayer	dbpedia:Jozy_Altidore .
+<http://dbpedia.org/resource/Sunderland_A.F.C.>	dbpprop:name	dbpedia:Jozy_Altidore .
+<http://dbpedia.org/resource/2011%E2%80%9312_AZ_Alkmaar_season>	dbpprop:name	dbpedia:Jozy_Altidore .
+ns26:جوزي_ألتيدور	owl:sameAs	dbpedia:Jozy_Altidore .
+ns38:Josmer_Volmy_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+ns23:Jozy_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+ns22:جوزی_التدور	owl:sameAs	dbpedia:Jozy_Altidore .
+ns39:Jozy_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+<http://he.dbpedia.org/resource/\u05D2\u0027\u05D5\u05D6\u05D9_\u05D0\u05DC\u05D8\u05D9\u05D3\u05D5\u05E8>	owl:sameAs	dbpedia:Jozy_Altidore .
+ns41:Josmer_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+ns27:Jozy_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+ns34:Ջոզի_Ալտիդոր	owl:sameAs	dbpedia:Jozy_Altidore .
+ns28:Jozy_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+ns25:Jozy_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+ns32:जोझी_अल्टीडोर	owl:sameAs	dbpedia:Jozy_Altidore .
+ns21:Jozy_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+ns36:Jozy_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+ns30:Jozy_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+<http://ru.dbpedia.org/resource/\u0410\u043B\u0442\u0438\u0434\u043E\u0440,_\u0414\u0436\u043E\u0437\u0438>	owl:sameAs	dbpedia:Jozy_Altidore .
+ns35:Jozy_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+ns24:Jozy_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+ns29:Jozy_Altidore	owl:sameAs	dbpedia:Jozy_Altidore .
+ns33:Джозі_Алтідор	owl:sameAs	dbpedia:Jozy_Altidore .
+<http://dbpedia.org/resource/2013%E2%80%9314_Sunderland_A.F.C._season__Jozy_Altidore__1>	dbpedia-owl:currentMember	dbpedia:Jozy_Altidore .
+<http://dbpedia.org/resource/2009_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Jozy_Altidore .
+<http://dbpedia.org/resource/2013%E2%80%9314_Sunderland_A.F.C._season>	dbpprop:name	dbpedia:Jozy_Altidore .
+<http://dbpedia.org/resource/2009%E2%80%9310_Hull_City_A.F.C._season__Jozy_Altidore__1>	dbpedia-owl:currentMember	dbpedia:Jozy_Altidore .
+<http://dbpedia.org/resource/2009%E2%80%9310_Hull_City_A.F.C._season>	dbpprop:name	dbpedia:Jozy_Altidore ;
+	dbpprop:p	dbpedia:Jozy_Altidore .
+<http://dbpedia.org/resource/2012%E2%80%9313_KNVB_Cup>	dbpprop:topGoalScorer	dbpedia:Jozy_Altidore .
+<http://dbpedia.org/resource/2011%E2%80%9312_AZ_Alkmaar_season__Jozy_Altidore__1>	dbpedia-owl:currentMember	dbpedia:Jozy_Altidore .
+<http://dbpedia.org/resource/2010%E2%80%9311_Bursaspor_season__Jozy_Altidore__1>	dbpedia-owl:currentMember	dbpedia:Jozy_Altidore .
+dbpedia:Altidore	dbpedia-owl:wikiPageRedirects	dbpedia:Jozy_Altidore .
+dbpedia:Joey_Altidore	dbpedia-owl:wikiPageRedirects	dbpedia:Jozy_Altidore .
+dbpedia:Jose_Altidore	dbpedia-owl:wikiPageRedirects	dbpedia:Jozy_Altidore .
+dbpedia:Josmer_Altidore	dbpedia-owl:wikiPageRedirects	dbpedia:Jozy_Altidore .
+<http://dbpedia.org/resource/Josmer_Volmy_%22Jozy%22_Altidore>	dbpedia-owl:wikiPageRedirects	dbpedia:Jozy_Altidore .
+dbpedia:Josmer_Volmy_Altidore	dbpedia-owl:wikiPageRedirects	dbpedia:Jozy_Altidore .
+dbpedia:Joze_Altidore	dbpedia-owl:wikiPageRedirects	dbpedia:Jozy_Altidore .
+dbpedia:Jozy	dbpedia-owl:wikiPageRedirects	dbpedia:Jozy_Altidore .
+<http://dbpedia.org/resource/Sunderland_A.F.C.__Jozy_Altidore__1>	dbpedia-owl:currentMember	dbpedia:Jozy_Altidore .

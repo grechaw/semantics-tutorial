@@ -1,0 +1,268 @@
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+@prefix ns1:	<http://es.dbpedia.org/resource/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Andrew_Boyens	owl:sameAs	dbpedia:Andrew_Boyens .
+@prefix ns3:	<http://fr.dbpedia.org/resource/> .
+ns3:Andrew_Boyens	owl:sameAs	dbpedia:Andrew_Boyens .
+@prefix ns4:	<http://de.dbpedia.org/resource/> .
+ns4:Andrew_Boyens	owl:sameAs	dbpedia:Andrew_Boyens .
+@prefix ns5:	<http://wikidata.dbpedia.org/resource/> .
+ns5:Q503887	owl:sameAs	dbpedia:Andrew_Boyens .
+@prefix ns6:	<http://it.dbpedia.org/resource/> .
+ns6:Andrew_Boyens	owl:sameAs	dbpedia:Andrew_Boyens .
+@prefix ns7:	<http://pl.dbpedia.org/resource/> .
+ns7:Andrew_Boyens	owl:sameAs	dbpedia:Andrew_Boyens .
+@prefix ns8:	<http://pt.dbpedia.org/resource/> .
+ns8:Andrew_Boyens	owl:sameAs	dbpedia:Andrew_Boyens .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns10:	<http://en.wikipedia.org/wiki/> .
+ns10:Andrew_Boyens	foaf:primaryTopic	dbpedia:Andrew_Boyens .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix yago:	<http://dbpedia.org/class/yago/> .
+dbpedia:Andrew_Boyens	rdf:type	yago:TorontoFCPlayers .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Andrew_Boyens	rdf:type	dul:NaturalPerson ,
+		dul:Agent ,
+		yago:LosAngelesGalaxyPlayers ,
+		ns5:Q5 ,
+		yago:NewZealandExpatriatesInCanada ,
+		foaf:Person ,
+		ns5:Q215627 ,
+		owl:Thing ,
+		yago:Contestant109613191 ,
+		yago:Whole100003553 ,
+		yago:FootballPlayer110101634 ,
+		yago:YagoLegalActor ,
+		yago:LivingPeople ,
+		yago:Object100002684 ,
+		yago:CausalAgent100007347 ,
+		yago:LivingThing100004258 ,
+		yago:Athlete109820263 ,
+		yago:YagoLegalActorGeo ,
+		yago:Organism100004475 ,
+		yago:Person100007846 ,
+		<http://dbpedia.org/class/yago/2009FIFAConfederationsCupPlayers> ,
+		yago:PhysicalEntity100001930 ,
+		yago:NewZealandExpatriatesInTheUnitedStates ,
+		yago:Player110439851 ,
+		yago:AssociationFootballDefenders ,
+		yago:NewZealandAssociationFootballers ,
+		yago:NewZealandInternationalFootballers ,
+		yago:PeopleFromDunedin .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Andrew_Boyens	rdf:type	dbpedia-owl:Athlete .
+@prefix ns15:	<http://schema.org/> .
+dbpedia:Andrew_Boyens	rdf:type	ns15:Person ,
+		<http://dbpedia.org/class/yago/NewMexicoLobosMen\u0027sSoccerPlayers> ,
+		dbpedia-owl:Person ,
+		<http://dbpedia.org/class/yago/2010FIFAWorldCupPlayers> ,
+		yago:Exile110071332 ,
+		yago:Traveler109629752 ,
+		yago:Absentee109757653 ,
+		dbpedia-owl:Agent ,
+		yago:Preserver110466918 ,
+		yago:ExpatriateSoccerPlayersInTheUnitedStates ,
+		yago:NewYorkRedBullsPlayers ,
+		yago:ExpatriateSoccerPlayersInCanada ,
+		yago:Defender109614684 ,
+		dbpedia-owl:SoccerPlayer ,
+		yago:SoccerPlayer110618342 ,
+		yago:PeopleEducatedAtKavanaghCollege ,
+		<http://dbpedia.org/class/yago/C.D.ChivasUSAPlayers> ,
+		yago:NewZealandExpatriateSoccerPlayers ;
+	owl:sameAs	ns7:Andrew_Boyens ,
+		ns3:Andrew_Boyens .
+@prefix ns16:	<http://ar.dbpedia.org/resource/> .
+dbpedia:Andrew_Boyens	owl:sameAs	ns16:أندرو_بوينس ,
+		dbpedia:Andrew_Boyens ,
+		<http://rdf.freebase.com/ns/m.0b5xst> .
+@prefix ns17:	<http://no.dbpedia.org/resource/> .
+dbpedia:Andrew_Boyens	owl:sameAs	ns17:Andrew_Boyens .
+@prefix ns18:	<http://yago-knowledge.org/resource/> .
+dbpedia:Andrew_Boyens	owl:sameAs	ns18:Andrew_Boyens ,
+		ns1:Andrew_Boyens .
+@prefix ns19:	<http://wikidata.org/entity/> .
+dbpedia:Andrew_Boyens	owl:sameAs	ns19:Q503887 ,
+		ns8:Andrew_Boyens .
+@prefix ns20:	<http://mr.dbpedia.org/resource/> .
+dbpedia:Andrew_Boyens	owl:sameAs	ns20:अँड्रू_बोयेन्स .
+@prefix ns21:	<http://uk.dbpedia.org/resource/> .
+dbpedia:Andrew_Boyens	owl:sameAs	ns21:Ендрю_Боєнс ,
+		ns5:Q503887 ,
+		ns6:Andrew_Boyens ,
+		<http://ru.dbpedia.org/resource/\u0411\u043E\u0439\u0435\u043D\u0441,_\u042D\u043D\u0434\u0440\u044E> ,
+		ns4:Andrew_Boyens .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Andrew_Boyens	rdfs:label	"Andrew Boyens"@pt ,
+		"Andrew Boyens" ,
+		"\u0411\u043E\u0439\u0435\u043D\u0441, \u042D\u043D\u0434\u0440\u044E"@ru ,
+		"\u0623\u0646\u062F\u0631\u0648 \u0628\u0648\u064A\u0646\u0633"@ar ,
+		"Andrew Boyens"@de ,
+		"Andrew Boyens"@pl ,
+		"Andrew Boyens"@it ,
+		"Andrew Boyens"@es ,
+		"Andrew Boyens"@fr .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Andrew_Boyens	dcterms:subject	category:Toronto_FC_draft_picks ,
+		category:New_Zealand_association_footballers ,
+		<http://dbpedia.org/resource/Category:New_Mexico_Lobos_men\u0027s_soccer_players> ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:Major_League_Soccer_players ,
+		category:Expatriate_soccer_players_in_Canada ,
+		category:New_Zealand_expatriates_in_Canada ,
+		category:People_educated_at_Kavanagh_College ,
+		<http://dbpedia.org/resource/Category:1983_births> ,
+		category:New_Zealand_international_footballers ,
+		category:Expatriate_soccer_players_in_the_United_States ,
+		<http://dbpedia.org/resource/Category:2009_FIFA_Confederations_Cup_players> ,
+		category:New_York_Red_Bulls_players ,
+		category:Association_football_defenders ,
+		category:Toronto_FC_players ,
+		category:Major_League_Soccer_first_round_draft_picks ,
+		category:Chivas_USA_players ,
+		category:People_from_Dunedin ,
+		category:LA_Galaxy_players ,
+		category:New_Zealand_expatriates_in_the_United_States ,
+		category:University_of_Otago_alumni ,
+		category:New_Zealand_expatriate_association_footballers ,
+		category:Living_people .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Andrew_Boyens	dc:description	"New Zealand association footballer" ,
+		"New Zealand association footballer" ;
+	foaf:givenName	"Andrew" ;
+	foaf:name	"Andrew Boyens" ,
+		"Boyens, Andrew" ,
+		"Andrew Victor Boyens" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Andrew_Boyens	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Andrew_Boyens?oldid=597731996> ;
+	rdfs:comment	"Andrew Boyens (Dunedin, 18 settembre 1983) \u00E8 un calciatore neozelandese, difensore svincolato."@it ,
+		"Andrew Victor Boyens is a New Zealand international footballer who most recently played for Los Angeles Galaxy in Major League Soccer, and has represented New Zealand at the international level." ,
+		"\u0623\u0646\u062F\u0631\u0648 \u0628\u0648\u064A\u0646\u0633 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Andrew Boyens)\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 18 \u0633\u0628\u062A\u0645\u0628\u0631 1983\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u064A.\u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0646\u064A\u0648\u064A\u0648\u0631\u0643 \u0631\u062F \u0628\u0648\u0644\u0632 \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A.\u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2006."@ar ,
+		"Andrew Boyens (* 18. September 1983 in Dunedin) ist ein neuseel\u00E4ndischer Fu\u00DFballspieler."@de ,
+		"Andrew Boyens (18 de septiembre de 1983 en Dunedin, Nueva Zelanda) es un futbolista neozeland\u00E9s que juega como defensor. Su \u00FAltimo club fue el Los Angeles Galaxy de la Major League Soccer, y actualmente es agente libre."@es ,
+		"\u042D\u043D\u0434\u0440\u044E \u0412\u0438\u043A\u0442\u043E\u0440 \u0411\u043E\u0439\u0435\u043D\u0441 (\u0430\u043D\u0433\u043B. Andrew Victor Boyens; 18 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1983, \u0414\u0430\u043D\u0438\u0434\u0438\u043D) \u2014 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u041B\u043E\u0441-\u0410\u043D\u0434\u0436\u0435\u043B\u0435\u0441 \u0413\u044D\u043B\u0430\u043A\u0441\u0438\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041D\u043E\u0432\u043E\u0439 \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u0438."@ru ,
+		"Andrew Victor Boyens (Dunedin, 18 de setembro de 1983) \u00E9 um futebolista profissional da Nova Zel\u00E2ndia."@pt ,
+		"Andrew Boyens, n\u00E9 le 18 septembre 1983 \u00E0 Dunedin, est un footballeur international n\u00E9o-z\u00E9landais \u00E9voluant au poste de d\u00E9fenseur central.Il est s\u00E9lectionn\u00E9 pour la premi\u00E8re fois en \u00E9quipe de Nouvelle-Z\u00E9lande de football en 2006 lors d'un match amical contre le FC S\u00E9ville le 15 ao\u00FBt 2006 d\u00E9faite 5-1 des \u00AB kiwis \u00BB, il joua son premier match officiel le 26 mai 2007 face au Pays de Galles.Il dispute la Coupe des conf\u00E9d\u00E9rations 2009 et fait partie du groupe des vingt-trois s\u00E9lectionn\u00E9s pour la Coupe du monde de football de 2010."@fr ,
+		"Andrew Boyens (ur. 18 wrze\u015Bnia 1983 w Dunedin) \u2013 nowozelandzki pi\u0142karz wyst\u0119puj\u0105cy na pozycji obro\u0144cy. Obecnie jest zawodnikiem klubu Red Bull New York."@pl ;
+	foaf:surname	"Boyens" ;
+	foaf:isPrimaryTopicOf	ns10:Andrew_Boyens .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+@prefix ns28:	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/> .
+dbpedia:Andrew_Boyens	dbpprop:hasPhotoCollection	ns28:Andrew_Boyens ;
+	dbpprop:name	"Andrew Boyens" ,
+		"Boyens, Andrew" ;
+	dbpedia-owl:abstract	"Andrew Boyens (Dunedin, 18 settembre 1983) \u00E8 un calciatore neozelandese, difensore svincolato."@it ,
+		"Andrew Boyens (* 18. September 1983 in Dunedin) ist ein neuseel\u00E4ndischer Fu\u00DFballspieler."@de ,
+		"Andrew Victor Boyens (Dunedin, 18 de setembro de 1983) \u00E9 um futebolista profissional da Nova Zel\u00E2ndia."@pt ,
+		"Andrew Boyens, n\u00E9 le 18 septembre 1983 \u00E0 Dunedin, est un footballeur international n\u00E9o-z\u00E9landais \u00E9voluant au poste de d\u00E9fenseur central.Il est s\u00E9lectionn\u00E9 pour la premi\u00E8re fois en \u00E9quipe de Nouvelle-Z\u00E9lande de football en 2006 lors d'un match amical contre le FC S\u00E9ville le 15 ao\u00FBt 2006 d\u00E9faite 5-1 des \u00AB kiwis \u00BB, il joua son premier match officiel le 26 mai 2007 face au Pays de Galles.Il dispute la Coupe des conf\u00E9d\u00E9rations 2009 et fait partie du groupe des vingt-trois s\u00E9lectionn\u00E9s pour la Coupe du monde de football de 2010."@fr ,
+		"\u0623\u0646\u062F\u0631\u0648 \u0628\u0648\u064A\u0646\u0633 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Andrew Boyens)\u060C \u0645\u0646 \u0645\u0648\u0627\u0644\u064A\u062F 18 \u0633\u0628\u062A\u0645\u0628\u0631 1983\u060C \u0644\u0627\u0639\u0628 \u0643\u0631\u0629 \u0642\u062F\u0645 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u064A.\u064A\u0644\u0639\u0628 \u0645\u0639 \u0646\u0627\u062F\u064A \u0646\u064A\u0648\u064A\u0648\u0631\u0643 \u0631\u062F \u0628\u0648\u0644\u0632 \u0627\u0644\u0623\u0645\u0631\u064A\u0643\u064A.\u0628\u062F\u0623 \u0628\u0627\u0644\u0644\u0639\u0628 \u0645\u0639 \u0645\u0646\u062A\u062E\u0628 \u0646\u064A\u0648\u0632\u0644\u0646\u062F\u0627 \u0644\u0643\u0631\u0629 \u0627\u0644\u0642\u062F\u0645 \u0641\u064A \u0639\u0627\u0645 2006."@ar ,
+		"\u042D\u043D\u0434\u0440\u044E \u0412\u0438\u043A\u0442\u043E\u0440 \u0411\u043E\u0439\u0435\u043D\u0441 (\u0430\u043D\u0433\u043B. Andrew Victor Boyens; 18 \u0441\u0435\u043D\u0442\u044F\u0431\u0440\u044F 1983, \u0414\u0430\u043D\u0438\u0434\u0438\u043D) \u2014 \u043D\u043E\u0432\u043E\u0437\u0435\u043B\u0430\u043D\u0434\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u044B\u0439 \u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u043E\u0433\u043E \u043A\u043B\u0443\u0431\u0430 \u00AB\u041B\u043E\u0441-\u0410\u043D\u0434\u0436\u0435\u043B\u0435\u0441 \u0413\u044D\u043B\u0430\u043A\u0441\u0438\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u041D\u043E\u0432\u043E\u0439 \u0417\u0435\u043B\u0430\u043D\u0434\u0438\u0438."@ru ,
+		"Andrew Boyens (18 de septiembre de 1983 en Dunedin, Nueva Zelanda) es un futbolista neozeland\u00E9s que juega como defensor. Su \u00FAltimo club fue el Los Angeles Galaxy de la Major League Soccer, y actualmente es agente libre."@es ,
+		"Andrew Victor Boyens is a New Zealand international footballer who most recently played for Los Angeles Galaxy in Major League Soccer, and has represented New Zealand at the international level." ,
+		"Andrew Boyens (ur. 18 wrze\u015Bnia 1983 w Dunedin) \u2013 nowozelandzki pi\u0142karz wyst\u0119puj\u0105cy na pozycji obro\u0144cy. Obecnie jest zawodnikiem klubu Red Bull New York."@pl ;
+	dbpedia-owl:wikiPageID	3900312 ;
+	dbpedia-owl:wikiPageRevisionID	597731996 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Andrew_Boyens	dbpprop:birthDate	"1983-09-18+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Napier, New Zealand" ;
+	dbpprop:dateOfBirth	"1983-09-18+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Dunedin, New Zealand" ;
+	dbpprop:shortDescription	"New Zealand association footballer" ;
+	dbpedia-owl:birthDate	"1983-09-18+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:New_Zealand_national_football_team ,
+		dbpedia:Dunedin ,
+		<http://dbpedia.org/resource/Napier,_New_Zealand> ;
+	dbpedia-owl:birthYear	"1983+02:00"^^xsd:gYear ;
+	dbpprop:goals	2 ,
+		0 ,
+		1 ;
+	dbpprop:bg	"white" ;
+	dbpprop:caps	33 ,
+		23 ,
+		17 ,
+		2 ,
+		12 ,
+		14 ;
+	dbpprop:years	2002 ,
+		2006 ,
+		2007 ,
+		2011 ,
+		2008 ,
+		2012 ;
+	dbpprop:youthclubs	dbpedia:New_Mexico_Lobos ,
+		dbpedia:Otago_University_AFC ;
+	dbpedia-owl:careerStation	dbpedia:Andrew_Boyens__6 ,
+		dbpedia:Andrew_Boyens__5 ,
+		dbpedia:Andrew_Boyens__7 ,
+		dbpedia:Andrew_Boyens__1 ,
+		dbpedia:Andrew_Boyens__10 ,
+		dbpedia:Andrew_Boyens__4 ,
+		dbpedia:Andrew_Boyens__9 ,
+		dbpedia:Andrew_Boyens__3 ,
+		dbpedia:Andrew_Boyens__2 ,
+		dbpedia:Andrew_Boyens__8 ;
+	dbpprop:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:position	<http://dbpedia.org/resource/Defender_(association_football)> ;
+	dbpedia-owl:height	1.9299999999999999378 .
+@prefix ns30:	<http://dbpedia.org/datatype/> .
+@prefix ns31:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Andrew_Boyens	ns31:height	"193.0"^^ns30:centimetre ;
+	dbpprop:fullname	"Andrew Victor Boyens" ;
+	dbpprop:clubs	dbpedia:Southern_United_FC ,
+		dbpedia:LA_Galaxy ,
+		dbpedia:Dunedin_Technical ,
+		dbpedia:Toronto_FC ,
+		dbpedia:Chivas_USA ,
+		dbpedia:New_York_Red_Bulls ;
+	dbpedia-owl:team	dbpedia:New_Zealand_national_under-23_football_team ,
+		dbpedia:Southern_United_FC ,
+		dbpedia:Otago_University_AFC ,
+		dbpedia:New_Mexico_Lobos ,
+		dbpedia:LA_Galaxy ,
+		dbpedia:New_Zealand_national_football_team ,
+		dbpedia:Dunedin_Technical ,
+		dbpedia:Toronto_FC ,
+		dbpedia:Chivas_USA ,
+		dbpedia:New_Zealand_national_under-20_football_team ,
+		dbpedia:New_York_Red_Bulls .
+@prefix ns32:	<http://www.w3.org/2006/03/wn/wn20/instances/> .
+dbpedia:Andrew_Boyens	dbpprop:wordnet_type	ns32:synset-soccer_player-noun-1 ;
+	dbpprop:title	"New Zealand Squads" ;
+	dbpprop:youthyears	2002 ,
+		2004 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.nzfootball.co.nz/index.php?id=299> .
+@prefix ns33:	<http://www.mlssoccer.com/players/> .
+dbpedia:Andrew_Boyens	dbpedia-owl:wikiPageExternalLink	ns33:andrew-boyens ;
+	dbpprop:clubUpdate	"2011-10-23+02:00"^^xsd:date ;
+	dbpprop:nationalteamUpdate	"2011-10-20+02:00"^^xsd:date ;
+	dbpprop:fg	"black" ;
+	dbpprop:nationalcaps	4 ,
+		19 ;
+	dbpprop:nationalgoals	0 ,
+		1 ;
+	dbpprop:nationalteam	dbpedia:New_Zealand_national_under-20_football_team ,
+		dbpedia:New_Zealand_national_football_team ,
+		dbpedia:New_Zealand_national_under-23_football_team ;
+	dbpprop:nationalyears	2006 ,
+		2002 .
+<http://dbpedia.org/resource/2008_Toronto_FC_season__Andrew_Boyens__1>	dbpedia-owl:currentMember	dbpedia:Andrew_Boyens .
+ns16:أندرو_بوينس	owl:sameAs	dbpedia:Andrew_Boyens .
+ns20:अँड्रू_बोयेन्स	owl:sameAs	dbpedia:Andrew_Boyens .
+ns17:Andrew_Boyens	owl:sameAs	dbpedia:Andrew_Boyens .
+<http://ru.dbpedia.org/resource/\u0411\u043E\u0439\u0435\u043D\u0441,_\u042D\u043D\u0434\u0440\u044E>	owl:sameAs	dbpedia:Andrew_Boyens .
+ns21:Ендрю_Боєнс	owl:sameAs	dbpedia:Andrew_Boyens .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Andrew_Boyens .
+<http://dbpedia.org/resource/2008_Toronto_FC_season>	dbpprop:name	dbpedia:Andrew_Boyens .
+dbpedia:New_Zealand_national_under-23_football_team	dbpprop:p	dbpedia:Andrew_Boyens .
+<http://dbpedia.org/resource/2010_New_York_Red_Bulls_season>	dbpprop:name	dbpedia:Andrew_Boyens ;
+	dbpprop:p	dbpedia:Andrew_Boyens .
+<http://dbpedia.org/resource/2009_New_York_Red_Bulls_season>	dbpprop:name	dbpedia:Andrew_Boyens .
+dbpedia:Boyens	dbpedia-owl:wikiPageDisambiguates	dbpedia:Andrew_Boyens .
+<http://dbpedia.org/resource/2009_New_York_Red_Bulls_season__Andrew_Boyens__1>	dbpedia-owl:currentMember	dbpedia:Andrew_Boyens .
+<http://dbpedia.org/resource/2011_Chivas_USA_season__Andrew_Boyens__1>	dbpedia-owl:currentMember	dbpedia:Andrew_Boyens .
+<http://dbpedia.org/resource/2010_New_York_Red_Bulls_season__Andrew_Boyens__1>	dbpedia-owl:currentMember	dbpedia:Andrew_Boyens .
+<http://dbpedia.org/resource/2009_FIFA_Confederations_Cup_squads>	dbpprop:name	dbpedia:Andrew_Boyens .
+<http://dbpedia.org/resource/2008_OFC_Nations_Cup_squads>	dbpprop:name	dbpedia:Andrew_Boyens .
+dbpedia:New_Zealand_national_under-20_football_team	dbpprop:p	dbpedia:Andrew_Boyens .
+<http://dbpedia.org/resource/2011_Chivas_USA_season>	dbpprop:name	dbpedia:Andrew_Boyens .

@@ -1,0 +1,224 @@
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix ns1:	<http://en.wikipedia.org/wiki/> .
+@prefix dbpedia:	<http://dbpedia.org/resource/> .
+ns1:Lee_Chung-yong	foaf:primaryTopic	dbpedia:Lee_Chung-yong .
+@prefix dbpedia-owl:	<http://dbpedia.org/ontology/> .
+dbpedia:Lee_Chung-Yong	dbpedia-owl:wikiPageRedirects	dbpedia:Lee_Chung-yong .
+<http://dbpedia.org/resource/Bolton_Wanderers_F.C.__Chung-Yong_Lee__1>	dbpedia-owl:currentMember	dbpedia:Lee_Chung-yong .
+@prefix dbpprop:	<http://dbpedia.org/property/> .
+<http://dbpedia.org/resource/2007_FIFA_U-20_World_Cup_squads>	dbpprop:name	dbpedia:Lee_Chung-yong .
+dbpedia:South_Korea_national_football_team	dbpprop:captain	dbpedia:Lee_Chung-yong ;
+	dbpprop:name	dbpedia:Lee_Chung-yong .
+<http://dbpedia.org/resource/2005_FC_Seoul_season>	dbpprop:name	dbpedia:Lee_Chung-yong .
+<http://dbpedia.org/resource/2006_FC_Seoul_season>	dbpprop:name	dbpedia:Lee_Chung-yong .
+<http://dbpedia.org/resource/2007_FC_Seoul_season>	dbpprop:name	dbpedia:Lee_Chung-yong ;
+	dbpprop:text	dbpedia:Lee_Chung-yong ;
+	dbpprop:p	dbpedia:Lee_Chung-yong .
+<http://dbpedia.org/resource/2010_FIFA_World_Cup_squads>	dbpprop:name	dbpedia:Lee_Chung-yong .
+<http://dbpedia.org/resource/Bolton_Wanderers_F.C.>	dbpprop:name	dbpedia:Lee_Chung-yong .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+dbpedia:Lee_Chung-yong	rdf:type	dbpedia-owl:Athlete ,
+		dbpedia-owl:SoccerPlayer .
+@prefix ns6:	<http://schema.org/> .
+dbpedia:Lee_Chung-yong	rdf:type	ns6:Person ,
+		foaf:Person .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbpedia:Lee_Chung-yong	rdf:type	owl:Thing .
+@prefix ns8:	<http://wikidata.dbpedia.org/resource/> .
+dbpedia:Lee_Chung-yong	rdf:type	ns8:Q215627 ,
+		ns8:Q5 .
+@prefix dul:	<http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#> .
+dbpedia:Lee_Chung-yong	rdf:type	dul:Agent ,
+		dul:NaturalPerson ,
+		dbpedia-owl:Agent ,
+		dbpedia-owl:Person .
+@prefix ns10:	<http://pt.dbpedia.org/resource/> .
+dbpedia:Lee_Chung-yong	owl:sameAs	ns10:Lee_Chung-Yong .
+@prefix ns11:	<http://ko.dbpedia.org/resource/> .
+dbpedia:Lee_Chung-yong	owl:sameAs	ns11:이청용 .
+@prefix ns12:	<http://es.dbpedia.org/resource/> .
+dbpedia:Lee_Chung-yong	owl:sameAs	ns12:Lee_Chung-Yong .
+@prefix ns13:	<http://nl.dbpedia.org/resource/> .
+dbpedia:Lee_Chung-yong	owl:sameAs	ns13:Lee_Chung-yong .
+@prefix ns14:	<http://id.dbpedia.org/resource/> .
+dbpedia:Lee_Chung-yong	owl:sameAs	ns14:Lee_Chung-Yong .
+@prefix ns15:	<http://ja.dbpedia.org/resource/> .
+dbpedia:Lee_Chung-yong	owl:sameAs	ns15:李菁龍 .
+@prefix ns16:	<http://it.dbpedia.org/resource/> .
+dbpedia:Lee_Chung-yong	owl:sameAs	ns16:Lee_Chung-Yong .
+@prefix ns17:	<http://wikidata.org/entity/> .
+dbpedia:Lee_Chung-yong	owl:sameAs	ns17:Q217104 ,
+		ns8:Q217104 .
+@prefix ns18:	<http://fr.dbpedia.org/resource/> .
+dbpedia:Lee_Chung-yong	owl:sameAs	ns18:Lee_Chung-yong ,
+		dbpedia:Lee_Chung-yong .
+@prefix ns19:	<http://de.dbpedia.org/resource/> .
+dbpedia:Lee_Chung-yong	owl:sameAs	ns19:Lee_Chung-yong .
+@prefix ns20:	<http://pl.dbpedia.org/resource/> .
+dbpedia:Lee_Chung-yong	owl:sameAs	ns20:Lee_Chung-yong ,
+		<http://rdf.freebase.com/ns/m.02zbj50> .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbpedia:Lee_Chung-yong	rdfs:label	"Lee Chung-Yong"@es ,
+		"Lee Chung-yong"@pl ,
+		"\u674E\u9752\u9F8D"@zh ,
+		"Lee Chung-Yong"@it ,
+		"Lee Chung-yong"@de ,
+		"Lee Chung-yong"@fr ,
+		"Lee Chung-Yong"@pt ,
+		"\u674E\u83C1\u9F8D"@ja ,
+		"\u041B\u0438 \u0427\u0445\u043E\u043D \u0401\u043D"@ru ,
+		"Lee Chung-yong"@nl ,
+		"Lee Chung-yong" .
+@prefix dcterms:	<http://purl.org/dc/terms/> .
+@prefix category:	<http://dbpedia.org/resource/Category:> .
+dbpedia:Lee_Chung-yong	dcterms:subject	category:South_Korean_footballers ,
+		category:Footballers_at_the_2008_Summer_Olympics ,
+		<http://dbpedia.org/resource/Category:Bolton_Wanderers_F.C._players> ,
+		category:Premier_League_players ,
+		category:The_Football_League_players ,
+		category:Association_football_wingers ,
+		category:Sportspeople_from_Seoul ,
+		category:South_Korean_expatriate_footballers ,
+		category:K_League_players ,
+		<http://dbpedia.org/resource/Category:1988_births> ,
+		category:Expatriate_footballers_in_England ,
+		category:South_Korean_expatriates_in_the_United_Kingdom ,
+		category:South_Korea_international_footballers ,
+		<http://dbpedia.org/resource/Category:2010_FIFA_World_Cup_players> ,
+		category:South_Korean_Christians ,
+		category:FC_Seoul_players ,
+		<http://dbpedia.org/resource/Category:2011_AFC_Asian_Cup_players> ,
+		category:Living_people ,
+		category:South_Korean_expatriates_in_England ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Lee_Chung-Yong_20130427.jpg> .
+@prefix dc:	<http://purl.org/dc/elements/1.1/> .
+dbpedia:Lee_Chung-yong	dc:description	"Footballer" ,
+		"Footballer" ;
+	foaf:givenName	"Chung-Yong" ;
+	foaf:name	"Lee, Chung-Yong" ,
+		"Lee Chung-Yong" ,
+		"Chung-Yong Lee" ,
+		"\uC774\uCCAD\uC6A9" .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbpedia:Lee_Chung-yong	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Lee_Chung-yong?oldid=606028920> ;
+	rdfs:comment	"\u674E\u9752\u9F8D\uFF08\u97D3\u6587\uFF1A\uC774\uCCAD\uC6A9\uFF0C1988\u5E747\u67082\u65E5\uFF0D\uFF09\u662F\u97D3\u570B\u8DB3\u7403\u54E1\uFF0C\u53F8\u8077\u7FFC\u92D2\uFF0C\u73FE\u6642\u6548\u529B\u82F1\u51A0\u7403\u968A\u535A\u5C14\u987F\uFF0C\u662F\u97D3\u570B\u570B\u5BB6\u8DB3\u7403\u968A\u6210\u54E1\u3002\u674E\u9752\u9F8D11\u6B72\u624D\u958B\u59CB\u8E22\u7403\uFF0C\u50C5\u7528\u4E864\u5E74\u6642\u9593\u5C31\u9032\u5165\u8077\u696D\u806F\u8CFD\u3002\u4ED6\u662F\u4E00\u4F4D\u6709\u5929\u8CE6\u6709\u9748\u6027\u7684\u512A\u79C0\u5E74\u8F15\u8DB3\u7403\u54E1\uFF0C\u5728\u97D3\u570B\u8A31\u591A\u4EBA\u628A\u4ED6\u8207\u5E0C\u6BD4\u76F8\u6BD4\uFF0C\u56E0\u70BA\u4ED6\u6709\u97D3\u570B\u7403\u54E1\u9BAE\u6709\u7684\u6280\u8853\u7279\u9EDE\uFF0C\u6709\u795E\u5947\u548C\u4EE4\u4EBA\u76EE\u7729\u7684\u5E36\u7403\u80FD\u529B\u548C\u654F\u92B3\u50B3\u7403\u53CA\u8996\u91CE\u9818\u57DF\u3002\u674E\u9752\u9F8D\u4E5F\u662F\u7E7C\u6734\u667A\u661F\u3001\u674E\u69AE\u6753\u3001\u859B\u7426\u9249\u3001\u674E\u6771\u570B\u3001\u91D1\u6597\u70AB\u3001\u8D75\u6E90\u7199\u4E4B\u5F8C\uFF0C\u7B2C\u4E03\u500B\u6548\u529B\u82F1\u8D85\u7403\u968A\u7684\u97D3\u570B\u7403\u54E1\u3002"@zh ,
+		"Lee Chung-Yong (* 2. Juli 1988 in Seoul) ist ein s\u00FCdkoreanischer Fu\u00DFballspieler."@de ,
+		"Lee Chung-Yong (Hangul: \uC774\uCCAD\uC6A9; born 2 July 1988) is a South Korean footballer who plays for Football League Championship club Bolton Wanderers and the South Korean national team. He is nicknamed \"Blue Dragon\", which is a literal translation of his given name \"Chung-Yong\", derived from Hanja, \uCCAD\uC6A9(\u9751\u9F8D)." ,
+		"\u041B\u0438 \u0427\u0445\u043E\u043D \u0401\u043D (\u043A\u043E\u0440. \uC774\uCCAD\uC6A9?, \u674E\u9751\u9F8D?; 2 \u0438\u044E\u043B\u044F 1988, \u0421\u0435\u0443\u043B) \u2014 \u044E\u0436\u043D\u043E\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u0440\u0430\u0432\u044B\u0439 \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u00AB\u0411\u043E\u043B\u0442\u043E\u043D\u0430\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u042E\u0436\u043D\u043E\u0439 \u041A\u043E\u0440\u0435\u0438. \u0411\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0439 \u043F\u0440\u0438\u0437\u0451\u0440 \u041A\u0443\u0431\u043A\u0430 \u0410\u0437\u0438\u0438 2011 \u0433\u043E\u0434\u0430.\u041B\u0438 \u0438 \u0435\u0433\u043E \u0431\u044B\u0432\u0448\u0438\u0439 \u043F\u0430\u0440\u0442\u043D\u0451\u0440 \u043F\u043E \u043A\u043B\u0443\u0431\u0443 \u00AB\u0421\u0435\u0443\u043B\u00BB, \u041A\u0438 \u0421\u043E\u043D \u0401\u043D, \u0441\u0447\u0438\u0442\u0430\u044E\u0442\u0441\u044F \u043E\u0434\u043D\u0438\u043C\u0438 \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u043F\u0435\u0440\u0441\u043F\u0435\u043A\u0442\u0438\u0432\u043D\u044B\u0445 \u0430\u0437\u0438\u0430\u0442\u0441\u043A\u0438\u0445 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442\u043E\u0432 \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0441\u0442\u0438, \u0438\u0445 \u0441\u0432\u044F\u0437\u043A\u0430 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u043A\u043E\u0440\u0435\u0439\u0441\u043A\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0432 \u043F\u0440\u0435\u0441\u0441\u0435 \u0431\u044B\u043B\u0430 \u043F\u0440\u043E\u0437\u0432\u0430\u043D\u0430 \u00AB\u0414\u0432\u043E\u0439\u043D\u044B\u043C \u0434\u0440\u0430\u043A\u043E\u043D\u043E\u043C\u00BB (\u0430\u043D\u0433\u043B."@ru ,
+		"Lee Chung-yong (kor. \uC774\uCCAD\uC6A9, ur. 2 lipca 1988 w Seulu) - pi\u0142karz po\u0142udniowokorea\u0144ski graj\u0105cy na pozycji napastnika. Mierzy 180 cm wzrostu, wa\u017Cy 62 kg."@pl ,
+		"\u674E \u9751\u9F8D\uFF08\u30A4\u30FB\u30C1\u30E7\u30F3\u30E8\u30F3\u3001Lee Chung-Yong\u3001\uC774\uCCAD\uC6A9\u30011988\u5E747\u67082\u65E5 - \uFF09\u306F\u5927\u97D3\u6C11\u56FD\u30FB\u30BD\u30A6\u30EB\u51FA\u8EAB\u306E\u540C\u56FD\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30A6\u30A4\u30F3\u30B0\u3002"@ja ,
+		"Chung-Yong Lee (hang\u016Dl \uC774\uCCAD\uC6A9?</span>; Seul, 2 luglio 1988) \u00E8 un calciatore sudcoreano, ala del Bolton e della Nazionale sudcoreana.Il suo soprannome, \"Dragone Blu\", deriva da una traslitterazione del suo nome \"Chung-Yong\", di origini cinesi e non coreane. Nel gennaio 2009, compare al 40\u00BA posto della classifica stilata dal quotidiano inglese The Times delle migliori 50 stelle emergenti del calcio globale."@it ,
+		"Lee Chung-Yong (Se\u00FAl, Corea del Sur, 2 de julio de 1988), es un futbolista surcoreano. Juega de interior derecho y su actual equipo es el Bolton Wanderers de la Football League Championship de Inglaterra."@es ,
+		"Lee Chung-yong (Seoel, 2 juli 1988) is een Zuid-Koreaans betaald voetballer. De middenvelder c.q. vleugelspeler staat sinds augustus 2009 onder contract bij Bolton Wanderers, waar hij voor drie jaar tekende."@nl ,
+		"Lee Chung-Yong (Seul, 2 de junho de 1988) \u00E9 um futebolista profissional sul-coreano, atualmente defende Bolton Wanderers."@pt ,
+		"Lee Chung-yong (en cor\u00E9en \uC774\uCCAD\uC6A9) est un joueur de football sud-cor\u00E9en n\u00E9 le 2 juillet 1988 \u00E0 S\u00E9oul et qui \u00E9volue au poste d'ailier droit."@fr ;
+	foaf:surname	"Lee" ;
+	foaf:isPrimaryTopicOf	ns1:Lee_Chung-yong ;
+	dbpprop:name	"\uC774\uCCAD\uC6A9" ,
+		"Lee Chung-Yong" ,
+		"Lee, Chung-Yong" ;
+	dbpedia-owl:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Lee_Chung-Yong_20130427.jpg?width=300> ;
+	dbpedia-owl:abstract	"Lee Chung-Yong (* 2. Juli 1988 in Seoul) ist ein s\u00FCdkoreanischer Fu\u00DFballspieler."@de ,
+		"\u674E\u9752\u9F8D\uFF08\u97D3\u6587\uFF1A\uC774\uCCAD\uC6A9\uFF0C1988\u5E747\u67082\u65E5\uFF0D\uFF09\u662F\u97D3\u570B\u8DB3\u7403\u54E1\uFF0C\u53F8\u8077\u7FFC\u92D2\uFF0C\u73FE\u6642\u6548\u529B\u82F1\u51A0\u7403\u968A\u535A\u5C14\u987F\uFF0C\u662F\u97D3\u570B\u570B\u5BB6\u8DB3\u7403\u968A\u6210\u54E1\u3002\u674E\u9752\u9F8D11\u6B72\u624D\u958B\u59CB\u8E22\u7403\uFF0C\u50C5\u7528\u4E864\u5E74\u6642\u9593\u5C31\u9032\u5165\u8077\u696D\u806F\u8CFD\u3002\u4ED6\u662F\u4E00\u4F4D\u6709\u5929\u8CE6\u6709\u9748\u6027\u7684\u512A\u79C0\u5E74\u8F15\u8DB3\u7403\u54E1\uFF0C\u5728\u97D3\u570B\u8A31\u591A\u4EBA\u628A\u4ED6\u8207\u5E0C\u6BD4\u76F8\u6BD4\uFF0C\u56E0\u70BA\u4ED6\u6709\u97D3\u570B\u7403\u54E1\u9BAE\u6709\u7684\u6280\u8853\u7279\u9EDE\uFF0C\u6709\u795E\u5947\u548C\u4EE4\u4EBA\u76EE\u7729\u7684\u5E36\u7403\u80FD\u529B\u548C\u654F\u92B3\u50B3\u7403\u53CA\u8996\u91CE\u9818\u57DF\u3002\u674E\u9752\u9F8D\u4E5F\u662F\u7E7C\u6734\u667A\u661F\u3001\u674E\u69AE\u6753\u3001\u859B\u7426\u9249\u3001\u674E\u6771\u570B\u3001\u91D1\u6597\u70AB\u3001\u8D75\u6E90\u7199\u4E4B\u5F8C\uFF0C\u7B2C\u4E03\u500B\u6548\u529B\u82F1\u8D85\u7403\u968A\u7684\u97D3\u570B\u7403\u54E1\u3002"@zh ,
+		"Lee Chung-Yong (Hangul: \uC774\uCCAD\uC6A9; born 2 July 1988) is a South Korean footballer who plays for Football League Championship club Bolton Wanderers and the South Korean national team. He is nicknamed \"Blue Dragon\", which is a literal translation of his given name \"Chung-Yong\", derived from Hanja, \uCCAD\uC6A9(\u9751\u9F8D). He joined in the 2004 season and ever since his early debut at the age of 18 for the South Korean side FC Seoul in the 2006 season of K-League,(whose top division is retitled \"K-League Classic\", effective from season 2013) Lee has gathered much attention from domestic football fans of South Korea in general, particularly because in South Korean football, where rookies were mostly make their entrance into professional clubs through draft system, dropping out of middle school to sign a contract with a top division football club was a very rare case. Lee is widely regarded as one of the top young South Korean footballing prospects.In January 2009, The Times named Lee as one of the top 50 rising stars in football by the British daily newspaper." ,
+		"Lee Chung-Yong (Se\u00FAl, Corea del Sur, 2 de julio de 1988), es un futbolista surcoreano. Juega de interior derecho y su actual equipo es el Bolton Wanderers de la Football League Championship de Inglaterra."@es ,
+		"\u041B\u0438 \u0427\u0445\u043E\u043D \u0401\u043D (\u043A\u043E\u0440. \uC774\uCCAD\uC6A9?, \u674E\u9751\u9F8D?; 2 \u0438\u044E\u043B\u044F 1988, \u0421\u0435\u0443\u043B) \u2014 \u044E\u0436\u043D\u043E\u043A\u043E\u0440\u0435\u0439\u0441\u043A\u0438\u0439 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442, \u043F\u0440\u0430\u0432\u044B\u0439 \u043F\u043E\u043B\u0443\u0437\u0430\u0449\u0438\u0442\u043D\u0438\u043A \u00AB\u0411\u043E\u043B\u0442\u043E\u043D\u0430\u00BB \u0438 \u0441\u0431\u043E\u0440\u043D\u043E\u0439 \u042E\u0436\u043D\u043E\u0439 \u041A\u043E\u0440\u0435\u0438. \u0411\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0439 \u043F\u0440\u0438\u0437\u0451\u0440 \u041A\u0443\u0431\u043A\u0430 \u0410\u0437\u0438\u0438 2011 \u0433\u043E\u0434\u0430.\u041B\u0438 \u0438 \u0435\u0433\u043E \u0431\u044B\u0432\u0448\u0438\u0439 \u043F\u0430\u0440\u0442\u043D\u0451\u0440 \u043F\u043E \u043A\u043B\u0443\u0431\u0443 \u00AB\u0421\u0435\u0443\u043B\u00BB, \u041A\u0438 \u0421\u043E\u043D \u0401\u043D, \u0441\u0447\u0438\u0442\u0430\u044E\u0442\u0441\u044F \u043E\u0434\u043D\u0438\u043C\u0438 \u0438\u0437 \u0441\u0430\u043C\u044B\u0445 \u043F\u0435\u0440\u0441\u043F\u0435\u043A\u0442\u0438\u0432\u043D\u044B\u0445 \u0430\u0437\u0438\u0430\u0442\u0441\u043A\u0438\u0445 \u0444\u0443\u0442\u0431\u043E\u043B\u0438\u0441\u0442\u043E\u0432 \u0441\u043E\u0432\u0440\u0435\u043C\u0435\u043D\u043D\u043E\u0441\u0442\u0438, \u0438\u0445 \u0441\u0432\u044F\u0437\u043A\u0430 \u0432 \u0441\u043E\u0441\u0442\u0430\u0432\u0435 \u043A\u043E\u0440\u0435\u0439\u0441\u043A\u043E\u0439 \u043A\u043E\u043C\u0430\u043D\u0434\u044B \u0432 \u043F\u0440\u0435\u0441\u0441\u0435 \u0431\u044B\u043B\u0430 \u043F\u0440\u043E\u0437\u0432\u0430\u043D\u0430 \u00AB\u0414\u0432\u043E\u0439\u043D\u044B\u043C \u0434\u0440\u0430\u043A\u043E\u043D\u043E\u043C\u00BB (\u0430\u043D\u0433\u043B. Ssang Yong, Double Dragon).\u0412 \u044F\u043D\u0432\u0430\u0440\u0435 2009 \u0433\u043E\u0434\u0430 \u041B\u0438 \u0432\u043E\u0448\u0451\u043B \u0432 \u0441\u043F\u0438\u0441\u043E\u043A 50-\u0438 \u0432\u043E\u0441\u0445\u043E\u0434\u044F\u0449\u0438\u0445 \u0437\u0432\u0451\u0437\u0434 \u043C\u0438\u0440\u043E\u0432\u043E\u0433\u043E \u0444\u0443\u0442\u0431\u043E\u043B\u0430 \u043F\u043E \u043C\u043D\u0435\u043D\u0438\u044E \u0431\u0440\u0438\u0442\u0430\u043D\u0441\u043A\u043E\u0439 \u0422\u0430\u0439\u043C\u0441."@ru ,
+		"Chung-Yong Lee (hang\u016Dl \uC774\uCCAD\uC6A9?</span>; Seul, 2 luglio 1988) \u00E8 un calciatore sudcoreano, ala del Bolton e della Nazionale sudcoreana.Il suo soprannome, \"Dragone Blu\", deriva da una traslitterazione del suo nome \"Chung-Yong\", di origini cinesi e non coreane. Nel gennaio 2009, compare al 40\u00BA posto della classifica stilata dal quotidiano inglese The Times delle migliori 50 stelle emergenti del calcio globale."@it ,
+		"Lee Chung-yong (en cor\u00E9en \uC774\uCCAD\uC6A9) est un joueur de football sud-cor\u00E9en n\u00E9 le 2 juillet 1988 \u00E0 S\u00E9oul et qui \u00E9volue au poste d'ailier droit."@fr ,
+		"Lee Chung-yong (kor. \uC774\uCCAD\uC6A9, ur. 2 lipca 1988 w Seulu) - pi\u0142karz po\u0142udniowokorea\u0144ski graj\u0105cy na pozycji napastnika. Mierzy 180 cm wzrostu, wa\u017Cy 62 kg."@pl ,
+		"Lee Chung-Yong (Seul, 2 de junho de 1988) \u00E9 um futebolista profissional sul-coreano, atualmente defende Bolton Wanderers."@pt ,
+		"\u674E \u9751\u9F8D\uFF08\u30A4\u30FB\u30C1\u30E7\u30F3\u30E8\u30F3\u3001Lee Chung-Yong\u3001\uC774\uCCAD\uC6A9\u30011988\u5E747\u67082\u65E5 - \uFF09\u306F\u5927\u97D3\u6C11\u56FD\u30FB\u30BD\u30A6\u30EB\u51FA\u8EAB\u306E\u540C\u56FD\u4EE3\u8868\u30B5\u30C3\u30AB\u30FC\u9078\u624B\u3002\u30DD\u30B8\u30B7\u30E7\u30F3\u306F\u30A6\u30A4\u30F3\u30B0\u3002"@ja ,
+		"Lee Chung-yong (Seoel, 2 juli 1988) is een Zuid-Koreaans betaald voetballer. De middenvelder c.q. vleugelspeler staat sinds augustus 2009 onder contract bij Bolton Wanderers, waar hij voor drie jaar tekende."@nl ;
+	dbpedia-owl:wikiPageID	13181986 ;
+	dbpedia-owl:wikiPageRevisionID	606028920 .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbpedia:Lee_Chung-yong	dbpprop:birthDate	"1988-07-02+02:00"^^xsd:date ;
+	dbpprop:birthPlace	"Seoul, South Korea" ;
+	dbpprop:dateOfBirth	"1988-07-02+02:00"^^xsd:date ;
+	dbpprop:placeOfBirth	"Seoul, South Korea" ;
+	dbpprop:shortDescription	"Footballer" ;
+	dbpedia-owl:birthDate	"1988-07-02+02:00"^^xsd:date ;
+	dbpedia-owl:birthPlace	dbpedia:South_Korea_national_football_team ,
+		dbpedia:Seoul ;
+	dbpedia-owl:birthYear	"1988+02:00"^^xsd:gYear ;
+	dbpprop:goals	11 ,
+		13 ,
+		0 ;
+	dbpprop:bg	"gold" ,
+		"#C21E2B" ;
+	dbpprop:caps	0 ,
+		54 ,
+		152 ;
+	dbpprop:years	2009 ,
+		2004 ;
+	dbpprop:youthclubs	"Dobong Middle School" ;
+	dbpedia-owl:careerStation	dbpedia:Lee_Chung-yong__2 ,
+		dbpedia:Lee_Chung-yong__3 ,
+		dbpedia:Lee_Chung-yong__1 ,
+		dbpedia:Lee_Chung-yong__6 ,
+		dbpedia:Lee_Chung-yong__5 ,
+		dbpedia:Lee_Chung-yong__4 ;
+	dbpprop:position	dbpedia:Midfielder ;
+	dbpedia-owl:position	dbpedia:Midfielder ;
+	dbpedia-owl:height	1.8000000000000000444 .
+@prefix ns27:	<http://dbpedia.org/datatype/> .
+@prefix ns28:	<http://dbpedia.org/ontology/Person/> .
+dbpedia:Lee_Chung-yong	ns28:height	"180.0"^^ns27:centimetre ;
+	dbpprop:currentclub	<http://dbpedia.org/resource/Bolton_Wanderers_F.C.> ;
+	dbpprop:clubnumber	27 ;
+	dbpprop:clubs	<http://dbpedia.org/resource/Bolton_Wanderers_F.C.> ,
+		dbpedia:FC_Seoul ;
+	dbpedia-owl:team	dbpedia:South_Korea_national_football_team ,
+		<http://dbpedia.org/resource/Bolton_Wanderers_F.C.> ,
+		dbpedia:FC_Seoul ,
+		dbpedia:South_Korea_national_under-20_football_team ;
+	dbpprop:title	"Awards" ,
+		"South Korea squads" ;
+	dbpprop:pcupdate	"2014-04-26+02:00"^^xsd:date ;
+	dbpprop:youthyears	2001 ;
+	dbpedia-owl:wikiPageExternalLink	<http://www.premierleague.com/page/PlayerProfile/0,,12306~48368,00.html> ,
+		<http://www.soccerbase.com/players_details.sd?playerid=52007> ,
+		<http://www.bwfc.co.uk/page/ProfilesDetail/0,,1004~48368,00.html> ,
+		<http://www.kfa.or.kr/koreateam/km_player_content.asp?k_unique=&k_team_type=10&p_unique=2008317104614&p_gbn=P&l_gbn=A> ;
+	dbpprop:rr	"I Cheong-Yong" ;
+	dbpprop:hangul	"\uC774\uCCAD\uC6A9" ;
+	dbpprop:mr	"Yi Ch'\u014Fng'yong" ;
+	dbpprop:bordercolor	"#2E20BF" ;
+	dbpprop:fg	"navy" ,
+		"white" ;
+	dbpprop:nationalcaps	53 ,
+		18 ,
+		7 ;
+	dbpprop:nationalgoals	6 ,
+		0 ,
+		1 ;
+	dbpprop:nationalteam	dbpedia:South_Korea_national_football_team ,
+		dbpedia:South_Korea_national_under-20_football_team ;
+	dbpprop:nationalyears	2006 ,
+		2007 ,
+		2008 ;
+	dbpedia-owl:number	27 ;
+	dbpprop:hanja	"\u674E\u9751\u9F8D" ;
+	dbpedia-owl:alias	"\uC774\uCCAD\uC6A9 (Hangul)" ;
+	dbpprop:alternativeNames	"\uC774\uCCAD\uC6A9" ;
+	dbpprop:ntupdate	"2014-03-05+02:00"^^xsd:date .
+<http://dbpedia.org/resource/2009_FC_Seoul_season>	dbpprop:name	dbpedia:Lee_Chung-yong .
+<http://dbpedia.org/resource/2008_FC_Seoul_season>	dbpprop:name	dbpedia:Lee_Chung-yong ;
+	dbpprop:text	dbpedia:Lee_Chung-yong ;
+	dbpprop:p	dbpedia:Lee_Chung-yong .
+<http://dbpedia.org/resource/2009_South_Korea_national_football_team_season>	dbpprop:away9player	dbpedia:Lee_Chung-yong ;
+	dbpprop:home9player	dbpedia:Lee_Chung-yong .
+<http://dbpedia.org/resource/2008_South_Korea_national_football_team_season>	dbpprop:home11player	dbpedia:Lee_Chung-yong .
+<http://dbpedia.org/resource/2005_FC_Seoul_season__Lee_Chung-Yong__1>	dbpedia-owl:currentMember	dbpedia:Lee_Chung-yong .
+<http://dbpedia.org/resource/2006_FC_Seoul_season__Lee_Chung-Yong__1>	dbpedia-owl:currentMember	dbpedia:Lee_Chung-yong .
+<http://dbpedia.org/resource/2007_FC_Seoul_season__Lee_Chung-Yong__1>	dbpedia-owl:currentMember	dbpedia:Lee_Chung-yong .
+<http://dbpedia.org/resource/2008_FC_Seoul_season__Lee_Chung-Yong__1>	dbpedia-owl:currentMember	dbpedia:Lee_Chung-yong .
+<http://dbpedia.org/resource/2009_FC_Seoul_season__Lee_Chung-Yong__1>	dbpedia-owl:currentMember	dbpedia:Lee_Chung-yong .
+<http://dbpedia.org/resource/2004_FC_Seoul_season__Lee_Chung-Yong__1>	dbpedia-owl:currentMember	dbpedia:Lee_Chung-yong .
+dbpedia:Chung-Yong_Lee	dbpedia-owl:wikiPageRedirects	dbpedia:Lee_Chung-yong .
+dbpedia:Chung_Yong_Lee	dbpedia-owl:wikiPageRedirects	dbpedia:Lee_Chung-yong .
+dbpedia:Lee_chung_yong	dbpedia-owl:wikiPageRedirects	dbpedia:Lee_Chung-yong .
+<http://dbpedia.org/resource/2010_South_Korea_national_football_team_season>	dbpprop:away9player	dbpedia:Lee_Chung-yong ;
+	dbpprop:away8player	dbpedia:Lee_Chung-yong .
+<http://dbpedia.org/resource/2011_AFC_Asian_Cup_squads>	dbpprop:name	dbpedia:Lee_Chung-yong .
+<http://dbpedia.org/resource/2004_FC_Seoul_season>	dbpprop:name	dbpedia:Lee_Chung-yong .
