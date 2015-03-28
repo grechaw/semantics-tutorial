@@ -18,21 +18,8 @@ curl -i -X PUT -Hcontent-type:text/html -d@tutorial.html $AUTH http://localhost:
 # intall an extension that can be the web server for this application
 curl -i -X PUT -Hcontent-type:application/javascript $AUTH -d@htmlServer.sjs http://localhost:8000/v1/config/resources/htmlServer ; 
 
-# install the extension that's used in the second form on the tutorial page.
-curl -i -X PUT -Hcontent-type:application/javascript $AUTH -d@$s http://localhost:8000/v1/$s ; 
-	#curl -i -X PUT -Hcontent-type:application/javascript $(AUTH) -d@database/services/testScratch.sjs http://localhost:8000/v1/config/resources/testScratch
+# install the extension to be called by angular
+curl -i -X PUT -Hcontent-type:application/javascript $AUTH -d@semanticExtension.sjs http://localhost:8000/v1/config/resources/semanticExtension ; 
 
-	$(MLCP) EXPORT -output_file_path export -output_type archive -compress true -username $(USERNAME) -password $(USERNAME) -host localhost -port 8000
-	touch $(EXPORT_DUMMY)
-	
-import: $(INIT_DUMMY)
-	$(MLCP) IMPORT -input_file_path  -input_file_type rdf -input_compressed true -input_compression_codec GZIP -username admin -password admin -host localhost -port 8000
-	
-.PHONY: clean
-clean:
-	rm -rf export
-	rm $(INIT_DUMMY)
-	rm $(EXPORT_DUMMY)
+$MLCP IMPORT -input_file_path data -input_file_type rdf -username $USERNAME -password $PASSWORD -host localhost -port 8000
 
-.PHONY: deploy
-.PHONY: test
