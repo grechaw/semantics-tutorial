@@ -37,7 +37,7 @@ test: deploy
 export: $(EXPORT_DUMMY)
 
 $(EXPORT_DUMMY): database
-	$(MLCP) EXPORT -output_file_path export -output_type archive -compress true -username $(USERNAME) -password $(USERNAME) -host localhost -port 8000
+	$(MLCP) EXPORT -output_file_path export -output_type archive -username $(USERNAME) -password $(USERNAME) -host localhost -port 8000
 	touch $(EXPORT_DUMMY)
 	
 import: $(INIT_DUMMY)
