@@ -4,7 +4,9 @@ MLCP = ./mlcp-Hadoop2-1.3-1/bin/mlcp.sh
 USERNAME = admin
 PASSWORD = admin
 CURL = curl -X PUT --digest --user $(USERNAME):$(PASSWORD)
-SEED = data
+SEED = data/json
+INIT_DUMMY = .init
+EXPORT_DUMMY = .export
 
 init: $(INIT_DUMMY)
 .PHONY: init
@@ -36,8 +38,8 @@ test: deploy
 
 export: $(EXPORT_DUMMY)
 
-$(EXPORT_DUMMY): database
-	$(MLCP) EXPORT -output_file_path export -output_type archive -username $(USERNAME) -password $(USERNAME) -host localhost -port 8000
+$(EXPORT_DUMMY): Makefile
+	$(MLCP) EXPORT -output_file_path export -output_type document -username $(USERNAME) -password $(USERNAME) -host localhost -port 8000
 	touch $(EXPORT_DUMMY)
 	
 import: $(INIT_DUMMY)
@@ -49,5 +51,6 @@ clean:
 	rm $(INIT_DUMMY)
 	rm $(EXPORT_DUMMY)
 
+.PHONY: export
 .PHONY: deploy
 .PHONY: test
