@@ -117,7 +117,7 @@
     <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#IOC'/>
     <NS0:participatesIn rdf:resource='http://www.daml.org/2001/12/factbook/internationalOrganizations#SPC'/>
     <NS0:flagDescription>territorial flag is dark blue with a narrow red border on all four sides; centered is a red-bordered, pointed, vertical ellipse containing a beach scene, outrigger canoe with sail, and a palm tree with the word GUAM superimposed in bold red letters; US flag is the national flag</NS0:flagDescription>
-    <NS0:economyOverview>The economy depends on US military spending, tourism, and the export of fish and handicrafts. Total US grants, wage payments, and procurement outlays amounted to $1 billion in 1998. Over the past 20 years, the tourist industry has grown rapidly, creating a construction boom for new hotels and the expansion of older ones. More than 1 million tourists visit Guam each year. The industry has recently suffered setbacks because of the continuing Japanese slowdown; the Japanese normally make up almost 90% of the tourists. Most food and industrial goods are imported. Guam faces the problem of building up the civilian economic sector to offset the impact of military downsizing.</NS0:economyOverview>
+    <NS0:economyOverview>The economy depends on US military spending, tourism, and the export of fish and handicrafts. Total US grants, wage payments, and procurement outlays amounted to $1 billion in 1998. Over the past 20 years, the tourist industry has grown rapidly, creating a construction boom for new hotels and the expansion of older ones. More than 1 million tourists visit Guam each year. The industry has recently suffered setbacks because of the continuing Japanese slowdown; the Japanese normally make up almost 90%20 of the tourists. Most food and industrial goods are imported. Guam faces the problem of building up the civilian economic sector to offset the impact of military downsizing.</NS0:economyOverview>
     <NS0:grossDomesticProduct rdf:ID='A41736'>3200000000</NS0:grossDomesticProduct>
     <NS0:grossDomesticProductPerCapita rdf:ID='A41739'>21000</NS0:grossDomesticProductPerCapita>
     <NS0:grossDomesticProductIndustry rdf:ID='A41742'>15</NS0:grossDomesticProductIndustry>
@@ -292,7 +292,7 @@
   </rdf:Description>
   <rdf:Description rdf:about='#A41755'>
     <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#OccupationPercent'/>
-    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#private_74%_(2000_est.)'/>
+    <NS0:occupation rdf:resource='http://www.daml.org/2001/12/factbook/occupations#private_74%20_(2000_est.)'/>
   </rdf:Description>
   <rdf:Description rdf:about='#A41841'>
     <NS0:year>2000</NS0:year>
@@ -392,7 +392,7 @@
     <NS0:ratio>1.1</NS0:ratio>
   </rdf:Description>
   <rdf:Description rdf:about='#A41758'>
-    <NS0:note>trade 24%, other services 40%, industry 10%</NS0:note>
+    <NS0:note>trade 24%20, other services 40%20, industry 10%20</NS0:note>
   </rdf:Description>
   <rdf:Description rdf:about='#A41814'>
     <rdf:type rdf:resource='http://www.daml.org/2001/12/factbook/factbook-ont#CommodityPercent'/>

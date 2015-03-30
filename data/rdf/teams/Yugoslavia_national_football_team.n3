@@ -1474,18 +1474,7 @@ dbpedia:Yugoslavia_national_football_team	dbpprop:hasPhotoCollection	ns58:Yugosl
 		"_color_3_stripes_white" ;
 	dbpprop:association	dbpedia:Football_Association_of_Yugoslavia .
 @prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
-dbpedia:Yugoslavia_national_football_team	dbpprop:body	"Infinity"^^xsd:double ,
-		"FF0000" ,
-		"ef1717" ,
-		"FFFFFF" ,
-		0 ,
-		"ffffff" ;
-	dbpprop:leftarm	"Infinity"^^xsd:double ,
-		"ef1717" ,
-		"FFFFFF" ,
-		0 ,
-		"FF0000" ;
-	dbpprop:patternB	"_yugoslavia1990_away" ,
+dbpedia:Yugoslavia_national_football_team dbpprop:patternB	"_yugoslavia1990_away" ,
 		"_France_1982" ,
 		"_yugoslavia84" ,
 		"_collar" ,
@@ -1499,7 +1488,7 @@ dbpedia:Yugoslavia_national_football_team	dbpprop:body	"Infinity"^^xsd:double ,
 		"_bluelines" ,
 		"_yugoslavia84" ,
 		"_France_1978-1982" ;
-	dbpprop:rightarm	"Infinity"^^xsd:double ,
+	dbpprop:rightarm
 		"ef1717" ,
 		"FFFFFF" ,
 		0 ,
