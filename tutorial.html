@@ -19,25 +19,26 @@
     */
     angular.module('semantics', []).controller('sparqlCtrl', ['$scope', '$http', function($scope, $http){
     		
-            $scope.query = 'SELECT distinct ?s where { ?s ?p ?o } limit 500';
+            $scope.query = 'SELECT distinct ?s where { ?s ?p ?o } limit 50';
             $scope.result = '{"no":"RESULT"}';
     		$scope.submit = function() {
                 $http.defaults.headers.common.Accept = 'application/sparql-results+json';
     			$http.get('http://localhost:8000/v1/graphs/sparql?query='+$scope.query).success(function(response) {
-                    console.log(response);
-    				$scope.result = JSON.stringify(response, null, 2)
+    				$scope.results = response.results;
+                    $scope.vars = response.head.vars;
     			}).error(function(error) {
     				$scope.result = error
     			})
     		};
     }]).controller('extensionCtrl', ['$scope', '$http', function($scope, $http){
-            $scope.query = 'SELECT distinct ?p where { ?s ?p ?o } limit 500';
+            $scope.query = 'SELECT distinct ?p where { ?s ?p ?o } limit 50';
             $scope.result = '{"no":"RESULT"}';
     		$scope.submit = function() {
                 $http.defaults.headers.common.Accept = 'application/sparql-results+json';
     			$http.get('http://localhost:8000/v1/graphs/sparql?query='+$scope.query).success(function(response) {
                     console.log(response);
-    				$scope.result = JSON.stringify(response, null, 2)
+    				$scope.results = response.results;
+                    $scope.vars = response.head.vars;
     			}).error(function(error) {
     				$scope.result = error
     			})
@@ -56,7 +57,7 @@
                 <!-- Textarea -->
                 <div class="form-group">
                     <div class="col-md-8">
-                        <textarea class="form-control" id="textarea" name="textarea" placeholder="enter query" rows="10" ng-model="query"></textarea>
+                        <textarea class="form-control" id="textarea" name="textarea" placeholder="enter query" rows="7" ng-model="query"></textarea>
                     </div>
                 </div>
                 <!-- Button -->
@@ -69,7 +70,14 @@
         </form>
         <div class="col-md-8">
             <legend>Result</legend>
-            <pre>{{result}}</pre>
+            <table>
+                <tr>
+                   <th ng-repeat="v in vars">{{v}}</th>
+                </tr>
+                <tr ng-repeat="binding in results.bindings">
+                    <td ng-repeat="v in vars">{{binding[v].value}}</td>
+                </tr>
+            </table>
         </div>
     </div>
     <div class="container" ng-controller="extensionCtrl">
@@ -81,7 +89,7 @@
                 <!-- Textarea -->
                 <div class="form-group">
                     <div class="col-md-8">
-                        <textarea class="form-control" id="textarea" name="textarea" placeholder="enter query" rows="10" ng-model="query"></textarea>
+                        <textarea class="form-control" id="textarea" name="textarea" placeholder="enter query" rows="5" ng-model="query"></textarea>
                     </div>
                 </div>
                 <!-- Button -->
@@ -94,7 +102,14 @@
         </form>
         <div class="col-md-8">
             <legend>Result</legend>
-            <pre>{{result}}</pre>
+            <table>
+                <tr>
+                   <th ng-repeat="v in vars">{{v}}</th>
+                </tr>
+                <tr ng-repeat="binding in results.bindings">
+                    <td ng-repeat="v in vars">{{binding[v].value}}</td>
+                </tr>
+            </table>
         </div>
     </div>
 </body>
