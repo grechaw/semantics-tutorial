@@ -7,14 +7,16 @@ function get(context, params) {
     var query = params.query;
     var term = params.term;
 
-    var searchNodes = cts.wordQuery(term);
+    var searchNodes = cts.wordQuery( [ term ] );
     
     var results = [];
+/*
     for (answer of searchNodes) {
-        xdmp.log("answer " + answer.subj.toString());
+        xdmp.log("answer " + answer);
         var result = sem.sparql(query, {param : answer});
         results.push(result);
     }
+*/
     return results;
 };
 
