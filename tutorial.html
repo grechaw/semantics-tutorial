@@ -8,17 +8,19 @@
     <!-- Optional theme -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
     <!-- Latest compiled and minified JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.3.15/angular.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.12.1/ui-bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.12.1/ui-bootstrap-tpls.min.js"></script>
     <script>
     /**
     *  Module
     *
     * controller for executing query
     */
-    angular.module('semantics', []).controller('sparqlCtrl', ['$scope', '$http', function($scope, $http){
+    angular.module('semantics', ['ui.bootstrap']).controller('sparqlCtrl', ['$scope', '$http', function($scope, $http){
     		
+            alert("controller setup");
+            console.log($scope);
             $scope.query = 'SELECT distinct ?s where { ?s ?p ?o } limit 50';
             $scope.result = '{"no":"RESULT"}';
     		$scope.submit = function() {
@@ -48,69 +50,75 @@
 </head>
 
 <body ng-app="semantics">
-    <div class="container" ng-controller="sparqlCtrl">
-        <h2 class="text-center">SPARQL Query</h2>
-        <form class="form-horizontal">
-            <fieldset>
-                <!-- Form Name -->
-                <legend></legend>
-                <!-- Textarea -->
-                <div class="form-group">
-                    <div class="col-md-8">
-                        <textarea class="form-control" id="textarea" name="textarea" placeholder="enter query" rows="7" ng-model="query"></textarea>
-                    </div>
+        <h2>Semantics Tutorial App</h2>
+        <accordion close-others="oneAtATime">
+        <accordion-group heading="SPARQL Query" is-open="status.isFirstOpen">
+            <div class="container" ng-controller="sparqlCtrl">
+                <form class="form-horizontal">
+                    <fieldset>
+                        <!-- Form Name -->
+                        <legend></legend>
+                        <!-- Textarea -->
+                        <div class="form-group">
+                            <div class="col-md-8">
+                                <textarea class="form-control" id="textarea" name="textarea" placeholder="enter query" rows="7" ng-model="query"></textarea>
+                            </div>
+                        </div>
+                        <!-- Button -->
+                        <div class="form-group">
+                            <div class="col-md-8">
+                                <button id="singlebutton" name="singlebutton" class="btn btn-primary" ng-click="submit()">Button</button>
+                            </div>
+                        </div>
+                    </fieldset>
+                </form>
+                <div class="">
+                    <legend>Result</legend>
+                    <table>
+                        <tr>
+                           <th ng-repeat="v in vars">{{v}}</th>
+                        </tr>
+                        <tr ng-repeat="binding in results.bindings">
+                            <td ng-repeat="v in vars">{{binding[v].value}}</td>
+                        </tr>
+                    </table>
                 </div>
-                <!-- Button -->
-                <div class="form-group">
-                    <div class="col-md-8">
-                        <button id="singlebutton" name="singlebutton" class="btn btn-primary" ng-click="submit()">Button</button>
-                    </div>
+            </div>
+        </accordion-group>
+        <accordion-group heading="Semantic Extension Query">
+            <div class="container" ng-controller="extensionCtrl">
+                <form class="form-horizontal">
+                    <fieldset>
+                        <!-- Form Name -->
+                        <legend></legend>
+                        <!-- Textarea -->
+                        <div class="form-group">
+                            <div class="col-md-8">
+                                <textarea class="form-control" id="textarea2" name="textarea2" placeholder="enter query" rows="5" ng-model="query"></textarea>
+                            </div>
+                        </div>
+                        <!-- Button -->
+                        <div class="form-group">
+                            <div class="col-md-8">
+                                <button id="singlebutton2" name="singlebutton2" class="btn btn-primary" ng-click="submit()">Button</button>
+                            </div>
+                        </div>
+                    </fieldset>
+                </form>
+                <div class="col-md-8">
+                    <legend>Result</legend>
+                    <table>
+                        <tr>
+                           <th ng-repeat="v in vars">{{v}}</th>
+                        </tr>
+                        <tr ng-repeat="binding in results.bindings">
+                            <td ng-repeat="v in vars">{{binding[v].value}}</td>
+                        </tr>
+                    </table>
                 </div>
-            </fieldset>
-        </form>
-        <div class="col-md-8">
-            <legend>Result</legend>
-            <table>
-                <tr>
-                   <th ng-repeat="v in vars">{{v}}</th>
-                </tr>
-                <tr ng-repeat="binding in results.bindings">
-                    <td ng-repeat="v in vars">{{binding[v].value}}</td>
-                </tr>
-            </table>
-        </div>
-    </div>
-    <div class="container" ng-controller="extensionCtrl">
-        <h2 class="text-center">Semantic Extension Query</h2>
-        <form class="form-horizontal">
-            <fieldset>
-                <!-- Form Name -->
-                <legend></legend>
-                <!-- Textarea -->
-                <div class="form-group">
-                    <div class="col-md-8">
-                        <textarea class="form-control" id="textarea" name="textarea" placeholder="enter query" rows="5" ng-model="query"></textarea>
-                    </div>
-                </div>
-                <!-- Button -->
-                <div class="form-group">
-                    <div class="col-md-8">
-                        <button id="singlebutton" name="singlebutton" class="btn btn-primary" ng-click="submit()">Button</button>
-                    </div>
-                </div>
-            </fieldset>
-        </form>
-        <div class="col-md-8">
-            <legend>Result</legend>
-            <table>
-                <tr>
-                   <th ng-repeat="v in vars">{{v}}</th>
-                </tr>
-                <tr ng-repeat="binding in results.bindings">
-                    <td ng-repeat="v in vars">{{binding[v].value}}</td>
-                </tr>
-            </table>
-        </div>
+            </div>
+        </accordion-group>
+        </accordion>
     </div>
 </body>
 
