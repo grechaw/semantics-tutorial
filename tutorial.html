@@ -19,10 +19,9 @@
     */
     angular.module('semantics', ['ui.bootstrap']).controller('sparqlCtrl', ['$scope', '$http', function($scope, $http){
     		
-            alert("controller setup");
             console.log($scope);
             $scope.query = 'SELECT distinct ?s where { ?s ?p ?o } limit 50';
-            $scope.result = '{"no":"RESULT"}';
+            $scope.result = '{"NO":"RESULT"}';
     		$scope.submit = function() {
                 $http.defaults.headers.common.Accept = 'application/sparql-results+json';
     			$http.get('http://localhost:8000/v1/graphs/sparql?query='+$scope.query).success(function(response) {
@@ -33,11 +32,12 @@
     			})
     		};
     }]).controller('extensionCtrl', ['$scope', '$http', function($scope, $http){
-            $scope.query = 'SELECT distinct ?p where { ?s ?p ?o } limit 50';
-            $scope.result = '{"no":"RESULT"}';
+            $scope.query = 'SELECT ?s ?p ?o where { ?s ?p ?o filter (?s = ?param)} limit 100';
+            $scope.result = '{"NO":"RESULT"}';
+            $scope.term = "";
     		$scope.submit = function() {
                 $http.defaults.headers.common.Accept = 'application/sparql-results+json';
-    			$http.get('http://localhost:8000/v1/graphs/sparql?query='+$scope.query).success(function(response) {
+    			$http.get('http://localhost:8000/v1/resources/semanticExtension?rs:query='+$scope.query+'&rs:term='+$scope.term).success(function(response) {
                     console.log(response);
     				$scope.results = response.results;
                     $scope.vars = response.head.vars;
@@ -95,6 +95,9 @@
                         <div class="form-group">
                             <div class="col-md-8">
                                 <textarea class="form-control" id="textarea2" name="textarea2" placeholder="enter query" rows="5" ng-model="query"></textarea>
+                            </div>
+                            <div class="col-md-8">
+                                <input class="form-control" id="term" name="term" placeholder="enter term" rows="5" ng-model="term"></input>
                             </div>
                         </div>
                         <!-- Button -->

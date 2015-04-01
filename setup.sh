@@ -33,8 +33,8 @@ $CURL -Hcontent-type:application/javascript -d@semanticExtension.sjs http://loca
 #$MLCP IMPORT -input_file_path data/rdf -input_file_type rdf -username $USERNAME -password $PASSWORD -host localhost -port 8000
 echo "Loading JSON..."
 $MLCP IMPORT -input_file_path data/json -username $USERNAME -password $PASSWORD -host localhost -port 8000 -output_uri_replace "$PWD/data/json,''"
-echo "Loading XML..."
+#echo "Loading XML..."
 $MLCP IMPORT -input_file_path data/xml/matches -username $USERNAME -password $PASSWORD -host localhost -port 8000 -output_uri_replace "$PWD/data/xml,''"
-echo "Loading XML Triples Docs..."
+#echo "Loading XML Triples Docs..."
 $MLCP IMPORT -input_file_path data/xml/triples -username $USERNAME -password $PASSWORD -host localhost -port 8000 -output_uri_replace "$PWD/data/xml/triples,''" -output_collections "http://marklogic.com/semantics#default-graph" 
 #
