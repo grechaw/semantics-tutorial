@@ -24,7 +24,7 @@
             $scope.result = '{"NO":"RESULT"}';
     		$scope.submit = function() {
                 $http.defaults.headers.common.Accept = 'application/sparql-results+json';
-    			$http.get('http://localhost:8000/v1/graphs/sparql?query='+$scope.query).success(function(response) {
+                $http.get('/v1/graphs/sparql?query='+$scope.query).success(function(response) {
     				$scope.results = response.results;
                     $scope.vars = response.head.vars;
     			}).error(function(error) {
@@ -36,8 +36,8 @@
             $scope.result = '{"NO":"RESULT"}';
             $scope.term = "";
     		$scope.submit = function() {
-                $http.defaults.headers.common.Accept = 'application/sparql-results+json';
-    			$http.get('http://localhost:8000/v1/resources/semanticExtension?rs:query='+$scope.query+'&rs:term='+$scope.term).success(function(response) {
+            $http.defaults.headers.common.Accept = 'application/sparql-results+json';
+            $http.get('/v1/resources/semanticExtension?rs:query='+$scope.query+'&rs:term='+$scope.term).success(function(response) {
                     console.log(response);
     				$scope.results = response.results;
                     $scope.vars = response.head.vars;
