@@ -20,7 +20,7 @@ $CURL -Hcontent-type:text/html -d@tutorial.html http://localhost:8000/v1/documen
 # intall an extension that can be the web server for this application
 # this is the "middle tier" that serves the HTML pages for the application.
 echo "Installing HTML page server extension"
-$CURL -Hcontent-type:application/javascript -d@htmlServer.sjs http://localhost:8000/v1/config/resources/htmlServer ; 
+$CURL -Hcontent-type:application/javascript -d@htmlServer.sjs http://localhost:8000/v1/config/resources/html ; 
 
 echo "Installing the semantic extension"
 $CURL -Hcontent-type:application/javascript -d@semanticExtension.sjs http://localhost:8000/v1/config/resources/semanticExtension ; 
@@ -33,8 +33,8 @@ $CURL -Hcontent-type:application/javascript -d@semanticExtension.sjs http://loca
 #$MLCP IMPORT -input_file_path data/rdf -input_file_type rdf -username $USERNAME -password $PASSWORD -host localhost -port 8000
 echo "Loading JSON..."
 $MLCP IMPORT -input_file_path data/json -username $USERNAME -password $PASSWORD -host localhost -port 8000 -output_uri_replace "$PWD/data/json,''"
-#echo "Loading XML..."
+echo "Loading XML..."
 $MLCP IMPORT -input_file_path data/xml/matches -username $USERNAME -password $PASSWORD -host localhost -port 8000 -output_uri_replace "$PWD/data/xml,''"
-#echo "Loading XML Triples Docs..."
+echo "Loading XML Triples Docs..."
 $MLCP IMPORT -input_file_path data/xml/triples -username $USERNAME -password $PASSWORD -host localhost -port 8000 -output_uri_replace "$PWD/data/xml/triples,''" -output_collections "http://marklogic.com/semantics#default-graph" 
 #
