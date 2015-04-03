@@ -32,5 +32,6 @@ The architecture of this app consists of one html page and some extensions.
 The page, at tutorial.html, invokes SPARQL queries or an extension depending on 
 which form is used.
 
-Data is loaded from data/  There is RDF, JSON, and XML data in this [[directory.]]
+Data is loaded from data/  There is JSON, and XML data in this directory.  Some
+of the XML files are dumps of the internal triples format of MarkLogic managed triples.
 
