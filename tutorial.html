@@ -20,7 +20,7 @@
     angular.module('semantics', ['ui.bootstrap']).controller('sparqlCtrl', ['$scope', '$http', function($scope, $http){
     		
             console.log($scope);
-            $scope.query = 'SELECT distinct ?s where { ?s ?p ?o } limit 50';
+            $scope.query = 'PREFIX dbprop: <http://dbpedia.org/property/> \n SELECT distinct ?s where { ?s ?p ?o } limit 50';
             $scope.result = '{"NO":"RESULT"}';
     		$scope.submit = function() {
                 $http.defaults.headers.common.Accept = 'application/sparql-results+json';
@@ -36,7 +36,7 @@
             $scope.result = '{"NO":"RESULT"}';
             $scope.term = "";
     		$scope.submit = function() {
-            $http.defaults.headers.common.Accept = 'application/sparql-results+json';
+            $http.defaults.headers.common.Accept = 'application/json';
             $http.get('/v1/resources/semanticExtension?rs:query='+$scope.query+'&rs:term='+$scope.term).success(function(response) {
                     console.log(response);
     				$scope.results = response.results;

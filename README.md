@@ -6,14 +6,21 @@ It uses an angular page-per-app.  It uses the OOTB REST server on port 8000
 
 #requires
 
-* curl
-* bash
+* java
+* curl  (provided for Windows)
+* scripting ( sh or .bat )
 * MarkLogic 8+ installed, running
 
 #Quickstart
 
 ```
 sh setup.sh
+```
+
+OR, on Windows
+
+```
+setup.bat
 ```
 
 After this, you can look at the application at
