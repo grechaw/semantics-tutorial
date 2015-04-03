@@ -31,6 +31,21 @@
     				$scope.result = error
     			})
     		};
+    }]).controller('inferringCtrl', ['$scope', '$http', function($scope, $http){
+            $scope.query = 'SELECT ?s where { ?s a dbont:Person } limit 100';
+            $scope.rulesets = [ "rdfs.rules" ];
+            $scope.result = '{"NO":"RESULT"}';
+            $scope.term = "";
+    		$scope.submit = function() {
+            $http.defaults.headers.common.Accept = 'application/json';
+            $http.get('/v1/resources/inferringQuery?rs:query='+$scope.query+'&rs:term='+$scope.term).success(function(response) {
+                    console.log(response);
+    				$scope.results = response.results;
+                    $scope.vars = response.head.vars;
+    			}).error(function(error) {
+    				$scope.result = error
+    			})
+    		};
     }]).controller('extensionCtrl', ['$scope', '$http', function($scope, $http){
             $scope.query = 'SELECT ?s ?p ?o where { ?s ?p ?o filter (?s = ?param)} limit 100';
             $scope.result = '{"NO":"RESULT"}';
@@ -85,8 +100,8 @@
                 </div>
             </div>
         </accordion-group>
-        <accordion-group heading="Semantic Extension Query">
-            <div class="container" ng-controller="extensionCtrl">
+        <accordion-group heading="Reasoning Query With Exension">
+            <div class="container" ng-controller="inferringCtrl">
                 <form class="form-horizontal">
                     <fieldset>
                         <!-- Form Name -->
@@ -96,10 +111,8 @@
                             <div class="col-md-8">
                                 <textarea class="form-control" id="textarea2" name="textarea2" placeholder="enter query" rows="5" ng-model="query"></textarea>
                             </div>
-                            <div class="col-md-8">
-                                <input class="form-control" id="term" name="term" placeholder="enter term" rows="5" ng-model="term"></input>
-                            </div>
                         </div>
+                        <input type="checkbox" ng-repeat\>
                         <!-- Button -->
                         <div class="form-group">
                             <div class="col-md-8">

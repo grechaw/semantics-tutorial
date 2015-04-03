@@ -3,6 +3,7 @@ set USERNAME=admin
 set PASSWORD=admin
 set CURL=curl-7.3.0-win64-ssl-sspi\curl.exe -X PUT --digest --user %USERNAME%:%PASSWORD%
 set PWD=%~dp0
+set PWD=%PWD:\=/%
 
 rem setup the database and apperserver.
 
