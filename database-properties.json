@@ -19,7 +19,23 @@
             "namespace-uri": "",
             "range-value-positions": false,
             "scalar-type": "string"
-        }
+        },
+        {
+            "collation": "http://marklogic.com/collation/",
+            "invalid-values": "reject",
+            "localname": "reported-date",
+            "namespace-uri": "",
+            "range-value-positions": false,
+            "scalar-type": "date"
+        },
+        {
+            "collation": "http://marklogic.com/collation/",
+            "invalid-values": "reject",
+            "localname": "confidence",
+            "namespace-uri": "",
+            "range-value-positions": false,
+            "scalar-type": "integer"
+        },
     ],
     "triple-index": true,
     "collection-lexicon": true

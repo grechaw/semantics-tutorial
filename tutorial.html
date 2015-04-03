@@ -12,15 +12,20 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.12.1/ui-bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.12.1/ui-bootstrap-tpls.min.js"></script>
     <script>
-    /**
-    *  Module
-    *
-    * controller for executing query
-    */
+    /* Prefixes in common use for queries */
+    var prefixes = {
+        dbont:"http://dbpedia.org/ontology/",
+        dbprop: "http://dbpedia.org/property/"
+    };
+    var prefixString = Object.keys(prefixes).map(function (key) {
+                return "PREFIX " + key + ": <" + prefixes[key] + ">";
+            }).join("\n") + "\n";
+
+    /* Angular module */
     angular.module('semantics', ['ui.bootstrap']).controller('sparqlCtrl', ['$scope', '$http', function($scope, $http){
     		
             console.log($scope);
-            $scope.query = 'PREFIX dbprop: <http://dbpedia.org/property/> \n SELECT distinct ?s where { ?s ?p ?o } limit 50';
+            $scope.query = prefixString + 'SELECT distinct ?s where { ?s ?p ?o } limit 50';
             $scope.result = '{"NO":"RESULT"}';
     		$scope.submit = function() {
                 $http.defaults.headers.common.Accept = 'application/sparql-results+json';
@@ -32,13 +37,33 @@
     			})
     		};
     }]).controller('inferringCtrl', ['$scope', '$http', function($scope, $http){
-            $scope.query = 'SELECT ?s where { ?s a dbont:Person } limit 100';
-            $scope.rulesets = [ "rdfs.rules" ];
+            $scope.query = prefixString + 'SELECT ?s where { ?s a dbont:Person } limit 100';
+            $scope.rulesets = [ "subClassOf.rules", "subPropertyOf.rules", "inverseOf.rules" ];
+            $scope.selection = [ "subClassOf.rules", "subPropertyOf.rules", "inverseOf.rules" ];
+            $scope.toggleSelection = function toggleSelection(fruitName) {
+                var idx = $scope.selection.indexOf(fruitName);
+
+                // is currently selected
+                if (idx > -1) {
+                  $scope.selection.splice(idx, 1);
+                }
+
+                // is newly selected
+                else {
+                  $scope.selection.push(fruitName);
+                }
+            };
             $scope.result = '{"NO":"RESULT"}';
             $scope.term = "";
     		$scope.submit = function() {
-            $http.defaults.headers.common.Accept = 'application/json';
-            $http.get('/v1/resources/inferringQuery?rs:query='+$scope.query+'&rs:term='+$scope.term).success(function(response) {
+            $http.defaults.headers.common.Accept = 'application/sparql-results+json';
+            $http({
+                    url:'/v1/resources/inferringQuery',
+                    method:"GET",
+                    params: {
+                        "rs:query" : $scope.query,
+                        "rs:rulesets" :$scope.selection}
+                }).success(function(response) {
                     console.log(response);
     				$scope.results = response.results;
                     $scope.vars = response.head.vars;
@@ -46,21 +71,7 @@
     				$scope.result = error
     			})
     		};
-    }]).controller('extensionCtrl', ['$scope', '$http', function($scope, $http){
-            $scope.query = 'SELECT ?s ?p ?o where { ?s ?p ?o filter (?s = ?param)} limit 100';
-            $scope.result = '{"NO":"RESULT"}';
-            $scope.term = "";
-    		$scope.submit = function() {
-            $http.defaults.headers.common.Accept = 'application/json';
-            $http.get('/v1/resources/semanticExtension?rs:query='+$scope.query+'&rs:term='+$scope.term).success(function(response) {
-                    console.log(response);
-    				$scope.results = response.results;
-                    $scope.vars = response.head.vars;
-    			}).error(function(error) {
-    				$scope.result = error
-    			})
-    		};
-    }]);
+    }])
     </script>
 </head>
 
@@ -112,7 +123,12 @@
                                 <textarea class="form-control" id="textarea2" name="textarea2" placeholder="enter query" rows="5" ng-model="query"></textarea>
                             </div>
                         </div>
-                        <input type="checkbox" ng-repeat\>
+                        <label ng-repeat="ruleset in rulesets">
+                            <input type="checkbox" name="rulesets"
+                                  value="{{ruleset}}" ng-checked="selection.indexOf(ruleset) > -1"
+                                  ng-click="toggleSelection(ruleset)"
+                                  >{{ruleset}}
+                        </label>
                         <!-- Button -->
                         <div class="form-group">
                             <div class="col-md-8">
