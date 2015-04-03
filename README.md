@@ -25,7 +25,7 @@ setup.bat
 
 After this, you can look at the application at
 
-http://localhost:8000/v1/resources/htmlServer?rs:uri=tutorial.html
+http://localhost:8000/v1/resources/htmlServer?rs:home={path-to-tutorial}
 
 The architecture of this app consists of one html page and some extensions.
 

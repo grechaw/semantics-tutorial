@@ -14,13 +14,13 @@ echo "Installing HTML page server extension"
 
 
 echo "Loading RDF Data..."
-%MLCP% IMPORT -input_file_path data/rdf -input_file_type rdf -username $USERNAME -password $PASSWORD -host localhost -port 8000
+%MLCP% IMPORT -input_file_path data/rdf -input_file_type rdf -username %USERNAME% -password %PASSWORD% -host localhost -port 8000
 echo "Loading JSON..."
-%MLCP% IMPORT -input_file_path data/json -username $USERNAME -password $PASSWORD -host localhost -port 8000 -output_uri_replace "$PWD/data/json,''"
+%MLCP% IMPORT -input_file_path data/json -username %USERNAME% -password %PASSWORD% -host localhost -port 8000 -output_uri_replace "%PWD%/data/json,''"
 echo "Loading XML..."
-%MLCP% IMPORT -input_file_path data/xml/matches -username $USERNAME -password $PASSWORD -host localhost -port 8000 -output_uri_replace "$PWD/data/xml,''"
+%MLCP% IMPORT -input_file_path data/xml/matches -username %USERNAME% -password %PASSWORD% -host localhost -port 8000 -output_uri_replace "%PWD%/data/xml,''"
 echo "Loading XML Triples Docs..."
-%MLCP% IMPORT -input_file_path data/xml/triples -username $USERNAME -password $PASSWORD -host localhost -port 8000 -output_uri_replace "$PWD/data/xml/triples,''" -output_collections "http://marklogic.com/semantics#default-graph" 
+%MLCP% IMPORT -input_file_path data/xml/triples -username %USERNAME% -password %PASSWORD% -host localhost -port 8000 -output_uri_replace "%PWD%/data/xml/triples,''" -output_collections "http://marklogic.com/semantics#default-graph" 
 
 
 rem installs the tutorial html page on MarkLogic REST server as a document.

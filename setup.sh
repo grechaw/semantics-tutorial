@@ -31,9 +31,5 @@ $MLCP IMPORT -input_file_path data/xml/matches -username $USERNAME -password $PA
 #echo "Loading XML Triples Docs..."
 $MLCP IMPORT -input_file_path data/xml/triples -username $USERNAME -password $PASSWORD -host localhost -port 8000 -output_uri_replace "$PWD/data/xml/triples,''" -output_collections "http://marklogic.com/semantics#default-graph" 
 
-# installs the tutorial html page on MarkLogic REST server as a document.
-echo "Installing HTML page" ;
-$CURL -Hcontent-type:text/html -d@tutorial.html http://localhost:8000/v1/documents?uri=tutorial.html ;
-
 echo "Installing the semantic extension" ;
 $CURL -Hcontent-type:application/javascript -d@semanticExtension.sjs http://localhost:8000/v1/config/resources/semanticExtension ; 
