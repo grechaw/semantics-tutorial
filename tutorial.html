@@ -24,7 +24,7 @@
     /* Angular module */
     angular.module('semantics', ['ui.bootstrap']).controller('sparqlCtrl', ['$scope', '$http', function($scope, $http){
     		
-            console.log($scope);
+            // console.log($scope);
             $scope.query = prefixString + 'SELECT distinct ?s where { ?s ?p ?o } limit 50';
             $scope.result = '{"NO":"RESULT"}';
     		$scope.submit = function() {
@@ -38,8 +38,10 @@
     		};
     }]).controller('inferringCtrl', ['$scope', '$http', function($scope, $http){
             $scope.query = prefixString + 'SELECT ?s where { ?s a dbont:Person } limit 100';
-            $scope.rulesets = [ "subClassOf.rules", "subPropertyOf.rules", "inverseOf.rules" ];
-            $scope.selection = [ "subClassOf.rules", "subPropertyOf.rules", "inverseOf.rules" ];
+            $scope.rulesets = [ "inverseOf.rules", "domain.rules", 
+    "sameAs.rules", "subClassOf.rules", "range.rules", "subPropertyOf.rules" ];
+            $scope.selection =  [ "subClassOf.rules" ];
+
             $scope.toggleSelection = function toggleSelection(fruitName) {
                 var idx = $scope.selection.indexOf(fruitName);
 
@@ -56,9 +58,9 @@
             $scope.result = '{"NO":"RESULT"}';
             $scope.term = "";
     		$scope.submit = function() {
-            $http.defaults.headers.common.Accept = 'application/sparql-results+json';
+            $http.defaults.headers.common.Accept = 'application/json';
             $http({
-                    url:'/v1/resources/inferringQuery',
+                    url:'/v1/resources/semanticExtension',
                     method:"GET",
                     params: {
                         "rs:query" : $scope.query,
@@ -71,7 +73,18 @@
     				$scope.result = error
     			})
     		};
-    }])
+    }]).controller('semanticExtension', ['$scope', '$http', function($scope, $http){
+    		$scope.submit = function() {
+            $http.defaults.headers.common.Accept = 'application/sparql-results+json';
+            $http({
+                    url:'/v1/resources/semanticExtension',
+                    method:"GET"
+                }).success(function(response) {
+    				$scope.results = JSON.stringify(response, null, 2);
+    			}).error(function(error) {
+    				$scope.result = error
+    			})
+            } }]);
     </script>
 </head>
 
@@ -147,6 +160,24 @@
                             <td ng-repeat="v in vars">{{binding[v].value}}</td>
                         </tr>
                     </table>
+                </div>
+            </div>
+        </accordion-group>
+        <accordion-group heading="Your Semantic Extension">
+            <div class="container" ng-controller="semanticExtension">
+                <form class="form-horizontal">
+                    <fieldset>
+                        <!-- Button -->
+                        <div class="form-group">
+                            <div class="col-md-8">
+                                <button id="singlebutton2" name="singlebutton2" class="btn btn-primary" ng-click="submit()">Button</button>
+                            </div>
+                        </div>
+                    </fieldset>
+                </form>
+                <div class="col-md-8">
+                    <legend>Result</legend>
+                    <pre>{{results}}</pre>
                 </div>
             </div>
         </accordion-group>

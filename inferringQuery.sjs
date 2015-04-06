@@ -10,6 +10,7 @@ function get(context, params) {
         rulesets = [ rulesets ];
     }
     
+xdmp.log(rulesets);
     context.outputTypes = [ 'application/sparql-results+json' ]; 
     var results = sem.sparql(query, null, null, sem.rulesetStore(rulesets, sem.store()));
     return sem.queryResultsSerialize(results, "json");
