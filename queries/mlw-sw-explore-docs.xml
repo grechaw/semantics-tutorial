@@ -1,0 +1,82 @@
+<export><workspace name="mlw-sw-explore-docs"><query name="players" focus="false" active="true" content-source="as:3707987997079009010:" mode="xquery">(:
+# show all documents in the players directory
+# could also be a collection
+# How would you do this in JavaScript?
+:)
+
+for $doc in xdmp:directory( "/players/" )
+return
+  fn:document-uri( $doc )</query><query name="players-1doc" focus="false" active="true" content-source="as:3707987997079009010:" mode="xquery">(:
+# show the body of 1 document in the players directory
+:)
+
+for $doc in xdmp:directory( "/players/" )[1]
+return
+  $doc</query><query name="teams" focus="false" active="true" content-source="as:3707987997079009010:" mode="xquery">(:
+# show all documents in the teams directory
+:)
+
+for $doc in xdmp:directory( "/teams/" )
+return
+  fn:document-uri( $doc )
+</query><query name="teams-1doc" focus="false" active="true" content-source="as:3707987997079009010:" mode="xquery">(:
+# show the body of 1 document in the teams directory
+:)
+
+for $doc in xdmp:directory( "/teams/" )[1]
+return
+  $doc</query><query name="matches" focus="false" active="true" content-source="as:3707987997079009010:" mode="xquery">(:
+# show all documents in the matches directory
+:)
+
+for $doc in xdmp:directory( "/matches/" )
+return
+  fn:document-uri( $doc )</query><query name="matches-1doc" focus="false" active="true" content-source="as:3707987997079009010:" mode="xquery">(:
+# show the body of 1 document in the match collection
+:)
+
+for $doc in xdmp:directory( "/matches/" )
+return
+  $doc
+  </query><query name="search-generic" focus="false" active="true" content-source="as:3707987997079009010:" mode="xquery">(:
+# show all documents that match some search
+:)
+
+for $doc in 
+  cts:search( 
+    fn:collection(),
+    cts:and-query(
+      (
+      cts:directory-query( ("/players/", "/teams/", "/matches/") ),
+      cts:word-query( "mondragon" )
+      )
+      )
+    )
+return
+  fn:document-uri( $doc )</query><query name="show-1doc" focus="false" active="true" content-source="as:3707987997079009010:" mode="xquery">
+fn:doc( "/teams/Colombia_national_football_team.json" )</query><query name="players-docs-count" focus="false" active="true" content-source="as:3707987997079009010:" mode="xquery">(:
+# count all documents in the players directory
+# Note: we can also use collections to partition documents (and triples)
+#
+:)
+fn:count(
+for $doc in xdmp:directory( "/players/" )
+return
+  fn:document-uri( $doc )
+)</query><query name="teams-docs-count" focus="false" active="true" content-source="as:3707987997079009010:" mode="xquery">(:
+# count all documents in the teams directory
+:)
+
+fn:count(
+for $doc in xdmp:directory( "/teams/" )
+return
+  fn:document-uri( $doc )
+)</query><query name="matches-docs-count" focus="true" active="true" content-source="as:3707987997079009010:" mode="xquery">(:
+# count all documents in the matches directory
+:)
+
+fn:count(
+for $doc in xdmp:directory( "/matches/" )
+return
+  fn:document-uri( $doc )
+)</query></workspace></export>

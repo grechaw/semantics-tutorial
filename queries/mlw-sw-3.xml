@@ -1,0 +1,153 @@
+<export><workspace name="mlw-sw-3"><query name="sandbox" focus="true" active="true" mode="xquery">(:
+#
+# Query 3 - call SPARQL from JavaScript or XQuery
+# q-3-a   - show all players in some team
+# 
+# User query:  mexico
+# Result:      ID + full name for each player in the team
+# Shows:       bind a program value to a SPARQL variable
+# In the app
+#              user searches for a team, gets a list of players (in addition to other "team info")
+#
+# Things to note
+#              - make sure to set the Query Type in Query Console to "XQuery" or "JavaScript" as appropriate
+#              - bindings are passed into sem:sparql as a map where each key is the SPARQL variable name, and the value is the value to bind
+#              - in Query Console the result is displayed by default in a "table" for easy reading; click "Raw" to see the raw JSON results
+#
+#             BONUS:
+#             - we'll see later that sem:sparql() in XQuery returns a sequence of maps
+#             - some players have more than one name - how would you return just one name per player?
+#               hint: use a sub-query and distinct
+#             
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";</query><query name="q-3-a" focus="false" active="true" mode="xquery">(:
+#
+# Query 3 - call SPARQL from JavaScript or XQuery
+# q-3-a   - show all players in some team
+# 
+# User query:  mexico
+# Result:      ID + full name for each player in the team
+# Shows:       bind a program value to a SPARQL variable
+# In the app
+#              user searches for a team, gets a list of players (in addition to other "team info")
+#
+# Things to note
+#              - make sure to set the Query Type in Query Console to "XQuery" or "JavaScript" as appropriate
+#              - bindings are passed into sem:sparql as a map where each key is the SPARQL variable name, and the value is the value to bind
+#              - in Query Console the result is displayed by default in a "table" for easy reading; click "Raw" to see the raw JSON results
+#
+#             BONUS:
+#             - we'll see later that sem:sparql() in XQuery returns a sequence of maps
+#             - some players have more than one name - how would you return just one name per player?
+#               hint: use a sub-query and distinct
+#             
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
+
+let $teamInput := "Mexico"
+
+let $bindings :=
+   map:new(
+      (
+      map:entry("teamName", $teamInput)
+      )
+      )
+
+let $players-info :=
+ sem:sparql('
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+select ?playerName
+where { 
+  ?teamIRI   a dbont:SoccerClub  ;
+             foaf:name ?teamName .
+  ?playerIRI  a  dbont:SoccerPlayer ;
+              dbont:team ?teamIRI ;
+              foaf:name  ?playerName .
+  }
+order by ?playerName
+    ' ,
+    $bindings
+    )
+    
+return
+  $players-info
+</query><query name="sandbox" focus="false" active="true" mode="javascript">/*
+#
+# Query 3 - call SPARQL from JavaScript or XQuery
+# q-3-a   - show all players in some team
+# 
+# User query:  mexico
+# Result:      ID + full name for each player in the team
+# Shows:       bind a program value to a SPARQL variable
+# In the app
+#              user searches for a team, gets a list of players (in addition to other "team info")
+#
+# Things to note
+#              - make sure to set the Query Type in Query Console to "XQuery" or "JavaScript" as appropriate
+#              - bindings are passed into sem:sparql as a map where each key is the SPARQL variable name, and the value is the value to bind
+#              - in Query Console the result is displayed by default in a "table" for easy reading; click "Raw" to see the raw JSON results
+#              - the binding for foo is a dummy, to illustrate more than one binding
+#              - JavaScript demands that a string over several lines include continuation character (\), which MUST be the last character on the line
+#                This may change in a future version.
+#
+#             BONUS:
+#             - we'll see later that sem.sparql() in JavaScript returns a ValueIterator, which may be converted to an Array
+#             - some players have more than one name - how would you return just one name per player?
+#               hint: use a sub-query and distinct
+#             
+*/</query><query name="q-3-a-j" focus="false" active="true" mode="javascript">/*
+#
+# Query 3 - call SPARQL from JavaScript or XQuery
+# q-3-a   - show all players in some team
+# 
+# User query:  mexico
+# Result:      ID + full name for each player in the team
+# Shows:       bind a program value to a SPARQL variable
+# In the app
+#              user searches for a team, gets a list of players (in addition to other "team info")
+#
+# Things to note
+#              - make sure to set the Query Type in Query Console to "XQuery" or "JavaScript" as appropriate
+#              - bindings are passed into sem:sparql as a map where each key is the SPARQL variable name, and the value is the value to bind
+#              - in Query Console the result is displayed by default in a "table" for easy reading; click "Raw" to see the raw JSON results
+#              - the binding for foo is a dummy, to illustrate more than one binding
+#              - JavaScript demands that a string over several lines include continuation character (\), which MUST be the last character on the line
+#                This may change in a future version.
+#
+#             BONUS:
+#             - we'll see later that sem.sparql() in JavaScript returns a ValueIterator, which may be converted to an Array
+#             - some players have more than one name - how would you return just one name per player?
+#               hint: use a sub-query and distinct
+#             
+*/
+
+
+var teamInput = "Mexico" ;
+var barInput  = "baz"    ;
+
+var bindings = {"teamName": teamInput, "foo": barInput } ;
+
+var result = sem.sparql( "\
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;  \
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;    \
+select ?playerName                             \
+where {                                        \
+  ?teamIRI   a dbont:SoccerClub  ;             \
+             foaf:name ?teamName .             \
+  ?playerIRI  a  dbont:SoccerPlayer ;          \
+              dbont:team ?teamIRI ;            \
+              foaf:name  ?playerName .         \
+}                                              \
+order by ?playerName                           \
+" ,
+    bindings
+    ) ;
+
+result ;
+    
+</query></workspace></export>

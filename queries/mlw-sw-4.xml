@@ -1,0 +1,767 @@
+<export><workspace name="mlw-sw-4"><query name="sandbox" focus="true" active="true" mode="xquery">(:
+#
+# Query 4i - use SPARQL to improve your search - find things you wouldn't otherwise find
+# q-4i-a   - find a team document from the team nickname
+# 
+# User query:  La Verde (nickname for Mexico national team)
+#              Should also work for "El Tri", "El Tricolor"
+# Result:      Document describing Mexico national team
+# Shows:       Use the fact that we know all the nicknames of teams (from triples) to do a document search based on nickname
+#              Also shows the use of language tags in RDF and SPARQL
+# The mechanics:
+#              Take in a nickname as a string typed by the user
+#              Add a language tag to the string
+#              Pass the language tagged string into SPARQL to find a team name
+#              Use the team name to find the team document
+#
+# In the app
+#              user searches for the nickname of a team, gets a document describing the team
+#
+# Things to note
+#     
+#Author notes
+#strip language tags from data for simplicity
+#add team name to team documents - then change the search at the end of this query
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
+
+declare namespace data = "http://wmdemo.ml.com/data" ;
+
+let $userInput := "La Verde"
+
+
+</query><query name="q-4i-a" focus="false" active="true" mode="xquery">(:
+#
+# Query 4i - use SPARQL to improve your search - find things you wouldn't otherwise find
+# q-4i-a   - find a team document from the team nickname
+# 
+# User query:  La Verde (nickname for Mexico national team)
+#              Should also work for "El Tri", "El Tricolor"
+# Result:      Document describing Mexico national team
+# Shows:       Use the fact that we know all the nicknames of teams (from triples) to do a document search based on nickname
+#              Also shows the use of language tags in RDF and SPARQL
+# The mechanics:
+#              Take in a nickname as a string typed by the user
+#              Add a language tag to the string
+#              Pass the language tagged string into SPARQL to find a team name
+#              Use the team name to find the team document
+#
+# In the app
+#              user searches for the nickname of a team, gets a document describing the team
+#
+# Things to note
+#     
+#Author notes
+#strip language tags from data for simplicity
+#add team name to team documents - then change the search at the end of this query
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
+
+declare namespace data = "http://wmdemo.ml.com/data" ;
+
+let $userInput := "La Verde"
+
+(:
+let $userInputLang := rdf:langString( $userInput, "en")        (: add the language tag so it matches in SPARQL :)
+:)
+
+let $bindings := map:new()
+let $_bindings := 
+      map:put( $bindings, "nicknameInput", $userInput )        (: use $userInputLang if youre dealing with lang strings :)
+
+let $team :=
+ sem:sparql('
+    prefix dbo: &lt;http://dbpedia.org/ontology/&gt;
+    prefix foaf: &lt;http://xmlns.com/foaf/0.1/&gt;
+    select ?teamName
+    where
+    { 
+      ?team a dbo:SportsTeam .
+      ?team foaf:nick ?nicknameInput .
+      ?team foaf:name ?teamName .
+                                          # Use BIND( str( ?teamName ) AS ?teamNameStr ) if you need to take the language tag out so its a regular string
+    }
+    ' ,
+    $bindings
+    )
+
+let $teamName :=
+  map:get($team[1], "teamName")        
+                                          (: see also sem:query-results-serialize( $team )//sr:result/sr:binding[@name="teamNameStr"]/sr:literal/text() :)
+                                          (: declare namespace sr = "http://www.w3.org/2005/sparql-results#" ; :) 
+return
+
+  (: show the document with this team name in the id element :)
+  cts:search( 
+    fn:collection(), 
+    cts:json-property-word-query( 
+      "id", 
+      $teamName )
+      ) 
+    
+</query><query name="sandbox" focus="false" active="true" mode="javascript">/*
+#
+# Query 4i - use SPARQL to improve your search - find things you wouldn't otherwise find
+# q-4i-a   - find a team document from the team nickname
+# 
+# User query:  La Verde (nickname for Mexico national team)
+#              Should also work for "El Tri", "El Tricolor"
+# Result:      Document describing Mexico national team
+# Shows:       Use the fact that we know all the nicknames of teams (from triples) to do a document search based on nickname
+#              Also shows the use of language tags in RDF and SPARQL
+# The mechanics:
+#              Take in a nickname as a string typed by the user
+#              Add a language tag to the string
+#              Pass the language tagged string into SPARQL to find a team name
+#              Use the team name to find the team document
+#
+# In the app
+#              user searches for the nickname of a team, gets a document describing the team
+#
+# Things to note
+#              In JavaScript, multi-line strings need a continuation character (\n\). This may change in a future version.
+#
+#              From JavaScript, the results from a SPARQL query are returned as a ValueIterator (see http://docs.marklogic.com/guide/jsref/api#id_90070 )
+#              This lets you iterate efficiently over large results sets.
+#              In these examples we're generally dealing with small results sets, so we'll just convert the iterator to an array with .toArray
+#     
+#Author notes
+#strip language tags from data for simplicity
+#add team name to team documents - then change the search at the end of this query
+#
+*/
+
+var sem = require("/MarkLogic/semantics.xqy");
+
+var userInput = "La Verde" ;
+</query><query name="q-4i-a-j" focus="false" active="true" mode="javascript">/*
+#
+# Query 4i - use SPARQL to improve your search - find things you wouldn't otherwise find
+# q-4i-a   - find a team document from the team nickname
+# 
+# User query:  La Verde (nickname for Mexico national team)
+#              Should also work for "El Tri", "El Tricolor"
+# Result:      Document describing Mexico national team
+# Shows:       Use the fact that we know all the nicknames of teams (from triples) to do a document search based on nickname
+#              Also shows the use of language tags in RDF and SPARQL
+# The mechanics:
+#              Take in a nickname as a string typed by the user
+#              Add a language tag to the string
+#              Pass the language tagged string into SPARQL to find a team name
+#              Use the team name to find the team document
+#
+# In the app
+#              user searches for the nickname of a team, gets a document describing the team
+#
+# Things to note
+#              In JavaScript, multi-line strings need a continuation character (\n\). This may change in a future version.
+#
+#              From JavaScript, the results from a SPARQL query are returned as a ValueIterator (see http://docs.marklogic.com/guide/jsref/api#id_90070 )
+#              This lets you iterate efficiently over large results sets.
+#              In these examples we're generally dealing with small results sets, so we'll just convert the iterator to an array with .toArray
+#     
+#Author notes
+#strip language tags from data for simplicity
+#add team name to team documents - then change the search at the end of this query
+#
+*/
+
+var sem = require("/MarkLogic/semantics.xqy");
+
+var userInput = "La Verde" ;
+
+var bindings = { "nicknameInput": userInput } ;
+
+var team = sem.sparql("\n\
+    prefix dbo: &lt;http://dbpedia.org/ontology/&gt;     \n\
+    prefix foaf: &lt;http://xmlns.com/foaf/0.1/&gt;      \n\
+    select ?teamName                               \n\
+    where                                          \n\
+    {                                              \n\
+      ?team a dbo:SportsTeam .                     \n\
+      ?team foaf:nick ?nicknameInput .             \n\
+      ?team foaf:name ?teamName .                  \n\
+    }                                              \n\
+    " ,
+    bindings
+    )
+    
+/* convert the valueIterator to an array, and grab the team name */
+var teamName = team.toArray()[0].teamName
+   
+/* show the document with this team nane (country name) in the id element */
+  cts.search( 
+    cts.jsonPropertyWordQuery( 
+      "id", 
+      teamName
+      ) 
+    )
+
+
+</query><query name="sandbox" focus="false" active="true" mode="xquery">(:
+#
+# Query 4i - use SPARQL to improve your search - find things you wouldn't otherwise find
+# q-4i-b   - find team documents from the region
+# 
+# User query:  South America
+#              
+# Result:      Documents describing each team in South America
+# Shows:       Use the fact that we know which teams are from which regions
+#              - We know which country each team is from (from dbpedia, from team documents); we know which region each country is in (from World Factbook); so we can find out (and search for) teams in a region
+#              Also shows the use of an additional data source - the CIA World Factbook
+
+# The mechanics:
+#              Take in a region as a string typed by the user
+#              Pass the region into a SPARQL query to find country names
+#              Use the country names to find the team documents
+#
+# In the app
+#              user searches for a region, gets documents describing the team
+#              could extend to a mapping query - click on a region on a map, show each team on that map
+#
+# Things to note
+#              from XQuery, the results from a SPARQL query are returned as a sequence of maps; each map holds a set of bindings between a variable name and a value
+#     
+#Author notes
+#
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
+
+let $userInput := "South America"
+</query><query name="q-4i-b" focus="false" active="true" mode="xquery">(:
+#
+# Query 4i - use SPARQL to improve your search - find things you wouldn't otherwise find
+# q-4i-b   - find team documents from the region
+# 
+# User query:  South America
+#              
+# Result:      Documents describing each team in South America
+# Shows:       Use the fact that we know which teams are from which regions
+#              - We know which country each team is from (from dbpedia, from team documents); we know which region each country is in (from World Factbook); so we can find out (and search for) teams in a region
+#              Also shows the use of an additional data source - the CIA World Factbook
+
+# The mechanics:
+#              Take in a region as a string typed by the user
+#              Pass the region into a SPARQL query to find country names
+#              Use the country names to find the team documents
+#
+# In the app
+#              user searches for a region, gets documents describing the team
+#              could extend to a mapping query - click on a region on a map, show each team on that map
+#
+# Things to note
+#              from XQuery, the results from a SPARQL query are returned as a sequence of maps; each map holds a set of bindings between a variable name and a value
+#     
+#Author notes
+#
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
+
+let $userInput := "South America"
+
+let $bindings := map:new()
+let $_bindings := 
+      map:put( $bindings, "regionInput", $userInput )
+
+let $countries :=
+ sem:sparql('
+    prefix factbook: &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+    select ?countryName                                                        
+    where                                         
+    {                                            
+      ?countryIRI factbook:localShortCountryName ?countryName ;  
+                  factbook:mapReferences  ?regionInput .
+    }      
+    ' ,
+    $bindings
+    )
+
+(: convert from a sequence of maps (from sem:sparql) to a sequence of values (for input to search) :)
+let $countryNames :=
+  for $c in $countries
+  return map:get($c, "countryName") 
+
+return 
+  (: use the sequence of country names as input to search; show all documents with one of these country names in the id element :)
+  cts:search( 
+    fn:collection(), 
+    cts:json-property-word-query( 
+      "id", 
+      $countryNames
+      ) 
+    )
+
+  
+</query><query name="sandbox" focus="false" active="true" mode="javascript">/*
+#
+# Query 4i - use SPARQL to improve your search - find things you wouldn't otherwise find
+# q-4i-b-j - find team documents from the region
+# 
+# User query:  South America
+#              
+# Result:      Documents describing each team in South America
+# Shows:       Use the fact that we know which teams are from which regions
+#              - We know which country each team is from (from dbpedia, from team documents); we know which region each country is in (from World Factbook); so we can find out (and search for) teams in a region
+#              Also shows the use of an additional data source - the CIA World Factbook
+
+# The mechanics:
+#              Take in a region as a string typed by the user
+#              Pass the region into a SPARQL query to find country names
+#              Use the country names to find the team documents
+#
+# In the app
+#              user searches for a region, gets documents describing the team
+#              could extend to a mapping query - click on a region on a map, show each team on that map
+#
+# Things to note
+#              from JavaScript, the results from a SPARQL query are returned as a sequence of maps; each map holds a set of bindings between a variable name and a value
+#              From JavaScript, the results from a SPARQL query are returned as a ValueIterator (see http://docs.marklogic.com/guide/jsref/api#id_90070 )
+#              This lets you iterate efficiently over large results sets.
+#              In these examples we're generally dealing with small results sets, so we'll just convert the iterator to an array with .toArray
+#
+#              Some useful links for understanding JavaScript and JSON in MarkLogic:
+#              - &lt;http://docs.marklogic.com/guide/jsref/api&gt; 
+#              - &lt;http://developer.marklogic.com/features/javascript&gt; 
+#              - &lt;http://developer.marklogic.com/features/json&gt;
+#     
+#Author notes
+#
+*/
+
+var userInput = "South America" ;
+</query><query name="q-4i-b-j" focus="false" active="true" mode="javascript">/*
+#
+# Query 4i - use SPARQL to improve your search - find things you wouldn't otherwise find
+# q-4i-b-j - find team documents from the region
+# 
+# User query:  South America
+#              
+# Result:      Documents describing each team in South America
+# Shows:       Use the fact that we know which teams are from which regions
+#              - We know which country each team is from (from dbpedia, from team documents); we know which region each country is in (from World Factbook); so we can find out (and search for) teams in a region
+#              Also shows the use of an additional data source - the CIA World Factbook
+
+# The mechanics:
+#              Take in a region as a string typed by the user
+#              Pass the region into a SPARQL query to find country names
+#              Use the country names to find the team documents
+#
+# In the app
+#              user searches for a region, gets documents describing the team
+#              could extend to a mapping query - click on a region on a map, show each team on that map
+#
+# Things to note
+#              from JavaScript, the results from a SPARQL query are returned as a sequence of maps; each map holds a set of bindings between a variable name and a value
+#              From JavaScript, the results from a SPARQL query are returned as a ValueIterator (see http://docs.marklogic.com/guide/jsref/api#id_90070 )
+#              This lets you iterate efficiently over large results sets.
+#              In these examples we're generally dealing with small results sets, so we'll just convert the iterator to an array with .toArray
+#
+#              Some useful links for understanding JavaScript and JSON in MarkLogic:
+#              - &lt;http://docs.marklogic.com/guide/jsref/api&gt; 
+#              - &lt;http://developer.marklogic.com/features/javascript&gt; 
+#              - &lt;http://developer.marklogic.com/features/json&gt;
+#     
+#Author notes
+#
+*/
+
+var userInput = "South America" ;
+
+var bindings = { "regionInput": userInput } ;
+
+var countries = sem.sparql("\n\
+    prefix factbook: &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt; \n\
+    select ?countryName                                                   \n\
+    where                                                                 \n\
+    {                                                                     \n\
+      ?countryIRI factbook:localShortCountryName ?countryName ;           \n\
+                  factbook:mapReferences  ?regionInput .                  \n\
+    }                                                                     \n\
+    " ,
+    bindings
+    ) ;
+
+ 
+/* iterate over the valueIterator (from sem:sparql) and build an array of values (for input to search) */
+var countriesArray = [] ;
+for (var result of countries) {
+  countriesArray.push( result.countryName )
+        } ;
+
+/* use the array of country names as input to search; show all documents with one of these country names in the id property */
+  cts.search( 
+    cts.jsonPropertyWordQuery( 
+      "id", 
+      countriesArray
+      ) 
+    )
+</query><query name="sandbox" focus="false" active="true" mode="xquery">(:
+#
+# Query 4ii - use SPARQL to suggest related searches
+# q-4ii-a   - recommend other players in the same national team
+# 
+# User query:  David Villa (a soccer player)
+#              Should also work for other national-level soccer players such as Carlos Marchena
+# Result:      List of players on the same national team as the input player
+# Shows:       Use the fact that we know all the players on all national teams (from dbpedia) to recommend search terms
+#
+# In the app
+#              user searches for a player, the app recommends "you may also be interested in ..."
+#
+# Things to note
+#     
+#Author notes
+#
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
+
+let $userInput := "David Villa"
+</query><query name="q-4ii-a" focus="false" active="true" mode="xquery">(:
+#
+# Query 4ii - use SPARQL to suggest related searches
+# q-4ii-a   - recommend other players in the same national team
+# 
+# User query:  David Villa (a soccer player)
+#              Should also work for other national-level soccer players such as Carlos Marchena
+# Result:      List of players on the same national team as the input player
+# Shows:       Use the fact that we know all the players on all national teams (from dbpedia) to recommend search terms
+#
+# In the app
+#              user searches for a player, the app recommends "you may also be interested in ..."
+#
+# Things to note
+#     
+#Author notes
+#
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
+
+let $userInput := "David Villa"
+
+let $bindings := map:new()
+let $_bindings := 
+      map:put( $bindings, "playerNameInput", $userInput )
+
+let $players :=
+ sem:sparql('
+prefix dbo: &lt;http://dbpedia.org/ontology/&gt;
+prefix dbp: &lt;http://dbpedia.org/property/&gt;
+prefix foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+
+select distinct ?playerName
+where
+{
+  ?playerIRI1 a dbo:SoccerPlayer ;
+              dbp:nationalteam ?natTeamIRI ;
+              foaf:name ?playerNameInput .
+
+  ?playerIRI2 a dbo:SoccerPlayer ;
+              dbp:nationalteam ?natTeamIRI ;
+              foaf:name ?playerName .
+  
+} order by ?playerName
+    ' ,
+    $bindings
+    )
+    
+(: convert from a sequence of maps (from sem:sparql) to a sequence of values (for input to search) :)
+let $playerNames :=
+  for $p in $players
+  return map:get($p, "playerName") 
+  
+return $playerNames
+
+</query><query name="sandbox" focus="false" active="true" mode="javascript">/*
+#
+# Query 4ii - use SPARQL to suggest related searches
+# q-4ii-a-j - recommend other players in the same national team
+# 
+# User query:  David Villa (a soccer player)
+#              Should also work for other national-level soccer players such as Carlos Marchena
+# Result:      List of players on the same national team as the input player
+# Shows:       Use the fact that we know all the players on all national teams (from dbpedia) to recommend search terms
+#
+# In the app
+#              user searches for a player, the app recommends "you may also be interested in ..."
+#
+# Things to note
+#              For bonus points:
+#              - the result includes the user input player name - how would you avoid that? (hint: use FILTER in SPARQL)
+#              - the result includes multiple names for some players - how would you avoid that? (hint: use a combination of sub-query and DISTINCT in SPARQL)
+#     
+#Author notes
+#
+*/
+
+var userInput = "David Villa" ;
+</query><query name="q-4ii-a-j" focus="false" active="true" mode="javascript">/*
+#
+# Query 4ii - use SPARQL to suggest related searches
+# q-4ii-a-j - recommend other players in the same national team
+# 
+# User query:  David Villa (a soccer player)
+#              Should also work for other national-level soccer players such as Carlos Marchena
+# Result:      List of players on the same national team as the input player
+# Shows:       Use the fact that we know all the players on all national teams (from dbpedia) to recommend search terms
+#
+# In the app
+#              user searches for a player, the app recommends "you may also be interested in ..."
+#
+# Things to note
+#              For bonus points:
+#              - the result includes the user input player name - how would you avoid that? (hint: use FILTER in SPARQL)
+#              - the result includes multiple names for some players - how would you avoid that? (hint: use a combination of sub-query and DISTINCT in SPARQL)
+#     
+#Author notes
+#
+*/
+var userInput = "David Villa" ;
+
+var bindings = { "playerNameInput": userInput } ;
+
+var players =
+ sem.sparql('     \n\
+prefix dbo: &lt;http://dbpedia.org/ontology/&gt;     \n\
+prefix dbp: &lt;http://dbpedia.org/property/&gt;     \n\
+prefix foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;     \n\
+select distinct ?playerName     \n\
+where     \n\
+{     \n\
+  ?playerIRI1 a dbo:SoccerPlayer ;     \n\
+              dbp:nationalteam ?natTeamIRI ;     \n\
+              foaf:name ?playerNameInput .     \n\
+  ?playerIRI2 a dbo:SoccerPlayer ;     \n\
+              dbp:nationalteam ?natTeamIRI ;     \n\
+              foaf:name ?playerName .     \n\
+} order by ?playerName     \n\
+    ' ,
+    bindings
+    ) ;
+    
+/* iterate over the valueIterator (from sem:sparql) and build an array of values (for display by the search app) */
+var playersArray = [] ;
+for (var p of players) {
+  playersArray.push( p.playerName )
+        } ;
+  
+playersArray ;
+</query><query name="sandbox" focus="false" active="true" mode="xquery">(:
+#
+# Query 4iii - use SPARQL to figure out what to display on a page (cf BBC and Dynamic Semantic Publishing)
+# q-4iii-a   - find all things related to some player
+# 
+# User query:  player name: David Villa
+#              
+# Result:      List of assets related to that player (player document, national team document, list of match documents, etc)
+# Shows:       Use the relationships we know from triples to gather together "all about X"
+#              
+# The mechanics:
+#              
+#
+# In the app
+#              User searches for - or navigates to - the page for a player, and that page is dynamically constructed
+#              cf &lt;http://www.bbc.com/sport/football/teams/west-ham-united&gt;
+#
+# Things to note
+#     
+#Author notes
+#requires links from entities (players, teams, matches) to their documents
+#see workspace "add-links"
+#exercise: add links from teams to matches to gather match documents 
+#
+:)
+
+let $userInput := "David Villa"
+</query><query name="q-4iii-a" focus="false" active="true" mode="xquery">(:
+#
+# Query 4iii - use SPARQL to figure out what to display on a page (cf BBC and Dynamic Semantic Publishing)
+# q-4iii-a   - find all things related to some player
+# 
+# User query:  player name: David Villa
+#              
+# Result:      List of assets related to that player (player document, national team document, list of match documents, etc)
+# Shows:       Use the relationships we know from triples to gather together "all about X"
+#              
+# The mechanics:
+#              
+#
+# In the app
+#              User searches for - or navigates to - the page for a player, and that page is dynamically constructed
+#              cf &lt;http://www.bbc.com/sport/football/teams/west-ham-united&gt;
+#
+# Things to note
+#     
+#Author notes
+#requires links from entities (players, teams, matches) to their documents
+#see workspace "add-links"
+#exercise: add links from teams to matches to gather match documents 
+#
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
+
+let $userInput := "David Villa"
+
+let $bindings := map:new()
+let $_bindings := 
+      map:put( $bindings, "playerNameInput", $userInput )
+
+let $page :=
+ sem:sparql('
+prefix dbo:   &lt;http://dbpedia.org/ontology/&gt;
+prefix dbp:   &lt;http://dbpedia.org/property/&gt;
+prefix foaf:  &lt;http://xmlns.com/foaf/0.1/&gt;
+prefix mlpred: &lt;http://marklogic.com/semantics/predicates/&gt;
+
+select ?playerDocURI ?teamDocURI
+where
+{
+  # establish this players IRI
+  ?playerIRI  a dbo:SoccerPlayer ;
+              foaf:name ?playerNameInput .
+              
+  # find the document describing this player
+  ?playerIRI  mlpred:hasDoc  ?playerDocURI .
+  
+  # find the document describing this players national team
+  ?playerIRI  a dbo:SoccerPlayer ;
+              dbp:nationalteam ?natTeamIRI ;
+              foaf:name ?playerNameInput .
+  ?natTeamIRI  mlpred:hasDoc  ?teamDocURI .
+  # find other related documents
+} 
+    ' ,
+    $bindings
+    )
+  
+
+(: convert from a sequence of maps (from sem:sparql) to a sequence of values :)
+let $pageInfo :=
+  for $k in map:keys( $page )
+  return map:get($page, $k) 
+  
+return 
+  fn:doc( $pageInfo )
+  </query><query name="sandbox" focus="false" active="true" mode="javascript">/*
+#
+# Query 4iii - use SPARQL to figure out what to display on a page (cf BBC and Dynamic Semantic Publishing)
+# q-4iii-a-j - find all things related to some player
+# 
+# User query:  player name: David Villa
+#              
+# Result:      List of assets related to that player (player document, national team document, list of match documents, etc)
+# Shows:       Use the relationships we know from triples to gather together "all about X"
+#              
+# The mechanics:
+#              
+#
+# In the app
+#              User searches for - or navigates to - the page for a player, and that page is dynamically constructed
+#              cf &lt;http://www.bbc.com/sport/football/teams/west-ham-united&gt;
+#
+# Things to note
+#     
+#Author notes
+#requires links from entities (players, teams, matches) to their documents
+#see workspace "add-links"
+#exercise: add links from teams to matches to gather match documents 
+#
+*/
+
+var userInput = "David Villa";
+</query><query name="q-4-iii-a-j" focus="false" active="true" mode="javascript">/*
+#
+# Query 4iii - use SPARQL to figure out what to display on a page (cf BBC and Dynamic Semantic Publishing)
+# q-4iii-a-j - find all things related to some player
+# 
+# User query:  player name: David Villa
+#              
+# Result:      List of assets related to that player (player document, national team document, list of match documents, etc)
+# Shows:       Use the relationships we know from triples to gather together "all about X"
+#              
+# The mechanics:
+#              
+#
+# In the app
+#              User searches for - or navigates to - the page for a player, and that page is dynamically constructed
+#              cf &lt;http://www.bbc.com/sport/football/teams/west-ham-united&gt;
+#
+# Things to note
+#     
+#Author notes
+#requires links from entities (players, teams, matches) to their documents
+#see workspace "add-links"
+#exercise: add links from teams to matches to gather match documents 
+#
+*/
+
+var userInput = "David Villa";
+
+var bindings = { "playerNameInput": userInput } ;
+
+var page =
+ sem.sparql('    \n\
+prefix dbo:   &lt;http://dbpedia.org/ontology/&gt;    \n\
+prefix dbp:   &lt;http://dbpedia.org/property/&gt;    \n\
+prefix foaf:  &lt;http://xmlns.com/foaf/0.1/&gt;    \n\
+prefix mlpred: &lt;http://marklogic.com/semantics/predicates/&gt;    \n\
+    \n\
+select ?playerDocURI ?teamDocURI    \n\
+where    \n\
+{    \n\
+  # establish this players IRI    \n\
+  ?playerIRI  a dbo:SoccerPlayer ;    \n\
+              foaf:name ?playerNameInput .    \n\
+                  \n\
+  # find the document describing this player    \n\
+  ?playerIRI  mlpred:hasDoc  ?playerDocURI .    \n\
+      \n\
+  # find the document describing this players national team    \n\
+  ?playerIRI  a dbo:SoccerPlayer ;    \n\
+              dbp:nationalteam ?natTeamIRI ;    \n\
+              foaf:name ?playerNameInput .    \n\
+  ?natTeamIRI  mlpred:hasDoc  ?teamDocURI .    \n\
+  # find other related documents    \n\
+}     \n\
+    ' ,
+    bindings
+    )
+   
+/* iterate over the valueIterator (from sem:sparql) and build an array of values (for display by the search app) */
+var docsArray = [] ;
+for (var p of page) {
+  docsArray.push( p.playerDocURI ) ;
+  docsArray.push( p.teamDocURI ) ;
+        } ;
+
+fn.doc( docsArray )
+  </query><query name="q-4i-b-HINT" focus="false" active="true" mode="sparql">#
+# HINT: heres how you can map country names to region names using CIA World Factbook data
+#
+# Things to note:
+#              We could've got this data from geonames ( http://www.geonames.org/ontology/documentation.html )
+#              BONUS: Adding geonames data and queries is left as an exercise for the user.
+#Author notes
+#
+
+    prefix factbook: &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+    select ?countryIRI ?countryName ?regionName                                                        
+    where                                         
+    {                                            
+      ?countryIRI factbook:localShortCountryName ?countryName ;  
+                  factbook:mapReferences  ?regionName .
+    }                                            
+</query></workspace></export>

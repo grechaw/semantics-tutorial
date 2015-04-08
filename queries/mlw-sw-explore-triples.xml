@@ -1,0 +1,234 @@
+<export><workspace name="mlw-sw-explore-triples"><query name="show-types" focus="false" active="true" content-source="as:3707987997079009010:" mode="sparql">
+#
+#  show distinct types in the triplestore
+#  Note: "a" is shorthand for rdf:type
+#
+select distinct ?o
+where
+{ 
+  ?s a ?o
+}
+</query><query name="show-teams" focus="false" active="true" content-source="as:3707987997079009010:" mode="sparql">
+#
+#  show all the teams in the triplestore
+#  Note: "a" is shorthand for rdf:type
+#
+
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+select ?teamIRI ?teamName
+where { 
+  ?teamIRI   a dbont:SoccerClub  ;
+             foaf:name ?teamName .
+  }
+</query><query name="show-matches" focus="false" active="true" content-source="as:3707987997079009010:" mode="sparql">
+#
+#  show all the matches in the triplestore
+#  
+#
+
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+
+select ?matchIRI ?matchName
+where { 
+  ?matchIRI   a dbont:FootballMatch  ;
+              foaf:name ?matchName .
+  }
+</query><query name="show-players" focus="false" active="true" content-source="as:3707987997079009010:" mode="sparql">
+#
+#  show all the players in the triplestore and their names
+#  Note: some players have more than one name
+#
+
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+
+select distinct ?s ?playerName
+where
+{ 
+  ?s a dbont:SoccerPlayer ;
+     foaf:name ?playerName .
+}</query><query name="all-about-players" focus="false" active="true" content-source="as:3707987997079009010:" mode="sparql">#
+#  what can SPARQL tell me about a player?
+#  show me all triples where the first soccer player is the subject
+#
+
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+
+select ?s ?p ?o
+where
+{ 
+  ?s ?p ?o .
+  { select ?s where { ?s a dbont:SoccerPlayer } limit 1 }
+}</query><query name="all-about-teams" focus="false" active="true" content-source="as:3707987997079009010:" mode="sparql">#
+#  what can SPARQL tell me about a team?
+#  show me all triples where the first soccer player is the subject
+#
+
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+
+select ?s ?p ?o
+where
+{ 
+  ?s ?p ?o .
+  { select ?s where { ?s a dbont:SoccerClub } limit 1 }
+}</query><query name="all-about-matches" focus="true" active="true" content-source="as:3707987997079009010:" mode="sparql">#
+#  what can SPARQL tell me about a match?
+#  show me all triples where the first match is the subject
+#
+
+
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+
+select ?s ?p ?o
+where
+{ 
+  ?s ?p ?o .
+  { select ?s where { ?s a dbont:FootballMatch } limit 1 }
+}</query><query name="exp-dbp-mexico-1" focus="false" active="true" content-source="as:3707987997079009010:" mode="sparql">#
+# explore Mexico dbpedia dataset
+# show triples with Mexico_national_football_team as subject or object
+#
+# 
+#
+
+select ?s ?p ?o 
+where { 
+    ?s ?p ?o 
+    FILTER ( (?s=&lt;http://dbpedia.org/resource/Mexico_national_football_team&gt;) || (?o=&lt;http://dbpedia.org/resource/Mexico_national_football_team&gt;) )
+    }
+  order by ?s
+</query><query name="exp-wfb-mexico-1" focus="true" active="true" content-source="as:3707987997079009010:" mode="sparql">#
+# explore Mexico wfb dataset
+# show triples with MX as subject or object
+#
+# 
+#
+
+select ?s ?p ?o 
+where { 
+  ?s ?p ?o
+     filter ( ?s=&lt;http://www.daml.org/2001/09/countries/fips#MX&gt; || ?o=&lt;http://www.daml.org/2001/09/countries/fips#MX&gt; )
+  }
+  order by ?s</query><query name="wfb-adhoc-query" focus="false" active="true" content-source="as:3707987997079009010:" mode="xquery">(:
+#
+#  Call out to the CIA World FactBook SPARQL endpoint
+#  query for the first 10 triples
+#  Note: to insert the results into the database, use CONSTRUCT (CONSTRUCT returns triples, not solutions)
+#
+#  Requires a network connection
+#
+#  Hint: some interesting factbook predicates:
+#    - &lt;http://wifo5-04.informatik.uni-mannheim.de/factbook/ns#climate&gt; - climate of a country
+#    - &lt;http://www.daml.org/2001/12/factbook/factbook-ont#internationalDispute&gt; - international disputes a country is involved in
+#
+:)
+
+let $sparql := '
+select ?s ?p ?o where { ?s ?p ?o } limit 10
+'
+
+let $sparql-url-encoded :=
+  xdmp:url-encode( $sparql )
+  
+let $endpoint :=
+  'http://wifo5-04.informatik.uni-mannheim.de/factbook/sparql'
+  
+let $url :=
+  fn:concat(
+    $endpoint,
+    "?query=",
+    $sparql-url-encoded
+    )
+
+
+return 
+  xdmp:http-get( $url )</query><query name="wfb-adhoc-query-j" focus="false" active="true" content-source="as:3707987997079009010:" mode="javascript">/*
+#
+#  Call out to the CIA World FactBook SPARQL endpoint
+#  query for the first 10 triples
+#  Note: to insert the results into the database, use CONSTRUCT (CONSTRUCT returns triples, not solutions)
+#
+#  Requires a network connection
+#
+#  Hint: some interesting factbook predicates:
+#    - &lt;http://wifo5-04.informatik.uni-mannheim.de/factbook/ns#climate&gt; - climate of a country
+#    - &lt;http://www.daml.org/2001/12/factbook/factbook-ont#internationalDispute&gt; - international disputes a country is involved in
+#
+*/
+
+var sparql = ' select ?s ?p ?o where { ?s ?p ?o } limit 10 ' ;
+
+var sparqlUrlEncoded =
+  xdmp.urlEncode( sparql ) ;
+  
+var endpoint =
+  'http://wifo5-04.informatik.uni-mannheim.de/factbook/sparql' ;
+  
+var url =
+  fn.concat(
+    endpoint,
+    "?query=",
+    sparqlUrlEncoded
+    ) ;
+
+
+  xdmp.httpGet( url ) ;</query><query name="dbpedia-adhoc-query" focus="false" active="true" content-source="as:3707987997079009010:" mode="xquery">(:
+#
+#  Call out to the dbpedia SPARQL endpoint
+#  query for the first 10 triples about te Mexico national football team
+#  Note: to insert the results into the database, use CONSTRUCT (CONSTRUCT returns triples, not solutions)
+#
+:)
+
+let $sparql := '
+PREFIX : &lt;http://dbpedia.org/resource/&gt;
+select ?p ?o where { :Mexico_national_football_team ?p ?o } limit 10
+'
+
+let $sparql-url-encoded :=
+  xdmp:url-encode( $sparql )
+  
+let $endpoint :=
+  'http://dbpedia.org/sparql'
+  
+let $url :=
+  fn:concat(
+    $endpoint,
+    "?query=",
+    $sparql-url-encoded
+    )
+
+
+return 
+  xdmp:http-get( $url )</query><query name="dbpedia-adhoc-query-j" focus="false" active="true" content-source="as:3707987997079009010:" mode="javascript">/*
+#
+#  Call out to the dbpedia SPARQL endpoint
+#  query for the first 10 triples about the Mexico national football team
+#  Note: to insert the results into the database, use CONSTRUCT (CONSTRUCT returns triples, not solutions)
+#
+*/
+
+var sparql = '\
+PREFIX : &lt;http://dbpedia.org/resource/&gt;                                \
+select ?p ?o where { :Mexico_national_football_team ?p ?o } limit 10   \
+' ;
+
+var sparqlUrlEncoded =
+  xdmp.urlEncode( sparql ) ;
+  
+var endpoint =
+  'http://dbpedia.org/sparql' ;
+  
+var url =
+  fn.concat(
+    endpoint,
+    "?query=",
+    sparqlUrlEncoded
+    ) ;
+
+
+  xdmp.httpGet( url ) ;</query><query name="BONUS-1" focus="false" active="true" content-source="as:3707987997079009010:" mode="javascript">// Using XQuery or JavaScript, go to some SPARQL endpoint and load some triples into MarkLogic
+// The endpoint could be dbpedia or World factbook; or geonames; or one that you find via Google
+//</query></workspace></export>

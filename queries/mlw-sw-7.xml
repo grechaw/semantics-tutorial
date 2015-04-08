@@ -1,0 +1,318 @@
+<export><workspace name="mlw-sw-7"><query name="sandbox" focus="true" active="true" mode="xquery">(:
+#
+# Query 7 - annotate triples with generic metadata
+#
+# Things to note
+#           Since triples are stored in documents (XML or JSON) you can annotate any collection of triples
+#           using the full expressive power of XML or JSON, and use those annotations to restrict a SPARQL query.
+#     
+:)
+</query><query name="q-7-annotate" focus="false" active="true" mode="xquery">(:
+#
+# Query 7 - annotate triples with generic metadata
+#
+# Things to note
+#           Since triples are stored in documents (XML or JSON) you can annotate any collection of triples
+#           using the full expressive power of XML or JSON, and use those annotations to restrict a SPARQL query.
+#     
+:)
+
+xdmp:document-insert(
+  "Beckham-1.xml",
+  &lt;doc&gt;
+    &lt;dbpedia&gt;http://dbpedia.org/resource/David_Beckham&lt;/dbpedia&gt;
+    &lt;reported-by&gt;
+      &lt;publication&gt;Daily Mail&lt;/publication&gt;
+      &lt;ref&gt;http://dailym.ai/1MOQGEF&lt;/ref&gt;
+      &lt;reported-date&gt;{ xs:date("2015-03-16") }&lt;/reported-date&gt;
+    &lt;/reported-by&gt;
+    &lt;confidence&gt;75&lt;/confidence&gt;
+    { sem:triple( sem:iri("http://dbpedia.org/resource/David_Beckham"), sem:iri("http://example.com/earnings"), 50500000 ) }
+    { sem:triple( sem:iri("http://dbpedia.org/resource/David_Beckham"), sem:iri("http://example.com/earningsRank"), 2 ) }
+    &lt;currency&gt;pounds&lt;/currency&gt;
+    &lt;source&gt;Forbes&lt;/source&gt;
+  &lt;/doc&gt; ) ;
+  
+xdmp:document-insert(
+  "Jordan-1.xml",
+  &lt;doc&gt;
+    &lt;dbpedia&gt;http://dbpedia.org/resource/Michael_Jordan&lt;/dbpedia&gt;
+    &lt;reported-by&gt;
+      &lt;publication&gt;Forbes on-line&lt;/publication&gt;
+      &lt;ref&gt;http://onforb.es/1GqttH6&lt;/ref&gt;
+      &lt;reported-date&gt;{ xs:date("2015-03-01") }&lt;/reported-date&gt;
+    &lt;/reported-by&gt;
+    &lt;confidence&gt;100&lt;/confidence&gt;
+    { sem:triple( sem:iri("http://dbpedia.org/resource/Michael_Jordan"), sem:iri("http://example.com/earnings"), 100000000 ) }
+    { sem:triple( sem:iri("http://dbpedia.org/resource/Michael_Jordan"), sem:iri("http://example.com/earningsRank"), 1 ) }
+    &lt;currency&gt;dollars&lt;/currency&gt;
+    &lt;source&gt;Forbes&lt;/source&gt;
+  &lt;/doc&gt; ) ;
+  
+
+fn:doc( "Jordan-1.xml" ); 
+
+fn:doc( "Beckham-1.xml" ) ;
+
+    </query><query name="sandbox" focus="false" active="true" mode="xquery">(:
+#
+# Query 7 - combination query (annotated triples). Annotate triples so you can query on their properties.
+#            - find the document that matches a triple pattern
+#            - restrict a SPARQL query by properties of the triples (properties of the document it's in)
+# q-7-a   - find all earnings and rankings (cts:query is blank)
+#           Requires Beckham-1.xml, Jordan-1.xml
+#
+# User query:  
+#
+# Things to note
+#     
+#Author notes
+#strip language tags from data for simplicity?
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
+</query><query name="q-7-a" focus="false" active="true" mode="xquery">(:
+#
+# Query 7 - combination query (annotated triples). Annotate triples so you can query on their properties.
+#            - find the document that matches a triple pattern
+#            - restrict a SPARQL query by properties of the triples (properties of the document it's in)
+# q-7-a   - find all earnings and rankings (cts:query is blank)
+#           Requires Beckham-1.xml, Jordan-1.xml
+#
+# User query:  
+#
+# Things to note
+#     
+#Author notes
+#strip language tags from data for simplicity?
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
+
+let $sparql := '
+  select ?name ?p ?value 
+  where { 
+    ?name ?p ?value 
+    FILTER ( (?p=&lt;http://example.com/earnings&gt;) || (?p=&lt;http://example.com/earningsRank&gt;) )
+    } 
+  order by ?name
+  '
+
+let $cts-query := ()
+
+(: run a SPARQL query, restricted by a cts query (a document/metadata query). Return the person, earnings, ranking :)  
+let $result :=
+  sem:sparql(
+    $sparql,
+    (), (),
+    $cts-query (: the sem:store here is just a cts:query, but it could include other stuff such as inference :)
+    )
+return $result
+</query><query name="sandbox" focus="false" active="true" mode="javascript">/*
+#
+# Query 7 - combination query (annotated triples). Annotate triples so you can query on their properties.
+#            - find the document that matches a triple pattern
+#            - restrict a SPARQL query by properties of the triples (properties of the document it's in)
+# q-7-a   - find all earnings and rankings
+#           Requires Beckham-1.xml, Jordan-1.xml
+#
+# User query:  
+#
+# Things to note
+#     
+#Author notes
+#strip language tags from data for simplicity?
+*/
+</query><query name="q-7-a-j" focus="false" active="true" mode="javascript">/*
+#
+# Query 7 - combination query (annotated triples). Annotate triples so you can query on their properties.
+#            - find the document that matches a triple pattern
+#            - restrict a SPARQL query by properties of the triples (properties of the document it's in)
+# q-7-a   - find all earnings and rankings
+#           Requires Beckham-1.xml, Jordan-1.xml
+#
+# User query:  
+#
+# Things to note
+#     
+#Author notes
+#strip language tags from data for simplicity?
+*/
+
+var sparql = '\
+  select ?name ?p ?value  \
+  where {                 \
+    ?name ?p ?value       \
+    FILTER ( (?p=&lt;http://example.com/earnings&gt;) || (?p=&lt;http://example.com/earningsRank&gt;) )  \
+    }                     \
+  order by ?name          \
+  ' ;
+
+var ctsQuery = [] ;
+
+// run a SPARQL query, restricted by a cts query (a document/metadata query). Return the person, earnings, ranking 
+var result =
+  sem.sparql(
+    sparql,
+    [], [],
+    ctsQuery // the sem.store here is just a cts.query, but it could include other stuff such as inference
+    )
+
+result
+</query><query name="sandbox" focus="false" active="true" mode="xquery">(:
+#
+# Query 7 - combination query (annotated triples). Annotate triples so you can query on their properties.
+#            - find the document that matches a triple pattern
+#            - restrict a SPARQL query by properties of the triples (properties of the document it's in)
+# q-7-b   - find all earnings and rankings from a reliable source, where we have at least 70% confidence, published after Jan 2015
+#           Requires Beckham-1.xml, Jordan-1.xml
+#           Requires a date range index on reported-date
+#           Requires a integer range index on confidence
+#
+# User query:  
+#
+# Things to note
+#          We got back only triples that matched the SPARQL query AND whose document metadata matched the cts:query
+#          How else we could use this?
+#          - provenance, confidence, timestamps, bitemporal
+#     
+#Author notes
+#strip language tags from data for simplicity?
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
+
+declare namespace data = "http://wmdemo.ml.com/data" ;
+</query><query name="q-7-b" focus="false" active="true" mode="xquery">(:
+#
+# Query 7 - combination query (annotated triples). Annotate triples so you can query on their properties.
+#            - find the document that matches a triple pattern
+#            - restrict a SPARQL query by properties of the triples (properties of the document it's in)
+# q-7-b   - find all earnings and rankings from a reliable source, where we have at least 70% confidence, published after Jan 2015
+#           Requires Beckham-1.xml, Jordan-1.xml
+#           Requires a date range index on reported-date
+#           Requires a integer range index on confidence
+#
+# User query:  
+#
+# Things to note
+#          We got back only triples that matched the SPARQL query AND whose document metadata matched the cts:query
+#          How else we could use this?
+#          - provenance, confidence, timestamps, bitemporal
+#     
+#Author notes
+#strip language tags from data for simplicity?
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
+
+declare namespace data = "http://wmdemo.ml.com/data" ;
+
+let $sparql := '
+  select ?name ?p ?value 
+  where { 
+    ?name ?p ?value 
+    FILTER ( (?p=&lt;http://example.com/earnings&gt;) || (?p=&lt;http://example.com/earningsRank&gt;) )
+    } 
+  order by ?name
+  '
+
+(: I'm only interested in a reliable publication, where we have more than 70% confidence, published after Jan 2015 :)
+let $publication := ("Forbes on-line", "WSJ", "Bloomberg")
+let $date := xs:date("2015-01-01")
+let $confidence := 70
+let $cts-query := 
+  cts:and-query( (
+    cts:element-value-query( xs:QName("publication"), $publication ),
+    cts:element-range-query( xs:QName("reported-date"), "&gt;", $date ),
+    cts:element-range-query( xs:QName("confidence"), "&gt;", $confidence ) )
+    )
+
+(: run a SPARQL query, restricted by a cts query (a document/metadata query). Return the person, earnings, ranking :)  
+let $result :=
+  sem:sparql(
+    $sparql,
+    (), (),
+    $cts-query (: the sem:store here is just a cts:query, but it could include other stuff such as inference :)
+    )
+return $result
+</query><query name="sandbox" focus="false" active="true" mode="javascript">/*
+#
+# Query 7 - combination query (annotated triples). Annotate triples so you can query on their properties.
+#            - find the document that matches a triple pattern
+#            - restrict a SPARQL query by properties of the triples (properties of the document it's in)
+# q-7-b   - find all earnings and rankings from a reliable source, where we have at least 70% confidence, published after Jan 2015
+#           Requires Beckham-1.xml, Jordan-1.xml
+#           Requires a date range index on reported-date
+#           Requires a integer range index on confidence
+#
+# User query:  
+#
+# Things to note
+#     
+#Author notes
+#
+*/
+</query><query name="q-7-b-j" focus="false" active="true" mode="javascript">/*
+#
+# Query 7 - combination query (annotated triples). Annotate triples so you can query on their properties.
+#            - find the document that matches a triple pattern
+#            - restrict a SPARQL query by properties of the triples (properties of the document it's in)
+# q-7-b   - find all earnings and rankings from a reliable source, where we have at least 70% confidence, published after Jan 2015
+#           Requires Beckham-1.xml, Jordan-1.xml
+#           Requires a date range index on reported-date
+#           Requires a integer range index on confidence
+#
+# User query:  
+#
+# Things to note
+#     
+#Author notes
+#
+*/
+
+var sparql = '\
+  select ?name ?p ?value  \
+  where {                 \
+    ?name ?p ?value       \
+    FILTER ( (?p=&lt;http://example.com/earnings&gt;) || (?p=&lt;http://example.com/earningsRank&gt;) ) \
+    }                     \
+  order by ?name          \
+  '
+
+// I'm only interested in a reliable source, where we have more than 70% confidence, published after Jan 2015 
+var publication = ["forbes on-line", "WSJ", "Bloomberg"]
+var date = xs.date("2015-01-01")
+var confidence = 70
+var ctsQuery = 
+  cts.andQuery( [
+    cts.elementValueQuery( xs.QName("publication"), publication ),
+    cts.elementRangeQuery( xs.QName("reported-date"), "&gt;", date ),
+    cts.elementRangeQuery( xs.QName("confidence"), "&gt;", confidence ) ]
+    )
+
+// run a SPARQL query, restricted by a cts query (a document/metadata query). Return the person, earnings, ranking   
+var result =
+  sem.sparql(
+   sparql,
+    [], [],
+    ctsQuery // the sem:store here is just a cts:query, but it could include other stuff such as inference 
+    )
+
+result
+
+</query><query name="q-7-BONUS-1" focus="false" active="true" mode="xquery">(:
+#
+# Query 7 - combination query (annotated triples). Annotate triples so you can query on their properties.
+# q-7-BONUS-1   - show how you can do bitemporal SPARQL by embedding triples in a bitemporal document
+#
+:)</query><query name="BONUS-1-j" focus="false" active="true" mode="xquery">/*
+#
+# Query 7 - combination query (annotated triples). Annotate triples so you can query on their properties.
+# q-7-BONUS-1   - show how you can do bitemporal SPARQL by embedding triples in a bitemporal document
+#
+*/</query></workspace></export>

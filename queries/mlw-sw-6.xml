@@ -1,0 +1,851 @@
+<export><workspace name="mlw-sw-6"><query name="sandbox" focus="true" active="true" mode="xquery">(:
+# enrich a match report - show injuries as triples
+#
+# If the query fails, check out PATCH-add-matches to add the documents you're enriching
+#
+:)
+
+import module namespace sem = "http://marklogic.com/semantics" at "MarkLogic/semantics.xqy";
+</query><query name="q-6-enrich" focus="false" active="true" mode="xquery">(:
+# enrich a match report - show injuries as triples
+#
+# If the query fails, check out PATCH-add-matches to add the documents you're enriching
+#
+:)
+
+import module namespace sem = "http://marklogic.com/semantics" at "MarkLogic/semantics.xqy";
+
+xdmp:node-insert-after(
+  fn:doc( "/matches/2010_FIFA_WORLD_CUP_special_1.xml" )/match/goals ,
+  &lt;sem:triples&gt;{
+  (
+  sem:triple( 
+    sem:iri( 'http://dbpedia.org/resource/F%C3%A1bio_Coentr%C3%A3o' ), 
+    sem:iri( 'http://example.com/hasInjury' ), 
+    'Hamstring'
+    ),
+  sem:triple( 
+    sem:iri( 'http://dbpedia.org/resource/Mats_Hummels' ), 
+    sem:iri( 'http://example.com/hasInjury' ), 
+    'Knee'
+    )
+  )
+  }
+  &lt;/sem:triples&gt;
+  
+)</query><query name="check-enrich-doc" focus="false" active="true" mode="xquery">(:
+# check enrichment - show the document
+#
+:)
+
+xquery version "1.0-ml";
+
+fn:doc( "/matches/2010_FIFA_WORLD_CUP_special_1.xml" )</query><query name="sandbox" focus="false" active="true" mode="sparql">
+#
+# check enrichment - show the triples
+#
+
+</query><query name="check-enrich-sparql" focus="false" active="true" mode="sparql">
+#
+# check enrichment - show the triples
+#
+
+  select ?s ?p ?o where { ?s ?p ?o filter (?p=&lt;http://example.com/hasInjury&gt;) }</query><query name="sandbox" focus="false" active="true" mode="xquery">(:
+#
+# Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
+#            - restrict a SPARQL query by properties of the document it's in
+#            - find the document that matches a triple pattern
+# q-6-a   - find all the injuries that happened in a high-scoring match.
+#           The match report must mention "hat-trick", and the metadata must show at least 4 goals
+#           Requires enrichment - see q-6-enrich
+#           Requires a range index on goals
+#           Requires the phrase "hat-trick" in the text.
+#
+# The match report at /matches/2010_FIFA_WORLD_CUP_special_1.xml includes the text:
+#
+Ailing striker Hugo Almeida quit
+the pitch after a collision with Mats Hummels and was replaced by
+Guinea-Bissau-born new boy Eder, just 21. If got worse for
+Portugal, too, when just after the
+hour-mark, Mats Hummels rose higher than anyone in the
+penalty area to head home from a corner.
+Things didn’t get much better in the second-half. Mid-way through
+the period, creative midfielder Fabio Coentrao pulled up with a
+hamstring injury and had to be carried off on a stretcher. It
+looked the kind injury that won’t heal in short order. Not long
+after, German defender and scorer Hummels was also helped off the
+pitch after damaging his knee. It didn’t keep the Germans from
+scoring again, however, and 12 minutes from time Muller completed
+his hat-trick – the first of these finals – to make it 4-0.
+# 
+# Suppose we have a way to enrich each document with information about injuries - the player, and the type of injury.
+# We can add that enrichment information to the document (see q-6-enrich).
+# Then we can do a combination query, querying the triples and document together.
+# 
+#
+# Things to note:
+#            The triples embedded in the match report can be queried along with other triples using SPARQL.
+#            In addition, we can restrict a SPARQL query to documents that match an *arbitrary* cts:query
+#            - this can include full-text search, structure queries, range queries, geospatial, even bitemporal
+#
+#            Why is this useful?
+#            - query across all injuries with the full power of SPARQL
+#            - optionally restrict the query using the *context* - where did this fact appear?
+#     
+#Author notes
+# dummy match reports at /matches/2010_FIFA_WORLD_CUP_special_1 and /matches/2010_FIFA_WORLD_CUP_special_2
+# - see query PATCH_add-matches
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
+</query><query name="q-6-a" focus="false" active="true" mode="xquery">(:
+#
+# Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
+#            - restrict a SPARQL query by properties of the document it's in
+#            - find the document that matches a triple pattern
+# q-6-a   - find all the injuries that happened in a high-scoring match.
+#           The match report must mention "hat-trick", and the metadata must show at least 4 goals
+#           Requires enrichment - see q-6-enrich
+#           Requires a range index on goals
+#           Requires the phrase "hat-trick" in the text.
+#
+# The match report at /matches/2010_FIFA_WORLD_CUP_special_1.xml includes the text:
+#
+Ailing striker Hugo Almeida quit
+the pitch after a collision with Mats Hummels and was replaced by
+Guinea-Bissau-born new boy Eder, just 21. If got worse for
+Portugal, too, when just after the
+hour-mark, Mats Hummels rose higher than anyone in the
+penalty area to head home from a corner.
+Things didn’t get much better in the second-half. Mid-way through
+the period, creative midfielder Fabio Coentrao pulled up with a
+hamstring injury and had to be carried off on a stretcher. It
+looked the kind injury that won’t heal in short order. Not long
+after, German defender and scorer Hummels was also helped off the
+pitch after damaging his knee. It didn’t keep the Germans from
+scoring again, however, and 12 minutes from time Muller completed
+his hat-trick – the first of these finals – to make it 4-0.
+# 
+# Suppose we have a way to enrich each document with information about injuries - the player, and the type of injury.
+# We can add that enrichment information to the document (see q-6-enrich).
+# Then we can do a combination query, querying the triples and document together.
+# 
+#
+# Things to note:
+#            The triples embedded in the match report can be queried along with other triples using SPARQL.
+#            In addition, we can restrict a SPARQL query to documents that match an *arbitrary* cts:query
+#            - this can include full-text search, structure queries, range queries, geospatial, even bitemporal
+#
+#            Why is this useful?
+#            - query across all injuries with the full power of SPARQL
+#            - optionally restrict the query using the *context* - where did this fact appear?
+#     
+#Author notes
+# dummy match reports at /matches/2010_FIFA_WORLD_CUP_special_1 and /matches/2010_FIFA_WORLD_CUP_special_2
+# - see query PATCH_add-matches
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
+
+(: some arbitrary SPARQL :)
+let $sparql :='
+              select * where { ?s &lt;http://example.com/hasInjury&gt; ?o }
+              ' 
+(: some arbitrary query :)
+let $cts-query :=
+  cts:and-query( (
+    cts:word-query( "hat" ),
+    cts:element-range-query( xs:QName("goals"), "&gt;=", 4)
+    ))
+    
+(: run a SPARQL query, restricted by a cts query (a document/metadata query). Return the player and the injury. :)  
+let $injury :=
+  sem:sparql(
+    $sparql,
+    (), (),
+    $cts-query (: the sem:store here is just a cts:query, but it could include other stuff such as inference :)
+    )
+
+return $injury
+</query><query name="sandbox" focus="false" active="true" mode="javascript">/*
+#
+# Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
+#            - restrict a SPARQL query by properties of the document it's in
+#            - find the document that matches a triple pattern
+# q-6-a   - find all the injuries that happened in a high-scoring match.
+#           The match report must mention "hat-trick", and the metadata must show at least 4 goals
+#           Requires enrichment - see q-6-enrich
+#           Requires a range index on goals
+#           Requires the phrase "hat-trick" in the text.
+#
+# The match report at /matches/2010_FIFA_WORLD_CUP_special_1 includes the text:
+#
+Ailing striker Hugo Almeida quit
+the pitch after a collision with Mats Hummels and was replaced by
+Guinea-Bissau-born new boy Eder, just 21. If got worse for
+Portugal, too, when just after the
+hour-mark, Mats Hummels rose higher than anyone in the
+penalty area to head home from a corner.
+Things didn’t get much better in the second-half. Mid-way through
+the period, creative midfielder Fabio Coentrao pulled up with a
+hamstring injury and had to be carried off on a stretcher. It
+looked the kind injury that won’t heal in short order. Not long
+after, German defender and scorer Hummels was also helped off the
+pitch after damaging his knee. It didn’t keep the Germans from
+scoring again, however, and 12 minutes from time Muller completed
+his hat-trick – the first of these finals – to make it 4-0.
+# 
+# Suppose we have a way to enrich each document with information about injuries - the player, and the type of injury.
+# We can add that enrichment information to the document (see q-6-enrich).
+# Then we can do a combination query, querying the triples and document together.
+# 
+#
+# Things to note:
+#            The triples embedded in the match report can be queried along with other triples using SPARQL.
+#            In addition, we can restrict a SPARQL query to documents that match an *arbitrary* cts:query
+#            - this can include full-text search, structure queries, range queries, geospatial, even bitemporal
+#
+#            Why is this useful?
+#            - query across all injuries with the full power of SPARQL
+#            - optionally restrict the query using the *context* - where did this fact appear?
+#     
+#Author notes
+# dummy match reports at /matches/2010_FIFA_WORLD_CUP_special_1 and /matches/2010_FIFA_WORLD_CUP_special_2
+# - see workspace mlw-data-changes-1 , query add-matches
+*/
+</query><query name="q-6-a-j" focus="false" active="true" mode="javascript">/*
+#
+# Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
+#            - restrict a SPARQL query by properties of the document it's in
+#            - find the document that matches a triple pattern
+# q-6-a   - find all the injuries that happened in a high-scoring match.
+#           The match report must mention "hat-trick", and the metadata must show at least 4 goals
+#           Requires enrichment - see q-6-enrich
+#           Requires a range index on goals
+#           Requires the phrase "hat-trick" in the text.
+#
+# The match report at /matches/2010_FIFA_WORLD_CUP_special_1 includes the text:
+#
+Ailing striker Hugo Almeida quit
+the pitch after a collision with Mats Hummels and was replaced by
+Guinea-Bissau-born new boy Eder, just 21. If got worse for
+Portugal, too, when just after the
+hour-mark, Mats Hummels rose higher than anyone in the
+penalty area to head home from a corner.
+Things didn’t get much better in the second-half. Mid-way through
+the period, creative midfielder Fabio Coentrao pulled up with a
+hamstring injury and had to be carried off on a stretcher. It
+looked the kind injury that won’t heal in short order. Not long
+after, German defender and scorer Hummels was also helped off the
+pitch after damaging his knee. It didn’t keep the Germans from
+scoring again, however, and 12 minutes from time Muller completed
+his hat-trick – the first of these finals – to make it 4-0.
+# 
+# Suppose we have a way to enrich each document with information about injuries - the player, and the type of injury.
+# We can add that enrichment information to the document (see q-6-enrich).
+# Then we can do a combination query, querying the triples and document together.
+# 
+#
+# Things to note:
+#            The triples embedded in the match report can be queried along with other triples using SPARQL.
+#            In addition, we can restrict a SPARQL query to documents that match an *arbitrary* cts:query
+#            - this can include full-text search, structure queries, range queries, geospatial, even bitemporal
+#
+#            Why is this useful?
+#            - query across all injuries with the full power of SPARQL
+#            - optionally restrict the query using the *context* - where did this fact appear?
+#     
+#Author notes
+# dummy match reports at /matches/2010_FIFA_WORLD_CUP_special_1 and /matches/2010_FIFA_WORLD_CUP_special_2
+# - see workspace mlw-data-changes-1 , query add-matches
+*/
+
+// some arbitrary SPARQL 
+var sparql =' select * where { ?s &lt;http://example.com/hasInjury&gt; ?o } ' 
+    
+// some arbitrary query 
+var ctsQuery =
+  cts.andQuery( (
+    cts.wordQuery( "hat" ),
+    cts.elementRangeQuery( xs.QName("goals"), "&gt;=", 4)
+    ))
+    
+// run a SPARQL query, restricted by a cts query (a document/metadata query). Return the player and the injury.
+var injury =
+  sem.sparql(
+    sparql,
+    [], [],
+    ctsQuery // the sem:store here is just a cts:query, but it could include other stuff such as inference
+    )
+
+ injury
+</query><query name="sandbox" focus="false" active="true" mode="xquery">(:
+#
+# Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
+#            - find the document that matches a triple pattern
+#            - restrict a SPARQL query by properties of the document it's in
+# q-6-b   - find *the document* for the match where some injury happened.
+#           Requires enrichment - see q-6-enrich
+#           HINT: use cts:triple-range-query() (cts.tripleRangeQuery()).
+#
+# The match report at /matches/2010_FIFA_WORLD_CUP_special_1.xml includes the text:
+#
+Ailing striker Hugo Almeida quit
+the pitch after a collision with Mats Hummels and was replaced by
+Guinea-Bissau-born new boy Eder, just 21. If got worse for
+Portugal, too, when just after the
+hour-mark, Mats Hummels rose higher than anyone in the
+penalty area to head home from a corner.
+Things didn’t get much better in the second-half. Mid-way through
+the period, creative midfielder Fabio Coentrao pulled up with a
+hamstring injury and had to be carried off on a stretcher. It
+looked the kind injury that won’t heal in short order. Not long
+after, German defender and scorer Hummels was also helped off the
+pitch after damaging his knee. It didn’t keep the Germans from
+scoring again, however, and 12 minutes from time Muller completed
+his hat-trick – the first of these finals – to make it 4-0.
+#
+# Suppose we have a way to enrich each document with information about injuries - the player, and the type of injury.
+# We can add that enrichment information to the document (see q-6-enrich).
+# Then we can do a combination query, querying the triples and document together.
+#
+# User query:  
+#
+# Things to note
+#          A lot of "search" is about making the unstructured (free-flowing full-text) into structured (metadata, entities, triples).
+#          But you can't ever extract every piece of data that's expressed or implied by a piece of text.
+#          With this query we find the *match document* that describes the match where the injury took place.
+#          By browsing the text and the metadata we can find out things like 
+#          * where in the game did this injury occur?
+#          * did it occur alongside other injuries?
+#          * how serious was the injury? ("It looked the kind of injury that won’t heal in short order")
+#          * did the injury occur during play, or off-play?
+#          * did the injury affect the outcome of the game? How much?
+#          * what else did the report say about the injured players? Were they playing well before the injury?
+#          One can imagine extracting metadata/triples for each of these (such as "where in the game did the injury occur?")
+#          But it would be extremely onerous to extract all possible metadata - and even then, you wouldn't capture value judgements
+#          such as "did the injury affect the outcome of the game? How much?"
+#     
+#Author notes
+#
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
+</query><query name="q-6-b" focus="false" active="true" mode="xquery">(:
+#
+# Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
+#            - find the document that matches a triple pattern
+#            - restrict a SPARQL query by properties of the document it's in
+# q-6-b   - find *the document* for the match where some injury happened.
+#           Requires enrichment - see q-6-enrich
+#           HINT: use cts:triple-range-query() (cts.tripleRangeQuery()).
+#
+# The match report at /matches/2010_FIFA_WORLD_CUP_special_1.xml includes the text:
+#
+Ailing striker Hugo Almeida quit
+the pitch after a collision with Mats Hummels and was replaced by
+Guinea-Bissau-born new boy Eder, just 21. If got worse for
+Portugal, too, when just after the
+hour-mark, Mats Hummels rose higher than anyone in the
+penalty area to head home from a corner.
+Things didn’t get much better in the second-half. Mid-way through
+the period, creative midfielder Fabio Coentrao pulled up with a
+hamstring injury and had to be carried off on a stretcher. It
+looked the kind injury that won’t heal in short order. Not long
+after, German defender and scorer Hummels was also helped off the
+pitch after damaging his knee. It didn’t keep the Germans from
+scoring again, however, and 12 minutes from time Muller completed
+his hat-trick – the first of these finals – to make it 4-0.
+#
+# Suppose we have a way to enrich each document with information about injuries - the player, and the type of injury.
+# We can add that enrichment information to the document (see q-6-enrich).
+# Then we can do a combination query, querying the triples and document together.
+#
+# User query:  
+#
+# Things to note
+#          A lot of "search" is about making the unstructured (free-flowing full-text) into structured (metadata, entities, triples).
+#          But you can't ever extract every piece of data that's expressed or implied by a piece of text.
+#          With this query we find the *match document* that describes the match where the injury took place.
+#          By browsing the text and the metadata we can find out things like 
+#          * where in the game did this injury occur?
+#          * did it occur alongside other injuries?
+#          * how serious was the injury? ("It looked the kind of injury that won’t heal in short order")
+#          * did the injury occur during play, or off-play?
+#          * did the injury affect the outcome of the game? How much?
+#          * what else did the report say about the injured players? Were they playing well before the injury?
+#          One can imagine extracting metadata/triples for each of these (such as "where in the game did the injury occur?")
+#          But it would be extremely onerous to extract all possible metadata - and even then, you wouldn't capture value judgements
+#          such as "did the injury affect the outcome of the game? How much?"
+#     
+#Author notes
+#
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
+
+(: construct a cts:query to look for a triple; note you could include a match pattern here, or a range match against the object - here we're looking for a fully-specified triple  :)
+let $cts-query :=
+  cts:triple-range-query(
+    sem:iri( "http://dbpedia.org/resource/Mats_Hummels" ),
+    sem:iri( "http://example.com/hasInjury" ),
+    "Knee"
+    )
+  
+(: Find an embedded triple that matches $cts-query, and return the document that it's embedded in :)
+let $doc :=
+  cts:search( fn:collection(), $cts-query )
+return $doc
+</query><query name="sandbox" focus="false" active="true" mode="javascript">/*
+#
+# Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
+#            - find the document that matches a triple pattern
+#            - restrict a SPARQL query by properties of the document it's in
+# q-6-b   - find *the document* for the match where some injury happened.
+#           Requires enrichment - see q-6-enrich
+#           HINT: use cts:triple-range-query() (cts.tripleRangeQuery()).
+#
+# The match report at /matches/2010_FIFA_WORLD_CUP_special_1.xml includes the text:
+#
+Ailing striker Hugo Almeida quit
+the pitch after a collision with Mats Hummels and was replaced by
+Guinea-Bissau-born new boy Eder, just 21. If got worse for
+Portugal, too, when just after the
+hour-mark, Mats Hummels rose higher than anyone in the
+penalty area to head home from a corner.
+Things didn’t get much better in the second-half. Mid-way through
+the period, creative midfielder Fabio Coentrao pulled up with a
+hamstring injury and had to be carried off on a stretcher. It
+looked the kind injury that won’t heal in short order. Not long
+after, German defender and scorer Hummels was also helped off the
+pitch after damaging his knee. It didn’t keep the Germans from
+scoring again, however, and 12 minutes from time Muller completed
+his hat-trick – the first of these finals – to make it 4-0.
+#
+# Suppose we have a way to enrich each document with information about injuries - the player, and the type of injury.
+# We can add that enrichment information to the document (see q-6-enrich).
+# Then we can do a combination query, querying the triples and document together.
+#
+# User query:  
+#
+# Things to note
+#          A lot of "search" is about making the unstructured (free-flowing full-text) into structured (metadata, entities, triples).
+#          But you can't ever extract every piece of data that's expressed or implied by a piece of text.
+#          With this query we find the *match document* that describes the match where the injury took place.
+#          By browsing the text and the metadata we can find out things like 
+#          * where in the game did this injury occur?
+#          * did it occur alongside other injuries?
+#          * how serious was the injury? ("It looked the kind of injury that won’t heal in short order")
+#          * did the injury occur during play, or off-play?
+#          * did the injury affect the outcome of the game? How much?
+#          * what else did the report say about the injured players? Were they playing well before the injury?
+#          One can imagine extracting metadata/triples for each of these (such as "where in the game did the injury occur?")
+#          But it would be extremely onerous to extract all possible metadata - and even then, you wouldn't capture value judgements
+#          such as "did the injury affect the outcome of the game? How much?"
+#     
+#Author notes
+#
+*/
+</query><query name="q-6-b-j" focus="false" active="true" mode="javascript">/*
+#
+# Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
+#            - find the document that matches a triple pattern
+#            - restrict a SPARQL query by properties of the document it's in
+# q-6-b   - find *the document* for the match where some injury happened.
+#           Requires enrichment - see q-6-enrich
+#           HINT: use cts:triple-range-query() (cts.tripleRangeQuery()).
+#
+# The match report at /matches/2010_FIFA_WORLD_CUP_special_1.xml includes the text:
+#
+Ailing striker Hugo Almeida quit
+the pitch after a collision with Mats Hummels and was replaced by
+Guinea-Bissau-born new boy Eder, just 21. If got worse for
+Portugal, too, when just after the
+hour-mark, Mats Hummels rose higher than anyone in the
+penalty area to head home from a corner.
+Things didn’t get much better in the second-half. Mid-way through
+the period, creative midfielder Fabio Coentrao pulled up with a
+hamstring injury and had to be carried off on a stretcher. It
+looked the kind injury that won’t heal in short order. Not long
+after, German defender and scorer Hummels was also helped off the
+pitch after damaging his knee. It didn’t keep the Germans from
+scoring again, however, and 12 minutes from time Muller completed
+his hat-trick – the first of these finals – to make it 4-0.
+#
+# Suppose we have a way to enrich each document with information about injuries - the player, and the type of injury.
+# We can add that enrichment information to the document (see q-6-enrich).
+# Then we can do a combination query, querying the triples and document together.
+#
+# User query:  
+#
+# Things to note
+#          A lot of "search" is about making the unstructured (free-flowing full-text) into structured (metadata, entities, triples).
+#          But you can't ever extract every piece of data that's expressed or implied by a piece of text.
+#          With this query we find the *match document* that describes the match where the injury took place.
+#          By browsing the text and the metadata we can find out things like 
+#          * where in the game did this injury occur?
+#          * did it occur alongside other injuries?
+#          * how serious was the injury? ("It looked the kind of injury that won’t heal in short order")
+#          * did the injury occur during play, or off-play?
+#          * did the injury affect the outcome of the game? How much?
+#          * what else did the report say about the injured players? Were they playing well before the injury?
+#          One can imagine extracting metadata/triples for each of these (such as "where in the game did the injury occur?")
+#          But it would be extremely onerous to extract all possible metadata - and even then, you wouldn't capture value judgements
+#          such as "did the injury affect the outcome of the game? How much?"
+#     
+#Author notes
+#
+*/
+
+// construct a cts:query to look for a triple; note you could include a match pattern here, or a range match against the object - here we're looking for a fully-specified triple 
+var ctsQuery =
+  cts.tripleRangeQuery(
+    sem.iri( "http://dbpedia.org/resource/Mats_Hummels" ),
+    sem.iri( "http://example.com/hasInjury" ),
+    "Knee"
+    ) ;
+  
+// Find an embedded triple that matches ctsQuery, and return the document that it's embedded in 
+var doc =
+  cts.search( ctsQuery ) ;
+
+ doc
+</query><query name="sandbox" focus="false" active="true" mode="xquery">(:
+#
+# Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
+#            - find the document that matches a triple pattern
+#            - restrict a SPARQL query by properties of the document it's in
+# q-6-c   - find *the document* for each high-scoring match where either a Knee or Hamstring injury happened, where the report mentions a "hat-trick".
+#           Requires enrichment - see q-6-enrich
+#           Similar to q-6-b, but instead of looking for an exact match on a triple, we look for "Hamstring" or "Knee",
+#           and we impose some restrictions on the document.
+#
+# The match report at /matches/2010_FIFA_WORLD_CUP_special_1.xml includes:
+#
+Ailing striker Hugo Almeida quit
+the pitch after a collision with Mats Hummels and was replaced by
+Guinea-Bissau-born new boy Eder, just 21. If got worse for
+Portugal, too, when just after the
+hour-mark, Mats Hummels rose higher than anyone in the
+penalty area to head home from a corner.
+Things didn’t get much better in the second-half. Mid-way through
+the period, creative midfielder Fabio Coentrao pulled up with a
+hamstring injury and had to be carried off on a stretcher. It
+looked the kind injury that won’t heal in short order. Not long
+after, German defender and scorer Hummels was also helped off the
+pitch after damaging his knee. It didn’t keep the Germans from
+scoring again, however, and 12 minutes from time Muller completed
+his hat-trick – the first of these finals – to make it 4-0.
+# 
+# Suppose we have a way to enrich each document with information about injuries - the player, and the type of injury.
+# We can add that enrichment information to the document (see q-6-enrich).
+# Then we can do a combination query, querying the triples and document together.
+#
+# User query:  
+#
+# Things to note
+#          A lot of "search" is about making the unstructured (free-flowing full-text) into structured (metadata, entities, triples).
+#          But you can't ever extract every piece of data that's expressed or implied by a piece of text.
+#          With this query we find the *match document* that describes the match where the injury took place.
+#          By browsing the text and the metadata we can find out things like 
+#          * where in the game did this injury occur?
+#          * did it occur alongside other injuries?
+#          * how serious was the injury? ("It looked the kind of injury that won’t heal in short order")
+#          * did the injury occur during play, or off-play?
+#          * did the injury affect the outcome of the game? How much?
+#          One can imagine extracting metadata/triples for each of these (such as "where in the game did the injury occur?")
+#          But it would be extremely onerous to extract all possible metadata - and even then, you wouldn't capture value judgements
+#          such as "did the injury affect the outcome of the game? How much?"
+#     
+#Author notes
+#
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
+
+let $word-text := "hat-trick"
+</query><query name="q-6-c" focus="false" active="true" mode="xquery">(:
+#
+# Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
+#            - find the document that matches a triple pattern
+#            - restrict a SPARQL query by properties of the document it's in
+# q-6-c   - find *the document* for each high-scoring match where either a Knee or Hamstring injury happened, where the report mentions a "hat-trick".
+#           Requires enrichment - see q-6-enrich
+#           Similar to q-6-b, but instead of looking for an exact match on a triple, we look for "Hamstring" or "Knee",
+#           and we impose some restrictions on the document.
+#
+# The match report at /matches/2010_FIFA_WORLD_CUP_special_1.xml includes:
+#
+Ailing striker Hugo Almeida quit
+the pitch after a collision with Mats Hummels and was replaced by
+Guinea-Bissau-born new boy Eder, just 21. If got worse for
+Portugal, too, when just after the
+hour-mark, Mats Hummels rose higher than anyone in the
+penalty area to head home from a corner.
+Things didn’t get much better in the second-half. Mid-way through
+the period, creative midfielder Fabio Coentrao pulled up with a
+hamstring injury and had to be carried off on a stretcher. It
+looked the kind injury that won’t heal in short order. Not long
+after, German defender and scorer Hummels was also helped off the
+pitch after damaging his knee. It didn’t keep the Germans from
+scoring again, however, and 12 minutes from time Muller completed
+his hat-trick – the first of these finals – to make it 4-0.
+# 
+# Suppose we have a way to enrich each document with information about injuries - the player, and the type of injury.
+# We can add that enrichment information to the document (see q-6-enrich).
+# Then we can do a combination query, querying the triples and document together.
+#
+# User query:  
+#
+# Things to note
+#          A lot of "search" is about making the unstructured (free-flowing full-text) into structured (metadata, entities, triples).
+#          But you can't ever extract every piece of data that's expressed or implied by a piece of text.
+#          With this query we find the *match document* that describes the match where the injury took place.
+#          By browsing the text and the metadata we can find out things like 
+#          * where in the game did this injury occur?
+#          * did it occur alongside other injuries?
+#          * how serious was the injury? ("It looked the kind of injury that won’t heal in short order")
+#          * did the injury occur during play, or off-play?
+#          * did the injury affect the outcome of the game? How much?
+#          One can imagine extracting metadata/triples for each of these (such as "where in the game did the injury occur?")
+#          But it would be extremely onerous to extract all possible metadata - and even then, you wouldn't capture value judgements
+#          such as "did the injury affect the outcome of the game? How much?"
+#     
+#Author notes
+#
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
+
+let $word-text := "hat-trick"
+
+(: find (Mats Hummels injury to Knee OR Hamstring) AND "hat-trick" AND at least 4 goals :)
+let $cts-query :=
+  cts:and-query( (
+    cts:or-query( (
+      cts:triple-range-query(
+        sem:iri( "http://dbpedia.org/resource/Mats_Hummels" ),
+        sem:iri( "http://example.com/hasInjury" ),
+        "Knee",
+        "="
+        ),
+      cts:triple-range-query(
+        sem:iri( "http://dbpedia.org/resource/Mats_Hummels" ),
+        sem:iri( "http://example.com/hasInjury" ),
+        "Hamstring",
+        "="
+        ))
+      ),
+    cts:word-query( $word-text ),
+    cts:element-range-query( xs:QName("goals"), "&gt;=", 4) 
+    ))
+  
+(: Find an embedded triple, and return the document :)
+let $doc :=
+  cts:search( fn:collection(), $cts-query )
+  
+(: return just the report element out of the document :)
+return 
+  $doc//report
+</query><query name="sandbox" focus="false" active="true" mode="javascript">/*
+#
+# Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
+#            - find the document that matches a triple pattern
+#            - restrict a SPARQL query by properties of the document it's in
+# q-6-c   - find *the document* for each high-scoring match where either a Knee or Hamstring injury happened, where the report mentions a "hat-trick".
+#           Requires enrichment - see q-6-enrich
+#           Similar to q-6-b, but instead of looking for an exact match on a triple, we look for "Hamstring" or "Knee",
+#           and we impose some restrictions on the document.
+#
+# The match report at /matches/2010_FIFA_WORLD_CUP_special_1.xml includes:
+#
+Ailing striker Hugo Almeida quit
+the pitch after a collision with Mats Hummels and was replaced by
+Guinea-Bissau-born new boy Eder, just 21. If got worse for
+Portugal, too, when just after the
+hour-mark, Mats Hummels rose higher than anyone in the
+penalty area to head home from a corner.
+Things didn’t get much better in the second-half. Mid-way through
+the period, creative midfielder Fabio Coentrao pulled up with a
+hamstring injury and had to be carried off on a stretcher. It
+looked the kind injury that won’t heal in short order. Not long
+after, German defender and scorer Hummels was also helped off the
+pitch after damaging his knee. It didn’t keep the Germans from
+scoring again, however, and 12 minutes from time Muller completed
+his hat-trick – the first of these finals – to make it 4-0.
+# 
+# Suppose we have a way to enrich each document with information about injuries - the player, and the type of injury.
+# We can add that enrichment information to the document (see q-6-enrich).
+# Then we can do a combination query, querying the triples and document together.
+#
+# User query:  
+#
+# Things to note
+#          A lot of "search" is about making the unstructured (free-flowing full-text) into structured (metadata, entities, triples).
+#          But you can't ever extract every piece of data that's expressed or implied by a piece of text.
+#          With this query we find the *match document* that describes the match where the injury took place.
+#          By browsing the text and the metadata we can find out things like 
+#          * where in the game did this injury occur?
+#          * did it occur alongside other injuries?
+#          * how serious was the injury? ("It looked the kind of injury that won’t heal in short order")
+#          * did the injury occur during play, or off-play?
+#          * did the injury affect the outcome of the game? How much?
+#          One can imagine extracting metadata/triples for each of these (such as "where in the game did the injury occur?")
+#          But it would be extremely onerous to extract all possible metadata - and even then, you wouldn't capture value judgements
+#          such as "did the injury affect the outcome of the game? How much?"
+#     
+#Author notes
+#
+*/
+
+
+var wordText = "hat-trick" ;
+</query><query name="q-6-c-j" focus="false" active="true" mode="javascript">/*
+#
+# Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
+#            - find the document that matches a triple pattern
+#            - restrict a SPARQL query by properties of the document it's in
+# q-6-c   - find *the document* for each high-scoring match where either a Knee or Hamstring injury happened, where the report mentions a "hat-trick".
+#           Requires enrichment - see q-6-enrich
+#           Similar to q-6-b, but instead of looking for an exact match on a triple, we look for "Hamstring" or "Knee",
+#           and we impose some restrictions on the document.
+#
+# The match report at /matches/2010_FIFA_WORLD_CUP_special_1.xml includes:
+#
+Ailing striker Hugo Almeida quit
+the pitch after a collision with Mats Hummels and was replaced by
+Guinea-Bissau-born new boy Eder, just 21. If got worse for
+Portugal, too, when just after the
+hour-mark, Mats Hummels rose higher than anyone in the
+penalty area to head home from a corner.
+Things didn’t get much better in the second-half. Mid-way through
+the period, creative midfielder Fabio Coentrao pulled up with a
+hamstring injury and had to be carried off on a stretcher. It
+looked the kind injury that won’t heal in short order. Not long
+after, German defender and scorer Hummels was also helped off the
+pitch after damaging his knee. It didn’t keep the Germans from
+scoring again, however, and 12 minutes from time Muller completed
+his hat-trick – the first of these finals – to make it 4-0.
+# 
+# Suppose we have a way to enrich each document with information about injuries - the player, and the type of injury.
+# We can add that enrichment information to the document (see q-6-enrich).
+# Then we can do a combination query, querying the triples and document together.
+#
+# User query:  
+#
+# Things to note
+#          A lot of "search" is about making the unstructured (free-flowing full-text) into structured (metadata, entities, triples).
+#          But you can't ever extract every piece of data that's expressed or implied by a piece of text.
+#          With this query we find the *match document* that describes the match where the injury took place.
+#          By browsing the text and the metadata we can find out things like 
+#          * where in the game did this injury occur?
+#          * did it occur alongside other injuries?
+#          * how serious was the injury? ("It looked the kind of injury that won’t heal in short order")
+#          * did the injury occur during play, or off-play?
+#          * did the injury affect the outcome of the game? How much?
+#          One can imagine extracting metadata/triples for each of these (such as "where in the game did the injury occur?")
+#          But it would be extremely onerous to extract all possible metadata - and even then, you wouldn't capture value judgements
+#          such as "did the injury affect the outcome of the game? How much?"
+#     
+#Author notes
+#
+*/
+
+
+var wordText = "hat-trick" ;
+
+// find (Mats Hummels injury to Knee OR Hamstring) AND "hat-trick" AND at least 4 goals 
+var ctsQuery =
+  cts.andQuery( [
+    cts.orQuery( [
+      cts.tripleRangeQuery(
+        sem.iri( "http://dbpedia.org/resource/Mats_Hummels" ),
+        sem.iri( "http://example.com/hasInjury" ),
+        "Knee",
+        "="
+        ),
+      cts.tripleRangeQuery(
+        sem.iri( "http://dbpedia.org/resource/Mats_Hummels" ),
+        sem.iri( "http://example.com/hasInjury" ),
+        "Hamstring",
+        "="
+        )]
+      ),
+    cts.wordQuery( wordText ),
+    cts.elementRangeQuery( xs.QName("goals"), "&gt;=", 4) 
+    ])
+  
+// Find an embedded triple, and return the document 
+var doc =
+  cts.search( ctsQuery )
+  
+// return the document 
+
+  doc
+</query><query name="PATCH-add-matches" focus="false" active="true" mode="xquery">(:
+# PATCH the data to include additional match reports
+:)
+
+xdmp:document-insert(
+    "/matches/2010_FIFA_WORLD_CUP_special_1.xml",
+&lt;match&gt;
+  &lt;id&gt;2010_FIFA_WORLD_CUP_special_1&lt;/id&gt;
+  &lt;docUri&gt;/matches/2010_FIFA_WORLD_CUP_special_1.xml&lt;/docUri&gt;
+  &lt;abstract&gt;A generated bit of match data for a fictitious 2010 world cup&lt;/abstract&gt;
+  &lt;report&gt;Ailing striker Hugo Almeida quit
+the pitch after a collision with Mats Hummels and was replaced by
+Guinea-Bissau-born new boy Eder, just 21. It got worse for
+Portugal, too, when just after the
+hour-mark, Mats Hummels rose higher than anyone in the
+penalty area to head home from a corner.
+Things didn’t get much better in the second-half. Mid-way through
+the period, creative midfielder Fabio Coentrao pulled up with a
+hamstring injury and had to be carried off on a stretcher. It
+looked the kind injury that won’t heal in short order. Not long
+after, German defender and scorer Hummels was also helped off the
+pitch after damaging his knee. It didn’t keep the Germans from
+scoring again, however, and 12 minutes from time Muller completed
+his hat-trick – the first of these finals – to make it 4-0.  
+  &lt;/report&gt;
+  &lt;goals&gt;4&lt;/goals&gt;
+&lt;/match&gt;
+    ) ;
+
+xdmp:document-insert(
+    "/matches/2010_FIFA_WORLD_CUP_special_2.xml",
+&lt;match&gt;
+  &lt;id&gt;2010_FIFA_WORLD_CUP_special_2&lt;/id&gt;
+  &lt;docUri&gt;/matches/2010_FIFA_WORLD_CUP_special_1.xml&lt;/docUri&gt;
+  &lt;abstract&gt;A generated bit of match data for a fictitious 2010 world cup&lt;/abstract&gt;
+  &lt;report&gt;The final was played on 11 July 2010 at Soccer City, Johannesburg. Spain defeated the Netherlands 1–0, after an extra time goal by Andrés Iniesta.
+  The win gave Spain its first World Cup title. It was the first time since England in 1966 that the winners of the final wore their second-choice strip.
+  The match had the most yellow cards awarded in a World Cup final, more than doubling the previous record for a final, set when Argentina and West Germany shared six cards in 1986.
+  Fourteen yellow cards were awarded (nine of which to the Netherlands), and John Heitinga of the Netherlands was sent off for a second yellow. 
+  One yellow card was for Nigel de Jong's studs-up kick to the chest of Xabi Alonso during the first half, for which Rob Hughes of the New York Times, among others, 
+  believed the referee should have given a red card.
+  The referee, Howard Webb, later said after reviewing the foul that it should have been a red card, but that his view during play was partially obstructed.
+  The Netherlands had several chances to score, most notably in the 62nd minute when Arjen Robben was released by Wesley Sneijder putting him one-on-one with Spain's goalkeeper Iker Casillas, 
+  but Casillas pushed the shot wide with an outstretched leg. 
+  Meanwhile, for Spain, Sergio Ramos missed a free header from a corner kick when he was unmarked.
+  Dutch captain Giovanni van Bronckhorst was substituted in the 105th minute by Edson Braafheid; 
+  Real Madrid midfielder Rafael van der Vaart, who had come on as a substitute in the 99th minute for Nigel de Jong, took over as captain for the last 15 minutes. 
+  From the 109th minute, the Dutch played with 10 men due to Heitinga's second yellow card. 
+  With a penalty shootout seeming inevitable, Jesús Navas sprinted into opposing territory and began a series of passes that led to Iniesta finally breaking the deadlock four minutes before the end of extra time, 
+  scoring with a right footed half-volleyed shot low to the goalkeeper's right after receiving a pass from Cesc Fàbregas on the right of the penalty area.
+  Just before the goal was scored, the Dutch team had a free kick that hit the wall (apparently taking a deflection off Fàbregas) before going out.
+  Despite the deflection, which should have given possession and a corner kick to the Dutch, a goal kick was given to Spain, starting the play that led to the goal. 
+  The Dutch, however, momentarily had possession of the ball near the Spanish penalty area in between the goal kick and Iniesta's goal. 
+  Joris Mathijsen was yellow-carded for his strong protests to the referee after the goal, and other Dutch players criticised Webb for this decision after the match.
+  Iniesta was yellow-carded for the removal of his team shirt when celebrating his goal. 
+  Underneath he had a white vest with the handwritten message: "Dani Jarque siempre con nosotros" ("Dani Jarque, always with us").
+  &lt;/report&gt;
+  &lt;goals&gt;4&lt;/goals&gt;
+&lt;/match&gt;
+    ) ;
+</query></workspace></export>
