@@ -22,3 +22,5 @@ echo "Installing the semantic extensions"
 echo "loading data..."
 %MLCP% IMPORT -input_file_path data -username %USERNAME% -password %PASSWORD% -host localhost -port 8000 -output_uri_replace "/%PWD%data/json,'',/%PWD%data/xml,'',/%PWD%data/xml/triples,''" -output_collections "http://marklogic.com/semantics#default-graph"
 
+echo "Finished loading data"
+pause
