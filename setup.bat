@@ -11,12 +11,12 @@ echo "Configuring database"
 %CURL% -Hcontent-type:application/json -d@database-properties.json "http://localhost:8002/manage/v2/databases/Documents/properties?group-id=Default"
 
 echo "Installing HTML page server extension"
-%CURL% -Hcontent-type:application/javascript -d@htmlServer.sjs http://localhost:8000/v1/config/resources/htmlServer ; 
+%CURL% -Hcontent-type:application/javascript -d@htmlServer.sjs http://localhost:8000/v1/config/resources/htmlServer 
 
 
 echo "Installing the semantic extensions"
-%CURL% -Hcontent-type:application/javascript -d@inferringQuery.sjs http://localhost:8000/v1/config/resources/inferringQuery ; 
-%CURL% -Hcontent-type:application/javascript -d@semanticExtension.sjs http://localhost:8000/v1/config/resources/semanticExtension ; 
+%CURL% -Hcontent-type:application/javascript -d@inferringQuery.sjs http://localhost:8000/v1/config/resources/inferringQuery 
+%CURL% -Hcontent-type:application/javascript -d@semanticExtension.sjs http://localhost:8000/v1/config/resources/semanticExtension 
 
 
 echo "loading data..."
