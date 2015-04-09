@@ -60,7 +60,7 @@
     		$scope.submit = function() {
             $http.defaults.headers.common.Accept = 'application/json';
             $http({
-                    url:'/v1/resources/semanticExtension',
+                    url:'/v1/resources/inferringQuery',
                     method:"GET",
                     params: {
                         "rs:query" : $scope.query,
