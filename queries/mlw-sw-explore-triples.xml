@@ -1,4 +1,4 @@
-<export><workspace name="mlw-sw-explore-triples"><query name="show-types" focus="false" active="true" content-source="as:3707987997079009010:" mode="sparql">
+<export><workspace name="mlw-sw-explore-triples"><query name="show-types" focus="true" active="true" content-source="as:3707987997079009010:" mode="sparql">
 #
 #  show distinct types in the triplestore
 #  Note: "a" is shorthand for rdf:type
@@ -73,7 +73,7 @@ where
 { 
   ?s ?p ?o .
   { select ?s where { ?s a dbont:SoccerClub } limit 1 }
-}</query><query name="all-about-matches" focus="true" active="true" content-source="as:3707987997079009010:" mode="sparql">#
+}</query><query name="all-about-matches" focus="false" active="true" content-source="as:3707987997079009010:" mode="sparql">#
 #  what can SPARQL tell me about a match?
 #  show me all triples where the first match is the subject
 #
@@ -99,7 +99,7 @@ where {
     FILTER ( (?s=&lt;http://dbpedia.org/resource/Mexico_national_football_team&gt;) || (?o=&lt;http://dbpedia.org/resource/Mexico_national_football_team&gt;) )
     }
   order by ?s
-</query><query name="exp-wfb-mexico-1" focus="true" active="true" content-source="as:3707987997079009010:" mode="sparql">#
+</query><query name="exp-wfb-mexico-1" focus="false" active="true" content-source="as:3707987997079009010:" mode="sparql">#
 # explore Mexico wfb dataset
 # show triples with MX as subject or object
 #
