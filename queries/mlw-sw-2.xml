@@ -1,0 +1,593 @@
+<export><workspace name="mlw-sw-2"><query name="sandbox" focus="true" active="true" mode="sparql">#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-a    - show all the people (Persons) in the database
+# 
+#
+# Things to note
+#      the result is empty - there are no people here!
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;</query><query name="q-2-a" focus="false" active="true" mode="sparql">#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-a    - show all the people (Persons) in the database
+# 
+#
+# Things to note
+#      the result is empty - there are no people here!
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+
+select distinct( ?person AS ?dPerson )
+where { 
+  ?person  a dbont:Person 
+  }
+  LIMIT 100</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-b    - show all the athletes in the database
+# 
+#
+# Things to note
+#      the result is empty - there are no athletes here!
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+</query><query name="q-2-b" focus="false" active="true" mode="sparql">#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-b    - show all the athletes in the database
+# 
+#
+# Things to note
+#      the result is empty - there are no athletes here!
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+
+select distinct( ?athlete AS ?dAthlete )
+where { 
+  ?athlete  a dbont:Athlete
+  }
+  LIMIT 100</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-c    - show all the soccer players (SoccerPlayer) in the database
+# 
+#
+# Things to note
+#      the result is ... many - there are many soccer players here!
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+</query><query name="q-2-c" focus="false" active="true" mode="sparql">#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-c    - show all the soccer players (SoccerPlayer) in the database
+# 
+#
+# Things to note
+#      the result is ... many - there are many soccer players here!
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+
+select distinct( ?SoccerPlayer AS ?dSoccerPlayer )
+where { 
+  ?SoccerPlayer  a dbont:SoccerPlayer
+  }
+  LIMIT 100</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-d    - tell the triple store (by adding triples) that:
+#            -- SoccerPlayer is a subclass of Athlete (every soccer player is an athlete)
+#            -- Athlete is a subclass of Person (every athlete is a person)
+# 
+#
+# Things to note
+#      The triples you add here are sometimes called "ontology triples"
+#      i.e. they don't assert facts about the world, they assert facts/relationships about the vocabulary you use to describe the world
+#      We'll see soon that this knowledge is essential to inference
+#     
+#Author notes
+#
+
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX rdfs:   &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
+</query><query name="q-2-d" focus="false" active="true" mode="sparql-update">#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-d    - tell the triple store (by adding triples) that:
+#            -- SoccerPlayer is a subclass of Athlete (every soccer player is an athlete)
+#            -- Athlete is a subclass of Person (every athlete is a person)
+# 
+#
+# Things to note
+#      The triples you add here are sometimes called "ontology triples"
+#      i.e. they don't assert facts about the world, they assert facts/relationships about the vocabulary you use to describe the world
+#      We'll see soon that this knowledge is essential to inference
+#     
+#Author notes
+#
+
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX rdfs:   &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
+
+INSERT DATA {
+  dbont:SoccerPlayer rdfs:subClassOf dbont:Athlete .
+  dbont:Athlete      rdfs:subClassOf dbont:Person .
+  }
+</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-d-i  - check: show the triples you inserted in q-2-d
+# 
+#
+# Things to note
+#     
+#Author notes
+#
+
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX rdfs:   &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
+</query><query name="q-2-d-i" focus="false" active="true" mode="sparql">#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-d-i  - check: show the triples you inserted in q-2-d
+# 
+#
+# Things to note
+#     
+#Author notes
+#
+
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX rdfs:   &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
+
+select * where { ?s rdfs:subClassOf ?o filter ( ?s=dbont:SoccerPlayer || ?s=dbont:Athlete ) }</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-e    - show all the people (Persons) in the database, using rdfs:subClassOf
+# 
+#
+# Things to note
+#      you are now traversing the graph!
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX rdfs:   &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
+</query><query name="q-2-e" focus="false" active="true" mode="sparql">#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-e    - show all the people (Persons) in the database, using rdfs:subClassOf
+# 
+#
+# Things to note
+#      you are now traversing the graph!
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX rdfs:   &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
+
+select distinct( ?person AS ?dPerson )
+where { 
+  ?person  a  ?class1 .
+  ?class1  rdfs:subClassOf  ?class2 .
+  ?class2  rdfs:subClassOf  ?class3 .
+  filter ( ?class3 = dbont:Person )
+  }
+  LIMIT 100</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-e-i  - show all the people (Persons) in the database, using rdfs:subClassOf
+#            this is the same as q-2-e, but using a path as short-hand
+# 
+#
+# Things to note
+#      this is much simpler than q-2-e
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX rdfs:   &lt;http://www.w3.org/2000/01/rdf-schema#&gt;</query><query name="q-2-e-i" focus="false" active="true" mode="sparql">#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-e-i  - show all the people (Persons) in the database, using rdfs:subClassOf
+#            this is the same as q-2-e, but using a path as short-hand
+# 
+#
+# Things to note
+#      this is much simpler than q-2-e
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX rdfs:   &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
+
+select distinct( ?person AS ?dPerson )
+where { 
+  ?person  a/rdfs:subClassOf/rdfs:subClassOf dbont:Person  .
+  }
+  LIMIT 100</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-e-ii - show all the people (Persons) in the database, using rdfs:subClassOf
+#            this is the same as q-2-e-i, but using a path "*" as short-hand
+# 
+#
+# Things to note
+#      this is not quite the same query - "*" says "zero or any number of", so no matter how many steps there are in the hierarchy, you'll get the right answer
+#
+#      BONUS:
+#      Also try a/dbont:Athlete+/rdfs:subClassOf* and a/dbont:Athlete*/rdfs:subClassOf* . Why are the results different?
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX rdfs:   &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
+PREFIX rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;</query><query name="q-2-e-ii" focus="false" active="true" mode="sparql">#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-e-ii - show all the people (Persons) in the database, using rdfs:subClassOf
+#            this is the same as q-2-e-i, but using a path "*" as short-hand
+# 
+#
+# Things to note
+#      this is not quite the same query - "*" says "zero or any number of", so no matter how many steps there are in the hierarchy, you'll get the right answer
+#
+#      BONUS:
+#      Also try a/dbont:Athlete+/rdfs:subClassOf* and a/dbont:Athlete*/rdfs:subClassOf* . Why are the results different?
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX rdfs:   &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
+PREFIX rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;
+
+
+select ?person
+where { 
+  ?person  a/rdfs:subClassOf* dbont:Person .
+  }
+
+</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-f    - show all the people (Persons) in the database - same as q-2-a
+# 
+#
+# Things to note
+#      the result is empty - there are no people here!
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+</query><query name="q-2-f" focus="false" active="true" mode="sparql">#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-f    - show all the people (Persons) in the database - same as q-2-a
+# 
+#
+# Things to note
+#      the result is empty - there are no people here!
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+
+select distinct( ?person AS ?dPerson )
+where { 
+  ?person  a dbont:Person 
+  }
+  LIMIT 100</query><query name="sandbox" focus="false" active="true" mode="sparql">(:
+#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-g    - show all the people (Persons) in the database WITHOUT a path
+# 
+#
+# Things to note
+#      the database now knows that SoccerPlayer is a subclass of Athlete and Athlete is a subclass of Person
+#      why cant the database figure out who the Persons are ?
+#      In this query you use Automatic Inference to find Persons.
+#      You specify a *ruleset* as input to the query. The ruleset tells the database what rdfs:subClassOf *means*.
+#
+#      To see the ruleset, open $MARKLOGIC/Config/subClassOf.rules in a text editor
+#
+#      You can choose the level of inference for each query by choosing a ruleset
+#      - you can also create your own ruleset - put it in the Schemas database
+#      - you can also set a default ruleset for the database (in the Admin UI) which you can override or supplement per-query
+#
+#      Try this query without the $myStore parameter - see the results with no inference!
+#     
+#Author notes
+#there is no coach class
+#use rdfs:range over the dbont:Coach predicate to show that coaches are people too (but not Athletes)
+:)
+</query><query name="q-2-g" focus="false" active="true" mode="xquery">(:
+#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-g    - show all the people (Persons) in the database WITHOUT a path
+# 
+#
+# Things to note
+#      the database now knows that SoccerPlayer is a subclass of Athlete and Athlete is a subclass of Person
+#      why cant the database figure out who the Persons are ?
+#      In this query you use Automatic Inference to find Persons.
+#      You specify a *ruleset* as input to the query. The ruleset tells the database what rdfs:subClassOf *means*.
+#
+#      To see the ruleset, open $MARKLOGIC/Config/subClassOf.rules in a text editor
+#
+#      You can choose the level of inference for each query by choosing a ruleset
+#      - you can also create your own ruleset - put it in the Schemas database
+#      - you can also set a default ruleset for the database (in the Admin UI) which you can override or supplement per-query
+#
+#      Try this query without the $myStore parameter - see the results with no inference!
+#     
+#Author notes
+#there is no coach class
+#use rdfs:range over the dbont:Coach predicate to show that coaches are people too (but not Athletes)
+:)
+
+(: specify the sem:store for this query - includes inference level, combination query, others :)
+let $myStore := sem:ruleset-store("subClassOf.rules", sem:store())
+
+return
+  sem:sparql('
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+
+select distinct( ?person AS ?dPerson )
+where { 
+  ?person  a dbont:Person 
+  }
+  ',
+  (),
+  (),
+  $myStore
+)
+</query><query name="sandbox" focus="false" active="true" mode="sparql">/*
+#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-g-j  - show all the people (Persons) in the database WITHOUT a path
+# 
+#
+# Things to note
+#      the database now knows that SoccerPlayer is a subclass of Athlete and Athlete is a subclass of Person
+#      why cant the database figure out who the Persons are ?
+#      In this query you use Automatic Inference to find Persons.
+#      You specify a *ruleset* as input to the query. The ruleset tells the database what rdfs:subClassOf means.
+#
+#      To see the ruleset, open $MARKLOGIC/Config/subClassOf.rules in a text editor
+#
+#      You can choose the level of inference for each query by choosing a ruleset
+#      - you can also create your own ruleset - put it in the Schemas database
+#      - you can also set a default ruleset for the database (in the Admin UI) which you can override or supplement per-query
+#
+#      Try this query without the $myStore parameter - see the results with no inference!
+#     
+#Author notes
+#there is no coach class
+#use rdfs:range over the dbont:Coach predicate to show that coaches are people too (but not Athletes)
+*/
+</query><query name="q-2-g-j" focus="false" active="true" mode="javascript">/*
+#
+# Query 2  - the magic of inference ( fun with rdfs:subClassOf )
+# q-2-g-j  - show all the people (Persons) in the database WITHOUT a path
+# 
+#
+# Things to note
+#      the database now knows that SoccerPlayer is a subclass of Athlete and Athlete is a subclass of Person
+#      why cant the database figure out who the Persons are ?
+#      In this query you use Automatic Inference to find Persons.
+#      You specify a *ruleset* as input to the query. The ruleset tells the database what rdfs:subClassOf means.
+#
+#      To see the ruleset, open $MARKLOGIC/Config/subClassOf.rules in a text editor
+#
+#      You can choose the level of inference for each query by choosing a ruleset
+#      - you can also create your own ruleset - put it in the Schemas database
+#      - you can also set a default ruleset for the database (in the Admin UI) which you can override or supplement per-query
+#
+#      Try this query without the $myStore parameter - see the results with no inference!
+#     
+#Author notes
+#there is no coach class
+#use rdfs:range over the dbont:Coach predicate to show that coaches are people too (but not Athletes)
+*/
+
+// specify the store for this query - includes inference level, combination query, others
+var myStore = sem.rulesetStore("subClassOf.rules", sem.store()) ;
+
+  sem.sparql('\
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;   \
+select distinct( ?person AS ?dPerson )          \
+where {                                         \
+  ?person  a dbont:Person                       \
+  }                                             \
+  ', 
+  [],  
+  [],  
+  myStore    
+) ;
+</query><query name="q-2-Bonus-1" focus="false" active="true" mode="xquery">(:
+#
+# BONUS 1  - write your own inference rules
+#          - e.g. I want to query for Spanish-speaking players
+#          - e.g. I want to query for giants without adding triples
+# 
+#
+# Things to note
+#      
+#     
+#Author notes
+#
+:)</query><query name="q-2-Bonus-1-j" focus="false" active="true" mode="javascript">/*
+#
+# BONUS 1  - write your own inference rules
+#          - e.g. I want to query for Spanish-speaking players
+#          - e.g. I want to query for giants without adding triples
+# 
+#
+# Things to note
+#      
+#     
+#Author notes
+#
+*/
+</query><query name="q-2-Bonus-2" focus="false" active="true" mode="xquery">(:
+#
+# BONUS 2  - use built-in MarkLogic functions inside your SPARQL uery
+#          - e.g. use cts:contains() in a filter for full-text search over objects
+# 
+#
+# Things to note
+#      
+#     
+#Author notes
+#
+:)</query><query name="q-2-Bonus-2-j" focus="false" active="true" mode="javascript">/*
+#
+# BONUS 2  - use built-in MarkLogic functions inside your SPARQL uery
+#          - e.g. use cts:contains() in a filter for full-text search over objects
+# 
+#
+# Things to note
+#      
+#     
+#Author notes
+#
+*/</query></workspace></export>

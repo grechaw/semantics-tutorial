@@ -1,0 +1,518 @@
+<export><workspace name="mlw-sw-1"><query name="sandbox" focus="true" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-a    - list all triples (limited to the first 100)
+#            
+# 
+#
+# Things to note
+#     This is like "SELECT * FROM &lt;every table&gt;" in a relational database; LIMIT is your friend!
+#Author notes
+#</query><query name="q-1-a" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-a    - list all triples (limited to the first 100)
+#            
+# 
+#
+# Things to note
+#     This is like "SELECT * FROM &lt;every table&gt;" in a relational database; LIMIT is your friend!
+#Author notes
+#
+
+select ?s ?p ?o
+where { ?s ?p ?o } LIMIT 100</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-b    - simple lookup of a fact - how tall is David Villa?
+# 
+#
+# Things to note
+#     
+#Author notes
+#</query><query name="q-1-b" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-b    - simple lookup of a fact - how tall is David Villa?
+# 
+#
+# Things to note
+#     
+#Author notes
+#
+
+select ?o 
+where {
+  &lt;http://dbpedia.org/resource/David_Villa&gt; &lt;http://dbpedia.org/ontology/Person/height&gt; ?o
+  }
+</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-c    - simple lookup of a fact - how tall is David Villa?
+#            same as q-1-b , but with prefixes (less typing)
+# 
+#
+# Things to note
+#     There's no "standard" set of prefixes e.g. between SNORQL and dbpedia "about" pages
+#Author notes
+#
+#
+PREFIX : &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbont: &lt;http://dbpedia.org/ontology/Person/&gt;</query><query name="q-1-c" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-c    - simple lookup of a fact - how tall is David Villa?
+#            same as q-1-b , but with prefixes (less typing)
+# 
+#
+# Things to note
+#     There's no "standard" set of prefixes e.g. between SNORQL and dbpedia "about" pages
+#Author notes
+#
+#
+PREFIX : &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbont: &lt;http://dbpedia.org/ontology/Person/&gt;
+
+select ?o 
+where {
+  :David_Villa dbont:height ?o
+  }</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-d    - simple lookup of a fact - which team is David Villa on?
+#            similar to q-1-b ; we'll build on this query
+# 
+#
+# Things to note
+#     
+#Author notes
+#
+#
+PREFIX : &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db: &lt;http://dbpedia.org/&gt;
+PREFIX dbont: &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;</query><query name="q-1-d" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-d    - simple lookup of a fact - which team is David Villa on?
+#            similar to q-1-b ; we'll build on this query
+# 
+#
+# Things to note
+#     
+#Author notes
+#
+#
+PREFIX : &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db: &lt;http://dbpedia.org/&gt;
+PREFIX dbont: &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+
+
+select ?o 
+where {
+  :David_Villa dbont:team ?o
+  }</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-e    - building on q-1-d; what is the name of the national team that the player called "David Villa" plays for?
+# 
+#
+# Things to note
+#          Now we are "traversing the graph".
+#          Can you imagine what the graph of playerURI, playerName, teamURI, level looks like?
+#
+#          BONUS:
+#          - can you write this without the predicate :level or a filter on the team name?
+#          hint: look at the prediacte dbp:nationalteam
+#     
+#Author notes
+#
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;</query><query name="q-1-e" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-e    - building on q-1-d; what is the name of the national team that the player called "David Villa" plays for?
+# 
+#
+# Things to note
+#          Now we are "traversing the graph".
+#          Can you imagine what the graph of playerURI, playerName, teamURI, level looks like?
+#
+#          BONUS:
+#          - can you write this without the predicate :level or a filter on the team name?
+#          hint: look at the prediacte dbp:nationalteam
+#     
+#Author notes
+#
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+
+select ?teamName
+where {
+  ?playerURI    foaf:name  "David Villa" .
+  ?playerURI    dbont:team  ?teamURI .
+  ?teamURI      foaf:name   ?teamName .
+  ?teamURI      ex:level    "national" .
+  }</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-e-ii - building on q-1-d; what is the name of the national team that the player called "David Villa" plays for?
+#            Alternative solution using FILTER 
+#            This is less elegant than q-1-e, but illustrates the use of both the FILTER operation and the contains function
+#            It uses the fact that, in dbpedia, national team names contain the string "national"
+# 
+#
+# Things to note
+#            SPARQL has a set of built-in functions, such as contains()
+#
+#            BONUS information:
+#            In MarkLogic, you can also use MarkLogic built-in functions, such as cts:contains() for full-text search.
+#            Hint: use the prefic "PREFIX cts: &lt;http://marklogic.com/cts#&gt;"
+#            "PREFIX xdmp: &lt;http://marklogic.com/xdmp#&gt;" is also useful.
+#
+#
+#Author notes
+#
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+</query><query name="q-1-e-ii" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-e-ii - building on q-1-d; what is the name of the national team that the player called "David Villa" plays for?
+#            Alternative solution using FILTER 
+#            This is less elegant than q-1-e, but illustrates the use of both the FILTER operation and the contains function
+#            It uses the fact that, in dbpedia, national team names contain the string "national"
+# 
+#
+# Things to note
+#            SPARQL has a set of built-in functions, such as contains()
+#
+#            BONUS information:
+#            In MarkLogic, you can also use MarkLogic built-in functions, such as cts:contains() for full-text search.
+#            Hint: use the prefic "PREFIX cts: &lt;http://marklogic.com/cts#&gt;"
+#            "PREFIX xdmp: &lt;http://marklogic.com/xdmp#&gt;" is also useful.
+#
+#
+#Author notes
+#
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+
+select ?teamName
+where {
+  ?playerURI    foaf:name  "David Villa" .
+  ?playerURI    dbont:team  ?teamURI .
+  ?teamURI      foaf:name   ?teamName .
+  FILTER    ( contains( ?teamURI, "national" ) )
+  }</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-f    - simple property path query
+#            list the players who played for each team in the 2010 World Cup Final
+# 
+#
+# Things to note
+#        ";" is shorthand for "the subject is the same in the next pattern"
+#
+#        BONUS:
+#        - from what you know of the graph from the "explore" workspace, write a query that uses a longer path
+#        - you can also use wildcarsd in the path (?+*)
+#        - see http://www.w3.org/TR/2013/REC-sparql11-query-20130321/#pp-language
+#     
+#Author notes
+# 
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+</query><query name="q-1-f" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-f    - simple property path query
+#            list the players who played for each team in the 2010 World Cup Final
+# 
+#
+# Things to note
+#        ";" is shorthand for "the subject is the same in the next pattern"
+#
+#        BONUS:
+#        - from what you know of the graph from the "explore" workspace, write a query that uses a longer path
+#        - you can also use wildcarsd in the path (?+*)
+#        - see http://www.w3.org/TR/2013/REC-sparql11-query-20130321/#pp-language
+#     
+#Author notes
+# 
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+
+select ?playerName 
+where { 
+  ?playerURI  a dbont:SoccerPlayer ;
+              foaf:name ?playerName ;
+              dbont:team/ex:playedIn :2010_FIFA_World_Cup_Final . 
+  }
+ORDER BY ?playerName
+
+</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-g    - simple aggregate query with GROUP BY
+#            count the players who played for each team in the 2010 World Cup
+# 
+#
+# Things to note
+#     
+#Author notes
+#
+#
+
+prefix dbc: &lt;http://dbpedia.org/resource/Category:&gt;
+prefix dbr: &lt;http://dbpedia.org/resource/&gt;
+prefix dbo: &lt;http://dbpedia.org/ontology/&gt;
+prefix dbp: &lt;http://dbpedia.org/property/&gt;
+prefix rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;
+prefix rdfs: &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
+</query><query name="q-1-g" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-g    - simple aggregate query with GROUP BY
+#            count the players who played for each team in the 2010 World Cup
+# 
+#
+# Things to note
+#     
+#Author notes
+#
+#
+
+prefix dbc: &lt;http://dbpedia.org/resource/Category:&gt;
+prefix dbr: &lt;http://dbpedia.org/resource/&gt;
+prefix dbo: &lt;http://dbpedia.org/ontology/&gt;
+prefix dbp: &lt;http://dbpedia.org/property/&gt;
+prefix rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;
+prefix rdfs: &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
+
+select ?natTeam (count(?s) as ?nplayers)
+where
+{
+  ?s a dbo:SoccerPlayer ;
+       dbp:nationalteam ?natTeam .
+  ?natTeam a dbo:SoccerClub .
+}
+group by ?natTeam
+order by desc( ?nplayers )
+</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-h    - more fun with paths
+#            show the population of the country that "David Villa" plays for
+# 
+#
+# Things to note
+#        We're linking the CIA World Factbook data to the 2010 World Cup data,
+#        using the fact that wfb's country's wfb:conventionalShortCountryName is the same as db's national team's foaf:name
+#
+#        BONUS:
+#        If there were no "join value" that we could use, how would you link these data sets?
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+</query><query name="q-1-h" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-h    - more fun with paths
+#            show the population of the country that "David Villa" plays for
+# 
+#
+# Things to note
+#        We're linking the CIA World Factbook data to the 2010 World Cup data,
+#        using the fact that wfb's country's wfb:conventionalShortCountryName is the same as db's national team's foaf:name
+#
+#        BONUS:
+#        If there were no "join value" that we could use, how would you link these data sets?
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+select ?population
+where { 
+  ?s   foaf:name "David Villa" ;
+       dbprop:nationalteam/foaf:name  ?natTeamName .
+  ?wfbCountry  wfb:conventionalShortCountryName  ?natTeamName .
+  ?wfbCountry  wfb:population  ?population
+  }
+
+
+</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-i    - simple INSERT
+#            insert a triple for each player over 2 meters, saying he's a giant
+# q-1-i-i  - first, find tall players
+#
+# Things to note
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX dbper:  &lt;http://dbpedia.org/ontology/Person/&gt;
+PREFIX type:   &lt;http://dbpedia.org/datatype/&gt;
+</query><query name="q-1-i-i" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-i    - simple INSERT
+#            insert a triple for each player over 2 meters, saying he's a giant
+# q-1-i-i  - first, find tall players
+#
+# Things to note
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX dbper:  &lt;http://dbpedia.org/ontology/Person/&gt;
+PREFIX type:   &lt;http://dbpedia.org/datatype/&gt;
+
+select ?player ?height
+  where { 
+     ?player dbper:height ?height filter (?height &gt; "200"^^type:centimetre) } 
+</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-i    - simple INSERT
+#            insert a triple for each player over 2 meters, saying he's a giant
+# q-1-i-ii - insert a triple for each "giant" you just found
+#
+# Things to note
+#            Set the "Query Type" in Query Console to "SPARQL Update" (above)
+#            The result should be "an empty sequence"
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX dbper:  &lt;http://dbpedia.org/ontology/Person/&gt;
+PREFIX type:   &lt;http://dbpedia.org/datatype/&gt;
+</query><query name="q-1-i-ii" focus="false" active="true" mode="sparql-update">#
+# Query 1  - simple SPARQL queries
+# q-1-i    - simple INSERT
+#            insert a triple for each player over 2 meters, saying he's a giant
+# q-1-i-ii - insert a triple for each "giant" you just found
+#
+# Things to note
+#            Set the "Query Type" in Query Console to "SPARQL Update" (above)
+#            The result should be "an empty sequence"
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX dbper:  &lt;http://dbpedia.org/ontology/Person/&gt;
+PREFIX type:   &lt;http://dbpedia.org/datatype/&gt;
+
+insert { ?player a &lt;giant&gt; }
+where {
+  ?player dbper:height ?height filter (?height &gt; "200"^^type:centimetre) } </query><query name="sandbox" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-i    - simple INSERT
+#            insert a triple for each player over 2 meters, saying he's a giant
+# q-1-i-iii- check that you insert worked correctly
+#
+# Things to note
+#            Set the "Query Type" in Query Console to "SPARQL Query" (above)
+#            The result should be Peter_Crouch and Nikola_%C5%BDigi%C4%87
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX dbper:  &lt;http://dbpedia.org/ontology/Person/&gt;
+PREFIX type:   &lt;http://dbpedia.org/datatype/&gt;
+</query><query name="q-1-i-iii" focus="false" active="true" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-i    - simple INSERT
+#            insert a triple for each player over 2 meters, saying he's a giant
+# q-1-i-iii- check that you insert worked correctly
+#
+# Things to note
+#            Set the "Query Type" in Query Console to "SPARQL Query" (above)
+#            The result should be Peter_Crouch and Nikola_%C5%BDigi%C4%87
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX dbper:  &lt;http://dbpedia.org/ontology/Person/&gt;
+PREFIX type:   &lt;http://dbpedia.org/datatype/&gt;
+
+select * where { ?s a &lt;giant&gt; }</query></workspace></export>

@@ -12,32 +12,60 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.12.1/ui-bootstrap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.12.1/ui-bootstrap-tpls.min.js"></script>
     <script>
-    /**
-    *  Module
-    *
-    * controller for executing query
-    */
+    /* Prefixes in common use for queries */
+    var prefixes = {
+        dbont:"http://dbpedia.org/ontology/",
+        dbprop: "http://dbpedia.org/property/"
+    };
+    var prefixString = Object.keys(prefixes).map(function (key) {
+                return "PREFIX " + key + ": <" + prefixes[key] + ">";
+            }).join("\n") + "\n";
+
+    /* Angular module */
     angular.module('semantics', ['ui.bootstrap']).controller('sparqlCtrl', ['$scope', '$http', function($scope, $http){
     		
-            alert("controller setup");
-            console.log($scope);
-            $scope.query = 'SELECT distinct ?s where { ?s ?p ?o } limit 50';
-            $scope.result = '{"no":"RESULT"}';
+            // console.log($scope);
+            $scope.query = prefixString + 'SELECT distinct ?s where { ?s ?p ?o } limit 50';
+            $scope.result = '{"NO":"RESULT"}';
     		$scope.submit = function() {
                 $http.defaults.headers.common.Accept = 'application/sparql-results+json';
-    			$http.get('/v1/graphs/sparql?query='+$scope.query).success(function(response) {
+                $http.get('/v1/graphs/sparql?query='+$scope.query).success(function(response) {
     				$scope.results = response.results;
                     $scope.vars = response.head.vars;
     			}).error(function(error) {
     				$scope.result = error
     			})
     		};
-    }]).controller('extensionCtrl', ['$scope', '$http', function($scope, $http){
-            $scope.query = 'SELECT distinct ?p where { ?s ?p ?o } limit 50';
-            $scope.result = '{"no":"RESULT"}';
+    }]).controller('inferringCtrl', ['$scope', '$http', function($scope, $http){
+            $scope.query = prefixString + 'SELECT ?s where { ?s a dbont:Person } limit 100';
+            $scope.rulesets = [ "inverseOf.rules", "domain.rules", 
+    "sameAs.rules", "subClassOf.rules", "range.rules", "subPropertyOf.rules" ];
+            $scope.selection =  [ "subClassOf.rules" ];
+
+            $scope.toggleSelection = function toggleSelection(fruitName) {
+                var idx = $scope.selection.indexOf(fruitName);
+
+                // is currently selected
+                if (idx > -1) {
+                  $scope.selection.splice(idx, 1);
+                }
+
+                // is newly selected
+                else {
+                  $scope.selection.push(fruitName);
+                }
+            };
+            $scope.result = '{"NO":"RESULT"}';
+            $scope.term = "";
     		$scope.submit = function() {
-                $http.defaults.headers.common.Accept = 'application/sparql-results+json';
-    			$http.get('/v1/graphs/sparql?query='+$scope.query).success(function(response) {
+            $http.defaults.headers.common.Accept = 'application/json';
+            $http({
+                    url:'/v1/resources/inferringQuery',
+                    method:"GET",
+                    params: {
+                        "rs:query" : $scope.query,
+                        "rs:rulesets" :$scope.selection}
+                }).success(function(response) {
                     console.log(response);
     				$scope.results = response.results;
                     $scope.vars = response.head.vars;
@@ -45,7 +73,18 @@
     				$scope.result = error
     			})
     		};
-    }]);
+    }]).controller('semanticExtension', ['$scope', '$http', function($scope, $http){
+    		$scope.submit = function() {
+            $http.defaults.headers.common.Accept = 'application/sparql-results+json';
+            $http({
+                    url:'/v1/resources/semanticExtension',
+                    method:"GET"
+                }).success(function(response) {
+    				$scope.results = JSON.stringify(response, null, 2);
+    			}).error(function(error) {
+    				$scope.result = error
+    			})
+            } }]);
     </script>
 </head>
 
@@ -85,8 +124,8 @@
                 </div>
             </div>
         </accordion-group>
-        <accordion-group heading="Semantic Extension Query">
-            <div class="container" ng-controller="extensionCtrl">
+        <accordion-group heading="Reasoning Query With Extension">
+            <div class="container" ng-controller="inferringCtrl">
                 <form class="form-horizontal">
                     <fieldset>
                         <!-- Form Name -->
@@ -97,6 +136,12 @@
                                 <textarea class="form-control" id="textarea2" name="textarea2" placeholder="enter query" rows="5" ng-model="query"></textarea>
                             </div>
                         </div>
+                        <label ng-repeat="ruleset in rulesets">
+                            <input type="checkbox" name="rulesets"
+                                  value="{{ruleset}}" ng-checked="selection.indexOf(ruleset) > -1"
+                                  ng-click="toggleSelection(ruleset)"
+                                  >{{ruleset}}
+                        </label>
                         <!-- Button -->
                         <div class="form-group">
                             <div class="col-md-8">
@@ -115,6 +160,24 @@
                             <td ng-repeat="v in vars">{{binding[v].value}}</td>
                         </tr>
                     </table>
+                </div>
+            </div>
+        </accordion-group>
+        <accordion-group heading="Your Semantic Extension">
+            <div class="container" ng-controller="semanticExtension">
+                <form class="form-horizontal">
+                    <fieldset>
+                        <!-- Button -->
+                        <div class="form-group">
+                            <div class="col-md-8">
+                                <button id="singlebutton2" name="singlebutton2" class="btn btn-primary" ng-click="submit()">Button</button>
+                            </div>
+                        </div>
+                    </fieldset>
+                </form>
+                <div class="col-md-8">
+                    <legend>Result</legend>
+                    <pre>{{results}}</pre>
                 </div>
             </div>
         </accordion-group>

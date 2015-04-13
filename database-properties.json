@@ -7,10 +7,34 @@
         {
             "collation": "http://marklogic.com/collation/",
             "invalid-values": "reject",
+            "localname": "goals",
+            "namespace-uri": "",
+            "range-value-positions": false,
+            "scalar-type": "long"
+        },
+        {
+            "collation": "http://marklogic.com/collation/",
+            "invalid-values": "reject",
             "localname": "id",
             "namespace-uri": "",
             "range-value-positions": false,
             "scalar-type": "string"
+        },
+        {
+            "collation": "http://marklogic.com/collation/",
+            "invalid-values": "reject",
+            "localname": "reported-date",
+            "namespace-uri": "",
+            "range-value-positions": false,
+            "scalar-type": "date"
+        },
+        {
+            "collation": "http://marklogic.com/collation/",
+            "invalid-values": "reject",
+            "localname": "confidence",
+            "namespace-uri": "",
+            "range-value-positions": false,
+            "scalar-type": "long"
         }
     ],
     "triple-index": true,

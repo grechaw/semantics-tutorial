@@ -1,0 +1,232 @@
+<export><workspace name="mlw-sw-5"><query name="sandbox" focus="true" active="true" mode="xquery">(:
+#
+# Query 5  - use SPARQL to produce an infobox based on the search term
+# q-5-a    - find facts about a team
+# 
+# User query:  Spain
+#              Also try Mexico, Netherlands
+#              
+# Result:      JSON object containing a bunch of facts related to Spain's national team and Spain the country
+# Shows:       Use facts that we know from several sources of triples (dbpedia, world factbook)
+#              to create a compelling infobox that gives the user more information about what they are searching for
+#              Also shows (in JavaScript) how easy it is to manipulate the result
+# The mechanics:
+#              Take in a country name as a string typed by the user
+#              Pass the country name into SPARQL to find related facts
+#
+# In the app
+#              user searches for a team (Spain), gets an infobox alongside the search results
+#
+# Things to note
+#              for some facts - coach, confederation - we dont have a nice "label" to print out; we could add triples for that
+#              also, it would be nice to find pictures - flag, team picture, and so on
+#
+#              BONUS:
+#              - what else could go in the infobox? From Open Data? From private company data?
+#              - add a picture to the infobox (flag, country, capital city, stadium)
+#              - BONUS-BONUS - add a map to the application and plot the location of this team on the map
+#
+#     
+#Author notes
+# add more facts; add a label for each fact; add some pictures
+#
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
+
+let $userInput := "Spain"</query><query name="q-5-a" focus="false" active="true" mode="xquery">(:
+#
+# Query 5  - use SPARQL to produce an infobox based on the search term
+# q-5-a    - find facts about a team
+# 
+# User query:  Spain
+#              Also try Mexico, Netherlands
+#              
+# Result:      JSON object containing a bunch of facts related to Spain's national team and Spain the country
+# Shows:       Use facts that we know from several sources of triples (dbpedia, world factbook)
+#              to create a compelling infobox that gives the user more information about what they are searching for
+#              Also shows (in JavaScript) how easy it is to manipulate the result
+# The mechanics:
+#              Take in a country name as a string typed by the user
+#              Pass the country name into SPARQL to find related facts
+#
+# In the app
+#              user searches for a team (Spain), gets an infobox alongside the search results
+#
+# Things to note
+#              for some facts - coach, confederation - we dont have a nice "label" to print out; we could add triples for that
+#              also, it would be nice to find pictures - flag, team picture, and so on
+#
+#              BONUS:
+#              - what else could go in the infobox? From Open Data? From private company data?
+#              - add a picture to the infobox (flag, country, capital city, stadium)
+#              - BONUS-BONUS - add a map to the application and plot the location of this team on the map
+#
+#     
+#Author notes
+# add more facts; add a label for each fact; add some pictures
+#
+:)
+
+xquery version "1.0-ml";
+import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
+
+let $userInput := "Spain"
+
+let $bindings := map:new()
+let $_bindings := 
+      map:put( $bindings, "teamName", $userInput )
+
+let $info :=
+ sem:sparql('
+    prefix dbo: &lt;http://dbpedia.org/ontology/&gt;
+    prefix dbp: &lt;http://dbpedia.org/property/&gt;
+    prefix factbook: &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+    prefix foaf: &lt;http://xmlns.com/foaf/0.1/&gt;
+    select *
+    where
+    { 
+      # get a bunch of facts about this team from dbpedia
+      ?team a dbo:SoccerClub ;
+            foaf:name ?teamName ;
+            dbo:coach ?coach ;
+            dbp:captain ?captain ;
+            dbp:confederation ?confederation .
+      # get a bunch of facts about this country from world factbook    
+      ?country  factbook:conventionalShortCountryName ?teamName ;
+                factbook:capital/factbook:name ?capital ;
+                factbook:population  ?population ;
+                factbook:totalArea ?size ;
+                factbook:flagDescription ?flag .
+            
+    }
+    ' ,
+    $bindings
+    )
+  
+return
+  $info
+
+  
+</query><query name="sandbox" focus="false" active="true" mode="javascript">/*
+#
+# Query 5  - use SPARQL to produce an infobox based on the search term
+# q-5-a    - find facts about a team
+# 
+# User query:  Spain
+#              Also try Mexico, Netherlands
+#              
+# Result:      JSON object containing a bunch of facts related to Spain's national team and Spain the country
+# Shows:       Use facts that we know from several sources of triples (dbpedia, world factbook)
+#              to create a compelling infobox that gives the user more information about what they are searching for
+#              Also shows (in JavaScript) how easy it is to manipulate the result
+# The mechanics:
+#              Take in a country name as a string typed by the user
+#              Pass the country name into SPARQL to find related facts
+#
+# In the app
+#              user searches for a team (Spain), gets an infobox alongside the search results
+#
+# Things to note
+#              for some facts - coach, confederation - we dont have a nice "label" to print out; we could add triples for that
+#              also, it would be nice to find pictures - flag, team picture, and so on
+#     
+#              BONUS:
+#              - what else could go in the infobox? From Open Data? From private company data?
+#              - add a picture to the infobox (flag, country, capital city, stadium)
+#              - BONUS-BONUS - add a map to the application and plot the location of this team on the map
+#
+#Author notes
+# add more facts; add a label for each fact; add some pictures
+#
+*/
+
+var userInput = "Spain" ;</query><query name="q-5-a-j" focus="false" active="true" mode="javascript">/*
+#
+# Query 5  - use SPARQL to produce an infobox based on the search term
+# q-5-a    - find facts about a team
+# 
+# User query:  Spain
+#              Also try Mexico, Netherlands
+#              
+# Result:      JSON object containing a bunch of facts related to Spain's national team and Spain the country
+# Shows:       Use facts that we know from several sources of triples (dbpedia, world factbook)
+#              to create a compelling infobox that gives the user more information about what they are searching for
+#              Also shows (in JavaScript) how easy it is to manipulate the result
+# The mechanics:
+#              Take in a country name as a string typed by the user
+#              Pass the country name into SPARQL to find related facts
+#
+# In the app
+#              user searches for a team (Spain), gets an infobox alongside the search results
+#
+# Things to note
+#              for some facts - coach, confederation - we dont have a nice "label" to print out; we could add triples for that
+#              also, it would be nice to find pictures - flag, team picture, and so on
+#     
+#              BONUS:
+#              - what else could go in the infobox? From Open Data? From private company data?
+#              - add a picture to the infobox (flag, country, capital city, stadium)
+#              - BONUS-BONUS - add a map to the application and plot the location of this team on the map
+#
+#Author notes
+# add more facts; add a label for each fact; add some pictures
+#
+*/
+
+var userInput = "Spain" ;
+
+var bindings = { "teamName": userInput } ;
+
+var info =
+ sem.sparql('\n\
+    prefix dbo: &lt;http://dbpedia.org/ontology/&gt;     \n\
+    prefix dbp: &lt;http://dbpedia.org/property/&gt;     \n\
+    prefix factbook: &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;     \n\
+    prefix foaf: &lt;http://xmlns.com/foaf/0.1/&gt;      \n\
+    select *                                       \n\
+    where                                          \n\
+    {                                              \n\
+      # get a bunch of facts about this team from dbpedia     \n\
+      ?team a dbo:SoccerClub ;                     \n\
+            foaf:name ?teamName ;                  \n\
+            dbo:coach ?coach ;                     \n\
+            dbp:captain ?captain ;                 \n\
+            dbp:confederation ?confederation .     \n\
+      # get a bunch of facts about this country from world factbook         \n\
+      ?country  factbook:conventionalShortCountryName ?teamName ;           \n\
+                factbook:capital/factbook:name ?capital ;                   \n\
+                factbook:population  ?population ;                          \n\
+                factbook:totalArea ?size ;         \n\
+                factbook:flagDescription ?flag .   \n\
+                                                   \n\
+    }                                              \n\
+    ' ,
+    bindings
+    )
+  
+  info
+</query><query name="q-5-a-HINT-1" focus="false" active="true" mode="sparql">    prefix dbo: &lt;http://dbpedia.org/ontology/&gt;
+    prefix dbp: &lt;http://dbpedia.org/property/&gt;
+    prefix factbook: &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+    prefix foaf: &lt;http://xmlns.com/foaf/0.1/&gt;
+    select *
+    where
+    { 
+      ?team a dbo:SoccerClub ;
+            foaf:name "Netherlands" ;
+            dbo:coach ?coach ;
+            dbp:captain ?captain ;
+            dbp:confederation ?confederation .
+            
+      ?country  factbook:conventionalShortCountryName "Netherlands" ;
+                factbook:capital/factbook:name ?capital ;
+                factbook:population  ?population ;
+                factbook:totalArea ?size .
+            
+    }</query><query name="q-5-a-HINT-2" focus="false" active="true" mode="sparql">
+select ?s ?p ?o where { ?s ?p ?o filter (?s=&lt;http://www.daml.org/2001/09/countries/fips#ES&gt;) }</query><query name="q-5-a-HINT-3" focus="false" active="true" mode="sparql">
+select ?s ?p ?o where { ?s ?p ?o filter ( contains( ?p, "coach") ) }
+
+</query></workspace></export>

@@ -1,0 +1,208 @@
+<export><workspace name="Semantics Workshop Setup"><query name="App Setup" focus="true" active="true" mode="javascript">/*
+IMPORTANT:  Please update the PATH variable appropriate to your local machine setup.
+IMPORTANT:  Please update the user and pass variables with your admin account credentials.
+
+This code will configure the indexes on the Documents database, 
+load the HTML into the Documents database, and load the SJS extensions into the modules database.
+*/
+declareUpdate();
+
+var path = "C:/semantics-tutorial-master/";
+var user = "admin";
+var pass = "admin";
+
+var dbConfig = path + "database-properties.json";
+var sjs1 = path + "htmlServer.sjs";
+var sjs2 = path + "semanticExtension.sjs";
+var sjs3 = path + "inferringQuery.sjs";
+
+
+//make sure Documents database is selected as the content source.
+if (xdmp.databaseName(xdmp.database()) == "Documents") {
+
+  //Load the first extension
+  var response1 = xdmp.httpPut(
+    "http://localhost:8000/v1/config/resources/htmlServer",
+    {
+      "headers":
+      {
+        "content-type": "application/javascript"
+      },
+      "authentication": 
+      {
+        "method" : "digest",
+        "username" : user,
+        "password" : pass
+      }
+    },
+    xdmp.documentGet(sjs1)
+  );  
+  
+  //Load the second extension
+  var response2 = xdmp.httpPut(
+    "http://localhost:8000/v1/config/resources/semanticExtension",
+    {
+      "headers":
+      {
+        "content-type": "application/javascript"
+      },
+      "authentication": 
+      {
+        "method" : "digest",
+        "username" : user,
+        "password" : pass
+      }
+    },
+    xdmp.documentGet(sjs2)
+  );
+
+  var response2 = xdmp.httpPut(
+    "http://localhost:8000/v1/config/resources/inferringQuery",
+    {
+      "headers":
+      {
+        "content-type": "application/javascript"
+      },
+      "authentication": 
+      {
+        "method" : "digest",
+        "username" : user,
+        "password" : pass
+      }
+    },
+    xdmp.documentGet(sjs3)
+  );
+  
+  // configure database indexes
+  var response3 = xdmp.httpPut(
+    "http://localhost:8002/manage/v2/databases/Documents/properties?group-id=Default",
+    {
+      "headers":
+      {
+        "content-type": "application/json"
+      },
+      "authentication": 
+      {
+        "method" : "digest",
+        "username" : user,
+        "password" : pass
+      }
+    },
+    xdmp.documentGet(dbConfig)
+  );
+  
+  "App setup is complete.  Validate the app works in a new browser tab at:  http://localhost:8000/v1/resources/htmlServer?rs:home=c:/semantics-tutorial-master";
+  
+} else {
+  "Please select the 'Documents' database as the Content Source"; 
+};
+</query><query name="Load JSON" focus="false" active="true" mode="javascript">//IMPORTANT:  Please update the PATH variable appropriate to your local machine setup.
+// Please select the Documents database as the Content Source.
+
+declareUpdate();
+
+var path = "C:/semantics-tutorial-master/";
+
+var pathToJson = path + "data/json"; //update this if necessary
+
+var propertiesDocs = xdmp.filesystemDirectory(pathToJson);
+var teamsDocs = xdmp.filesystemDirectory(pathToJson + "/teams/");
+var playersDocs = xdmp.filesystemDirectory(pathToJson + "/players/");
+
+if (xdmp.databaseName(xdmp.database()) == "Documents") {
+
+    propertiesDocs.toArray().forEach(function(doc) {
+      if (doc.type == "file") {
+        xdmp.documentLoad(doc.pathname,
+        {
+        "uri": doc.filename
+        });
+      };
+    });
+  
+  teamsDocs.toArray().forEach(function(doc) {
+    if (doc.type == "file") {
+      xdmp.documentLoad(doc.pathname,
+      {
+      "uri": "/teams/" + doc.filename
+      });
+    };
+  });  
+
+  playersDocs.toArray().forEach(function(doc) {
+    if (doc.type == "file") {
+      xdmp.documentLoad(doc.pathname,
+      {
+      "uri": "/players/" + doc.filename
+      });
+    };
+  });
+  
+  "The JSON data has been loaded.";
+  
+} else {
+  "Please select the 'Documents' database as the Content Source";  
+};</query><query name="Load Match XML" focus="false" active="true" mode="javascript">//IMPORTANT:  Please update the PATH variable appropriate to your local machine setup.
+// Please select the Documents database as the Content Source.
+
+declareUpdate();
+var path = "C:/semantics-tutorial-master/";
+
+var pathToMatchXML = path + "data/xml/matches";
+var pathToMatchTS = path + "data/xml/triples/triplestore";
+
+var matchDocs = xdmp.filesystemDirectory(pathToMatchXML);
+var matchTS = xdmp.filesystemDirectory(pathToMatchTS);
+
+if (xdmp.databaseName(xdmp.database()) == "Documents") {
+
+    matchDocs.toArray().forEach(function(doc) {
+      if (doc.type == "file") {
+        xdmp.documentLoad(doc.pathname,
+        {
+        "uri": "/matches/" + doc.filename
+        });
+      };
+    });
+  
+    matchTS.toArray().forEach(function(doc) {
+      if (doc.type == "file") {
+        xdmp.documentLoad(doc.pathname,
+        {
+        "uri": "/matches/triples/triplestore" + doc.filename
+        });
+      };
+    });
+  
+  "The match data has been loaded.";
+  
+} else {
+  "Please select the 'Documents' database as the Content Source";  
+};</query><query name="Load Triples" focus="false" active="true" mode="javascript">//IMPORTANT:  Please update the PATH variable appropriate to your local machine setup.
+// Please select the Documents database as the Content Source.
+
+declareUpdate();
+
+var path = "C:/semantics-tutorial-master/";
+
+var pathToTriples = path + "data/xml/triples"; //update this if necessary
+
+var triplesDocs = xdmp.filesystemDirectory(pathToTriples);
+
+if (xdmp.databaseName(xdmp.database()) == "Documents") {
+
+    triplesDocs.toArray().forEach(function(doc) {
+      if (doc.type == "file") {
+        
+        xdmp.eval("declareUpdate(); xdmp.documentLoad(docPath, { 'uri': docFile, 'collections': 'http://marklogic.com/semantics#default-graph' });",
+                  {"docPath": doc.pathname, "docFile": doc.filename},
+                  { "isolation" : "different-transaction" });
+        
+      };
+    });
+  
+  "The triple data has been loaded.";
+  
+} else {
+  "Please select the 'Documents' database as the Content Source";  
+};</query></workspace></export>
