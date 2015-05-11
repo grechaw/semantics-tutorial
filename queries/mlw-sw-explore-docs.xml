@@ -1,4 +1,4 @@
-<export><workspace name="mlw-sw-explore-docs"><query name="players" focus="false" active="true" content-source="as:3707987997079009010:" mode="xquery">(:
+<export><workspace name="mlw-sw-explore-docs"><query name="players" focus="true" active="true" content-source="as:3707987997079009010:" mode="xquery">(:
 # show all documents in the players directory
 # could also be a collection
 # How would you do this in JavaScript?
@@ -71,7 +71,7 @@ fn:count(
 for $doc in xdmp:directory( "/teams/" )
 return
   fn:document-uri( $doc )
-)</query><query name="matches-docs-count" focus="true" active="true" content-source="as:3707987997079009010:" mode="xquery">(:
+)</query><query name="matches-docs-count" focus="false" active="true" content-source="as:3707987997079009010:" mode="xquery">(:
 # count all documents in the matches directory
 :)
 
