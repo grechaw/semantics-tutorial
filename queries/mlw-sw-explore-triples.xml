@@ -63,7 +63,7 @@ where
   { select ?s where { ?s a dbont:SoccerPlayer } limit 1 }
 }</query><query name="all-about-teams" focus="false" active="true" content-source="as:3707987997079009010:" mode="sparql">#
 #  what can SPARQL tell me about a team?
-#  show me all triples where the first soccer player is the subject
+#  show me all triples where the first soccer team is the subject
 #
 
 PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
