@@ -111,7 +111,7 @@ var playersDocs = xdmp.filesystemDirectory(pathToJson + "/players/");
 
 if (xdmp.databaseName(xdmp.database()) == "Documents") {
 
-    propertiesDocs.toArray().forEach(function(doc) {
+    propertiesDocs.forEach(function(doc) {
       if (doc.type == "file") {
         xdmp.documentLoad(doc.pathname,
         {

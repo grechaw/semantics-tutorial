@@ -11,6 +11,7 @@ PWD=`pwd`
 # these two steps enable the triples index and can set the inference
 # Really only needs to be done once
 echo "Configuring database"
+#$CURL -Hcontent-type:application/json -d@database-properties.json "http://localhost:8002/manage/v2/databases/Documents/properties?group-id=Default"
 $CURL -Hcontent-type:application/json -d@database-properties.json "http://localhost:8002/manage/v2/databases/Documents/properties"
 
 # intall an extension that can be the web server for this application

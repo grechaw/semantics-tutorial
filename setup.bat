@@ -8,6 +8,7 @@ set PWD=%PWD:\=/%
 rem setup the database and apperserver.
 
 echo "Configuring database"
+rem %CURL% -Hcontent-type:application/json -d@database-properties.json "http://localhost:8002/manage/v2/databases/Documents/properties?group-id=Default"
 %CURL% -Hcontent-type:application/json -d@database-properties.json "http://localhost:8002/manage/v2/databases/Documents/properties"
 
 echo "Installing HTML page server extension"

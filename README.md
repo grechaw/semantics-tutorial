@@ -13,7 +13,7 @@ on port 8000. Data will be loaded into the Documents database.
 * java
 * curl  (provided for Windows)
 * scripting ( sh or .bat )
-* MarkLogic 8+ installed, running
+* MarkLogic 8.0-2 or newer installed, running
 
 #Quickstart
 
