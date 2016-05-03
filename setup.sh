@@ -24,5 +24,5 @@ $CURL -Hcontent-type:application/javascript -d@inferringQuery.sjs http://localho
 $CURL -Hcontent-type:application/javascript -d@semanticExtension.sjs http://localhost:8000/v1/config/resources/semanticExtension 
 
 echo "Loading Data..."
-$MLCP IMPORT -input_file_path data -username $USERNAME -password $PASSWORD -host localhost -port 8000 -output_uri_replace "$PWD/data/json,'',$PWD/data/xml,'',$PWD/data/xml/triples,''" -output_collections "http://marklogic.com/semantics#default-graph"
+$MLCP IMPORT -input_file_path data -username $USERNAME -password $PASSWORD -host localhost -port 8000 -output_uri_replace "$PWD/data/json,'',$PWD/data/xml,'',$PWD/data/xml/triples,''" -output_collections "http://marklogic.com/semantics#default-graph","mlw16"
 
