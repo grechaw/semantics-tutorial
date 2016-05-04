@@ -1,4 +1,4 @@
-<export><workspace name="mlw-sw-7"><query name="sandbox" focus="true" active="true" mode="xquery">(:
+<export><workspace name="mlw-sw-7"><query name="sandbox" focus="false" listorder="1" taborder="1" active="true" database="17653245913469553930" server="7012470292189676474" mode="xquery">(:
 #
 # Query 7 - annotate triples with generic metadata
 #
@@ -7,7 +7,7 @@
 #           using the full expressive power of XML or JSON, and use those annotations to restrict a SPARQL query.
 #     
 :)
-</query><query name="q-7-annotate" focus="false" active="true" mode="xquery">(:
+</query><query name="q-7-annotate" focus="false" listorder="2" taborder="2" active="true" database="17653245913469553930" server="7012470292189676474" mode="xquery">(:
 #
 # Query 7 - annotate triples with generic metadata
 #
@@ -31,7 +31,9 @@ xdmp:document-insert(
     { sem:triple( sem:iri("http://dbpedia.org/resource/David_Beckham"), sem:iri("http://example.com/earningsRank"), 2 ) }
     &lt;currency&gt;pounds&lt;/currency&gt;
     &lt;source&gt;Forbes&lt;/source&gt;
-  &lt;/doc&gt; ) ;
+  &lt;/doc&gt;,
+  xdmp:default-permissions(),
+  "mlw16" ) ;
   
 xdmp:document-insert(
   "Jordan-1.xml",
@@ -47,14 +49,16 @@ xdmp:document-insert(
     { sem:triple( sem:iri("http://dbpedia.org/resource/Michael_Jordan"), sem:iri("http://example.com/earningsRank"), 1 ) }
     &lt;currency&gt;dollars&lt;/currency&gt;
     &lt;source&gt;Forbes&lt;/source&gt;
-  &lt;/doc&gt; ) ;
+  &lt;/doc&gt;,
+  xdmp:default-permissions(),
+  "mlw16" ) ;
   
 
 fn:doc( "Jordan-1.xml" ); 
 
 fn:doc( "Beckham-1.xml" ) ;
 
-    </query><query name="sandbox" focus="false" active="true" mode="xquery">(:
+    </query><query name="sandbox" focus="false" listorder="3" taborder="3" active="true" database="17653245913469553930" server="" mode="xquery">(:
 #
 # Query 7 - combination query (annotated triples). Annotate triples so you can query on their properties.
 #            - find the document that matches a triple pattern
@@ -72,7 +76,7 @@ fn:doc( "Beckham-1.xml" ) ;
 
 xquery version "1.0-ml";
 import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
-</query><query name="q-7-a" focus="false" active="true" mode="xquery">(:
+</query><query name="q-7-a" focus="false" listorder="4" taborder="4" active="true" database="17653245913469553930" server="7012470292189676474" mode="xquery">(:
 #
 # Query 7 - combination query (annotated triples). Annotate triples so you can query on their properties.
 #            - find the document that matches a triple pattern
@@ -110,7 +114,7 @@ let $result :=
     $cts-query (: the sem:store here is just a cts:query, but it could include other stuff such as inference :)
     )
 return $result
-</query><query name="sandbox" focus="false" active="true" mode="javascript">/*
+</query><query name="sandbox" focus="false" listorder="5" taborder="5" active="true" database="17653245913469553930" server="" mode="javascript">/*
 #
 # Query 7 - combination query (annotated triples). Annotate triples so you can query on their properties.
 #            - find the document that matches a triple pattern
@@ -125,7 +129,7 @@ return $result
 #Author notes
 #strip language tags from data for simplicity?
 */
-</query><query name="q-7-a-j" focus="false" active="true" mode="javascript">/*
+</query><query name="q-7-a-j" focus="false" listorder="6" taborder="6" active="true" database="17653245913469553930" server="7012470292189676474" mode="javascript">/*
 #
 # Query 7 - combination query (annotated triples). Annotate triples so you can query on their properties.
 #            - find the document that matches a triple pattern
@@ -161,7 +165,7 @@ var result =
     )
 
 result
-</query><query name="sandbox" focus="false" active="true" mode="xquery">(:
+</query><query name="sandbox" focus="false" listorder="7" taborder="7" active="true" database="17653245913469553930" server="" mode="xquery">(:
 #
 # Query 7 - combination query (annotated triples). Annotate triples so you can query on their properties.
 #            - find the document that matches a triple pattern
@@ -186,7 +190,7 @@ xquery version "1.0-ml";
 import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
 
 declare namespace data = "http://wmdemo.ml.com/data" ;
-</query><query name="q-7-b" focus="false" active="true" mode="xquery">(:
+</query><query name="q-7-b" focus="false" listorder="8" taborder="8" active="true" database="17653245913469553930" server="" mode="xquery">(:
 #
 # Query 7 - combination query (annotated triples). Annotate triples so you can query on their properties.
 #            - find the document that matches a triple pattern
@@ -240,7 +244,7 @@ let $result :=
     $cts-query (: the sem:store here is just a cts:query, but it could include other stuff such as inference :)
     )
 return $result
-</query><query name="sandbox" focus="false" active="true" mode="javascript">/*
+</query><query name="sandbox" focus="false" listorder="9" taborder="9" active="true" database="17653245913469553930" server="" mode="javascript">/*
 #
 # Query 7 - combination query (annotated triples). Annotate triples so you can query on their properties.
 #            - find the document that matches a triple pattern
@@ -257,7 +261,7 @@ return $result
 #Author notes
 #
 */
-</query><query name="q-7-b-j" focus="false" active="true" mode="javascript">/*
+</query><query name="q-7-b-j" focus="false" listorder="10" taborder="10" active="true" database="17653245913469553930" server="" mode="javascript">/*
 #
 # Query 7 - combination query (annotated triples). Annotate triples so you can query on their properties.
 #            - find the document that matches a triple pattern
@@ -305,12 +309,12 @@ var result =
 
 result
 
-</query><query name="q-7-BONUS-1" focus="false" active="true" mode="xquery">(:
+</query><query name="q-7-BONUS-1" focus="true" listorder="11" taborder="11" active="true" database="17653245913469553930" server="7012470292189676474" mode="xquery">(:
 #
 # Query 7 - combination query (annotated triples). Annotate triples so you can query on their properties.
 # q-7-BONUS-1   - show how you can do bitemporal SPARQL by embedding triples in a bitemporal document
 #
-:)</query><query name="BONUS-1-j" focus="false" active="true" mode="xquery">/*
+:)</query><query name="BONUS-1-j" focus="false" listorder="12" taborder="12" active="true" database="17653245913469553930" server="7012470292189676474" mode="xquery">/*
 #
 # Query 7 - combination query (annotated triples). Annotate triples so you can query on their properties.
 # q-7-BONUS-1   - show how you can do bitemporal SPARQL by embedding triples in a bitemporal document

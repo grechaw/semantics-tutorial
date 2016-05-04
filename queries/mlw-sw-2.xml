@@ -1,4 +1,4 @@
-<export><workspace name="mlw-sw-2"><query name="sandbox" focus="true" active="true" mode="sparql">#
+<export><workspace name="mlw-sw-2"><query name="sandbox" focus="false" listorder="1" taborder="1" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-a    - show all the people (Persons) in the database
 # 
@@ -16,7 +16,7 @@ PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
 PREFIX ex:     &lt;http://example.com/&gt;
 PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
 PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
-PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;</query><query name="q-2-a" focus="false" active="true" mode="sparql">#
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;</query><query name="q-2-a" focus="false" listorder="2" taborder="2" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql">#
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-a    - show all the people (Persons) in the database
 # 
@@ -40,7 +40,7 @@ select distinct( ?person AS ?dPerson )
 where { 
   ?person  a dbont:Person 
   }
-  LIMIT 100</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+  LIMIT 100</query><query name="sandbox" focus="false" listorder="3" taborder="3" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-b    - show all the athletes in the database
 # 
@@ -59,7 +59,7 @@ PREFIX ex:     &lt;http://example.com/&gt;
 PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
 PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
 PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
-</query><query name="q-2-b" focus="false" active="true" mode="sparql">#
+</query><query name="q-2-b" focus="false" listorder="4" taborder="4" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql">#
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-b    - show all the athletes in the database
 # 
@@ -83,7 +83,7 @@ select distinct( ?athlete AS ?dAthlete )
 where { 
   ?athlete  a dbont:Athlete
   }
-  LIMIT 100</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+  LIMIT 100</query><query name="sandbox" focus="false" listorder="5" taborder="5" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-c    - show all the soccer players (SoccerPlayer) in the database
 # 
@@ -102,7 +102,7 @@ PREFIX ex:     &lt;http://example.com/&gt;
 PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
 PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
 PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
-</query><query name="q-2-c" focus="false" active="true" mode="sparql">#
+</query><query name="q-2-c" focus="false" listorder="6" taborder="6" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql">#
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-c    - show all the soccer players (SoccerPlayer) in the database
 # 
@@ -126,7 +126,7 @@ select distinct( ?SoccerPlayer AS ?dSoccerPlayer )
 where { 
   ?SoccerPlayer  a dbont:SoccerPlayer
   }
-  LIMIT 100</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+  LIMIT 100</query><query name="sandbox" focus="false" listorder="7" taborder="7" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-d    - tell the triple store (by adding triples) that:
 #            -- SoccerPlayer is a subclass of Athlete (every soccer player is an athlete)
@@ -151,7 +151,7 @@ PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
 PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
 PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
 PREFIX rdfs:   &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
-</query><query name="q-2-d" focus="false" active="true" mode="sparql-update">#
+</query><query name="q-2-d" focus="false" listorder="8" taborder="8" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql-update">#
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-d    - tell the triple store (by adding triples) that:
 #            -- SoccerPlayer is a subclass of Athlete (every soccer player is an athlete)
@@ -178,10 +178,12 @@ PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
 PREFIX rdfs:   &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
 
 INSERT DATA {
-  dbont:SoccerPlayer rdfs:subClassOf dbont:Athlete .
-  dbont:Athlete      rdfs:subClassOf dbont:Person .
+  GRAPH &lt;mlw16&gt; {
+    dbont:SoccerPlayer rdfs:subClassOf dbont:Athlete .
+    dbont:Athlete      rdfs:subClassOf dbont:Person .
+    }
   }
-</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+</query><query name="sandbox" focus="false" listorder="9" taborder="9" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-d-i  - check: show the triples you inserted in q-2-d
 # 
@@ -201,7 +203,7 @@ PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
 PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
 PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
 PREFIX rdfs:   &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
-</query><query name="q-2-d-i" focus="false" active="true" mode="sparql">#
+</query><query name="q-2-d-i" focus="false" listorder="10" taborder="10" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql">#
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-d-i  - check: show the triples you inserted in q-2-d
 # 
@@ -222,7 +224,7 @@ PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
 PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
 PREFIX rdfs:   &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
 
-select * where { ?s rdfs:subClassOf ?o filter ( ?s=dbont:SoccerPlayer || ?s=dbont:Athlete ) }</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+select * where { ?s rdfs:subClassOf ?o filter ( ?s=dbont:SoccerPlayer || ?s=dbont:Athlete ) }</query><query name="sandbox" focus="false" listorder="11" taborder="11" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-e    - show all the people (Persons) in the database, using rdfs:subClassOf
 # 
@@ -242,7 +244,7 @@ PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
 PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
 PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
 PREFIX rdfs:   &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
-</query><query name="q-2-e" focus="false" active="true" mode="sparql">#
+</query><query name="q-2-e" focus="false" listorder="12" taborder="12" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql">#
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-e    - show all the people (Persons) in the database, using rdfs:subClassOf
 # 
@@ -270,7 +272,7 @@ where {
   ?class2  rdfs:subClassOf  ?class3 .
   filter ( ?class3 = dbont:Person )
   }
-  LIMIT 100</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+  LIMIT 100</query><query name="sandbox" focus="false" listorder="13" taborder="13" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-e-i  - show all the people (Persons) in the database, using rdfs:subClassOf
 #            this is the same as q-2-e, but using a path as short-hand
@@ -290,7 +292,7 @@ PREFIX ex:     &lt;http://example.com/&gt;
 PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
 PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
 PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
-PREFIX rdfs:   &lt;http://www.w3.org/2000/01/rdf-schema#&gt;</query><query name="q-2-e-i" focus="false" active="true" mode="sparql">#
+PREFIX rdfs:   &lt;http://www.w3.org/2000/01/rdf-schema#&gt;</query><query name="q-2-e-i" focus="false" listorder="14" taborder="14" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql">#
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-e-i  - show all the people (Persons) in the database, using rdfs:subClassOf
 #            this is the same as q-2-e, but using a path as short-hand
@@ -316,7 +318,7 @@ select distinct( ?person AS ?dPerson )
 where { 
   ?person  a/rdfs:subClassOf/rdfs:subClassOf dbont:Person  .
   }
-  LIMIT 100</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+  LIMIT 100</query><query name="sandbox" focus="false" listorder="15" taborder="15" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-e-ii - show all the people (Persons) in the database, using rdfs:subClassOf
 #            this is the same as q-2-e-i, but using a path "*" as short-hand
@@ -340,7 +342,7 @@ PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
 PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
 PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
 PREFIX rdfs:   &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
-PREFIX rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;</query><query name="q-2-e-ii" focus="false" active="true" mode="sparql">#
+PREFIX rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;</query><query name="q-2-e-ii" focus="false" listorder="16" taborder="16" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql">#
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-e-ii - show all the people (Persons) in the database, using rdfs:subClassOf
 #            this is the same as q-2-e-i, but using a path "*" as short-hand
@@ -372,7 +374,7 @@ where {
   ?person  a/rdfs:subClassOf* dbont:Person .
   }
 
-</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+</query><query name="sandbox" focus="false" listorder="17" taborder="17" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-f    - show all the people (Persons) in the database - same as q-2-a
 # 
@@ -391,7 +393,7 @@ PREFIX ex:     &lt;http://example.com/&gt;
 PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
 PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
 PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
-</query><query name="q-2-f" focus="false" active="true" mode="sparql">#
+</query><query name="q-2-f" focus="false" listorder="18" taborder="18" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql">#
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-f    - show all the people (Persons) in the database - same as q-2-a
 # 
@@ -415,7 +417,7 @@ select distinct( ?person AS ?dPerson )
 where { 
   ?person  a dbont:Person 
   }
-  LIMIT 100</query><query name="sandbox" focus="false" active="true" mode="sparql">(:
+  LIMIT 100</query><query name="sandbox" focus="false" listorder="19" taborder="19" active="true" database="17653245913469553930" server="" mode="sparql">(:
 #
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-g    - show all the people (Persons) in the database WITHOUT a path
@@ -439,7 +441,7 @@ where {
 #there is no coach class
 #use rdfs:range over the dbont:Coach predicate to show that coaches are people too (but not Athletes)
 :)
-</query><query name="q-2-g" focus="false" active="true" mode="xquery">(:
+</query><query name="q-2-g" focus="false" listorder="20" taborder="20" active="true" database="17653245913469553930" server="7012470292189676474" mode="xquery">(:
 #
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-g    - show all the people (Persons) in the database WITHOUT a path
@@ -480,7 +482,7 @@ where {
   (),
   $myStore
 )
-</query><query name="sandbox" focus="false" active="true" mode="sparql">/*
+</query><query name="sandbox" focus="false" listorder="21" taborder="21" active="true" database="17653245913469553930" server="" mode="sparql">/*
 #
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-g-j  - show all the people (Persons) in the database WITHOUT a path
@@ -504,7 +506,7 @@ where {
 #there is no coach class
 #use rdfs:range over the dbont:Coach predicate to show that coaches are people too (but not Athletes)
 */
-</query><query name="q-2-g-j" focus="false" active="true" mode="javascript">/*
+</query><query name="q-2-g-j" focus="false" listorder="22" taborder="22" active="true" database="17653245913469553930" server="7012470292189676474" mode="javascript">/*
 #
 # Query 2  - the magic of inference ( fun with rdfs:subClassOf )
 # q-2-g-j  - show all the people (Persons) in the database WITHOUT a path
@@ -543,7 +545,7 @@ where {                                         \
   [],  
   myStore    
 ) ;
-</query><query name="q-2-Bonus-1" focus="false" active="true" mode="xquery">(:
+</query><query name="q-2-Bonus-1" focus="false" listorder="23" taborder="23" active="true" database="17653245913469553930" server="7012470292189676474" mode="xquery">(:
 #
 # BONUS 1  - write your own inference rules
 #          - e.g. I want to query for Spanish-speaking players
@@ -555,7 +557,7 @@ where {                                         \
 #     
 #Author notes
 #
-:)</query><query name="q-2-Bonus-1-j" focus="false" active="true" mode="javascript">/*
+:)</query><query name="q-2-Bonus-1-j" focus="false" listorder="24" taborder="24" active="true" database="17653245913469553930" server="7012470292189676474" mode="javascript">/*
 #
 # BONUS 1  - write your own inference rules
 #          - e.g. I want to query for Spanish-speaking players
@@ -568,9 +570,9 @@ where {                                         \
 #Author notes
 #
 */
-</query><query name="q-2-Bonus-2" focus="false" active="true" mode="xquery">(:
+</query><query name="q-2-Bonus-2" focus="false" listorder="25" taborder="25" active="true" database="17653245913469553930" server="7012470292189676474" mode="xquery">(:
 #
-# BONUS 2  - use built-in MarkLogic functions inside your SPARQL uery
+# BONUS 2  - use built-in MarkLogic functions inside your SPARQL query
 #          - e.g. use cts:contains() in a filter for full-text search over objects
 # 
 #
@@ -579,7 +581,7 @@ where {                                         \
 #     
 #Author notes
 #
-:)</query><query name="q-2-Bonus-2-j" focus="false" active="true" mode="javascript">/*
+:)</query><query name="q-2-Bonus-2-j" focus="true" listorder="26" taborder="26" active="true" database="17653245913469553930" server="7012470292189676474" mode="javascript">/*
 #
 # BONUS 2  - use built-in MarkLogic functions inside your SPARQL uery
 #          - e.g. use cts:contains() in a filter for full-text search over objects

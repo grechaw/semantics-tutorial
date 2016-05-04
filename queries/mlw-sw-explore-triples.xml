@@ -1,4 +1,4 @@
-<export><workspace name="mlw-sw-explore-triples"><query name="show-types" focus="true" active="true" content-source="as:3707987997079009010:" mode="sparql">
+<export><workspace name="mlw-sw-explore-triples"><query name="show-types" focus="false" listorder="1" taborder="1" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql">
 #
 #  show distinct types in the triplestore
 #  Note: "a" is shorthand for rdf:type
@@ -8,7 +8,7 @@ where
 { 
   ?s a ?o
 }
-</query><query name="show-teams" focus="false" active="true" content-source="as:3707987997079009010:" mode="sparql">
+</query><query name="show-teams" focus="false" listorder="2" taborder="2" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql">
 #
 #  show all the teams in the triplestore
 #  Note: "a" is shorthand for rdf:type
@@ -21,7 +21,7 @@ where {
   ?teamIRI   a dbont:SoccerClub  ;
              foaf:name ?teamName .
   }
-</query><query name="show-matches" focus="false" active="true" content-source="as:3707987997079009010:" mode="sparql">
+</query><query name="show-matches" focus="false" listorder="3" taborder="3" active="true" database="17653245913469553930" server="3707987997079009010" mode="sparql">
 #
 #  show all the matches in the triplestore
 #  
@@ -35,7 +35,7 @@ where {
   ?matchIRI   a dbont:FootballMatch  ;
               foaf:name ?matchName .
   }
-</query><query name="show-players" focus="false" active="true" content-source="as:3707987997079009010:" mode="sparql">
+</query><query name="show-players" focus="false" listorder="4" taborder="4" active="true" database="17653245913469553930" server="3707987997079009010" mode="sparql">
 #
 #  show all the players in the triplestore and their names
 #  Note: some players have more than one name
@@ -49,7 +49,7 @@ where
 { 
   ?s a dbont:SoccerPlayer ;
      foaf:name ?playerName .
-}</query><query name="all-about-players" focus="false" active="true" content-source="as:3707987997079009010:" mode="sparql">#
+}</query><query name="all-about-players" focus="false" listorder="5" taborder="5" active="true" database="17653245913469553930" server="3707987997079009010" mode="sparql">#
 #  what can SPARQL tell me about a player?
 #  show me all triples where the first soccer player is the subject
 #
@@ -61,7 +61,7 @@ where
 { 
   ?s ?p ?o .
   { select ?s where { ?s a dbont:SoccerPlayer } limit 1 }
-}</query><query name="all-about-teams" focus="false" active="true" content-source="as:3707987997079009010:" mode="sparql">#
+}</query><query name="all-about-teams" focus="false" listorder="6" taborder="6" active="true" database="17653245913469553930" server="3707987997079009010" mode="sparql">#
 #  what can SPARQL tell me about a team?
 #  show me all triples where the first soccer team is the subject
 #
@@ -73,7 +73,7 @@ where
 { 
   ?s ?p ?o .
   { select ?s where { ?s a dbont:SoccerClub } limit 1 }
-}</query><query name="all-about-matches" focus="false" active="true" content-source="as:3707987997079009010:" mode="sparql">#
+}</query><query name="all-about-matches" focus="false" listorder="7" taborder="7" active="true" database="17653245913469553930" server="3707987997079009010" mode="sparql">#
 #  what can SPARQL tell me about a match?
 #  show me all triples where the first match is the subject
 #
@@ -86,7 +86,7 @@ where
 { 
   ?s ?p ?o .
   { select ?s where { ?s a dbont:FootballMatch } limit 1 }
-}</query><query name="exp-dbp-mexico-1" focus="false" active="true" content-source="as:3707987997079009010:" mode="sparql">#
+}</query><query name="exp-dbp-mexico-1" focus="false" listorder="8" taborder="8" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql">#
 # explore Mexico dbpedia dataset
 # show triples with Mexico_national_football_team as subject or object
 #
@@ -99,7 +99,7 @@ where {
     FILTER ( (?s=&lt;http://dbpedia.org/resource/Mexico_national_football_team&gt;) || (?o=&lt;http://dbpedia.org/resource/Mexico_national_football_team&gt;) )
     }
   order by ?s
-</query><query name="exp-wfb-mexico-1" focus="false" active="true" content-source="as:3707987997079009010:" mode="sparql">#
+</query><query name="exp-wfb-mexico-1" focus="false" listorder="9" taborder="9" active="true" database="17653245913469553930" server="3707987997079009010" mode="sparql">#
 # explore Mexico wfb dataset
 # show triples with MX as subject or object
 #
@@ -111,70 +111,7 @@ where {
   ?s ?p ?o
      filter ( ?s=&lt;http://www.daml.org/2001/09/countries/fips#MX&gt; || ?o=&lt;http://www.daml.org/2001/09/countries/fips#MX&gt; )
   }
-  order by ?s</query><query name="wfb-adhoc-query" focus="false" active="true" content-source="as:3707987997079009010:" mode="xquery">(:
-#
-#  Call out to the CIA World FactBook SPARQL endpoint
-#  query for the first 10 triples
-#  Note: to insert the results into the database, use CONSTRUCT (CONSTRUCT returns triples, not solutions)
-#
-#  Requires a network connection
-#
-#  Hint: some interesting factbook predicates:
-#    - &lt;http://wifo5-04.informatik.uni-mannheim.de/factbook/ns#climate&gt; - climate of a country
-#    - &lt;http://www.daml.org/2001/12/factbook/factbook-ont#internationalDispute&gt; - international disputes a country is involved in
-#
-:)
-
-let $sparql := '
-select ?s ?p ?o where { ?s ?p ?o } limit 10
-'
-
-let $sparql-url-encoded :=
-  xdmp:url-encode( $sparql )
-  
-let $endpoint :=
-  'http://wifo5-04.informatik.uni-mannheim.de/factbook/sparql'
-  
-let $url :=
-  fn:concat(
-    $endpoint,
-    "?query=",
-    $sparql-url-encoded
-    )
-
-
-return 
-  xdmp:http-get( $url )</query><query name="wfb-adhoc-query-j" focus="false" active="true" content-source="as:3707987997079009010:" mode="javascript">/*
-#
-#  Call out to the CIA World FactBook SPARQL endpoint
-#  query for the first 10 triples
-#  Note: to insert the results into the database, use CONSTRUCT (CONSTRUCT returns triples, not solutions)
-#
-#  Requires a network connection
-#
-#  Hint: some interesting factbook predicates:
-#    - &lt;http://wifo5-04.informatik.uni-mannheim.de/factbook/ns#climate&gt; - climate of a country
-#    - &lt;http://www.daml.org/2001/12/factbook/factbook-ont#internationalDispute&gt; - international disputes a country is involved in
-#
-*/
-
-var sparql = ' select ?s ?p ?o where { ?s ?p ?o } limit 10 ' ;
-
-var sparqlUrlEncoded =
-  xdmp.urlEncode( sparql ) ;
-  
-var endpoint =
-  'http://wifo5-04.informatik.uni-mannheim.de/factbook/sparql' ;
-  
-var url =
-  fn.concat(
-    endpoint,
-    "?query=",
-    sparqlUrlEncoded
-    ) ;
-
-
-  xdmp.httpGet( url ) ;</query><query name="dbpedia-adhoc-query" focus="false" active="true" content-source="as:3707987997079009010:" mode="xquery">(:
+  order by ?s</query><query name="dbpedia-adhoc-query" focus="false" listorder="12" taborder="12" active="true" database="17653245913469553930" server="7012470292189676474" mode="xquery">(:
 #
 #  Call out to the dbpedia SPARQL endpoint
 #  query for the first 10 triples about te Mexico national football team
@@ -202,7 +139,7 @@ let $url :=
 
 
 return 
-  xdmp:http-get( $url )</query><query name="dbpedia-adhoc-query-j" focus="false" active="true" content-source="as:3707987997079009010:" mode="javascript">/*
+  xdmp:http-get( $url )</query><query name="dbpedia-adhoc-query-j" focus="true" listorder="13" taborder="13" active="true" database="17653245913469553930" server="7012470292189676474" mode="javascript">/*
 #
 #  Call out to the dbpedia SPARQL endpoint
 #  query for the first 10 triples about the Mexico national football team
@@ -229,6 +166,6 @@ var url =
     ) ;
 
 
-  xdmp.httpGet( url ) ;</query><query name="BONUS-1" focus="false" active="true" content-source="as:3707987997079009010:" mode="javascript">// Using XQuery or JavaScript, go to some SPARQL endpoint and load some triples into MarkLogic
+  xdmp.httpGet( url ) ;</query><query name="BONUS-1" focus="false" listorder="14" taborder="14" active="true" database="17653245913469553930" server="7012470292189676474" mode="javascript">// Using XQuery or JavaScript, go to some SPARQL endpoint and load some triples into MarkLogic
 // The endpoint could be dbpedia or World factbook; or geonames; or one that you find via Google
 //</query></workspace></export>

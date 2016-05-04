@@ -1,0 +1,6 @@
+<export><workspace name="mlw-sw-cleanup"><query name="Cleanup" focus="true" listorder="1" taborder="1" active="true" database="17653245913469553930" server="7012470292189676474" mode="xquery">(:
+  cleanup - deletes all triples and documents inserted during this workshop
+  
+:)
+
+xdmp:collection-delete("mlw16")</query></workspace></export>

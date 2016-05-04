@@ -1,4 +1,4 @@
-<export><workspace name="mlw-sw-1"><query name="sandbox" focus="true" active="true" mode="sparql">#
+<export><workspace name="mlw-sw-1"><query name="sandbox" focus="false" listorder="1" taborder="1" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-a    - list all triples (limited to the first 100)
 #            
@@ -7,7 +7,7 @@
 # Things to note
 #     This is like "SELECT * FROM &lt;every table&gt;" in a relational database; LIMIT is your friend!
 #Author notes
-#</query><query name="q-1-a" focus="false" active="true" mode="sparql">#
+#</query><query name="q-1-a" focus="false" listorder="2" taborder="2" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-a    - list all triples (limited to the first 100)
 #            
@@ -19,7 +19,7 @@
 #
 
 select ?s ?p ?o
-where { ?s ?p ?o } LIMIT 100</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+where { ?s ?p ?o } LIMIT 100</query><query name="sandbox" focus="false" listorder="3" taborder="3" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-b    - simple lookup of a fact - how tall is David Villa?
 # 
@@ -27,7 +27,7 @@ where { ?s ?p ?o } LIMIT 100</query><query name="sandbox" focus="false" active="
 # Things to note
 #     
 #Author notes
-#</query><query name="q-1-b" focus="false" active="true" mode="sparql">#
+#</query><query name="q-1-b" focus="false" listorder="4" taborder="4" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-b    - simple lookup of a fact - how tall is David Villa?
 # 
@@ -41,7 +41,7 @@ select ?o
 where {
   &lt;http://dbpedia.org/resource/David_Villa&gt; &lt;http://dbpedia.org/ontology/Person/height&gt; ?o
   }
-</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+</query><query name="sandbox" focus="false" listorder="5" taborder="5" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-c    - simple lookup of a fact - how tall is David Villa?
 #            same as q-1-b , but with prefixes (less typing)
@@ -53,7 +53,7 @@ where {
 #
 #
 PREFIX : &lt;http://dbpedia.org/resource/&gt;
-PREFIX dbont: &lt;http://dbpedia.org/ontology/Person/&gt;</query><query name="q-1-c" focus="false" active="true" mode="sparql">#
+PREFIX dbont: &lt;http://dbpedia.org/ontology/Person/&gt;</query><query name="q-1-c" focus="false" listorder="6" taborder="6" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-c    - simple lookup of a fact - how tall is David Villa?
 #            same as q-1-b , but with prefixes (less typing)
@@ -70,7 +70,7 @@ PREFIX dbont: &lt;http://dbpedia.org/ontology/Person/&gt;
 select ?o 
 where {
   :David_Villa dbont:height ?o
-  }</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+  }</query><query name="sandbox" focus="false" listorder="7" taborder="7" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-d    - simple lookup of a fact - which team is David Villa on?
 #            similar to q-1-b ; we'll build on this query
@@ -85,7 +85,7 @@ PREFIX : &lt;http://dbpedia.org/resource/&gt;
 PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
 PREFIX db: &lt;http://dbpedia.org/&gt;
 PREFIX dbont: &lt;http://dbpedia.org/ontology/&gt;
-PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;</query><query name="q-1-d" focus="false" active="true" mode="sparql">#
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;</query><query name="q-1-d" focus="false" listorder="8" taborder="8" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-d    - simple lookup of a fact - which team is David Villa on?
 #            similar to q-1-b ; we'll build on this query
@@ -106,7 +106,7 @@ PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
 select ?o 
 where {
   :David_Villa dbont:team ?o
-  }</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+  }</query><query name="sandbox" focus="false" listorder="9" taborder="9" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-e    - building on q-1-d; what is the name of the national team that the player called "David Villa" plays for?
 # 
@@ -127,7 +127,7 @@ PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
 PREFIX db:     &lt;http://dbpedia.org/&gt;
 PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
 PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
-PREFIX ex:     &lt;http://example.com/&gt;</query><query name="q-1-e" focus="false" active="true" mode="sparql">#
+PREFIX ex:     &lt;http://example.com/&gt;</query><query name="q-1-e" focus="false" listorder="10" taborder="10" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-e    - building on q-1-d; what is the name of the national team that the player called "David Villa" plays for?
 # 
@@ -156,7 +156,7 @@ where {
   ?playerURI    dbont:team  ?teamURI .
   ?teamURI      foaf:name   ?teamName .
   ?teamURI      ex:level    "national" .
-  }</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+  }</query><query name="sandbox" focus="false" listorder="11" taborder="11" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-e-ii - building on q-1-d; what is the name of the national team that the player called "David Villa" plays for?
 #            Alternative solution using FILTER 
@@ -182,7 +182,7 @@ PREFIX db:     &lt;http://dbpedia.org/&gt;
 PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
 PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
 PREFIX ex:     &lt;http://example.com/&gt;
-</query><query name="q-1-e-ii" focus="false" active="true" mode="sparql">#
+</query><query name="q-1-e-ii" focus="false" listorder="12" taborder="12" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-e-ii - building on q-1-d; what is the name of the national team that the player called "David Villa" plays for?
 #            Alternative solution using FILTER 
@@ -215,7 +215,7 @@ where {
   ?playerURI    dbont:team  ?teamURI .
   ?teamURI      foaf:name   ?teamName .
   FILTER    ( contains( ?teamURI, "national" ) )
-  }</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+  }</query><query name="sandbox" focus="false" listorder="13" taborder="13" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-f    - simple property path query
 #            list the players who played for each team in the 2010 World Cup Final
@@ -238,7 +238,7 @@ PREFIX db:     &lt;http://dbpedia.org/&gt;
 PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
 PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
 PREFIX ex:     &lt;http://example.com/&gt;
-</query><query name="q-1-f" focus="false" active="true" mode="sparql">#
+</query><query name="q-1-f" focus="false" listorder="14" taborder="14" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-f    - simple property path query
 #            list the players who played for each team in the 2010 World Cup Final
@@ -270,7 +270,7 @@ where {
   }
 ORDER BY ?playerName
 
-</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+</query><query name="sandbox" focus="false" listorder="15" taborder="15" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-g    - simple aggregate query with GROUP BY
 #            count the players who played for each team in the 2010 World Cup
@@ -288,7 +288,7 @@ prefix dbo: &lt;http://dbpedia.org/ontology/&gt;
 prefix dbp: &lt;http://dbpedia.org/property/&gt;
 prefix rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;
 prefix rdfs: &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
-</query><query name="q-1-g" focus="false" active="true" mode="sparql">#
+</query><query name="q-1-g" focus="false" listorder="16" taborder="16" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-g    - simple aggregate query with GROUP BY
 #            count the players who played for each team in the 2010 World Cup
@@ -316,7 +316,7 @@ where
 }
 group by ?natTeam
 order by desc( ?nplayers )
-</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+</query><query name="sandbox" focus="false" listorder="17" taborder="17" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-h    - more fun with paths
 #            show the population of the country that "David Villa" plays for
@@ -340,7 +340,7 @@ PREFIX ex:     &lt;http://example.com/&gt;
 PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
 PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
 PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
-</query><query name="q-1-h" focus="false" active="true" mode="sparql">#
+</query><query name="q-1-h" focus="false" listorder="18" taborder="18" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-h    - more fun with paths
 #            show the population of the country that "David Villa" plays for
@@ -373,7 +373,7 @@ where {
   }
 
 
-</query><query name="sandbox" focus="false" active="true" mode="sparql">#
+</query><query name="sandbox" focus="false" listorder="19" taborder="19" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-i    - simple INSERT
 #            insert a triple for each player over 2 meters, saying he's a giant
@@ -394,7 +394,7 @@ PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
 PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
 PREFIX dbper:  &lt;http://dbpedia.org/ontology/Person/&gt;
 PREFIX type:   &lt;http://dbpedia.org/datatype/&gt;
-</query><query name="q-1-i-i" focus="false" active="true" mode="sparql">#
+</query><query name="q-1-i-i" focus="false" listorder="20" taborder="20" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-i    - simple INSERT
 #            insert a triple for each player over 2 meters, saying he's a giant
@@ -408,67 +408,73 @@ PREFIX :       &lt;http://dbpedia.org/resource/&gt;
 PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
 PREFIX db:     &lt;http://dbpedia.org/&gt;
 PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
-PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX foaf: 	 &lt;http://xmlns.com/foaf/0.1/&gt;
 PREFIX ex:     &lt;http://example.com/&gt;
 PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
 PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
-PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX foaf: 	 &lt;http://xmlns.com/foaf/0.1/&gt;
 PREFIX dbper:  &lt;http://dbpedia.org/ontology/Person/&gt;
 PREFIX type:   &lt;http://dbpedia.org/datatype/&gt;
+PREFIX xs:     &lt;http://www.w3.org/2001/XMLSchema#&gt;
 
 select ?player ?height
   where { 
-     ?player dbper:height ?height filter (?height &gt; "200"^^type:centimetre) } 
-</query><query name="sandbox" focus="false" active="true" mode="sparql">#
-# Query 1  - simple SPARQL queries
-# q-1-i    - simple INSERT
-#            insert a triple for each player over 2 meters, saying he's a giant
-# q-1-i-ii - insert a triple for each "giant" you just found
-#
-# Things to note
-#            Set the "Query Type" in Query Console to "SPARQL Update" (above)
-#            The result should be "an empty sequence"
-#     
-#Author notes
-#
-PREFIX :       &lt;http://dbpedia.org/resource/&gt;
-PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
-PREFIX db:     &lt;http://dbpedia.org/&gt;
-PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
-PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
-PREFIX ex:     &lt;http://example.com/&gt;
-PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
-PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
-PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
-PREFIX dbper:  &lt;http://dbpedia.org/ontology/Person/&gt;
-PREFIX type:   &lt;http://dbpedia.org/datatype/&gt;
-</query><query name="q-1-i-ii" focus="false" active="true" mode="sparql-update">#
-# Query 1  - simple SPARQL queries
-# q-1-i    - simple INSERT
-#            insert a triple for each player over 2 meters, saying he's a giant
-# q-1-i-ii - insert a triple for each "giant" you just found
-#
-# Things to note
-#            Set the "Query Type" in Query Console to "SPARQL Update" (above)
-#            The result should be "an empty sequence"
-#     
-#Author notes
-#
-PREFIX :       &lt;http://dbpedia.org/resource/&gt;
-PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
-PREFIX db:     &lt;http://dbpedia.org/&gt;
-PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
-PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
-PREFIX ex:     &lt;http://example.com/&gt;
-PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
-PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
-PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
-PREFIX dbper:  &lt;http://dbpedia.org/ontology/Person/&gt;
-PREFIX type:   &lt;http://dbpedia.org/datatype/&gt;
+     ?player dbper:height ?height filter (xs:float(?height) &gt; 200.0 ) } 
+  order by desc( ?height )
 
-insert { ?player a &lt;giant&gt; }
+</query><query name="sandbox" focus="false" listorder="21" taborder="21" active="true" database="17653245913469553930" server="" mode="sparql">#
+# Query 1  - simple SPARQL queries
+# q-1-i    - simple INSERT
+#            insert a triple for each player over 2 meters, saying he's a giant
+# q-1-i-ii - insert a triple for each "giant" you just found
+#
+# Things to note
+#            Set the "Query Type" in Query Console to "SPARQL Update" (above)
+#            The result should be "an empty sequence"
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX dbper:  &lt;http://dbpedia.org/ontology/Person/&gt;
+PREFIX type:   &lt;http://dbpedia.org/datatype/&gt;
+</query><query name="q-1-i-ii" focus="false" listorder="22" taborder="22" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql-update">#
+# Query 1  - simple SPARQL queries
+# q-1-i    - simple INSERT
+#            insert a triple for each player over 2 meters, saying he's a giant
+# q-1-i-ii - insert a triple for each "giant" you just found
+#
+# Things to note
+#            Set the "Query Type" in Query Console to "SPARQL Update" (above)
+#            The result should be "an empty sequence"
+#     
+#Author notes
+#
+PREFIX :       &lt;http://dbpedia.org/resource/&gt;
+PREFIX dbprop: &lt;http://dbpedia.org/property/&gt;
+PREFIX db:     &lt;http://dbpedia.org/&gt;
+PREFIX dbont:  &lt;http://dbpedia.org/ontology/&gt;
+PREFIX foaf: 	 &lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX ex:     &lt;http://example.com/&gt;
+PREFIX wfbc:   &lt;http://www.daml.org/2001/09/countries/fips#&gt;
+PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
+PREFIX foaf: 	 &lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX dbper:  &lt;http://dbpedia.org/ontology/Person/&gt;
+PREFIX type:   &lt;http://dbpedia.org/datatype/&gt;
+PREFIX xs:     &lt;http://www.w3.org/2001/XMLSchema#&gt;
+
+insert { 
+   GRAPH &lt;mlw16&gt; { ?player a &lt;giant&gt; } }
 where {
-  ?player dbper:height ?height filter (?height &gt; "200"^^type:centimetre) } </query><query name="sandbox" focus="false" active="true" mode="sparql">#
+  ?player dbper:height ?height filter ( xs:float(?height) &gt; 200.0 ) } 
+</query><query name="sandbox" focus="false" listorder="23" taborder="23" active="true" database="17653245913469553930" server="" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-i    - simple INSERT
 #            insert a triple for each player over 2 meters, saying he's a giant
@@ -491,7 +497,7 @@ PREFIX wfb:    &lt;http://www.daml.org/2001/12/factbook/factbook-ont#&gt;
 PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
 PREFIX dbper:  &lt;http://dbpedia.org/ontology/Person/&gt;
 PREFIX type:   &lt;http://dbpedia.org/datatype/&gt;
-</query><query name="q-1-i-iii" focus="false" active="true" mode="sparql">#
+</query><query name="q-1-i-iii" focus="true" listorder="24" taborder="24" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql">#
 # Query 1  - simple SPARQL queries
 # q-1-i    - simple INSERT
 #            insert a triple for each player over 2 meters, saying he's a giant
@@ -515,4 +521,5 @@ PREFIX foaf: 	&lt;http://xmlns.com/foaf/0.1/&gt;
 PREFIX dbper:  &lt;http://dbpedia.org/ontology/Person/&gt;
 PREFIX type:   &lt;http://dbpedia.org/datatype/&gt;
 
-select * where { ?s a &lt;giant&gt; }</query></workspace></export>
+select * where { ?s a &lt;giant&gt; }
+</query></workspace></export>

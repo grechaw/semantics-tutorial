@@ -1,23 +1,23 @@
-set MLCP=.\mlcp-Hadoop2-1.3-1\bin\mlcp.bat
+set MLCP=.\mlcp-8.0-5\bin\mlcp.bat
 set USERNAME=admin
 set PASSWORD=admin
-set CURL=curl-7.3.0-win64-ssl-sspi\curl.exe -X PUT --digest --user %USERNAME%:%PASSWORD%
+set CURL=.\curl\curl.exe -X PUT --digest --user %USERNAME%:%PASSWORD%
 set PWD=%~dp0
 set PWD=%PWD:\=/%
 
 rem setup the database and apperserver.
 
+echo off
 echo "Configuring database"
-rem %CURL% -Hcontent-type:application/json -d@database-properties.json "http://localhost:8002/manage/v2/databases/Documents/properties?group-id=Default"
 %CURL% -Hcontent-type:application/json -d@database-properties.json "http://localhost:8002/manage/v2/databases/Documents/properties"
 
 echo "Installing HTML page server extension"
-%CURL% -Hcontent-type:application/javascript -d@htmlServer.sjs http://localhost:8000/v1/config/resources/htmlServer 
+%CURL% -Hcontent-type:application/javascript -d@htmlServer.sjs http://localhost:8000/v1/config/resources/htmlServer
 
 
 echo "Installing the semantic extensions"
-%CURL% -Hcontent-type:application/javascript -d@inferringQuery.sjs http://localhost:8000/v1/config/resources/inferringQuery 
-%CURL% -Hcontent-type:application/javascript -d@semanticExtension.sjs http://localhost:8000/v1/config/resources/semanticExtension 
+%CURL% -Hcontent-type:application/javascript -d@inferringQuery.sjs http://localhost:8000/v1/config/resources/inferringQuery
+%CURL% -Hcontent-type:application/javascript -d@semanticExtension.sjs http://localhost:8000/v1/config/resources/semanticExtension
 
 
 echo "loading data..."

@@ -1,4 +1,4 @@
-<export><workspace name="mlw-sw-6"><query name="sandbox" focus="true" active="true" mode="xquery">(:
+<export><workspace name="mlw-sw-6"><query name="sandbox" focus="false" listorder="1" taborder="1" active="true" database="17653245913469553930" server="7012470292189676474" mode="xquery">(:
 # enrich a match report - show injuries as triples
 #
 # If the query fails, check out PATCH-add-matches to add the documents you're enriching
@@ -6,7 +6,7 @@
 :)
 
 import module namespace sem = "http://marklogic.com/semantics" at "MarkLogic/semantics.xqy";
-</query><query name="q-6-enrich" focus="false" active="true" mode="xquery">(:
+</query><query name="q-6-enrich" focus="false" listorder="2" taborder="2" active="true" database="17653245913469553930" server="7012470292189676474" mode="xquery">(:
 # enrich a match report - show injuries as triples
 #
 # If the query fails, check out PATCH-add-matches to add the documents you're enriching
@@ -33,24 +33,24 @@ xdmp:node-insert-after(
   }
   &lt;/sem:triples&gt;
   
-)</query><query name="check-enrich-doc" focus="false" active="true" mode="xquery">(:
+)</query><query name="check-enrich-doc" focus="false" listorder="3" taborder="3" active="true" database="17653245913469553930" server="7012470292189676474" mode="xquery">(:
 # check enrichment - show the document
 #
 :)
 
 xquery version "1.0-ml";
 
-fn:doc( "/matches/2010_FIFA_WORLD_CUP_special_1.xml" )</query><query name="sandbox" focus="false" active="true" mode="sparql">
+fn:doc( "/matches/2010_FIFA_WORLD_CUP_special_1.xml" )</query><query name="sandbox" focus="false" listorder="4" taborder="4" active="true" database="17653245913469553930" server="" mode="sparql">
 #
 # check enrichment - show the triples
 #
 
-</query><query name="check-enrich-sparql" focus="false" active="true" mode="sparql">
+</query><query name="check-enrich-sparql" focus="false" listorder="5" taborder="5" active="true" database="17653245913469553930" server="7012470292189676474" mode="sparql">
 #
 # check enrichment - show the triples
 #
 
-  select ?s ?p ?o where { ?s ?p ?o filter (?p=&lt;http://example.com/hasInjury&gt;) }</query><query name="sandbox" focus="false" active="true" mode="xquery">(:
+  select ?s ?p ?o where { ?s ?p ?o filter (?p=&lt;http://example.com/hasInjury&gt;) }</query><query name="sandbox" focus="false" listorder="6" taborder="6" active="true" database="17653245913469553930" server="" mode="xquery">(:
 #
 # Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
 #            - restrict a SPARQL query by properties of the document it's in
@@ -99,7 +99,7 @@ his hat-trick – the first of these finals – to make it 4-0.
 
 xquery version "1.0-ml";
 import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
-</query><query name="q-6-a" focus="false" active="true" mode="xquery">(:
+</query><query name="q-6-a" focus="false" listorder="7" taborder="7" active="true" database="17653245913469553930" server="7012470292189676474" mode="xquery">(:
 #
 # Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
 #            - restrict a SPARQL query by properties of the document it's in
@@ -169,7 +169,7 @@ let $injury :=
     )
 
 return $injury
-</query><query name="sandbox" focus="false" active="true" mode="javascript">/*
+</query><query name="sandbox" focus="false" listorder="8" taborder="8" active="true" database="17653245913469553930" server="" mode="javascript">/*
 #
 # Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
 #            - restrict a SPARQL query by properties of the document it's in
@@ -215,7 +215,7 @@ his hat-trick – the first of these finals – to make it 4-0.
 # dummy match reports at /matches/2010_FIFA_WORLD_CUP_special_1 and /matches/2010_FIFA_WORLD_CUP_special_2
 # - see workspace mlw-data-changes-1 , query add-matches
 */
-</query><query name="q-6-a-j" focus="false" active="true" mode="javascript">/*
+</query><query name="q-6-a-j" focus="false" listorder="9" taborder="9" active="true" database="17653245913469553930" server="7012470292189676474" mode="javascript">/*
 #
 # Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
 #            - restrict a SPARQL query by properties of the document it's in
@@ -281,7 +281,7 @@ var injury =
     )
 
  injury
-</query><query name="sandbox" focus="false" active="true" mode="xquery">(:
+</query><query name="sandbox" focus="false" listorder="10" taborder="10" active="true" database="17653245913469553930" server="" mode="xquery">(:
 #
 # Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
 #            - find the document that matches a triple pattern
@@ -334,7 +334,7 @@ his hat-trick – the first of these finals – to make it 4-0.
 
 xquery version "1.0-ml";
 import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
-</query><query name="q-6-b" focus="false" active="true" mode="xquery">(:
+</query><query name="q-6-b" focus="false" listorder="11" taborder="11" active="true" database="17653245913469553930" server="7012470292189676474" mode="xquery">(:
 #
 # Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
 #            - find the document that matches a triple pattern
@@ -400,7 +400,7 @@ let $cts-query :=
 let $doc :=
   cts:search( fn:collection(), $cts-query )
 return $doc
-</query><query name="sandbox" focus="false" active="true" mode="javascript">/*
+</query><query name="sandbox" focus="false" listorder="12" taborder="12" active="true" database="17653245913469553930" server="" mode="javascript">/*
 #
 # Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
 #            - find the document that matches a triple pattern
@@ -450,7 +450,7 @@ his hat-trick – the first of these finals – to make it 4-0.
 #Author notes
 #
 */
-</query><query name="q-6-b-j" focus="false" active="true" mode="javascript">/*
+</query><query name="q-6-b-j" focus="false" listorder="13" taborder="13" active="true" database="17653245913469553930" server="7012470292189676474" mode="javascript">/*
 #
 # Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
 #            - find the document that matches a triple pattern
@@ -514,7 +514,7 @@ var doc =
   cts.search( ctsQuery ) ;
 
  doc
-</query><query name="sandbox" focus="false" active="true" mode="xquery">(:
+</query><query name="sandbox" focus="false" listorder="14" taborder="14" active="true" database="17653245913469553930" server="" mode="xquery">(:
 #
 # Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
 #            - find the document that matches a triple pattern
@@ -569,7 +569,7 @@ xquery version "1.0-ml";
 import module namespace sem = "http://marklogic.com/semantics" at "/MarkLogic/semantics.xqy";
 
 let $word-text := "hat-trick"
-</query><query name="q-6-c" focus="false" active="true" mode="xquery">(:
+</query><query name="q-6-c" focus="false" listorder="15" taborder="15" active="true" database="17653245913469553930" server="7012470292189676474" mode="xquery">(:
 #
 # Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
 #            - find the document that matches a triple pattern
@@ -653,7 +653,7 @@ let $doc :=
 (: return just the report element out of the document :)
 return 
   $doc//report
-</query><query name="sandbox" focus="false" active="true" mode="javascript">/*
+</query><query name="sandbox" focus="false" listorder="16" taborder="16" active="true" database="17653245913469553930" server="" mode="javascript">/*
 #
 # Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
 #            - find the document that matches a triple pattern
@@ -706,7 +706,7 @@ his hat-trick – the first of these finals – to make it 4-0.
 
 
 var wordText = "hat-trick" ;
-</query><query name="q-6-c-j" focus="false" active="true" mode="javascript">/*
+</query><query name="q-6-c-j" focus="false" listorder="17" taborder="17" active="true" database="17653245913469553930" server="7012470292189676474" mode="javascript">/*
 #
 # Query 6 - combination query (embedded triples). Use the fact that triples are inside a document to query both together
 #            - find the document that matches a triple pattern
@@ -788,7 +788,7 @@ var doc =
 // return the document 
 
   doc
-</query><query name="PATCH-add-matches" focus="false" active="true" mode="xquery">(:
+</query><query name="PATCH-add-matches" focus="true" listorder="18" taborder="18" active="true" database="17653245913469553930" server="7012470292189676474" mode="xquery">(:
 # PATCH the data to include additional match reports
 :)
 
@@ -814,7 +814,9 @@ scoring again, however, and 12 minutes from time Muller completed
 his hat-trick – the first of these finals – to make it 4-0.  
   &lt;/report&gt;
   &lt;goals&gt;4&lt;/goals&gt;
-&lt;/match&gt;
+&lt;/match&gt; ,
+  xdmp:default-permissions(),
+  "mlw16"
     ) ;
 
 xdmp:document-insert(
@@ -846,6 +848,8 @@ xdmp:document-insert(
   Underneath he had a white vest with the handwritten message: "Dani Jarque siempre con nosotros" ("Dani Jarque, always with us").
   &lt;/report&gt;
   &lt;goals&gt;4&lt;/goals&gt;
-&lt;/match&gt;
+&lt;/match&gt;,
+  xdmp:default-permissions(),
+  "mlw16"
     ) ;
 </query></workspace></export>
